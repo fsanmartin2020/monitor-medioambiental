@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monitor Medioambiental Chile</title>
+  <style>
+    /* ── Reset y variables ─────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --verde:        #1a5c35;
+      --verde-claro:  #e8f5ed;
+      --verde-hover:  #145029;
+      --gris-bg:      #f5f6f8;
+      --gris-borde:   #dee2e6;
+      --gris-texto:   #6c757d;
+      --texto:        #212529;
+      --blanco:       #ffffff;
+      --alerta:       #856404;
+      --alerta-bg:    #fff3cd;
+      --radio:        6px;
+      --sombra:       0 1px 4px rgba(0,0,0,.08);
+    }
+
+    html { font-size: 15px; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   Helvetica, Arial, sans-serif;
+      background: var(--gris-bg);
+      color: var(--texto);
+      min-height: 100vh;
+    }
+
+    /* ── Header ────────────────────────────────────────────────── */
+    .header {
+      background: var(--verde);
+      color: var(--blanco);
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .header-icon {
+      font-size: 1.75rem;
+      line-height: 1;
+    }
+    .header-text h1 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: .01em;
+    }
+    .header-text p {
+      font-size: .8rem;
+      opacity: .85;
+      margin-top: .15rem;
+    }
+    .header-meta {
+      margin-left: auto;
+      text-align: right;
+      font-size: .78rem;
+      opacity: .85;
+      line-height: 1.5;
+    }
+
+    /* ── Contenedor principal ───────────────────────────────────── */
+    .main {
+      max-width: 1200px;
+      margin: 1.5rem auto;
+      padding: 0 1rem;
+    }
+
+    /* ── Barra de estadísticas ──────────────────────────────────── */
+    .stats-bar {
+      display: flex;
+      gap: .75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+    }
+    .stat-chip {
+      background: var(--blanco);
+      border: 1px solid var(--gris-borde);
+      border-radius: 20px;
+      padding: .3rem .85rem;
+      font-size: .8rem;
+      color: var(--gris-texto);
+      display: flex;
+      align-items: center;
+      gap: .35rem;
+      box-shadow: var(--sombra);
+    }
+    .stat-chip strong { color: var(--verde); }
+
+    /* ── Controles de filtro ────────────────────────────────────── */
+    .controles {
+      background: var(--blanco);
+      border: 1px solid var(--gris-borde);
+      border-radius: var(--radio);
+      padding: .75rem 1rem;
+      margin-bottom: 1rem;
+      display: flex;
+      gap: .75rem;
+      align-items: center;
+      flex-wrap: wrap;
+      box-shadow: var(--sombra);
+    }
+    .controles label {
+      font-size: .8rem;
+      color: var(--gris-texto);
+      white-space: nowrap;
+    }
+    .controles input[type="text"],
+    .controles select {
+      border: 1px solid var(--gris-borde);
+      border-radius: var(--radio);
+      padding: .4rem .7rem;
+      font-size: .85rem;
+      color: var(--texto);
+      outline: none;
+      background: var(--gris-bg);
+      transition: border-color .15s;
+    }
+    .controles input[type="text"] { flex: 1; min-width: 180px; }
+    .controles input[type="text"]:focus,
+    .controles select:focus { border-color: var(--verde); background: var(--blanco); }
+
+    .btn-limpiar {
+      background: none;
+      border: 1px solid var(--gris-borde);
+      border-radius: var(--radio);
+      padding: .4rem .8rem;
+      font-size: .8rem;
+      color: var(--gris-texto);
+      cursor: pointer;
+      transition: background .15s, color .15s;
+      white-space: nowrap;
+    }
+    .btn-limpiar:hover { background: var(--gris-bg); color: var(--texto); }
+
+    .conteo-filtro {
+      margin-left: auto;
+      font-size: .8rem;
+      color: var(--gris-texto);
+      white-space: nowrap;
+    }
+
+    /* ── Alerta sin clave Gemini ────────────────────────────────── */
+    .alerta {
+      background: var(--alerta-bg);
+      border: 1px solid #ffc107;
+      border-radius: var(--radio);
+      padding: .6rem 1rem;
+      font-size: .82rem;
+      color: var(--alerta);
+      margin-bottom: 1rem;
+    }
+
+    /* ── Tabla ──────────────────────────────────────────────────── */
+    .tabla-wrapper {
+      background: var(--blanco);
+      border: 1px solid var(--gris-borde);
+      border-radius: var(--radio);
+      overflow: hidden;
+      box-shadow: var(--sombra);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+    thead th {
+      background: var(--verde);
+      color: var(--blanco);
+      padding: .7rem 1rem;
+      text-align: left;
+      font-size: .8rem;
+      font-weight: 600;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      user-select: none;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    thead th:hover { background: var(--verde-hover); }
+    thead th .sort-arrow { margin-left: .3em; opacity: .6; }
+    thead th.sorted { background: var(--verde-hover); }
+    thead th.sorted .sort-arrow { opacity: 1; }
+
+    /* Anchos de columna */
+    .col-fuente  { width: 16%; }
+    .col-titular { width: 60%; }
+    .col-fecha   { width: 10%; }
+    .col-link    { width: 14%; }
+
+    tbody tr { border-bottom: 1px solid var(--gris-borde); }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:nth-child(even) { background: var(--verde-claro); }
+    tbody tr:hover { background: #d4edda; }
+
+    tbody td {
+      padding: .65rem 1rem;
+      font-size: .875rem;
+      vertical-align: top;
+    }
+
+    .fuente-badge {
+      display: inline-block;
+      background: var(--verde-claro);
+      color: var(--verde);
+      border: 1px solid #b2d8c0;
+      border-radius: 4px;
+      padding: .15rem .45rem;
+      font-size: .75rem;
+      font-weight: 600;
+      white-space: nowrap;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    tbody tr:nth-child(even) .fuente-badge { background: #c3e6cb; }
+
+    .titular-texto {
+      color: var(--texto);
+      line-height: 1.45;
+      word-break: break-word;
+    }
+
+    .fecha-texto {
+      color: var(--gris-texto);
+      font-size: .8rem;
+      white-space: nowrap;
+    }
+
+    .btn-leer {
+      display: inline-flex;
+      align-items: center;
+      gap: .3rem;
+      background: var(--verde);
+      color: var(--blanco);
+      text-decoration: none;
+      border-radius: var(--radio);
+      padding: .35rem .65rem;
+      font-size: .78rem;
+      font-weight: 500;
+      transition: background .15s;
+      white-space: nowrap;
+    }
+    .btn-leer:hover { background: var(--verde-hover); }
+    .btn-leer svg { flex-shrink: 0; }
+
+    /* ── Estados especiales ─────────────────────────────────────── */
+    .estado {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--gris-texto);
+    }
+    .estado .icono { font-size: 2.5rem; margin-bottom: .75rem; }
+    .estado h2 { font-size: 1.1rem; margin-bottom: .4rem; color: var(--texto); }
+    .estado p  { font-size: .875rem; }
+
+    .spinner {
+      width: 40px; height: 40px;
+      border: 4px solid var(--gris-borde);
+      border-top-color: var(--verde);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto .75rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ─────────────────────────────────────────────────── */
+    .footer {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      font-size: .78rem;
+      color: var(--gris-texto);
+    }
+    .footer a { color: var(--verde); text-decoration: none; }
+    .footer a:hover { text-decoration: underline; }
+
+    /* ── Responsivo ──────────────────────────────────────────────── */
+    @media (max-width: 768px) {
+      .header { padding: 1rem; }
+      .header-meta { display: none; }
+      .col-fuente { width: 22%; }
+      .col-titular { width: 55%; }
+      .col-fecha { display: none; }
+      .col-link { width: 23%; }
+      .fecha-texto { display: none; }
+      tbody td { padding: .55rem .65rem; font-size: .82rem; }
+      .stats-bar { gap: .5rem; }
+      .controles { flex-direction: column; align-items: stretch; }
+      .controles input[type="text"] { min-width: unset; }
+      .conteo-filtro { margin-left: 0; }
+    }
+
+    @media (max-width: 480px) {
+      .col-link { display: none; }
+      .col-titular { width: 78%; }
+      .titular-texto a { color: var(--verde); text-decoration: underline; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════════════ HEADER -->
+<header class="header">
+  <div class="header-icon">🌿</div>
+  <div class="header-text">
+    <h1>Monitor de Noticias Medioambientales</h1>
+    <p>Derecho Medioambiental &mdash; Chile &mdash; Actualización automática diaria</p>
+  </div>
+  <div class="header-meta" id="header-meta">
+    Cargando&hellip;
+  </div>
+</header>
+
+<!-- ════════════════════════════════════════════════════════════ MAIN -->
+<main class="main">
+
+  <!-- Estadísticas -->
+  <div class="stats-bar" id="stats-bar" style="display:none">
+    <div class="stat-chip">📰 <strong id="stat-total">—</strong> noticias hoy</div>
+    <div class="stat-chip">🔄 Actualizado <strong id="stat-fecha">—</strong></div>
+    <div class="stat-chip" id="stat-gemini" style="display:none"></div>
+    <div class="stat-chip" id="stat-filtradas" style="display:none">
+      🔍 Mostrando <strong id="stat-n-filtradas">—</strong>
+    </div>
+  </div>
+
+  <!-- Alerta Gemini no disponible -->
+  <div class="alerta" id="alerta-gemini" style="display:none">
+    ⚠️ <strong>Atención:</strong> La clasificación automática con IA no está activa.
+    Se muestran todas las noticias encontradas sin filtro de relevancia.
+    Configura <code>GEMINI_API_KEY</code> en los secrets de GitHub para activarla.
+  </div>
+
+  <!-- Controles de filtro -->
+  <div class="controles" id="controles" style="display:none">
+    <label for="buscar">Buscar:</label>
+    <input type="text" id="buscar" placeholder="Titular, fuente o fecha…" autocomplete="off" />
+
+    <label for="filtro-fuente">Fuente:</label>
+    <select id="filtro-fuente">
+      <option value="">Todas las fuentes</option>
+    </select>
+
+    <label for="filtro-fecha">Fecha:</label>
+    <input type="date" id="filtro-fecha" style="border:1px solid var(--gris-borde);border-radius:var(--radio);padding:.4rem .7rem;font-size:.85rem;background:var(--gris-bg);" />
+
+    <button class="btn-limpiar" id="btn-limpiar">✕ Limpiar</button>
+    <span class="conteo-filtro" id="conteo-filtro"></span>
+  </div>
+
+  <!-- Área de contenido principal -->
+  <div id="contenido">
+    <!-- Estado de carga -->
+    <div class="estado" id="estado-carga">
+      <div class="spinner"></div>
+      <h2>Cargando noticias&hellip;</h2>
+      <p>Conectando con la base de datos…</p>
+    </div>
+  </div>
+
+</main>
+
+<!-- ════════════════════════════════════════════════════════════ FOOTER -->
+<footer class="footer">
+  <p>
+    Monitor Medioambiental Chile &mdash; 69 fuentes &mdash;
+    Actualización automática a las 08:00 hrs (hora de Chile)
+    &mdash; <a href="https://github.com" target="_blank">Ver repositorio</a>
+  </p>
+</footer>
+
+<!-- ════════════════════════════════════════════════════════════ SCRIPT -->
+<script>
+(function () {
+  'use strict';
+
+  // ── Estado global ────────────────────────────────────────────────
+  let noticiasOriginales = [];
+  let noticiasFiltradas  = [];
+  let ordenColumna       = 'fecha';
+  let ordenAscendente    = false;  // fecha descendente por defecto
+
+  // ── Utilidades ───────────────────────────────────────────────────
+  function esc(str) {
+    return String(str || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function formatearFecha(iso) {
+    if (!iso) return '—';
+    try {
+      const [y, m, d] = iso.split('-');
+      return `${d}/${m}/${y}`;
+    } catch { return iso; }
+  }
+
+  function formatearDatetime(iso) {
+    if (!iso) return 'sin datos';
+    try {
+      const d = new Date(iso);
+      return d.toLocaleString('es-CL', {
+        timeZone: 'America/Santiago',
+        day: '2-digit', month: 'short', year: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      }) + ' hrs';
+    } catch { return iso; }
+  }
+
+  // ── Renderizado de la tabla ──────────────────────────────────────
+  function renderTabla(noticias) {
+    const contenido = document.getElementById('contenido');
+
+    if (noticias.length === 0) {
+      contenido.innerHTML = `
+        <div class="estado">
+          <div class="icono">📭</div>
+          <h2>No se encontraron noticias</h2>
+          <p>
+            ${noticiasFiltradas.length === 0 && noticiasOriginales.length === 0
+              ? 'No se encontraron noticias relevantes para hoy. Vuelve mañana o ejecuta el scraper manualmente.'
+              : 'No hay noticias que coincidan con los filtros aplicados. Prueba ajustando la búsqueda.'}
+          </p>
+        </div>`;
+      return;
+    }
+
+    const arrowFor = (col) => {
+      if (ordenColumna !== col) return '<span class="sort-arrow">↕</span>';
+      return `<span class="sort-arrow">${ordenAscendente ? '↑' : '↓'}</span>`;
+    };
+
+    const thClass = (col) => ordenColumna === col ? 'sorted' : '';
+
+    const filas = noticias.map(n => `
+      <tr>
+        <td class="col-fuente">
+          <span class="fuente-badge" title="${esc(n.fuente)}">${esc(n.fuente)}</span>
+        </td>
+        <td class="col-titular">
+          <span class="titular-texto">
+            <a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer"
+               style="color:inherit;text-decoration:none;"
+               onmouseover="this.style.color='var(--verde)'"
+               onmouseout="this.style.color='inherit'">
+              ${esc(n.titular)}
+            </a>
+          </span>
+        </td>
+        <td class="col-fecha">
+          <span class="fecha-texto">${formatearFecha(n.fecha)}</span>
+        </td>
+        <td class="col-link">
+          <a class="btn-leer" href="${esc(n.url)}" target="_blank" rel="noopener noreferrer">
+            <svg width="11" height="11" viewBox="0 0 16 16" fill="currentColor">
+              <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+              <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+            </svg>
+            Leer nota
+          </a>
+        </td>
+      </tr>`).join('');
+
+    contenido.innerHTML = `
+      <div class="tabla-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th class="col-fuente ${thClass('fuente')}"
+                  onclick="window._ordenar('fuente')">
+                Fuente ${arrowFor('fuente')}
+              </th>
+              <th class="col-titular ${thClass('titular')}"
+                  onclick="window._ordenar('titular')">
+                Titular ${arrowFor('titular')}
+              </th>
+              <th class="col-fecha ${thClass('fecha')}"
+                  onclick="window._ordenar('fecha')">
+                Fecha ${arrowFor('fecha')}
+              </th>
+              <th class="col-link">Enlace</th>
+            </tr>
+          </thead>
+          <tbody>${filas}</tbody>
+        </table>
+      </div>`;
+  }
+
+  // ── Ordenamiento ─────────────────────────────────────────────────
+  window._ordenar = function (columna) {
+    if (ordenColumna === columna) {
+      ordenAscendente = !ordenAscendente;
+    } else {
+      ordenColumna   = columna;
+      ordenAscendente = columna !== 'fecha'; // fecha: desc por defecto
+    }
+    aplicarFiltros();
+  };
+
+  // ── Filtros y búsqueda ───────────────────────────────────────────
+  function aplicarFiltros() {
+    const buscarVal    = document.getElementById('buscar').value.trim().toLowerCase();
+    const fuenteVal    = document.getElementById('filtro-fuente').value;
+    const fechaVal     = document.getElementById('filtro-fecha').value;
+
+    noticiasFiltradas = noticiasOriginales.filter(n => {
+      if (fuenteVal && n.fuente !== fuenteVal)  return false;
+      if (fechaVal  && n.fecha  !== fechaVal)   return false;
+      if (buscarVal) {
+        const haystack = `${n.titular} ${n.fuente} ${n.fecha}`.toLowerCase();
+        if (!haystack.includes(buscarVal)) return false;
+      }
+      return true;
+    });
+
+    // Ordenar
+    noticiasFiltradas.sort((a, b) => {
+      const va = (a[ordenColumna] || '').toLowerCase();
+      const vb = (b[ordenColumna] || '').toLowerCase();
+      const cmp = va < vb ? -1 : va > vb ? 1 : 0;
+      return ordenAscendente ? cmp : -cmp;
+    });
+
+    renderTabla(noticiasFiltradas);
+
+    // Actualizar conteo
+    const statFiltradas = document.getElementById('stat-filtradas');
+    const nFiltradas    = document.getElementById('stat-n-filtradas');
+    if (buscarVal || fuenteVal || fechaVal) {
+      statFiltradas.style.display = 'flex';
+      nFiltradas.textContent = noticiasFiltradas.length;
+    } else {
+      statFiltradas.style.display = 'none';
+    }
+    document.getElementById('conteo-filtro').textContent =
+      `${noticiasFiltradas.length} de ${noticiasOriginales.length} noticias`;
+  }
+
+  // ── Poblar select de fuentes ─────────────────────────────────────
+  function poblarFuentes(noticias) {
+    const fuentes = [...new Set(noticias.map(n => n.fuente))].sort();
+    const sel = document.getElementById('filtro-fuente');
+    fuentes.forEach(f => {
+      const opt = document.createElement('option');
+      opt.value = f;
+      opt.textContent = f;
+      sel.appendChild(opt);
+    });
+  }
+
+  // ── Inicialización ───────────────────────────────────────────────
+  async function init() {
+    try {
+      const resp = await fetch('data/noticias.json?t=' + Date.now());
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const data = await resp.json();
+
+      noticiasOriginales = data.noticias || [];
+
+      // Header meta
+      document.getElementById('header-meta').innerHTML =
+        `🕐 Última actualización:<br>${formatearDatetime(data.fecha_actualizacion)}`;
+
+      // Stats bar
+      document.getElementById('stat-total').textContent = noticiasOriginales.length;
+      document.getElementById('stat-fecha').textContent =
+        data.fecha_actualizacion
+          ? formatearFecha(data.fecha_actualizacion.split('T')[0])
+          : '—';
+      document.getElementById('stats-bar').style.display = 'flex';
+
+      // Alerta Gemini
+      if (data.gemini_disponible === false) {
+        document.getElementById('stat-gemini').style.display = 'flex';
+        document.getElementById('stat-gemini').innerHTML = '⚠️ Sin filtro IA';
+        document.getElementById('alerta-gemini').style.display = 'block';
+      }
+
+      // Controles
+      document.getElementById('controles').style.display = 'flex';
+
+      // Poblar fuentes
+      poblarFuentes(noticiasOriginales);
+
+      // Aplicar filtros iniciales (ordena por fecha desc)
+      noticiasFiltradas = [...noticiasOriginales];
+      aplicarFiltros();
+
+      // Eventos de filtro
+      ['buscar', 'filtro-fuente', 'filtro-fecha'].forEach(id => {
+        document.getElementById(id).addEventListener('input', aplicarFiltros);
+        document.getElementById(id).addEventListener('change', aplicarFiltros);
+      });
+      document.getElementById('btn-limpiar').addEventListener('click', () => {
+        document.getElementById('buscar').value = '';
+        document.getElementById('filtro-fuente').value = '';
+        document.getElementById('filtro-fecha').value = '';
+        aplicarFiltros();
+      });
+
+    } catch (err) {
+      console.error('Error cargando noticias:', err);
+
+      // Estado de error
+      const esVacio = err.message.includes('404') || err.message.includes('JSON');
+      document.getElementById('contenido').innerHTML = `
+        <div class="estado">
+          <div class="icono">${esVacio ? '🌱' : '❌'}</div>
+          <h2>${esVacio
+            ? 'El monitor aún no tiene datos'
+            : 'No se pudo cargar la información'}</h2>
+          <p>${esVacio
+            ? 'Ejecuta el scraper por primera vez (GitHub Actions → Run workflow) para generar las noticias iniciales.'
+            : 'Ocurrió un error al conectar. Recarga la página o revisa el repositorio de GitHub.'}</p>
+        </div>`;
+      document.getElementById('header-meta').textContent = 'Sin datos aún';
+    }
+  }
+
+  // Arrancar
+  document.addEventListener('DOMContentLoaded', init);
+})();
+</script>
+
+</body>
+</html>
