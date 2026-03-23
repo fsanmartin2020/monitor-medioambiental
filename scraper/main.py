@@ -503,40 +503,80 @@ def procesar_fuente(fuente: dict) -> list:
 # ---------------------------------------------------------------------------
 
 PROMPT_TEMPLATE = """\
-Eres un asistente experto en derecho medioambiental chileno.
-Para cada uno de los siguientes titulares de noticias, determina si es \
-relevante para un abogado especializado en derecho medioambiental en Chile.
+Eres un clasificador experto en derecho medioambiental chileno.
+Tu única tarea: decidir si cada titular es relevante para un abogado \
+especializado en derecho medioambiental en Chile.
 
-Temas RELEVANTES (incluir):
-- Regulación y normativa ambiental (leyes, decretos, reglamentos)
-- Contaminación (agua, aire, suelo, ruido)
-- Recursos naturales: agua, bosques, pesca, fauna, suelos
-- Minería y sus impactos ambientales
-- Evaluación de Impacto Ambiental (EIA / DIA / SEIA)
-- Sanciones, multas y procesos ante la SMA o tribunales ambientales
-- Biodiversidad y áreas protegidas (parques, reservas, humedales)
-- Cambio climático: políticas, metas, legislación
-- Derecho indígena y territorio en contexto ambiental
-- Residuos, RETC, sustancias peligrosas
-- Energías renovables y su marco regulatorio
-- Acuerdo de Escazú
-- Fallos de tribunales ambientales o Corte Suprema en materia ambiental
-- Conflictos socioambientales
-- Proyectos de inversión sujetos a evaluación ambiental
+Temas RELEVANTES (responder "si"):
+- Regulación y normativa ambiental (leyes, decretos, reglamentos, instructivos)
+- Contaminación (agua, aire, suelo, ruido, lumínica)
+- Recursos naturales: agua, bosques, pesca, fauna silvestre, suelos
+- Minería e hidrocarburos: impactos ambientales, pasivos, permisos
+- Evaluación de Impacto Ambiental (EIA / DIA / SEIA): aprobaciones, rechazos, recursos
+- Sanciones, multas, procesos ante la SMA o Tribunales Ambientales
+- Biodiversidad y áreas protegidas (parques nacionales, reservas, humedales, glaciares)
+- Cambio climático: políticas, metas NDC, legislación, carbono
+- Derecho indígena y territorio con componente ambiental (consulta, afectación)
+- Residuos, RETC, sitios contaminados, sustancias peligrosas
+- Energías renovables y su regulación (permisos, impactos, tarifas)
+- Acuerdo de Escazú y tratados ambientales internacionales
+- Fallos de Tribunales Ambientales o Corte Suprema en materia ambiental
+- Conflictos socioambientales o demandas ciudadanas por daño ambiental
+- Proyectos de inversión sujetos a evaluación o permiso ambiental
 
-Temas NO RELEVANTES (excluir):
-- Deportes, espectáculos, farándula, cultura
-- Política electoral sin relación directa con legislación ambiental
-- Economía y finanzas sin relación con recursos naturales
-- Tecnología y startups sin componente ambiental
-- Noticias sociales generales
-- Accidentes de tránsito, delincuencia, salud (salvo contaminación)
+Temas NO RELEVANTES (responder "no") — incluyendo casos límite:
+- Deportes, espectáculos, farándula, cultura, gastronomía
+- Política electoral, partidos, elecciones, sin vínculo directo con legislación ambiental
+- Economía, finanzas, bolsa, inflación sin relación con recursos naturales
+- Tecnología, startups, IA, ciberseguridad sin componente ambiental
+- Noticias sociales, educación, salud general (salvo contaminación)
+- Accidentes de tránsito, delincuencia, narcotráfico
+- Noticias de empresas mineras/energéticas que traten solo de resultados financieros,
+  producción o precios, sin mencionar impacto o regulación ambiental
+- Inauguraciones o eventos sin componente normativo o ambiental
 
-Responde ÚNICAMENTE con un array JSON de "si" o "no", uno por titular en el mismo orden.
-Ejemplo: ["si","no","si","no","si"]
+INSTRUCCIONES DE FORMATO (es crítico que las sigas exactamente):
+1. Responde SOLO con un array JSON, sin texto antes ni después.
+2. El array debe tener exactamente {n} elementos, uno por titular, en el mismo orden.
+3. Cada elemento es la cadena "si" o la cadena "no" (sin mayúsculas, sin acentos).
+4. Ante la duda, prefiere "no".
+
+Ejemplo de respuesta correcta para 4 titulares: ["si","no","si","no"]
 
 Titulares:
 {titulares}"""
+
+
+MAX_REINTENTOS_GEMINI = 2  # reintentos por batch antes de descartar
+
+
+def _extraer_json_array(texto: str) -> list | None:
+    """
+    Extrae un array JSON de la respuesta de Gemini de forma robusta.
+    Primero intenta parse directo; si falla, busca el primer [...] con regex.
+    """
+    # Limpiar bloques de código markdown
+    texto = re.sub(r"```(?:json)?", "", texto).strip("` \n")
+
+    # Intento 1: parse directo
+    try:
+        resultado = json.loads(texto)
+        if isinstance(resultado, list):
+            return resultado
+    except json.JSONDecodeError:
+        pass
+
+    # Intento 2: buscar primer array con regex
+    match = re.search(r'\[[\s\S]*?\]', texto)
+    if match:
+        try:
+            resultado = json.loads(match.group())
+            if isinstance(resultado, list):
+                return resultado
+        except json.JSONDecodeError:
+            pass
+
+    return None
 
 
 def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
@@ -544,6 +584,7 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
     Clasifica los artículos usando Gemini.
     Devuelve (lista_relevantes, gemini_disponible).
     Si Gemini no está disponible, devuelve todos los artículos.
+    Ante fallo irrecuperable de un batch, lo descarta (conservador: menos ruido).
     """
     if not GEMINI_API_KEY:
         logger.warning("GEMINI_API_KEY no configurada — se muestran todas las noticias sin filtrar")
@@ -562,43 +603,64 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
 
     relevantes = []
     total_batches = (len(articulos) + BATCH_SIZE - 1) // BATCH_SIZE
+    batches_fallidos = 0
+
+    POSITIVOS = ("si", "sí", "yes", "true", "1")
 
     for batch_idx, i in enumerate(range(0, len(articulos), BATCH_SIZE), start=1):
         batch = articulos[i : i + BATCH_SIZE]
         titulares_texto = "\n".join(
             f"{j + 1}. {a['titular']}" for j, a in enumerate(batch)
         )
-        prompt = PROMPT_TEMPLATE.format(titulares=titulares_texto)
+        prompt = PROMPT_TEMPLATE.format(n=len(batch), titulares=titulares_texto)
 
-        try:
-            response = model.generate_content(prompt)
-            raw = response.text.strip()
+        clasificaciones = None
 
-            # Limpiar posibles bloques de código markdown
-            raw = re.sub(r"```(?:json)?", "", raw).strip()
+        for intento in range(1, MAX_REINTENTOS_GEMINI + 2):  # +2: intentos = reintentos + 1 inicial
+            try:
+                response = model.generate_content(prompt)
+                raw = response.text.strip()
+                candidato = _extraer_json_array(raw)
 
-            clasificaciones = json.loads(raw)
+                if candidato is None:
+                    raise ValueError(f"No se encontró array JSON en la respuesta: {raw[:120]!r}")
+                if len(candidato) != len(batch):
+                    raise ValueError(
+                        f"Array de {len(candidato)} elementos para batch de {len(batch)}: {candidato}"
+                    )
 
+                clasificaciones = candidato
+                break  # éxito
+
+            except Exception as e:
+                if intento <= MAX_REINTENTOS_GEMINI:
+                    logger.warning(
+                        f"Gemini batch {batch_idx} intento {intento} fallido: {e} — reintentando en {intento * 3}s"
+                    )
+                    time.sleep(intento * 3)
+                else:
+                    logger.error(
+                        f"Gemini batch {batch_idx}: todos los intentos agotados ({e}). "
+                        f"Batch descartado ({len(batch)} artículos)."
+                    )
+                    batches_fallidos += 1
+
+        if clasificaciones is not None:
+            count_si = 0
             for articulo, clasif in zip(batch, clasificaciones):
-                if str(clasif).lower().strip() in ("si", "sí", "yes", "true", "1"):
+                if str(clasif).lower().strip() in POSITIVOS:
                     relevantes.append(articulo)
-
+                    count_si += 1
             logger.info(
-                f"Gemini batch {batch_idx}/{total_batches}: "
-                f"{sum(1 for c in clasificaciones if str(c).lower().strip() in ('si','sí','yes','true','1'))}"
-                f"/{len(batch)} relevantes"
+                f"Gemini batch {batch_idx}/{total_batches}: {count_si}/{len(batch)} relevantes"
             )
-
-        except json.JSONDecodeError:
-            logger.warning(f"Gemini respuesta no parseable en batch {batch_idx}; incluyendo batch completo")
-            relevantes.extend(batch)
-        except Exception as e:
-            logger.error(f"Error Gemini batch {batch_idx}: {e}; incluyendo batch completo")
-            relevantes.extend(batch)
 
         # Respetar rate limit del tier gratuito
         if i + BATCH_SIZE < len(articulos):
             time.sleep(2)
+
+    if batches_fallidos:
+        logger.warning(f"Batches descartados por error irrecuperable: {batches_fallidos}/{total_batches}")
 
     return relevantes, True
 
