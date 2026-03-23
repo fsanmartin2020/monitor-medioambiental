@@ -555,7 +555,7 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
     try:
         import google.generativeai as genai
         genai.configure(api_key=GEMINI_API_KEY)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.0-flash")
     except Exception as e:
         logger.error(f"Error inicializando Gemini: {e}")
         return articulos, False
