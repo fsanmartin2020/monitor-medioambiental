@@ -479,6 +479,105 @@ def scrape_generic(fuente: dict) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Sitemap XML
+# ---------------------------------------------------------------------------
+
+def fetch_sitemap(fuente: dict) -> list:
+    """
+    Extrae noticias de un sitemap.xml (o sitemap index).
+    Filtra URLs que parecen noticias y son recientes (por lastmod).
+    """
+    nombre = fuente["nombre"]
+    sitemap_url = fuente.get("sitemap_url", "")
+    if not sitemap_url:
+        return []
+
+    try:
+        resp = requests.get(sitemap_url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, "lxml-xml")
+
+        # Si es un sitemap index, buscar sub-sitemaps y descargar los primeros
+        sitemapindex = soup.find_all("sitemap")
+        urls_con_fecha = []
+
+        if sitemapindex:
+            # Descargar solo los primeros 3 sub-sitemaps (más recientes)
+            sub_urls = []
+            for sm in sitemapindex[:3]:
+                loc = sm.find("loc")
+                if loc:
+                    sub_urls.append(loc.get_text(strip=True))
+
+            for sub_url in sub_urls:
+                try:
+                    sub_resp = requests.get(sub_url, headers=HEADERS, timeout=15)
+                    sub_resp.raise_for_status()
+                    sub_soup = BeautifulSoup(sub_resp.content, "lxml-xml")
+                    for url_tag in sub_soup.find_all("url"):
+                        loc = url_tag.find("loc")
+                        lastmod = url_tag.find("lastmod")
+                        if loc:
+                            urls_con_fecha.append({
+                                "url": loc.get_text(strip=True),
+                                "lastmod": lastmod.get_text(strip=True) if lastmod else None,
+                            })
+                except Exception:
+                    continue
+        else:
+            # Sitemap simple
+            for url_tag in soup.find_all("url"):
+                loc = url_tag.find("loc")
+                lastmod = url_tag.find("lastmod")
+                if loc:
+                    urls_con_fecha.append({
+                        "url": loc.get_text(strip=True),
+                        "lastmod": lastmod.get_text(strip=True) if lastmod else None,
+                    })
+
+        # Filtrar solo URLs recientes que parezcan noticias
+        palabras_noticia = ("noticia", "comunicacion", "prensa", "news", "articulo")
+        articulos = []
+
+        for item in urls_con_fecha:
+            url = item["url"]
+            fecha_dt = parse_fecha(item["lastmod"])
+
+            if not es_reciente(fecha_dt):
+                continue
+
+            # Filtrar: solo URLs con segmentos de noticias o con slug largo
+            url_lower = url.lower()
+            parece_noticia = (
+                any(p in url_lower for p in palabras_noticia)
+                or len(url.rstrip("/").split("/")[-1]) > 20  # slug largo = probable artículo
+            )
+            if not parece_noticia:
+                continue
+
+            # Extraer título del slug de la URL
+            slug = url.rstrip("/").split("/")[-1]
+            titulo = slug.replace("-", " ").replace("_", " ").strip().capitalize()
+
+            if len(titulo) < 15:
+                continue
+
+            articulos.append({
+                "fuente": nombre,
+                "titular": titulo,
+                "url": url,
+                "fecha": fecha_chile_str(fecha_dt),
+            })
+
+        logger.info(f"  Sitemap {nombre}: {len(articulos)} artículos recientes")
+        return articulos[:20]
+
+    except Exception as e:
+        logger.warning(f"  Error sitemap {nombre}: {e}")
+        return []
+
+
+# ---------------------------------------------------------------------------
 # Procesamiento de fuentes
 # ---------------------------------------------------------------------------
 
@@ -493,6 +592,13 @@ def procesar_fuente(fuente: dict) -> list:
             return resultado
         # Fallback a scraping si RSS no funcionó
         logger.info(f"  RSS falló en {nombre}, usando scraping como fallback…")
+        return scrape_generic(fuente)
+    elif metodo == "sitemap":
+        resultado = fetch_sitemap(fuente)
+        if resultado:
+            return resultado
+        # Fallback a scraping si sitemap no funcionó
+        logger.info(f"  Sitemap falló en {nombre}, usando scraping como fallback…")
         return scrape_generic(fuente)
     else:
         return scrape_generic(fuente)
