@@ -480,7 +480,7 @@ FUENTES = [
         "nombre": "Cámara de Diputados",
         "url": "https://www.camara.cl",
         "metodo": "scraping",
-        "noticias_url": "https://www.camara.cl/cms/noticias/",
+        "noticias_url": "https://www.camara.cl/prensa/prensa_cms.aspx",
         "categoria": "Congreso",
     },
     {
