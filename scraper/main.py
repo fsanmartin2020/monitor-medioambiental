@@ -45,7 +45,7 @@ CHILE_TZ = timezone(timedelta(hours=-3))
 HORAS_VENTANA = 24
 
 # Artículos por lote enviado a Gemini
-BATCH_SIZE = 15
+BATCH_SIZE = 10
 
 # Máximo de URLs guardadas en historial (evita que el archivo crezca sin límite)
 MAX_HISTORIAL_URLS = 8000
@@ -610,44 +610,46 @@ def procesar_fuente(fuente: dict) -> list:
 
 PROMPT_TEMPLATE = """\
 Eres un clasificador experto en derecho medioambiental chileno.
-Tu única tarea: decidir si cada titular es relevante para un abogado \
+Tu tarea: decidir si cada titular es relevante para un abogado \
 especializado en derecho medioambiental en Chile.
 
-Temas RELEVANTES (responder "si"):
-- Regulación y normativa ambiental (leyes, decretos, reglamentos, instructivos)
+RELEVANTE ("si") — noticias sobre:
 - Contaminación (agua, aire, suelo, ruido, lumínica)
-- Recursos naturales: agua, bosques, pesca, fauna silvestre, suelos
-- Minería e hidrocarburos: impactos ambientales, pasivos, permisos
-- Evaluación de Impacto Ambiental (EIA / DIA / SEIA): aprobaciones, rechazos, recursos
-- Sanciones, multas, procesos ante la SMA o Tribunales Ambientales
-- Biodiversidad y áreas protegidas (parques nacionales, reservas, humedales, glaciares)
+- Recursos naturales: agua, bosques, pesca, fauna silvestre, glaciares
+- Minería: impactos ambientales, pasivos, permisos ambientales
+- Evaluación de Impacto Ambiental (EIA / DIA / SEIA)
+- Sanciones o multas de la SMA, Tribunales Ambientales, Corte Suprema en materia ambiental
+- Biodiversidad, áreas protegidas, parques nacionales, humedales
 - Cambio climático: políticas, metas NDC, legislación, carbono
-- Derecho indígena y territorio con componente ambiental (consulta, afectación)
-- Residuos, RETC, sitios contaminados, sustancias peligrosas
-- Energías renovables y su regulación (permisos, impactos, tarifas)
-- Acuerdo de Escazú y tratados ambientales internacionales
-- Fallos de Tribunales Ambientales o Corte Suprema en materia ambiental
-- Conflictos socioambientales o demandas ciudadanas por daño ambiental
-- Proyectos de inversión sujetos a evaluación o permiso ambiental
+- Residuos, reciclaje, Ley REP, economía circular, sitios contaminados
+- Energías renovables: regulación, permisos, impactos ambientales
+- Conflictos socioambientales, demandas por daño ambiental
+- Regulación y normativa ambiental (leyes, decretos, reglamentos)
+- Acuerdo de Escazú, tratados ambientales internacionales
 
-Temas NO RELEVANTES (responder "no") — incluyendo casos límite:
-- Deportes, espectáculos, farándula, cultura, gastronomía
-- Política electoral, partidos, elecciones, sin vínculo directo con legislación ambiental
-- Economía, finanzas, bolsa, inflación sin relación con recursos naturales
-- Tecnología, startups, IA, ciberseguridad sin componente ambiental
-- Noticias sociales, educación, salud general (salvo contaminación)
-- Accidentes de tránsito, delincuencia, narcotráfico
-- Noticias de empresas mineras/energéticas que traten solo de resultados financieros,
-  producción o precios, sin mencionar impacto o regulación ambiental
-- Inauguraciones o eventos sin componente normativo o ambiental
+NO RELEVANTE ("no"):
+- Deportes, farándula, cultura, gastronomía
+- Política electoral sin vínculo con legislación ambiental
+- Economía, finanzas, bolsa sin relación con recursos naturales
+- Tecnología, IA, ciberseguridad sin componente ambiental
+- Salud general, educación, delincuencia, accidentes
+- Minería/energía si solo habla de precios, producción o resultados financieros
 
-INSTRUCCIONES DE FORMATO (es crítico que las sigas exactamente):
+EJEMPLO RESUELTO (para que entiendas el criterio):
+Titulares:
+1. SMA sanciona a minera por daño a humedal en Atacama
+2. Tabilo avanza en ranking ATP tras victoria en Miami
+3. Gobierno presenta proyecto de ley para proteger glaciares
+4. Grupo Yarur aumentó fuertemente sus ganancias
+5. Precio del cobre cae por tensiones geopolíticas
+
+Respuesta correcta: ["si","no","si","no","no"]
+
+INSTRUCCIONES DE FORMATO:
 1. Responde SOLO con un array JSON, sin texto antes ni después.
 2. El array debe tener exactamente {n} elementos, uno por titular, en el mismo orden.
-3. Cada elemento es la cadena "si" o la cadena "no" (sin mayúsculas, sin acentos).
-4. Ante la duda, prefiere "no".
-
-Ejemplo de respuesta correcta para 4 titulares: ["si","no","si","no"]
+3. Cada elemento es "si" o "no" (minúsculas, sin acentos).
+4. Ante la duda, responde "si" para no perder noticias relevantes.
 
 Titulares:
 {titulares}"""
@@ -795,12 +797,15 @@ def main() -> None:
     logger.info(f"Fuentes a procesar: {len(FUENTES)}")
     logger.info("-" * 65)
 
-    todos_articulos = []
+    articulos_auto = []       # fuentes 100% ambientales → se incluyen directo
+    articulos_gemini = []     # medios generalistas → necesitan filtrado por IA
+    todos_articulos = []      # todos (para actualizar historial)
     fuentes_ok = 0
     fuentes_error = 0
 
     for fuente in FUENTES:
         nombre = fuente["nombre"]
+        es_auto = fuente.get("auto_relevante", False)
         try:
             articulos = procesar_fuente(fuente)
 
@@ -813,6 +818,10 @@ def main() -> None:
                 logger.info(f"  → {len(nuevos)} nuevos artículos")
 
             todos_articulos.extend(nuevos)
+            if es_auto:
+                articulos_auto.extend(nuevos)
+            else:
+                articulos_gemini.extend(nuevos)
             fuentes_ok += 1
 
         except Exception as e:
@@ -823,15 +832,21 @@ def main() -> None:
 
     logger.info("-" * 65)
     logger.info(f"Total artículos nuevos candidatos: {len(todos_articulos)}")
+    logger.info(f"  → Auto-relevantes (sin Gemini): {len(articulos_auto)}")
+    logger.info(f"  → Para clasificar con Gemini:   {len(articulos_gemini)}")
     logger.info(f"Fuentes OK: {fuentes_ok} | Con error: {fuentes_error}")
 
-    # Clasificar con Gemini
-    if todos_articulos:
+    # Clasificar con Gemini solo los artículos de medios generalistas
+    if articulos_gemini:
         logger.info("\nClasificando con Gemini…")
-        noticias_relevantes, gemini_ok = clasificar_con_gemini(todos_articulos)
+        filtrados_gemini, gemini_ok = clasificar_con_gemini(articulos_gemini)
     else:
-        noticias_relevantes = []
+        filtrados_gemini = []
         gemini_ok = bool(GEMINI_API_KEY)
+
+    # Combinar: auto-relevantes + los que Gemini aprobó
+    noticias_relevantes = articulos_auto + filtrados_gemini
+    logger.info(f"Noticias finales: {len(articulos_auto)} auto + {len(filtrados_gemini)} filtradas = {len(noticias_relevantes)}")
 
     # Ordenar por fecha descendente
     noticias_relevantes.sort(key=lambda x: x.get("fecha", ""), reverse=True)

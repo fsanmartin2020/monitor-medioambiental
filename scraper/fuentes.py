@@ -3,13 +3,14 @@
 Lista de 69 fuentes para el Monitor de Noticias de Derecho Medioambiental Chile.
 
 Cada fuente tiene:
-  - nombre:       Nombre visible en la tabla
-  - url:          URL base del sitio
-  - metodo:       "rss" (preferido) o "scraping"
-  - rss_url:      URL principal del feed RSS (si existe)
-  - rss_urls:     Lista de URLs RSS alternativas a probar
-  - noticias_url: URL de la sección de noticias (para scraping)
-  - categoria:    Categoría de la fuente (para logging)
+  - nombre:          Nombre visible en la tabla
+  - url:             URL base del sitio
+  - metodo:          "rss" (preferido) o "scraping"
+  - rss_url:         URL principal del feed RSS (si existe)
+  - rss_urls:        Lista de URLs RSS alternativas a probar
+  - noticias_url:    URL de la sección de noticias (para scraping)
+  - categoria:       Categoría de la fuente (para logging)
+  - auto_relevante:  True si la fuente es 100% medioambiental (se incluye sin pasar por Gemini)
 """
 
 FUENTES = [
@@ -310,6 +311,7 @@ FUENTES = [
             "https://www.paiscircular.cl/rss/",
         ],
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "Industria y Medioambiente",
@@ -321,6 +323,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.induambiente.com/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "Chile Desarrollo Sustentable",
@@ -332,6 +335,7 @@ FUENTES = [
         ],
         "noticias_url": "http://www.chiledesarrollosustentable.cl/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "Codex Verde",
@@ -343,6 +347,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.codexverde.cl/",
         "categoria": "Medioambiente/Derecho",
+        "auto_relevante": True,
     },
     {
         "nombre": "CR2 - Centro de Ciencia del Clima",
@@ -354,6 +359,7 @@ FUENTES = [
         ],
         "noticias_url": "http://www.cr2.cl/noticias/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "EFE Verde",
@@ -365,6 +371,7 @@ FUENTES = [
             "https://www.efeverde.com/rss/",
         ],
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "OLCA",
@@ -376,6 +383,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.olca.cl/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "Terram",
@@ -387,6 +395,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.terram.cl/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "FIMA",
@@ -398,6 +407,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.fima.cl/",
         "categoria": "Derecho Ambiental",
+        "auto_relevante": True,
     },
     {
         "nombre": "Chile Sustentable",
@@ -409,6 +419,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.chilesustentable.net/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "DACC - UdeC",
@@ -416,6 +427,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "http://dacc.udec.cl/noticias/",
         "categoria": "Medioambiente",
+        "auto_relevante": True,
     },
     {
         "nombre": "Fundación Relaves",
@@ -427,6 +439,7 @@ FUENTES = [
         ],
         "noticias_url": "https://fundacionrelaves.org/blog/",
         "categoria": "Medioambiente/Minería",
+        "auto_relevante": True,
     },
 
     # =========================================================
@@ -449,6 +462,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.1ta.cl/noticias/",
         "categoria": "Judicial",
+        "auto_relevante": True,
     },
     {
         "nombre": "2do Tribunal Ambiental",
@@ -460,6 +474,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.tribunalambiental.cl/noticias/",
         "categoria": "Judicial",
+        "auto_relevante": True,
     },
     {
         "nombre": "3er Tribunal Ambiental",
@@ -471,6 +486,7 @@ FUENTES = [
         ],
         "noticias_url": "https://3ta.cl/noticias/",
         "categoria": "Judicial",
+        "auto_relevante": True,
     },
 
     # =========================================================
@@ -556,6 +572,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "http://www.siss.gob.cl/586/w3-channel.html",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "DIRECTEMAR",
@@ -563,6 +580,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://www.directemar.cl/directemar/sala-de-prensa/noticias",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "SERNAPESCA",
@@ -571,6 +589,7 @@ FUENTES = [
         "sitemap_url": "https://www.sernapesca.cl/sitemap.xml",
         "noticias_url": "https://www.sernapesca.cl/noticias/",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "Subsecretaría de Pesca",
@@ -578,6 +597,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://www.subpesca.cl/portal/sitio/",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "SAG",
@@ -585,6 +605,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://www.sag.gob.cl/ambito/noticias",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "CONAF",
@@ -596,6 +617,7 @@ FUENTES = [
         ],
         "noticias_url": "https://www.conaf.cl/noticias/",
         "categoria": "Gobierno",
+        "auto_relevante": True,
     },
     {
         "nombre": "Ministerio de Energía",
@@ -634,6 +656,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://www.sea.gob.cl/noticias/",
         "categoria": "Medioambiente/Regulación",
+        "auto_relevante": True,
     },
     {
         "nombre": "SMA",
@@ -641,6 +664,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://portal.sma.gob.cl/",
         "categoria": "Medioambiente/Regulación",
+        "auto_relevante": True,
     },
     {
         "nombre": "Ministerio de Minería",
@@ -673,6 +697,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://www.sernageomin.cl/noticias/",
         "categoria": "Minería",
+        "auto_relevante": True,
     },
     {
         "nombre": "DGA - MOP",
@@ -684,6 +709,7 @@ FUENTES = [
         ],
         "noticias_url": "https://dga.mop.gob.cl/noticias/",
         "categoria": "Agua",
+        "auto_relevante": True,
     },
     {
         "nombre": "Ministerio del Medio Ambiente",
@@ -695,6 +721,7 @@ FUENTES = [
         ],
         "noticias_url": "https://mma.gob.cl/noticias/",
         "categoria": "Medioambiente/Regulación",
+        "auto_relevante": True,
     },
     {
         "nombre": "Acuerdo de Escazú - MMA",
@@ -702,6 +729,7 @@ FUENTES = [
         "metodo": "scraping",
         "noticias_url": "https://escazu.mma.gob.cl/",
         "categoria": "Derecho Ambiental Internacional",
+        "auto_relevante": True,
     },
     {
         "nombre": "RETC",
@@ -713,5 +741,6 @@ FUENTES = [
         ],
         "noticias_url": "https://retc.mma.gob.cl/",
         "categoria": "Medioambiente/Regulación",
+        "auto_relevante": True,
     },
 ]
