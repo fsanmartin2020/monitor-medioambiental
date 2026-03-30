@@ -66,6 +66,10 @@ HEADERS = {
     "Connection": "keep-alive",
 }
 
+# Sesión HTTP reutilizable (mantiene conexiones TCP abiertas entre requests al mismo host)
+session = requests.Session()
+session.headers.update(HEADERS)
+
 # ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
@@ -90,39 +94,47 @@ MESES_ES = {
 
 
 def parse_fecha(texto: str) -> datetime | None:
-    """Intenta convertir un string de fecha a datetime con timezone."""
+    """
+    Intenta convertir un string de fecha a datetime con timezone.
+    Cuando no hay timezone explícita, asume hora Chile (UTC-3)
+    porque la gran mayoría de las fuentes son chilenas.
+    """
     if not texto:
         return None
     texto = texto.strip()
 
-    # Intento 1: formato ISO 8601
+    # Intento 1: formato ISO 8601 con timezone explícita
     try:
-        return dateutil_parser.parse(texto, ignoretz=False)
+        dt = dateutil_parser.parse(texto, ignoretz=False)
+        if dt.tzinfo is not None:
+            return dt
     except Exception:
         pass
 
-    # Intento 2: ISO sin timezone → asumir UTC
+    # Intento 2: ISO con "Z" (UTC explícito)
     try:
-        dt = datetime.fromisoformat(texto.replace("Z", "+00:00"))
-        return dt
+        if "Z" in texto or "+" in texto or texto.count("-") >= 3:
+            dt = datetime.fromisoformat(texto.replace("Z", "+00:00"))
+            if dt.tzinfo is not None:
+                return dt
     except Exception:
         pass
 
-    # Intento 3: "15 de enero de 2024" (formato español)
+    # Intento 3: "15 de enero de 2024" (formato español) → asumir hora Chile
     m = re.search(r"(\d{1,2})\s+de\s+(\w+)\s+(?:de\s+)?(\d{4})", texto, re.I)
     if m:
         dia, mes_str, anio = int(m.group(1)), m.group(2).lower(), int(m.group(3))
         mes = MESES_ES.get(mes_str)
         if mes:
             try:
-                return datetime(anio, mes, dia, tzinfo=timezone.utc)
+                return datetime(anio, mes, dia, tzinfo=CHILE_TZ)
             except Exception:
                 pass
 
-    # Intento 4: delegar a dateutil con ignoretz=True
+    # Intento 4: delegar a dateutil → sin timezone, asumir hora Chile
     try:
         dt = dateutil_parser.parse(texto, ignoretz=True)
-        return dt.replace(tzinfo=timezone.utc)
+        return dt.replace(tzinfo=CHILE_TZ)
     except Exception:
         pass
 
@@ -135,7 +147,7 @@ def es_reciente(fecha: datetime | None, horas: int = HORAS_VENTANA) -> bool:
         return True  # Sin fecha: incluir y dejar que Gemini filtre
     ahora = datetime.now(timezone.utc)
     if fecha.tzinfo is None:
-        fecha = fecha.replace(tzinfo=timezone.utc)
+        fecha = fecha.replace(tzinfo=CHILE_TZ)
     return fecha >= (ahora - timedelta(hours=horas))
 
 
@@ -152,22 +164,30 @@ def fecha_chile_str(fecha: datetime | None) -> str:
 # Historial (para evitar duplicados entre días)
 # ---------------------------------------------------------------------------
 
-def cargar_historial() -> set:
-    """Carga el conjunto de URLs ya procesadas."""
+def cargar_historial() -> list:
+    """Carga la lista ordenada de URLs ya procesadas (las más recientes al final)."""
     if HISTORIAL_FILE.exists():
         try:
             with open(HISTORIAL_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            return set(data.get("urls", []))
+            return data.get("urls", [])
         except Exception as e:
             logger.warning(f"No se pudo leer historial.json: {e}")
-    return set()
+    return []
 
 
-def guardar_historial(historial_anterior: set, nuevas_urls: set) -> None:
-    """Combina historial anterior con nuevas URLs y guarda, limitando el tamaño."""
-    todas = list(historial_anterior | nuevas_urls)
-    # Mantener solo las últimas MAX_HISTORIAL_URLS (las más recientes en el tiempo de inserción)
+def guardar_historial(historial_anterior: list, nuevas_urls: set) -> None:
+    """
+    Combina historial anterior con nuevas URLs y guarda, limitando el tamaño.
+    Mantiene el orden: las URLs antiguas van primero, las nuevas al final.
+    Al recortar, se eliminan las más antiguas (del inicio de la lista).
+    """
+    # Conjunto para búsqueda rápida de duplicados
+    ya_vistas = set(historial_anterior)
+    # Agregar solo URLs realmente nuevas al final (preserva orden cronológico)
+    nuevas = [url for url in nuevas_urls if url not in ya_vistas]
+    todas = historial_anterior + nuevas
+    # Recortar las más antiguas (inicio de la lista) si excede el máximo
     if len(todas) > MAX_HISTORIAL_URLS:
         todas = todas[-MAX_HISTORIAL_URLS:]
     data = {
@@ -439,7 +459,7 @@ def scrape_generic(fuente: dict) -> list:
     target_url = fuente.get("noticias_url") or fuente["url"]
 
     try:
-        resp = requests.get(target_url, headers=HEADERS, timeout=20)
+        resp = session.get(target_url, timeout=20)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "lxml")
 
@@ -493,7 +513,7 @@ def fetch_sitemap(fuente: dict) -> list:
         return []
 
     try:
-        resp = requests.get(sitemap_url, headers=HEADERS, timeout=20)
+        resp = session.get(sitemap_url, timeout=20)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "lxml-xml")
 
@@ -511,7 +531,7 @@ def fetch_sitemap(fuente: dict) -> list:
 
             for sub_url in sub_urls:
                 try:
-                    sub_resp = requests.get(sub_url, headers=HEADERS, timeout=15)
+                    sub_resp = session.get(sub_url, timeout=15)
                     sub_resp.raise_for_status()
                     sub_soup = BeautifulSoup(sub_resp.content, "lxml-xml")
                     for url_tag in sub_soup.find_all("url"):
@@ -582,26 +602,29 @@ def fetch_sitemap(fuente: dict) -> list:
 # ---------------------------------------------------------------------------
 
 def procesar_fuente(fuente: dict) -> list:
-    """Procesa una fuente y devuelve sus artículos."""
+    """
+    Procesa una fuente y devuelve sus artículos.
+    Cadena de fallback completa: RSS → Sitemap → Scraping HTML.
+    """
     nombre = fuente["nombre"]
     metodo = fuente.get("metodo", "rss")
 
-    if metodo == "rss":
+    # Paso 1: Intentar RSS (si la fuente lo tiene configurado)
+    if metodo == "rss" or fuente.get("rss_url") or fuente.get("rss_urls"):
         resultado = intentar_rss(fuente)
         if resultado is not None:
             return resultado
-        # Fallback a scraping si RSS no funcionó
-        logger.info(f"  RSS falló en {nombre}, usando scraping como fallback…")
-        return scrape_generic(fuente)
-    elif metodo == "sitemap":
+        logger.info(f"  RSS falló en {nombre}, intentando siguiente método…")
+
+    # Paso 2: Intentar Sitemap (si la fuente lo tiene configurado)
+    if fuente.get("sitemap_url"):
         resultado = fetch_sitemap(fuente)
         if resultado:
             return resultado
-        # Fallback a scraping si sitemap no funcionó
-        logger.info(f"  Sitemap falló en {nombre}, usando scraping como fallback…")
-        return scrape_generic(fuente)
-    else:
-        return scrape_generic(fuente)
+        logger.info(f"  Sitemap falló en {nombre}, intentando scraping…")
+
+    # Paso 3: Scraping HTML genérico como último recurso
+    return scrape_generic(fuente)
 
 
 # ---------------------------------------------------------------------------
@@ -786,8 +809,9 @@ def main() -> None:
     # Asegurar que el directorio data/ existe
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Cargar historial de URLs procesadas
+    # Cargar historial de URLs procesadas (lista ordenada cronológicamente)
     historial = cargar_historial()
+    historial_set = set(historial)  # set para búsqueda rápida O(1)
     logger.info(f"URLs en historial: {len(historial)}")
 
     # Importar fuentes
@@ -810,7 +834,7 @@ def main() -> None:
             articulos = procesar_fuente(fuente)
 
             # Filtrar URLs ya vistas
-            nuevos = [a for a in articulos if a["url"] not in historial]
+            nuevos = [a for a in articulos if a["url"] not in historial_set]
             n_skip = len(articulos) - len(nuevos)
             if n_skip > 0:
                 logger.info(f"  → {len(nuevos)} nuevos ({n_skip} ya vistos)")

@@ -225,6 +225,15 @@
       line-height: 1.45;
       word-break: break-word;
     }
+    .titular-texto a {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .titular-texto a:hover,
+    .titular-texto a:focus-visible {
+      color: var(--verde);
+    }
 
     .fecha-texto {
       color: var(--gris-texto);
@@ -297,8 +306,12 @@
 
     @media (max-width: 480px) {
       .col-link { display: none; }
-      .col-titular { width: 78%; }
-      .titular-texto a { color: var(--verde); text-decoration: underline; }
+      .col-fuente { width: 28%; }
+      .col-titular { width: 72%; }
+      .titular-texto a {
+        color: var(--verde) !important;
+        text-decoration: underline !important;
+      }
     }
   </style>
 </head>
@@ -386,6 +399,14 @@
   let ordenAscendente    = false;  // fecha descendente por defecto
 
   // ── Utilidades ───────────────────────────────────────────────────
+  function debounce(fn, ms) {
+    let timer;
+    return function (...args) {
+      clearTimeout(timer);
+      timer = setTimeout(() => fn.apply(this, args), ms);
+    };
+  }
+
   function esc(str) {
     return String(str || '')
       .replace(/&/g, '&amp;')
@@ -446,10 +467,7 @@
         </td>
         <td class="col-titular">
           <span class="titular-texto">
-            <a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer"
-               style="color:inherit;text-decoration:none;"
-               onmouseover="this.style.color='var(--verde)'"
-               onmouseout="this.style.color='inherit'">
+            <a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer">
               ${esc(n.titular)}
             </a>
           </span>
@@ -594,8 +612,9 @@
       aplicarFiltros();
 
       // Eventos de filtro
-      ['buscar', 'filtro-fuente', 'filtro-fecha'].forEach(id => {
-        document.getElementById(id).addEventListener('input', aplicarFiltros);
+      const buscarConDebounce = debounce(aplicarFiltros, 300);
+      document.getElementById('buscar').addEventListener('input', buscarConDebounce);
+      ['filtro-fuente', 'filtro-fecha'].forEach(id => {
         document.getElementById(id).addEventListener('change', aplicarFiltros);
       });
       document.getElementById('btn-limpiar').addEventListener('click', () => {

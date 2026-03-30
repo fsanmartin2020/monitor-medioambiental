@@ -694,7 +694,12 @@ FUENTES = [
     {
         "nombre": "SERNAGEOMIN",
         "url": "https://www.sernageomin.cl",
-        "metodo": "scraping",
+        "metodo": "rss",
+        "rss_url": "https://www.sernageomin.cl/feed/",
+        "rss_urls": [
+            "https://www.sernageomin.cl/feed/",
+        ],
+        "sitemap_url": "https://www.sernageomin.cl/sitemap.xml",
         "noticias_url": "https://www.sernageomin.cl/noticias/",
         "categoria": "Minería",
         "auto_relevante": True,
