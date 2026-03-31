@@ -1,72 +1,240 @@
 {
-  "fecha_actualizacion": "2026-03-30T09:08:48.483291-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-03-31T09:01:35.187282-03:00",
+  "total": 39,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Más competencias laborales y nuevas oportunidades para recicladores, la clave para aumentar y mejorar la gestión de residuos desde las regiones",
-      "url": "https://www.paiscircular.cl/economia-circular/mejores-competencias-y-mas-oportunidades-resimple-impulsa-programa-para-certificar-a-recicladores-de-base/",
+      "titular": "Sergio Galilea: “La problemática ambiental chilena se ha vuelto cada vez más compleja y desafiante”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/sergio-galilea-la-problematica-ambiental-chilena-se-ha-vuelto-cada-vez-mas-compleja-y-desafiante/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "Industria y Medioambiente",
+      "titular": "Plástico Circular",
+      "url": "https://www.induambiente.com/destacamos/plastico-circular",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "Industria y Medioambiente",
+      "titular": "Plástico Circular",
+      "url": "https://www.induambiente.com/plastico-circular",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Crisis del petróleo: el blindaje verde de América Latina",
+      "url": "https://codexverde.cl/crisis-del-petroleo-el-blindaje-verde-de-america-latina/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Incendios forestales en la UE: 2025 fue el año más devastador desde que existen registros",
+      "url": "https://efeverde.com/incendios-forestales-en-ue-2025/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Semana Santa: entre la masificación turística y la expectativa del ecoturismo. Por Arturo Crosby",
+      "url": "https://efeverde.com/semana-santa-entre-la-masificacion-turistica-y-la-expectativa-del-ecoturismo-por-arturo-crosby/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El sargazo crece como amenaza económica en Caribe mexicano",
+      "url": "https://efeverde.com/sargazo-crece-como-amenaza-economica-caribe-mexicano/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Organizaciones ambientales piden a la UE que mantenga el cuero en el Tratado de deforestación",
+      "url": "https://efeverde.com/organizaciones-ambientales-piden-ue-mantenga-cuero-tratado-deforestacion/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Sernapesca incauta 1,8 toneladas de merluza común en el Terminal Pesquero Metropolitano",
+      "url": "https://www.sernapesca.cl/noticias/sernapesca-incauta-18-toneladas-de-merluza-comun-en-el-terminal-pesquero-metropolitano/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Los Ríos: Sernapesca realiza balance de los controles previo a Semana Santa",
+      "url": "https://www.sernapesca.cl/noticias/los-rios-sernapesca-realiza-balance-de-los-controles-realizados-previo-a-semana-santa/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Sernapesca recibe a comitivas de Noruega y Estados Unidos para el fortalecimiento de alianzas",
+      "url": "https://www.sernapesca.cl/noticias/sernapesca-recibe-a-comitivas-de-noruega-y-estados-unidos-para-el-fortalecimiento-de-alianzas/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Sernapesca Arica detecta inconsistencias en productos destinados a exportación",
+      "url": "https://www.sernapesca.cl/noticias/sernapesca-arica-detecta-inconsistencias-en-productos-destinados-a-exportacion/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SEA",
+      "titular": "Comité de Ministros confirma resolución favorable de 3 proyectos de energía renovable y destraba más de US$ 1.000 millones de inversión",
+      "url": "https://www.sea.gob.cl/noticias/comite-de-ministros-confirma-resolucion-favorable-de-3-proyectos-de-energia-renovable-y",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SEA",
+      "titular": "Director regional de SEA Antofagasta aborda desafío de evaluación ambiental en la zona con nuevas autoridades",
+      "url": "https://www.sea.gob.cl/noticias/director-regional-de-sea-antofagasta-aborda-desafio-de-evaluacion-ambiental-en-la-zona-con",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA publica listado de 105 establecimientos afectos al pago del Impuesto Verde del año 2025",
+      "url": "https://portal.sma.gob.cl/index.php/sma-publica-listado-de-105-establecimientos-afectos-al-pago-del-impuesto-verde-del-ano-2025/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "Acuerdo de Escazú - MMA",
+      "titular": "Conoce la publicación donde las comunidades educativas cuentan el poder transformador del SNCAE",
+      "url": "https://mma.gob.cl/conoce-la-publicacion-donde-las-comunidades-educativas-cuentan-el-poder-transformador-del-sncae/",
+      "fecha": "2026-03-31"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Comité de Ministros confirma resolución favorable de 3 proyectos de energía renovable y destraba más de US$ 1.000 millones de inversión",
+      "url": "https://www.paiscircular.cl/transicion-energetica/comite-de-ministros-confirma-resolucion-favorable-de-3-proyectos-de-energia-renovable-y-destraba-mas-de-us-1-000-millones-de-inversion/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "MINISTERIO DEL MEDIO AMBIENTE REINGRESÓ A CONTRALORÍA EL DECRETO DEL PLAN DE DESCONTAMINACIÓN DEL LAGO VILLARRICA",
+      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-reingreso-a-contraloria-el-decreto-del-plan-de-descontaminacion-del-lago-villarrica/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-reingreso-a-contraloria-el-decreto-del-plan-de-descontaminacion-del-lago-villarrica",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "COPEC FLUX INAUGURA LA PRIMERA PLANTA SOLAR CON BATERÍAS TESLA EN CHILE",
+      "url": "https://www.chiledesarrollosustentable.cl/copec-flux-inaugura-la-primera-planta-solar-con-baterias-tesla-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=copec-flux-inaugura-la-primera-planta-solar-con-baterias-tesla-en-chile",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Copec Flux inaugura la primera planta solar con baterías Tesla en Chile",
-      "url": "https://codexverde.cl/copec-flux-inaugura-la-primera-planta-solar-con-baterias-tesla-en-chile/",
+      "titular": "Avances en la Convención sobre Especies Migratorias: aprueban propuestas de Chile para proteger aves en peligro",
+      "url": "https://codexverde.cl/avances-en-la-convencion-sobre-especies-migratorias/",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los Pirineos registran aludes cada vez más pequeños, pero más frecuentes y de riesgo",
-      "url": "https://efeverde.com/pirineos-aludes/",
+      "titular": "El coche lideró en 2025 la movilidad en España, salvo en grandes ciudades y entre los jóvenes",
+      "url": "https://efeverde.com/movilidad-espana-2025/",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las grandes petroleras podrían ganar 24.000 millones de euros extra por la subida del crudo",
-      "url": "https://efeverde.com/las-grandes-petroleras-podrian-ganar-24-000-millones-de-euros-extra-por-la-subida-del-crudo/",
+      "titular": "Los censos sobrestiman un 50 % la población de lobo en el Sistema Ibérico, según un estudio",
+      "url": "https://efeverde.com/censos-sobrestiman-poblacion-lobo-sistema-iberico/",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Emisiones de CO2: La UE flexibiliza los objetivos de recorte para camiones y autobuses para 2030",
-      "url": "https://efeverde.com/emisiones-co2-ue-flexibiliza-objetivos-recorte-para-camiones-autobuses/",
+      "titular": "Semana Santa estable y con temperaturas en ascenso, que podrían llegar a los 30 grados en el sur",
+      "url": "https://efeverde.com/semana-santa-estable-y-con-temperaturas-en-ascenso-que-podrian-llegar-a-los-30-grados-en-el-sur/",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "ONG ecologistas: Perforar en zonas protegidas del golfo de México «legalizaría la destrucción de la vida marina»",
-      "url": "https://efeverde.com/ong-ecologistas-perforar-en-golfo-mexico-destruccion-vida-marina/",
+      "titular": "Cada europeo generó 517 kilos de residuos municipales en 2024, seis kilos más que en 2023",
+      "url": "https://efeverde.com/europeo-genero-517-kilos-de-residuos-municipales-en-2024/",
       "fecha": "2026-03-30"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La región euro-mediterránea vivirá una reorganización climática que impactará en los ecosistemas",
-      "url": "https://efeverde.com/region-mediterraneo-reorganizacion-climatica-impacto-ecosistemas/",
+      "fuente": "Terram",
+      "titular": "SMA rechaza plan de Australis por sobreproducción en Reserva Kawésqar y salmonera recurre al Tribunal Ambiental",
+      "url": "https://www.terram.cl/sma-rechaza-plan-de-australis-por-sobreproduccion-en-reserva-kawesqar-y-salmonera-recurre-al-tribunal-ambiental/",
       "fecha": "2026-03-30"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Dispersión de semillas: las aves frugívoras más grandes son claves para la regeneración de los bosques",
-      "url": "https://efeverde.com/dispersion-de-semillas-aves-frugivoras-bosques/",
+      "fuente": "Terram",
+      "titular": "Gobierno reingresó decreto del Plan de Descontaminación del Lago Villarrica a Contraloría",
+      "url": "https://www.terram.cl/gobierno-reingreso-decreto-del-plan-de-descontaminacion-del-lago-villarrica-a-contraloria/",
       "fecha": "2026-03-30"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Del guepardo al tiburón martillo: la COP15 culmina en Brasil con 40 nuevas especies protegidas",
-      "url": "https://efeverde.com/del-guepardo-al-tiburon-martillo-la-cop15-culmina-en-brasil-con-40-nuevas-especies-protegidas/",
+      "fuente": "Terram",
+      "titular": "Uso de agua de mar para desalinización: en qué consiste este proyecto próximo a convertirse en ley",
+      "url": "https://www.terram.cl/uso-de-agua-de-mar-para-desalinizacion-en-que-consiste-este-proyecto-proximo-a-convertirse-en-ley/",
       "fecha": "2026-03-30"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Luces y sombras de la sobreproducción en el negocio de la moda. Por Sònia Flotats (directora Move! Moda en Movimiento)",
-      "url": "https://efeverde.com/luces-y-sombras-de-la-sobreproduccion-en-el-negocio-de-la-moda-por-sonia-flotats-directora-move-moda-en-movimiento/",
+      "fuente": "Terram",
+      "titular": "Corte Suprema delimita procedencia del recurso de casación en materias ambientales y valida exigencias técnicas en cuantificación de emisiones",
+      "url": "https://www.terram.cl/corte-suprema-delimita-procedencia-del-recurso-de-casacion-en-materias-ambientales-y-valida-exigencias-tecnicas-en-cuantificacion-de-emisiones/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Detectan por primera vez microplásticos en las costas de la isla Decepción de la Antártida",
+      "url": "https://www.terram.cl/detectan-por-primera-vez-microplasticos-en-las-costas-de-la-isla-decepcion-de-la-antartida/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Exportaciones avícolas chilenas suspendidas: Zoom al negocio de US$430 millones golpeado por la gripe aviar",
+      "url": "https://www.terram.cl/exportaciones-avicolas-chilenas-suspendidas-zoom-al-negocio-de-us430-millones-golpeado-por-la-gripe-aviar/",
       "fecha": "2026-03-30"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 27/03/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-27-03-2026/",
+      "titular": "Tribunal Ambiental realizó inspección en demanda por daño ambiental contra Novofish en Calbuco",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-novofish-en-calbuco/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Los Lagos anticipa inicio de quemas controladas",
+      "url": "https://www.conaf.cl/conaf-los-lagos-anticipa-inicio-de-quemas-controladas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-lagos-anticipa-inicio-de-quemas-controladas",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF extiende levantamiento de la restricción del uso del fuego en la Región del Biobío",
+      "url": "https://www.conaf.cl/conaf-extiende-levantamiento-de-la-restriccion-del-uso-del-fuego-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-extiende-levantamiento-de-la-restriccion-del-uso-del-fuego-en-la-region-del-biobio",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Comunidad de Púa y Cullinco en Victoria, más seguras frente al fuego gracias a PEE de CONAF",
+      "url": "https://www.conaf.cl/comunidad-de-pua-y-cullinco-en-victoria-mas-seguras-frente-al-fuego-gracias-a-pee-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-de-pua-y-cullinco-en-victoria-mas-seguras-frente-al-fuego-gracias-a-pee-de-conaf",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comité de Ministros confirma resolución favorable de tres proyectos de energía renovable y destraba más de US$ 1.000 millones de inversión",
+      "url": "https://mma.gob.cl/comite-de-ministros-confirma-resolucion-favorable-de-3-proyectos-de-energia-renovable-y-destraba-mas-de-us-1-000-millones-de-inversion/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Acción climática y mercados de carbono, una agenda que ya moviliza inversión en Chile",
+      "url": "https://mma.gob.cl/accion-climatica-y-mercados-de-carbono-una-agenda-que-ya-moviliza-inversion-en-chile/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Conoce la publicación donde las comunidades educativas cuentan el poder transformador del SNCAE",
+      "url": "https://mma.gob.cl/conoce-la-publicacion-donde-las-comunidades-educativas-cuentan-el-poder-transformador-del-sncae/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Proyecto CLETS del Ministerio del Medio Ambiente se une al Acuerdo por la Electromovilidad",
+      "url": "https://mma.gob.cl/proyecto-clets-del-ministerio-del-medio-ambiente-se-une-al-acuerdo-por-la-electromovilidad/",
+      "fecha": "2026-03-30"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente reingresó a Contraloría el decreto del Plan de Descontaminación del Lago Villarrica",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-reingreso-a-contraloria-el-decreto-del-plan-de-descontaminacion-del-lago-villarrica/",
       "fecha": "2026-03-30"
     }
   ]
