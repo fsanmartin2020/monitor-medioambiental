@@ -278,6 +278,47 @@
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
+    /* ── Chip de alertas urgentes ──────────────────────────────── */
+    .stat-chip--alerta {
+      background: #fff0f0;
+      border-color: #f5c6c6;
+      color: #c0392b;
+      font-weight: 600;
+    }
+    .stat-chip--alerta strong { color: #c0392b; }
+
+    /* ── Badge alerta por artículo ──────────────────────────────── */
+    .alerta-badge {
+      display: inline-block;
+      font-size: .68rem;
+      font-weight: 700;
+      color: #c0392b;
+      background: #fff0f0;
+      border: 1px solid #f5c6c6;
+      border-radius: 3px;
+      padding: .05rem .28rem;
+      margin-left: .35rem;
+      vertical-align: middle;
+      cursor: help;
+      white-space: nowrap;
+    }
+
+    /* ── Badge fecha aproximada ────────────────────────────────── */
+    .fecha-aprox {
+      display: inline-block;
+      font-size: .68rem;
+      color: var(--gris-texto);
+      background: var(--gris-bg);
+      border: 1px solid var(--gris-borde);
+      border-radius: 3px;
+      padding: .05rem .28rem;
+      margin-left: .35rem;
+      vertical-align: middle;
+      cursor: help;
+      white-space: nowrap;
+      opacity: .75;
+    }
+
     /* ── Footer ─────────────────────────────────────────────────── */
     .footer {
       text-align: center;
@@ -337,6 +378,9 @@
     <div class="stat-chip">📰 <strong id="stat-total">—</strong> noticias hoy</div>
     <div class="stat-chip">🔄 Actualizado <strong id="stat-fecha">—</strong></div>
     <div class="stat-chip" id="stat-gemini" style="display:none"></div>
+    <div class="stat-chip stat-chip--alerta" id="stat-alertas" style="display:none" title="Noticias con keywords de alta urgencia jurídica">
+      🚨 <strong id="stat-n-alertas">—</strong> alertas urgentes
+    </div>
     <div class="stat-chip" id="stat-filtradas" style="display:none">
       🔍 Mostrando <strong id="stat-n-filtradas">—</strong>
     </div>
@@ -435,6 +479,25 @@
     } catch { return iso; }
   }
 
+  // ── Detección de alertas de alta urgencia ───────────────────────
+  const KEYWORDS_ALERTA = [
+    'SMA', 'SEIA', 'EIA', 'DIA', 'RCA', 'Escazú',
+    'Tribunal Ambiental', 'Corte Suprema',
+    'sanción ambiental', 'sanciona', 'sancionó', 'multa ambiental',
+    'clausura ambiental', 'recurso de protección',
+    'daño ambiental', 'pasivo ambiental',
+    'zona de sacrificio', 'sitio contaminado', 'vertedero ilegal',
+    'derrame', 'emergencia ambiental', 'contingencia ambiental',
+  ];
+
+  function esAlerta(titular) {
+    const t = titular.toLowerCase();
+    return KEYWORDS_ALERTA.some(kw => {
+      const escaped = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return new RegExp('\\b' + escaped + '\\b', 'i').test(titular);
+    });
+  }
+
   // ── Renderizado de la tabla ──────────────────────────────────────
   function renderTabla(noticias) {
     const contenido = document.getElementById('contenido');
@@ -460,7 +523,14 @@
 
     const thClass = (col) => ordenColumna === col ? 'sorted' : '';
 
-    const filas = noticias.map(n => `
+    const filas = noticias.map(n => {
+      const badgeFecha = n.fecha_confiable === false
+        ? '<span class="fecha-aprox" title="Fecha no verificada — el artículo no tiene timestamp explícito">~ fecha aprox.</span>'
+        : '';
+      const badgeAlerta = esAlerta(n.titular)
+        ? '<span class="alerta-badge" title="Contiene keywords de alta urgencia jurídica">🚨 urgente</span>'
+        : '';
+      return `
       <tr>
         <td class="col-fuente">
           <span class="fuente-badge" title="${esc(n.fuente)}">${esc(n.fuente)}</span>
@@ -469,7 +539,7 @@
           <span class="titular-texto">
             <a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer">
               ${esc(n.titular)}
-            </a>
+            </a>${badgeAlerta}${badgeFecha}
           </span>
         </td>
         <td class="col-fecha">
@@ -484,7 +554,8 @@
             Leer nota
           </a>
         </td>
-      </tr>`).join('');
+      </tr>`;
+    }).join('');
 
     contenido.innerHTML = `
       <div class="tabla-wrapper">
@@ -599,6 +670,13 @@
         document.getElementById('stat-gemini').style.display = 'flex';
         document.getElementById('stat-gemini').innerHTML = '⚠️ Sin filtro IA';
         document.getElementById('alerta-gemini').style.display = 'block';
+      }
+
+      // Chip de alertas urgentes (detección client-side)
+      const nAlertas = noticiasOriginales.filter(n => esAlerta(n.titular)).length;
+      if (nAlertas > 0) {
+        document.getElementById('stat-n-alertas').textContent = nAlertas;
+        document.getElementById('stat-alertas').style.display = 'flex';
       }
 
       // Controles

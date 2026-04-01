@@ -39,7 +39,12 @@ jobs:
           pip install --upgrade pip
           pip install -r scraper/requirements.txt
 
-      # 4. Validar que GEMINI_API_KEY está configurada
+      # 4. Ejecutar tests de regresión antes del scraper
+      - name: Tests de regresión
+        run: |
+          python -m pytest scraper/tests/ -v --tb=short
+
+      # 5. Validar que GEMINI_API_KEY está configurada
       - name: Validar API key
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -50,7 +55,7 @@ jobs:
             echo "GEMINI_API_KEY configurada correctamente."
           fi
 
-      # 5. Ejecutar el scraper (con 1 reintento si falla)
+      # 6. Ejecutar el scraper (con 1 reintento si falla)
       - name: Ejecutar scraper de noticias
         id: scraper
         env:
@@ -62,7 +67,7 @@ jobs:
             python scraper/main.py
           }
 
-      # 6. Verificar que el JSON de salida es válido
+      # 7. Verificar que el JSON de salida es válido
       - name: Verificar resultado
         id: verificar
         run: |
@@ -84,18 +89,18 @@ jobs:
               sys.exit(1)
           "
 
-      # 7. Guardar los JSON actualizados en el repositorio
+      # 8. Guardar los JSON actualizados en el repositorio
       - name: Guardar resultados en GitHub
         run: |
           git config --global user.name  "Monitor Medioambiental Bot"
           git config --global user.email "bot@noreply.github.com"
-          git add data/noticias.json data/historial.json
+          git add data/noticias.json data/historial.json data/salud_fuentes.json data/alertas.json
           # Solo hace commit si hay cambios
           git diff --staged --quiet \
             || git commit -m "🌿 Noticias actualizadas $(date +'%Y-%m-%d %H:%M') UTC"
           git push
 
-      # 8. Crear issue automático si el workflow falla
+      # 9. Crear issue automático si el workflow falla
       - name: Notificar fallo
         if: failure()
         uses: actions/github-script@v7

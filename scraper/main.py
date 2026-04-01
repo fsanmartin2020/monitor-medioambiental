@@ -21,7 +21,8 @@ import time
 import logging
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlunparse, parse_qs, urlencode
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -37,9 +38,12 @@ SCRIPT_DIR = Path(__file__).parent
 DATA_DIR = SCRIPT_DIR.parent / "data"
 NOTICIAS_FILE = DATA_DIR / "noticias.json"
 HISTORIAL_FILE = DATA_DIR / "historial.json"
+SALUD_FILE    = DATA_DIR / "salud_fuentes.json"
+ALERTAS_FILE  = DATA_DIR / "alertas.json"
 
-# Zona horaria de Chile continental (UTC-3)
-CHILE_TZ = timezone(timedelta(hours=-3))
+# Zona horaria de Chile continental — respeta horario de verano automáticamente
+# (UTC-3 en verano / UTC-4 en invierno según DST de America/Santiago)
+CHILE_TZ = ZoneInfo("America/Santiago")
 
 # Ventana de noticias: últimas 24 horas
 HORAS_VENTANA = 24
@@ -81,6 +85,44 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)],
 )
 logger = logging.getLogger(__name__)
+
+# ---------------------------------------------------------------------------
+# Normalización de URLs (para deduplicación robusta)
+# ---------------------------------------------------------------------------
+
+# Parámetros de tracking que se eliminan al canonicalizar
+_PARAMS_TRACKING = frozenset({
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+    "utm_id", "utm_name", "utm_cid", "fbclid", "gclid", "msclkid",
+    "mc_eid", "_ga", "_gl", "ref", "source",
+})
+
+
+def normalizar_url(url: str) -> str:
+    """
+    Canonicaliza una URL para deduplicación confiable:
+    - Lowercase de esquema y host
+    - Elimina parámetros de tracking (utm_*, fbclid, gclid, etc.)
+    - Ordena los query params restantes alfabéticamente (diffs estables)
+    - Elimina barra final innecesaria del path
+    Devuelve la URL original si no puede parsearse.
+    """
+    try:
+        p = urlparse(url.strip())
+        scheme = p.scheme.lower()
+        netloc = p.netloc.lower()
+        path = p.path.rstrip("/") or "/"
+        # Filtrar tracking params y ordenar el resto
+        params = parse_qs(p.query, keep_blank_values=True)
+        params_limpios = {
+            k: v for k, v in params.items()
+            if k.lower() not in _PARAMS_TRACKING
+        }
+        query = urlencode(sorted(params_limpios.items()), doseq=True)
+        return urlunparse((scheme, netloc, path, p.params, query, ""))
+    except Exception:
+        return url
+
 
 # ---------------------------------------------------------------------------
 # Utilidades de fecha
@@ -142,9 +184,13 @@ def parse_fecha(texto: str) -> datetime | None:
 
 
 def es_reciente(fecha: datetime | None, horas: int = HORAS_VENTANA) -> bool:
-    """True si la fecha es dentro de la ventana configurada."""
+    """
+    True si la fecha cae dentro de la ventana configurada.
+    Si fecha es None, devuelve True para que el artículo pase la fase de extracción;
+    el filtrado por fecha_confiable ocurre después en procesar_fuente/_filtrar_sin_fecha.
+    """
     if fecha is None:
-        return True  # Sin fecha: incluir y dejar que Gemini filtre
+        return True
     ahora = datetime.now(timezone.utc)
     if fecha.tzinfo is None:
         fecha = fecha.replace(tzinfo=CHILE_TZ)
@@ -176,15 +222,16 @@ def cargar_historial() -> list:
     return []
 
 
-def guardar_historial(historial_anterior: list, nuevas_urls: set) -> None:
+def guardar_historial(historial_anterior: list, nuevas_urls: list) -> None:
     """
-    Combina historial anterior con nuevas URLs y guarda, limitando el tamaño.
-    Mantiene el orden: las URLs antiguas van primero, las nuevas al final.
-    Al recortar, se eliminan las más antiguas (del inicio de la lista).
+    Combina historial anterior con nuevas URLs (ya normalizadas) y guarda,
+    limitando el tamaño. Las URLs antiguas van primero, las nuevas al final.
+    Al recortar se eliminan las más antiguas (del inicio de la lista).
+    nuevas_urls debe ser una lista ordenada por aparición (no un set).
     """
     # Conjunto para búsqueda rápida de duplicados
     ya_vistas = set(historial_anterior)
-    # Agregar solo URLs realmente nuevas al final (preserva orden cronológico)
+    # Agregar solo URLs realmente nuevas al final (preserva orden de aparición)
     nuevas = [url for url in nuevas_urls if url not in ya_vistas]
     todas = historial_anterior + nuevas
     # Recortar las más antiguas (inicio de la lista) si excede el máximo
@@ -200,16 +247,57 @@ def guardar_historial(historial_anterior: list, nuevas_urls: set) -> None:
 
 
 def guardar_noticias(noticias: list, gemini_disponible: bool) -> None:
-    """Guarda las noticias del día en noticias.json."""
+    """
+    Guarda las noticias del día en noticias.json.
+    Incluye metadatos de calidad (fecha_confiable, metodo_extraccion).
+    El campo 'extracto' se usa solo en el pipeline de clasificación y se omite
+    del output para mantener el JSON liviano.
+    """
+    CAMPOS_PIPELINE = {"extracto"}
+    noticias_limpias = [
+        {k: v for k, v in n.items() if k not in CAMPOS_PIPELINE}
+        for n in noticias
+    ]
     data = {
         "fecha_actualizacion": datetime.now(CHILE_TZ).isoformat(),
-        "total": len(noticias),
+        "total": len(noticias_limpias),
         "gemini_disponible": gemini_disponible,
-        "noticias": noticias,
+        "noticias": noticias_limpias,
     }
     with open(NOTICIAS_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    logger.info(f"noticias.json guardado con {len(noticias)} noticias")
+    logger.info(f"noticias.json guardado con {len(noticias_limpias)} noticias")
+
+
+# ---------------------------------------------------------------------------
+# Salud de fuentes
+# ---------------------------------------------------------------------------
+
+def guardar_salud_fuentes(registros: list) -> None:
+    """
+    Persiste data/salud_fuentes.json con el estado de cada fuente en la corrida.
+    Cada registro incluye: fuente, metodo_configurado, metodo_usado, estado
+    (ok/vacio/error), n_articulos, duracion_ms, error.
+    Útil para detectar fuentes caídas, lentas o que no aportan artículos.
+    """
+    fuentes_ok     = sum(1 for r in registros if r["estado"] == "ok")
+    fuentes_vacias = sum(1 for r in registros if r["estado"] == "vacio")
+    fuentes_error  = sum(1 for r in registros if r["estado"] == "error")
+
+    data = {
+        "fecha_generacion": datetime.now(CHILE_TZ).isoformat(),
+        "total_fuentes": len(registros),
+        "fuentes_ok":     fuentes_ok,
+        "fuentes_vacias": fuentes_vacias,
+        "fuentes_error":  fuentes_error,
+        "registros": registros,
+    }
+    with open(SALUD_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    logger.info(
+        f"salud_fuentes.json guardado — OK: {fuentes_ok} | "
+        f"Vacías: {fuentes_vacias} | Error: {fuentes_error}"
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -252,12 +340,26 @@ def fetch_rss(rss_url: str, nombre: str) -> list:
             if titulo:
                 titulo = BeautifulSoup(titulo, "html.parser").get_text(strip=True)
 
+            # Extracto: summary > description > primer bloque de content
+            extracto_raw = (
+                getattr(entry, "summary", None)
+                or getattr(entry, "description", None)
+                or (entry.get("content", [{}])[0].get("value") if entry.get("content") else None)
+            )
+            extracto = ""
+            if extracto_raw:
+                extracto = BeautifulSoup(extracto_raw, "html.parser").get_text(separator=" ", strip=True)
+                extracto = " ".join(extracto.split())[:250]
+
             if url_noticia and titulo and len(titulo) > 10:
                 articulos.append({
                     "fuente": nombre,
                     "titular": titulo,
                     "url": url_noticia,
                     "fecha": fecha_chile_str(fecha_dt),
+                    "fecha_confiable": fecha_raw is not None,
+                    "metodo_extraccion": "rss",
+                    "extracto": extracto,
                 })
 
         return articulos
@@ -270,7 +372,10 @@ def fetch_rss(rss_url: str, nombre: str) -> list:
 def intentar_rss(fuente: dict) -> list | None:
     """
     Prueba todos los RSS URLs configurados para una fuente.
-    Devuelve lista (puede estar vacía) si algún feed fue válido, None si todos fallaron.
+    - Devuelve lista de artículos si algún feed tenía entradas (puede estar vacía
+      si ninguna es reciente, pero el feed en sí funciona).
+    - Devuelve None si todos los feeds fallaron O estaban completamente vacíos,
+      para que procesar_fuente pueda intentar sitemap/scraping.
     """
     rss_urls = []
     if fuente.get("rss_url"):
@@ -281,9 +386,13 @@ def intentar_rss(fuente: dict) -> list | None:
         try:
             feed = feedparser.parse(url, request_headers=HEADERS)
             if not feed.bozo or feed.entries:
+                if not feed.entries:
+                    # Feed accesible pero sin entradas: no detener la cadena de fallback
+                    logger.info(f"  RSS sin entradas ({url}), probando siguiente método…")
+                    continue
                 articulos = fetch_rss(url, fuente["nombre"])
                 logger.info(f"  RSS OK ({url}): {len(articulos)} artículos recientes")
-                return articulos
+                return articulos  # Feed con entradas: confiar en él (aunque no haya recientes)
         except Exception:
             continue
 
@@ -336,11 +445,16 @@ def _jsonld_articles(soup: BeautifulSoup, base_url: str, nombre: str) -> list:
                 fecha_dt = parse_fecha(fecha_raw)
                 if not es_reciente(fecha_dt):
                     continue
+                desc_raw = item.get("description", "").strip()
+                extracto = " ".join(desc_raw.split())[:250] if desc_raw else ""
                 articulos.append({
                     "fuente": nombre,
                     "titular": BeautifulSoup(titulo, "html.parser").get_text(strip=True),
                     "url": _url_absoluta(url_art, base_url),
                     "fecha": fecha_chile_str(fecha_dt),
+                    "fecha_confiable": fecha_raw is not None,
+                    "metodo_extraccion": "json-ld",
+                    "extracto": extracto,
                 })
         except Exception:
             continue
@@ -354,6 +468,8 @@ def _article_tags(soup: BeautifulSoup, base_url: str, nombre: str) -> list:
         "article",
         "[class*='noticia']", "[class*='news-item']", "[class*='post-item']",
         "[class*='card']", "[class*='entry']", "[class*='item-noticia']",
+        # Drupal Views (ej. SEA)
+        "[class*='views-row']",
     ]
     elementos = []
     for sel in selectores:
@@ -362,10 +478,17 @@ def _article_tags(soup: BeautifulSoup, base_url: str, nombre: str) -> list:
             break
 
     for elem in elementos[:30]:
-        # Título: buscar h1-h4 o un <a> con texto largo
+        # Título: buscar h1-h4 o el primer <a> con texto significativo (omite links de imagen)
         title_tag = elem.find(["h1", "h2", "h3", "h4"])
-        link_tag = elem.find("a", href=True)
         time_tag = elem.find("time")
+
+        # Buscar link con texto real (no solo imagen)
+        link_tag = None
+        for a in elem.find_all("a", href=True):
+            texto_a = a.get_text(strip=True)
+            if texto_a and len(texto_a) >= 10:
+                link_tag = a
+                break
 
         titulo = ""
         if title_tag:
@@ -394,12 +517,18 @@ def _article_tags(soup: BeautifulSoup, base_url: str, nombre: str) -> list:
         if fecha_dt and not es_reciente(fecha_dt):
             continue
 
+        # Extracto: primer párrafo del contenedor
+        p_tag = elem.find("p")
+        extracto = " ".join(p_tag.get_text(strip=True).split())[:250] if p_tag else ""
+
         articulos.append({
             "fuente": nombre,
             "titular": titulo,
             "url": url_art,
             "fecha": fecha_chile_str(fecha_dt),
-            "_tiene_fecha": fecha_dt is not None,
+            "fecha_confiable": fecha_dt is not None,
+            "metodo_extraccion": "article-tags",
+            "extracto": extracto,
         })
 
     return articulos
@@ -444,7 +573,9 @@ def _links_genericos(soup: BeautifulSoup, base_url: str, nombre: str) -> list:
             "titular": texto,
             "url": href,
             "fecha": datetime.now(CHILE_TZ).strftime("%Y-%m-%d"),
-            "_tiene_fecha": False,
+            "fecha_confiable": False,
+            "metodo_extraccion": "links-genericos",
+            "extracto": "",
         })
 
     return articulos[:20]
@@ -467,19 +598,19 @@ def scrape_generic(fuente: dict) -> list:
         articulos = _jsonld_articles(soup, target_url, nombre)
         if articulos:
             logger.info(f"  Scraping JSON-LD {nombre}: {len(articulos)} artículos")
-            return [{k: v for k, v in a.items() if not k.startswith("_")} for a in articulos]
+            return articulos
 
         # Estrategia 2: <article> y contenedores
         articulos = _article_tags(soup, target_url, nombre)
         if len(articulos) >= 2:
             logger.info(f"  Scraping article-tags {nombre}: {len(articulos)} artículos")
-            return [{k: v for k, v in a.items() if not k.startswith("_")} for a in articulos]
+            return articulos
 
         # Estrategia 3: links genéricos
         articulos = _links_genericos(soup, target_url, nombre)
         if articulos:
             logger.info(f"  Scraping links {nombre}: {len(articulos)} artículos (sin fecha)")
-            return [{k: v for k, v in a.items() if not k.startswith("_")} for a in articulos]
+            return articulos
 
         logger.warning(f"  Scraping {nombre}: sin resultados")
         return []
@@ -587,6 +718,9 @@ def fetch_sitemap(fuente: dict) -> list:
                 "titular": titulo,
                 "url": url,
                 "fecha": fecha_chile_str(fecha_dt),
+                "fecha_confiable": item["lastmod"] is not None,
+                "metodo_extraccion": "sitemap",
+                "extracto": "",
             })
 
         logger.info(f"  Sitemap {nombre}: {len(articulos)} artículos recientes")
@@ -601,40 +735,127 @@ def fetch_sitemap(fuente: dict) -> list:
 # Procesamiento de fuentes
 # ---------------------------------------------------------------------------
 
+def _filtrar_sin_fecha(articulos: list, nombre: str, es_auto: bool) -> list:
+    """
+    Para fuentes auto_relevante, descarta artículos sin fecha confiable para
+    evitar incluir contenido desactualizado (links genéricos sin timestamp).
+    Para fuentes generalistas, los mantiene: Gemini filtrará por relevancia.
+    """
+    if not es_auto:
+        return articulos
+    con_fecha = [a for a in articulos if a.get("fecha_confiable", True)]
+    sin_fecha = len(articulos) - len(con_fecha)
+    if sin_fecha > 0:
+        logger.info(
+            f"  {sin_fecha} artículo(s) sin fecha descartados en {nombre} (fuente auto_relevante)"
+        )
+    return con_fecha
+
+
 def procesar_fuente(fuente: dict) -> list:
     """
     Procesa una fuente y devuelve sus artículos.
     Cadena de fallback completa: RSS → Sitemap → Scraping HTML.
+    Para fuentes auto_relevante, filtra artículos sin fecha confiable.
     """
     nombre = fuente["nombre"]
     metodo = fuente.get("metodo", "rss")
+    es_auto = fuente.get("auto_relevante", False)
 
     # Paso 1: Intentar RSS (si la fuente lo tiene configurado)
     if metodo == "rss" or fuente.get("rss_url") or fuente.get("rss_urls"):
         resultado = intentar_rss(fuente)
         if resultado is not None:
-            return resultado
+            return _filtrar_sin_fecha(resultado, nombre, es_auto)
         logger.info(f"  RSS falló en {nombre}, intentando siguiente método…")
 
     # Paso 2: Intentar Sitemap (si la fuente lo tiene configurado)
     if fuente.get("sitemap_url"):
         resultado = fetch_sitemap(fuente)
         if resultado:
-            return resultado
+            return _filtrar_sin_fecha(resultado, nombre, es_auto)
         logger.info(f"  Sitemap falló en {nombre}, intentando scraping…")
 
     # Paso 3: Scraping HTML genérico como último recurso
-    return scrape_generic(fuente)
+    return _filtrar_sin_fecha(scrape_generic(fuente), nombre, es_auto)
 
 
 # ---------------------------------------------------------------------------
 # Clasificación con Gemini
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Pre-filtro por keywords (antes de Gemini)
+# ---------------------------------------------------------------------------
+
+# Términos que garantizan relevancia — el artículo entra sin consultar Gemini.
+# Solo incluir términos inequívocamente ambientales/jurídicos.
+_KW_AUTO_SI = [
+    "SMA", "Superintendencia del Medio Ambiente",
+    "SEA", "Servicio de Evaluación Ambiental",
+    "SEIA", "EIA", "DIA", "RCA",
+    "Tribunal Ambiental", "Tribunales Ambientales",
+    "Escazú",
+    "Ley REP", "Ley de Glaciares", "Ley Marco de Cambio Climático",
+    "daño ambiental", "pasivo ambiental",
+    "zona de sacrificio", "sitio contaminado",
+    "emergencia ambiental",
+]
+
+# Términos que garantizan irrelevancia — el artículo se descarta sin consultar Gemini.
+# Solo incluir términos que NUNCA tienen ángulo ambiental.
+_KW_AUTO_NO = [
+    # Deportes
+    "Champions League", "Premier League", "La Liga", "Bundesliga",
+    "NBA", "NFL", "ATP", "Roland Garros", "Wimbledon",
+    "Tour de France", "Vuelta España", "Fórmula 1", "Formula 1", "MotoGP",
+    "Copa Libertadores",
+    # Entretenimiento
+    "Gran Hermano", "MasterChef", "Top Chef",
+    "farándula", "telenovela", "reality show",
+    "premios Oscar", "premios Grammy", "premios Emmy",
+    # Finanzas puras
+    "Dow Jones", "S&P 500", "Nasdaq", "Nikkei",
+    "NFT",
+]
+
+# Compilar una vez para eficiencia
+_PATRONES_AUTO_SI = [
+    re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE) for kw in _KW_AUTO_SI
+]
+_PATRONES_AUTO_NO = [
+    re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE) for kw in _KW_AUTO_NO
+]
+
+
+def _prefiltro_keywords(articulos: list) -> tuple[list, list, list]:
+    """
+    Clasifica artículos por keywords antes de llamar a Gemini.
+    Busca en titular + extracto para mayor precisión.
+    Devuelve (auto_si, auto_no, ambiguos).
+    - auto_si:   entran directo como relevantes
+    - auto_no:   se descartan directo
+    - ambiguos:  van a Gemini
+    """
+    auto_si, auto_no, ambiguos = [], [], []
+    for art in articulos:
+        texto = f"{art['titular']} {art.get('extracto', '')}"
+        if any(pat.search(texto) for pat in _PATRONES_AUTO_SI):
+            auto_si.append(art)
+        elif any(pat.search(texto) for pat in _PATRONES_AUTO_NO):
+            auto_no.append(art)
+        else:
+            ambiguos.append(art)
+    return auto_si, auto_no, ambiguos
+
+
 PROMPT_TEMPLATE = """\
 Eres un clasificador experto en derecho medioambiental chileno.
-Tu tarea: decidir si cada titular es relevante para un abogado \
+Tu tarea: decidir si cada noticia es relevante para un abogado \
 especializado en derecho medioambiental en Chile.
+
+Cada ítem puede tener un TITULAR y, opcionalmente, un EXTRACTO (primer párrafo).
+Usa ambos para decidir cuando el titular sea ambiguo.
 
 RELEVANTE ("si") — noticias sobre:
 - Contaminación (agua, aire, suelo, ruido, lumínica)
@@ -658,23 +879,35 @@ NO RELEVANTE ("no"):
 - Salud general, educación, delincuencia, accidentes
 - Minería/energía si solo habla de precios, producción o resultados financieros
 
-EJEMPLO RESUELTO (para que entiendas el criterio):
-Titulares:
-1. SMA sanciona a minera por daño a humedal en Atacama
-2. Tabilo avanza en ranking ATP tras victoria en Miami
-3. Gobierno presenta proyecto de ley para proteger glaciares
-4. Grupo Yarur aumentó fuertemente sus ganancias
-5. Precio del cobre cae por tensiones geopolíticas
+CASOS GRISES — criterio para decidir:
+- "Codelco anuncia nuevo proyecto en Atacama" → DEPENDE del extracto:
+  si menciona EIA, permisos o impacto ambiental → "si"; si es solo financiero → "no"
+- "Precio del litio cae" → "no" (mercado, sin regulación ambiental)
+- "Gobierno regula extracción de litio en salares" → "si" (normativa ambiental)
+- "Incendio en Valparaíso" → "no" (accidente, salvo que mencione daño ambiental)
+- "Incendio forestal destruye 5.000 há en La Araucanía" → "si" (daño ecosistema)
+- "Planta desaladora en Antofagasta" → DEPENDE: si habla de permiso/impacto → "si"; \
+si es solo inversión → "no"
 
-Respuesta correcta: ["si","no","si","no","no"]
+EJEMPLO RESUELTO:
+1. TITULAR: SMA sanciona a minera por daño a humedal en Atacama
+2. TITULAR: Tabilo avanza en ranking ATP tras victoria en Miami
+3. TITULAR: Gobierno presenta proyecto de ley para proteger glaciares
+4. TITULAR: Grupo Yarur aumentó fuertemente sus ganancias
+5. TITULAR: Codelco presentará EIA para proyecto Rajo Inca ante el SEA
+   EXTRACTO: "La minera estatal ingresará el estudio de impacto ambiental esta semana..."
+6. TITULAR: Codelco aumentó producción de cobre un 12% en el trimestre
+   EXTRACTO: "Los resultados financieros superaron las expectativas del mercado..."
+
+Respuesta correcta: ["si","no","si","no","si","no"]
 
 INSTRUCCIONES DE FORMATO:
 1. Responde SOLO con un array JSON, sin texto antes ni después.
-2. El array debe tener exactamente {n} elementos, uno por titular, en el mismo orden.
+2. El array debe tener exactamente {n} elementos, uno por ítem, en el mismo orden.
 3. Cada elemento es "si" o "no" (minúsculas, sin acentos).
-4. Ante la duda, responde "si" para no perder noticias relevantes.
+4. Ante la duda genuina, responde "si" para no perder noticias relevantes.
 
-Titulares:
+Noticias:
 {titulares}"""
 
 
@@ -713,8 +946,11 @@ def _extraer_json_array(texto: str) -> list | None:
 def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
     """
     Clasifica los artículos usando Gemini.
+    Antes de llamar a la API aplica un pre-filtro por keywords:
+      - auto_si:  entran directo sin gastar tokens
+      - auto_no:  se descartan directo sin gastar tokens
+      - ambiguos: van a Gemini con titular + extracto cuando esté disponible
     Devuelve (lista_relevantes, gemini_disponible).
-    Si Gemini no está disponible, devuelve todos los artículos.
     Ante fallo irrecuperable de un batch, lo descarta (conservador: menos ruido).
     """
     if not GEMINI_API_KEY:
@@ -724,6 +960,15 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
     if not articulos:
         return [], True
 
+    # ── Pre-filtro por keywords ──────────────────────────────────────────────
+    auto_si, auto_no, ambiguos = _prefiltro_keywords(articulos)
+    logger.info(
+        f"Pre-filtro keywords: {len(auto_si)} auto-si | "
+        f"{len(auto_no)} auto-no descartados | {len(ambiguos)} → Gemini"
+    )
+    if not ambiguos:
+        return auto_si, True  # nada que clasificar con Gemini
+
     try:
         import google.generativeai as genai
         genai.configure(api_key=GEMINI_API_KEY)
@@ -732,17 +977,22 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
         logger.error(f"Error inicializando Gemini: {e}")
         return articulos, False
 
-    relevantes = []
-    total_batches = (len(articulos) + BATCH_SIZE - 1) // BATCH_SIZE
+    relevantes_gemini = []
+    total_batches = (len(ambiguos) + BATCH_SIZE - 1) // BATCH_SIZE
     batches_fallidos = 0
 
     POSITIVOS = ("si", "sí", "yes", "true", "1")
 
-    for batch_idx, i in enumerate(range(0, len(articulos), BATCH_SIZE), start=1):
-        batch = articulos[i : i + BATCH_SIZE]
-        titulares_texto = "\n".join(
-            f"{j + 1}. {a['titular']}" for j, a in enumerate(batch)
-        )
+    for batch_idx, i in enumerate(range(0, len(ambiguos), BATCH_SIZE), start=1):
+        batch = ambiguos[i : i + BATCH_SIZE]
+        # Incluir extracto cuando esté disponible para mejor contexto
+        lineas = []
+        for j, a in enumerate(batch):
+            linea = f"{j + 1}. TITULAR: {a['titular']}"
+            if a.get("extracto"):
+                linea += f"\n   EXTRACTO: \"{a['extracto']}\""
+            lineas.append(linea)
+        titulares_texto = "\n".join(lineas)
         prompt = PROMPT_TEMPLATE.format(n=len(batch), titulares=titulares_texto)
 
         clasificaciones = None
@@ -780,20 +1030,94 @@ def clasificar_con_gemini(articulos: list) -> tuple[list, bool]:
             count_si = 0
             for articulo, clasif in zip(batch, clasificaciones):
                 if str(clasif).lower().strip() in POSITIVOS:
-                    relevantes.append(articulo)
+                    relevantes_gemini.append(articulo)
                     count_si += 1
             logger.info(
                 f"Gemini batch {batch_idx}/{total_batches}: {count_si}/{len(batch)} relevantes"
             )
 
         # Respetar rate limit del tier gratuito
-        if i + BATCH_SIZE < len(articulos):
+        if i + BATCH_SIZE < len(ambiguos):
             time.sleep(2)
 
     if batches_fallidos:
         logger.warning(f"Batches descartados por error irrecuperable: {batches_fallidos}/{total_batches}")
 
-    return relevantes, True
+    logger.info(
+        f"Clasificación final: {len(auto_si)} auto-si + {len(relevantes_gemini)} Gemini "
+        f"= {len(auto_si) + len(relevantes_gemini)} relevantes"
+    )
+    return auto_si + relevantes_gemini, True
+
+
+# ---------------------------------------------------------------------------
+# Alertas de alta urgencia
+# ---------------------------------------------------------------------------
+
+# Palabras o frases cuya aparición en un titular indica alta relevancia legal.
+# Se buscan con límites de palabra (case-insensitive) para evitar falsos positivos.
+KEYWORDS_ALERTAS = [
+    # Organismos reguladores y tribunales
+    "SMA", "Superintendencia del Medio Ambiente",
+    "SEA", "Servicio de Evaluación Ambiental",
+    "Tribunal Ambiental", "Tribunales Ambientales",
+    "Corte Suprema",
+    # Instrumentos clave
+    "SEIA", "EIA", "DIA", "RCA",
+    "Escazú",
+    "Ley REP", "Ley de Glaciares", "Ley Marco de Cambio Climático",
+    # Acciones legales / sanciones
+    "sanción ambiental", "sanciona", "sancionó", "sanciones ambientales",
+    "multa ambiental",
+    "clausura ambiental",
+    "recurso de protección",
+    "daño ambiental", "pasivo ambiental",
+    # Situaciones de urgencia territorial
+    "zona de sacrificio",
+    "sitio contaminado", "sitios contaminados",
+    "vertedero ilegal",
+    "derrame", "contingencia ambiental", "emergencia ambiental",
+]
+
+# Compilar patrones una sola vez para eficiencia
+_PATRONES_ALERTAS = [
+    (kw, re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE))
+    for kw in KEYWORDS_ALERTAS
+]
+
+
+def detectar_alertas(noticias: list) -> list:
+    """
+    Filtra las noticias relevantes que contienen al menos una keyword crítica
+    en el titular. Devuelve lista con campo adicional 'keywords_detectadas'.
+    """
+    alertas = []
+    for noticia in noticias:
+        titulo = noticia.get("titular", "")
+        detectadas = [kw for kw, pat in _PATRONES_ALERTAS if pat.search(titulo)]
+        if detectadas:
+            alertas.append({**noticia, "keywords_detectadas": detectadas})
+    return alertas
+
+
+def guardar_alertas(alertas: list) -> None:
+    """
+    Persiste data/alertas.json con las noticias de alta urgencia de la corrida.
+    Útil para integraciones externas (notificaciones, issues de GitHub, etc.).
+    """
+    data = {
+        "fecha_generacion": datetime.now(CHILE_TZ).isoformat(),
+        "total_alertas": len(alertas),
+        "alertas": alertas,
+    }
+    with open(ALERTAS_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    if alertas:
+        logger.info(f"alertas.json guardado — {len(alertas)} alertas de alta urgencia:")
+        for a in alertas:
+            logger.info(f"  🚨 [{', '.join(a['keywords_detectadas'])}] {a['titular'][:80]}")
+    else:
+        logger.info("alertas.json guardado — sin alertas de alta urgencia esta corrida")
 
 
 # ---------------------------------------------------------------------------
@@ -811,7 +1135,8 @@ def main() -> None:
 
     # Cargar historial de URLs procesadas (lista ordenada cronológicamente)
     historial = cargar_historial()
-    historial_set = set(historial)  # set para búsqueda rápida O(1)
+    # Normalizar al cargar para que el dedup sea robusto frente a UTMs, etc.
+    historial_set = {normalizar_url(u) for u in historial}
     logger.info(f"URLs en historial: {len(historial)}")
 
     # Importar fuentes
@@ -826,15 +1151,20 @@ def main() -> None:
     todos_articulos = []      # todos (para actualizar historial)
     fuentes_ok = 0
     fuentes_error = 0
+    registros_salud = []      # estado de cada fuente para salud_fuentes.json
 
     for fuente in FUENTES:
         nombre = fuente["nombre"]
         es_auto = fuente.get("auto_relevante", False)
+        t_inicio = time.time()
+        articulos = []
+        error_msg = None
+
         try:
             articulos = procesar_fuente(fuente)
 
-            # Filtrar URLs ya vistas
-            nuevos = [a for a in articulos if a["url"] not in historial_set]
+            # Filtrar URLs ya vistas (comparar con URL normalizada)
+            nuevos = [a for a in articulos if normalizar_url(a["url"]) not in historial_set]
             n_skip = len(articulos) - len(nuevos)
             if n_skip > 0:
                 logger.info(f"  → {len(nuevos)} nuevos ({n_skip} ya vistos)")
@@ -851,6 +1181,23 @@ def main() -> None:
         except Exception as e:
             logger.error(f"  ERROR procesando {nombre}: {e}")
             fuentes_error += 1
+            error_msg = str(e)
+
+        duracion_ms = int((time.time() - t_inicio) * 1000)
+        metodo_usado = (
+            articulos[0].get("metodo_extraccion", fuente.get("metodo", "?"))
+            if articulos else fuente.get("metodo", "?")
+        )
+        estado = "error" if error_msg else ("ok" if articulos else "vacio")
+        registros_salud.append({
+            "fuente":              nombre,
+            "metodo_configurado":  fuente.get("metodo", "rss"),
+            "metodo_usado":        metodo_usado,
+            "estado":              estado,
+            "n_articulos":         len(articulos),
+            "duracion_ms":         duracion_ms,
+            "error":               error_msg,
+        })
 
         time.sleep(PAUSA_ENTRE_FUENTES)
 
@@ -878,12 +1225,22 @@ def main() -> None:
     # Guardar resultados
     guardar_noticias(noticias_relevantes, gemini_ok)
 
-    # Actualizar historial con todas las URLs encontradas (relevantes o no)
-    nuevas_urls = {a["url"] for a in todos_articulos}
+    # Actualizar historial con todas las URLs encontradas (relevantes o no).
+    # Usar lista ordenada por aparición con URLs normalizadas — sin set para
+    # mantener orden determinístico y evitar diffs ruidosos en git.
+    nuevas_urls = list(dict.fromkeys(normalizar_url(a["url"]) for a in todos_articulos))
     guardar_historial(historial, nuevas_urls)
+
+    # Guardar estado de salud de fuentes
+    guardar_salud_fuentes(registros_salud)
+
+    # Detectar y guardar alertas de alta urgencia
+    alertas = detectar_alertas(noticias_relevantes)
+    guardar_alertas(alertas)
 
     logger.info("=" * 65)
     logger.info(f"  COMPLETADO: {len(noticias_relevantes)} noticias relevantes guardadas")
+    logger.info(f"  Alertas urgentes:  {len(alertas)}")
     logger.info(f"  Gemini: {'activo' if gemini_ok else 'no disponible (sin filtro)'}")
     logger.info("=" * 65)
 
