@@ -1,0 +1,78 @@
+{
+  "fecha_generacion": "2026-04-01T09:06:08.123091-03:00",
+  "total_alertas": 6,
+  "alertas": [
+    {
+      "fuente": "REDIMIN",
+      "titular": "Senado argentino aprobó cambios a la Ley de Glaciares y el debate minero pasó a Diputados",
+      "url": "https://www.redimin.cl/senado-argentino-aprobo-cambios-a-la-ley-de-glaciares-y-el-debate-minero-paso-a-diputados/",
+      "fecha": "2026-04-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Senado de Argentina aprobó una reforma a la Ley de Glaciares que redefine las zonas protegidas, reabriendo el debate sobre el equilibrio entre la protección del agua y el desarrollo minero. Esta modificación, aún sujeta a revisión en Diputados, pl",
+      "keywords_detectadas": [
+        "Ley de Glaciares"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "En audiencia se revisó reclamación de Hoteles Campanario S.A tras resolución de la SMA que levantó clausura temporal de Restaurant Huentelauquén en La Serena",
+      "url": "https://www.1ta.cl/en-audiencia-se-reviso-reclamacion-de-hoteles-campanario-s-a-tras-resolucion-de-la-sma-que-levanto-clausura-temporal-de-restaurant-huentelauquen-en-la-serena/",
+      "fecha": "2026-03-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Hoteles Campanario reclama ante el Primer Tribunal Ambiental la decisión de la Superintendencia del Medio Ambiente (SMA) consistente en el alzamiento de la clausura temporal del restaurant Huentelauquén, tras haber incumplido la norma de emisión de r",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "14/04/2026: Fija audiencia en caso de «Municipalidad de Hualpén con Superintendencia del Medio Ambiente», Rol: R-25-2025",
+      "url": "https://3ta.cl/audiencias/14-04-2026-fija-audiencia-en-caso-de-municipalidad-de-hualpen-con-superintendencia-del-medio-ambiente-rol-r-25-2025/",
+      "fecha": "2026-03-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 14/04/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "23/04/2026: Fija audiencia en caso de «Sociedad Comercial Agrícola y Forestal Quimeyco Ltda con Superintendencia del Medio Ambiente», Rol: R-48-2025",
+      "url": "https://3ta.cl/audiencias/23-04-2026-fija-audiencia-en-caso-de-sociedad-comercial-agricola-y-forestal-quimeyco-ltda-con-superintendencia-del-medio-ambiente-rol-r-48-2025/",
+      "fecha": "2026-03-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 23/04/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "29/04/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026",
+      "url": "https://3ta.cl/audiencias/29-04-2026-fija-audiencia-en-caso-de-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente-rol-r-3-2026/",
+      "fecha": "2026-03-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 29/04/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA publicó nómina de 105 establecimientos afectos al Impuesto Verde 2025 con mayor peso en Biobío, Valparaíso y Antofagasta",
+      "url": "https://www.redimin.cl/sma-publico-nomina-de-105-establecimientos-afectos-al-impuesto-verde-2025-con-mayor-peso-en-biobio-valparaiso-y-antofagasta/",
+      "fecha": "2026-03-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Superintendencia del Medio Ambiente publicó el listado de 105 establecimientos que deberán pagar el Impuesto Verde en 2025, destacando la concentración de emisiones en regiones industriales clave. Este impuesto busca incentivar la reducción de emi",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    }
+  ]
+}
