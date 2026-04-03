@@ -1,36 +1,12 @@
 {
-  "fecha_generacion": "2026-04-02T08:56:57.545503-03:00",
-  "total_alertas": 20,
+  "fecha_generacion": "2026-04-03T08:54:03.061365-03:00",
+  "total_alertas": 9,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Líderes en sostenibilidad revelan los desafíos de la economía circular y la Ley REP en conversatorio de Codexverde y UDLA",
-      "url": "https://codexverde.cl/lideres-en-sostenibilidad-en-conversatorio-de-codexverde-y-udla/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con el objetivo de abrir espacios de reflexión y diálogo en torno al liderazgo femenino, Codexverde junto a la Facultad de Ingeniería y Negocios de la Universidad de Las Américas (UDLA) realizaron la III edición del webinar “Mujeres en la Sostenibili",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Proyectos por US$28.439 millones llegan al SEIA y es la mayor cifra trimestral en 34 años",
-      "url": "https://www.emol.com/noticias/Economia/2026/04/02/1196116/inversion-record-34-anos.html",
-      "fecha": "2026-04-02",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "08:22 |Expertos esperan que el alto flujo de iniciativas continúe.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
       "fuente": "Cooperativa",
-      "titular": "La ONG Sea-Watch denunció una \"hecatombe\" en el Mediterráneo con 104 muertos en tres días",
-      "url": "https://www.cooperativa.cl/noticias/mundo/italia/inmigrantes/la-ong-sea-watch-denuncio-una-hecatombe-en-el-mediterraneo-con-104/2026-04-01/201133.html",
-      "fecha": "2026-04-02",
+      "titular": "Garnero y la goleada 6-1 a Palestino: \"Ojalá que sea un trampolín para nosotros\"",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-la-goleada-6-1-a-palestino-ojala-que-sea-un-trampolin-para/2026-04-02/210506.html",
+      "fecha": "2026-04-03",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -39,207 +15,99 @@
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Los cinco puntos clave del plan del Gobierno para destrabar 42 proyectos por US$ 16.300 millones parados en el SEIA",
-      "url": "https://www.df.cl/empresas/industria/los-cinco-puntos-clave-del-plan-del-gobierno-para-destrabar-42-proyectos",
-      "fecha": "2026-04-02",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Los cinco puntos clave del plan del Gobierno para destrabar 42 proyectos por US$ 16.300 millones parados en el SEIA",
-      "url": "https://www.df.cl/empresas/industria/los-cinco-puntos-clave-del-plan-del-gobierno-para-destrabar-42-proyectos",
-      "fecha": "2026-04-02",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Reporte Minero",
-      "titular": "Proyecto Lobo Marte ingresa al SEIA con inversión de US$1.500 millones y vida útil de 22 años",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/proyecto-lobo-marte-eia-chile",
-      "fecha": "2026-04-02",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Estudiantes de Ingeniería en Conservación de Recursos Naturales de la UACh visitaron el Tercer Tribunal Ambiental",
-      "url": "https://3ta.cl/noticias/estudiantes-de-ingenieria-en-conservacion-de-recursos-naturales-de-la-uach-visitaron-el-tercer-tribunal-ambiental/",
-      "fecha": "2026-04-01",
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental confirma multa de $175 millones ordenada al Complejo Termoeléctrico Ventanas por incumplir PPDA de Concón, Quintero y Puchuncaví",
+      "url": "https://www.diarioconstitucional.cl/2026/04/03/segundo-tribunal-ambiental-confirma-multa-de-175-millones-ordenada-al-complejo-termoelectrico-ventanas-por-incumplir-ppda-de-concon-quintero-y-puchuncavi/",
+      "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Futuros ingenieros de la UACh conocieron sobre el rol del Tribunal y los procedimientos involucrados en la tramitación de las causas. Con el propósito de fortalecer la formación académica y el vínculo con la comunidad universitaria, el Tercer Tribuna",
+      "extracto": "El tribunal descartó ilegalidad en la sanción aplicada por la SMA al Complejo Termoeléctrico Ventanas por no reducir emisiones de SO₂ durante un episodio de alerta ambiental, destacando que las medidas del plan operacional deben ejecutarse de forma i",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA inicia fiscalización de episodios críticos en los Planes de Descontaminación desde el Maule hasta Aysén",
-      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-fiscalizacion-de-episodios-criticos-en-los-planes-de-descontaminacion-desde-el-maule-hasta-aysen/",
-      "fecha": "2026-04-01",
+      "fuente": "Terram",
+      "titular": "Tribunal Ambiental confirma multa de $175 millones a AES Andes por episodio de alerta en Quintero",
+      "url": "https://www.terram.cl/tribunal-ambiental-confirma-multa-de-175-millones-a-aes-andes-por-episodio-de-alerta-en-quintero/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Comercio de leña seca, uso de artefactos a leña en establecimientos comerciales y órganos del Estado y verificación de emisiones en calderas industriales y de calefacción, son las principales actividades que la SMA fiscalizará durante el período de G",
+      "extracto": "La empresa argumentó que no fue notificada formalmente, pero el tribunal desestimó el argumento, señalando que las medidas deben aplicarse de inmediato ante episodios críticos, sin depender de trámites administrativos. Fuente: El Mostrador, 1 de abri",
       "keywords_detectadas": [
-        "SMA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA impulsa programa con municipios para fortalecer la fiscalización de ruidos",
-      "url": "https://portal.sma.gob.cl/index.php/sma-impulsa-programa-con-municipios-para-fortalecer-la-fiscalizacion-de-ruidos/",
-      "fecha": "2026-04-01",
+      "fuente": "Terram",
+      "titular": "Los cinco puntos clave del plan del Gobierno para destrabar 42 proyectos por US$ 16.300 millones parados en el SEIA",
+      "url": "https://www.terram.cl/los-cinco-puntos-clave-del-plan-del-gobierno-para-destrabar-42-proyectos-por-us-16-300-millones-parados-en-el-seia/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa, que considera a 12 municipios, contempla la entrega en comodato de un sonómetro y calibrador acústico, para apoyar la medición de ruidos en el marco de la Norma de Emisión de Ruidos. La Superintendencia del Medio Ambiente (SMA) inició ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Biministro Mas destaca “renovado ambiente proinversión en el país” tras ingreso al SEIA de proyecto minero por US$1.500 millones",
-      "url": "https://www.mch.cl/biministro-mas-destaca-renovado-ambiente-proinversion-en-el-pais-tras-ingreso-al-seia-de-proyecto-minero-por-us1-500-millones/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "\"La inversión minera es fundamental para el crecimiento económico, la generación de empleos de calidad y la mejora en la calidad de vida de los chilenos\", recalcó la autoridad. La entrada Biministro Mas destaca “renovado ambiente proinversión en el p",
+      "extracto": "A un listado de 42 proyectos de inversión -con Resolución de Calificación Ambiental (RCA) aprobada en el Sistema de Evaluación de Impacto Ambiental (SEIA) que enfrentan retrasos administrativos, bloqueando inversiones por US$ 16.300 millones- benefic",
       "keywords_detectadas": [
         "SEIA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Aclara ingresa al SEIA última Adenda de su proyecto de tierras raras en Penco",
-      "url": "https://www.mch.cl/aclara-ingresa-al-seia-ultima-adenda-de-su-proyecto-de-tierras-raras-en-penco/",
-      "fecha": "2026-04-01",
+      "fuente": "La Tercera",
+      "titular": "“Antes de que sea demasiado tarde”: la nueva amenaza de Trump a Irán para cerrar un acuerdo",
+      "url": "https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La empresa incorporó un apartado con medidas adaptativas en el contexto de los incendios forestales ocurridos en la zona en enero de este año. La entrada Aclara ingresa al SEIA última Adenda de su proyecto de tierras raras en Penco se publicó primero",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA da a conocer listado de Declaraciones de Impacto Ambiental presentadas en marzo 2026",
-      "url": "https://www.mch.cl/sea-da-a-conocer-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-marzo-2026/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva de la institución. La entrada SEA da a conocer listado de Declaraciones de Impacto Ambiental presentadas en marzo 2026 se publicó p",
+      "extracto": "El presidente de EE.UU. amenazó a Teherán con nuevos ataques si no acepta un trato, tras difundir el video de un bombardeo contra un puente. Poco después, el ministro de Relaciones Exteriores iraní, Abbas Araqchi, aseguró que las ofensivas de este ti",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Región del Biobío: Parque eólico por más de US$5.100 millones ingresa al SEIA",
-      "url": "https://www.revistaei.cl/region-del-biobio-parque-eolico-por-mas-de-us5-100-millones-ingresa-al-seia/",
-      "fecha": "2026-04-01",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental pone bajo revisión proyecto minero en Atacama",
+      "url": "https://www.mch.cl/tribunal-ambiental-pone-bajo-revision-proyecto-minero-en-atacama/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El proyecto incorpora además un sistema de almacenamiento de energía mediante baterías (BESS), con una capacidad de 110 MW. La entrada Región del Biobío: Parque eólico por más de US$5.100 millones ingresa al SEIA se publicó primero en Revista Electri",
+      "extracto": "Recurso presentado por una comunidad apunta a deficiencias en la evaluación de impactos y omisión de la consulta indígena. La entrada Tribunal Ambiental pone bajo revisión proyecto minero en Atacama se publicó primero en Mch .",
       "keywords_detectadas": [
-        "SEIA"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA inicia fiscalización de episodios críticos en Planes de Descontaminación desde el Maule hasta Aysén",
-      "url": "https://www.revistaei.cl/sma-inicia-fiscalizacion-de-episodios-criticos-en-planes-de-descontaminacion-desde-el-maule-hasta-aysen/",
-      "fecha": "2026-04-01",
+      "titular": "Tribunal Ambiental confirma multa ordenada a complejo termoeléctrico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-multa-ordenada-al-complejo-termoelectrico/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Comercio de leña seca, uso de artefactos a leña en establecimientos comerciales y órganos del Estado y verificación de emisiones en calderas industriales y de calefacción, serán los principales focos. La entrada SMA inicia fiscalización de episodios ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental ratifica multa de $180 millones a Ventanas y fija precedente clave sobre alertas ambientales",
-      "url": "https://www.redimin.cl/tribunal-ambiental-ratifica-multa-de-180-millones-a-ventanas-y-fija-precedente-clave-sobre-alertas-ambientales/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental ratificó una multa de $180 millones al Complejo Termoeléctrico Ventanas por no cumplir con las reducciones de emisiones durante un episodio crítico de contaminación. Este fallo refuerza la responsabilidad inmediata de la",
+      "extracto": "La sentencia concluyó que no existió ilegalidad en la configuración de la sanción y que la resolución sancionatoria fue debidamente motivada por la Superintendencia del Medio Ambiente. La entrada Tribunal Ambiental confirma multa ordenada a complejo ",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Aclara ingresa adenda final al SEIA y empuja proyecto de tierras raras en Penco por US$130 millones",
-      "url": "https://www.redimin.cl/aclara-ingresa-adenda-final-al-seia-y-empuja-proyecto-de-tierras-raras-en-penco-por-us130-millones/",
-      "fecha": "2026-04-01",
+      "titular": "Inversión en el SEIA supera los US$24.300 millones y marca récord pese a caída de proyectos ingresados",
+      "url": "https://www.redimin.cl/inversion-en-el-seia-supera-los-us24-300-millones-y-marca-record-pese-a-caida-de-proyectos-ingresados/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Aclara avanza en la evaluación ambiental de su proyecto de tierras raras en Penco, con una inversión de US$130 millones y un enfoque sostenible que promete generar 2.200 empleos. La iniciativa busca posicionar a Chile en la producción de minerales cr",
+      "extracto": "El primer trimestre de 2026 muestra un notable aumento en la inversión del SEIA, alcanzando US$24.301 millones, a pesar de una caída en el número de proyectos. Este cambio refleja una tendencia hacia iniciativas más grandes y complejas, lo que plante",
       "keywords_detectadas": [
         "SEIA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Proyecto eólico Las Lilas inicia tramitación en el SEIA con inversión de US$5.100 millones en Biobío",
-      "url": "https://www.redimin.cl/proyecto-eolico-las-lilas-inicia-tramitacion-en-el-seia-con-inversion-de-us5-100-millones-en-biobio/",
-      "fecha": "2026-04-01",
+      "titular": "La Farola: Tribunal Ambiental admite reclamación que cuestiona proyecto de US$ 260 millones en Atacama",
+      "url": "https://www.redimin.cl/la-farola-tribunal-ambiental-admite-reclamacion-que-cuestiona-proyecto-de-us-260-millones-en-atacama/",
+      "fecha": "2026-04-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Parque Eólico Las Lilas, con una inversión de US$5.100 millones, busca generar 240 MW de energía eólica en la Región del Biobío, considerando aspectos ambientales y climáticos en su desarrollo. Este proyecto, que incluye un sistema de almacenamien",
+      "extracto": "La comunidad indígena Colla Tata Inti ha presentado una reclamación que podría invalidar la aprobación ambiental del proyecto minero La Farola, reabriendo el debate sobre la evaluación ambiental en zonas con alta actividad extractiva. Este caso es cr",
       "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Aclara ingresa al SEIA la última Adenda de su proyecto de tierras raras en Penco",
-      "url": "https://www.redimin.cl/aclara-ingresa-al-seia-la-ultima-adenda-de-su-proyecto-de-tierras-raras-en-penco/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Aclara ha presentado una Adenda Excepcional para su proyecto de tierras raras en Penco, respondiendo a observaciones técnicas de la autoridad y proponiendo medidas adaptativas tras recientes incendios. Este proyecto innovador busca posicionar a Chile",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto BESS en Subestación Panguilemo entra al SEIA con inversión de US$55,3 millones en Talca",
-      "url": "https://www.redimin.cl/proyecto-bess-en-subestacion-panguilemo-entra-al-seia-con-inversion-de-us553-millones-en-talca/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto Sistema de Almacenamiento de Energía en Subestación Panguilemo busca optimizar el suministro eléctrico en la Región del Maule, con una inversión de US$55,3 millones y una capacidad de almacenamiento de cuatro horas. Esta iniciativa fortal",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Aclara ingresa al SEIA la última Adenda de su proyecto de tierras raras en Penco",
-      "url": "https://www.nuevamineria.com/revista/aclara-ingresa-al-seia-la-ultima-adenda-de-su-proyecto-de-tierras-raras-en-penco/",
-      "fecha": "2026-04-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa, desarrollada por Aclara y Grupo CAP, contempla una inversión de US$130 millones y un estimado de 2.200 empleos directos e indirectos, con foco en Biobío. Aclara ingresó al Sistema de Evaluación de Impacto Ambiental (SEIA) la Adenda Exc",
-      "keywords_detectadas": [
-        "SEIA"
+        "Tribunal Ambiental"
       ]
     }
   ]
