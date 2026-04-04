@@ -1,237 +1,77 @@
 {
-  "fecha_actualizacion": "2026-04-03T08:54:03.050242-03:00",
-  "total": 29,
+  "fecha_actualizacion": "2026-04-04T08:38:43.514836-03:00",
+  "total": 9,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Los pulpos poseen un brazo reproductor que detecta a las hembras sin verlas",
-      "url": "https://efeverde.com/pulpos-poseen-brazo-reproductor-detecta-hembras-sin-verlas/",
-      "fecha": "2026-04-03",
+      "titular": "Recogen casi 900 toneladas de hidrocarburo tras el derrame de crudo en el Golfo de México",
+      "url": "https://efeverde.com/recogen-900-toneladas-hidrocarburo-derrame-crudo-golfo-mexico/",
+      "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nuestra cruz. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/nuestra-cruz-vineta-victor-solis-visoor/",
-      "fecha": "2026-04-03",
+      "titular": "Belén Moneo (arquitecta): Replantear el modelo urbano tras las intensas lluvias para tener ciudades más verdes",
+      "url": "https://efeverde.com/belen-moneo-arquitecta-replantear-modelo-urbano-lluvias-ciudades-verdes/",
+      "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Muebles, souvenirs o ropa, la nueva vida de sábanas y prendas gastadas de los peregrinos del Camino de Santiago",
-      "url": "https://efeverde.com/nueva-sabanas-y-prendas-gastadas-de-peregrinos-camino-de-santiago/",
-      "fecha": "2026-04-03",
+      "titular": "De aceite usado a jabón: la solución para hacer sostenible lo cotidiano de la empresa emergente Yenxa",
+      "url": "https://efeverde.com/aceite-usado-jabon-solucion-sostenible-yenxa/",
+      "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Garnero y la goleada 6-1 a Palestino: \"Ojalá que sea un trampolín para nosotros\"",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-la-goleada-6-1-a-palestino-ojala-que-sea-un-trampolin-para/2026-04-02/210506.html",
-      "fecha": "2026-04-03",
+      "fuente": "Emol",
+      "titular": "Inversiones directas, proyectos en el SEIA y montos en minería: Los negocios ya anunciados en la gestión de Kast",
+      "url": "https://www.emol.com/noticias/Economia/2026/04/04/1196199/inversiones-gestion-kast.html",
+      "fecha": "2026-04-04",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental confirma multa de $175 millones ordenada al Complejo Termoeléctrico Ventanas por incumplir PPDA de Concón, Quintero y Puchuncaví",
-      "url": "https://www.diarioconstitucional.cl/2026/04/03/segundo-tribunal-ambiental-confirma-multa-de-175-millones-ordenada-al-complejo-termoelectrico-ventanas-por-incumplir-ppda-de-concon-quintero-y-puchuncavi/",
+      "fuente": "Reporte Minero",
+      "titular": "Tribunal Ambiental confirma multa a AES Andes por incumplir plan de descontaminación en Ventanas",
+      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/tribunal-ambiental-confirma-multa-aes-andes-ventanas-ppda",
+      "fecha": "2026-04-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los parques urbanos almacenan tanto carbono en el suelo como los ecosistemas naturales",
+      "url": "https://efeverde.com/parques-urbanos-almacenan-carbono-suelo-ecosistemas-naturales/",
       "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Enlace Circular detecta 31 oportunidades de simbiosis industrial",
-      "url": "https://www.paiscircular.cl/economia-circular/enlace-circular-detecta-31-oportunidades-de-simbiosis-industrial/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "EFE Verde",
-      "titular": "De los planes a los acuerdos para donar: la ley contra el desperdicio alimentario entra en vigor en su totalidad",
-      "url": "https://efeverde.com/de-los-planes-a-los-acuerdos-para-donar-la-ley-contra-el-desperdicio-alimentario-entra-en-vigor-en-su-totalidad/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Recuperan las ostras de una investigación del Mar Menor 15 días después de su desaparición",
-      "url": "https://efeverde.com/recuperan-ostras-investigacion-mar-menor/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tribunal Ambiental confirma multa de $175 millones a AES Andes por episodio de alerta en Quintero",
-      "url": "https://www.terram.cl/tribunal-ambiental-confirma-multa-de-175-millones-a-aes-andes-por-episodio-de-alerta-en-quintero/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ni los incendios la detienen: minera de tierras raras insiste en tramitación de proyecto en Penco con nueva adenda",
-      "url": "https://www.terram.cl/ni-los-incendios-la-detienen-minera-de-tierras-raras-insiste-en-tramitacion-de-proyecto-en-penco-con-nueva-adenda/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Los cinco puntos clave del plan del Gobierno para destrabar 42 proyectos por US$ 16.300 millones parados en el SEIA",
-      "url": "https://www.terram.cl/los-cinco-puntos-clave-del-plan-del-gobierno-para-destrabar-42-proyectos-por-us-16-300-millones-parados-en-el-seia/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Las zanjas de Kast: animales y humedales del Altiplano están en riesgo por el plan fronterizo de Chile",
-      "url": "https://www.terram.cl/las-zanjas-de-kast-animales-y-humedales-del-altiplano-estan-en-riesgo-por-el-plan-fronterizo-de-chile/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Alcaldesa de Quilicura va a la justicia contra planta fotovoltaica en cerro y área de preservación",
-      "url": "https://www.terram.cl/alcaldesa-de-quilicura-va-a-la-justicia-contra-planta-fotovoltaica-en-cerro-y-area-de-preservacion/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "17 parques en 11,8 millones de hectáreas: El desafío de construir la ruta de naturaleza más importante del mundo en la Patagonia chilena",
-      "url": "https://www.terram.cl/17-parques-en-118-millones-de-hectareas-el-desafio-de-construir-la-ruta-de-naturaleza-mas-importante-del-mundo-en-la-patagonia-chilena/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Nuevo informe entrega claves para el seguimiento ciudadano de decretos ambientales retirados",
-      "url": "https://www.fima.cl/2026/04/02/nuevo-informe-entrega-claves-para-el-seguimiento-ciudadano-de-decretos-ambientales-retirados/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Tribunal decreta orden de arresto por incumplimiento de medidas de protección del humedal Puente Negro",
-      "url": "https://tribunalambiental.cl/tribunal-decreta-orden-de-arresto-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Ministerio de Agricultura impulsa la restauración del Jardín Botánico de Viña del Mar con donación de especies nativas",
-      "url": "https://www.conaf.cl/ministerio-de-agricultura-impulsa-la-restauracion-del-jardin-botanico-de-vina-del-mar-con-donacion-de-especies-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-agricultura-impulsa-la-restauracion-del-jardin-botanico-de-vina-del-mar-con-donacion-de-especies-nativas",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Seremi de Agricultura de Ñuble se reunió con equipo regional de CONAF",
-      "url": "https://www.conaf.cl/seremi-de-agricultura-de-nuble-se-reunio-con-equipo-regional-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=seremi-de-agricultura-de-nuble-se-reunio-con-equipo-regional-de-conaf",
-      "fecha": "2026-04-02",
+      "titular": "A más calor, menos movimiento: las altas temperaturas limitan la actividad del oso pardo cantábrico",
+      "url": "https://efeverde.com/mayor-calor-menor-movimiento-altas-temperaturas-limitan-actividad-oso-pardo/",
+      "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Francisca Garay Retamal asume como nueva Seremi de Medio Ambiente de la Región de Valparaíso",
-      "url": "https://mma.gob.cl/francisca-garay-retamal-asume-como-nueva-seremi-de-medio-ambiente-de-la-region-de-valparaiso/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades refuerzan llamado a cuidar el aire y evitar humos visibles en Curicó y Romeral",
-      "url": "https://mma.gob.cl/autoridades-refuerzan-llamado-a-cuidar-el-aire-y-evitar-humos-visibles-en-curico-y-romeral/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Temuco y Padre Las Casas inician temporada de Gestión de Episodios Críticos (GEC) 2026",
-      "url": "https://mma.gob.cl/temuco-y-padre-las-casas-inician-temporada-de-gestion-de-episodios-criticos-gec-2026/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "RETC",
-      "titular": "Ya abrió el proceso de declaración de emisiones para el sistema Registro Único de Emisiones Atmosféricas (RUEA)",
-      "url": "https://retc.mma.gob.cl/ya-abrio-el-proceso-de-declaracion-de-emisiones-para-el-sistema-registro-unico-de-emisiones-atmosfericas-ruea/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Antes de que sea demasiado tarde”: la nueva amenaza de Trump a Irán para cerrar un acuerdo",
-      "url": "https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Second Environmental Court Issues Arrest Warrant Against Inversiones Lampa Representatives for Violating Wetland Protection Orders",
-      "url": "https://www.elciudadano.com/en/second-environmental-court-issues-arrest-warrant-against-inversiones-lampa-representatives-for-violating-wetland-protection-orders/04/02/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental pone bajo revisión proyecto minero en Atacama",
-      "url": "https://www.mch.cl/tribunal-ambiental-pone-bajo-revision-proyecto-minero-en-atacama/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental confirma multa ordenada a complejo termoeléctrico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-multa-ordenada-al-complejo-termoelectrico/",
-      "fecha": "2026-04-02",
+      "titular": "Con pronóstico favorable inicia el periodo de Gestión de Episodios Críticos en Concepción Metropolitano y Los Ángeles",
+      "url": "https://mma.gob.cl/con-pronostico-favorable-inicia-el-periodo-de-gestion-de-episodios-criticos-en-concepcion-metropolitano-y-los-angeles/",
+      "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Inversión en el SEIA supera los US$24.300 millones y marca récord pese a caída de proyectos ingresados",
-      "url": "https://www.redimin.cl/inversion-en-el-seia-supera-los-us24-300-millones-y-marca-record-pese-a-caida-de-proyectos-ingresados/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "La Farola: Tribunal Ambiental admite reclamación que cuestiona proyecto de US$ 260 millones en Atacama",
-      "url": "https://www.redimin.cl/la-farola-tribunal-ambiental-admite-reclamacion-que-cuestiona-proyecto-de-us-260-millones-en-atacama/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Lobo Marte: inversión de US$ 1.500 millones reactiva confianza minera y marca giro proinversión en Chile",
-      "url": "https://www.redimin.cl/lobo-marte-inversion-de-us-1-500-millones-reactiva-confianza-minera-y-marca-giro-proinversion-en-chile/",
-      "fecha": "2026-04-02",
+      "titular": "Multa AES Andes: 214 UTA y un fallo que endurece el estándar ambiental en Ventanas",
+      "url": "https://www.redimin.cl/multa-aes-andes-214-uta-y-un-fallo-que-endurece-el-estandar-ambiental-en-ventanas/",
+      "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,111 +1,39 @@
 {
-  "fecha_generacion": "2026-04-03T08:54:03.061365-03:00",
-  "total_alertas": 9,
+  "fecha_generacion": "2026-04-04T08:38:43.524500-03:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Cooperativa",
-      "titular": "Garnero y la goleada 6-1 a Palestino: \"Ojalá que sea un trampolín para nosotros\"",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/garnero-y-la-goleada-6-1-a-palestino-ojala-que-sea-un-trampolin-para/2026-04-02/210506.html",
-      "fecha": "2026-04-03",
+      "fuente": "EFE Verde",
+      "titular": "Recogen casi 900 toneladas de hidrocarburo tras el derrame de crudo en el Golfo de México",
+      "url": "https://efeverde.com/recogen-900-toneladas-hidrocarburo-derrame-crudo-golfo-mexico/",
+      "fecha": "2026-04-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Ciudad de México.- El grupo interinstitucional que atiende el derrame de crudo en el litoral del Golfo de México ha recolectado 889,4 toneladas de contaminante en 48 playas de Veracruz, Tabasco y Campeche, de las cuales 2 ya quedaron sin arribazón y ",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Inversiones directas, proyectos en el SEIA y montos en minería: Los negocios ya anunciados en la gestión de Kast",
+      "url": "https://www.emol.com/noticias/Economia/2026/04/04/1196199/inversiones-gestion-kast.html",
+      "fecha": "2026-04-04",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
+      "extracto": "07:03 |El Gobierno ha impulsado medidas para destrabar los planes empresariales.",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Reporte Minero",
+      "titular": "Tribunal Ambiental confirma multa a AES Andes por incumplir plan de descontaminación en Ventanas",
+      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/tribunal-ambiental-confirma-multa-aes-andes-ventanas-ppda",
+      "fecha": "2026-04-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
       "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental confirma multa de $175 millones ordenada al Complejo Termoeléctrico Ventanas por incumplir PPDA de Concón, Quintero y Puchuncaví",
-      "url": "https://www.diarioconstitucional.cl/2026/04/03/segundo-tribunal-ambiental-confirma-multa-de-175-millones-ordenada-al-complejo-termoelectrico-ventanas-por-incumplir-ppda-de-concon-quintero-y-puchuncavi/",
-      "fecha": "2026-04-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El tribunal descartó ilegalidad en la sanción aplicada por la SMA al Complejo Termoeléctrico Ventanas por no reducir emisiones de SO₂ durante un episodio de alerta ambiental, destacando que las medidas del plan operacional deben ejecutarse de forma i",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tribunal Ambiental confirma multa de $175 millones a AES Andes por episodio de alerta en Quintero",
-      "url": "https://www.terram.cl/tribunal-ambiental-confirma-multa-de-175-millones-a-aes-andes-por-episodio-de-alerta-en-quintero/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La empresa argumentó que no fue notificada formalmente, pero el tribunal desestimó el argumento, señalando que las medidas deben aplicarse de inmediato ante episodios críticos, sin depender de trámites administrativos. Fuente: El Mostrador, 1 de abri",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Los cinco puntos clave del plan del Gobierno para destrabar 42 proyectos por US$ 16.300 millones parados en el SEIA",
-      "url": "https://www.terram.cl/los-cinco-puntos-clave-del-plan-del-gobierno-para-destrabar-42-proyectos-por-us-16-300-millones-parados-en-el-seia/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "A un listado de 42 proyectos de inversión -con Resolución de Calificación Ambiental (RCA) aprobada en el Sistema de Evaluación de Impacto Ambiental (SEIA) que enfrentan retrasos administrativos, bloqueando inversiones por US$ 16.300 millones- benefic",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Antes de que sea demasiado tarde”: la nueva amenaza de Trump a Irán para cerrar un acuerdo",
-      "url": "https://www.latercera.com/mundo/noticia/antes-de-que-sea-demasiado-tarde-la-nueva-amenaza-de-trump-a-iran-para-cerrar-un-acuerdo/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El presidente de EE.UU. amenazó a Teherán con nuevos ataques si no acepta un trato, tras difundir el video de un bombardeo contra un puente. Poco después, el ministro de Relaciones Exteriores iraní, Abbas Araqchi, aseguró que las ofensivas de este ti",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental pone bajo revisión proyecto minero en Atacama",
-      "url": "https://www.mch.cl/tribunal-ambiental-pone-bajo-revision-proyecto-minero-en-atacama/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Recurso presentado por una comunidad apunta a deficiencias en la evaluación de impactos y omisión de la consulta indígena. La entrada Tribunal Ambiental pone bajo revisión proyecto minero en Atacama se publicó primero en Mch .",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental confirma multa ordenada a complejo termoeléctrico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-multa-ordenada-al-complejo-termoelectrico/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La sentencia concluyó que no existió ilegalidad en la configuración de la sanción y que la resolución sancionatoria fue debidamente motivada por la Superintendencia del Medio Ambiente. La entrada Tribunal Ambiental confirma multa ordenada a complejo ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Inversión en el SEIA supera los US$24.300 millones y marca récord pese a caída de proyectos ingresados",
-      "url": "https://www.redimin.cl/inversion-en-el-seia-supera-los-us24-300-millones-y-marca-record-pese-a-caida-de-proyectos-ingresados/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El primer trimestre de 2026 muestra un notable aumento en la inversión del SEIA, alcanzando US$24.301 millones, a pesar de una caída en el número de proyectos. Este cambio refleja una tendencia hacia iniciativas más grandes y complejas, lo que plante",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "La Farola: Tribunal Ambiental admite reclamación que cuestiona proyecto de US$ 260 millones en Atacama",
-      "url": "https://www.redimin.cl/la-farola-tribunal-ambiental-admite-reclamacion-que-cuestiona-proyecto-de-us-260-millones-en-atacama/",
-      "fecha": "2026-04-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La comunidad indígena Colla Tata Inti ha presentado una reclamación que podría invalidar la aprobación ambiental del proyecto minero La Farola, reabriendo el debate sobre la evaluación ambiental en zonas con alta actividad extractiva. Este caso es cr",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
