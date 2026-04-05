@@ -1,77 +1,69 @@
 {
-  "fecha_actualizacion": "2026-04-04T08:38:43.514836-03:00",
-  "total": 9,
+  "fecha_actualizacion": "2026-04-05T07:45:18.623260-04:00",
+  "total": 8,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Recogen casi 900 toneladas de hidrocarburo tras el derrame de crudo en el Golfo de México",
-      "url": "https://efeverde.com/recogen-900-toneladas-hidrocarburo-derrame-crudo-golfo-mexico/",
-      "fecha": "2026-04-04",
+      "titular": "Desarrollan un sistema para detectar cetáceos en el Estrecho de Gibraltar mediante sus silbidos",
+      "url": "https://efeverde.com/desarrollan-sistema-detectar-cetaceos-silbidos-estrecho-de-gibraltar/",
+      "fecha": "2026-04-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Belén Moneo (arquitecta): Replantear el modelo urbano tras las intensas lluvias para tener ciudades más verdes",
-      "url": "https://efeverde.com/belen-moneo-arquitecta-replantear-modelo-urbano-lluvias-ciudades-verdes/",
-      "fecha": "2026-04-04",
+      "titular": "El ruido, un grave problema ambiental ignorado a menudo pese a su afección a la salud",
+      "url": "https://efeverde.com/ruido-problema-ambiental-ignorado-pese-afeccion-a-la-salud/",
+      "fecha": "2026-04-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "De aceite usado a jabón: la solución para hacer sostenible lo cotidiano de la empresa emergente Yenxa",
-      "url": "https://efeverde.com/aceite-usado-jabon-solucion-sostenible-yenxa/",
-      "fecha": "2026-04-04",
+      "titular": "El nuevo Gobierno de Chile suspende la construcción del mayor carril bici del país",
+      "url": "https://efeverde.com/gobierno-chile-suspende-construccion-mayor-carril-bici-pais/",
+      "fecha": "2026-04-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "¿Los cuervos son inteligentes? Todo indica que sí",
+      "url": "https://efeverde.com/los-cuervos-son-inteligentes-todo-indica-que-si/",
+      "fecha": "2026-04-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Emol",
-      "titular": "Inversiones directas, proyectos en el SEIA y montos en minería: Los negocios ya anunciados en la gestión de Kast",
-      "url": "https://www.emol.com/noticias/Economia/2026/04/04/1196199/inversiones-gestion-kast.html",
-      "fecha": "2026-04-04",
+      "titular": "Quiroz, Steinert, Sedini, Marín: Cómo Kast ha defendido a los ministros más cuestionados en el inicio del Gobierno",
+      "url": "https://www.emol.com/noticias/Nacional/2026/04/04/1196292/kast-defendido-ministros-cuestionados.html",
+      "fecha": "2026-04-05",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Reporte Minero",
-      "titular": "Tribunal Ambiental confirma multa a AES Andes por incumplir plan de descontaminación en Ventanas",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/tribunal-ambiental-confirma-multa-aes-andes-ventanas-ppda",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental analiza avances y solicitud de modificación en la ejecución de la conciliación en demanda de daño ambiental asociada al proyecto Pascua Lama",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-analiza-avances-y-solicitud-de-modificacion-en-la-ejecucion-de-la-conciliacion-en-demanda-de-dano-ambiental-asociada-al-proyecto-pascua-lama/",
       "fecha": "2026-04-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los parques urbanos almacenan tanto carbono en el suelo como los ecosistemas naturales",
-      "url": "https://efeverde.com/parques-urbanos-almacenan-carbono-suelo-ecosistemas-naturales/",
-      "fecha": "2026-04-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "A más calor, menos movimiento: las altas temperaturas limitan la actividad del oso pardo cantábrico",
-      "url": "https://efeverde.com/mayor-calor-menor-movimiento-altas-temperaturas-limitan-actividad-oso-pardo/",
-      "fecha": "2026-04-03",
+      "fuente": "La Tercera",
+      "titular": "Valoran mejoras, pero piden urgencia: parlamentarios se dividen por cambios al reglamento de la ‘Ley Uber’",
+      "url": "https://www.latercera.com/politica/noticia/valoran-mejoras-pero-piden-urgencia-parlamentarios-se-dividen-por-cambios-al-reglamento-de-la-ley-uber/",
+      "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Con pronóstico favorable inicia el periodo de Gestión de Episodios Críticos en Concepción Metropolitano y Los Ángeles",
-      "url": "https://mma.gob.cl/con-pronostico-favorable-inicia-el-periodo-de-gestion-de-episodios-criticos-en-concepcion-metropolitano-y-los-angeles/",
-      "fecha": "2026-04-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Multa AES Andes: 214 UTA y un fallo que endurece el estándar ambiental en Ventanas",
-      "url": "https://www.redimin.cl/multa-aes-andes-214-uta-y-un-fallo-que-endurece-el-estandar-ambiental-en-ventanas/",
-      "fecha": "2026-04-03",
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental decreta orden de arresto por incumplimiento de medidas de protección del humedal Puente Negro",
+      "url": "https://www.diarioconstitucional.cl/2026/04/04/segundo-tribunal-ambiental-decreta-orden-de-arresto-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
+      "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

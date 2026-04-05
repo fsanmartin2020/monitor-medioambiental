@@ -1,39 +1,28 @@
 {
-  "fecha_generacion": "2026-04-04T08:38:43.524500-03:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-04-05T07:45:18.632338-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Recogen casi 900 toneladas de hidrocarburo tras el derrame de crudo en el Golfo de México",
-      "url": "https://efeverde.com/recogen-900-toneladas-hidrocarburo-derrame-crudo-golfo-mexico/",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental analiza avances y solicitud de modificación en la ejecución de la conciliación en demanda de daño ambiental asociada al proyecto Pascua Lama",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-analiza-avances-y-solicitud-de-modificacion-en-la-ejecucion-de-la-conciliacion-en-demanda-de-dano-ambiental-asociada-al-proyecto-pascua-lama/",
       "fecha": "2026-04-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Ciudad de México.- El grupo interinstitucional que atiende el derrame de crudo en el litoral del Golfo de México ha recolectado 889,4 toneladas de contaminante en 48 playas de Veracruz, Tabasco y Campeche, de las cuales 2 ya quedaron sin arribazón y ",
-      "keywords_detectadas": [
-        "derrame"
-      ]
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Inversiones directas, proyectos en el SEIA y montos en minería: Los negocios ya anunciados en la gestión de Kast",
-      "url": "https://www.emol.com/noticias/Economia/2026/04/04/1196199/inversiones-gestion-kast.html",
-      "fecha": "2026-04-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "07:03 |El Gobierno ha impulsado medidas para destrabar los planes empresariales.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Reporte Minero",
-      "titular": "Tribunal Ambiental confirma multa a AES Andes por incumplir plan de descontaminación en Ventanas",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/tribunal-ambiental-confirma-multa-aes-andes-ventanas-ppda",
-      "fecha": "2026-04-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
       "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental decreta orden de arresto por incumplimiento de medidas de protección del humedal Puente Negro",
+      "url": "https://www.diarioconstitucional.cl/2026/04/04/segundo-tribunal-ambiental-decreta-orden-de-arresto-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
+      "fecha": "2026-04-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El tribunal adoptó la medida tras constatar, mediante informes del SAG, que la empresa continuó ejecutando obras en el humedal Puente Negro pese a una orden de paralización absoluta, remitiendo además los antecedentes al Ministerio Público por eventu",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
