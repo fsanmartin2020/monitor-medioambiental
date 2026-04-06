@@ -1,69 +1,85 @@
 {
-  "fecha_actualizacion": "2026-04-05T07:45:18.623260-04:00",
-  "total": 8,
+  "fecha_actualizacion": "2026-04-06T07:57:55.904756-04:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Desarrollan un sistema para detectar cetáceos en el Estrecho de Gibraltar mediante sus silbidos",
-      "url": "https://efeverde.com/desarrollan-sistema-detectar-cetaceos-silbidos-estrecho-de-gibraltar/",
-      "fecha": "2026-04-05",
+      "fuente": "País Circular",
+      "titular": "Abogado Martín Aylwin, a 10 años de la REP: “Si los reglamentos no están, la industria no se puede preparar”",
+      "url": "https://www.paiscircular.cl/economia-circular/abogado-martin-aylwin-a-10-anos-de-la-rep-si-los-reglamentos-no-estan-la-industria-no-se-puede-preparar/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
+      "url": "https://codexverde.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El ruido, un grave problema ambiental ignorado a menudo pese a su afección a la salud",
-      "url": "https://efeverde.com/ruido-problema-ambiental-ignorado-pese-afeccion-a-la-salud/",
-      "fecha": "2026-04-05",
+      "titular": "¿Por qué necesitamos tomar suplementos de vitaminas y minerales? La respuesta está en el suelo",
+      "url": "https://efeverde.com/por-que-necesitamos-tomar-suplementos-de-vitaminas-y-minerales-la-respuesta-esta-en-el-suelo/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El nuevo Gobierno de Chile suspende la construcción del mayor carril bici del país",
-      "url": "https://efeverde.com/gobierno-chile-suspende-construccion-mayor-carril-bici-pais/",
-      "fecha": "2026-04-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Los cuervos son inteligentes? Todo indica que sí",
-      "url": "https://efeverde.com/los-cuervos-son-inteligentes-todo-indica-que-si/",
-      "fecha": "2026-04-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Quiroz, Steinert, Sedini, Marín: Cómo Kast ha defendido a los ministros más cuestionados en el inicio del Gobierno",
-      "url": "https://www.emol.com/noticias/Nacional/2026/04/04/1196292/kast-defendido-ministros-cuestionados.html",
-      "fecha": "2026-04-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental analiza avances y solicitud de modificación en la ejecución de la conciliación en demanda de daño ambiental asociada al proyecto Pascua Lama",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-analiza-avances-y-solicitud-de-modificacion-en-la-ejecucion-de-la-conciliacion-en-demanda-de-dano-ambiental-asociada-al-proyecto-pascua-lama/",
-      "fecha": "2026-04-04",
+      "titular": "El calamar de Poseidón, un descubrimiento español en el top 10 de especies extraordinarias",
+      "url": "https://efeverde.com/el-calamar-de-poseidon-un-descubrimiento-espanol-en-el-top-10-de-especies-extraordinarias/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Valoran mejoras, pero piden urgencia: parlamentarios se dividen por cambios al reglamento de la ‘Ley Uber’",
-      "url": "https://www.latercera.com/politica/noticia/valoran-mejoras-pero-piden-urgencia-parlamentarios-se-dividen-por-cambios-al-reglamento-de-la-ley-uber/",
-      "fecha": "2026-04-04",
+      "titular": "Megaproyecto de Kast tendrá su primera batalla legislativa cuando ingrese por la Cámara el martes",
+      "url": "https://www.latercera.com/politica/noticia/megaproyecto-de-kast-tendra-su-primera-batalla-legislativa-cuando-ingrese-por-la-camara-el-martes/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental decreta orden de arresto por incumplimiento de medidas de protección del humedal Puente Negro",
-      "url": "https://www.diarioconstitucional.cl/2026/04/04/segundo-tribunal-ambiental-decreta-orden-de-arresto-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
-      "fecha": "2026-04-04",
+      "titular": "Corte Suprema descarta el precario cuando existe acuerdo previo entre las partes sobre el uso del inmueble",
+      "url": "https://www.diarioconstitucional.cl/2026/04/06/corte-suprema-descarta-el-precario-cuando-existe-acuerdo-previo-entre-las-partes-sobre-el-uso-del-inmueble/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
+      "url": "https://www.df.cl/empresas/construccion/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa",
+      "fecha": "2026-04-06",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental revisa avances y eventuales ajustes en conciliación por daño ambiental de Pascua Lama",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-avances-y-eventuales-ajustes-en-conciliacion-por-dano-ambiental-de-pascua-lama/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las águilas perdiceras en Castilla y León: recuperación con riesgo de colapso",
+      "url": "https://efeverde.com/aguilas-perdiceras-castilla-leon-recuperacion-riesgo-colapso/",
+      "fecha": "2026-04-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Carmona califica como “bochorno” error de Sedini por Apablaza y advierte consecuencias jurídicas para el gobierno",
+      "url": "https://www.latercera.com/politica/noticia/carmona-califica-como-bochorno-error-de-sedini-por-apablaza-y-advierte-consecuencias-juridicas-para-el-gobierno/",
+      "fecha": "2026-04-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

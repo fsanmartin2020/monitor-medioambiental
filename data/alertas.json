@@ -1,30 +1,54 @@
 {
-  "fecha_generacion": "2026-04-05T07:45:18.632338-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-04-06T07:57:55.915503-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental analiza avances y solicitud de modificación en la ejecución de la conciliación en demanda de daño ambiental asociada al proyecto Pascua Lama",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-analiza-avances-y-solicitud-de-modificacion-en-la-ejecucion-de-la-conciliacion-en-demanda-de-dano-ambiental-asociada-al-proyecto-pascua-lama/",
-      "fecha": "2026-04-04",
+      "fuente": "Codex Verde",
+      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
+      "url": "https://codexverde.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "",
+      "extracto": "El Segundo Tribunal Ambiental emitió orden de arresto en contra de los representantes de Inversiones Lampa, por el incumplimiento reiterado de las medidas de protección del humedal Puente Negro, establecidas durante el juicio y en la sentencia que lo",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "daño ambiental"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental decreta orden de arresto por incumplimiento de medidas de protección del humedal Puente Negro",
-      "url": "https://www.diarioconstitucional.cl/2026/04/04/segundo-tribunal-ambiental-decreta-orden-de-arresto-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
-      "fecha": "2026-04-04",
+      "titular": "Corte Suprema descarta el precario cuando existe acuerdo previo entre las partes sobre el uso del inmueble",
+      "url": "https://www.diarioconstitucional.cl/2026/04/06/corte-suprema-descarta-el-precario-cuando-existe-acuerdo-previo-entre-las-partes-sobre-el-uso-del-inmueble/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El tribunal adoptó la medida tras constatar, mediante informes del SAG, que la empresa continuó ejecutando obras en el humedal Puente Negro pese a una orden de paralización absoluta, remitiendo además los antecedentes al Ministerio Público por eventu",
+      "extracto": "El fallo precisa que la acción de precario exige la ausencia total de un vínculo jurídico, de modo que no procede cuando la ocupación se funda en un acuerdo —aunque sea verbal— que explique la tenencia del bien, especialmente si dicho entendimiento s",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
+      "url": "https://www.df.cl/empresas/construccion/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa",
+      "fecha": "2026-04-06",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental revisa avances y eventuales ajustes en conciliación por daño ambiental de Pascua Lama",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-avances-y-eventuales-ajustes-en-conciliacion-por-dano-ambiental-de-pascua-lama/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental analizó el estado de cumplimiento del acuerdo alcanzado entre el Consejo de Defensa del Estado y la empresa titular del proyecto, junto con una solicitud para modificar su ejecución, en el marco del proceso de reparación ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
       ]
     }
   ]
