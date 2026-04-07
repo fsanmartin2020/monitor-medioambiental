@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-04-06T07:57:55.915503-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-04-07T08:06:11.079140-04:00",
+  "total_alertas": 19,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
-      "url": "https://codexverde.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
-      "fecha": "2026-04-06",
+      "fuente": "País Circular",
+      "titular": "Arturo Farías Alcaíno fue ratificado como nuevo Director Ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.paiscircular.cl/medio-ambiente/arturo-farias-alcaino-fue-ratificado-como-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental emitió orden de arresto en contra de los representantes de Inversiones Lampa, por el incumplimiento reiterado de las medidas de protección del humedal Puente Negro, establecidas durante el juicio y en la sentencia que lo",
+      "extracto": "El abogado y magíster en Derecho Ambiental, quien estaba ocupando el cargo como subrogante desde que asumió el nuevo gobierno, ha trabajado en el SEA los últimos ocho años. “El desafío que hoy asumimos es claro, fortalecer el sistema, que entregue ce",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Servicio de Evaluación Ambiental"
       ]
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema descarta el precario cuando existe acuerdo previo entre las partes sobre el uso del inmueble",
-      "url": "https://www.diarioconstitucional.cl/2026/04/06/corte-suprema-descarta-el-precario-cuando-existe-acuerdo-previo-entre-las-partes-sobre-el-uso-del-inmueble/",
-      "fecha": "2026-04-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El fallo precisa que la acción de precario exige la ausencia total de un vínculo jurídico, de modo que no procede cuando la ocupación se funda en un acuerdo —aunque sea verbal— que explique la tenencia del bien, especialmente si dicho entendimiento s",
+      "fuente": "La Segunda",
+      "titular": "Kast aborda con Milei caso Apablaza: “Esperamos que sea capturado y enviado a Chile”",
+      "url": "https://www.lasegunda.com/Noticias/Politica/2026/04/1112480/kast-apablaza-capturado-enviado-chile",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "Mandatario agradeció al gobierno argentino haber puesto una recompensa por el exguerrillero.",
       "keywords_detectadas": [
-        "Corte Suprema"
+        "SEA"
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
-      "url": "https://www.df.cl/empresas/construccion/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa",
-      "fecha": "2026-04-06",
+      "fuente": "La Segunda",
+      "titular": "Tribunal ambiental confirma data center de Jeff Bezos en Huechuraba",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/04/1112478/jeff-bezos-tribunal",
+      "fecha": "2026-04-07",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -39,16 +39,195 @@
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental revisa avances y eventuales ajustes en conciliación por daño ambiental de Pascua Lama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-avances-y-eventuales-ajustes-en-conciliacion-por-dano-ambiental-de-pascua-lama/",
+      "fuente": "Diario Financiero",
+      "titular": "CPC refuerza ofensiva ante Contraloría por legalidad de guías del SEA: informe concluye que exceden su rol",
+      "url": "https://www.df.cl/empresas/industria/cpc-refuerza-ofensiva-ante-contraloria-por-legalidad-de-guias-del-sea",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "CPC refuerza ofensiva ante Contraloría por legalidad de guías del SEA: informe concluye que exceden su rol",
+      "url": "https://www.df.cl/empresas/industria/cpc-refuerza-ofensiva-ante-contraloria-por-legalidad-de-guias-del-sea",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "MINISTRA TOLEDO CON EL NUEVO DIRECTOR EJECUTIVO DEL SERVICIO DE EVALUACIÓN AMBIENTAL",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental analizó el estado de cumplimiento del acuerdo alcanzado entre el Consejo de Defensa del Estado y la empresa titular del proyecto, junto con una solicitud para modificar su ejecución, en el marco del proceso de reparación ",
+      "extracto": "El Presidente de la República, José Antonio Kast, designó al abogado Arturo Farías Alcaíno como la máxima autoridad del Servicio de Evaluación Ambiental. La Ministra del Medio Ambiente, Francisca Toledo Echegaray y el subsecretario de la cartera, Jos",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "daño ambiental"
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
+      "url": "https://www.terram.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En diciembre de 2024, el Segundo Tribunal Ambiental condenó a Inversiones Lampa a reparar daño generado en humedal Puente Negro, hábitat único del ave Becacina pintada clasificada “en peligro” de extinción (demanda por reparación de daño ambiental D-",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-30-2025 “Héctor Oyarzún Monsalve y otro con Dirección Ejecutiva Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-30-2025-hector-oyarzun-monsalve-y-otro-con-direccion-ejecutiva-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-30-2025 “Héctor Oyarzún Monsalve y otro con Dirección Ejecutiva Servicio Evaluación Ambiental”, que se realiza el martes 7",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo ratifica el nuevo Director Ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://mma.gob.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Presidente de la República, José Antonio Kast, designó al abogado Arturo Farías Alcaíno como la máxima autoridad de la […]",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Presidente Kast designa a Arturo Farías como director del SEA y fija foco en agilizar permisos",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-designa-al-nuevo-director-del-sea-y-gobierno-fija-foco-en-agilizar-permisos/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La ministra de Medio Ambiente, Francisca Toledo, se reunió con la nueva autoridad tras su nombramiento, instancia en la que destacó el mandato del Ejecutivo de responder de forma ágil en todos los ministerios.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental confirmó la aprobación del proyecto de data center de Amazon en Huechuraba",
+      "url": "https://www.diarioconstitucional.cl/2026/04/06/segundo-tribunal-ambiental-confirmo-la-aprobacion-del-proyecto-de-data-center-de-amazon-en-huechuraba/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El tribunal descartó la existencia de fraccionamiento en el proyecto de data center de Amazon en Huechuraba, al no acreditarse interdependencia con una línea de alta tensión, validando así la evaluación ambiental y el tratamiento de las observaciones",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental confirmó la aprobación del proyecto de data center de Amazon en Huechuraba",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-confirmo-la-aprobacion-del-proyecto-de-data-center-de-amazon-en-huechuraba/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental rechazó una reclamación que buscaba anular la RCA favorable del proyecto “Centro de Almacenamiento de Datos Huechuraba”, de Amazon, concluyendo que las observaciones ciudadanas, relacionadas con…",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Pascua Lama: Tribunal Ambiental revisa avances y ajustes en ejecución de conciliación",
+      "url": "https://www.mch.cl/pascua-lama-tribunal-ambiental-revisa-avances-y-ajustes-en-ejecucion-de-conciliacion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En audiencia, Minera Nevada y el CDE expusieron el estado de implementación del plan de restauración altoandino aprobado en 2020, junto con dificultades y modificaciones en su ejecución. La entrada Pascua Lama: Tribunal Ambiental revisa avances y aju",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ministra Toledo ratifica el nuevo director ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.mch.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El abogado posee un Magíster en Derecho Ambiental de la Universidad del Desarrollo y diplomado en Derecho de Recursos Naturales y Energía en Universidad Católica de Chile. La entrada Ministra Toledo ratifica el nuevo director ejecutivo del Servicio d",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ministra Toledo ratifica el nuevo director ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.revistaei.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El abogado posee un Magíster en Derecho Ambiental de la Universidad del Desarrollo y diplomado en Derecho de Recursos Naturales y Energía en Universidad Católica de Chile. La entrada Ministra Toledo ratifica el nuevo director ejecutivo del Servicio d",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA: nuevo director asume con meta de reducir tiempos de permisos y reforzar certeza regulatoria",
+      "url": "https://www.redimin.cl/sea-nuevo-director-asume-con-meta-de-reducir-tiempos-de-permisos-y-reforzar-certeza-regulatoria/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental inicia una nueva etapa con Arturo Farías como director ejecutivo, buscando agilizar la tramitación de permisos sin comprometer estándares técnicos, crucial para la inversión en Chile. Su gestión se enfocará en opti",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental ratifica permiso para data center de Amazon en Huechuraba",
+      "url": "https://www.redimin.cl/tribunal-ambiental-ratifica-permiso-para-data-center-de-amazon-en-huechuraba/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental de Santiago validó el proyecto de data center de Amazon en Huechuraba, confirmando su Resolución de Calificación Ambiental y descartando el fraccionamiento del mismo. La iniciativa representa una inversión de US$205 mill",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Pascua Lama: Tribunal Ambiental revisa plan por daño en 13,8 hectáreas y abre debate por cambios en su ejecución",
+      "url": "https://www.redimin.cl/pascua-lama-tribunal-ambiental-revisa-plan-por-dano-en-138-hectareas-y-abre-debate-por-cambios-en-su-ejecucion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El caso Pascua Lama vuelve a ser objeto de debate judicial y ambiental, centrándose en la revisión del plan de reparación por daño ecológico y sus implicaciones para la industria minera en Chile. Este proceso refleja las tensiones entre cumplimiento ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental revisa cambios al plan de reparación por daño de Pascua Lama",
+      "url": "https://www.redimin.cl/tribunal-ambiental-revisa-cambios-al-plan-de-reparacion-por-dano-de-pascua-lama/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental revisó los avances del acuerdo conciliatorio por daño ambiental en Pascua Lama, evaluando la implementación de medidas y solicitudes de modificación para fortalecer la restauración del ecosistema altoandino. Este proceso ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]

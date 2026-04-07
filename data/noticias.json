@@ -1,85 +1,333 @@
 {
-  "fecha_actualizacion": "2026-04-06T07:57:55.904756-04:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-04-07T08:06:11.065091-04:00",
+  "total": 41,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Abogado Martín Aylwin, a 10 años de la REP: “Si los reglamentos no están, la industria no se puede preparar”",
-      "url": "https://www.paiscircular.cl/economia-circular/abogado-martin-aylwin-a-10-anos-de-la-rep-si-los-reglamentos-no-estan-la-industria-no-se-puede-preparar/",
+      "titular": "Arturo Farías Alcaíno fue ratificado como nuevo Director Ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.paiscircular.cl/medio-ambiente/arturo-farias-alcaino-fue-ratificado-como-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las Tablas de Daimiel: Un oasis de vida gracias al agua",
+      "url": "https://efeverde.com/las-tablas-de-daimiel-un-oasis-de-vida-gracias-al-agua/",
+      "fecha": "2026-04-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Kast aborda con Milei caso Apablaza: “Esperamos que sea capturado y enviado a Chile”",
+      "url": "https://www.lasegunda.com/Noticias/Politica/2026/04/1112480/kast-apablaza-capturado-enviado-chile",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Tribunal ambiental confirma data center de Jeff Bezos en Huechuraba",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/04/1112478/jeff-bezos-tribunal",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "CPC refuerza ofensiva ante Contraloría por legalidad de guías del SEA: informe concluye que exceden su rol",
+      "url": "https://www.df.cl/empresas/industria/cpc-refuerza-ofensiva-ante-contraloria-por-legalidad-de-guias-del-sea",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "CPC refuerza ofensiva ante Contraloría por legalidad de guías del SEA: informe concluye que exceden su rol",
+      "url": "https://www.df.cl/empresas/industria/cpc-refuerza-ofensiva-ante-contraloria-por-legalidad-de-guias-del-sea",
+      "fecha": "2026-04-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "2TA decreta orden de arresto contra representantes de Inversiones Lampa por incumplimiento de medidas de protección del humedal Puente Negro",
+      "url": "https://www.paiscircular.cl/radar-legal/2ta-decreta-orden-de-arresto-contra-representantes-de-inversiones-lampa-por-incumplimiento-de-medidas-de-proteccion-del-humedal-puente-negro/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Aceros AZA se posiciona entre las mejores empresas para trabajar en Chile según Great Place to Work",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/aceros-aza-se-posiciona-entre-las-mejores-empresas-para-trabajar-en-chile-segun-great-place-to-work/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "MINISTRA TOLEDO CON EL NUEVO DIRECTOR EJECUTIVO DEL SERVICIO DE EVALUACIÓN AMBIENTAL",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
+      "titular": "Salares en riesgo: decisiones del nuevo gobierno frenan avances en conservación",
+      "url": "https://codexverde.cl/nuevo-gobierno-frena-avances-en-conservacion-de-salares/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "La deuda climática que Chile está empezando a pagar",
+      "url": "https://codexverde.cl/la-deuda-climatica-que-chile-esta-empezando-a-pagar/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Sara Aagesen subraya el papel de la Oficina Española de Cambio Climático para impulsar políticas públicas",
+      "url": "https://efeverde.com/sara-aagesen-oficina-espanola-cambio-climatico/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La población invernal de aves acuáticas en La Albufera de Valencia se recupera tras la dana de 2024",
+      "url": "https://efeverde.com/poblacion-invernal-aves-acuaticas-albufera-de-valencia/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nuevos hallazgos científicos: del calamar Poseidón a plantas en la Amazonía y tiburones en Australia",
+      "url": "https://efeverde.com/nuevos-hallazgos-cientificos-del-calamar-poseidon-a-plantas-en-la-amazonia-y-tiburones-en-australia/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "WWF reclama recuperar terrenos de marisma para «restaurar el equilibrio» de Doñana",
+      "url": "https://efeverde.com/wwf-equilibrio-donana/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Las operaciones más peligrosas de la salmonicultura: buzos y faenas críticas bajo régimen de subcontrato",
+      "url": "https://www.terram.cl/las-operaciones-mas-peligrosas-de-la-salmonicultura-buzos-y-faenas-criticas-bajo-regimen-de-subcontrato/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
       "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
-      "url": "https://codexverde.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
+      "url": "https://www.terram.cl/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa-por-incumplir-medidas-en-humedal-puente-negro/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "¿Por qué necesitamos tomar suplementos de vitaminas y minerales? La respuesta está en el suelo",
-      "url": "https://efeverde.com/por-que-necesitamos-tomar-suplementos-de-vitaminas-y-minerales-la-respuesta-esta-en-el-suelo/",
+      "fuente": "Terram",
+      "titular": "Aprueban construcción de 19 edificios en el Humedal Paicaví de Concepción",
+      "url": "https://www.terram.cl/aprueban-construccion-de-19-edificios-en-el-humedal-paicavi-de-concepcion/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El calamar de Poseidón, un descubrimiento español en el top 10 de especies extraordinarias",
-      "url": "https://efeverde.com/el-calamar-de-poseidon-un-descubrimiento-espanol-en-el-top-10-de-especies-extraordinarias/",
+      "fuente": "Terram",
+      "titular": "Muere José “Pepe” Araya Cornejo, reconocido dirigente social de Valdivia: decretan duelo comunal",
+      "url": "https://www.terram.cl/muere-jose-pepe-araya-cornejo-reconocido-dirigente-social-de-valdivia-decretan-duelo-comunal/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Pesca con palangre amenaza a los albatros que se alimentan en Chile y Perú, pero científicos buscan soluciones",
+      "url": "https://www.terram.cl/pesca-con-palangre-amenaza-a-los-albatros-que-se-alimentan-en-chile-y-peru-pero-cientificos-buscan-soluciones/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "El avance sanitario y la reducción de pobreza evitan millones de muertes por polución",
+      "url": "https://www.terram.cl/el-avance-sanitario-y-la-reduccion-de-pobreza-evitan-millones-de-muertes-por-polucion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "«Los decretos ambientales que retiró Kast implican normas urgentes para proteger la salud de la población»",
+      "url": "https://chilesustentable.net/2026/04/los-decretos-ambientales-que-retiro-kast-implican-normas-urgentes-para-proteger-la-salud-de-la-poblacion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "«Los decretos ambientales que retiró Kast implican normas urgentes para proteger la salud de la población»",
+      "url": "https://chilesustentable.net/2026/04/los-decretos-ambientales-que-retiro-kast-implican-normas-urgentes-para-proteger-la-salud-de-la-poblacion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "R-625-2026 admite",
+      "url": "https://tribunalambiental.cl/r-625-2026-admite/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "R-618-2026 admite",
+      "url": "https://tribunalambiental.cl/r-618-2026-admite/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Tribunal confirmó la aprobación del proyecto de data center de Amazon en Huechuraba, observaciones ciudadanas fueron debidamente consideradas",
+      "url": "https://tribunalambiental.cl/sentencia-r-539-2024-aprobacion-amazon-data-center-sea",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-30-2025 “Héctor Oyarzún Monsalve y otro con Dirección Ejecutiva Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-30-2025-hector-oyarzun-monsalve-y-otro-con-direccion-ejecutiva-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Banco Mundial respalda a Chile en reportes de monitoreo forestal para financiamiento climático",
+      "url": "https://www.conaf.cl/banco-mundial-respalda-a-chile-en-reportes-de-monitoreo-forestal-para-financiamiento-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=banco-mundial-respalda-a-chile-en-reportes-de-monitoreo-forestal-para-financiamiento-climatico",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo ratifica el nuevo Director Ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://mma.gob.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Megaproyecto de Kast tendrá su primera batalla legislativa cuando ingrese por la Cámara el martes",
-      "url": "https://www.latercera.com/politica/noticia/megaproyecto-de-kast-tendra-su-primera-batalla-legislativa-cuando-ingrese-por-la-camara-el-martes/",
+      "titular": "Presidente Kast designa a Arturo Farías como director del SEA y fija foco en agilizar permisos",
+      "url": "https://www.latercera.com/pulso/noticia/presidente-kast-designa-al-nuevo-director-del-sea-y-gobierno-fija-foco-en-agilizar-permisos/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema descarta el precario cuando existe acuerdo previo entre las partes sobre el uso del inmueble",
-      "url": "https://www.diarioconstitucional.cl/2026/04/06/corte-suprema-descarta-el-precario-cuando-existe-acuerdo-previo-entre-las-partes-sobre-el-uso-del-inmueble/",
+      "titular": "Segundo Tribunal Ambiental confirmó la aprobación del proyecto de data center de Amazon en Huechuraba",
+      "url": "https://www.diarioconstitucional.cl/2026/04/06/segundo-tribunal-ambiental-confirmo-la-aprobacion-del-proyecto-de-data-center-de-amazon-en-huechuraba/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Tribunal Ambiental ordena arresto de representantes de Inversiones Lampa por incumplir medidas en humedal Puente Negro",
-      "url": "https://www.df.cl/empresas/construccion/tribunal-ambiental-ordena-arresto-de-representantes-de-inversiones-lampa",
-      "fecha": "2026-04-06",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental revisa avances y eventuales ajustes en conciliación por daño ambiental de Pascua Lama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-avances-y-eventuales-ajustes-en-conciliacion-por-dano-ambiental-de-pascua-lama/",
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental confirmó la aprobación del proyecto de data center de Amazon en Huechuraba",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-confirmo-la-aprobacion-del-proyecto-de-data-center-de-amazon-en-huechuraba/",
       "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las águilas perdiceras en Castilla y León: recuperación con riesgo de colapso",
-      "url": "https://efeverde.com/aguilas-perdiceras-castilla-leon-recuperacion-riesgo-colapso/",
-      "fecha": "2026-04-05",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Pascua Lama: Tribunal Ambiental revisa avances y ajustes en ejecución de conciliación",
+      "url": "https://www.mch.cl/pascua-lama-tribunal-ambiental-revisa-avances-y-ajustes-en-ejecucion-de-conciliacion/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Carmona califica como “bochorno” error de Sedini por Apablaza y advierte consecuencias jurídicas para el gobierno",
-      "url": "https://www.latercera.com/politica/noticia/carmona-califica-como-bochorno-error-de-sedini-por-apablaza-y-advierte-consecuencias-juridicas-para-el-gobierno/",
-      "fecha": "2026-04-05",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ministra Toledo ratifica el nuevo director ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.mch.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "CNE reporta más de 190 proyectos ERNC en construcción y nuevas aprobaciones ambientales",
+      "url": "https://www.revistaei.cl/cne-reporta-mas-de-190-proyectos-ernc-en-construccion-y-nuevas-aprobaciones-ambientales/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ministra Toledo ratifica el nuevo director ejecutivo del Servicio de Evaluación Ambiental",
+      "url": "https://www.revistaei.cl/ministra-toledo-ratifica-el-nuevo-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA: nuevo director asume con meta de reducir tiempos de permisos y reforzar certeza regulatoria",
+      "url": "https://www.redimin.cl/sea-nuevo-director-asume-con-meta-de-reducir-tiempos-de-permisos-y-reforzar-certeza-regulatoria/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal admite reclamación contra La Farola, proyecto minero de US$ 260 millones en Atacama",
+      "url": "https://www.redimin.cl/tribunal-admite-reclamacion-contra-la-farola-proyecto-minero-de-us-260-millones-en-atacama/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental ratifica permiso para data center de Amazon en Huechuraba",
+      "url": "https://www.redimin.cl/tribunal-ambiental-ratifica-permiso-para-data-center-de-amazon-en-huechuraba/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Pascua Lama: Tribunal Ambiental revisa plan por daño en 13,8 hectáreas y abre debate por cambios en su ejecución",
+      "url": "https://www.redimin.cl/pascua-lama-tribunal-ambiental-revisa-plan-por-dano-en-138-hectareas-y-abre-debate-por-cambios-en-su-ejecucion/",
+      "fecha": "2026-04-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental revisa cambios al plan de reparación por daño de Pascua Lama",
+      "url": "https://www.redimin.cl/tribunal-ambiental-revisa-cambios-al-plan-de-reparacion-por-dano-de-pascua-lama/",
+      "fecha": "2026-04-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
