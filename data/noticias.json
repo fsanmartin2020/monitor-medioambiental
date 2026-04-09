@@ -1,253 +1,293 @@
 {
-  "fecha_actualizacion": "2026-04-08T08:10:56.794788-04:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-04-09T08:07:38.220122-04:00",
+  "total": 36,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Desciende el número de incendios forestales en Cantabria y Asturias, pero el riesgo se mantiene alto",
-      "url": "https://efeverde.com/incendios-forestales-en-cantabria-y-asturias-riesgo-alto/",
-      "fecha": "2026-04-08",
+      "fuente": "País Circular",
+      "titular": "Cuatro casos ejemplares de emprendimientos en Chile y Latinoamérica que apuestan por la reutilización",
+      "url": "https://www.paiscircular.cl/reutilizacion/reutilizacion/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El fuego contra el fuego: quemas prescritas y «pastoreo» de incendios",
-      "url": "https://efeverde.com/el-fuego-contra-el-fuego-quemas-prescritas-y-pastoreo-de-incendios/",
-      "fecha": "2026-04-08",
+      "titular": "El Gobierno cesa a la presidenta de la Aemet, María José Rallo, y actualiza sus estatutos",
+      "url": "https://efeverde.com/gobierno-cesa-presidenta-aemet-maria-jose-rallo-actualiza-estatutos/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Aludes, textil reciclado y biodiversidad en Mangas Verdes 483",
-      "url": "https://efeverde.com/aludes-textil-reciclaje-ecoalf-casa-encendida-biodiversidad-mangas-verdes-483/",
-      "fecha": "2026-04-08",
+      "titular": "La minería se acerca al hielo en Argentina: claves de la reforma de la ley de glaciares",
+      "url": "https://efeverde.com/claves-reforma-ley-glaciares-argentina-mineria/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Digitalizar las aulas no puede hacerse a expensas de nuestro planeta. Por Pilar Codina (Epson Ibérica)",
-      "url": "https://efeverde.com/digitalizar-las-aulas-no-puede-hacerse-a-expensas-de-nuestro-planeta-por-pilar-codina/",
-      "fecha": "2026-04-08",
+      "titular": "Lista Roja de la UICN: El pingüino emperador y el lobo fino antártico pasan a la categoría de “peligro”",
+      "url": "https://efeverde.com/lista-roja-uicn-pinguino-emperador-lobo-fino-antartico/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "México: filtros de cabello humano limpian el agua para devolver al ajolote a su hábitat",
-      "url": "https://efeverde.com/mexico-filtros-de-cabello-humano-limpian-el-agua-para-devolver-al-ajolote-a-su-habitat/",
-      "fecha": "2026-04-08",
+      "titular": "Gaviotas en Madrid. Por May",
+      "url": "https://efeverde.com/gaviotas-madrid-may-mundomay/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cantabria y Asturias suman 38 incendios activos, 14 menos que el martes",
-      "url": "https://efeverde.com/cantabria-y-asturias-suman-38-incendios-activos-14-menos-que-el-martes/",
+      "titular": "Mejora la situación en Asturias y Cantabria, los incendios activos bajan a 13",
+      "url": "https://efeverde.com/mejora-la-situacion-en-asturias-y-cantabria-los-incendios-activos-bajan-a-13/",
+      "fecha": "2026-04-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Residuos, SBAP y agilizar la evaluación ambiental, los 3 ejes que concentrarán el trabajo del Ministerio del Medio Ambiente",
+      "url": "https://www.paiscircular.cl/medio-ambiente/residuos-sbap-y-agilizar-la-evaluacion-ambiental-los-3-ejes-que-concentraran-el-trabajo-del-ministerio-del-medio-ambiente/",
       "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Comité de la ONU solicita que crisis de desapariciones forzadas en México sea abordada por la Asamblea General",
-      "url": "https://www.diarioconstitucional.cl/2026/04/08/comite-de-la-onu-solicita-que-crisis-de-desapariciones-forzadas-en-mexico-sea-abordada-por-la-asamblea-general/",
+      "fuente": "País Circular",
+      "titular": "Región de Los Lagos: hacia una construcción sostenible y circular",
+      "url": "https://www.paiscircular.cl/videos/region-de-los-lagos-hacia-una-construccion-sostenible-y-circular/",
       "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "La trazabilidad en la moda: DE OBLIGACIÓN REGULATORIA A VENTAJA ESTRATÉGICA",
-      "url": "https://www.chiledesarrollosustentable.cl/la-trazabilidad-en-la-moda-de-obligacion-regulatoria-a-ventaja-estrategica/?utm_source=rss&utm_medium=rss&utm_campaign=la-trazabilidad-en-la-moda-de-obligacion-regulatoria-a-ventaja-estrategica",
-      "fecha": "2026-04-07",
+      "titular": "SOFOFA, PRIMER ENCUENTRO CON  MINISTRO QUIROZ Y BANCO CENTRAL: “INVERTIR EN CHILE SE VOLVIÓ  DEMASIADO CARO Y COMPLEJO”",
+      "url": "https://www.chiledesarrollosustentable.cl/sofofa-ante-bajo-crecimiento-del-pais-primer-encuentro-con-ministro-quiroz-y-banco-central-invertir-en-chile-se-volvio-demasiado-caro-y-complejo/?utm_source=rss&utm_medium=rss&utm_campaign=sofofa-ante-bajo-crecimiento-del-pais-primer-encuentro-con-ministro-quiroz-y-banco-central-invertir-en-chile-se-volvio-demasiado-caro-y-complejo",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "STARTUP LANZA HERRAMIENTA GRATUITA PARA QUE PYMES ENFRENTEN LA OPERACIÓN RENTA CON MAYOR CLARIDAD FINANCIERA",
-      "url": "https://www.chiledesarrollosustentable.cl/startup-lanza-herramienta-gratuita-para-que-pymes-enfrenten-la-operacion-renta-con-mayor-claridad-financiera/?utm_source=rss&utm_medium=rss&utm_campaign=startup-lanza-herramienta-gratuita-para-que-pymes-enfrenten-la-operacion-renta-con-mayor-claridad-financiera",
-      "fecha": "2026-04-07",
+      "titular": "Transformación energética en Chile: Cómo la resiliencia y la eficiencia marcan la diferencia",
+      "url": "https://www.chiledesarrollosustentable.cl/transformacion-energetica-en-chile-como-la-resiliencia-y-la-eficiencia-marcan-la-diferencia/?utm_source=rss&utm_medium=rss&utm_campaign=transformacion-energetica-en-chile-como-la-resiliencia-y-la-eficiencia-marcan-la-diferencia",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Merco ESG: Bci se ubica nuevamente como la empresa más sostenible de Chile",
-      "url": "https://codexverde.cl/merco-esg-bci-se-ubica-nuevamente-como-la-empresa-mas-sostenible-de-chile/",
-      "fecha": "2026-04-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Universidad de Atacama impulsa innovación que transforma relaves mineros en recursos para la industria",
-      "url": "https://codexverde.cl/universidad-de-atacama-impulsa-innovacion-que-transforma-relaves-mineros-en-recursos-para-la-industria/",
-      "fecha": "2026-04-07",
+      "titular": "Impuesto Verde 2025: SMA publica listado de establecimientos que superan límites de emisiones",
+      "url": "https://codexverde.cl/establecimientos-que-superan-limites-de-emisiones-impuesto-verde/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las muertes vinculadas al frío en EE.UU. aumentaron un 9 % anual durante las últimas dos décadas",
-      "url": "https://efeverde.com/muertes-vinculadas-al-frio-eeuu/",
-      "fecha": "2026-04-07",
+      "titular": "La contaminación lumínica global crece un 16 % en una década",
+      "url": "https://efeverde.com/contaminacion-luminica-global/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calor extremo y las sequías serán cinco veces más frecuentes al final del siglo",
-      "url": "https://efeverde.com/calor-extremo-y-sequias-mas-frecuentes-al-final-siglo/",
-      "fecha": "2026-04-07",
+      "titular": "Nacen dos crías de quebrantahuesos en libertad en los Picos de Europa",
+      "url": "https://efeverde.com/nacen-crias-quebrantahuesos-en-picos-de-europa/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Activos 23 incendios en Cantabria y 22 en Asturias con las altas temperaturas como enemigo",
-      "url": "https://efeverde.com/activos-incendios-cantabria-asturias-altas-temperaturas/",
-      "fecha": "2026-04-07",
+      "titular": "Liberan en Mallorca dos ejemplares de milano real que se han recuperado tras haber recibido unos disparos",
+      "url": "https://efeverde.com/liberan-mallorca-dos-ejemplares-milano-real-disparos/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Gobierno declara zona gravemente afectada a áreas de 13 comunidades autónomas que sufrieron daños por las últimas borrascas",
-      "url": "https://efeverde.com/gobierno-zona-gravemente-afectada-borrascas/",
-      "fecha": "2026-04-07",
+      "titular": "Ecologistas, preocupados por la reunión entre las mineras suecas y la comisaria Roswall",
+      "url": "https://efeverde.com/ecologistas-preocupados-reunion-mineras-suecas-roswall/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Guardia Civil crea un instituto que formará a agentes en la lucha contra los delitos ambientales",
-      "url": "https://efeverde.com/la-guardia-civil-crea-un-instituto-que-formara-a-agentes-en-la-lucha-contra-los-delitos-ambientales/",
-      "fecha": "2026-04-07",
+      "titular": "Transformar los residuos forestales: de un problema para los incendios a combustible sostenible para el transporte",
+      "url": "https://efeverde.com/transformar-residuos-forestales-combustible-sostenible-transporte/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Corte de Apelaciones de Puerto Montt instruye a Subpesca entregar información clave de agenda salmonera del gobierno",
-      "url": "https://www.terram.cl/corte-de-apelaciones-de-puerto-montt-instruye-a-subpesca-entregar-informacion-clave-de-agenda-salmonera-del-gobierno/",
-      "fecha": "2026-04-07",
+      "titular": "Chile: pescadores ya han puesto seis querellas criminales contra Minera Escondida por el derrame de desechos industriales",
+      "url": "https://www.terram.cl/chile-pescadores-ya-han-puesto-seis-querellas-criminales-contra-minera-escondida-por-el-derrame-de-desechos-industriales/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Dan luz verde para construir Data Center de Amazon en Huechuraba: su inversión es de US$ 205 millones",
-      "url": "https://www.terram.cl/dan-luz-verde-para-construir-data-center-de-amazon-en-huechuraba-su-inversion-es-de-us-205-millones/",
-      "fecha": "2026-04-07",
+      "titular": "“Mala interpretación de la ley”: Poduje culpa a la delimitación de humedales por falta de suelo para vivienda en Valdivia",
+      "url": "https://www.terram.cl/mala-interpretacion-de-la-ley-poduje-culpa-a-la-delimitacion-de-humedales-por-falta-de-suelo-para-vivienda-en-valdivia/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Salares en riesgo: decisiones del nuevo gobierno frenan avances en conservación",
-      "url": "https://www.terram.cl/salares-en-riesgo-decisiones-del-nuevo-gobierno-frenan-avances-en-conservacion/",
-      "fecha": "2026-04-07",
+      "titular": "Segunda sesión del Comité de Ministros revisará proyecto Maratué y ajuste a Línea 7 del Metro",
+      "url": "https://www.terram.cl/segunda-sesion-del-comite-de-ministros-revisara-proyecto-maratue-y-ajuste-a-linea-7-del-metro/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Plan RECOGE da frutos: Picaflor de Arica reaparece en Chaca tras más de una década sin registros",
-      "url": "https://www.terram.cl/plan-recoge-da-frutos-picaflor-de-arica-reaparece-en-chaca-tras-mas-de-una-decada-sin-registros/",
-      "fecha": "2026-04-07",
+      "titular": "Confirman reingreso de dos decretos sobre contaminación a Contraloría: uno por plomo y otro para Puerto Aysén",
+      "url": "https://www.terram.cl/confirman-reingreso-de-dos-decretos-sobre-contaminacion-a-contraloria-uno-por-plomo-y-otro-para-puerto-aysen/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Lanzan campaña para que vuelva a Contraloría la declaración del pingüino de Humboldt como Monumento Natural",
-      "url": "https://www.terram.cl/lanzan-campana-para-que-vuelva-a-contraloria-la-declaracion-del-pinguino-de-humboldt-como-monumento-natural/",
-      "fecha": "2026-04-07",
+      "titular": "“Rancho Chico” el incendio forestal olvidado de Hualqui y dejado de lado en el Plan de Reconstrucción",
+      "url": "https://www.terram.cl/rancho-chico-el-incendio-forestal-olvidado-de-hualqui-y-dejado-de-lado-en-el-plan-de-reconstruccion/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Sernapesca denuncia muerte de ballena jorobada con “cantidad considerable” de redes de pesca en su aleta",
-      "url": "https://www.terram.cl/sernapesca-denuncia-muerte-de-ballena-jorobada-con-cantidad-considerable-de-redes-de-pesca-en-su-aleta/",
-      "fecha": "2026-04-07",
+      "titular": "Acceso a agua limpia y segura preocupa a 94% de los chilenos y 50% ve riesgo hídrico en la Inteligencia Artificial",
+      "url": "https://www.terram.cl/acceso-a-agua-limpia-y-segura-preocupa-a-94-de-los-chilenos-y-50-ve-riesgo-hidrico-en-la-inteligencia-artificial/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-42-2025 «Sociedad Comercializadora de Carbón SpA con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/sin-categoria/transmision-audiencia-causa-r-42-2025-sociedad-comercializadora-de-carbon-spa-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-07",
+      "fuente": "FIMA",
+      "titular": "Cuidado y planificación del agua a nivel de cuencas",
+      "url": "https://www.fima.cl/2026/04/08/cuidado-y-planificacion-del-agua-a-nivel-de-cuencas/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Nuevo Apunte de Política Ambiental: Transición más allá de los Combustibles Fósiles",
+      "url": "https://www.fima.cl/2026/04/08/nuevo-apunte-de-politica-ambiental-transicion-mas-alla-de-los-combustibles-fosiles/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Chile y el plástico: liderar con el ejemplo",
+      "url": "https://www.fima.cl/2026/04/08/chile-y-el-plastico-liderar-con-el-ejemplo/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Resultados de gestion",
+      "url": "https://www.sernapesca.cl/informes-y-datos/resultados-de-gestion/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y CORMA fortalecen alianza público-privada para la sostenibilidad de la gestión forestal en Ñuble",
+      "url": "https://www.conaf.cl/conaf-y-corma-fortalecen-alianza-publico-privada-para-la-sostenibilidad-de-la-gestion-forestal-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-corma-fortalecen-alianza-publico-privada-para-la-sostenibilidad-de-la-gestion-forestal-en-nuble",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Ñuble refuerza llamado a propietarios a postular al Fondo de Bosque Nativo 2026",
-      "url": "https://www.conaf.cl/conaf-nuble-refuerza-llamado-a-propietarios-a-postular-al-fondo-de-bosque-nativo-2026/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-llamado-a-propietarios-a-postular-al-fondo-de-bosque-nativo-2026",
-      "fecha": "2026-04-07",
+      "titular": "CONAF y CORMA refuerzan coordinación para enfrentar riesgos de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-y-corma-refuerzan-coordinacion-para-enfrentar-riesgos-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-corma-refuerzan-coordinacion-para-enfrentar-riesgos-de-incendios-forestales",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF anuncia entrada gratuita a diversas Áreas Protegidas por la celebración del Día del Deporte",
-      "url": "https://www.conaf.cl/conaf-anuncia-entrada-gratuita-a-diversas-areas-protegidas-por-la-celebracion-del-dia-del-deporte/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-anuncia-entrada-gratuita-a-diversas-areas-protegidas-por-la-celebracion-del-dia-del-deporte",
-      "fecha": "2026-04-07",
+      "titular": "Monumento Natural Contulmo celebra 85 años resguardando biodiversidad en La Araucanía",
+      "url": "https://www.conaf.cl/monumento-natural-contulmo-celebra-85-anos-resguardando-biodiversidad-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=monumento-natural-contulmo-celebra-85-anos-resguardando-biodiversidad-en-la-araucania",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF apoya la creación de parque urbano y protege contra incendios forestales en Coelemu",
-      "url": "https://www.conaf.cl/conaf-apoya-la-creacion-de-parque-urbano-y-protege-contra-incendios-forestales-en-coelemu/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-apoya-la-creacion-de-parque-urbano-y-protege-contra-incendios-forestales-en-coelemu",
-      "fecha": "2026-04-07",
+      "titular": "CONAF lanza Fondo con casi $7 mil millones para impulsar el manejo sustentable del bosque nativo",
+      "url": "https://www.conaf.cl/conaf-lanza-fondo-con-casi-7-mil-millones-para-impulsar-el-manejo-sustentable-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-lanza-fondo-con-casi-7-mil-millones-para-impulsar-el-manejo-sustentable-del-bosque-nativo",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Maule anuncia apertura del calendario de quemas agrícolas y forestales en la región",
-      "url": "https://www.conaf.cl/conaf-maule-anuncia-apertura-del-calendario-de-quemas-agricolas-y-forestales-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-maule-anuncia-apertura-del-calendario-de-quemas-agricolas-y-forestales-en-la-region",
-      "fecha": "2026-04-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "16 mujeres fueron reconocidas como “Guardianas del bosque” en Los Ríos por CONAF y FAO",
-      "url": "https://www.conaf.cl/16-mujeres-fueron-reconocidas-como-guardianas-del-bosque-en-los-rios-por-conaf-y-fao/?utm_source=rss&utm_medium=rss&utm_campaign=16-mujeres-fueron-reconocidas-como-guardianas-del-bosque-en-los-rios-por-conaf-y-fao",
-      "fecha": "2026-04-07",
+      "titular": "CONAF Los Lagos intensifica controles carreteros al transporte de madera nativa",
+      "url": "https://www.conaf.cl/conaf-los-lagos-intensifica-controles-carreteros-al-transporte-de-madera-nativa/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-lagos-intensifica-controles-carreteros-al-transporte-de-madera-nativa",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Medio Ambiente, MINDEP e IND coordinan acciones para proteger a deportistas durante el periodo de Gestión de Episodios Críticos en Coyhaique",
-      "url": "https://mma.gob.cl/medio-ambiente-mindep-e-ind-coordinan-acciones-para-proteger-a-deportistas-durante-el-periodo-de-gestion-de-episodios-criticos-en-coyhaique/",
-      "fecha": "2026-04-07",
+      "titular": "Consejo Consultivo de Medio Ambiente inicia nuevo periodo con representación multisectorial",
+      "url": "https://mma.gob.cl/consejo-consultivo-de-medio-ambiente-inicia-nuevo-periodo-con-representacion-multisectorial/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente invita a participar en talleres de la consulta pública del nuevo Plan de Descontaminación Atmosférica del Valle Central de Ñuble",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-participar-en-talleres-de-la-consulta-publica-del-nuevo-plan-de-descontaminacion-atmosferica-del-valle-central-de-nuble/",
-      "fecha": "2026-04-07",
+      "titular": "Seremi del Medio Ambiente anuncia resultados del Subsidio Recambio de Calefactores en Talca y Maule",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-anuncia-resultados-del-subsidio-recambio-de-calefactores-en-talca-y-maule/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente realizará cursos gratuitos de capacitación y sensibilización en electromovilidad en todo Chile",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-realizara-cursos-gratuitos-de-capacitacion-y-sensibilizacion-en-electromovilidad-en-todo-chile/",
-      "fecha": "2026-04-07",
+      "titular": "Novedades para el programa de recambio de calefactores en Puerto Aysén, Cochrane y Coyhaique",
+      "url": "https://mma.gob.cl/novedades-para-el-programa-de-recambio-de-calefactores-en-puerto-aysen-cochrane-y-coyhaique/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente se reúne por primera vez con el Comité Técnico del SEA",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-por-primera-vez-con-el-comite-tecnico-del-sea/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de la Compañía Minera del Pacífico",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-la-compania-minera-del-pacifico/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

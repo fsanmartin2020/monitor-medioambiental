@@ -1,29 +1,65 @@
 {
-  "fecha_generacion": "2026-04-08T08:10:56.808358-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-04-09T08:07:38.232388-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Comité de la ONU solicita que crisis de desapariciones forzadas en México sea abordada por la Asamblea General",
-      "url": "https://www.diarioconstitucional.cl/2026/04/08/comite-de-la-onu-solicita-que-crisis-de-desapariciones-forzadas-en-mexico-sea-abordada-por-la-asamblea-general/",
+      "fuente": "EFE Verde",
+      "titular": "La minería se acerca al hielo en Argentina: claves de la reforma de la ley de glaciares",
+      "url": "https://efeverde.com/claves-reforma-ley-glaciares-argentina-mineria/",
+      "fecha": "2026-04-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Madrid.- Los glaciares argentinos han dejado de estar protegidos automáticamente por ley. Tras casi 12 horas de debate, la Cámara de Diputados ha aprobado con 137 votos a favor, 111 en contra y 3 abstenciones la reforma de la Ley de Glaciares que ha ",
+      "keywords_detectadas": [
+        "Ley de Glaciares"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Impuesto Verde 2025: SMA publica listado de establecimientos que superan límites de emisiones",
+      "url": "https://codexverde.cl/establecimientos-que-superan-limites-de-emisiones-impuesto-verde/",
       "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El órgano de expertos fundamentó su decisión en la detección de patrones sistemáticos que podrían constituir crímenes de lesa humanidad bajo los estándares del derecho internacional. La resolución busca que la comunidad internacional evalúe de forma ",
+      "extracto": "La Superintendencia del Medio Ambiente (SMA) publicó el listado de establecimientos afectos al pago del Impuesto Verde correspondiente al período 2025. Los establecimientos incluidos en el listado corresponden a aquellos cuyas fuentes emisoras, ya se",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Chile: pescadores ya han puesto seis querellas criminales contra Minera Escondida por el derrame de desechos industriales",
+      "url": "https://www.terram.cl/chile-pescadores-ya-han-puesto-seis-querellas-criminales-contra-minera-escondida-por-el-derrame-de-desechos-industriales/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La compañía Minera Escondida | BHP fue denunciada por supuestos delitos ambientales tras un vertimiento de desechos industriales en 2025, en el sector de Roca Roja, en la costa de Antofagasta. La acción penal fue interpuesta por más de 390 pescadores",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente se reúne por primera vez con el Comité Técnico del SEA",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-por-primera-vez-con-el-comite-tecnico-del-sea/",
+      "fecha": "2026-04-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El SEREMI del medioambiente junto con los servicios públicos con competencia ambiental de la región de Atacama conocieron los antecedentes […]",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-42-2025 «Sociedad Comercializadora de Carbón SpA con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/sin-categoria/transmision-audiencia-causa-r-42-2025-sociedad-comercializadora-de-carbon-spa-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-07",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de la Compañía Minera del Pacífico",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-la-compania-minera-del-pacifico/",
+      "fecha": "2026-04-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-42-2025 “Sociedad Comercializadora SpA con Superintendencia del Medio Ambiente”, que se realiza el miércoles 8 de abril, a",
+      "extracto": "La iniciativa tiene por objetivo la incorporación de la explotación subterránea en una de sus operaciones. La entrada Se califica favorablemente DIA de proyecto de la Compañía Minera del Pacífico se publicó primero en Mch .",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "DIA"
       ]
     }
   ]
