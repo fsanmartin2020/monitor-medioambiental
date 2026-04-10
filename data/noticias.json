@@ -1,293 +1,181 @@
 {
-  "fecha_actualizacion": "2026-04-09T08:07:38.220122-04:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-04-10T08:04:57.888700-04:00",
+  "total": 22,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Cuatro casos ejemplares de emprendimientos en Chile y Latinoamérica que apuestan por la reutilización",
-      "url": "https://www.paiscircular.cl/reutilizacion/reutilizacion/",
-      "fecha": "2026-04-09",
+      "fuente": "EFE Verde",
+      "titular": "El pasado mes de marzo fue el cuarto más cálido a nivel mundial, según Copernicus",
+      "url": "https://efeverde.com/el-pasado-mes-de-marzo-fue-el-cuarto-mas-calido-a-nivel-mundial-segun-copernicus/",
+      "fecha": "2026-04-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Gobierno cesa a la presidenta de la Aemet, María José Rallo, y actualiza sus estatutos",
-      "url": "https://efeverde.com/gobierno-cesa-presidenta-aemet-maria-jose-rallo-actualiza-estatutos/",
-      "fecha": "2026-04-09",
+      "titular": "La mayor comunidad de chimpancés salvajes se divide e instaura una  violencia mutua",
+      "url": "https://efeverde.com/la-mayor-comunidad-de-chimpances-salvajes-se-divide-e-instaura-una-violencia-mutua/",
+      "fecha": "2026-04-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La minería se acerca al hielo en Argentina: claves de la reforma de la ley de glaciares",
-      "url": "https://efeverde.com/claves-reforma-ley-glaciares-argentina-mineria/",
-      "fecha": "2026-04-09",
+      "titular": "Lobos y ganado pueden y deben coexistir, ¿por qué matarlos?",
+      "url": "https://efeverde.com/lobos-y-ganado-pueden-y-deben-coexistir-por-que-matarlos/",
+      "fecha": "2026-04-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Lista Roja de la UICN: El pingüino emperador y el lobo fino antártico pasan a la categoría de “peligro”",
-      "url": "https://efeverde.com/lista-roja-uicn-pinguino-emperador-lobo-fino-antartico/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Diario Financiero",
+      "titular": "Primer mes de Kast rompe récord de inversión en el SEIA, pese a menor número de proyectos que en otros gobiernos",
+      "url": "https://www.df.cl/empresas/mineria/primer-mes-de-kast-rompe-record-de-inversion-en-el-seia-pese-a-menor",
+      "fecha": "2026-04-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Gaviotas en Madrid. Por May",
-      "url": "https://efeverde.com/gaviotas-madrid-may-mundomay/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Pulso",
+      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
+      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Mejora la situación en Asturias y Cantabria, los incendios activos bajan a 13",
-      "url": "https://efeverde.com/mejora-la-situacion-en-asturias-y-cantabria-los-incendios-activos-bajan-a-13/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Residuos, SBAP y agilizar la evaluación ambiental, los 3 ejes que concentrarán el trabajo del Ministerio del Medio Ambiente",
-      "url": "https://www.paiscircular.cl/medio-ambiente/residuos-sbap-y-agilizar-la-evaluacion-ambiental-los-3-ejes-que-concentraran-el-trabajo-del-ministerio-del-medio-ambiente/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Región de Los Lagos: hacia una construcción sostenible y circular",
-      "url": "https://www.paiscircular.cl/videos/region-de-los-lagos-hacia-una-construccion-sostenible-y-circular/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Pulso",
+      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
+      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "SOFOFA, PRIMER ENCUENTRO CON  MINISTRO QUIROZ Y BANCO CENTRAL: “INVERTIR EN CHILE SE VOLVIÓ  DEMASIADO CARO Y COMPLEJO”",
-      "url": "https://www.chiledesarrollosustentable.cl/sofofa-ante-bajo-crecimiento-del-pais-primer-encuentro-con-ministro-quiroz-y-banco-central-invertir-en-chile-se-volvio-demasiado-caro-y-complejo/?utm_source=rss&utm_medium=rss&utm_campaign=sofofa-ante-bajo-crecimiento-del-pais-primer-encuentro-con-ministro-quiroz-y-banco-central-invertir-en-chile-se-volvio-demasiado-caro-y-complejo",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Transformación energética en Chile: Cómo la resiliencia y la eficiencia marcan la diferencia",
-      "url": "https://www.chiledesarrollosustentable.cl/transformacion-energetica-en-chile-como-la-resiliencia-y-la-eficiencia-marcan-la-diferencia/?utm_source=rss&utm_medium=rss&utm_campaign=transformacion-energetica-en-chile-como-la-resiliencia-y-la-eficiencia-marcan-la-diferencia",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Impuesto Verde 2025: SMA publica listado de establecimientos que superan límites de emisiones",
-      "url": "https://codexverde.cl/establecimientos-que-superan-limites-de-emisiones-impuesto-verde/",
-      "fecha": "2026-04-08",
+      "titular": "EL DESPERTAR DE LA GRAN CORRIENTE DE LA ANTÁRTIDA: ASÍ SE CONFIGURÓ EL MOTOR CLIMÁTICO DEL PLANETAE",
+      "url": "https://www.chiledesarrollosustentable.cl/el-despertar-de-la-gran-corriente-de-la-antartida-asi-se-configuro-el-motor-climatico-del-planetae/?utm_source=rss&utm_medium=rss&utm_campaign=el-despertar-de-la-gran-corriente-de-la-antartida-asi-se-configuro-el-motor-climatico-del-planetae",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La contaminación lumínica global crece un 16 % en una década",
-      "url": "https://efeverde.com/contaminacion-luminica-global/",
-      "fecha": "2026-04-08",
+      "titular": "Brais Lorenzo, premio World Press Photo: «Uno no se acostumbra a fotografiar incendios»",
+      "url": "https://efeverde.com/brais-lorenzo-premio-world-press-photo-cobertura-incendios-galicia/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nacen dos crías de quebrantahuesos en libertad en los Picos de Europa",
-      "url": "https://efeverde.com/nacen-crias-quebrantahuesos-en-picos-de-europa/",
-      "fecha": "2026-04-08",
+      "titular": "Greenpeace documenta la contaminación por la mina de Aznalcóllar 28 años después del vertido",
+      "url": "https://efeverde.com/greenpeace-documenta-contaminacion-por-mina-de-aznalcollar/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Liberan en Mallorca dos ejemplares de milano real que se han recuperado tras haber recibido unos disparos",
-      "url": "https://efeverde.com/liberan-mallorca-dos-ejemplares-milano-real-disparos/",
-      "fecha": "2026-04-08",
+      "titular": "La minería, Europa y una directiva del agua en revisión",
+      "url": "https://efeverde.com/la-mineria-europa-y-una-directiva-del-agua-en-revision/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ecologistas, preocupados por la reunión entre las mineras suecas y la comisaria Roswall",
-      "url": "https://efeverde.com/ecologistas-preocupados-reunion-mineras-suecas-roswall/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Transformar los residuos forestales: de un problema para los incendios a combustible sostenible para el transporte",
-      "url": "https://efeverde.com/transformar-residuos-forestales-combustible-sostenible-transporte/",
-      "fecha": "2026-04-08",
+      "titular": "Los incendios activos en Asturias y Cantabria se reducen a tres, aunque el riesgo de fuego es muy alto",
+      "url": "https://efeverde.com/incendios-activos-en-asturias-y-cantabria/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Chile: pescadores ya han puesto seis querellas criminales contra Minera Escondida por el derrame de desechos industriales",
-      "url": "https://www.terram.cl/chile-pescadores-ya-han-puesto-seis-querellas-criminales-contra-minera-escondida-por-el-derrame-de-desechos-industriales/",
-      "fecha": "2026-04-08",
+      "titular": "Las prioridades ambientales del gobierno",
+      "url": "https://www.terram.cl/las-prioridades-ambientales-del-gobierno/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "“Mala interpretación de la ley”: Poduje culpa a la delimitación de humedales por falta de suelo para vivienda en Valdivia",
-      "url": "https://www.terram.cl/mala-interpretacion-de-la-ley-poduje-culpa-a-la-delimitacion-de-humedales-por-falta-de-suelo-para-vivienda-en-valdivia/",
-      "fecha": "2026-04-08",
+      "titular": "Gobierno reafirma que no habrá modificaciones a ley de fraccionamiento pesquero y que modificará la Ley Lafkenche",
+      "url": "https://www.terram.cl/gobierno-reafirma-que-no-habra-modificaciones-a-ley-de-fraccionamiento-pesquero-y-que-modificara-la-ley-lafkenche/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Segunda sesión del Comité de Ministros revisará proyecto Maratué y ajuste a Línea 7 del Metro",
-      "url": "https://www.terram.cl/segunda-sesion-del-comite-de-ministros-revisara-proyecto-maratue-y-ajuste-a-linea-7-del-metro/",
-      "fecha": "2026-04-08",
+      "titular": "Denunciante de colusión de siete procesadoras de centolla en Magallanes: “Los gerentes coordinaban los precios”",
+      "url": "https://www.terram.cl/denunciante-de-colusion-de-siete-procesadoras-de-centolla-en-magallanes-los-gerentes-coordinaban-los-precios/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Confirman reingreso de dos decretos sobre contaminación a Contraloría: uno por plomo y otro para Puerto Aysén",
-      "url": "https://www.terram.cl/confirman-reingreso-de-dos-decretos-sobre-contaminacion-a-contraloria-uno-por-plomo-y-otro-para-puerto-aysen/",
-      "fecha": "2026-04-08",
+      "titular": "Pesquera china es denunciada por operar ilegalmente en mar chileno: fue descubierta mediante imágenes satelitales",
+      "url": "https://www.terram.cl/pesquera-china-es-denunciada-por-operar-ilegalmente-en-mar-chileno-fue-descubierta-mediante-imagenes-satelitales/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "“Rancho Chico” el incendio forestal olvidado de Hualqui y dejado de lado en el Plan de Reconstrucción",
-      "url": "https://www.terram.cl/rancho-chico-el-incendio-forestal-olvidado-de-hualqui-y-dejado-de-lado-en-el-plan-de-reconstruccion/",
-      "fecha": "2026-04-08",
+      "titular": "Estudios sugieren que basura textil en el desierto emite micro plásticos y aumenta enfermedades respiratorias",
+      "url": "https://www.terram.cl/estudios-sugieren-que-basura-textil-en-el-desierto-emite-micro-plasticos-y-aumenta-enfermedades-respiratorias/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Acceso a agua limpia y segura preocupa a 94% de los chilenos y 50% ve riesgo hídrico en la Inteligencia Artificial",
-      "url": "https://www.terram.cl/acceso-a-agua-limpia-y-segura-preocupa-a-94-de-los-chilenos-y-50-ve-riesgo-hidrico-en-la-inteligencia-artificial/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Cuidado y planificación del agua a nivel de cuencas",
-      "url": "https://www.fima.cl/2026/04/08/cuidado-y-planificacion-del-agua-a-nivel-de-cuencas/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Nuevo Apunte de Política Ambiental: Transición más allá de los Combustibles Fósiles",
-      "url": "https://www.fima.cl/2026/04/08/nuevo-apunte-de-politica-ambiental-transicion-mas-alla-de-los-combustibles-fosiles/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Chile y el plástico: liderar con el ejemplo",
-      "url": "https://www.fima.cl/2026/04/08/chile-y-el-plastico-liderar-con-el-ejemplo/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Resultados de gestion",
-      "url": "https://www.sernapesca.cl/informes-y-datos/resultados-de-gestion/",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF y CORMA fortalecen alianza público-privada para la sostenibilidad de la gestión forestal en Ñuble",
-      "url": "https://www.conaf.cl/conaf-y-corma-fortalecen-alianza-publico-privada-para-la-sostenibilidad-de-la-gestion-forestal-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-corma-fortalecen-alianza-publico-privada-para-la-sostenibilidad-de-la-gestion-forestal-en-nuble",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF y CORMA refuerzan coordinación para enfrentar riesgos de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-y-corma-refuerzan-coordinacion-para-enfrentar-riesgos-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-corma-refuerzan-coordinacion-para-enfrentar-riesgos-de-incendios-forestales",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Monumento Natural Contulmo celebra 85 años resguardando biodiversidad en La Araucanía",
-      "url": "https://www.conaf.cl/monumento-natural-contulmo-celebra-85-anos-resguardando-biodiversidad-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=monumento-natural-contulmo-celebra-85-anos-resguardando-biodiversidad-en-la-araucania",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF lanza Fondo con casi $7 mil millones para impulsar el manejo sustentable del bosque nativo",
-      "url": "https://www.conaf.cl/conaf-lanza-fondo-con-casi-7-mil-millones-para-impulsar-el-manejo-sustentable-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-lanza-fondo-con-casi-7-mil-millones-para-impulsar-el-manejo-sustentable-del-bosque-nativo",
-      "fecha": "2026-04-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Los Lagos intensifica controles carreteros al transporte de madera nativa",
-      "url": "https://www.conaf.cl/conaf-los-lagos-intensifica-controles-carreteros-al-transporte-de-madera-nativa/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-lagos-intensifica-controles-carreteros-al-transporte-de-madera-nativa",
-      "fecha": "2026-04-08",
+      "titular": "Granjas marinas: pescadores artesanales están reinventando su oficio en el norte de Chile",
+      "url": "https://www.terram.cl/granjas-marinas-pescadores-artesanales-estan-reinventando-su-oficio-en-el-norte-de-chile/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Consejo Consultivo de Medio Ambiente inicia nuevo periodo con representación multisectorial",
-      "url": "https://mma.gob.cl/consejo-consultivo-de-medio-ambiente-inicia-nuevo-periodo-con-representacion-multisectorial/",
-      "fecha": "2026-04-08",
+      "titular": "Autoridades reactivan Mesa SER para fortalecer la gestión de residuos en la región",
+      "url": "https://mma.gob.cl/autoridades-reactivan-mesa-ser-para-fortalecer-la-gestion-de-residuos-en-la-region/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente anuncia resultados del Subsidio Recambio de Calefactores en Talca y Maule",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-anuncia-resultados-del-subsidio-recambio-de-calefactores-en-talca-y-maule/",
-      "fecha": "2026-04-08",
+      "titular": "Ministerio del Medio Ambiente reingresa a Contraloría el decreto del Plan de Descontaminación Atmosférica de Puerto Aysén",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-reingresa-a-contraloria-el-decreto-del-plan-de-descontaminacion-atmosferica-de-puerto-aysen/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Novedades para el programa de recambio de calefactores en Puerto Aysén, Cochrane y Coyhaique",
-      "url": "https://mma.gob.cl/novedades-para-el-programa-de-recambio-de-calefactores-en-puerto-aysen-cochrane-y-coyhaique/",
-      "fecha": "2026-04-08",
+      "titular": "Presidente Kast nombra al nuevo Director Nacional del Servicio de Biodiversidad y Áreas Protegidas",
+      "url": "https://mma.gob.cl/presidente-kast-nombra-al-nuevo-director-nacional-del-servicio-de-biodiversidad-y-areas-protegidas/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente se reúne por primera vez con el Comité Técnico del SEA",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-por-primera-vez-con-el-comite-tecnico-del-sea/",
-      "fecha": "2026-04-08",
+      "fuente": "La Tercera",
+      "titular": "CEO de Colbún por medidas eléctricas en el Congreso: “Por primera vez en mucho tiempo vemos convergencia de miradas”",
+      "url": "https://www.latercera.com/pulso/noticia/ceo-de-colbun-por-medidas-electricas-en-el-congreso-por-primera-vez-en-mucho-tiempo-vemos-convergencia-de-miradas/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto de la Compañía Minera del Pacífico",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-la-compania-minera-del-pacifico/",
-      "fecha": "2026-04-08",
+      "fuente": "Nueva Minería",
+      "titular": "Abril 2026 / nº 206",
+      "url": "https://www.nuevamineria.com/revista/abril-2026-no-206/",
+      "fecha": "2026-04-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
