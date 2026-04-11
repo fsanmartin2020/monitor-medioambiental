@@ -1,41 +1,42 @@
 {
-  "fecha_generacion": "2026-04-10T08:04:57.902432-04:00",
+  "fecha_generacion": "2026-04-11T07:41:29.756035-04:00",
   "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Diario Financiero",
-      "titular": "Primer mes de Kast rompe récord de inversión en el SEIA, pese a menor número de proyectos que en otros gobiernos",
-      "url": "https://www.df.cl/empresas/mineria/primer-mes-de-kast-rompe-record-de-inversion-en-el-seia-pese-a-menor",
+      "fuente": "La Tercera",
+      "titular": "Los desafíos de Arturo Farías, el nuevo jefe del Servicio de Evaluación Ambiental",
+      "url": "https://www.latercera.com/pulso/noticia/los-desafios-de-arturo-farias-el-nuevo-jefe-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El abogado de 40 años trabaja desde hace ocho años en el organismo creado en 2010. Según especialistas, Farías debe ejercer una rectoría técnica firme para unificar criterios regionales y filtrar observaciones improcedentes de otros servicios público",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental escuchó alegatos en reclamación contra el SEA por proyecto de ampliación de piscicultura en Calbuco",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-escucho-alegatos-en-reclamacion-contra-el-sea-por-proyecto-de-ampliacion-de-piscicultura-en-calbuco/",
       "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "La cifra acumulada en proyectos ingresados equivale a un tercio del récord anual del sistema. El motor principal fue el sector minero, que reapareció ante “un cambio de ciclo”.",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La reclamación fue interpuesta ante el Tercer Tribunal Ambiental, luego que el SEA rechazara el recurso de reclamación que buscaba revertir la calificación ambiental favorable del proyecto “Ampliación Piscicultura de Recirculación Aucha”. Ante el Ter",
+      "keywords_detectadas": [
+        "SEA",
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Gobierno de Kast alcanza récord histórico de inversiones en proyectos mineros en SEIA",
+      "url": "https://www.redimin.cl/gobierno-de-kast-alcanza-record-historico-de-inversiones-en-proyectos-mineros-en-seia/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Durante el primer mes de la administración de José Antonio Kast, el SEIA registró un récord de US$ 19.603 millones en proyectos, impulsados principalmente por el sector minero, generando optimismo en la inversión. Este resultado supera significativam",
       "keywords_detectadas": [
         "SEIA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
-      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
-      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
       ]
     }
   ]

@@ -1,181 +1,285 @@
 {
-  "fecha_actualizacion": "2026-04-10T08:04:57.888700-04:00",
-  "total": 22,
+  "fecha_actualizacion": "2026-04-11T07:41:29.741041-04:00",
+  "total": 35,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "El pasado mes de marzo fue el cuarto más cálido a nivel mundial, según Copernicus",
-      "url": "https://efeverde.com/el-pasado-mes-de-marzo-fue-el-cuarto-mas-calido-a-nivel-mundial-segun-copernicus/",
-      "fecha": "2026-04-10",
+      "titular": "Madrid, principal ciudad de España y quinta de Europa en el uso de ropa reutilizada",
+      "url": "https://efeverde.com/uso-de-ropa-reutilizada/",
+      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La mayor comunidad de chimpancés salvajes se divide e instaura una  violencia mutua",
-      "url": "https://efeverde.com/la-mayor-comunidad-de-chimpances-salvajes-se-divide-e-instaura-una-violencia-mutua/",
-      "fecha": "2026-04-10",
+      "titular": "Los incendios queman 22.000 hectáreas desde enero, el doble de la media y la mayoría provocados",
+      "url": "https://efeverde.com/los-incendios-queman-22-000-hectareas-desde-enero-el-doble-de-la-media-y-la-mayoria-provocados/",
+      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Lobos y ganado pueden y deben coexistir, ¿por qué matarlos?",
-      "url": "https://efeverde.com/lobos-y-ganado-pueden-y-deben-coexistir-por-que-matarlos/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Primer mes de Kast rompe récord de inversión en el SEIA, pese a menor número de proyectos que en otros gobiernos",
-      "url": "https://www.df.cl/empresas/mineria/primer-mes-de-kast-rompe-record-de-inversion-en-el-seia-pese-a-menor",
-      "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
-      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Tribunal anula orden de demolición de Hotel Punta Piqueros y SEA respalda nuevo proyecto",
-      "url": "https://www.pulso.cl/pulso/noticia/tribunal-anula-orden-de-demolicion-de-hotel-punta-piqueros-y-sea-respalda-nuevo-proyecto/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "EL DESPERTAR DE LA GRAN CORRIENTE DE LA ANTÁRTIDA: ASÍ SE CONFIGURÓ EL MOTOR CLIMÁTICO DEL PLANETAE",
-      "url": "https://www.chiledesarrollosustentable.cl/el-despertar-de-la-gran-corriente-de-la-antartida-asi-se-configuro-el-motor-climatico-del-planetae/?utm_source=rss&utm_medium=rss&utm_campaign=el-despertar-de-la-gran-corriente-de-la-antartida-asi-se-configuro-el-motor-climatico-del-planetae",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Brais Lorenzo, premio World Press Photo: «Uno no se acostumbra a fotografiar incendios»",
-      "url": "https://efeverde.com/brais-lorenzo-premio-world-press-photo-cobertura-incendios-galicia/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace documenta la contaminación por la mina de Aznalcóllar 28 años después del vertido",
-      "url": "https://efeverde.com/greenpeace-documenta-contaminacion-por-mina-de-aznalcollar/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La minería, Europa y una directiva del agua en revisión",
-      "url": "https://efeverde.com/la-mineria-europa-y-una-directiva-del-agua-en-revision/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios activos en Asturias y Cantabria se reducen a tres, aunque el riesgo de fuego es muy alto",
-      "url": "https://efeverde.com/incendios-activos-en-asturias-y-cantabria/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Las prioridades ambientales del gobierno",
-      "url": "https://www.terram.cl/las-prioridades-ambientales-del-gobierno/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Gobierno reafirma que no habrá modificaciones a ley de fraccionamiento pesquero y que modificará la Ley Lafkenche",
-      "url": "https://www.terram.cl/gobierno-reafirma-que-no-habra-modificaciones-a-ley-de-fraccionamiento-pesquero-y-que-modificara-la-ley-lafkenche/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Denunciante de colusión de siete procesadoras de centolla en Magallanes: “Los gerentes coordinaban los precios”",
-      "url": "https://www.terram.cl/denunciante-de-colusion-de-siete-procesadoras-de-centolla-en-magallanes-los-gerentes-coordinaban-los-precios/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Pesquera china es denunciada por operar ilegalmente en mar chileno: fue descubierta mediante imágenes satelitales",
-      "url": "https://www.terram.cl/pesquera-china-es-denunciada-por-operar-ilegalmente-en-mar-chileno-fue-descubierta-mediante-imagenes-satelitales/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Estudios sugieren que basura textil en el desierto emite micro plásticos y aumenta enfermedades respiratorias",
-      "url": "https://www.terram.cl/estudios-sugieren-que-basura-textil-en-el-desierto-emite-micro-plasticos-y-aumenta-enfermedades-respiratorias/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Granjas marinas: pescadores artesanales están reinventando su oficio en el norte de Chile",
-      "url": "https://www.terram.cl/granjas-marinas-pescadores-artesanales-estan-reinventando-su-oficio-en-el-norte-de-chile/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades reactivan Mesa SER para fortalecer la gestión de residuos en la región",
-      "url": "https://mma.gob.cl/autoridades-reactivan-mesa-ser-para-fortalecer-la-gestion-de-residuos-en-la-region/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente reingresa a Contraloría el decreto del Plan de Descontaminación Atmosférica de Puerto Aysén",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-reingresa-a-contraloria-el-decreto-del-plan-de-descontaminacion-atmosferica-de-puerto-aysen/",
-      "fecha": "2026-04-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presidente Kast nombra al nuevo Director Nacional del Servicio de Biodiversidad y Áreas Protegidas",
-      "url": "https://mma.gob.cl/presidente-kast-nombra-al-nuevo-director-nacional-del-servicio-de-biodiversidad-y-areas-protegidas/",
-      "fecha": "2026-04-09",
+      "titular": "Consumir especies invasoras para controlar su expansión, la ciencia cuestiona su eficacia",
+      "url": "https://efeverde.com/consumir-especies-invasoras-para-controlar-su-expansion-la-ciencia-cuestiona-su-eficacia/",
+      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "CEO de Colbún por medidas eléctricas en el Congreso: “Por primera vez en mucho tiempo vemos convergencia de miradas”",
-      "url": "https://www.latercera.com/pulso/noticia/ceo-de-colbun-por-medidas-electricas-en-el-congreso-por-primera-vez-en-mucho-tiempo-vemos-convergencia-de-miradas/",
-      "fecha": "2026-04-09",
+      "titular": "Los desafíos de Arturo Farías, el nuevo jefe del Servicio de Evaluación Ambiental",
+      "url": "https://www.latercera.com/pulso/noticia/los-desafios-de-arturo-farias-el-nuevo-jefe-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Abril 2026 / nº 206",
-      "url": "https://www.nuevamineria.com/revista/abril-2026-no-206/",
-      "fecha": "2026-04-09",
+      "fuente": "La Tercera",
+      "titular": "Paul McCartney está vivo, aún",
+      "url": "https://www.latercera.com/culto/noticia/paul-mccartney-esta-vivo-aun/",
+      "fecha": "2026-04-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Empresas constructoras registran alzas de hasta 17% en productividad tras iniciativas de Construye2025",
+      "url": "https://codexverde.cl/empresas-constructoras-registran-alzas-de-hasta-17-en-productividad-tras-iniciativas-de-construye2025/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El glaciar Cerros de la Plaza (Colombia) desaparece por el cambio climático",
+      "url": "https://efeverde.com/glaciar-cerros-de-la-plaza-colombia-desaparece-por-cambio-climatico/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La vida de las aves en directo, gracias a más de 20 cámaras de SEO/BirdLife",
+      "url": "https://efeverde.com/la-vida-de-las-aves-en-directo-seo-birdlife/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El economista Nicholas Stern pide acelerar una transición energética «vital» para el crecimiento y la seguridad",
+      "url": "https://efeverde.com/nicholas-stern-transicion-energetica-guerra-iran/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Niño vuelve al centro de las alertas climáticas",
+      "url": "https://efeverde.com/el-nino-vuelve-al-centro-de-las-alertas-climaticas/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El comercio de especies salvajes aumenta la transmisión de patógenos y el riesgo de pandemias",
+      "url": "https://efeverde.com/comercio-especies-salvajes-aumenta-transmision-patogenos-y-riesgo-pandemias/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las cotizadas europeas no cumplen: ocultan aún gran parte de su impacto ambiental",
+      "url": "https://efeverde.com/cotizadas-europeas-ocultan-impacto-ambiental/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Nombramiento político en el SBAP: Saratscheff asume en medio de tensiones regulatorias",
+      "url": "https://www.terram.cl/nombramiento-politico-en-el-sbap-saratscheff-asume-en-medio-de-tensiones-regulatorias/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Es oficial: Publican Plan RECOGE para proteger a las ranitas de Darwin",
+      "url": "https://www.terram.cl/es-oficial-publican-plan-recoge-para-proteger-a-las-ranitas-de-darwin/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Vecinos del Tabo alertan por cambio de Plan Regulador que abriría camino en dunas con flor única en el mundo",
+      "url": "https://www.terram.cl/vecinos-del-tabo-alertan-por-cambio-de-plan-regulador-que-abriria-camino-en-dunas-con-flor-unica-en-el-mundo/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Sequía, viviendas turísticas y sobreexplotación del suelo: la crisis de los lagos de Chile",
+      "url": "https://www.terram.cl/sequia-viviendas-turisticas-y-sobreexplotacion-del-suelo-la-crisis-de-los-lagos-de-chile/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Región de Antofagasta: presentan estudio sobre la biodiversidad marina y presencia de metales",
+      "url": "https://www.terram.cl/region-de-antofagasta-presentan-estudio-sobre-la-biodiversidad-marina-y-presencia-de-metales/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Pasar a la implementación: el desafío tras la aprobación de dos propuestas chilenas para proteger especies migratorias en peligro de extinción",
+      "url": "https://www.terram.cl/pasar-a-la-implementacion-el-desafio-tras-la-aprobacion-de-dos-propuestas-chilenas-para-proteger-especies-migratorias-en-peligro-de-extincion/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental escuchó alegatos en reclamación contra el SEA por proyecto de ampliación de piscicultura en Calbuco",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-escucho-alegatos-en-reclamacion-contra-el-sea-por-proyecto-de-ampliacion-de-piscicultura-en-calbuco/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Autoridades refuerzan agenda de desarrollo turístico en Parque Nacional Nahuelbuta",
+      "url": "https://www.conaf.cl/autoridades-refuerzan-agenda-de-desarrollo-turistico-en-parque-nacional-nahuelbuta/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-refuerzan-agenda-de-desarrollo-turistico-en-parque-nacional-nahuelbuta",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Director de CONAF Ñuble sostuvo reuniones con autoridades de la provincia de Punilla",
+      "url": "https://www.conaf.cl/director-de-conaf-nuble-sostuvo-reuniones-con-autoridades-de-la-provincia-de-punilla/?utm_source=rss&utm_medium=rss&utm_campaign=director-de-conaf-nuble-sostuvo-reuniones-con-autoridades-de-la-provincia-de-punilla",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Entrada liberada: CONAF Los Ríos celebra el día del deporte con entrada gratuita a la Reserva Nacional Mocho Choshuenco",
+      "url": "https://www.conaf.cl/entrada-liberada-conaf-los-rios-celebra-el-dia-del-deporte-con-entrada-gratuita-a-la-reserva-nacional-mocho-choshuenco-2/?utm_source=rss&utm_medium=rss&utm_campaign=entrada-liberada-conaf-los-rios-celebra-el-dia-del-deporte-con-entrada-gratuita-a-la-reserva-nacional-mocho-choshuenco-2",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Reserva Ñuble tendrá acceso gratuito en adhesión al Día Nacional del Deporte",
+      "url": "https://www.conaf.cl/reserva-nuble-tendra-acceso-gratuito-en-adhesion-al-dia-nacional-del-deporte/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nuble-tendra-acceso-gratuito-en-adhesion-al-dia-nacional-del-deporte",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF designa a la primera mujer como Superintendenta del Parque Nacional Torres del Paine",
+      "url": "https://www.conaf.cl/conaf-designa-a-la-primera-mujer-como-superintendenta-del-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-designa-a-la-primera-mujer-como-superintendenta-del-parque-nacional-torres-del-paine",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF abrirá gratuitamente la Reserva Nacional Lago Peñuelas por el Día del Deporte",
+      "url": "https://www.conaf.cl/conaf-abrira-gratuitamente-la-reserva-nacional-lago-penuelas-por-el-dia-del-deporte/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-abrira-gratuitamente-la-reserva-nacional-lago-penuelas-por-el-dia-del-deporte",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Arica y Parinacota lanza un comité regional para coordinar el combate al tráfico ilícito de especies silvestres.",
+      "url": "https://www.conaf.cl/arica-y-parinacota-lanza-un-comite-regional-para-coordinar-el-combate-al-trafico-ilicito-de-especies-silvestres/?utm_source=rss&utm_medium=rss&utm_campaign=arica-y-parinacota-lanza-un-comite-regional-para-coordinar-el-combate-al-trafico-ilicito-de-especies-silvestres",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Parque Nacional Puyehue: 85 años de vida, un legado en conservación y una gran vinculación",
+      "url": "https://www.conaf.cl/parque-nacional-puyehue-85-anos-de-vida-un-legado-en-conservacion-y-una-gran-vinculacion/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-puyehue-85-anos-de-vida-un-legado-en-conservacion-y-una-gran-vinculacion",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente extiende consulta pública para anteproyecto de metas de reciclaje de baterías",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-extiende-consulta-publica-para-anteproyecto-de-metas-de-reciclaje-de-baterias/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Medio Ambiente realiza entrega de fondos concursables y certificaciones 2026",
+      "url": "https://mma.gob.cl/medio-ambiente-realiza-entrega-de-fondos-concursables-y-certificaciones-2026/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Dan inicio a talleres del Plan RECOGE para la conservación del Queule en la zona centro-sur",
+      "url": "https://mma.gob.cl/dan-inicio-a-talleres-del-plan-recoge-para-la-conservacion-del-queule-en-la-zona-centro-sur/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente se reúne con el Consejo Consultivo de Atacama",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-con-el-consejo-consultivo-de-atacama/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Llaman a aportar antecedentes para futura Norma Ambiental para Lago Vichuquén",
+      "url": "https://mma.gob.cl/llaman-a-aportar-antecedentes-para-futura-norma-ambiental-para-lago-vichuquen/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Equipo SEREMI del Medio Ambiente capacita a locales comerciales y fiscalizadores municipales por ley de plásticos de un solo uso",
+      "url": "https://mma.gob.cl/equipo-seremi-del-medio-ambiente-capacita-a-locales-comerciales-y-fiscalizadores-municipales-por-ley-de-plasticos-de-un-solo-uso/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Jugar con el miedo también es violencia",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/jugar-con-el-miedo-tambien-es-violencia/",
+      "fecha": "2026-04-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Gobierno de Kast alcanza récord histórico de inversiones en proyectos mineros en SEIA",
+      "url": "https://www.redimin.cl/gobierno-de-kast-alcanza-record-historico-de-inversiones-en-proyectos-mineros-en-seia/",
+      "fecha": "2026-04-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
