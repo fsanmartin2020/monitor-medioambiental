@@ -1,42 +1,41 @@
 {
-  "fecha_generacion": "2026-04-11T07:41:29.756035-04:00",
+  "fecha_generacion": "2026-04-12T08:06:59.993577-04:00",
   "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Los desafíos de Arturo Farías, el nuevo jefe del Servicio de Evaluación Ambiental",
-      "url": "https://www.latercera.com/pulso/noticia/los-desafios-de-arturo-farias-el-nuevo-jefe-del-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-04-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El abogado de 40 años trabaja desde hace ocho años en el organismo creado en 2010. Según especialistas, Farías debe ejercer una rectoría técnica firme para unificar criterios regionales y filtrar observaciones improcedentes de otros servicios público",
+      "fuente": "Emol",
+      "titular": "Confech tras encuentro nacional: \"Rechazamos tajantemente que la gratuidad sea utilizada como un instrumento disciplinario\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/04/11/1196958/confech-rechazamos-gratuidad-instrumento-disciplinario.html",
+      "fecha": "2026-04-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental escuchó alegatos en reclamación contra el SEA por proyecto de ampliación de piscicultura en Calbuco",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-escucho-alegatos-en-reclamacion-contra-el-sea-por-proyecto-de-ampliacion-de-piscicultura-en-calbuco/",
-      "fecha": "2026-04-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La reclamación fue interpuesta ante el Tercer Tribunal Ambiental, luego que el SEA rechazara el recurso de reclamación que buscaba revertir la calificación ambiental favorable del proyecto “Ampliación Piscicultura de Recirculación Aucha”. Ante el Ter",
+      "fuente": "Diario Financiero",
+      "titular": "Andrés Wood: “El éxito de La casa de los espíritus tiene que ver con que sea popular”",
+      "url": "https://www.df.cl/df-mas/personaje/andres-wood-el-exito-de-la-casa-de-los-espiritus-tiene-que-ver-con-que",
+      "fecha": "2026-04-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "“Se trata de un proyecto particularmente colectivo”, enfatiza el cineasta que es uno de los directores, co-showrunner y también productor ejecutivo de la miniserie de ocho capítulos que lleva a la pantalla la exitosa novela de Isabel Allende y que se",
       "keywords_detectadas": [
-        "SEA",
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Gobierno de Kast alcanza récord histórico de inversiones en proyectos mineros en SEIA",
-      "url": "https://www.redimin.cl/gobierno-de-kast-alcanza-record-historico-de-inversiones-en-proyectos-mineros-en-seia/",
-      "fecha": "2026-04-10",
+      "titular": "SEA enfrenta plazos de hasta 399 días: los desafíos clave de Arturo Farías para destrabar la evaluación ambiental",
+      "url": "https://www.redimin.cl/sea-enfrenta-plazos-de-hasta-399-dias-los-desafios-clave-de-arturo-farias-para-destrabar-la-evaluacion-ambiental/",
+      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante el primer mes de la administración de José Antonio Kast, el SEIA registró un récord de US$ 19.603 millones en proyectos, impulsados principalmente por el sector minero, generando optimismo en la inversión. Este resultado supera significativam",
+      "extracto": "Arturo Farías asume la dirección del Servicio de Evaluación Ambiental en un momento crucial para la inversión en Chile, enfrentando el desafío de reducir los plazos de tramitación y mejorar la certeza jurídica. Su experiencia y enfoque en la unificac",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     }
   ]
