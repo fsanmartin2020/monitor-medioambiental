@@ -1,41 +1,29 @@
 {
-  "fecha_generacion": "2026-04-12T08:06:59.993577-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-04-13T08:17:47.407711-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Emol",
-      "titular": "Confech tras encuentro nacional: \"Rechazamos tajantemente que la gratuidad sea utilizada como un instrumento disciplinario\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/04/11/1196958/confech-rechazamos-gratuidad-instrumento-disciplinario.html",
-      "fecha": "2026-04-12",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Andrés Wood: “El éxito de La casa de los espíritus tiene que ver con que sea popular”",
-      "url": "https://www.df.cl/df-mas/personaje/andres-wood-el-exito-de-la-casa-de-los-espiritus-tiene-que-ver-con-que",
-      "fecha": "2026-04-12",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "“Se trata de un proyecto particularmente colectivo”, enfatiza el cineasta que es uno de los directores, co-showrunner y también productor ejecutivo de la miniserie de ocho capítulos que lleva a la pantalla la exitosa novela de Isabel Allende y que se",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA enfrenta plazos de hasta 399 días: los desafíos clave de Arturo Farías para destrabar la evaluación ambiental",
-      "url": "https://www.redimin.cl/sea-enfrenta-plazos-de-hasta-399-dias-los-desafios-clave-de-arturo-farias-para-destrabar-la-evaluacion-ambiental/",
-      "fecha": "2026-04-11",
+      "fuente": "Nueva Minería",
+      "titular": "Modernización del SEIA: Certezas para destrabar inversión",
+      "url": "https://www.nuevamineria.com/revista/modernizacion-del-seia-certezas-para-destrabar-inversion/",
+      "fecha": "2026-04-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Arturo Farías asume la dirección del Servicio de Evaluación Ambiental en un momento crucial para la inversión en Chile, enfrentando el desafío de reducir los plazos de tramitación y mejorar la certeza jurídica. Su experiencia y enfoque en la unificac",
+      "extracto": "Cambios al reglamento, avances digitales y reforma legal en trámite buscan reducir tiempos y mejorar el funcionamiento del sistema, lo que resulta especialmente relevante para proyectos en minería y energía. Por Horacio Acuña __________________ En lo",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-2/",
+      "fecha": "2026-04-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental informa que ya está disponible el N° 4-2026 de su Boletín de Actualidad Ambiental. La edición de este mes contiene información ambiental relevante de lo ocurrido durante el mes de febrero de este año, teniendo por objeto ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]

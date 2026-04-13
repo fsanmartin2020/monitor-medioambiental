@@ -1,61 +1,101 @@
 {
-  "fecha_actualizacion": "2026-04-12T08:06:59.981807-04:00",
-  "total": 7,
+  "fecha_actualizacion": "2026-04-13T08:17:47.395283-04:00",
+  "total": 12,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Fallece Antonio Vercher, primer fiscal de Medio Ambiente y Urbanismo de España",
-      "url": "https://efeverde.com/fallece-antonio-vercher-primer-fiscal-de-medio-ambiente-y-urbanismo-de-espana/",
-      "fecha": "2026-04-12",
+      "fuente": "País Circular",
+      "titular": "Primer webinar de Travesía Circular visibiliza avances, desafíos y oportunidades de negocio para una construcción más sostenible en Los Lagos",
+      "url": "https://www.paiscircular.cl/economia-circular/primer-webinar-de-travesia-circular-visibiliza-oportunidades-de-negocio-para-una-construccion-mas-sostenible-en-los-lagos/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Engie se retira de Acera: “No representa adecuadamente nuestra visión de mercado”",
+      "url": "https://codexverde.cl/engie-se-retira-de-acera-no-representa-adecuadamente-nuestra-vision-de-mercado/",
+      "fecha": "2026-04-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Contaminación lumínica. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/contaminacion-luminica-por-victor-solis-visoor/",
+      "titular": "Aagesen sostiene que en España hay «un gran apetito» por invertir en proyectos sostenibles",
+      "url": "https://efeverde.com/aagesen-espana-gran-apetito-invertir-proyectos-sostenibles/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Abogacía del Estado rechaza que el Gobierno tenga que limpiar Palomares al no ver riesgo de radiación",
+      "url": "https://efeverde.com/la-abogacia-del-estado-rechaza-limpiar-palomares-al-no-ver-riesgo-de-radiacion/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ecuador lanza fondo de subvenciones para proteger 4,6 millones de hectáreas amazónicas",
+      "url": "https://efeverde.com/ecuador-lanza-fondo-de-subvenciones-para-proteger-46-millones-de-hectareas-amazonicas/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Satélites muestran una mancha de petróleo en el mar Negro tras el rescate de más de 200 pájaros embadurnados",
+      "url": "https://efeverde.com/pajaros-embadurnados-petroleo-mar-negro/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un cactus con 1.500 años de vida pide ayuda en Sevilla para poder seguir en pie",
+      "url": "https://efeverde.com/un-cactus-con-1-500-anos-de-vida-pide-ayuda-en-sevilla-para-poder-seguir-en-pie/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Modernización del SEIA: Certezas para destrabar inversión",
+      "url": "https://www.nuevamineria.com/revista/modernizacion-del-seia-certezas-para-destrabar-inversion/",
+      "fecha": "2026-04-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Miles de argentinos se unen a la batalla legal contra la minería cerca de los glaciares",
+      "url": "https://efeverde.com/miles-de-argentinos-se-unen-a-la-batalla-legal-contra-la-mineria-cerca-de-los-glaciares/",
       "fecha": "2026-04-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Emol",
-      "titular": "Confech tras encuentro nacional: \"Rechazamos tajantemente que la gratuidad sea utilizada como un instrumento disciplinario\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/04/11/1196958/confech-rechazamos-gratuidad-instrumento-disciplinario.html",
+      "fuente": "EFE Verde",
+      "titular": "La sorprendente riqueza de la comunicación vocal de los cuervos carrión",
+      "url": "https://efeverde.com/la-sorprendente-riqueza-de-la-comunicacion-vocal-de-los-cuervos-carrion/",
       "fecha": "2026-04-12",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Andrés Wood: “El éxito de La casa de los espíritus tiene que ver con que sea popular”",
-      "url": "https://www.df.cl/df-mas/personaje/andres-wood-el-exito-de-la-casa-de-los-espiritus-tiene-que-ver-con-que",
-      "fecha": "2026-04-12",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "La diferencia entre orientar y regular",
-      "url": "https://www.latercera.com/opinion/noticia/la-diferencia-entre-orientar-y-regular/",
-      "fecha": "2026-04-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "El inesperado guiño de Carlo Ancelotti: el técnico de Brasil abre la puerta a la convocatoria de Neymar para el Mundial",
-      "url": "https://www.latercera.com/el-deportivo/noticia/el-inesperado-guino-de-carlo-ancelotti-el-tecnico-de-brasil-abre-la-puerta-a-la-convocatoria-de-neymar-para-el-mundial/",
-      "fecha": "2026-04-11",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-2/",
+      "fecha": "2026-04-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SEA enfrenta plazos de hasta 399 días: los desafíos clave de Arturo Farías para destrabar la evaluación ambiental",
-      "url": "https://www.redimin.cl/sea-enfrenta-plazos-de-hasta-399-dias-los-desafios-clave-de-arturo-farias-para-destrabar-la-evaluacion-ambiental/",
-      "fecha": "2026-04-11",
+      "titular": "Minería en aguas profundas: US$4,22 millones impulsan a nuevo actor canadiense en carrera por la CCZ",
+      "url": "https://www.redimin.cl/mineria-en-aguas-profundas-us422-millones-impulsan-a-nuevo-actor-canadiense-en-carrera-por-la-ccz/",
+      "fecha": "2026-04-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
