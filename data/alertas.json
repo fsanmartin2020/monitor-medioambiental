@@ -1,99 +1,88 @@
 {
-  "fecha_generacion": "2026-04-14T08:30:47.643145-04:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-04-15T08:09:15.135143-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Reporte Minero",
-      "titular": "Proyecto Lobo-Marte es admitido a trámite por el SEA y avanza a evaluación ambiental en Atacama",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/proyecto-lobo-marte-kinross-admitido-tramite-sea-atacama",
-      "fecha": "2026-04-14",
+      "fuente": "SONAMI",
+      "titular": "Servicio de Evaluación Ambiental presentó a SONAMI los principales ejes del Plan de Modernización Tecnológica del SEIA",
+      "url": "https://www.sonami.cl/v2/noticias/servicio-de-evaluacion-ambiental-presento-a-sonami-los-principales-ejes-del-plan-de-modernizacion-tecnologica-del-seia/",
+      "fecha": "2026-04-15",
       "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
+      "metodo_extraccion": "article-tags",
+      "extracto": "En dependencias de la Sociedad Nacional de Minería (SONAMI), el Servicio de Evaluación Ambiental realizó este lunes la charla “Plan…",
       "keywords_detectadas": [
-        "SEA"
+        "Servicio de Evaluación Ambiental",
+        "SEIA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Parque Eólico Las Lilas en Biobío entra en evaluación ambiental: DIA advierte riesgos de sequía y pérdida de biodiversidad",
-      "url": "https://www.terram.cl/parque-eolico-las-lilas-en-biobio-entra-en-evaluacion-ambiental-dia-advierte-riesgos-de-sequia-y-perdida-de-biodiversidad/",
-      "fecha": "2026-04-13",
+      "fuente": "La Tercera",
+      "titular": "Récord de inversión en SEIA",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/record-de-inversion-en-seia/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Según la DIA, el proyecto podría generar pérdida de flora y fauna asociada a cambios en variables climáticas, además de aumentar riesgos de sequía y estrés hídrico —especialmente en zonas rurales de Quilleco y Yungay. Fuente: El Desconcierto, 10 de a",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Histórico: Impulsan demanda colectiva contra reforma a Ley de Glaciares, que lleva más de 650 mil adhesiones en Argentina",
-      "url": "https://www.terram.cl/historico-impulsan-demanda-colectiva-contra-reforma-a-ley-de-glaciares-que-lleva-mas-de-650-mil-adhesiones-en-argentina/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Tras la aprobación de la reforma de la ley de glaciares, la demanda colectiva que impulsan las organizaciones de la sociedad civil alcanzó un número récord de adhesiones, superando todas las expectativas; más de 600 mil personas se sumaron a esta ini",
-      "keywords_detectadas": [
-        "Ley de Glaciares"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Se realizaron alegatos en reclamación contra la SMA que multó a Comercializadora de Carbón en Coronel",
-      "url": "https://3ta.cl/noticias/se-realizaron-alegatos-en-reclamacion-contra-la-sma-que-multo-a-comercializadora-de-carbon-en-coronel/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La empresa, sancionada por superar la Norma de Emisión de Ruido, busca dejar sin efecto la multa de 68 UTA impuesta por la Superintendencia del Medio Ambiente. Ante el Tercer Tribunal Ambiental se llevó a cabo la audiencia de alegatos en la causa car",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Argentina: Ley de Glaciares reforma redefine evaluación ambiental y abre nuevas opciones mineras en San Juan",
-      "url": "https://www.redimin.cl/argentina-ley-de-glaciares-reforma-redefine-evaluacion-ambiental-y-abre-nuevas-opciones-mineras-en-san-juan/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La reciente reforma a la Ley de Glaciares en Argentina marca un cambio significativo para el desarrollo minero, ofreciendo mayor claridad regulatoria y certidumbre para proyectos en San Juan, clave para la minería del país. Esta normativa busca equil",
-      "keywords_detectadas": [
-        "Ley de Glaciares"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Deep Sea Minerals apunta al Pacífico y acelera su ingreso a la minería submarina",
-      "url": "https://www.redimin.cl/deep-sea-minerals-apunta-al-pacifico-y-acelera-su-ingreso-a-la-mineria-submarina/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Deep Sea Minerals, antes Copperhead Resources, se enfoca en la minería submarina en el Pacífico, buscando licencias de exploración en zonas clave mientras enfrenta desafíos ambientales y regulatorios. La empresa planea iniciar operaciones comerciales",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Modernización del SEIA: cambios regulatorios apuntan a reducir hasta 70% los tiempos y destrabar inversión clave",
-      "url": "https://www.redimin.cl/modernizacion-del-seia-cambios-regulatorios-apuntan-a-reducir-hasta-70-los-tiempos-y-destrabar-inversion-clave/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La modernización del Sistema de Evaluación de Impacto Ambiental (SEIA) en Chile busca reactivar la inversión en sectores clave como minería y energía, equilibrando estándares ambientales con procesos más ágiles y predecibles. Este enfoque integral pr",
+      "extracto": "SEÑOR DIRECTOR: El ingreso histórico de capitales al SEIA este mes refleja un renovado interés de inversionistas extranjeros, especialmente de gigantes asiáticos, por sectores estratégicos como la minería y la electromovilidad. Es una noticia alentad",
       "keywords_detectadas": [
         "SEIA"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Modernización del SEA: Desafíos pendientes",
-      "url": "https://www.nuevamineria.com/revista/modernizacion-del-sea-desafios-pendientes/",
-      "fecha": "2026-04-13",
+      "fuente": "REDIMIN",
+      "titular": "Reforma a Ley de Glaciares abre paso a megaproyectos de cobre por más de US$ 28.000 millones en Argentina",
+      "url": "https://www.redimin.cl/reforma-a-ley-de-glaciares-abre-paso-a-megaproyectos-de-cobre-por-mas-de-us-28-000-millones-en-argentina/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“Estamos ante un avance técnico que limpia la maleza administrativa de proyectos menores, pero que deja pendientes las grandes reformas estructurales”. Por Solange Vargas, doctora en biología y ecología aplicada y académica de la Universidad de Ataca",
+      "extracto": "La reciente reforma a la Ley de Glaciares en Argentina facilita el desarrollo de megaproyectos de cobre por más de US$ 28.000 millones, brindando certeza regulatoria y ambiental al sector minero. Esto podría reactivar la producción de cobre en el paí",
+      "keywords_detectadas": [
+        "Ley de Glaciares"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Proyecto minero Lobo-Marte en Atacama ingresa al SEIA con inversión histórica",
+      "url": "https://www.redimin.cl/proyecto-minero-lobo-marte-en-atacama-ingresa-al-seia-con-inversion-historica/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El proyecto minero Lobo-Marte de Kinross ha ingresado al Sistema de Evaluación de Impacto Ambiental, con una inversión de US$1.500 millones y la promesa de generar miles de empleos en la Región de Atacama. Su enfoque en sostenibilidad y participación",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Deep Sea Minerals busca liderar la minería submarina pese a desafíos ambientales clave",
+      "url": "https://www.redimin.cl/deep-sea-minerals-busca-liderar-la-mineria-submarina-pese-a-desafios-ambientales-clave/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Deep Sea Minerals, antes Copperhead Resources, busca liderar la minería de fondos marinos en un contexto de creciente demanda de minerales críticos, enfrentando desafíos ambientales y regulatorios. Su modelo \"asset-light\" y reciente financiamiento so",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Litio en Catamarca: proyecto de KABIL obtiene DIA y avanza con foco en empleo local y sostenibilidad",
+      "url": "https://www.redimin.cl/litio-en-catamarca-proyecto-de-kabil-obtiene-dia-y-avanza-con-foco-en-empleo-local-y-sostenibilidad/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La aprobación ambiental del proyecto de exploración de litio en Catamarca por parte de KABIL y CAMYEN marca un avance significativo en la sostenibilidad y la economía local, fortaleciendo la posición de Argentina en el mercado global de minerales crí",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Minería submarina avanza con nuevo actor: Deep Sea Minerals busca licencias en el Pacífico en medio de presión por minerales críticos",
+      "url": "https://www.redimin.cl/mineria-submarina-avanza-con-nuevo-actor-deep-sea-minerals-busca-licencias-en-el-pacifico-en-medio-de-presion-por-minerales-criticos/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La minería submarina se dinamiza con la llegada de Deep Sea Minerals, que busca explorar la zona Clarion-Clipperton en busca de nódulos polimetálicos, en un contexto de creciente demanda por minerales críticos. Este avance plantea oportunidades y des",
       "keywords_detectadas": [
         "SEA"
       ]

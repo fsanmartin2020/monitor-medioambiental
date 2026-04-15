@@ -1,325 +1,285 @@
 {
-  "fecha_actualizacion": "2026-04-14T08:30:47.627064-04:00",
-  "total": 40,
+  "fecha_actualizacion": "2026-04-15T08:09:15.118436-04:00",
+  "total": 35,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Líquenes del sur de Chile: investigación revela su papel en la propagación de incendios forestales",
-      "url": "https://codexverde.cl/papel-de-liquenes-en-la-propagacion-de-incendios-forestales/",
-      "fecha": "2026-04-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Costos, subsidios y financiamiento: ¿quién paga la transición energética?",
-      "url": "https://codexverde.cl/costos-subsidios-y-financiamiento-quien-paga-la-transicion-energetica/",
-      "fecha": "2026-04-14",
+      "fuente": "País Circular",
+      "titular": "Tarifas, uso de energía, falta de integración con otros instrumentos, salmuera: algunas de las materias que quedaron al debe en la Ley de Desalación",
+      "url": "https://www.paiscircular.cl/agua/tarifas-uso-de-energia-falta-de-integracion-con-otros-instrumentos-salmuera-y-otros-las-materias-que-quedaron-al-debe-en-la-ley-de-desalacion/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "SEO/BirdLife alerta del declive de las aves acuáticas invernantes en Extremadura",
-      "url": "https://efeverde.com/seo-birdlife-declive-aves-acuaticas-invernantes-en-extremadura/",
-      "fecha": "2026-04-14",
+      "titular": "Los Pirineos pierden tres días de helada y ganan cinco de verano cada década, según un estudio",
+      "url": "https://efeverde.com/pirineos-ganan-5-dias-verano-pierden-3-helada/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El mercado del carbono: Europa o la necesidad de decidir entre la soberanía industrial y la credibilidad en materia de cambio climático. Por Valentin Vigier (La Financière de l’Echiquier)",
-      "url": "https://efeverde.com/el-mercado-del-carbono-europa-o-la-necesidad-de-decidir-entre-la-soberania-industrial-y-la-credibilidad-en-materia-de-cambio-climatico/",
-      "fecha": "2026-04-14",
+      "titular": "La contaminación del tráfico se cuela en el interior de las aulas",
+      "url": "https://efeverde.com/la-contaminacion-del-trafico-se-cuela-en-el-interior-de-las-aulas/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mar Gómez: «El cambio climático no es abstracto ni lejano, avanza segundo a segundo»",
-      "url": "https://efeverde.com/mar-gomez-el-cambio-climatico-no-es-abstracto-ni-lejano-avanza-segundo-a-segundo/",
-      "fecha": "2026-04-14",
+      "titular": "Del compliance al valor: cómo el reporting de sostenibilidad impulsa innovación, eficiencia y financiación. Por Christian Feuring (osapiens)",
+      "url": "https://efeverde.com/del-compliance-al-valor-como-el-reporting-de-sostenibilidad-impulsa-innovacion-eficiencia-y-financiacion-por-christian-feuring/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "80 hipopótamos, capricho del narco Pablo Escobar, serán sacrificados en Colombia para controlar su expansión",
-      "url": "https://efeverde.com/80-hipopotamos-capricho-del-narco-pablo-escobar-recibiran-la-eutanasia-en-colombia-para-controlar-su-expansion/",
-      "fecha": "2026-04-14",
+      "titular": "La COP31 buscará dejar a las futuras generaciones un hogar común, la Tierra, sano y equilibrado",
+      "url": "https://efeverde.com/la-cop31-buscara-dejar-a-las-futuras-generaciones-un-hogar-comun-la-tierra-sano-y-equilibrado/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Sona, el último tigre circense de Portugal, llega al santuario de grandes felinos de Villena",
-      "url": "https://efeverde.com/sona-el-ultimo-tigre-circense-de-portugal-llega-al-santuraio-de-grandes-felinos-de-villena/",
-      "fecha": "2026-04-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Reporte Minero",
-      "titular": "Proyecto Lobo-Marte es admitido a trámite por el SEA y avanza a evaluación ambiental en Atacama",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/04/proyecto-lobo-marte-kinross-admitido-tramite-sea-atacama",
-      "fecha": "2026-04-14",
+      "fuente": "SONAMI",
+      "titular": "Servicio de Evaluación Ambiental presentó a SONAMI los principales ejes del Plan de Modernización Tecnológica del SEIA",
+      "url": "https://www.sonami.cl/v2/noticias/servicio-de-evaluacion-ambiental-presento-a-sonami-los-principales-ejes-del-plan-de-modernizacion-tecnologica-del-seia/",
+      "fecha": "2026-04-15",
       "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "PRESIDENTE KAST NOMBRA AL NUEVO DIRECTOR NACIONAL DEL SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS",
-      "url": "https://www.chiledesarrollosustentable.cl/presidente-kast-nombra-al-nuevo-director-nacional-del-servicio-de-biodiversidad-y-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-kast-nombra-al-nuevo-director-nacional-del-servicio-de-biodiversidad-y-areas-protegidas",
-      "fecha": "2026-04-13",
+      "fuente": "País Circular",
+      "titular": "BioAysén lanza plataforma impulsada por Corfo y articula alianzas para avanzar en economía verde en la Región de Aysén",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/bioaysen-lanza-plataforma-impulsada-por-corfo-y-articula-alianzas-para-avanzar-en-economia-verde-en-la-region-de-aysen/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "ESCONDIDA | BHP LANZA CONVOCATORIA ABIERTA DE INNOVACIÓN PARA RESOLVER 21 DESAFÍOS EN SUS ÁREAS OPERACIONALES",
-      "url": "https://www.chiledesarrollosustentable.cl/escondida-bhp-lanza-convocatoria-abierta-de-innovacion-para-resolver-21-desafios-en-sus-areas-operacionales/?utm_source=rss&utm_medium=rss&utm_campaign=escondida-bhp-lanza-convocatoria-abierta-de-innovacion-para-resolver-21-desafios-en-sus-areas-operacionales",
-      "fecha": "2026-04-13",
+      "titular": "ÚLTIMOS DÍAS PARA POSTULAR A BRANDSTORM, EL CONCURSO GLOBAL DE L’ORÉAL GROUPE",
+      "url": "https://www.chiledesarrollosustentable.cl/ultimos-dias-para-postular-a-brandstorm-el-concurso-global-de-loreal-groupe/?utm_source=rss&utm_medium=rss&utm_campaign=ultimos-dias-para-postular-a-brandstorm-el-concurso-global-de-loreal-groupe",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "GREAT PLACE TO WORK: EUROFARMA ELEGIDA LA MEJOR FARMACÉUTICA PARA TRABAJAR  EN CHILE",
-      "url": "https://www.chiledesarrollosustentable.cl/great-place-to-work-eurofarma-elegida-la-mejor-farmaceutica-para-trabajar-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=great-place-to-work-eurofarma-elegida-la-mejor-farmaceutica-para-trabajar-en-chile",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Proyecto de inteligencia artificial busca monitorear ciclo de vida del pingüino barbijo en Antártica",
-      "url": "https://codexverde.cl/proyecto-de-inteligencia-artificial-busca-monitorear-ciclo-de-vida-del-pinguino-barbijo-en-antartica/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "WWF Chile impulsa protección del puma con estrategias de coexistencia",
-      "url": "https://codexverde.cl/proteccion-del-puma-con-estrategias-de-coexistencia/",
-      "fecha": "2026-04-13",
+      "titular": "VIVAMOS CIRCULAR OBTIENE RECONOCIMIENTO COMO UNA DE LAS PRINCIPALES INICIATIVAS SUSTENTABLES DEL PAÍS",
+      "url": "https://www.chiledesarrollosustentable.cl/vivamos-circular-obtiene-reconocimiento-como-una-de-las-principales-iniciativas-sustentables-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=vivamos-circular-obtiene-reconocimiento-como-una-de-las-principales-iniciativas-sustentables-del-pais",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿El espacio se convertirá en basurero? Innovaciones ante un problema que exige regulación",
-      "url": "https://efeverde.com/el-espacio-se-convertira-en-basurero-innovaciones/",
-      "fecha": "2026-04-13",
+      "titular": "La Aemet aprobará este miércoles el nombramiento de Alicia López Rejas como nueva directora",
+      "url": "https://efeverde.com/aemet-alicia-lopez-rejas-nueva-directora/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Fatou cumple 69 años y es la gorila más longeva del mundo",
-      "url": "https://efeverde.com/fatou-cumple-69-anos/",
-      "fecha": "2026-04-13",
+      "titular": "La clausura de 9.000 hectáreas de regadíos ilegales en Murcia evita el vertido de mil toneladas de nitratos al Mar Menor",
+      "url": "https://efeverde.com/clausura-regadios-ilegales-evita-vertido-nitratos-al-mar-menor/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Logran por primera vez cartografiar el clima de exoplanetas similares a la Tierra",
-      "url": "https://efeverde.com/logran-por-primera-vez-cartografiar-el-clima-de-exoplanetas-similares-a-la-tierra/",
-      "fecha": "2026-04-13",
+      "titular": "El Gobierno no cambiará las reglas del trasvase Tajo-Segura hasta que no se pronuncie el Tribunal Supremo",
+      "url": "https://efeverde.com/gobierno-reglas-trasvase-tajo-segura/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Giro en caso Punta Piqueros: Justicia deja sin efecto demolición y respalda nuevo proyecto inmobiliario",
-      "url": "https://www.terram.cl/giro-en-caso-punta-piqueros-justicia-deja-sin-efecto-demolicion-y-respalda-nuevo-proyecto-inmobiliario/",
-      "fecha": "2026-04-13",
+      "titular": "Seremi de Medio Ambiente inicia investigación por equipos de monitoreo de Quintero y Puchuncaví",
+      "url": "https://www.terram.cl/seremi-de-medio-ambiente-inicia-investigacion-por-equipos-de-monitoreo-de-quintero-y-puchuncavi/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Parque Eólico Las Lilas en Biobío entra en evaluación ambiental: DIA advierte riesgos de sequía y pérdida de biodiversidad",
-      "url": "https://www.terram.cl/parque-eolico-las-lilas-en-biobio-entra-en-evaluacion-ambiental-dia-advierte-riesgos-de-sequia-y-perdida-de-biodiversidad/",
-      "fecha": "2026-04-13",
+      "titular": "AyT respalda a la UTFSM en proyecto de monitoreo de contaminantes que impactan a los glaciares andinos",
+      "url": "https://www.terram.cl/ayt-respalda-a-la-utfsm-en-proyecto-de-monitoreo-de-contaminantes-que-impactan-a-los-glaciares-andinos/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Eventual contaminación por trabajos de minera: Organizaciones socioambientales destacan resultados en análisis de aguas de Alto Mañihuales",
-      "url": "https://www.terram.cl/eventual-contaminacion-por-trabajos-de-minera-organizaciones-socioambientales-destacan-resultados-en-analisis-de-aguas-de-alto-manihuales/",
-      "fecha": "2026-04-13",
+      "titular": "Pescadores de Los Vilos exigen mayor seguridad ante aumento de pesca ilegal",
+      "url": "https://www.terram.cl/pescadores-de-los-vilos-exigen-mayor-seguridad-ante-aumento-de-pesca-ilegal/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Histórico: Impulsan demanda colectiva contra reforma a Ley de Glaciares, que lleva más de 650 mil adhesiones en Argentina",
-      "url": "https://www.terram.cl/historico-impulsan-demanda-colectiva-contra-reforma-a-ley-de-glaciares-que-lleva-mas-de-650-mil-adhesiones-en-argentina/",
-      "fecha": "2026-04-13",
+      "titular": "Líquenes del sur de Chile: investigación revela su papel en la propagación de incendios forestales",
+      "url": "https://www.terram.cl/liquenes-del-sur-de-chile-investigacion-revela-su-papel-en-la-propagacion-de-incendios-forestales/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Con la entrada en vigor del acuerdo UE-Mercosur, los ecologistas alzan la voz de alarma",
-      "url": "https://www.terram.cl/con-la-entrada-en-vigor-del-acuerdo-ue-mercosur-los-ecologistas-alzan-la-voz-de-alarma/",
-      "fecha": "2026-04-13",
+      "titular": "Influenza aviar: SAG confirmó primer caso en aves silvestres en la Región del Biobío",
+      "url": "https://www.terram.cl/influenza-aviar-sag-confirmo-primer-caso-en-aves-silvestres-en-la-region-del-biobio/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Invitan a charla sobre reglamento del Sistema Nacional de Áreas Protegidas",
-      "url": "https://www.terram.cl/invitan-a-charla-sobre-reglamento-del-sistema-nacional-de-areas-protegidas/",
-      "fecha": "2026-04-13",
+      "titular": "Son la única población del mundo con este comportamiento: Nuevos registros de orcas varando para cazar lobos marinos en Península Valdés",
+      "url": "https://www.terram.cl/son-la-unica-poblacion-del-mundo-con-este-comportamiento-nuevos-registros-de-orcas-varando-para-cazar-lobos-marinos-en-peninsula-valdes/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "En audiencia se revisa medida cautelar que mantiene la suspensión de faenas de Quiborax en la región de Arica y Parinacota",
+      "url": "https://www.1ta.cl/en-audiencia-se-revisa-medida-cautelar-que-mantiene-la-suspension-de-faenas-de-quiborax-en-la-region-de-arica-y-parinacota/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Se realizaron alegatos en reclamación contra la SMA que multó a Comercializadora de Carbón en Coronel",
-      "url": "https://3ta.cl/noticias/se-realizaron-alegatos-en-reclamacion-contra-la-sma-que-multo-a-comercializadora-de-carbon-en-coronel/",
-      "fecha": "2026-04-13",
+      "titular": "Admítase a trámite «Inmobiliaria Dinahue Limitada con Ministerio del Medio Ambiente-Fisco de Chile.». Rol: R-15-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-inmobiliaria-dinahue-limitada-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-15-2026/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Empresa Portuaria Valparaíso  con Ministerio del Medio Ambiente-Fisco de Chile.». Rol: R-17-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-empresa-portuaria-valparaiso-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-17-2026/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Asociación de Transmisores de Chile A.G con Ministerio del Medio Ambiente-Fisco de Chile.». Rol: R-16-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-asociacion-de-transmisores-de-chile-a-g-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo profesional de apoyo del area de pesquerias escalafon profesional a contrata asimilado a grado 15 de la e u s dr de tarapaca del servicio nac",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-profesional-de-apoyo-del-area-de-pesquerias-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-dr-de-tarapaca-del-servicio-nac/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "CONAF",
-      "titular": "Humedal de Río Cruces: Confirmada presencia de Influenza Aviar en cisne de cuello negro",
-      "url": "https://www.conaf.cl/humedal-de-rio-cruces-confirmada-presencia-de-influenza-aviar-en-cisne-de-cuello-negro/?utm_source=rss&utm_medium=rss&utm_campaign=humedal-de-rio-cruces-confirmada-presencia-de-influenza-aviar-en-cisne-de-cuello-negro",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Programa de Arborización Urbana: 18 mil nuevos árboles para la región Metropolitana",
-      "url": "https://www.conaf.cl/programa-de-arborizacion-urbana-18-mil-nuevos-arboles-para-la-region-metropolitana/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-arborizacion-urbana-18-mil-nuevos-arboles-para-la-region-metropolitana",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Director de CONAF Ñuble revisa recursos y  coordinación logística de las brigadas de Bulnes y Quillón",
-      "url": "https://www.conaf.cl/director-de-conaf-nuble-revisa-recursos-y-coordinacion-logistica-de-las-brigadas-de-bulnes-y-quillon/?utm_source=rss&utm_medium=rss&utm_campaign=director-de-conaf-nuble-revisa-recursos-y-coordinacion-logistica-de-las-brigadas-de-bulnes-y-quillon",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Reserva Nacional Mocho Choshuenco y Parque Pirinel unen fuerzas para el monitoreo de fauna nativa",
-      "url": "https://www.conaf.cl/reserva-nacional-mocho-choshuenco-y-parque-pirinel-unen-fuerzas-para-el-monitoreo-de-fauna-nativa/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nacional-mocho-choshuenco-y-parque-pirinel-unen-fuerzas-para-el-monitoreo-de-fauna-nativa",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble refuerza llamado a prevención de incendios forestales durante visita de Ministra Sedini",
-      "url": "https://www.conaf.cl/conaf-nuble-refuerza-llamado-a-prevencion-de-incendios-forestales-durante-visita-de-ministra-sedini/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-llamado-a-prevencion-de-incendios-forestales-durante-visita-de-ministra-sedini",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Presentan resultados de proyecto que investigó balance hídrico del río Limarí gracias al Fondo para la Investigación, Innovación y Educación en Recursos Hídricos (FIIE)",
-      "url": "https://dga.mop.gob.cl/presentan-resultados-de-proyecto-que-investigo-balance-hidrico-del-rio-limari-gracias-al-fondo-para-la-investigacion-innovacion-y-educacion-en-recursos-hidricos-fiie/",
-      "fecha": "2026-04-13",
+      "titular": "Con el apoyo del Banco Mundial, CONAF explora mercados internacionales de carbono para fortalecer la acción climática en Chile",
+      "url": "https://www.conaf.cl/con-el-apoyo-del-banco-mundial-conaf-explora-mercados-internacionales-de-carbono-para-fortalecer-la-accion-climatica-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=con-el-apoyo-del-banco-mundial-conaf-explora-mercados-internacionales-de-carbono-para-fortalecer-la-accion-climatica-en-chile",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mesa Aysén PNEDS inicia su trabajo 2026 con nuevos integrantes y foco en la Agenda 2030",
-      "url": "https://mma.gob.cl/mesa-aysen-pneds-inicia-su-trabajo-2026-con-nuevos-integrantes-y-foco-en-la-agenda-2030/",
-      "fecha": "2026-04-13",
+      "titular": "Invitan a participar de reunión informativa para la actualización el Plan de Descontaminación Atmosférica de Coyhaique",
+      "url": "https://mma.gob.cl/invitan-a-participar-de-reunion-informativa-para-la-actualizacion-el-plan-de-descontaminacion-atmosferica-de-coyhaique/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi de Medio Ambiente inicia investigación por equipos de monitoreo de Quintero y Puchuncaví",
-      "url": "https://mma.gob.cl/seremi-de-medio-ambiente-inicia-investigacion-por-equipos-de-monitoreo-de-quintero-y-puchuncavi/",
-      "fecha": "2026-04-13",
+      "titular": "RUEA: proceso de declaración de emisiones 2025 está abierto hasta el 30 de abril",
+      "url": "https://mma.gob.cl/ruea-proceso-de-declaracion-de-emisiones-2025-esta-abierto-hasta-el-30-de-abril/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi Francisca Garay hace llamado a instituciones públicas y privadas a sumarse a los programas Oficina y Estado Verde del Ministerio del Medio Ambiente",
-      "url": "https://mma.gob.cl/seremi-francisca-garay-hace-llamado-a-instituciones-publicas-y-privadas-a-sumarse-a-los-programas-oficina-y-estado-verde-del-ministerio-del-medio-ambiente/",
-      "fecha": "2026-04-13",
+      "fuente": "RETC",
+      "titular": "RUEA: proceso de declaración de emisiones 2025 está abierto hasta el 30 de abril",
+      "url": "https://retc.mma.gob.cl/ruea-proceso-de-declaracion-de-emisiones-2025-esta-abierto-hasta-el-30-de-abril/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Inicia preparación de juicio oral por megaincendio de Valparaíso: tribunal mantuvo la prisión preventiva de cuatro imputados",
-      "url": "https://www.latercera.com/nacional/noticia/inicia-preparacion-de-juicio-oral-por-megaincendio-de-valparaiso-tribunal-mantuvo-la-prision-preventiva-de-cuatro-imputados/",
-      "fecha": "2026-04-13",
+      "titular": "Récord de inversión en SEIA",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/record-de-inversion-en-seia/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Cuatrecasas Legal Week clausura su cuarta edición",
-      "url": "https://www.diarioconstitucional.cl/2026/04/13/cuatrecasas-legal-week-clausura-su-cuarta-edicion/",
-      "fecha": "2026-04-13",
+      "fuente": "La Tercera",
+      "titular": "Megaproyecto: La Moneda incursiona en líneas opositoras para quebrar resistencia a rebaja de impuesto a las empresas",
+      "url": "https://www.latercera.com/politica/noticia/megaproyecto-la-moneda-incursiona-en-lineas-opositoras-para-quebrar-resistencia-a-rebaja-de-impuesto-a-las-empresas/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Argentina: Ley de Glaciares reforma redefine evaluación ambiental y abre nuevas opciones mineras en San Juan",
-      "url": "https://www.redimin.cl/argentina-ley-de-glaciares-reforma-redefine-evaluacion-ambiental-y-abre-nuevas-opciones-mineras-en-san-juan/",
-      "fecha": "2026-04-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto Lobo-Marte inicia evaluación ambiental: 4,7 millones de onzas y 3.400 empleos en juego en Atacama",
-      "url": "https://www.redimin.cl/proyecto-lobo-marte-inicia-evaluacion-ambiental-47-millones-de-onzas-y-3-400-empleos-en-juego-en-atacama/",
-      "fecha": "2026-04-13",
+      "fuente": "La Tercera",
+      "titular": "Soto, Parisi, diputados DC y Bianchi: La Moneda incursiona en las líneas opositoras para apuntalar su megaproyecto",
+      "url": "https://www.latercera.com/politica/noticia/soto-parisi-diputados-dc-y-bianchi-la-moneda-incursiona-en-las-lineas-opositoras-para-apuntalar-a-su-megaproyecto/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Deep Sea Minerals apunta al Pacífico y acelera su ingreso a la minería submarina",
-      "url": "https://www.redimin.cl/deep-sea-minerals-apunta-al-pacifico-y-acelera-su-ingreso-a-la-mineria-submarina/",
-      "fecha": "2026-04-13",
+      "titular": "Reforma a Ley de Glaciares abre paso a megaproyectos de cobre por más de US$ 28.000 millones en Argentina",
+      "url": "https://www.redimin.cl/reforma-a-ley-de-glaciares-abre-paso-a-megaproyectos-de-cobre-por-mas-de-us-28-000-millones-en-argentina/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Minería climática: el desafío regulatorio",
-      "url": "https://www.redimin.cl/mineria-climatica-el-desafio-regulatorio/",
-      "fecha": "2026-04-13",
+      "titular": "Proyecto minero Lobo-Marte en Atacama ingresa al SEIA con inversión histórica",
+      "url": "https://www.redimin.cl/proyecto-minero-lobo-marte-en-atacama-ingresa-al-seia-con-inversion-historica/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Modernización del SEIA: cambios regulatorios apuntan a reducir hasta 70% los tiempos y destrabar inversión clave",
-      "url": "https://www.redimin.cl/modernizacion-del-seia-cambios-regulatorios-apuntan-a-reducir-hasta-70-los-tiempos-y-destrabar-inversion-clave/",
-      "fecha": "2026-04-13",
+      "titular": "Deep Sea Minerals busca liderar la minería submarina pese a desafíos ambientales clave",
+      "url": "https://www.redimin.cl/deep-sea-minerals-busca-liderar-la-mineria-submarina-pese-a-desafios-ambientales-clave/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Modernización del SEA: Desafíos pendientes",
-      "url": "https://www.nuevamineria.com/revista/modernizacion-del-sea-desafios-pendientes/",
-      "fecha": "2026-04-13",
+      "fuente": "REDIMIN",
+      "titular": "Litio en Catamarca: proyecto de KABIL obtiene DIA y avanza con foco en empleo local y sostenibilidad",
+      "url": "https://www.redimin.cl/litio-en-catamarca-proyecto-de-kabil-obtiene-dia-y-avanza-con-foco-en-empleo-local-y-sostenibilidad/",
+      "fecha": "2026-04-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Minería submarina avanza con nuevo actor: Deep Sea Minerals busca licencias en el Pacífico en medio de presión por minerales críticos",
+      "url": "https://www.redimin.cl/mineria-submarina-avanza-con-nuevo-actor-deep-sea-minerals-busca-licencias-en-el-pacifico-en-medio-de-presion-por-minerales-criticos/",
+      "fecha": "2026-04-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
