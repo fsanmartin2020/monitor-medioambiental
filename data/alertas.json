@@ -1,90 +1,89 @@
 {
-  "fecha_generacion": "2026-04-15T08:09:15.135143-04:00",
+  "fecha_generacion": "2026-04-16T08:11:38.305150-04:00",
   "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "SONAMI",
-      "titular": "Servicio de Evaluación Ambiental presentó a SONAMI los principales ejes del Plan de Modernización Tecnológica del SEIA",
-      "url": "https://www.sonami.cl/v2/noticias/servicio-de-evaluacion-ambiental-presento-a-sonami-los-principales-ejes-del-plan-de-modernizacion-tecnologica-del-seia/",
-      "fecha": "2026-04-15",
+      "fuente": "El Dínamo",
+      "titular": "Ley miscelánea: oposición no descarta que sea inconstitucional si La Moneda no la presenta dividida al Congreso",
+      "url": "https://www.eldinamo.cl/politica/2026/04/15/ley-miscelanea-oposicion-no-descarta-que-sea-inconstitucional/",
+      "fecha": "2026-04-16",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "En dependencias de la Sociedad Nacional de Minería (SONAMI), el Servicio de Evaluación Ambiental realizó este lunes la charla “Plan…",
+      "extracto": "El Tribunal Constitucional también se ha mostrado crítico respecto a este tipo de legislaciones.",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental",
-        "SEIA"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental realiza convocatoria de pasantías para el primer semestre de 2026",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-realiza-convocatoria-de-pasantias-para-el-primer-semestre-de-2026/",
+      "fecha": "2026-04-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental realiza un llamado a postular a su programa de pasantías, para el primer semestre de este año 2026. Esta convocatoria comprende cupos para pasantías en las unidades de Ciencias, Comunicaciones, Informática y Estudios. Las",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Interchile presentó argumentos para cuestionar la no aplicación de descuento de multa impuesta por la Superintendencia del Medio Ambiente",
+      "url": "https://www.1ta.cl/interchile-presento-argumentos-para-cuestionar-la-no-aplicacion-de-descuento-de-multa-impuesta-por-la-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-04-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En audiencia de vista de causa, el tribunal revisó los antecedentes aportados por las partes, en la reclamación de Interchile S.A, en contra de la decisión de la Superintendencia del Medio Ambiente (SMA), que declaró improcedente la aplicación del de",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "30/04/2026: Fija audiencia en caso de «Municipalidad de Hualpén con Superintendencia del Medio Ambiente», Rol: R-25-2025",
+      "url": "https://3ta.cl/audiencias/30-04-2026-fija-audiencia-en-caso-de-municipalidad-de-hualpen-con-superintendencia-del-medio-ambiente-rol-r-25-2025/",
+      "fecha": "2026-04-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 30/04/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "La Tercera",
-      "titular": "Récord de inversión en SEIA",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/record-de-inversion-en-seia/",
-      "fecha": "2026-04-14",
+      "titular": "Isa Vías reingresa proyecto de tercera pista para la Ruta 5 de Rancagua al sur que el SEA dio “término anticipado”",
+      "url": "https://www.latercera.com/pulso/noticia/isa-vias-reingresa-proyecto-de-tercera-pista-para-la-ruta-5-de-rancagua-al-sur-que-el-sea-dio-termino-anticipado/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "SEÑOR DIRECTOR: El ingreso histórico de capitales al SEIA este mes refleja un renovado interés de inversionistas extranjeros, especialmente de gigantes asiáticos, por sectores estratégicos como la minería y la electromovilidad. Es una noticia alentad",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Reforma a Ley de Glaciares abre paso a megaproyectos de cobre por más de US$ 28.000 millones en Argentina",
-      "url": "https://www.redimin.cl/reforma-a-ley-de-glaciares-abre-paso-a-megaproyectos-de-cobre-por-mas-de-us-28-000-millones-en-argentina/",
-      "fecha": "2026-04-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La reciente reforma a la Ley de Glaciares en Argentina facilita el desarrollo de megaproyectos de cobre por más de US$ 28.000 millones, brindando certeza regulatoria y ambiental al sector minero. Esto podría reactivar la producción de cobre en el paí",
-      "keywords_detectadas": [
-        "Ley de Glaciares"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto minero Lobo-Marte en Atacama ingresa al SEIA con inversión histórica",
-      "url": "https://www.redimin.cl/proyecto-minero-lobo-marte-en-atacama-ingresa-al-seia-con-inversion-historica/",
-      "fecha": "2026-04-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto minero Lobo-Marte de Kinross ha ingresado al Sistema de Evaluación de Impacto Ambiental, con una inversión de US$1.500 millones y la promesa de generar miles de empleos en la Región de Atacama. Su enfoque en sostenibilidad y participación",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Deep Sea Minerals busca liderar la minería submarina pese a desafíos ambientales clave",
-      "url": "https://www.redimin.cl/deep-sea-minerals-busca-liderar-la-mineria-submarina-pese-a-desafios-ambientales-clave/",
-      "fecha": "2026-04-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Deep Sea Minerals, antes Copperhead Resources, busca liderar la minería de fondos marinos en un contexto de creciente demanda de minerales críticos, enfrentando desafíos ambientales y regulatorios. Su modelo \"asset-light\" y reciente financiamiento so",
+      "extracto": "Isa Vías había ingresado el proyecto en junio del año pasado y meses después se dio por finalizado por el SEA.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Litio en Catamarca: proyecto de KABIL obtiene DIA y avanza con foco en empleo local y sostenibilidad",
-      "url": "https://www.redimin.cl/litio-en-catamarca-proyecto-de-kabil-obtiene-dia-y-avanza-con-foco-en-empleo-local-y-sostenibilidad/",
-      "fecha": "2026-04-14",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal ambiental revisa medida cautelar que mantiene suspensión de actividades en faena minera",
+      "url": "https://www.mch.cl/tribunal-ambiental-revisa-medida-cautelar-que-mantiene-suspension-de-actividades-en-faena-minera/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La aprobación ambiental del proyecto de exploración de litio en Catamarca por parte de KABIL y CAMYEN marca un avance significativo en la sostenibilidad y la economía local, fortaleciendo la posición de Argentina en el mercado global de minerales crí",
+      "extracto": "En el marco de la demanda presentada por el CDE por un presunto daño ambiental en el Salar de Surire, la empresa solicita un alzamiento parcial de la paralización de sus operaciones. La entrada Tribunal ambiental revisa medida cautelar que mantiene s",
       "keywords_detectadas": [
-        "DIA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Minería submarina avanza con nuevo actor: Deep Sea Minerals busca licencias en el Pacífico en medio de presión por minerales críticos",
-      "url": "https://www.redimin.cl/mineria-submarina-avanza-con-nuevo-actor-deep-sea-minerals-busca-licencias-en-el-pacifico-en-medio-de-presion-por-minerales-criticos/",
-      "fecha": "2026-04-14",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Interchile presenta argumentos para cuestionar la no aplicación de descuento de multa impuesta por la SMA",
+      "url": "https://www.revistaei.cl/interchile-presenta-argumentos-para-cuestionar-la-no-aplicacion-de-descuento-de-multa-impuesta-por-la-sma/",
+      "fecha": "2026-04-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La minería submarina se dinamiza con la llegada de Deep Sea Minerals, que busca explorar la zona Clarion-Clipperton en busca de nódulos polimetálicos, en un contexto de creciente demanda por minerales críticos. Este avance plantea oportunidades y des",
+      "extracto": "Después de la audiencia, los ministros adoptaron acuerdo y designaron a la ministra Sandra Álvarez Torres para la redacción de la sentencia. La entrada Interchile presenta argumentos para cuestionar la no aplicación de descuento de multa impuesta por",
       "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
