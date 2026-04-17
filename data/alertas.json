@@ -1,89 +1,53 @@
 {
-  "fecha_generacion": "2026-04-16T08:11:38.305150-04:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-04-17T08:04:20.884099-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "El Dínamo",
-      "titular": "Ley miscelánea: oposición no descarta que sea inconstitucional si La Moneda no la presenta dividida al Congreso",
-      "url": "https://www.eldinamo.cl/politica/2026/04/15/ley-miscelanea-oposicion-no-descarta-que-sea-inconstitucional/",
-      "fecha": "2026-04-16",
+      "fuente": "Diario Financiero",
+      "titular": "Gastos para obtener la RCA alcanzan hasta US$ 30 millones: gremios atentos a alcance de propuesta",
+      "url": "https://www.df.cl/empresas/industria/gastos-para-obtener-la-rca-alcanzan-hasta-us-30-millones-gremios-atentos",
+      "fecha": "2026-04-17",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "El Tribunal Constitucional también se ha mostrado crítico respecto a este tipo de legislaciones.",
+      "extracto": "",
       "keywords_detectadas": [
-        "SEA"
+        "RCA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental realiza convocatoria de pasantías para el primer semestre de 2026",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-realiza-convocatoria-de-pasantias-para-el-primer-semestre-de-2026/",
-      "fecha": "2026-04-15",
+      "fuente": "Diario Financiero",
+      "titular": "Gastos para obtener la RCA alcanzan hasta US$ 30 millones: gremios atentos a alcance de propuesta",
+      "url": "https://www.df.cl/empresas/industria/gastos-para-obtener-la-rca-alcanzan-hasta-us-30-millones-gremios-atentos",
+      "fecha": "2026-04-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Componente hídrico no fue debidamente evaluado: Segundo Tribunal Ambiental anuló parcialmente aprobación de proyecto sanitario en Quilicura",
+      "url": "https://www.terram.cl/componente-hidrico-no-fue-debidamente-evaluado-segundo-tribunal-ambiental-anulo-parcialmente-aprobacion-de-proyecto-sanitario-en-quilicura/",
+      "fecha": "2026-04-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental realiza un llamado a postular a su programa de pasantías, para el primer semestre de este año 2026. Esta convocatoria comprende cupos para pasantías en las unidades de Ciencias, Comunicaciones, Informática y Estudios. Las",
+      "extracto": "El Segundo Tribunal Ambiental acogió parcialmente las tres reclamaciones presentadas en contra de las resoluciones del Servicio de Evaluación Ambiental que llevaron a la aprobación del proyecto «Solución Sanitaria para un sector de Quilicura», tras d",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Interchile presentó argumentos para cuestionar la no aplicación de descuento de multa impuesta por la Superintendencia del Medio Ambiente",
-      "url": "https://www.1ta.cl/interchile-presento-argumentos-para-cuestionar-la-no-aplicacion-de-descuento-de-multa-impuesta-por-la-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-15",
+      "fuente": "REDIMIN",
+      "titular": "Certeza jurídica en inversión: Estado asumiría costos si proyectos con RCA aprobada son rechazados",
+      "url": "https://www.redimin.cl/certeza-juridica-en-inversion-estado-asumiria-costos-si-proyectos-con-rca-aprobada-son-rechazados/",
+      "fecha": "2026-04-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En audiencia de vista de causa, el tribunal revisó los antecedentes aportados por las partes, en la reclamación de Interchile S.A, en contra de la decisión de la Superintendencia del Medio Ambiente (SMA), que declaró improcedente la aplicación del de",
+      "extracto": "La megarreforma impulsada por el gobierno de José Antonio Kast busca fortalecer la certeza jurídica en inversiones, ofreciendo reembolsos estatales por gastos en proyectos aprobados que sean rechazados judicialmente. Esta medida pretende reactivar la",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "30/04/2026: Fija audiencia en caso de «Municipalidad de Hualpén con Superintendencia del Medio Ambiente», Rol: R-25-2025",
-      "url": "https://3ta.cl/audiencias/30-04-2026-fija-audiencia-en-caso-de-municipalidad-de-hualpen-con-superintendencia-del-medio-ambiente-rol-r-25-2025/",
-      "fecha": "2026-04-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 30/04/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Isa Vías reingresa proyecto de tercera pista para la Ruta 5 de Rancagua al sur que el SEA dio “término anticipado”",
-      "url": "https://www.latercera.com/pulso/noticia/isa-vias-reingresa-proyecto-de-tercera-pista-para-la-ruta-5-de-rancagua-al-sur-que-el-sea-dio-termino-anticipado/",
-      "fecha": "2026-04-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Isa Vías había ingresado el proyecto en junio del año pasado y meses después se dio por finalizado por el SEA.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal ambiental revisa medida cautelar que mantiene suspensión de actividades en faena minera",
-      "url": "https://www.mch.cl/tribunal-ambiental-revisa-medida-cautelar-que-mantiene-suspension-de-actividades-en-faena-minera/",
-      "fecha": "2026-04-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el marco de la demanda presentada por el CDE por un presunto daño ambiental en el Salar de Surire, la empresa solicita un alzamiento parcial de la paralización de sus operaciones. La entrada Tribunal ambiental revisa medida cautelar que mantiene s",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Interchile presenta argumentos para cuestionar la no aplicación de descuento de multa impuesta por la SMA",
-      "url": "https://www.revistaei.cl/interchile-presenta-argumentos-para-cuestionar-la-no-aplicacion-de-descuento-de-multa-impuesta-por-la-sma/",
-      "fecha": "2026-04-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Después de la audiencia, los ministros adoptaron acuerdo y designaron a la ministra Sandra Álvarez Torres para la redacción de la sentencia. La entrada Interchile presenta argumentos para cuestionar la no aplicación de descuento de multa impuesta por",
-      "keywords_detectadas": [
-        "SMA"
+        "RCA"
       ]
     }
   ]
