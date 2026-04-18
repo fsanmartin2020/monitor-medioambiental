@@ -1,53 +1,17 @@
 {
-  "fecha_generacion": "2026-04-17T08:04:20.884099-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-04-18T08:17:17.939932-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Diario Financiero",
-      "titular": "Gastos para obtener la RCA alcanzan hasta US$ 30 millones: gremios atentos a alcance de propuesta",
-      "url": "https://www.df.cl/empresas/industria/gastos-para-obtener-la-rca-alcanzan-hasta-us-30-millones-gremios-atentos",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Director Ejecutivo del SEA destaca reto de la evaluación ambiental de proyectos por más de US$31 mil millones en Antofagasta",
+      "url": "https://www.mch.cl/director-ejecutivo-del-sea-destaca-reto-de-la-evaluacion-ambiental-de-proyectos-por-mas-de-us31-mil-millones-en-antofagasta/",
       "fecha": "2026-04-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Gastos para obtener la RCA alcanzan hasta US$ 30 millones: gremios atentos a alcance de propuesta",
-      "url": "https://www.df.cl/empresas/industria/gastos-para-obtener-la-rca-alcanzan-hasta-us-30-millones-gremios-atentos",
-      "fecha": "2026-04-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Componente hídrico no fue debidamente evaluado: Segundo Tribunal Ambiental anuló parcialmente aprobación de proyecto sanitario en Quilicura",
-      "url": "https://www.terram.cl/componente-hidrico-no-fue-debidamente-evaluado-segundo-tribunal-ambiental-anulo-parcialmente-aprobacion-de-proyecto-sanitario-en-quilicura/",
-      "fecha": "2026-04-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió parcialmente las tres reclamaciones presentadas en contra de las resoluciones del Servicio de Evaluación Ambiental que llevaron a la aprobación del proyecto «Solución Sanitaria para un sector de Quilicura», tras d",
+      "extracto": "La autoridad realizó una jornada de trabajo en la región, en la que se reunió con la delegada regional presidencial, la seremi del Medio Ambiente y representes locales de SBAP y SMA. La entrada Director Ejecutivo del SEA destaca reto de la evaluación",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Certeza jurídica en inversión: Estado asumiría costos si proyectos con RCA aprobada son rechazados",
-      "url": "https://www.redimin.cl/certeza-juridica-en-inversion-estado-asumiria-costos-si-proyectos-con-rca-aprobada-son-rechazados/",
-      "fecha": "2026-04-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La megarreforma impulsada por el gobierno de José Antonio Kast busca fortalecer la certeza jurídica en inversiones, ofreciendo reembolsos estatales por gastos en proyectos aprobados que sean rechazados judicialmente. Esta medida pretende reactivar la",
-      "keywords_detectadas": [
-        "RCA"
+        "SEA"
       ]
     }
   ]
