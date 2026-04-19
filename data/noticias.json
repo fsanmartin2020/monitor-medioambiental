@@ -1,261 +1,45 @@
 {
-  "fecha_actualizacion": "2026-04-18T08:17:17.925592-04:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-04-19T07:44:06.495134-04:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Los estándares del Banco Mundial están fallando a las comunidades. Por Julia Nobre (Open Society)",
-      "url": "https://efeverde.com/los-estandares-del-banco-mundial-estan-fallando-a-las-comunidades-por-julia-nobre-open-society/",
-      "fecha": "2026-04-18",
+      "titular": "Eutanasia a hipopótamos colombianos. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/eutanasia-a-hipopotamos-colombianos-por-victor-solis-visoor/",
+      "fecha": "2026-04-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Niño o Superniño tiene una influencia climática imperceptible en España",
-      "url": "https://efeverde.com/el-nino-o-supernino-tiene-una-influencia-climatica-imperceptible-en-espana/",
-      "fecha": "2026-04-18",
+      "titular": "Alianza entre invasoras: el plumero argentino y la estrilda invaden la Península",
+      "url": "https://efeverde.com/alianza-entre-invasoras-el-plumero-argentino-y-la-estrilda-invaden-la-peninsula/",
+      "fecha": "2026-04-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Adrien Biel: el cambio climático frenará la economía mundial",
-      "url": "https://efeverde.com/adrien-biel-el-cambio-climatico-frenara-la-economia-mundial/",
+      "titular": "Microplásticos: de la reacción a la gestión preventiva. Por Ángela Martín (AIMPLAS)",
+      "url": "https://efeverde.com/microplasticos-de-la-reaccion-a-la-gestion-preventiva-por-angela-martin/",
+      "fecha": "2026-04-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Granada limitará la implantación de grandes plantas fotovoltaicas en suelo rústico",
+      "url": "https://efeverde.com/granada-limitara-la-implantacion-de-grandes-plantas-fotovoltaicas-en-suelo-rustico/",
       "fecha": "2026-04-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Escolares retrotech: la generación que vuelve al MP3 y a las cámaras digitales en la era sin celulares",
-      "url": "https://www.latercera.com/nacional/noticia/escolares-retrotech-la-generacion-que-vuelve-al-mp3-y-a-las-camaras-digitales-en-la-era-sin-celulares/",
+      "titular": "Presidente de España respalda que la ONU sea liderada por una mujer en medio de candidatura de Bachelet",
+      "url": "https://www.latercera.com/mundo/noticia/presidente-de-espana-respalda-que-la-onu-sea-liderada-por-una-mujer-en-medio-de-candidatura-de-bachelet/",
       "fecha": "2026-04-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Subsecretario del Medio Ambiente destaca modelo de gestión de residuos asociativo de Llanquihue",
-      "url": "https://www.paiscircular.cl/medio-ambiente/subsecretario-del-medio-ambiente-destaca-modelo-de-gestion-de-residuos-asociativo-de-llanquihue/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "POLPAICO SOLUCIONES GANA EN CHILE GREEN BUILDING WEEK Y CONSOLIDA LIDERAZGO EN CONSTRUCCIÓN SOSTENIBLE",
-      "url": "https://www.chiledesarrollosustentable.cl/polpaico-soluciones-gana-en-chile-green-building-week-y-consolida-liderazgo-en-construccion-sostenible/?utm_source=rss&utm_medium=rss&utm_campaign=polpaico-soluciones-gana-en-chile-green-building-week-y-consolida-liderazgo-en-construccion-sostenible",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "SUBSECRETARIO DEL MEDIO AMBIENTE DESTACA MODELO DE GESTIÓN DE RESIDUOS ASOCIATIVO DE LLANQUIHUE",
-      "url": "https://www.chiledesarrollosustentable.cl/subsecretario-del-medio-ambiente-destaca-modelo-de-gestion-de-residuos-asociativo-de-llanquihue/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-del-medio-ambiente-destaca-modelo-de-gestion-de-residuos-asociativo-de-llanquihue",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Estudio de la UACh revela el impacto del ruido urbano en el bienestar mental",
-      "url": "https://codexverde.cl/uach-revela-el-impacto-del-ruido-urbano-en-el-bienestar-mental/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "El espectáculo de la naturaleza: el otoño más impactante está en el sur de Chile",
-      "url": "https://codexverde.cl/el-espectaculo-de-la-naturaleza-el-otono-mas-impactante-esta-en-el-sur-de-chile/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El CSIC advierte en la estabilización del agua del Mar Menor un cambio de dinámica, no su recuperación",
-      "url": "https://efeverde.com/csic-estabilizacion-agua-mar-menor/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los bosques marinos retroceden en las costas españolas con pérdidas de hasta el 80%",
-      "url": "https://efeverde.com/bosques-marinos-costas-espanolas/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Unión Europea ha reducido un 40 % sus emisiones de gases contaminantes desde 1990",
-      "url": "https://efeverde.com/la-union-europea-ha-reducido-un-40-sus-emisiones-de-gases-contaminantes-desde-1990/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El colapso del vertedero de Ibiza empuja a las Pitiusas a estudiar el sistema de recogida de residuos de Cerdeña (Italia)",
-      "url": "https://efeverde.com/colapso-vertedero-ibiza/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Salmoneras en áreas protegidas: el 30 % de sus infracciones ambientales ocurrió en parques y reservas nacionales",
-      "url": "https://www.terram.cl/salmoneras-en-areas-protegidas-el-30-de-sus-infracciones-ambientales-ocurrio-en-parques-y-reservas-nacionales/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Crecen ataques violentos y difamación contra defensores ambientales en Chile: Mayoría son contra mujeres",
-      "url": "https://www.terram.cl/crecen-ataques-violentos-y-difamacion-contra-defensores-ambientales-en-chile-mayoria-son-contra-mujeres/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Fiscalización de Sernapesca retira 70 metros de redes instaladas ilegalmente en aguas continentales de la región",
-      "url": "https://www.terram.cl/fiscalizacion-de-sernapesca-retira-70-metros-de-redes-instaladas-ilegalmente-en-aguas-continentales-de-la-region/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "“Su población se reducirá a la mitad”: Pingüino emperador y lobo marino antártico se convierten en especies “en peligro”",
-      "url": "https://www.terram.cl/su-poblacion-se-reducira-a-la-mitad-pinguino-emperador-y-lobo-marino-antartico-se-convierten-en-especies-en-peligro/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Sin depredadores y prácticamente imposible de erradicar: así avanza el visón americano en Chile",
-      "url": "https://www.terram.cl/sin-depredadores-y-practicamente-imposible-de-erradicar-asi-avanza-el-vison-americano-en-chile/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Festival Internacional de Cine del Mar en Concepción",
-      "url": "https://www.terram.cl/festival-internacional-de-cine-del-mar-en-concepcion/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "En dos audiencias se revisaron reclamaciones de comunidades indígenas en contra de la calificación ambiental favorable continuidad operacional del proyecto Mina Candelaria en la Región de Atacama",
-      "url": "https://www.1ta.cl/en-dos-audiencias-se-revisaron-reclamaciones-de-comunidades-indigenas-en-contra-de-la-calificacion-ambiental-favorable-continuidad-operacional-del-proyecto-mina-candelaria-en-la-region-de-atacama/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF realizó jornada internacional sobre incendios forestales en la Patagonia Chilena Argentina",
-      "url": "https://www.conaf.cl/conaf-realizo-jornada-internacional-sobre-incendios-forestales-en-la-patagonia-chilena-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realizo-jornada-internacional-sobre-incendios-forestales-en-la-patagonia-chilena-argentina",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Guardaparques de CONAF se capacitan en el manejo de software Smart",
-      "url": "https://www.conaf.cl/guardaparques-de-conaf-se-capacitan-en-el-manejo-de-software-smart/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-de-conaf-se-capacitan-en-el-manejo-de-software-smart",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Actualización: situación del uso del fuego como quema controlada",
-      "url": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-situacion-uso-del-fuego-en-regiones",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Biobío apoyará la restauración ecológica de la Reserva Humedal Laguna Antihuala",
-      "url": "https://www.conaf.cl/conaf-biobio-apoyara-la-restauracion-ecologica-de-la-reserva-humedal-laguna-antihuala/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-biobio-apoyara-la-restauracion-ecologica-de-la-reserva-humedal-laguna-antihuala",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Director Regional de CONAF Biobío destacó labor de brigadistas forestales",
-      "url": "https://www.conaf.cl/director-regional-de-conaf-biobio-destaco-labor-de-brigadistas-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=director-regional-de-conaf-biobio-destaco-labor-de-brigadistas-forestales",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Decomisan madera de alerce sin acreditación de origen legal en Puerto Montt",
-      "url": "https://www.conaf.cl/decomisan-madera-de-alerce-sin-acreditacion-de-origen-legal-en-puerto-montt/?utm_source=rss&utm_medium=rss&utm_campaign=decomisan-madera-de-alerce-sin-acreditacion-de-origen-legal-en-puerto-montt",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Los Ríos reconoce Mesas Territoriales y fija directrices para avanzar hacia un modelo de cogestión con comunidades locales",
-      "url": "https://www.conaf.cl/conaf-los-rios-reconoce-mesas-territoriales-y-fija-directrices-para-avanzar-hacia-un-modelo-de-cogestion-con-comunidades-locales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-rios-reconoce-mesas-territoriales-y-fija-directrices-para-avanzar-hacia-un-modelo-de-cogestion-con-comunidades-locales",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Pemuco se realizó primer encuentro informativo por consulta pública del nuevo PDA del Valle Central de Ñuble",
-      "url": "https://mma.gob.cl/en-pemuco-se-realizo-primer-encuentro-informativo-por-consulta-publica-del-nuevo-pda-del-valle-central-de-nuble/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente da a conocer resultados de Estudio de riesgo ambiental del relave Planta Carmen de Vallenar",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-da-a-conocer-resultados-de-estudio-de-riesgo-ambiental-del-relave-planta-carmen-de-vallenar/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Subsecretario del Medio Ambiente destaca modelo de gestión de residuos asociativo de Llanquihue",
-      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-destaca-modelo-de-gestion-de-residuos-asociativo-de-llanquihue/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Director Ejecutivo del SEA destaca reto de la evaluación ambiental de proyectos por más de US$31 mil millones en Antofagasta",
-      "url": "https://www.mch.cl/director-ejecutivo-del-sea-destaca-reto-de-la-evaluacion-ambiental-de-proyectos-por-mas-de-us31-mil-millones-en-antofagasta/",
-      "fecha": "2026-04-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Justicia de La Rioja ordena frenar por 30 días el proyecto Vicuña y bloquea tránsito minero por su territorio",
-      "url": "https://www.redimin.cl/justicia-de-la-rioja-ordena-frenar-por-30-dias-el-proyecto-vicuna-y-bloquea-transito-minero-por-su-territorio/",
-      "fecha": "2026-04-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
