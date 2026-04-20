@@ -1,15 +1,27 @@
 {
-  "fecha_generacion": "2026-04-19T07:44:06.506753-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-04-20T08:18:27.626133-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Presidente de España respalda que la ONU sea liderada por una mujer en medio de candidatura de Bachelet",
-      "url": "https://www.latercera.com/mundo/noticia/presidente-de-espana-respalda-que-la-onu-sea-liderada-por-una-mujer-en-medio-de-candidatura-de-bachelet/",
-      "fecha": "2026-04-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El líder español, quien encabeza el encuentro de líderes progresistas, señaló que “creemos que es el momento de que Naciones Unidas sea renovada, reformada y dirigida por una mujer. No solo es una cuestión de justicia, es una cuestión de credibilidad",
+      "fuente": "Cooperativa",
+      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
+      "fecha": "2026-04-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
+      "fecha": "2026-04-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
       ]

@@ -1,45 +1,117 @@
 {
-  "fecha_actualizacion": "2026-04-19T07:44:06.495134-04:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-04-20T08:18:27.612897-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Avanza hacia su aprobación final regulación clave para potenciar la circularidad de los plásticos en contacto con alimentos",
+      "url": "https://www.paiscircular.cl/economia-circular/avanza-hacia-su-aprobacion-final-regulacion-clave-para-potenciar-la-circularidad-de-los-plasticos-en-contacto-con-alimentos/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "Eutanasia a hipopótamos colombianos. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/eutanasia-a-hipopotamos-colombianos-por-victor-solis-visoor/",
+      "titular": "Menos demanda y renovables: la hoja de ruta de Greenpeace para que España alcance las cero emisiones en 2040",
+      "url": "https://efeverde.com/greenpeace-plan-espana-sea-neta-carbono-combustibles-fosiles-2040/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Industria papelera e innovación: donde se juega el futuro del sector. Por Rodrigo Álvarez (ASPAPEL)",
+      "url": "https://efeverde.com/industria-papelera-e-innovacion-donde-se-juega-el-futuro-del-sector-por-rodrigo-alvarez/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La fotovoltaica lidera la cobertura de la nueva demanda global de energía y debancan al gas natural",
+      "url": "https://efeverde.com/la-fotovoltaica-lidera-la-cobertura-de-la-nueva-demanda-global-de-energia-y-debancan-al-gas-natural/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Simon Stiell (ONU): «La energía limpia es el antídoto contra el caos de los precios de los combustibles fósiles»",
+      "url": "https://efeverde.com/simon-stiell-onu-renovables-antidoto-contra-caos-combustibles-fosiles/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una cumbre para dejar atrás los combustibles fósiles en un mundo marcado por el Estrecho de Ormuz",
+      "url": "https://efeverde.com/cumbre-dejar-atras-combustibles-fosiles-mitad-bloqueo-global/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
+      "fecha": "2026-04-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
+      "fecha": "2026-04-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Contraloría permite acceso a fichas clínicas por Oficinas de la Niñez sin orden judicial en casos justificados",
+      "url": "https://www.diarioconstitucional.cl/2026/04/20/contraloria-permite-acceso-a-fichas-clinicas-por-oficinas-de-la-ninez-sin-orden-judicial-en-casos-justificados/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Cómo Arabia Saudita está desarrollando el fútbol local",
+      "url": "https://www.paiscircular.cl/insights/como-arabia-saudita-esta-desarrollando-el-futbol-local/",
+      "fecha": "2026-04-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Mejores juegos crash online para jugadores en Chile",
+      "url": "https://www.paiscircular.cl/insights/mejores-juegos-crash-online-para-jugadores-en-chile/",
+      "fecha": "2026-04-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Cómo elegir productos más ecológicos para tus mascotas en Chile",
+      "url": "https://www.paiscircular.cl/tendencias/como-elegir-productos-mas-ecologicos-para-tus-mascotas-en-chile/",
       "fecha": "2026-04-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Alianza entre invasoras: el plumero argentino y la estrilda invaden la Península",
-      "url": "https://efeverde.com/alianza-entre-invasoras-el-plumero-argentino-y-la-estrilda-invaden-la-peninsula/",
+      "titular": "Humedales y turismo ornitológico, una combinación de desarrollo en el entorno de Doñana",
+      "url": "https://efeverde.com/humedales-y-turismo-ornitologico-una-combinacion-de-desarrollo-en-el-entorno-de-donana/",
       "fecha": "2026-04-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Microplásticos: de la reacción a la gestión preventiva. Por Ángela Martín (AIMPLAS)",
-      "url": "https://efeverde.com/microplasticos-de-la-reaccion-a-la-gestion-preventiva-por-angela-martin/",
-      "fecha": "2026-04-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Granada limitará la implantación de grandes plantas fotovoltaicas en suelo rústico",
-      "url": "https://efeverde.com/granada-limitara-la-implantacion-de-grandes-plantas-fotovoltaicas-en-suelo-rustico/",
-      "fecha": "2026-04-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Presidente de España respalda que la ONU sea liderada por una mujer en medio de candidatura de Bachelet",
-      "url": "https://www.latercera.com/mundo/noticia/presidente-de-espana-respalda-que-la-onu-sea-liderada-por-una-mujer-en-medio-de-candidatura-de-bachelet/",
-      "fecha": "2026-04-18",
+      "titular": "García Ruminot proyecta que megarreforma ingresará al Congreso “a más tardar el miércoles” y defiende que no se divida",
+      "url": "https://www.latercera.com/politica/noticia/garcia-ruminot-proyecta-que-megarreforma-ingresara-al-congreso-a-mas-tardar-el-miercoles-y-defiende-que-no-se-divida/",
+      "fecha": "2026-04-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
