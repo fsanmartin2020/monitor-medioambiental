@@ -1,117 +1,285 @@
 {
-  "fecha_actualizacion": "2026-04-20T08:18:27.612897-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-04-21T08:16:11.589199-04:00",
+  "total": 35,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Avanza hacia su aprobación final regulación clave para potenciar la circularidad de los plásticos en contacto con alimentos",
-      "url": "https://www.paiscircular.cl/economia-circular/avanza-hacia-su-aprobacion-final-regulacion-clave-para-potenciar-la-circularidad-de-los-plasticos-en-contacto-con-alimentos/",
-      "fecha": "2026-04-20",
+      "titular": "Experto mexicano Jorge Alarcón: “Las concesionarias están usado las mezclas asfálticas con caucho porque han visto beneficios reales en durabilidad”",
+      "url": "https://www.paiscircular.cl/economia-circular/experto-mexicano-jorge-alarcon-las-concesionarias-estan-usado-las-mezclas-asfalticas-con-caucho-porque-han-encontrado-beneficios-reales-en-durabilidad/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Menos demanda y renovables: la hoja de ruta de Greenpeace para que España alcance las cero emisiones en 2040",
-      "url": "https://efeverde.com/greenpeace-plan-espana-sea-neta-carbono-combustibles-fosiles-2040/",
-      "fecha": "2026-04-20",
+      "titular": "Kurum (COP31): los combustibles fósiles no garantizan la seguridad de suministro",
+      "url": "https://efeverde.com/kurum-cop31-los-combustibles-fosiles-no-garantizan-la-seguridad-de-suministro/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Industria papelera e innovación: donde se juega el futuro del sector. Por Rodrigo Álvarez (ASPAPEL)",
-      "url": "https://efeverde.com/industria-papelera-e-innovacion-donde-se-juega-el-futuro-del-sector-por-rodrigo-alvarez/",
-      "fecha": "2026-04-20",
+      "titular": "Espacios UNESCO, un refugio para la biodiversidad que está en peligro",
+      "url": "https://efeverde.com/espacios-unesco-un-refugio-para-la-biodiversidad-que-esta-en-peligro/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La fotovoltaica lidera la cobertura de la nueva demanda global de energía y debancan al gas natural",
-      "url": "https://efeverde.com/la-fotovoltaica-lidera-la-cobertura-de-la-nueva-demanda-global-de-energia-y-debancan-al-gas-natural/",
-      "fecha": "2026-04-20",
+      "titular": "Cuando comer mejor en la escuela es también una forma de cuidar el entorno. Por Meritxell Hernández (CEO de Roll’eat)",
+      "url": "https://efeverde.com/cuando-comer-mejor-en-la-escuela-es-tambien-una-forma-de-cuidar-el-entorno-por-meritxell-hernandez/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Simon Stiell (ONU): «La energía limpia es el antídoto contra el caos de los precios de los combustibles fósiles»",
-      "url": "https://efeverde.com/simon-stiell-onu-renovables-antidoto-contra-caos-combustibles-fosiles/",
-      "fecha": "2026-04-20",
+      "titular": "Díaz (Fondo Lobo): debemos empatizar con los ganaderos para garantizar la protección efectiva del lobo",
+      "url": "https://efeverde.com/diaz-fondo-lobo-debemos-empatizar-con-los-ganaderos-para-garantizar-la-proteccion-efectiva-del-lobo/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una cumbre para dejar atrás los combustibles fósiles en un mundo marcado por el Estrecho de Ormuz",
-      "url": "https://efeverde.com/cumbre-dejar-atras-combustibles-fosiles-mitad-bloqueo-global/",
-      "fecha": "2026-04-20",
+      "titular": "Carlos Moreno (urbanista): «No podemos seguir viviendo en el siglo XXI como lo hacíamos en el siglo XX»",
+      "url": "https://efeverde.com/carlos-moreno-urbanista-no-podemos-seguir-viviendo-siglo-xxi-como-siglo-xx/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Cooperativa",
-      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
-      "fecha": "2026-04-20",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Cooperativa",
-      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
-      "fecha": "2026-04-20",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Contraloría permite acceso a fichas clínicas por Oficinas de la Niñez sin orden judicial en casos justificados",
-      "url": "https://www.diarioconstitucional.cl/2026/04/20/contraloria-permite-acceso-a-fichas-clinicas-por-oficinas-de-la-ninez-sin-orden-judicial-en-casos-justificados/",
+      "titular": "Corte Suprema de EE.UU. dictamina que demanda por daño ambiental deducida contra petrolera debe ser resuelta por jueces federales y no estatales",
+      "url": "https://www.diarioconstitucional.cl/2026/04/21/corte-suprema-de-ee-uu-dictamina-que-demanda-por-dano-ambiental-deducida-contra-petrolera-debe-ser-resuelta-por-jueces-federales-y-no-estatales/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Si bien se espera que el proyecto del gobierno se ingrese esta semana, hay probabilidad de que se postergue para principios de mayo. Los legisladores ponen como fecha máxima para que sea ley antes de la discusión del Presupuesto 2027.",
+      "url": "https://www.pulso.cl/pulso/noticia/parlamentarios-del-oficialismo-ven-poco-probable-que-megarreforma-se-apruebe-en-junio-y-fijan-agosto-como-plazo/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "NAVEGA EL PRIMER CRUCERO HÍBRIDO-ELÉCTRICO DE AMÉRICA CONSTRUIDO EN CHILE",
+      "url": "https://www.chiledesarrollosustentable.cl/navega-el-primer-crucero-hibrido-electrico-de-america-construido-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=navega-el-primer-crucero-hibrido-electrico-de-america-construido-en-chile",
       "fecha": "2026-04-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Cómo Arabia Saudita está desarrollando el fútbol local",
-      "url": "https://www.paiscircular.cl/insights/como-arabia-saudita-esta-desarrollando-el-futbol-local/",
-      "fecha": "2026-04-19",
+      "fuente": "Codex Verde",
+      "titular": "Regulación para reciclaje de plásticos en contacto con alimentos avanza hacia su etapa final",
+      "url": "https://codexverde.cl/reciclaje-de-plasticos-en-contacto-con-alimentos/",
+      "fecha": "2026-04-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Mejores juegos crash online para jugadores en Chile",
-      "url": "https://www.paiscircular.cl/insights/mejores-juegos-crash-online-para-jugadores-en-chile/",
-      "fecha": "2026-04-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Cómo elegir productos más ecológicos para tus mascotas en Chile",
-      "url": "https://www.paiscircular.cl/tendencias/como-elegir-productos-mas-ecologicos-para-tus-mascotas-en-chile/",
-      "fecha": "2026-04-19",
+      "fuente": "Codex Verde",
+      "titular": "Presentan herramienta para medir la huella de carbono en la construcción",
+      "url": "https://codexverde.cl/presentan-herramienta-para-medir-la-huella-de-carbono-en-la-construccion/",
+      "fecha": "2026-04-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Humedales y turismo ornitológico, una combinación de desarrollo en el entorno de Doñana",
-      "url": "https://efeverde.com/humedales-y-turismo-ornitologico-una-combinacion-de-desarrollo-en-el-entorno-de-donana/",
-      "fecha": "2026-04-19",
+      "titular": "Las renovables generan más electricidad que el carbón en el mundo por primera vez en 2025",
+      "url": "https://efeverde.com/las-renovables-generan-mas-electricidad-que-el-carbon-en-el-mundo-por-primera-vez-en-la-historia-moderna/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Javier Peña, un ambientalista optimista ante la patente situación de colapso energético",
+      "url": "https://efeverde.com/javier-pena-ambientalista-optimista/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La falta de consenso impedirá que la cumbre ministerial de Ecología del G7 aborde temas cruciales",
+      "url": "https://efeverde.com/la-falta-de-consenso-impedira-que-la-cumbre-ministerial-de-ecologia-del-g7-aborde-temas-cruciales/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La contaminación por cocaína altera el comportamiento del salmón en su hábitat natural",
+      "url": "https://efeverde.com/contaminacion-por-cocaina-comportamiento-salmon/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cerca de 300 organizaciones claman contra la revisión de la Directiva Marco del Agua",
+      "url": "https://efeverde.com/organizaciones-revision-directiva-marco-del-agua/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de 100 organizaciones impulsan un manifiesto en el que advierten del debilitamiento de las políticas ambientales en España",
+      "url": "https://efeverde.com/manifiesto-debilitamiento-politicas-ambientales-en-espana/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Timmy, la ballena varada desde hace tres semanas en la costa alemana del mar Báltico, se libera y vuelve a nadar",
+      "url": "https://efeverde.com/timmy-ballena-varada-en-baltico-vuelve-a-nadar/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Coca-Cola impulsa el vidrio retornable en la hostelería para rellenarlo hasta 25 veces",
+      "url": "https://efeverde.com/coca-cola-vidrio-retornable-hosteleria/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La contaminación del aire eleva el riesgo de cáncer más allá del pulmón, advierte un informe de la Unión Internacional contra el Cáncer",
+      "url": "https://efeverde.com/contaminacion-aire-cancer/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Los costos y beneficios de la inminente ley que regula la desalinización de agua de mar en Chile",
+      "url": "https://www.terram.cl/los-costos-y-beneficios-de-la-inminente-ley-que-regula-la-desalinizacion-de-agua-de-mar-en-chile/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Subpesca inicia revisión de solicitudes de relocalización de concesiones de acuicultura de salmones",
+      "url": "https://www.terram.cl/subpesca-inicia-revision-de-solicitudes-de-relocalizacion-de-concesiones-de-acuicultura-de-salmones/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Medida anunciada por Kast terminaría regalando dinero público a empresas que incumplen ley ambiental, alertan",
+      "url": "https://www.terram.cl/medida-anunciada-por-kast-terminaria-regalando-dinero-publico-a-empresas-que-incumplen-ley-ambiental-alertan/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Recategorización de la Reserva Ñuble a Parque Nacional sigue en revisión y sin avances concretos",
+      "url": "https://www.terram.cl/recategorizacion-de-la-reserva-nuble-a-parque-nacional-sigue-en-revision-y-sin-avances-concretos/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Plataforma reúne por primera vez datos de glaciares de Patagonia y Tierra del Fuego",
+      "url": "https://www.terram.cl/plataforma-reune-por-primera-vez-datos-de-glaciares-de-patagonia-y-tierra-del-fuego/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Ni plagas ni «vampiros»: Científicos explican por qué los murciélagos son clave para el equilibrio ambiental",
+      "url": "https://www.terram.cl/ni-plagas-ni-vampiros-cientificos-explican-por-que-los-murcielagos-son-clave-para-el-equilibrio-ambiental/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Nueva revista: Invitan a toda Hispanoamérica a participar en concurso de arte y escritura sobre justicia climática",
+      "url": "https://www.fima.cl/2026/04/20/nueva-revista-invitan-a-toda-hispanoamerica-a-participar-en-concurso-de-arte-y-escritura-sobre-justicia-climatica/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "El millonario gasto en diésel que Chile necesita disminuir para optimizar su matriz energética",
+      "url": "https://chilesustentable.net/2026/04/el-millonario-gasto-en-diesel-que-chile-necesita-disminuir-para-optimizar-su-matriz-energetica/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "El millonario gasto en diésel que Chile necesita disminuir para optimizar su matriz energética",
+      "url": "https://chilesustentable.net/2026/04/el-millonario-gasto-en-diesel-que-chile-necesita-disminuir-para-optimizar-su-matriz-energetica/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "04/06/2026: Fija audiencia en caso de «Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-44-2025",
+      "url": "https://3ta.cl/audiencias/04-06-2026-fija-audiencia-en-caso-de-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-44-2025/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF capacitó a más de 100 pequeños agricultores de Santa María en prevención de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-capacito-a-mas-de-100-pequenos-agricultores-de-santa-maria-en-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-capacito-a-mas-de-100-pequenos-agricultores-de-santa-maria-en-prevencion-de-incendios-forestales",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Concluye innovador proyecto del Fondo de Protección Ambiental destinado a recuperar residuos orgánicos marinos",
+      "url": "https://mma.gob.cl/concluye-innovador-proyecto-del-fondo-de-proteccion-ambiental-destinado-a-recuperar-residuos-organicos-marinos/",
+      "fecha": "2026-04-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "García Ruminot proyecta que megarreforma ingresará al Congreso “a más tardar el miércoles” y defiende que no se divida",
-      "url": "https://www.latercera.com/politica/noticia/garcia-ruminot-proyecta-que-megarreforma-ingresara-al-congreso-a-mas-tardar-el-miercoles-y-defiende-que-no-se-divida/",
-      "fecha": "2026-04-19",
+      "titular": "Diputada Ossandón (RN) destaca importancia de revisar el fin de la franquicia Sence: “No puedes llegar y cortar todo porque crees que no funciona”",
+      "url": "https://www.latercera.com/politica/noticia/diputada-ossandon-rn-destaca-importancia-de-revisar-el-fin-del-sence-no-puedes-llegar-y-cortar-todo-porque-crees-que-no-funciona/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Parlamentarios del oficialismo ven poco probable que megarreforma se apruebe en junio y fijan agosto como plazo",
+      "url": "https://www.latercera.com/pulso/noticia/parlamentarios-del-oficialismo-ven-poco-probable-que-megarreforma-se-apruebe-en-junio-y-fijan-agosto-como-plazo/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Valparaíso: Proyecto fotovoltaico por US$130 millones de firma chilena-finlandesa ingresa al SEIA",
+      "url": "https://www.revistaei.cl/valparaiso-proyecto-fotovoltaico-por-us130-millones-de-firma-chilena-finlandesa-ingresa-al-seia/",
+      "fecha": "2026-04-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

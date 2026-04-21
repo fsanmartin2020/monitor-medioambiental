@@ -1,12 +1,25 @@
 {
-  "fecha_generacion": "2026-04-20T08:18:27.626133-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-04-21T08:16:11.603705-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Cooperativa",
-      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
-      "fecha": "2026-04-20",
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema de EE.UU. dictamina que demanda por daño ambiental deducida contra petrolera debe ser resuelta por jueces federales y no estatales",
+      "url": "https://www.diarioconstitucional.cl/2026/04/21/corte-suprema-de-ee-uu-dictamina-que-demanda-por-dano-ambiental-deducida-contra-petrolera-debe-ser-resuelta-por-jueces-federales-y-no-estatales/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La decisión se centra en la aplicación de las facultades de remoción de causas desde el fuero estatal al federal cuando los hechos derivan de servicios prestados al Estado. Esta resolución revierte un fallo previo de una instancia local en Luisiana y",
+      "keywords_detectadas": [
+        "Corte Suprema",
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Si bien se espera que el proyecto del gobierno se ingrese esta semana, hay probabilidad de que se postergue para principios de mayo. Los legisladores ponen como fecha máxima para que sea ley antes de la discusión del Presupuesto 2027.",
+      "url": "https://www.pulso.cl/pulso/noticia/parlamentarios-del-oficialismo-ven-poco-probable-que-megarreforma-se-apruebe-en-junio-y-fijan-agosto-como-plazo/",
+      "fecha": "2026-04-21",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -15,15 +28,27 @@
       ]
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Arturo Vidal: Es increíble que cada falta sea amarilla y más a mí, con toda la trayectoria que tengo",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/arturo-vidal-es-increible-que-cada-falta-sea-amarilla-y-mas-a-mi-con/2026-04-19/220934.html",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "04/06/2026: Fija audiencia en caso de «Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-44-2025",
+      "url": "https://3ta.cl/audiencias/04-06-2026-fija-audiencia-en-caso-de-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-44-2025/",
       "fecha": "2026-04-20",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 04/06/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
-        "SEA"
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Valparaíso: Proyecto fotovoltaico por US$130 millones de firma chilena-finlandesa ingresa al SEIA",
+      "url": "https://www.revistaei.cl/valparaiso-proyecto-fotovoltaico-por-us130-millones-de-firma-chilena-finlandesa-ingresa-al-seia/",
+      "fecha": "2026-04-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa incorporará además un sistema de almacenamiento de energía basado en baterías (BESS). La entrada Valparaíso: Proyecto fotovoltaico por US$130 millones de firma chilena-finlandesa ingresa al SEIA se publicó primero en Revista Electricida",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     }
   ]
