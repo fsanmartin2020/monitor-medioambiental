@@ -1,25 +1,12 @@
 {
-  "fecha_generacion": "2026-04-21T08:16:11.603705-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-04-22T08:11:03.177950-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema de EE.UU. dictamina que demanda por daño ambiental deducida contra petrolera debe ser resuelta por jueces federales y no estatales",
-      "url": "https://www.diarioconstitucional.cl/2026/04/21/corte-suprema-de-ee-uu-dictamina-que-demanda-por-dano-ambiental-deducida-contra-petrolera-debe-ser-resuelta-por-jueces-federales-y-no-estatales/",
-      "fecha": "2026-04-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La decisión se centra en la aplicación de las facultades de remoción de causas desde el fuero estatal al federal cuando los hechos derivan de servicios prestados al Estado. Esta resolución revierte un fallo previo de una instancia local en Luisiana y",
-      "keywords_detectadas": [
-        "Corte Suprema",
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Si bien se espera que el proyecto del gobierno se ingrese esta semana, hay probabilidad de que se postergue para principios de mayo. Los legisladores ponen como fecha máxima para que sea ley antes de la discusión del Presupuesto 2027.",
-      "url": "https://www.pulso.cl/pulso/noticia/parlamentarios-del-oficialismo-ven-poco-probable-que-megarreforma-se-apruebe-en-junio-y-fijan-agosto-como-plazo/",
-      "fecha": "2026-04-21",
+      "fuente": "Diario Financiero",
+      "titular": "Vereda Política de DF | Ernesto Silva por Proyecto de reconstrucción: \"Prefiero que salga adelante, aunque sea con votos marginales\"",
+      "url": "https://www.df.cl/df-video/vereda-politica-de-df-silva-por-proyecto-de-reconstruccion-prefiero-que",
+      "fecha": "2026-04-22",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -28,27 +15,75 @@
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "04/06/2026: Fija audiencia en caso de «Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-44-2025",
-      "url": "https://3ta.cl/audiencias/04-06-2026-fija-audiencia-en-caso-de-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-44-2025/",
-      "fecha": "2026-04-20",
+      "fuente": "El Ciudadano",
+      "titular": "Rafael Cheuquelaf lanza «Ecocidios», una obra electrónica sobre el daño ambiental en el sur",
+      "url": "https://www.elciudadano.com/arte-cultura/rafael-cheuquelaf-lanza-ecocidios-una-obra-electronica-sobre-el-dano-ambiental-en-el-sur/04/22/",
+      "fecha": "2026-04-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 04/06/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "extracto": "El Ciudadano El reconocido músico y periodista Rafael Cheuquelaf, integrante del dúo Lluvia Ácida, presenta su más reciente trabajo titulado «Ecocidios». Bajo el amparo de Pueblo Nuevo Netlabel y Eolo Producciones, este álbum compuesto por nueve piez",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ley REP: del diseño a la realidad",
+      "url": "https://www.paiscircular.cl/opinion/ley-rep-del-diseno-a-la-realidad/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "\"La REP no es una ley ambiental. Es una política pública que ha movilizado al sector privado, ha tensionado modelos de negocio, generado nuevas capacidades e incentivado a mirar el ciclo completo de los productos, instalando una señal clara: la gesti",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Comienza la COP4 de Escazú: 19 países de Latinoamérica debatirán sobre defensores ambientales y contaminación",
+      "url": "https://www.terram.cl/comienza-la-cop4-de-escazu-19-paises-de-latinoamerica-debatiran-sobre-defensores-ambientales-y-contaminacion/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La cuarta reunión de la Conferencia de las Partes (COP4) del Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe -conocido como Acuerdo de Escazú– ",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Consejo Nacional de Escazú realiza su primera sesión encabezada por la ministra Francisca Toledo",
+      "url": "https://mma.gob.cl/consejo-nacional-de-escazu-realiza-su-primera-sesion-encabezada-por-la-ministra-francisca-toledo/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La instancia abordó el seguimiento de acuerdos, el avance de sus comités temáticos y los preparativos de Chile ante la […]",
+      "keywords_detectadas": [
+        "Escazú"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Valparaíso: Proyecto fotovoltaico por US$130 millones de firma chilena-finlandesa ingresa al SEIA",
-      "url": "https://www.revistaei.cl/valparaiso-proyecto-fotovoltaico-por-us130-millones-de-firma-chilena-finlandesa-ingresa-al-seia/",
-      "fecha": "2026-04-20",
+      "titular": "Parque fotovoltaico en comuna de Maipú es aprobado ambientalmente por el SEA",
+      "url": "https://www.revistaei.cl/parque-fotovoltaico-en-comuna-de-maipu-es-aprobado-ambientalmente-por-el-sea/",
+      "fecha": "2026-04-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa incorporará además un sistema de almacenamiento de energía basado en baterías (BESS). La entrada Valparaíso: Proyecto fotovoltaico por US$130 millones de firma chilena-finlandesa ingresa al SEIA se publicó primero en Revista Electricida",
+      "extracto": "La iniciativa considera además la construcción de una línea de Media Tensión de 23 kV para su conexión al alimentador Galaxia, vinculado a la Subestación Santa Marta. La entrada Parque fotovoltaico en comuna de Maipú es aprobado ambientalmente por el",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ministra del Medio Ambiente encabeza su primera sesión del Consejo Nacional de Escazú",
+      "url": "https://www.revistaei.cl/ministra-del-medio-ambiente-encabeza-su-primera-sesion-del-consejo-nacional-de-escazu/",
+      "fecha": "2026-04-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La instancia abordó el seguimiento de acuerdos, el avance de sus comités temáticos y los preparativos de Chile ante la COP4. La entrada Ministra del Medio Ambiente encabeza su primera sesión del Consejo Nacional de Escazú se publicó primero en Revist",
+      "keywords_detectadas": [
+        "Escazú"
       ]
     }
   ]
