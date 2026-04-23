@@ -1,12 +1,36 @@
 {
-  "fecha_generacion": "2026-04-22T08:11:03.177950-04:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-04-23T08:11:19.884972-04:00",
+  "total_alertas": 10,
   "alertas": [
     {
+      "fuente": "La Tercera",
+      "titular": "En la U presionan a los árbitros antes del Clásico Universitario: “Han errado mucho; ojalá su objetividad sea pareja”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/en-la-u-presionan-a-los-arbitros-antes-del-clasico-universitario-han-errado-mucho-ojala-su-objetividad-sea-pareja/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Gabriel Castellón habló de los jueces en la previa al cotejo ante la UC, que se jugará en el Estadio Nacional.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Poduje dice que solicitará a las FF.AA. devolución de terrenos para construir viviendas: “No me parece que sea su función hacer negocios inmobiliarios”",
+      "url": "https://www.latercera.com/nacional/noticia/poduje-dice-que-solicitara-a-las-ffaa-devolucion-de-terrenos-para-construir-viviendas-no-me-parece-que-sea-su-funcion-hacer-negocios-inmobiliarios/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El ministro de Vivienda cuestionó el uso de suelos fiscales por parte de las ramas castrenses y adelantó que pedirá los paños que no formen parte del Patrimonio de Afectación Fiscal para destinarlos al plan habitacional.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
       "fuente": "Diario Financiero",
-      "titular": "Vereda Política de DF | Ernesto Silva por Proyecto de reconstrucción: \"Prefiero que salga adelante, aunque sea con votos marginales\"",
-      "url": "https://www.df.cl/df-video/vereda-politica-de-df-silva-por-proyecto-de-reconstruccion-prefiero-que",
-      "fecha": "2026-04-22",
+      "titular": "Cirugía mayor al sistema ambiental: más atribuciones al SEA y límites a la judicialización",
+      "url": "https://www.df.cl/empresas/construccion/cirugia-mayor-al-sistema-ambiental-mas-atribuciones-al-sea-y-limites-a-la",
+      "fecha": "2026-04-23",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -15,75 +39,89 @@
       ]
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Rafael Cheuquelaf lanza «Ecocidios», una obra electrónica sobre el daño ambiental en el sur",
-      "url": "https://www.elciudadano.com/arte-cultura/rafael-cheuquelaf-lanza-ecocidios-una-obra-electronica-sobre-el-dano-ambiental-en-el-sur/04/22/",
+      "fuente": "Terram",
+      "titular": "Tras audiencia en Tribunal Ambiental, comunidades acusan incumplimiento total del plan ambiental de Pascua Lama",
+      "url": "https://www.terram.cl/tras-audiencia-en-tribunal-ambiental-comunidades-acusan-incumplimiento-total-del-plan-ambiental-de-pascua-lama/",
       "fecha": "2026-04-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano El reconocido músico y periodista Rafael Cheuquelaf, integrante del dúo Lluvia Ácida, presenta su más reciente trabajo titulado «Ecocidios». Bajo el amparo de Pueblo Nuevo Netlabel y Eolo Producciones, este álbum compuesto por nueve piez",
+      "extracto": "Comunidades del Valle del Huasco denunciaron ante el Primer Tribunal Ambiental el incumplimiento del plan de restauración de vegas afectadas por Pascua Lama. Acusan modificaciones fuera de plazo, daños adicionales al ecosistema y un intento de ajusta",
       "keywords_detectadas": [
-        "daño ambiental"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "País Circular",
-      "titular": "Ley REP: del diseño a la realidad",
-      "url": "https://www.paiscircular.cl/opinion/ley-rep-del-diseno-a-la-realidad/",
-      "fecha": "2026-04-21",
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Sentencia ordena al SEA analizar las observaciones planteadas por la Municipalidad de Casablanca a proyecto de transmisión eléctrica birregional",
+      "url": "https://tribunalambiental.cl/sentencia-r-423-2024-linea-transmision-casablanca-energia-municipalidad-sea",
+      "fecha": "2026-04-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "\"La REP no es una ley ambiental. Es una política pública que ha movilizado al sector privado, ha tensionado modelos de negocio, generado nuevas capacidades e incentivado a mirar el ciclo completo de los productos, instalando una señal clara: la gesti",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Comienza la COP4 de Escazú: 19 países de Latinoamérica debatirán sobre defensores ambientales y contaminación",
-      "url": "https://www.terram.cl/comienza-la-cop4-de-escazu-19-paises-de-latinoamerica-debatiran-sobre-defensores-ambientales-y-contaminacion/",
-      "fecha": "2026-04-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La cuarta reunión de la Conferencia de las Partes (COP4) del Acuerdo Regional sobre el Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe -conocido como Acuerdo de Escazú– ",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Consejo Nacional de Escazú realiza su primera sesión encabezada por la ministra Francisca Toledo",
-      "url": "https://mma.gob.cl/consejo-nacional-de-escazu-realiza-su-primera-sesion-encabezada-por-la-ministra-francisca-toledo/",
-      "fecha": "2026-04-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La instancia abordó el seguimiento de acuerdos, el avance de sus comités temáticos y los preparativos de Chile ante la […]",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Parque fotovoltaico en comuna de Maipú es aprobado ambientalmente por el SEA",
-      "url": "https://www.revistaei.cl/parque-fotovoltaico-en-comuna-de-maipu-es-aprobado-ambientalmente-por-el-sea/",
-      "fecha": "2026-04-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera además la construcción de una línea de Media Tensión de 23 kV para su conexión al alimentador Galaxia, vinculado a la Subestación Santa Marta. La entrada Parque fotovoltaico en comuna de Maipú es aprobado ambientalmente por el",
+      "extracto": "El Segundo Tribunal Ambiental acogió la reclamación de la Municipalidad de Casablanca, ordenando al Servicio de Evaluación Ambiental (SEA) considerar debidamente las observaciones planteadas al proyecto de transmisión eléctrica “Nueva Línea 2×220 Nue",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Ministra del Medio Ambiente encabeza su primera sesión del Consejo Nacional de Escazú",
-      "url": "https://www.revistaei.cl/ministra-del-medio-ambiente-encabeza-su-primera-sesion-del-consejo-nacional-de-escazu/",
-      "fecha": "2026-04-21",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente». Rol: R-18-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
+      "fecha": "2026-04-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La instancia abordó el seguimiento de acuerdos, el avance de sus comités temáticos y los preparativos de Chile ante la COP4. La entrada Ministra del Medio Ambiente encabeza su primera sesión del Consejo Nacional de Escazú se publicó primero en Revist",
+      "extracto": "Con fecha 22 de abril de 2026, admítase a trámite la Reclamación identificada como Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente. (Rol R-18-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enl",
       "keywords_detectadas": [
-        "Escazú"
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-48-2025 “Sociedad Comercial Agrícola y Forestal Quimeyco Ltda con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-48-2025-sociedad-comercial-agricola-y-forestal-quimeyco-ltda-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-04-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-48-2025 “Sociedad Comercial Agrícola y Forestal Quimeyco Ltda con Superintendencia del Medio Ambiente”, que se realiza el ",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental ordena al SEA analizar las observaciones planteadas por la Municipalidad de Casablanca a proyecto de transmisión eléctrica birregional",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-ordena-al-sea-analizar-las-observaciones-planteadas-por-la-municipalidad-de-casablanca-a-proyecto-de-transmision-electrica-birregional/",
+      "fecha": "2026-04-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Asimismo, el Tribunal anuló parcialmente otra resolución a través de la cual el SEA rechazó el recurso de reposición presentado por la Municipalidad de Casablanca en contra de aquella que declaró inadmisible el recurso administrativo.",
+      "keywords_detectadas": [
+        "SEA",
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de sondajes de Minera Cerro Colorado",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-sondajes-de-minera-cerro-colorado/",
+      "fecha": "2026-04-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa tiene como objetivo la obtención de la información necesaria y suficiente para reducir la incertidumbre geológica asociada al recurso minero. La entrada Se califica favorablemente DIA de proyecto de sondajes de Minera Cerro Colorado se ",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental ordena al SEA analizar observaciones planteadas por municipio a proyecto de transmisión",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-ordena-al-sea-analizar-observaciones-planteadas-por-municipio-a-proyecto-de-transmision/",
+      "fecha": "2026-04-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio deberá dictar una nueva resolución, que siga el razonamiento planteado en la sentencia. La entrada Tribunal Ambiental ordena al SEA analizar observaciones planteadas por municipio a proyecto de transmisión se publicó primero en Revista El",
+      "keywords_detectadas": [
+        "SEA",
+        "Tribunal Ambiental"
       ]
     }
   ]
