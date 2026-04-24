@@ -1,373 +1,269 @@
 {
-  "fecha_actualizacion": "2026-04-23T08:11:19.869737-04:00",
-  "total": 46,
+  "fecha_actualizacion": "2026-04-24T08:09:11.179143-04:00",
+  "total": 33,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Contraloría tomó razón del decreto de metas para Pilas + Aparatos Eléctricos y Electrónicos enviando positiva señal a los regulados",
-      "url": "https://www.paiscircular.cl/economia-circular/contraloria-tomo-razon-del-decreto-de-metas-para-pilas-aparatos-electricos-y-electronicos-enviando-positiva-senal-a-los-regulados/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El 98 % de los compromisos medioambientales de las grandes empresas cárnicas y lácteas del mundo son ecopostureo, según un estudio",
-      "url": "https://efeverde.com/ecopostureo-compromisos-medioambientales-grandes-empresas-carnicas-y-lacteas/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno impulsará una red de apoyo a divulgadores como parte de su plan de acción contra los bulos",
-      "url": "https://efeverde.com/gobierno-red-apoyo-divulgadores-plan-accion-desinformacion-climatica/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Madeira, el destino que se reinventa con sostenibilidad y naturaleza. Por Arturo Crosby",
-      "url": "https://efeverde.com/madeira-el-destino-que-se-reinventa-con-sostenibilidad-y-naturaleza-por-arturo-crosby/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un decálogo para hablar de cambio climático en un mundo marcado por la IA y el negacionismo",
-      "url": "https://efeverde.com/decalogo-cambio-climatico-mundo-marcado-ia-negacionismo/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Desbroces, cortafuegos… Así se adelantan las brigadas forestales a un verano desafiante en Galicia",
-      "url": "https://efeverde.com/brigadas-forestales-galicia/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno someterá a información pública el informe sobre el estado de conservación del lobo",
-      "url": "https://efeverde.com/el-gobierno-sometera-a-informacion-publica-el-informe-sobre-el-estado-de-conservacion-del-lobo/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Gestionar y reciclar: España, ante el reto de repotenciar sus primeros parques eólicos sin generar residuos",
-      "url": "https://efeverde.com/gestionar-y-reciclar-aerogeneradores-espana-reto-repotenciar-parques-eolicos/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "En la U presionan a los árbitros antes del Clásico Universitario: “Han errado mucho; ojalá su objetividad sea pareja”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/en-la-u-presionan-a-los-arbitros-antes-del-clasico-universitario-han-errado-mucho-ojala-su-objetividad-sea-pareja/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Poduje dice que solicitará a las FF.AA. devolución de terrenos para construir viviendas: “No me parece que sea su función hacer negocios inmobiliarios”",
-      "url": "https://www.latercera.com/nacional/noticia/poduje-dice-que-solicitara-a-las-ffaa-devolucion-de-terrenos-para-construir-viviendas-no-me-parece-que-sea-su-funcion-hacer-negocios-inmobiliarios/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Cirugía mayor al sistema ambiental: más atribuciones al SEA y límites a la judicialización",
-      "url": "https://www.df.cl/empresas/construccion/cirugia-mayor-al-sistema-ambiental-mas-atribuciones-al-sea-y-limites-a-la",
-      "fecha": "2026-04-23",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "BioAysén presenta a empresas estratégicas inédito modelo que rentabiliza la producción sostenible y la conservación del capital natural",
-      "url": "https://www.paiscircular.cl/biodiversidad/bioaysen-presenta-a-empresas-estrategicas-inedito-modelo-que-rentabiliza-la-produccion-sostenible-y-la-conservacion-del-capital-natural/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Ministerio del Medio Ambiente celebra el Día de la Tierra con innovador piloto tecnológico para identificar vertederos y aprovechar los residuos de la construcción",
-      "url": "https://www.paiscircular.cl/medio-ambiente/ministerio-del-medio-ambiente-celebra-el-dia-de-la-tierra-con-innovador-piloto-tecnologico-para-identificar-vertederos-y-aprovechar-los-residuos-de-la-construccion/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Nuevo bosque es inaugurado en colegio de Santiago bajo el concepto de “bosques escuelas”",
-      "url": "https://www.paiscircular.cl/biodiversidad/nuevo-bosque-es-inaugurado-en-colegio-de-santiago-bajo-el-concepto-de-bosques-escuelas/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "EL DÍA MUNDIAL DE LA TIERRA",
-      "url": "https://www.chiledesarrollosustentable.cl/el-dia-mundial-de-la-tierra/?utm_source=rss&utm_medium=rss&utm_campaign=el-dia-mundial-de-la-tierra",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Día de la Tierra: TECNOLOGÍAS DE EFICIENCIA ENERGÉTICA ACELERAN LA TRANSICIÓN HACIA LA DESCARBONIZACIÓN",
-      "url": "https://www.chiledesarrollosustentable.cl/dia-de-la-tierra-tecnologias-de-eficiencia-energetica-aceleran-la-transicion-hacia-la-descarbonizacion/?utm_source=rss&utm_medium=rss&utm_campaign=dia-de-la-tierra-tecnologias-de-eficiencia-energetica-aceleran-la-transicion-hacia-la-descarbonizacion",
-      "fecha": "2026-04-22",
+      "titular": "Gisela Escobar, gerenta general de ReSimple: “Es crítico que se inicie el proceso formal de revisión del decreto de metas de envases y embalajes”",
+      "url": "https://www.paiscircular.cl/economia-circular/gisela-escobar-gerenta-general-de-resimple-es-critico-que-se-inicie-el-proceso-formal-de-revision-del-decreto-de-metas-de-envases-y-embalajes/",
+      "fecha": "2026-04-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Tercer Encuentro de Mapeadores y Mapeadoras de Macroalgas reunió a expertos en Las Cruces",
-      "url": "https://codexverde.cl/tercer-encuentro-de-mapeadores-y-mapeadoras-de-macroalgas/",
-      "fecha": "2026-04-22",
+      "titular": "Más que una ley, políticas hídricas a largo plazo",
+      "url": "https://codexverde.cl/mas-que-una-ley-politicas-hidricas-a-largo-plazo/",
+      "fecha": "2026-04-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sara Aagesen subraya la vulnerabilidad por los combustibles fósiles en el foro climático en Berlín",
-      "url": "https://efeverde.com/sara-aagesen-subraya-la-vulnerabilidad-por-los-combustibles-fosiles/",
-      "fecha": "2026-04-22",
+      "titular": "Pionero estudio alerta de la caída generalizada de la presencia de aves agrarias en Europa",
+      "url": "https://efeverde.com/pionero-estudio-alerta-de-la-caida-generalizada-de-la-presencia-de-aves-agrarias-en-europa/",
+      "fecha": "2026-04-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "EMPRENDE TU MENTE CONVOCA A MÁS DE 630 ASISTENTES EN SU PRIMER ETMTUESDAY DE 2026.",
+      "url": "https://www.chiledesarrollosustentable.cl/emprende-tu-mente-convoca-a-mas-de-630-asistentes-en-su-primer-etmtuesday-de-2026-estrenando-nuevo-formato-y-con-foco-en-liderazgo/?utm_source=rss&utm_medium=rss&utm_campaign=emprende-tu-mente-convoca-a-mas-de-630-asistentes-en-su-primer-etmtuesday-de-2026-estrenando-nuevo-formato-y-con-foco-en-liderazgo",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "MINISTERIO DEL MEDIO AMBIENTE CELEBRA EL DÍA DE LA TIERRA CON INNOVADOR PILOTO TECNOLÓGICO",
+      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-celebra-el-dia-de-la-tierra-con-innovador-piloto-tecnologico-para-identificar-vertederos-y-aprovechar-los-residuos-de-la-construccion/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-celebra-el-dia-de-la-tierra-con-innovador-piloto-tecnologico-para-identificar-vertederos-y-aprovechar-los-residuos-de-la-construccion",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Ministerio del Medio Ambiente lanza piloto tecnológico para detectar vertederos ilegales de residuos de construcción",
+      "url": "https://codexverde.cl/piloto-tecnologico-para-aprovechar-residuos-de-la-construccion/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Fósiles de hace 21 millones de años revelan el ecosistema marino más antiguo de la cuenca de Pisco",
+      "url": "https://codexverde.cl/fosiles-de-hace-21-millones-de-anos-revelan-el-ecosistema-marino-mas-antiguo-de-la-cuenca-de-pisco/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Jóvenes de más de 20 países presentan una hoja de ruta para dejar atrás los combustibles fósiles",
-      "url": "https://efeverde.com/jovenes-20-paises-hoja-ruta-combustibles-fosiles/",
-      "fecha": "2026-04-22",
+      "titular": "Colombia promueve el debate mundial para dejar atrás los combustibles fósiles",
+      "url": "https://efeverde.com/colombia-combustibles-fosiles-santa-marta/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España se adhiere a la Declaración del Pantanal para proteger las especies migratorias y sus hábitats",
-      "url": "https://efeverde.com/espana-declaracion-del-pantanal-proteger-especies-migratorias/",
-      "fecha": "2026-04-22",
+      "titular": "La Red Mundial de Geoparques de la Unesco suma 12 nuevos parajes en 10 países",
+      "url": "https://efeverde.com/red-mundial-geoparques-unesco-nuevos-parajes/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los países de la EU con más renovables pagarán hasta 8.500 millones menos en luz que aquellos más contaminantes",
-      "url": "https://efeverde.com/paises-eu-renovables-pagaran-8500-millones-menos-en-luz-contaminantes/",
-      "fecha": "2026-04-22",
+      "titular": "Reciclando aerogeneradores. Por May",
+      "url": "https://efeverde.com/reciclando-aerogeneradores-may-mundomay/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Greenpeace pide dejar los combustibles fósiles con pancarta de Trump vomitando petróleo",
+      "url": "https://efeverde.com/greenpeace-combustibles-fosiles-pancarta-trump-vomitando-petroleo/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El TSJA anula el Programa de Control de Lobo de Asturias 2025-2026 que autorizó la caza de 53 ejemplares",
+      "url": "https://efeverde.com/el-tsja-anula-el-programa-de-control-de-lobo-de-asturias-2025-2026-que-autorizo-la-caza-de-53-ejemplares/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Cuando proteger ecosistemas únicos no es un capricho",
-      "url": "https://www.terram.cl/cuando-proteger-ecosistemas-unicos-no-es-un-capricho/",
-      "fecha": "2026-04-22",
+      "titular": "La fuerza que nos une: el rol de las ONG en el cuidado de la Tierra",
+      "url": "https://www.terram.cl/la-fuerza-que-nos-une-el-rol-de-las-ong-en-el-cuidado-de-la-tierra/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Día de la Tierra: energías renovables que transforman comunidades en tres países de Latinoamérica",
-      "url": "https://www.terram.cl/dia-de-la-tierra-energias-renovables-que-transforman-comunidades-en-tres-paises-de-latinoamerica/",
-      "fecha": "2026-04-22",
+      "titular": "Proyecto Dominga: Andes Iron presentó recurso de casación ante la Suprema contra fallo de la Corte de Apelaciones",
+      "url": "https://www.terram.cl/proyecto-dominga-andes-iron-presento-recurso-de-casacion-ante-la-suprema-contra-fallo-de-la-corte-de-apelaciones/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Uso de combustible fósil sigue creciendo en Chile a pesar de renovables, exponiendo al país a alzas de precio",
-      "url": "https://www.terram.cl/uso-de-combustible-fosil-sigue-creciendo-en-chile-a-pesar-de-renovables-exponiendo-al-pais-a-alzas-de-precio/",
-      "fecha": "2026-04-22",
+      "titular": "Pingüino de Humboldt: Exigen reactivar decreto retirado por Kast y firmar por campaña en sus últimos días",
+      "url": "https://www.terram.cl/pinguino-de-humboldt-exigen-reactivar-decreto-retirado-por-kast-y-firmar-por-campana-en-sus-ultimos-dias/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Futrono: proyecto inmobiliario ligado a los Piñera Morel choca con Salud",
-      "url": "https://www.terram.cl/futrono-proyecto-inmobiliario-ligado-a-los-pinera-morel-choca-con-salud/",
-      "fecha": "2026-04-22",
+      "titular": "Argentina alista de los mayores proyectos de cobre del mundo “que se extiende por territorio chileno”",
+      "url": "https://www.terram.cl/argentina-alista-de-los-mayores-proyectos-de-cobre-del-mundo-que-se-extiende-por-territorio-chileno/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Tras audiencia en Tribunal Ambiental, comunidades acusan incumplimiento total del plan ambiental de Pascua Lama",
-      "url": "https://www.terram.cl/tras-audiencia-en-tribunal-ambiental-comunidades-acusan-incumplimiento-total-del-plan-ambiental-de-pascua-lama/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "“Un viaje de fidelidad y riesgo”: estudio revela “ruta migratoria” de ballenas azules en el Pacífico",
-      "url": "https://www.terram.cl/un-viaje-de-fidelidad-y-riesgo-estudio-revela-ruta-migratoria-de-ballenas-azules-en-el-pacifico/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Estudio alerta sobre incumplimientos de la ley en el cierre de termoeléctricas y en la remediación ambiental de las empresas",
-      "url": "https://chilesustentable.net/2026/04/estudio-alerta-sobre-incumplimientos-de-la-ley-en-el-cierre-de-termoelectricas-y-en-la-remediacion-ambiental-de-las-empresas/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Estudio alerta sobre incumplimientos de la ley en el cierre de termoeléctricas y en la remediación ambiental de las empresas",
-      "url": "https://chilesustentable.net/2026/04/estudio-alerta-sobre-incumplimientos-de-la-ley-en-el-cierre-de-termoelectricas-y-en-la-remediacion-ambiental-de-las-empresas/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Sentencia ordena al SEA analizar las observaciones planteadas por la Municipalidad de Casablanca a proyecto de transmisión eléctrica birregional",
-      "url": "https://tribunalambiental.cl/sentencia-r-423-2024-linea-transmision-casablanca-energia-municipalidad-sea",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente». Rol: R-18-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-48-2025 “Sociedad Comercial Agrícola y Forestal Quimeyco Ltda con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-48-2025-sociedad-comercial-agricola-y-forestal-quimeyco-ltda-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa alternativas al uso del fuego en el Día de la Tierra",
-      "url": "https://www.conaf.cl/conaf-impulsa-alternativas-al-uso-del-fuego-en-el-dia-de-la-tierra/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-alternativas-al-uso-del-fuego-en-el-dia-de-la-tierra",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "APL Aysén: Consolida su fase de implementación con foco en la gestión productiva y valorización del bosque nativo",
-      "url": "https://www.conaf.cl/apl-aysen-consolida-su-fase-de-implementacion-con-foco-en-la-gestion-productiva-y-valorizacion-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=apl-aysen-consolida-su-fase-de-implementacion-con-foco-en-la-gestion-productiva-y-valorizacion-del-bosque-nativo",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Mujeres rurales viven un “baño de naturaleza” en el Parque Nacional La Campana de Olmué",
-      "url": "https://www.conaf.cl/mujeres-rurales-viven-un-bano-de-naturaleza-en-el-parque-nacional-la-campana-de-olmue/?utm_source=rss&utm_medium=rss&utm_campaign=mujeres-rurales-viven-un-bano-de-naturaleza-en-el-parque-nacional-la-campana-de-olmue",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Anuncian alianza estratégica para la recuperación ecológica del Parque Nacional Nonguén tras incendios forestales",
-      "url": "https://www.conaf.cl/anuncian-alianza-estrategica-para-la-recuperacion-ecologica-del-parque-nacional-nonguen-tras-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=anuncian-alianza-estrategica-para-la-recuperacion-ecologica-del-parque-nacional-nonguen-tras-incendios-forestales",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Aysén y Carabineros fortalecen acciones preventivas de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-aysen-y-carabineros-fortalecen-acciones-preventivas-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-aysen-y-carabineros-fortalecen-acciones-preventivas-de-incendios-forestales",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Aysén celebran día de la tierra con ceremonia de banderas de certificación ambiental",
-      "url": "https://mma.gob.cl/en-aysen-celebran-dia-de-la-tierra-con-ceremonia-de-banderas-de-certificacion-ambiental/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Inauguran sistema de atrapanieblas en Ovalle como solución innovadora frente a la megasequía",
-      "url": "https://mma.gob.cl/inauguran-sistema-de-atrapanieblas-en-ovalle-como-solucion-innovadora-frente-a-la-megasequia/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente celebra el Día de la Tierra con innovador piloto tecnológico para identificar vertederos y aprovechar los residuos de la construcción",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-celebra-el-dia-de-la-tierra-con-innovador-piloto-tecnologico-para-identificar-vertederos-y-aprovechar-los-residuos-de-la-construccion/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "UCT y Seremi del Medio Ambiente realizaron seminario internacional sobre gestión sostenible de fósforo en lagos",
-      "url": "https://mma.gob.cl/uct-y-seremi-del-medio-ambiente-realizaron-seminario-internacional-sobre-gestion-sostenible-de-fosforo-en-lagos/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente inició proyecto de hidroponía sostenible para enfrentar la escasez hídrica en Mejillones",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-inicio-proyecto-de-hidroponia-sostenible-para-enfrentar-la-escasez-hidrica-en-mejillones/",
-      "fecha": "2026-04-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
       "titular": "Segundo Tribunal Ambiental ordena al SEA analizar las observaciones planteadas por la Municipalidad de Casablanca a proyecto de transmisión eléctrica birregional",
-      "url": "https://adprensa.cl/segundo-tribunal-ambiental-ordena-al-sea-analizar-las-observaciones-planteadas-por-la-municipalidad-de-casablanca-a-proyecto-de-transmision-electrica-birregional/",
-      "fecha": "2026-04-22",
+      "url": "https://www.terram.cl/segundo-tribunal-ambiental-ordena-al-sea-analizar-las-observaciones-planteadas-por-la-municipalidad-de-casablanca-a-proyecto-de-transmision-electrica-birregional/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto de sondajes de Minera Cerro Colorado",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-sondajes-de-minera-cerro-colorado/",
-      "fecha": "2026-04-22",
+      "fuente": "Terram",
+      "titular": "Menos agua y lluvias más extremas: Estudio advierte mayor presión hídrica en el centro-sur",
+      "url": "https://www.terram.cl/menos-agua-y-lluvias-mas-extremas-estudio-advierte-mayor-presion-hidrica-en-el-centro-sur/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Tribunal deja sin efecto rechazo de Proyecto Minero San Cayetano y retrotrae procedimiento de evaluación ambiental",
+      "url": "https://www.1ta.cl/se-alza-parcialmente-medida-cautelar-que-mantiene-paralizada-la-operacion-de-quiborax-en-el-salar-de-surire-2/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental anuló parcialmente declaratoria de Humedal Urbano Estero Coihueco en Temuco",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-anulo-parcialmente-declaratoria-de-humedal-urbano-estero-coihueco-en-temuco/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Celebran el Día de la Tierra con plantación de árboles nativos junto a estudiantes de Ninhue",
+      "url": "https://www.conaf.cl/celebran-el-dia-de-la-tierra-con-plantacion-de-arboles-nativos-junto-a-estudiantes-de-ninhue/?utm_source=rss&utm_medium=rss&utm_campaign=celebran-el-dia-de-la-tierra-con-plantacion-de-arboles-nativos-junto-a-estudiantes-de-ninhue",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF, Injuv y Universidad Santo Tomás conmemoraron el Día de la Tierra con jornada de voluntariado en Altos de Lircay",
+      "url": "https://www.conaf.cl/conaf-injuv-y-universidad-santo-tomas-conmemoraron-el-dia-de-la-tierra-con-jornada-de-voluntariado-en-altos-de-lircay/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-injuv-y-universidad-santo-tomas-conmemoraron-el-dia-de-la-tierra-con-jornada-de-voluntariado-en-altos-de-lircay",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Grupo REDD+ Biobío inicia ciclo 2026 fortaleciendo la participación territorial y la acción climática",
+      "url": "https://www.conaf.cl/grupo-redd-biobio-inicia-ciclo-2026-fortaleciendo-la-participacion-territorial-y-la-accion-climatica/?utm_source=rss&utm_medium=rss&utm_campaign=grupo-redd-biobio-inicia-ciclo-2026-fortaleciendo-la-participacion-territorial-y-la-accion-climatica",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Día Internacional del Libro: CONAF invita a conocer su biblioteca en Santiago y revisar publicaciones en formato digital",
+      "url": "https://www.conaf.cl/dia-internacional-del-libro-conaf-invita-a-conocer-su-biblioteca-en-santiago-y-revisar-publicaciones-en-formato-digital/?utm_source=rss&utm_medium=rss&utm_campaign=dia-internacional-del-libro-conaf-invita-a-conocer-su-biblioteca-en-santiago-y-revisar-publicaciones-en-formato-digital",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Nueva alianza estratégica para la recuperación ecológica del Parque Nacional Nonguén tras incendios forestales",
+      "url": "https://mma.gob.cl/nueva-alianza-estrategica-para-la-recuperacion-ecologica-del-parque-nacional-nonguen-tras-incendios-forestales/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario del Medio Ambiente lanza el mayor fondo de protección ambiental que fortalece centros de rescate de fauna silvestre",
+      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-lanza-el-mayor-fondo-de-proteccion-ambiental-que-fortalece-centros-de-rescate-de-fauna-silvestre/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Punta Arenas conmemoró el Día de la Tierra con acciones concretas de educación y restauración ambiental",
+      "url": "https://mma.gob.cl/punta-arenas-conmemoro-el-dia-de-la-tierra-con-acciones-concretas-de-educacion-y-restauracion-ambiental/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Chile destaca en liderazgo regional con la implementación del RETC en evento paralelo de la COP 4 del Acuerdo de Escazú",
+      "url": "https://mma.gob.cl/chile-destaca-en-liderazgo-regional-con-la-implementacion-del-retc-en-evento-paralelo-de-la-cop-4-del-acuerdo-de-escazu/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En Escuela Las Canteras de Copiapó fue celebrado el Día de la Tierra",
+      "url": "https://mma.gob.cl/en-escuela-las-canteras-de-copiapo-fue-celebrado-el-dia-de-la-tierra/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En convenio con el Registro Civil: Medio Ambiente lanza portal web de Polimetales",
+      "url": "https://mma.gob.cl/en-convenio-con-el-registro-civil-medio-ambiente-lanza-portal-web-de-polimetales/",
+      "fecha": "2026-04-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Noboa reimpone el toque de queda en Ecuador en busca de debilitar economías criminales",
+      "url": "https://www.latercera.com/mundo/noticia/noboa-reimpone-el-toque-de-queda-en-ecuador-en-busca-de-debilitar-economias-criminales/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental ordena al SEA analizar observaciones planteadas por municipio a proyecto de transmisión",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-ordena-al-sea-analizar-observaciones-planteadas-por-municipio-a-proyecto-de-transmision/",
-      "fecha": "2026-04-22",
+      "titular": "COP4 de Escazú: Chile presenta logros en transparencia y acceso a información ambiental",
+      "url": "https://www.revistaei.cl/cop4-de-escazu-chile-presenta-avances-en-transparencia-y-acceso-a-informacion-ambiental/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Cerro Colorado invertirá US$60 millones en prospección minera en Tarapacá",
-      "url": "https://www.redimin.cl/cerro-colorado-invertira-us60-millones-en-prospeccion-minera-en-tarapaca/",
-      "fecha": "2026-04-22",
+      "titular": "Minera Antucoya certifica sus cátodos de cobre en la LME y COMEX",
+      "url": "https://www.redimin.cl/minera-antucoya-certifica-sus-catodos-de-cobre-en-la-lme-y-comex/",
+      "fecha": "2026-04-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
