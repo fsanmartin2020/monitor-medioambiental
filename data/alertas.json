@@ -1,54 +1,53 @@
 {
-  "fecha_generacion": "2026-04-24T08:09:11.195032-04:00",
+  "fecha_generacion": "2026-04-25T07:49:38.033470-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Segundo Tribunal Ambiental ordena al SEA analizar las observaciones planteadas por la Municipalidad de Casablanca a proyecto de transmisión eléctrica birregional",
-      "url": "https://www.terram.cl/segundo-tribunal-ambiental-ordena-al-sea-analizar-las-observaciones-planteadas-por-la-municipalidad-de-casablanca-a-proyecto-de-transmision-electrica-birregional/",
-      "fecha": "2026-04-23",
+      "fuente": "EFE Verde",
+      "titular": "La justicia argentina frena la aplicación de la ley de glaciares en la provincia de Santa Cruz",
+      "url": "https://efeverde.com/justicia-argentina-aplicacion-ley-glaciares-provincia-santa-cruz/",
+      "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió la reclamación de la Municipalidad de Casablanca, ordenando al Servicio de Evaluación Ambiental (SEA) considerar debidamente las observaciones planteadas al proyecto de transmisión eléctrica “Nueva Línea 2×220 Nue",
+      "extracto": "Buenos Aires.- Un juez federal de Argentina ha dispuesto este viernes frenar la aplicación en la austral provincia de Santa Cruz de la reforma a la ley de protección de glaciares aprobada recientemente por el Parlamento argentino por impulso del Gobi",
       "keywords_detectadas": [
-        "SEA",
+        "Ley de Glaciares"
+      ]
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Protagonista de \"From\" y éxito de la serie en Chile: \"Hemos dedicado nuestro tiempo a crear algo que sea divertido\"",
+      "url": "https://www.emol.com/noticias/Espectaculos/2026/04/25/1198196/entrevista-harrold-perrineau-serie-from.html",
+      "fecha": "2026-04-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Ley REP: Contraloría toma razón de decreto que recicla aparatos electrónicos y pilas",
+      "url": "https://codexverde.cl/ley-rep-contraloria-toma-razon-de-decreto-que-recicla-aparatos-electronicos-y-pilas/",
+      "fecha": "2026-04-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Contraloría General de la República tomó razón del decreto supremo que fija las obligaciones de recolección y valorización para pilas y residuos de aparatos eléctricos y electrónicos (RAEE) en el contexto de la Ley REP. De este modo, el texto está",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental anula rechazo del proyecto minero San Cayetano y ordena nueva etapa de evaluación",
+      "url": "https://www.redimin.cl/tribunal-ambiental-anula-rechazo-del-proyecto-minero-san-cayetano-y-ordena-nueva-etapa-de-evaluacion/",
+      "fecha": "2026-04-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El fallo dejó sin efecto la resolución desfavorable contra la iniciativa en Ovalle y ordenó al SEA emitir un nuevo ICSARA para incorporar observaciones pendientes dentro del procedimiento ambiental.",
+      "keywords_detectadas": [
         "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental anuló parcialmente declaratoria de Humedal Urbano Estero Coihueco en Temuco",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-anulo-parcialmente-declaratoria-de-humedal-urbano-estero-coihueco-en-temuco/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ministerio del Medio Ambiente deberá pronunciarse nuevamente sobre la concurrencia de los requisitos del Reglamento de Humedales Urbanos, en cuanto a los terrenos involucrados en las tres reclamaciones de ilegalidad interpuestas. Tres reclamacione",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile destaca en liderazgo regional con la implementación del RETC en evento paralelo de la COP 4 del Acuerdo de Escazú",
-      "url": "https://mma.gob.cl/chile-destaca-en-liderazgo-regional-con-la-implementacion-del-retc-en-evento-paralelo-de-la-cop-4-del-acuerdo-de-escazu/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el marco de la Cuarta Conferencia de las Partes (COP 4) del Acuerdo de Escazú, Chile participó en el evento paralelo “Implementación […]",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "COP4 de Escazú: Chile presenta logros en transparencia y acceso a información ambiental",
-      "url": "https://www.revistaei.cl/cop4-de-escazu-chile-presenta-avances-en-transparencia-y-acceso-a-informacion-ambiental/",
-      "fecha": "2026-04-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En la instancia se destacó la experiencia chilena en el desarrollo e implementación del Registro de Emisiones y Transferencias de Contaminantes como herramienta clave. La entrada COP4 de Escazú: Chile presenta logros en transparencia y acceso a infor",
-      "keywords_detectadas": [
-        "Escazú"
       ]
     }
   ]
