@@ -1,229 +1,77 @@
 {
-  "fecha_actualizacion": "2026-04-25T07:49:38.019343-04:00",
-  "total": 28,
+  "fecha_actualizacion": "2026-04-26T07:56:23.871332-04:00",
+  "total": 9,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "La justicia argentina frena la aplicación de la ley de glaciares en la provincia de Santa Cruz",
-      "url": "https://efeverde.com/justicia-argentina-aplicacion-ley-glaciares-provincia-santa-cruz/",
+      "titular": "La Conferencia de Santa Marta resalta la diversidad de conocimientos para impulsar transición energética",
+      "url": "https://efeverde.com/conferencia-santa-marta-diversidad-conocimientos-impulsar-transicion-energetica/",
+      "fecha": "2026-04-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Hugo Morán defiende que la Aemet cada vez tiene más capacidad para anticiparse a fenómenos extremos",
+      "url": "https://efeverde.com/moran-aemet-capacidad-anticiparse-fenomenos-extremos/",
+      "fecha": "2026-04-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "151 especies de peces «invaden» las aguas continentales de países mediterráneos",
+      "url": "https://efeverde.com/151-especies-de-peces-invaden-las-aguas-continentales-de-paises-mediterraneos/",
+      "fecha": "2026-04-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El «santuario» de ranas que busca frenar su extinción y el tráfico ilegal en Ecuador",
+      "url": "https://efeverde.com/santuario-de-ranas-ecuador/",
       "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Amitav Ghosh, sobre cómo el mundo actúa ante la crisis planetaria: «Es absolutamente demencial»",
-      "url": "https://efeverde.com/amitav-ghosh-sobre-como-el-mundo-actua-ante-la-crisis-planetaria-es-absolutamente-demencial/",
+      "titular": "Una coalición de estados demócratas demandan a la Administración Trump por no regular las partículas finas",
+      "url": "https://efeverde.com/coalicion-estados-democratas-demandan-trump-no-regular-particulas-finas/",
       "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las Marismas del Odiel, el refugio de mareas resiliente a la crisis climática",
-      "url": "https://efeverde.com/marismas-del-odiel-refugio-de-mareas-resiliente-a-crisis-climatica/",
+      "fuente": "CONAF",
+      "titular": "CONAF exigirá guía especializado en el Parque Nacional Torres del Paine",
+      "url": "https://www.conaf.cl/conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine",
       "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El suelo: el hogar invisible de los organismos que sostienen la vida. Por Alberto Martín (UICN Med)",
-      "url": "https://efeverde.com/el-suelo-el-hogar-invisible-de-los-organismos-que-sostienen-la-vida-por-alberto-martin/",
-      "fecha": "2026-04-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El marisqueo resiste a duras penas en Galicia: «Si vas a vivir de esto, olvídate»",
-      "url": "https://efeverde.com/el-marisqueo-resiste-a-duras-penas-en-galicia-si-vas-a-vivir-de-esto-olvidate/",
-      "fecha": "2026-04-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Protagonista de \"From\" y éxito de la serie en Chile: \"Hemos dedicado nuestro tiempo a crear algo que sea divertido\"",
-      "url": "https://www.emol.com/noticias/Espectaculos/2026/04/25/1198196/entrevista-harrold-perrineau-serie-from.html",
-      "fecha": "2026-04-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Expresidente del CFA levanta alerta por megarreforma de Kast: “El 45% se financia con medidas que no están en el proyecto”",
-      "url": "https://www.latercera.com/pulso/noticia/expresidente-del-cfa-levanta-alerta-por-megarreforma-de-kast-el-45-se-financia-con-medidas-que-no-estan-en-el-proyecto/",
+      "titular": "Tutti Frutti",
+      "url": "https://www.latercera.com/pulso/noticia/tutti-frutti/",
       "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Por qué la forma de medir el metano importa tanto como medirlo",
-      "url": "https://www.paiscircular.cl/opinion/por-que-la-forma-de-medir-el-metano-importa-tanto-como-medirlo/",
-      "fecha": "2026-04-24",
+      "fuente": "La Tercera",
+      "titular": "Cristian Garay: “La gente espera que el arbitraje sea perfecto, pero el fútbol no lo es y los jugadores tampoco”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/entrevista-a-garay/",
+      "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Día del Pingüino: “más que un ave que no vuela”",
-      "url": "https://www.paiscircular.cl/opinion/dia-del-pinguino-mas-que-un-ave-que-no-vuela/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Expertos impulsan convertir montañas de Neumáticos Fuera de Uso en asfalto para carreteras de mayor durabilidad",
-      "url": "https://www.paiscircular.cl/economia-circular/expertos-impulsan-convertir-montanas-de-neumaticos-fuera-de-uso-en-asfalto-para-carreteras-de-mayor-durabilidad/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Día de la tierra: Reglas claras y visión de futuro",
-      "url": "https://www.paiscircular.cl/opinion/dia-de-la-tierra-reglas-claras-y-vision-de-futuro/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Ley REP: Contraloría toma razón de decreto que recicla aparatos electrónicos y pilas",
-      "url": "https://codexverde.cl/ley-rep-contraloria-toma-razon-de-decreto-que-recicla-aparatos-electronicos-y-pilas/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Científicos internacionales crean un comité asesor para eliminar los combustibles fósiles",
-      "url": "https://efeverde.com/cientificos-internacionales-crean-comite-asesor-eliminar-combustibles-fosiles/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La ciencia reclama su papel en la transición energética en inicio de la conferencia de Santa Marta",
-      "url": "https://efeverde.com/ciencia-papel-transicion-energetica-conferencia-santa-marta/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descubren en Ecuador una nueva especie de araña que imita a hormigas para cazar y evitar depredadores",
-      "url": "https://efeverde.com/nueva-especie-de-arana-que-imita-a-hormigas/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La OMM prevé temperaturas superiores a lo normal el próximo trimestre por la llegada de El Niño",
-      "url": "https://efeverde.com/omm-preve-temperaturas-superiores-nino/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Alertan que Ley Miscelánea reduce estándares ambientales para salmoneras e interviene en el Poder Judicial",
-      "url": "https://www.terram.cl/alertan-que-ley-miscelanea-reduce-estandares-ambientales-para-salmoneras-e-interviene-en-el-poder-judicial/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Chile – Argentina, minería binacional otra vez",
-      "url": "https://www.terram.cl/chile-argentina-mineria-binacional-otra-vez/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Donde alguna vez corrió un río",
-      "url": "https://www.terram.cl/donde-alguna-vez-corrio-un-rio/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Los países que quieren decir adiós a las energías fósiles",
-      "url": "https://www.terram.cl/los-paises-que-quieren-decir-adios-a-las-energias-fosiles/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tres rellenos sanitarios chilenos entran el top 10 de mayores emisiones de metano detectadas a nivel global",
-      "url": "https://www.terram.cl/tres-rellenos-sanitarios-chilenos-entran-el-top-10-de-mayores-emisiones-de-metano-detectadas-a-nivel-global/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Día del Libro 2026: Comparten gratis más de 50 textos digitales para aprender a identificar flora y fauna",
-      "url": "https://www.terram.cl/dia-del-libro-2026-comparten-gratis-mas-de-50-textos-digitales-para-aprender-a-identificar-flora-y-fauna/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 24/04/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-24-04-2026/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal realizó audiencia en demanda contra municipio de Puerto Natales por gestión de vertedero",
-      "url": "https://3ta.cl/noticias/tribunal-realizo-audiencia-en-demanda-contra-municipio-de-puerto-natales-por-gestion-de-vertedero/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo escalafon profesional a contrata asimilado a grado 15 de la e u s para la unidad de atencion de usuarios as dr los l",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-unidad-de-atencion-de-usuarios-as-dr-los-l/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Fondo de Protección Ambiental fomentó Planta de Compostaje de Residuos Agrícolas en Maule",
-      "url": "https://mma.gob.cl/fondo-de-proteccion-ambiental-fomento-planta-de-compostaje-de-residuos-agricolas-en-maule/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Feria por Día de la Tierra convoca a numerosos estudiantes y expositores en la comuna de Concón",
-      "url": "https://mma.gob.cl/feria-por-dia-de-la-tierra-convoca-a-numerosos-estudiantes-y-expositores-en-la-comuna-de-concon/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental anula rechazo del proyecto minero San Cayetano y ordena nueva etapa de evaluación",
-      "url": "https://www.redimin.cl/tribunal-ambiental-anula-rechazo-del-proyecto-minero-san-cayetano-y-ordena-nueva-etapa-de-evaluacion/",
-      "fecha": "2026-04-24",
+      "fuente": "La Tercera",
+      "titular": "Ojalá algún día",
+      "url": "https://www.latercera.com/opinion/noticia/ojala-algun-dia/",
+      "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

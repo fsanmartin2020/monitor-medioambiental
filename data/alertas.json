@@ -1,53 +1,17 @@
 {
-  "fecha_generacion": "2026-04-25T07:49:38.033470-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-04-26T07:56:23.883132-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La justicia argentina frena la aplicación de la ley de glaciares en la provincia de Santa Cruz",
-      "url": "https://efeverde.com/justicia-argentina-aplicacion-ley-glaciares-provincia-santa-cruz/",
+      "fuente": "La Tercera",
+      "titular": "Cristian Garay: “La gente espera que el arbitraje sea perfecto, pero el fútbol no lo es y los jugadores tampoco”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/entrevista-a-garay/",
       "fecha": "2026-04-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Buenos Aires.- Un juez federal de Argentina ha dispuesto este viernes frenar la aplicación en la austral provincia de Santa Cruz de la reforma a la ley de protección de glaciares aprobada recientemente por el Parlamento argentino por impulso del Gobi",
-      "keywords_detectadas": [
-        "Ley de Glaciares"
-      ]
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Protagonista de \"From\" y éxito de la serie en Chile: \"Hemos dedicado nuestro tiempo a crear algo que sea divertido\"",
-      "url": "https://www.emol.com/noticias/Espectaculos/2026/04/25/1198196/entrevista-harrold-perrineau-serie-from.html",
-      "fecha": "2026-04-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "extracto": "El réferi chileno de 37 años es uno de los 52 elegidos por la FIFA para el Mundial de Canadá, México y Estados Unidos 2026. \"Me costó entender que el descanso y la recuperación eran clave para rendir en la elite\", confiesa. El último juez nacional qu",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Ley REP: Contraloría toma razón de decreto que recicla aparatos electrónicos y pilas",
-      "url": "https://codexverde.cl/ley-rep-contraloria-toma-razon-de-decreto-que-recicla-aparatos-electronicos-y-pilas/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Contraloría General de la República tomó razón del decreto supremo que fija las obligaciones de recolección y valorización para pilas y residuos de aparatos eléctricos y electrónicos (RAEE) en el contexto de la Ley REP. De este modo, el texto está",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental anula rechazo del proyecto minero San Cayetano y ordena nueva etapa de evaluación",
-      "url": "https://www.redimin.cl/tribunal-ambiental-anula-rechazo-del-proyecto-minero-san-cayetano-y-ordena-nueva-etapa-de-evaluacion/",
-      "fecha": "2026-04-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El fallo dejó sin efecto la resolución desfavorable contra la iniciativa en Ovalle y ordenó al SEA emitir un nuevo ICSARA para incorporar observaciones pendientes dentro del procedimiento ambiental.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
       ]
     }
   ]
