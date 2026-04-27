@@ -1,77 +1,93 @@
 {
-  "fecha_actualizacion": "2026-04-26T07:56:23.871332-04:00",
-  "total": 9,
+  "fecha_actualizacion": "2026-04-27T08:29:45.480130-04:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La Conferencia de Santa Marta resalta la diversidad de conocimientos para impulsar transición energética",
-      "url": "https://efeverde.com/conferencia-santa-marta-diversidad-conocimientos-impulsar-transicion-energetica/",
-      "fecha": "2026-04-26",
+      "fuente": "País Circular",
+      "titular": "Revtech lidera proyecto de alto impacto para revalorizar paneles solares y baterías en desuso",
+      "url": "https://www.paiscircular.cl/transicion-energetica/revtech/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Hugo Morán defiende que la Aemet cada vez tiene más capacidad para anticiparse a fenómenos extremos",
-      "url": "https://efeverde.com/moran-aemet-capacidad-anticiparse-fenomenos-extremos/",
-      "fecha": "2026-04-26",
+      "titular": "La ausencia de «campanu» certifica el rápido y alarmante declive del salmón",
+      "url": "https://efeverde.com/la-ausencia-de-campanu-certifica-el-rapido-y-alarmante-declive-del-salmon/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "151 especies de peces «invaden» las aguas continentales de países mediterráneos",
-      "url": "https://efeverde.com/151-especies-de-peces-invaden-las-aguas-continentales-de-paises-mediterraneos/",
-      "fecha": "2026-04-26",
+      "titular": "El apagón, un año después: ¿dónde estamos y qué hemos aprendido? Por Marga González (Genesal Energy)",
+      "url": "https://efeverde.com/el-apagon-un-ano-despues-donde-estamos-y-que-hemos-aprendido-por-marga-gonzalez/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El «santuario» de ranas que busca frenar su extinción y el tráfico ilegal en Ecuador",
-      "url": "https://efeverde.com/santuario-de-ranas-ecuador/",
-      "fecha": "2026-04-25",
+      "titular": "Director de SEO/BirdLife Europa: España,a la vanguardia de la conservación de biodiversidad",
+      "url": "https://efeverde.com/director-de-seo-birdlife-europaespanaa-la-vanguardia-de-la-conservacion-de-biodiversidad/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una coalición de estados demócratas demandan a la Administración Trump por no regular las partículas finas",
-      "url": "https://efeverde.com/coalicion-estados-democratas-demandan-trump-no-regular-particulas-finas/",
-      "fecha": "2026-04-25",
+      "titular": "Día Mundial del Veterinario. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/dia-mundial-del-veterinario-por-victor-solis-visoor/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF exigirá guía especializado en el Parque Nacional Torres del Paine",
-      "url": "https://www.conaf.cl/conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine",
-      "fecha": "2026-04-25",
+      "fuente": "EFE Verde",
+      "titular": "Un año después del 28A, el almacenamiento distribuido está ausente del debate sobre resiliencia. Por Iván Olivares (CEO de Vector Energy)",
+      "url": "https://efeverde.com/un-ano-despues-del-28a-el-almacenamiento-distribuido-esta-ausente-del-debate-sobre-resiliencia-por-ivan-olivares/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Gobierno encarga al comité científico que informe sobre el estado de conservación del salmón",
+      "url": "https://efeverde.com/gobierno-encarga-al-comite-cientifico-informe-estado-conservacion-salmon/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Tutti Frutti",
-      "url": "https://www.latercera.com/pulso/noticia/tutti-frutti/",
-      "fecha": "2026-04-25",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.latercera.com/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Cristian Garay: “La gente espera que el arbitraje sea perfecto, pero el fútbol no lo es y los jugadores tampoco”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/entrevista-a-garay/",
-      "fecha": "2026-04-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Pulso",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Ojalá algún día",
-      "url": "https://www.latercera.com/opinion/noticia/ojala-algun-dia/",
-      "fecha": "2026-04-25",
+      "fuente": "Pulso",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Ley de Glaciares: fallo judicial suspende reforma en Santa Cruz y frena actividades en zonas protegidas",
+      "url": "https://www.redimin.cl/ley-de-glaciares-fallo-judicial-suspende-reforma-en-santa-cruz-y-frena-actividades-en-zonas-protegidas/",
+      "fecha": "2026-04-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

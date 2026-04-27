@@ -1,17 +1,53 @@
 {
-  "fecha_generacion": "2026-04-26T07:56:23.883132-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-04-27T08:29:45.492058-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
       "fuente": "La Tercera",
-      "titular": "Cristian Garay: “La gente espera que el arbitraje sea perfecto, pero el fútbol no lo es y los jugadores tampoco”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/entrevista-a-garay/",
-      "fecha": "2026-04-25",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.latercera.com/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El réferi chileno de 37 años es uno de los 52 elegidos por la FIFA para el Mundial de Canadá, México y Estados Unidos 2026. \"Me costó entender que el descanso y la recuperación eran clave para rendir en la elite\", confiesa. El último juez nacional qu",
+      "extracto": "Marcela Godoy critica que a todas las cortes de esta especialidad le falten integrantes. Recuerda que el gobierno entrante retiró las nominaciones de ministros que había dejado la administración Boric. En cuanto al mensaje del Presidente Kast en favo",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Ley de Glaciares: fallo judicial suspende reforma en Santa Cruz y frena actividades en zonas protegidas",
+      "url": "https://www.redimin.cl/ley-de-glaciares-fallo-judicial-suspende-reforma-en-santa-cruz-y-frena-actividades-en-zonas-protegidas/",
+      "fecha": "2026-04-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Ley de Glaciares volvió al centro del debate en Argentina tras la decisión de la Justicia Federal de suspender la aplicación de su reforma en la provincia de Santa Cruz. La medida, dictada por el juez Claudio Marcelo Vázquez, establece un freno in",
+      "keywords_detectadas": [
+        "Ley de Glaciares"
       ]
     }
   ]
