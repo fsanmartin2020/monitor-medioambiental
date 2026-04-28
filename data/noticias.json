@@ -1,93 +1,301 @@
 {
-  "fecha_actualizacion": "2026-04-27T08:29:45.480130-04:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-04-28T08:40:48.637467-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Revtech lidera proyecto de alto impacto para revalorizar paneles solares y baterías en desuso",
-      "url": "https://www.paiscircular.cl/transicion-energetica/revtech/",
+      "titular": "Ezio Costa, director ejecutivo de FIMA, analiza propuestas sobre el SEA, SBAP y Tribunales Ambientales en el proyecto de Ley de Reconstrucción",
+      "url": "https://www.paiscircular.cl/medio-ambiente/ezio-costa-director-ejecutivo-de-fima-analiza-propuestas-sobre-el-sea-sbap-y-tribunales-ambientales-en-el-proyecto-de-ley-de-reconstruccion/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nuevo intento para salvar a la ballena Timmy: un sistema de arneses y una barcaza para llevarla al mar del Norte",
+      "url": "https://efeverde.com/nuevo-intento-para-salvar-a-timmy/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las aguas cálidas se acercan a la Antártida y amenazan con derretir el hielo desde abajo",
+      "url": "https://efeverde.com/aguas-calidas-se-acercan-a-antartida/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Descubren una nueva especie de ‘escarabajo araña’ en la reserva de la costa sur de Perú",
+      "url": "https://efeverde.com/nueva-especie-de-escarabajo-arana-peru/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Johan Rockström: «Las tecnologías que sustituyen a los combustibles fósiles son más baratas, más inteligentes y renovables»",
+      "url": "https://efeverde.com/johan-rockstrom-tecnologias-sustituyen-combustibles-fosiles-baratas/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Aagesen defiende la importancia de la cooperación para lograr la transición energética en Santa Marta",
+      "url": "https://efeverde.com/aagesen-impulsa-cooperacon-transicion-energetica-santa-marta/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "¿Y si prosperamos juntos, seres humanos y naturaleza? Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
+      "url": "https://efeverde.com/y-si-prosperamos-juntos-seres-humanos-y-naturaleza-por-maria-galvez-del-castillo-luna/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La conferencia sobre transición energética en Colombia da paso al segmento de alto nivel",
+      "url": "https://efeverde.com/la-conferencia-sobre-transicion-energetica-en-colombia-da-paso-al-segmento-de-alto-nivel/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Lecciones aprendidas del apagón: cómo evitar que vuelva a ocurrir un ‘cero eléctrico’",
+      "url": "https://efeverde.com/lecciones-aprendidas-del-apagon/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "¿Por qué se produjo el apagón? Las luces y sombras del ‘cero eléctrico’ un año después",
+      "url": "https://efeverde.com/por-que-se-produjo-el-apagon/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Travesía Circular inicia en Los Lagos con fuerte respaldo público-privado y posiciona a la región como referente en economía circular",
+      "url": "https://www.paiscircular.cl/economia-circular/travesia-circular-inicia-en-los-lagos-con-fuerte-respaldo-publico-privado-y-posiciona-a-la-region-como-referente-en-economia-circular/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Ignacio Santelices liderará ANESCO Chile en una nueva etapa para la eficiencia energética",
+      "url": "https://codexverde.cl/ignacio-santelices-liderara-anesco-chile/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Inauguran el primer centro científico de interés nacional especializado en suelos",
+      "url": "https://codexverde.cl/inauguran-el-primer-centro-cientifico-de-interes-nacional-especializado-en-suelos/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ausencia de «campanu» certifica el rápido y alarmante declive del salmón",
-      "url": "https://efeverde.com/la-ausencia-de-campanu-certifica-el-rapido-y-alarmante-declive-del-salmon/",
+      "titular": "Veneno, el lince «urbanita» que atrae un aluvión de curiosos a Cabañas de Yepes (Toledo)",
+      "url": "https://efeverde.com/veneno-el-lince-urbanita-toledo/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El apagón, un año después: ¿dónde estamos y qué hemos aprendido? Por Marga González (Genesal Energy)",
-      "url": "https://efeverde.com/el-apagon-un-ano-despues-donde-estamos-y-que-hemos-aprendido-por-marga-gonzalez/",
+      "titular": "Descubren en Ecuador un nuevo tipo de escarabajo",
+      "url": "https://efeverde.com/nuevo-tipo-de-escarabajo-ecuador/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Director de SEO/BirdLife Europa: España,a la vanguardia de la conservación de biodiversidad",
-      "url": "https://efeverde.com/director-de-seo-birdlife-europaespanaa-la-vanguardia-de-la-conservacion-de-biodiversidad/",
+      "titular": "Colombia y España renuevan su memorando de entendimiento en «transición energética justa»",
+      "url": "https://efeverde.com/colombia-espana-renuevan-memorando-entendimiento-en-transicion-energetica-justa/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Día Mundial del Veterinario. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-mundial-del-veterinario-por-victor-solis-visoor/",
+      "titular": "El biometano reabre el debate sobre su posible impacto ambiental en Las Tablas de Daimiel",
+      "url": "https://efeverde.com/biometano-posible-impacto-ambiental-en-tablas-de-daimiel/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un año después del 28A, el almacenamiento distribuido está ausente del debate sobre resiliencia. Por Iván Olivares (CEO de Vector Energy)",
-      "url": "https://efeverde.com/un-ano-despues-del-28a-el-almacenamiento-distribuido-esta-ausente-del-debate-sobre-resiliencia-por-ivan-olivares/",
+      "titular": "Carlos Nobre: Es esencial reducir las emisiones de combustibles fósiles para evitar un ecocidio",
+      "url": "https://efeverde.com/carlos-nobre-cientifico-reducir-combustibles-fosiles-evitar-ecocidio/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Gobierno encarga al comité científico que informe sobre el estado de conservación del salmón",
-      "url": "https://efeverde.com/gobierno-encarga-al-comite-cientifico-informe-estado-conservacion-salmon/",
+      "titular": "Indígenas piden en Santa Marta que nadie extraiga los recursos naturales de sus territorios",
+      "url": "https://efeverde.com/indigenas-piden-santa-marta-nadie-extraiga-recursos-naturales-territorios/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las principales petroleras ganarán casi 3.000 dólares por segundo en 2026",
+      "url": "https://efeverde.com/principales-petroleras-ganaran-3-000-dolares-segundo-2026/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Día del Pingüino: “Más que un ave que no vuela”",
+      "url": "https://www.terram.cl/dia-del-pinguino-mas-que-un-ave-que-no-vuela/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Indemnizar por RCA invalidada: una de las polémicas propuestas ambientales de la ‘Ley Miscelánea’",
+      "url": "https://www.terram.cl/indemnizar-por-rca-invalidada-una-de-las-polemicas-propuestas-ambientales-de-la-ley-miscelanea/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SMA confirma que la única denuncia ambiental de Rafael Prohens fue contra Confinor, firma que lo acusa de cohecho",
+      "url": "https://www.terram.cl/sma-confirma-que-la-unica-denuncia-ambiental-de-rafael-prohens-fue-contra-confinor-firma-que-lo-acusa-de-cohecho/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Salmoneras en la Patagonia: ¿qué pasa bajo la superficie?",
+      "url": "https://www.terram.cl/salmoneras-en-la-patagonia-que-pasa-bajo-la-superficie/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Avanza primera conferencia internacional para dejar de usar petróleo, gas y carbón, ante inercia de las COP",
+      "url": "https://www.terram.cl/avanza-primera-conferencia-internacional-para-dejar-de-usar-petroleo-gas-y-carbon-ante-inercia-de-las-cop/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Regeneración en Penco: A dos meses y medio de los incendios forestales 24 especies rebrotan",
+      "url": "https://www.terram.cl/regeneracion-en-penco-a-dos-meses-y-medio-de-los-incendios-forestales-24-especies-rebrotan/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Chile Sustentable y Chao Carbón advierten incumplimiento de la ley en cierre de termoeléctricas a carbón",
+      "url": "https://chilesustentable.net/2026/04/inserto-en-la-tercera-advierte-incumplimiento-de-la-ley-en-cierre-de-termoelectricas-a-carbon/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Chile Sustentable y Chao Carbón advierten incumplimiento de la ley en cierre de termoeléctricas a carbón",
+      "url": "https://chilesustentable.net/2026/04/inserto-en-la-tercera-advierte-incumplimiento-de-la-ley-en-cierre-de-termoelectricas-a-carbon/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Se realizó audiencia de alegatos en reclamación contra SMA que cursó infracción a centro de cultivo “Proyecto Piscicultura Quimeyco”",
+      "url": "https://3ta.cl/noticias/se-realizo-audiencia-de-alegatos-en-reclamacion-contra-sma-que-curso-infraccion-a-centro-de-cultivo-proyecto-piscicultura-quimeyco/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-56-2022 “Pedro Otto Schuler y otros con Ministerio del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-56-2022-pedro-otto-schuler-y-otros-con-ministerio-del-medio-ambiente/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Masiva celebración del Mes de la Tierra y del Libro en la Reserva Nacional Lago Peñuelas de Valparaíso",
+      "url": "https://www.conaf.cl/masiva-celebracion-del-mes-de-la-tierra-y-del-libro-en-la-reserva-nacional-lago-penuelas-de-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=masiva-celebracion-del-mes-de-la-tierra-y-del-libro-en-la-reserva-nacional-lago-penuelas-de-valparaiso",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y gremio forestal impulsan agenda colaborativa para reducir biomasa y prevenir incendios en Ñuble",
+      "url": "https://www.conaf.cl/conaf-y-gremio-forestal-impulsan-agenda-colaborativa-para-reducir-biomasa-y-prevenir-incendios-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-gremio-forestal-impulsan-agenda-colaborativa-para-reducir-biomasa-y-prevenir-incendios-en-nuble",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Se realizó curso internacional sobre conservación y restauración en áreas protegidas",
+      "url": "https://www.conaf.cl/se-realizo-curso-internacional-sobre-conservacion-y-restauracion-en-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=se-realizo-curso-internacional-sobre-conservacion-y-restauracion-en-areas-protegidas",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comienzan talleres para definir prioridades de conservación en el Biobío",
+      "url": "https://mma.gob.cl/comienzan-talleres-para-definir-prioridades-de-conservacion-en-el-biobio/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.latercera.com/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "titular": "PC aleona fuerzas aliadas a convertir 1° de Mayo en el primer gran hito de expresión callejera contra Kast",
+      "url": "https://www.latercera.com/politica/noticia/pc-aleona-fuerzas-aliadas-a-convertir-1-de-mayo-en-el-primer-gran-hito-de-expresion-callejera-contra-kast/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Pulso",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fuente": "La Nación",
+      "titular": "SEA da luz verde y recomienda aprobar Línea 8 del Metro: busca conectar Providencia con Puente Alto",
+      "url": "https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/",
       "fecha": "2026-04-27",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
-      "fecha": "2026-04-27",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Ley de Glaciares: fallo judicial suspende reforma en Santa Cruz y frena actividades en zonas protegidas",
-      "url": "https://www.redimin.cl/ley-de-glaciares-fallo-judicial-suspende-reforma-en-santa-cruz-y-frena-actividades-en-zonas-protegidas/",
-      "fecha": "2026-04-26",
+      "titular": "AbraSilver obtiene la DIA para Diablillos: el proyecto con más de 150.000 metros perforados entra en fase decisiva",
+      "url": "https://www.redimin.cl/abrasilver-obtiene-la-dia-para-diablillos-el-proyecto-con-mas-de-150-000-metros-perforados-entra-en-fase-decisiva/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,53 +1,78 @@
 {
-  "fecha_generacion": "2026-04-27T08:29:45.492058-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-04-28T08:40:48.653287-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.latercera.com/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fuente": "País Circular",
+      "titular": "Ezio Costa, director ejecutivo de FIMA, analiza propuestas sobre el SEA, SBAP y Tribunales Ambientales en el proyecto de Ley de Reconstrucción",
+      "url": "https://www.paiscircular.cl/medio-ambiente/ezio-costa-director-ejecutivo-de-fima-analiza-propuestas-sobre-el-sea-sbap-y-tribunales-ambientales-en-el-proyecto-de-ley-de-reconstruccion/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa legal presentada hace una semana por el gobierno del presidente José Antonio Kast contiene una serie de acápites que buscan modificar la institucionalidad ambiental, en particular las leyes 19.300, 20.600 y 21.600. “Las propuestas avanz",
+      "keywords_detectadas": [
+        "SEA",
+        "Tribunales Ambientales"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Indemnizar por RCA invalidada: una de las polémicas propuestas ambientales de la ‘Ley Miscelánea’",
+      "url": "https://www.terram.cl/indemnizar-por-rca-invalidada-una-de-las-polemicas-propuestas-ambientales-de-la-ley-miscelanea/",
       "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Marcela Godoy critica que a todas las cortes de esta especialidad le falten integrantes. Recuerda que el gobierno entrante retiró las nominaciones de ministros que había dejado la administración Boric. En cuanto al mensaje del Presidente Kast en favo",
+      "extracto": "Eximir de evaluación ambiental a las relocalizaciones acuícolas y postergar la implementación del Servicio de Biodiversidad y Áreas Protegidas son otros planteamientos gubernamentales cuestionados. Fuente: InduAmbiente, 23 de abril de 2026.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "RCA"
       ]
     },
     {
-      "fuente": "Pulso",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fuente": "Terram",
+      "titular": "SMA confirma que la única denuncia ambiental de Rafael Prohens fue contra Confinor, firma que lo acusa de cohecho",
+      "url": "https://www.terram.cl/sma-confirma-que-la-unica-denuncia-ambiental-de-rafael-prohens-fue-contra-confinor-firma-que-lo-acusa-de-cohecho/",
       "fecha": "2026-04-27",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Superintendencia del Medioambiente confirma que la única denuncia ambiental de Rafael Prohens fue contra Confinor, empresa que lo acusa de cohecho. Fuente: El Desconcierto, 26 de abril de 2026.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
       ]
     },
     {
-      "fuente": "Pulso",
-      "titular": "Presidenta del 2° Tribunal Ambiental de Santiago: “Parece impresentable que desde 2020 tengamos cargos vacantes”",
-      "url": "https://www.pulso.cl/pulso/noticia/presidenta-del-2-tribunal-ambiental-de-santiago-parece-impresentable-que-desde-2020-tengamos-cargos-vacantes/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Se realizó audiencia de alegatos en reclamación contra SMA que cursó infracción a centro de cultivo “Proyecto Piscicultura Quimeyco”",
+      "url": "https://3ta.cl/noticias/se-realizo-audiencia-de-alegatos-en-reclamacion-contra-sma-que-curso-infraccion-a-centro-de-cultivo-proyecto-piscicultura-quimeyco/",
       "fecha": "2026-04-27",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La empresa solicitó al Tribunal dejar sin efecto la resolución de la SMA declarando decaimiento del procedimiento sancionatorio. En diciembre del año 2025, la Sociedad Comercial Agrícola y Forestal Quimeyco Ltda. fue sancionada por la Superintendenci",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Nación",
+      "titular": "SEA da luz verde y recomienda aprobar Línea 8 del Metro: busca conectar Providencia con Puente Alto",
+      "url": "https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/",
+      "fecha": "2026-04-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental (SEA) recomendó este lunes aprobar el proyecto de la Línea 8 del Metro de Santiago, que conectará seis comunas de la Región Metropolitana. El organismo dio luz verde a la iniciativa ingresada en 2024 mediante el In",
+      "keywords_detectadas": [
+        "SEA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Ley de Glaciares: fallo judicial suspende reforma en Santa Cruz y frena actividades en zonas protegidas",
-      "url": "https://www.redimin.cl/ley-de-glaciares-fallo-judicial-suspende-reforma-en-santa-cruz-y-frena-actividades-en-zonas-protegidas/",
-      "fecha": "2026-04-26",
+      "titular": "AbraSilver obtiene la DIA para Diablillos: el proyecto con más de 150.000 metros perforados entra en fase decisiva",
+      "url": "https://www.redimin.cl/abrasilver-obtiene-la-dia-para-diablillos-el-proyecto-con-mas-de-150-000-metros-perforados-entra-en-fase-decisiva/",
+      "fecha": "2026-04-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Ley de Glaciares volvió al centro del debate en Argentina tras la decisión de la Justicia Federal de suspender la aplicación de su reforma en la provincia de Santa Cruz. La medida, dictada por el juez Claudio Marcelo Vázquez, establece un freno in",
+      "extracto": "El proyecto Diablillos, de plata y oro en Argentina, recibió la Declaración de Impacto Ambiental en Salta, un permiso clave para avanzar hacia construcción y futura operación. El hito llega mientras AbraSilver mantiene en curso el proceso ambiental d",
       "keywords_detectadas": [
-        "Ley de Glaciares"
+        "DIA"
       ]
     }
   ]
