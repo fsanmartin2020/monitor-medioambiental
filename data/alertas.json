@@ -1,78 +1,65 @@
 {
-  "fecha_generacion": "2026-04-28T08:40:48.653287-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-04-29T08:30:24.434657-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Ezio Costa, director ejecutivo de FIMA, analiza propuestas sobre el SEA, SBAP y Tribunales Ambientales en el proyecto de Ley de Reconstrucción",
-      "url": "https://www.paiscircular.cl/medio-ambiente/ezio-costa-director-ejecutivo-de-fima-analiza-propuestas-sobre-el-sea-sbap-y-tribunales-ambientales-en-el-proyecto-de-ley-de-reconstruccion/",
+      "fuente": "Terram",
+      "titular": "CDE rechaza acuerdo por caso Quiborax y el 1TA reabriría juicio por daño ambiental",
+      "url": "https://www.terram.cl/cde-rechaza-acuerdo-por-caso-quiborax-y-el-1ta-reabriria-juicio-por-dano-ambiental/",
       "fecha": "2026-04-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa legal presentada hace una semana por el gobierno del presidente José Antonio Kast contiene una serie de acápites que buscan modificar la institucionalidad ambiental, en particular las leyes 19.300, 20.600 y 21.600. “Las propuestas avanz",
+      "extracto": "En noviembre del 2025 el 1TA abrió un periodo de 'amigable componedor' que buscaba un acuerdo entre las partes. Fuente: El Mercurio, 27 de abril de 2026.",
       "keywords_detectadas": [
-        "SEA",
-        "Tribunales Ambientales"
+        "daño ambiental"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "Indemnizar por RCA invalidada: una de las polémicas propuestas ambientales de la ‘Ley Miscelánea’",
-      "url": "https://www.terram.cl/indemnizar-por-rca-invalidada-una-de-las-polemicas-propuestas-ambientales-de-la-ley-miscelanea/",
-      "fecha": "2026-04-27",
+      "titular": "Acuerdo de Escazú: la cuarta conferencia cierra con intensos debates sobre los defensores ambientales y acceso a la justicia",
+      "url": "https://www.terram.cl/acuerdo-de-escazu-la-cuarta-conferencia-cierra-con-intensos-debates-sobre-los-defensores-ambientales-y-acceso-a-la-justicia/",
+      "fecha": "2026-04-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Eximir de evaluación ambiental a las relocalizaciones acuícolas y postergar la implementación del Servicio de Biodiversidad y Áreas Protegidas son otros planteamientos gubernamentales cuestionados. Fuente: InduAmbiente, 23 de abril de 2026.",
+      "extracto": "La Cuarta Conferencia de las Partes del Acuerdo de Escazú se realizó en Nassau, Bahamas, entre el 21 y 24 de abril. Durante la cita se debatieron temas relevantes como acceso a la justicia, la elaboración de un registro de emisiones contaminantes y l",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-3-2026 “Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-3-2026-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-3-2026 “Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente”, que se realiza el miércoles 29 de abril, a l",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Comité de Ministros ratifica RCA de dos proyectos del sector energético",
+      "url": "https://www.revistaei.cl/comite-de-ministros-ratifica-rca-de-dos-proyectos-del-sector-energetico/",
+      "fecha": "2026-04-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "\"Nuestro objetivo es agilizar los procesos, porque no hay gestión ambiental real si no cumplimos nuestros propios plazos\", expresó la ministra del Medio Ambiente. La entrada Comité de Ministros ratifica RCA de dos proyectos del sector energético se p",
       "keywords_detectadas": [
         "RCA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "SMA confirma que la única denuncia ambiental de Rafael Prohens fue contra Confinor, firma que lo acusa de cohecho",
-      "url": "https://www.terram.cl/sma-confirma-que-la-unica-denuncia-ambiental-de-rafael-prohens-fue-contra-confinor-firma-que-lo-acusa-de-cohecho/",
-      "fecha": "2026-04-27",
+      "fuente": "REDIMIN",
+      "titular": "Comité de Ministros del SEA revisa 4 proyectos por US$400 millones y tensiona el nuevo ritmo ambiental",
+      "url": "https://www.redimin.cl/comite-de-ministros-del-sea-revisa-4-proyectos-por-us400-millones-y-tensiona-el-nuevo-ritmo-ambiental/",
+      "fecha": "2026-04-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Superintendencia del Medioambiente confirma que la única denuncia ambiental de Rafael Prohens fue contra Confinor, empresa que lo acusa de cohecho. Fuente: El Desconcierto, 26 de abril de 2026.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Se realizó audiencia de alegatos en reclamación contra SMA que cursó infracción a centro de cultivo “Proyecto Piscicultura Quimeyco”",
-      "url": "https://3ta.cl/noticias/se-realizo-audiencia-de-alegatos-en-reclamacion-contra-sma-que-curso-infraccion-a-centro-de-cultivo-proyecto-piscicultura-quimeyco/",
-      "fecha": "2026-04-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La empresa solicitó al Tribunal dejar sin efecto la resolución de la SMA declarando decaimiento del procedimiento sancionatorio. En diciembre del año 2025, la Sociedad Comercial Agrícola y Forestal Quimeyco Ltda. fue sancionada por la Superintendenci",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Nación",
-      "titular": "SEA da luz verde y recomienda aprobar Línea 8 del Metro: busca conectar Providencia con Puente Alto",
-      "url": "https://www.lanacion.cl/sea-da-luz-verde-y-recomienda-aprobar-linea-8-del-metro-busca-conectar-providencia-con-puente-alto/",
-      "fecha": "2026-04-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental (SEA) recomendó este lunes aprobar el proyecto de la Línea 8 del Metro de Santiago, que conectará seis comunas de la Región Metropolitana. El organismo dio luz verde a la iniciativa ingresada en 2024 mediante el In",
+      "extracto": "El Comité de Ministros del SEA volvió a poner bajo revisión proyectos ambientales relevantes para minería, energía e infraestructura. En una nueva sesión, la instancia analizó cuatro iniciativas que suman cerca de US$400 millones, en medio del impuls",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "AbraSilver obtiene la DIA para Diablillos: el proyecto con más de 150.000 metros perforados entra en fase decisiva",
-      "url": "https://www.redimin.cl/abrasilver-obtiene-la-dia-para-diablillos-el-proyecto-con-mas-de-150-000-metros-perforados-entra-en-fase-decisiva/",
-      "fecha": "2026-04-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto Diablillos, de plata y oro en Argentina, recibió la Declaración de Impacto Ambiental en Salta, un permiso clave para avanzar hacia construcción y futura operación. El hito llega mientras AbraSilver mantiene en curso el proceso ambiental d",
-      "keywords_detectadas": [
-        "DIA"
       ]
     }
   ]
