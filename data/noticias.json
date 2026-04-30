@@ -1,285 +1,293 @@
 {
-  "fecha_actualizacion": "2026-04-29T08:30:24.421053-04:00",
-  "total": 35,
+  "fecha_actualizacion": "2026-04-30T08:26:54.966443-04:00",
+  "total": 36,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "A 10 años de la REP, Panel de Expertos reprueba el desempeño estatal, aprueba con lo mínimo a los sistemas de gestión y destaca a gestores y recicladores",
-      "url": "https://www.paiscircular.cl/economia-circular/a-10-anos-de-la-rep-panel-de-expertos-desaprueba-rol-del-estado-aprueba-con-lo-minimo-a-los-sistemas-de-gestion-y-destaca-a-gestores-y-recicladores/",
-      "fecha": "2026-04-29",
+      "titular": "Alelí Natural innova con producto cosmético premium hecho a partir de orujo de uva",
+      "url": "https://www.paiscircular.cl/economia-circular/aleli/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La CE denuncia a España ante el Tribunal de Justicia de la Unión Europea por incumplir la Directiva sobre aguas residuales urbanas",
-      "url": "https://efeverde.com/ce-denuncia-espana-por-incumplir-directiva-sobre-aguas-residuales-urbanas/",
-      "fecha": "2026-04-29",
+      "titular": "Operación «liberar a Timmy» y sus rescatadores, ¿héroes o villanos?",
+      "url": "https://efeverde.com/operacion-liberar-a-timmy-y-sus-rescatadores-heroes-o-villanos/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El ruido, la contaminación que no se ve pero que deja huella en la salud de las personas",
-      "url": "https://efeverde.com/ruido-la-contaminacion-que-no-se-ve-pero-deja-huella-en-la-salud-de-las-personas/",
-      "fecha": "2026-04-29",
+      "titular": "Barcos fantasma. Por May",
+      "url": "https://efeverde.com/barcos-fantasma-mundomay-may/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Petro cuestiona que el capitalismo se pueda adaptar «a un modo de energía no fósil»",
-      "url": "https://efeverde.com/petro-cuestiona-capitalismo-puede-adaptarse-energia-no-fosil/",
-      "fecha": "2026-04-29",
+      "titular": "El Parque Nacional de Cabañeros registra, por primera vez en su historia, el nacimiento de una camada de lince ibérico",
+      "url": "https://efeverde.com/parque-nacional-cabaneros-por-primera-vez-nacimiento-de-camada-de-lince-iberico/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ballena Timmy, más cerca de la libertad: la transportan en gabarra hacia mar abierto",
-      "url": "https://efeverde.com/timmy-libertad-transportan-gabarra-mar-abierto/",
-      "fecha": "2026-04-29",
+      "titular": "Más de 50 países sientan las bases en Santa Marta para poner fin a la era de los combustibles fósiles",
+      "url": "https://efeverde.com/centenar-paises-santa-marta-fin-era-combustibles-fosiles/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Optimismo comprometido, ciencia ambiental y protección para la avifauna en Mangas Verdes 486",
-      "url": "https://efeverde.com/optimismo-comprometido-ciencia-ambiental-proteccion-avifauna-mangas-verdes-486/",
-      "fecha": "2026-04-29",
+      "titular": "Chernobyl, a 40 años. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/chernobyl-a-40-anos/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El mundo necesita un plan para dejar los combustibles fósiles sin dejar a nadie atrás ¿Puede Santa Marta ser el punto de partida? Por Gladys Martínez de Lemos (Asociación Interamericana para la Defensa del Ambiente)",
-      "url": "https://efeverde.com/el-mundo-necesita-un-plan-para-dejar-los-combustibles-fosiles-sin-dejar-a-nadie-atras-puede-santa-marta-ser-el-punto-de-partida-por-gladys-martinez-de-lemos/",
-      "fecha": "2026-04-29",
+      "titular": "La conferencia de Santa Marta (Colombia) cierra con un plan para acelerar el abandono de los combustibles fósiles",
+      "url": "https://efeverde.com/la-conferencia-de-santa-marta-colombia-cierra-con-un-plan-para-acelerar-el-abandono-de-los-combustibles-fosiles/",
+      "fecha": "2026-04-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los expertos llaman a la calma: no hay más peligro por las orcas en Galicia y el Cantábrico",
-      "url": "https://efeverde.com/no-hay-mas-peligro-por-orcas-en-galicia-y-el-cantabrico/",
+      "titular": "Reorientar los subsidios agrícolas para un triple beneficio: ambiental, humano y económico",
+      "url": "https://efeverde.com/reorientar-los-subsidios-agricolas-para-un-triple-beneficio-ambiental-humano-y-economico/",
+      "fecha": "2026-04-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "El costo de la urgencia",
+      "url": "https://www.paiscircular.cl/opinion/proyecto-reconstruccion-el-costo-de-la-urgencia/",
       "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Waves of tomorrow: La docuserie que busca acercarnos de la biodiversidad marina para salvarla",
-      "url": "https://efeverde.com/waves-of-tomorrow-la-docuserie-que-busca-acercarnos-de-la-biodiversidad-marina-para-salvarla/",
+      "fuente": "País Circular",
+      "titular": "Científicos se reunieron en Chile para discutir sobre los impactos y desafíos del cambio climático en América Latina",
+      "url": "https://www.paiscircular.cl/medio-ambiente/cientifi-cos-se-reunieron-en-chile-para-discutir-sobre-los-impactos-y-desafios-del-cambio-climatico-en-america-latina/",
       "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El 95% de Europa registró temperaturas sobre la media en un 2025 en el que España «ardió»",
-      "url": "https://efeverde.com/el-95-de-europa-registro-temperaturas-sobre-la-media-en-un-2025-en-el-que-espana-ardio/",
+      "fuente": "País Circular",
+      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
       "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El riesgo ambiental de la flota fantasma: una bomba climática que amenaza con teñir de negro el mar",
-      "url": "https://efeverde.com/riesgo-ambiental-flota-fantasma-amenaza-tenir-negro-mar/",
+      "fuente": "País Circular",
+      "titular": "Comité de Ministros revisa 2 proyectos de inversión por US$225 millones",
+      "url": "https://www.paiscircular.cl/medio-ambiente/comite-de-ministros-revisa-2-proyectos-de-inversion-por-us225-millones/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "NOVANDINO LITIO OBTIENE APROBACIÓN AMBIENTAL UNÁNIME PARA REDUCIR EXTRACCIÓN DE AGUA Y SALMUERA",
+      "url": "https://www.chiledesarrollosustentable.cl/novandino-litio-obtiene-aprobacion-ambiental-unanime-para-reducir-extraccion-de-agua-y-salmuera/?utm_source=rss&utm_medium=rss&utm_campaign=novandino-litio-obtiene-aprobacion-ambiental-unanime-para-reducir-extraccion-de-agua-y-salmuera",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "LOS MÚSCULOS ‘HABLAN’ CON TODO EL CUERPO: LA REVOLUCIÓN CIENTÍFICA QUE CAMBIA LA VISIÓN DEL EJERCICIO",
+      "url": "https://www.chiledesarrollosustentable.cl/los-musculos-hablan-con-todo-el-cuerpo-la-revolucion-cientifica-que-cambia-la-vision-del-ejercicio/?utm_source=rss&utm_medium=rss&utm_campaign=los-musculos-hablan-con-todo-el-cuerpo-la-revolucion-cientifica-que-cambia-la-vision-del-ejercicio",
       "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Chile en Santa Marta: los datos que muestran por qué el país no puede postergar la salida del petróleo",
-      "url": "https://codexverde.cl/chile-en-santa-marta-los-datos-que-muestran-por-que-el-pais-no-puede-postergar-la-salida-del-petroleo/",
-      "fecha": "2026-04-28",
+      "titular": "FAMA selecciona 21 propuestas de Forjadores Ambientales para impulsar acciones locales en educación y participación ciudadana",
+      "url": "https://codexverde.cl/fama-selecciona-21-propuestas-de-forjadores-ambientales-para-impulsar-acciones-locales-en-educacion-y-participacion-ciudadana/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Megatransecto Patagonia: la expedición científica que busca proteger los bosques de algas gigantes",
+      "url": "https://codexverde.cl/expedicion-cientifica-busca-proteger-los-bosques-de-algas-gigantes/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "La grieta en el mapa del carbón",
+      "url": "https://codexverde.cl/la-grieta-en-el-mapa-del-carbon/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "«Hacer visible lo invisible»: pequeños empujoncitos frente al problema abstracto del cambio climático",
-      "url": "https://efeverde.com/hacer-visible-lo-invisible-pequenos-empujoncitos-frente-al-problema-abstracto-del-cambio-climatico/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La injusticia de la transición energética: los costes de extraer minerales críticos recaen en los más vulnerables",
-      "url": "https://efeverde.com/costes-minerales-criticos-pobres/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descarbonizar las balanzas comerciales, debate en la conferencia de transición energética en Santa Marta (Colombia)",
-      "url": "https://efeverde.com/descarbonizar-balanzas-comerciales-debate-conferencia-santa-marta-colombia/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un magnate indio propone acoger en su centro de rescate a 80 hipopótamos del narcotraficante Pablo Escobar destinados a la eutanasia",
-      "url": "https://efeverde.com/magnate-indio-hipopotamos-narcotraficante-pablo-escobar/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Aagesen cree que quienes demonizaron las renovables por el apagón se equivocaron",
-      "url": "https://efeverde.com/aagesen-demonizaron-renovables-apagon-equivocaron/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La cuarta parte de los anfibios presentes en España está amenazada",
-      "url": "https://efeverde.com/cuarta-parte-de-anfibios-espana-esta-amenazada/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Parlamento Europeo da luz verde a la primera legislación comunitaria para mejorar el bienestar de perros y gatos",
-      "url": "https://efeverde.com/luz-verde-primera-legislacion-comunitaria-para-mejorar-bienestar-perros-y-gatos/",
-      "fecha": "2026-04-28",
+      "titular": "Oxfam pide en Santa Marta que el abandono de los combustibles fósiles considere las alternativas comunitarias",
+      "url": "https://efeverde.com/oxfam-abandono-de-combustibles-fosiles/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "CDE rechaza acuerdo por caso Quiborax y el 1TA reabriría juicio por daño ambiental",
-      "url": "https://www.terram.cl/cde-rechaza-acuerdo-por-caso-quiborax-y-el-1ta-reabriria-juicio-por-dano-ambiental/",
-      "fecha": "2026-04-28",
+      "titular": "Comité de Ministros da luz verde a proyectos Hidrógeno Verde Bahía Quintero y Nuevas Lagunas-Kimal",
+      "url": "https://www.terram.cl/comite-de-ministros-da-luz-verde-a-proyectos-hidrogeno-verde-bahia-quintero-y-nuevas-lagunas-kimal/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Poduje tacha de “locura” la Ley de Humedales pero en 2018 felicitó a De Urresti por impulsarla en el Senado",
-      "url": "https://www.terram.cl/poduje-tacha-de-locura-la-ley-de-humedales-pero-en-2018-felicito-a-de-urresti-por-impulsarla-en-el-senado/",
-      "fecha": "2026-04-28",
+      "titular": "Escala polémica por Ley de Humedales: Kast defiende a Poduje mientras el Senado y expertos refutan dichos del ministro",
+      "url": "https://www.terram.cl/escala-polemica-por-ley-de-humedales-kast-defiende-a-poduje-mientras-el-senado-y-expertos-refutan-dichos-del-ministro/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Gobierno confirma que no reingresará la nueva Ley de Pesca de la administración anterior “por motivos técnicos y políticos”",
-      "url": "https://www.terram.cl/gobierno-confirma-que-no-reingresara-la-nueva-ley-de-pesca-de-la-administracion-anterior-por-motivos-tecnicos-y-politicos/",
-      "fecha": "2026-04-28",
+      "titular": "La “trampa” económica que frena el fin de los combustibles fósiles y abre debate en Conferencia de Santa Marta",
+      "url": "https://www.terram.cl/la-trampa-economica-que-frena-el-fin-de-los-combustibles-fosiles-y-abre-debate-en-conferencia-de-santa-marta/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Bío Bío: presentan 7 reclamaciones contra declaratoria de Rocuant – Andalién como humedal urbano",
-      "url": "https://www.terram.cl/bio-bio-presentan-7-reclamaciones-contra-declaratoria-de-rocuant-andalien-como-humedal-urbano/",
-      "fecha": "2026-04-28",
+      "titular": "A 10 años de la REP, Panel de Expertos reprueba el desempeño estatal, aprueba con lo mínimo a los sistemas de gestión y destaca a gestores y recicladores",
+      "url": "https://www.terram.cl/a-10-anos-de-la-rep-panel-de-expertos-reprueba-el-desempeno-estatal-aprueba-con-lo-minimo-a-los-sistemas-de-gestion-y-destaca-a-gestores-y-recicladores/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Acuerdo de Escazú: la cuarta conferencia cierra con intensos debates sobre los defensores ambientales y acceso a la justicia",
-      "url": "https://www.terram.cl/acuerdo-de-escazu-la-cuarta-conferencia-cierra-con-intensos-debates-sobre-los-defensores-ambientales-y-acceso-a-la-justicia/",
-      "fecha": "2026-04-28",
+      "titular": "Aysén se posiciona como la primera comuna con excelencia ambiental en la región",
+      "url": "https://www.terram.cl/aysen-se-posiciona-como-la-primera-comuna-con-excelencia-ambiental-en-la-region/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Medio Ambiente Buscan rescatar «la Huella de Gorbea», planta en peligro crítico en La Araucanía",
-      "url": "https://www.terram.cl/medio-ambiente-buscan-rescatar-la-huella-de-gorbea-planta-en-peligro-critico-en-la-araucania/",
-      "fecha": "2026-04-28",
+      "titular": "El mapa oculto de los arrecifes chilenos",
+      "url": "https://www.terram.cl/el-mapa-oculto-de-los-arrecifes-chilenos/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-3-2026 “Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-3-2026-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-28",
+      "fuente": "FIMA",
+      "titular": "Escazú y clima: derechos de acceso como herramienta de cambio",
+      "url": "https://www.fima.cl/2026/04/29/escazu-y-clima-derechos-de-acceso-como-herramienta-de-cambio/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Boletín N°67 de Jurisprudencia Ambiental",
-      "url": "https://3ta.cl/noticias/boletin-n67-de-jurisprudencia-ambiental/",
-      "fecha": "2026-04-28",
+      "fuente": "Chile Sustentable",
+      "titular": "Chile Sustentable y Chao Carbón advierten incumplimiento de la ley en cierre de termoeléctricas a carbón",
+      "url": "https://chilesustentable.net/2026/04/minuta-observaciones-ciudadanas-al-proyecto-de-reglamento-del-sistema-nacional-de-areas-protegidas-ley-n-21-600-finales-de-abril-2026/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Actas de evaluacion emitidas por las comisiones evaluadoras de licitaciones",
-      "url": "https://www.sernapesca.cl/actas-de-evaluacion-emitidas-por-las-comisiones-evaluadoras-de-licitaciones/",
-      "fecha": "2026-04-28",
+      "fuente": "Chile Sustentable",
+      "titular": "Minuta de observaciones de Chile Sustentable al proyecto de Reglamento del Sistema Nacional de Áreas Protegidas Ley N° 21.600 (finales de abril, 2026)",
+      "url": "https://chilesustentable.net/2026/04/minuta-observaciones-ciudadanas-al-proyecto-de-reglamento-del-sistema-nacional-de-areas-protegidas-ley-n-21-600-finales-de-abril-2026/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo profesional con funciones de encargadoa del area juridica escalafon profesional a contrata asimilado a grado 14 de la e u s para la dr de m",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-profesional-con-funciones-de-encargadoa-del-area-juridica-escalafon-profesional-a-contrata-asimilado-a-grado-14-de-la-e-u-s-para-la-dr-de-m/",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "El 1°  de mayo entra en vigencia nuevo sistema tarifario para el Parque Nacional Torres del Paine",
-      "url": "https://www.conaf.cl/el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=el-1-de-mayo-entra-en-vigencia-nuevo-sistema-tarifario-para-el-parque-nacional-torres-del-paine",
-      "fecha": "2026-04-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble refuerza capacitación de funcionarios ante alerta regional por influenza aviar",
-      "url": "https://www.conaf.cl/conaf-nuble-refuerza-capacitacion-de-funcionarios-ante-alerta-regional-por-influenza-aviar/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-capacitacion-de-funcionarios-ante-alerta-regional-por-influenza-aviar",
-      "fecha": "2026-04-28",
+      "fuente": "SMA",
+      "titular": "Día Internacional de la Conciencia sobre el Ruido: SMA destaca nueva normativa y refuerza gestión territorial ante aumento de denuncias",
+      "url": "https://portal.sma.gob.cl/index.php/dia-internacional-de-la-conciencia-sobre-el-ruido-sma-destaca-nueva-normativa-y-refuerza-gestion-territorial-ante-aumento-de-denuncias/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile avanza en la mitigación del ruido submarino con taller internacional especializado",
-      "url": "https://mma.gob.cl/chile-avanza-en-la-mitigacion-del-ruido-submarino-con-taller-internacional-especializado/",
-      "fecha": "2026-04-28",
+      "titular": "Lautaro inicia el monitoreo exploratorio de la calidad del aire",
+      "url": "https://mma.gob.cl/lautaro-inicia-el-monitoreo-exploratorio-de-la-calidad-del-aire/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Despliegue del subsecretario del Medio Ambiente en Aysén refuerza trabajo conjunto por la calidad del aire",
+      "url": "https://mma.gob.cl/despliegue-del-subsecretario-del-medio-ambiente-en-aysen-refuerza-trabajo-conjunto-por-la-calidad-del-aire/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Recicladores de base de Valparaíso son capacitados para avanzar en su certificación laboral",
+      "url": "https://mma.gob.cl/recicladores-de-base-de-valparaiso-son-capacitados-para-avanzar-en-su-certificacion-laboral/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Municipalidad de Aysén recibe certificación ambiental de excelencia",
+      "url": "https://mma.gob.cl/municipalidad-de-aysen-recibe-certificacion-ambiental-de-excelencia/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Flora y fauna están ayudando a salvar al vino chileno de los efectos del cambio climático",
-      "url": "https://www.latercera.com/videos/noticia/flora-y-fauna-estan-ayudando-a-salvar-al-vino-chileno-de-los-efectos-del-cambio-climatico/",
-      "fecha": "2026-04-28",
+      "titular": "Desproporción",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/desproporcion/",
+      "fecha": "2026-04-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Cuenta Pública: Segundo Tribunal Ambiental destaca solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.mch.cl/cuenta-publica-segundo-tribunal-ambiental-destaca-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Comité de Ministros ratifica RCA de dos proyectos del sector energético",
-      "url": "https://www.revistaei.cl/comite-de-ministros-ratifica-rca-de-dos-proyectos-del-sector-energetico/",
-      "fecha": "2026-04-28",
+      "titular": "Reporte mensual de la CNE destaca 196 proyectos ERNC en etapa de construcción",
+      "url": "https://www.revistaei.cl/reporte-mensual-de-la-cne-destaca-196-proyectos-ernc-en-etapa-de-construccion/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Comité de Ministros del SEA revisa 4 proyectos por US$400 millones y tensiona el nuevo ritmo ambiental",
-      "url": "https://www.redimin.cl/comite-de-ministros-del-sea-revisa-4-proyectos-por-us400-millones-y-tensiona-el-nuevo-ritmo-ambiental/",
-      "fecha": "2026-04-28",
+      "titular": "Novandino Litio: proyecto eléctrico de US$85 millones entra al SEA y expone el nuevo foco del Salar de Atacama",
+      "url": "https://www.redimin.cl/novandino-litio-proyecto-electrico-de-us85-millones-entra-al-sea-y-expone-el-nuevo-foco-del-salar-de-atacama/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

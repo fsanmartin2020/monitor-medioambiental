@@ -1,63 +1,63 @@
 {
-  "fecha_generacion": "2026-04-29T08:30:24.434657-04:00",
+  "fecha_generacion": "2026-04-30T08:26:54.980620-04:00",
   "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "CDE rechaza acuerdo por caso Quiborax y el 1TA reabriría juicio por daño ambiental",
-      "url": "https://www.terram.cl/cde-rechaza-acuerdo-por-caso-quiborax-y-el-1ta-reabriria-juicio-por-dano-ambiental/",
-      "fecha": "2026-04-28",
+      "fuente": "País Circular",
+      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En noviembre del 2025 el 1TA abrió un periodo de 'amigable componedor' que buscaba un acuerdo entre las partes. Fuente: El Mercurio, 27 de abril de 2026.",
+      "extracto": "Durante la ceremonia, la ministra presidenta (s), Marcela Godoy Flores, destacó que, pese al escenario de alta exigencia y las vacantes en la integración, la magistratura logró elevar su capacidad resolutiva en un 21%, reafirmando su compromiso con u",
       "keywords_detectadas": [
-        "daño ambiental"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Acuerdo de Escazú: la cuarta conferencia cierra con intensos debates sobre los defensores ambientales y acceso a la justicia",
-      "url": "https://www.terram.cl/acuerdo-de-escazu-la-cuarta-conferencia-cierra-con-intensos-debates-sobre-los-defensores-ambientales-y-acceso-a-la-justicia/",
-      "fecha": "2026-04-28",
+      "fuente": "FIMA",
+      "titular": "Escazú y clima: derechos de acceso como herramienta de cambio",
+      "url": "https://www.fima.cl/2026/04/29/escazu-y-clima-derechos-de-acceso-como-herramienta-de-cambio/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Cuarta Conferencia de las Partes del Acuerdo de Escazú se realizó en Nassau, Bahamas, entre el 21 y 24 de abril. Durante la cita se debatieron temas relevantes como acceso a la justicia, la elaboración de un registro de emisiones contaminantes y l",
+      "extracto": "El libro impulsado por ONG FIMA reúne experiencias de América Latina y el Caribe para mostrar cómo los derechos de acceso son herramientas concretas para enfrentar la crisis climática desde la democracia. Cuenta con la participación de organizaciones",
       "keywords_detectadas": [
         "Escazú"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-3-2026 “Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-3-2026-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-28",
+      "fuente": "SMA",
+      "titular": "Día Internacional de la Conciencia sobre el Ruido: SMA destaca nueva normativa y refuerza gestión territorial ante aumento de denuncias",
+      "url": "https://portal.sma.gob.cl/index.php/dia-internacional-de-la-conciencia-sobre-el-ruido-sma-destaca-nueva-normativa-y-refuerza-gestion-territorial-ante-aumento-de-denuncias/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-3-2026 “Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente”, que se realiza el miércoles 29 de abril, a l",
+      "extracto": "Durante el primer trimestre de 2026, las denuncias por ruido han aumentado un 24% respecto al mismo periodo del año anterior, totalizando 1.381 ingresos. La institución ha ejecutado 305 fiscalizaciones en lo que va del año y mantiene un fortalecimien",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "SMA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Comité de Ministros ratifica RCA de dos proyectos del sector energético",
-      "url": "https://www.revistaei.cl/comite-de-ministros-ratifica-rca-de-dos-proyectos-del-sector-energetico/",
-      "fecha": "2026-04-28",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Cuenta Pública: Segundo Tribunal Ambiental destaca solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.mch.cl/cuenta-publica-segundo-tribunal-ambiental-destaca-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "\"Nuestro objetivo es agilizar los procesos, porque no hay gestión ambiental real si no cumplimos nuestros propios plazos\", expresó la ministra del Medio Ambiente. La entrada Comité de Ministros ratifica RCA de dos proyectos del sector energético se p",
+      "extracto": "“Tenemos plena conciencia de que el retardo en la tramitación puede afectar la garantía de un debido proceso sin dilaciones indebidas\", afirmó la ministra presidenta (s), Marcela Godoy. La entrada Cuenta Pública: Segundo Tribunal Ambiental destaca so",
       "keywords_detectadas": [
-        "RCA"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Comité de Ministros del SEA revisa 4 proyectos por US$400 millones y tensiona el nuevo ritmo ambiental",
-      "url": "https://www.redimin.cl/comite-de-ministros-del-sea-revisa-4-proyectos-por-us400-millones-y-tensiona-el-nuevo-ritmo-ambiental/",
-      "fecha": "2026-04-28",
+      "titular": "Novandino Litio: proyecto eléctrico de US$85 millones entra al SEA y expone el nuevo foco del Salar de Atacama",
+      "url": "https://www.redimin.cl/novandino-litio-proyecto-electrico-de-us85-millones-entra-al-sea-y-expone-el-nuevo-foco-del-salar-de-atacama/",
+      "fecha": "2026-04-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Comité de Ministros del SEA volvió a poner bajo revisión proyectos ambientales relevantes para minería, energía e infraestructura. En una nueva sesión, la instancia analizó cuatro iniciativas que suman cerca de US$400 millones, en medio del impuls",
+      "extracto": "Novandino Litio ingresó a evaluación ambiental una iniciativa de US$85 millones para reforzar el suministro eléctrico de su faena en el Salar de Atacama. La Dirección Regional de Antofagasta del Servicio de Evaluación Ambiental acogió a trámite la DI",
       "keywords_detectadas": [
         "SEA"
       ]
