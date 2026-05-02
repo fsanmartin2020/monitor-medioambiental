@@ -1,173 +1,17 @@
 {
-  "fecha_generacion": "2026-05-01T08:15:05.183867-04:00",
-  "total_alertas": 14,
+  "fecha_generacion": "2026-05-02T07:58:05.074242-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Albemarle presentó en audiencia argumentos en contra de multa impuesta por la Superintendencia del Medio Ambiente por sobre extracción de salmuera",
-      "url": "https://www.1ta.cl/albemarle-presento-en-audiencia-argumentos-en-contra-de-multa-impuesta-por-la-superintendencia-del-medio-ambiente-por-sobre-extraccion-de-salmuera/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se revisaron en audiencia los argumentos de la reclamación presentada por Albemarle en contra de la resolución de la Superintendencia del Medio Ambiente (SMA) que puso término al procedimiento que la sancionó con una multa de 4713 Unidades Tributaria",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-25-2025 “Municipalidad de Hualpén con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-25-2025-municipalidad-de-hualpen-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-25-2025 “Municipalidad de Hualpén con Superintendencia del Medio Ambiente», que se realiza el jueves 30 de abril, a las 9:",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental anuló Resolución de Calificación Ambiental de «Proyecto Eólico Kosten Aike» en Coyhaique",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-anulo-resolucion-de-calificacion-ambiental-de-proyecto-eolico-kosten-aike-en-coyhaique/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tribunal determinó que el Servicio de Evaluación Ambiental no logró descartar impactos significativos sobre la avifauna del Monumento Natural Dos Lagunas en Coyhaique. El Tercer Tribunal Ambiental dictó sentencia en la causa R-4-2024 (acumulada R-",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Gestión de Episodios Críticos 2026: SMA publica listado de paralización de grandes establecimientos afectos al PPDA de la RM",
-      "url": "https://portal.sma.gob.cl/index.php/gestion-de-episodios-criticos-2026-sma-publica-listado-de-paralizacion-de-grandes-establecimientos-afectos-al-ppda-de-la-rm/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "A partir del 1 de mayo, cinco instalaciones deberán paralizar la operación de sus fuentes estacionarias durante episodios de preemergencia o emergencia ambiental en la Región Metropolitana. En el contexto del inicio de la Gestión de Episodios Crítico",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA inicia investigación contra ENAP Refinerías Aconcagua",
-      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-investigacion-contra-enap-refinerias-aconcagua/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En relación con la información difundida en medios de comunicación sobre la entrega de antecedentes presuntamente falsos a la Superintendencia del Medio Ambiente (SMA) por parte de la Empresa Nacional del Petróleo (ENAP) Refinerías Aconcagua, se info",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile participa en la COP4 del Acuerdo de Escazú y manifiesta su interés en ser parte del grupo técnico para el fortalecimiento RETC",
-      "url": "https://mma.gob.cl/chile-participa-en-la-cop4-del-acuerdo-de-escazu-y-manifiesta-su-interes-en-ser-parte-del-grupo-tecnico-para-el-fortalecimiento-retc/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Cuarta Reunión de la Conferencia de las Partes, realizada en Nassau, Bahamas, reunió a los Estados Parte para dar […]",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
       "fuente": "La Tercera",
-      "titular": "Trump vuelve a reclamar el despido del comediante Jimmy Kimmel: “Más vale que sea pronto”",
-      "url": "https://www.latercera.com/mundo/noticia/trump-vuelve-a-reclamar-el-despido-del-comediante-jimmy-kimmel-mas-vale-que-sea-pronto/",
-      "fecha": "2026-04-30",
+      "titular": "Embajador de China en Naciones Unidas respalda que la ONU sea liderada por una mujer",
+      "url": "https://www.latercera.com/mundo/noticia/embajador-de-china-en-naciones-unidas-respalda-que-la-onu-sea-liderada-por-una-mujer/",
+      "fecha": "2026-05-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El matrimonio Trump reclamó el lunes de nuevo el despido de Kimmel, a quien la primera dama se refirió como un “cobarde” que se “esconde detrás de ABC” y cuyas palabras lejos de ser comedia, “son corrosivas y profundizan la enfermedad política dentro",
+      "extracto": "“Nos gustaría ver una mejor representación geográfica y, si fuera una mujer después de tantos años, China lo acogería favorablemente”, afirmó.",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "¿Qué significa que un niño sea oído en un juicio de familia?",
-      "url": "https://www.latercera.com/paula/noticia/que-significa-que-un-nino-sea-oido-en-un-juicio-de-familia/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En esta nueva edición de nuestro Consultorio Legal conocemos la historia de Catalina, quien tiene aprensiones sobre la participación de su hijo en el juicio sobre su cuidado personal. ¿Cuánto pesa lo que diga el niño? ¿Puede ser que involucrarlo en e",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA Antofagasta realiza taller sobre evaluación de iniciativa que modifica terminal portuario",
-      "url": "https://www.mch.cl/sea-antofagasta-realiza-taller-sobre-evaluacion-de-iniciativa-que-modifica-terminal-portuario/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El encuentro, permitió a los vecinos del sector tomar conocimiento sobre la iniciativa y cómo participar del proceso de calificación ambiental. La entrada SEA Antofagasta realiza taller sobre evaluación de iniciativa que modifica terminal portuario s",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental anula Resolución de Calificación Ambiental de proyecto eólico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-anula-resolucion-de-calificacion-ambiental-de-proyecto-eolico/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El organismo determinó que la evaluación del SEA no logró descartar impactos significativos sobre la avifauna del Monumento Natural Dos Lagunas en Coyhaique. La entrada Tribunal Ambiental anula Resolución de Calificación Ambiental de proyecto eólico ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA inicia investigación contra Enap Refinerías Aconcagua",
-      "url": "https://www.revistaei.cl/sma-inicia-investigacion-contra-enap-refinerias-aconcagua/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La acción se produce en un contexto marcado por lo informado previamente por la empresa estatal en su Junta Ordinaria de Accionistas. La entrada SMA inicia investigación contra Enap Refinerías Aconcagua se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto de CMP por US$17,2 millones enfrenta revisión judicial por RCA en Atacama",
-      "url": "https://www.redimin.cl/proyecto-de-cmp-por-us172-millones-enfrenta-revision-judicial-por-rca-en-atacama/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La reclamación ambiental contra CMP por el proyecto “Recuperación de Acopios de la Faena Algarrobo” fue revisada en una audiencia del Primer Tribunal Ambiental. Agrícola Konavle cuestiona la RCA favorable de la iniciativa, mientras el SEA y la compañ",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "NorQuim ingresa al SEIA proyecto de US$900 millones para producir insumos mineros en Mejillones",
-      "url": "https://www.redimin.cl/norquim-ingresa-al-seia-proyecto-de-us900-millones-para-producir-insumos-mineros-en-mejillones/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Complejo Tecnológico NorQuim ingresó a evaluación ambiental en Mejillones con una iniciativa industrial cercana a US$900 millones, orientada a producir insumos químicos para la minería del cobre y del litio. El proyecto fue presentado mediante un ",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
-      "url": "https://www.redimin.cl/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
-      "fecha": "2026-04-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Santiago, miércoles 29 de abril de 2026.- Con un histórico aumento del 67% en el ingreso de causas y la cifra mensual de sentencias más alta desde su creación, el Segundo Tribunal Ambiental presentó su Cuenta Pública 2025. Durante la ceremonia, la mi",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
       ]
     }
   ]
