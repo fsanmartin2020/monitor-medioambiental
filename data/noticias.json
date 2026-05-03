@@ -1,133 +1,61 @@
 {
-  "fecha_actualizacion": "2026-05-02T07:58:05.060114-04:00",
-  "total": 16,
+  "fecha_actualizacion": "2026-05-03T07:50:48.491346-04:00",
+  "total": 7,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Purificar aguas residuales con luz solar: la fotocatálisis con TiO₂ está llegando a la práctica",
-      "url": "https://www.paiscircular.cl/insights/purificar-aguas-residuales-con-luz-solar-la-fotocatalisis-con-tio%e2%82%82-esta-llegando-a-la-practica/",
-      "fecha": "2026-05-02",
+      "fuente": "EFE Verde",
+      "titular": "Cerdeña, un espejo en el que mirar el modelo de residuos de nuestros territorios turísticos. Por Inma Saranova (directora de IbizaPreservation)",
+      "url": "https://efeverde.com/cerdena-un-espejo-en-el-que-mirar-el-modelo-de-residuos-de-nuestros-territorios-turisticos-por-inma-saranova/",
+      "fecha": "2026-05-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Consumo de los electrodomésticos más usados en Chile",
-      "url": "https://www.paiscircular.cl/tendencias/consumo-de-los-electrodomesticos-mas-usados-en-chile/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Emol",
+      "titular": "Trump dice que \"pronto\" revisará propuesta iraní pero duda que sea \"aceptable\"",
+      "url": "https://www.emol.com/noticias/Internacional/2026/05/02/1198907/trump-revisa-propuesta-iran.html",
+      "fecha": "2026-05-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Cómo cambia la seguridad de pago entre tarjetas, monederos electrónicos, transferencias y casinos cripto",
-      "url": "https://www.paiscircular.cl/insights/como-cambia-la-seguridad-de-pago-entre-tarjetas-monederos-electronicos-transferencias-y-casinos-cripto/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "No solo romance: los nuevos objetivos de los usuarios de apps de citas",
-      "url": "https://www.paiscircular.cl/insights/no-solo-romance-los-nuevos-objetivos-de-los-usuarios-de-apps-de-citas/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "BioBioChile",
+      "titular": "Trump dice que pronto revisará el plan de paz iraní pero duda que \"sea aceptable\"",
+      "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/05/03/trump-dice-que-pronto-revisara-el-plan-de-paz-irani-pero-duda-que-sea-aceptable.shtml",
+      "fecha": "2026-05-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Timmy, la ballena encallada en las costas alemanas desde marzo, es liberada en el mar del Norte",
-      "url": "https://efeverde.com/timmy-ballena-es-liberada-en-mar-del-norte/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El océano también tiene memoria: lo que llevamos desde nuestros territorios a la Global Seafood Marketplace. Por Yohana Coñuecar Llancapani",
-      "url": "https://efeverde.com/el-oceano-tambien-tiene-memoria-lo-que-llevamos-desde-nuestros-territorios-a-la-global-seafood-marketplace-por-yohana-conuecar-llancapani/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Residuos, decibelios y desperdicio: los retos ecológicos de conciertos y macrofestivales",
-      "url": "https://efeverde.com/residuos-decibelios-desperdicio-retos-ecologicos-de-conciertos-y-macrofestivales/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La sostenibilidad en las aulas: el papel del colegio en la formación de ciudadanos responsables. Por Matías Delgado (profesor)",
-      "url": "https://efeverde.com/la-sostenibilidad-en-las-aulas-el-papel-del-colegio-en-la-formacion-de-ciudadanos-responsables-por-matias-delgado/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Podría volver la sequía? Pese a los embalses llenos, no se puede bajar la guardia",
-      "url": "https://efeverde.com/podria-volver-la-sequia/",
+      "titular": "Miles de cangrejos patudos afloran en las playas de las islas Cíes, Ons, Sálvora y Cortegada",
+      "url": "https://efeverde.com/cangrejos-patudos-afloran-en-playas-de-las-islas-cies-ons-salvora-y-cortegada/",
       "fecha": "2026-05-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Trump cae en las encuestas",
-      "url": "https://www.latercera.com/opinion/noticia/trump-cae-en-las-encuestas/",
+      "titular": "Fernando Gago lanza dura advertencia a los consagrados de la U tras golear a La Serena con varios jóvenes en el equipo",
+      "url": "https://www.latercera.com/el-deportivo/noticia/fernando-gago-lanza-dura-advertencia-a-los-consagrados-de-la-u-tras-golear-a-la-serena-con-varios-jovenes-en-el-once/",
       "fecha": "2026-05-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "WALMART CHILE ABRE SUS TIENDAS A MÁS DE 1.700 EMPRENDEDORES Y PROYECTA 350 FERIAS EN TODO CHILE",
-      "url": "https://www.chiledesarrollosustentable.cl/walmart-chile-abre-sus-tiendas-a-mas-de-1-700-emprendedores-y-proyecta-350-ferias-en-todo-chile/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-chile-abre-sus-tiendas-a-mas-de-1-700-emprendedores-y-proyecta-350-ferias-en-todo-chile",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "«Somos el patio trasero de Santiago (Chile)»: la vida junto al vertedero con más metano del mundo",
-      "url": "https://efeverde.com/vida-junto-vertedero-con-mas-metano-del-mundo/",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Admitido a trámite el recurso de Castilla-La Mancha contra el Gobierno por el trasvase Tajo-Segura",
-      "url": "https://efeverde.com/admitido-a-tramite-recurso-de-castilla-la-mancha-contra-gobierno-por-trasvase-tajo-segura/",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los loros salvajes aprenden a comer nuevos alimentos imitando los comportamientos sociales",
-      "url": "https://efeverde.com/loros-salvajes-aprenden-comer-nuevos-alimentos-imitando-comportamientos-sociales/",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Mensaje de la Directora Ejecutiva de CONAF en el Día del Trabajador",
-      "url": "https://www.conaf.cl/mensaje-de-la-directora-ejecutiva-de-conaf-en-el-dia-del-trabajador/?utm_source=rss&utm_medium=rss&utm_campaign=mensaje-de-la-directora-ejecutiva-de-conaf-en-el-dia-del-trabajador",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "La Tercera",
-      "titular": "Embajador de China en Naciones Unidas respalda que la ONU sea liderada por una mujer",
-      "url": "https://www.latercera.com/mundo/noticia/embajador-de-china-en-naciones-unidas-respalda-que-la-onu-sea-liderada-por-una-mujer/",
-      "fecha": "2026-05-01",
+      "titular": "Trump dice que tomará control de Cuba “casi de inmediato” e impone nuevas sanciones económicas a la isla",
+      "url": "https://www.latercera.com/mundo/noticia/trump-dice-que-tomara-control-de-cuba-casi-de-inmediato-e-impone-nuevas-sanciones-economicas-a-la-isla/",
+      "fecha": "2026-05-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.diarioconstitucional.cl/2026/05/02/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
+      "fecha": "2026-05-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,17 +1,41 @@
 {
-  "fecha_generacion": "2026-05-02T07:58:05.074242-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-05-03T07:50:48.503671-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Embajador de China en Naciones Unidas respalda que la ONU sea liderada por una mujer",
-      "url": "https://www.latercera.com/mundo/noticia/embajador-de-china-en-naciones-unidas-respalda-que-la-onu-sea-liderada-por-una-mujer/",
-      "fecha": "2026-05-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "“Nos gustaría ver una mejor representación geográfica y, si fuera una mujer después de tantos años, China lo acogería favorablemente”, afirmó.",
+      "fuente": "Emol",
+      "titular": "Trump dice que \"pronto\" revisará propuesta iraní pero duda que sea \"aceptable\"",
+      "url": "https://www.emol.com/noticias/Internacional/2026/05/02/1198907/trump-revisa-propuesta-iran.html",
+      "fecha": "2026-05-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "Trump dice que pronto revisará el plan de paz iraní pero duda que \"sea aceptable\"",
+      "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/05/03/trump-dice-que-pronto-revisara-el-plan-de-paz-irani-pero-duda-que-sea-aceptable.shtml",
+      "fecha": "2026-05-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
+      "url": "https://www.diarioconstitucional.cl/2026/05/02/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
+      "fecha": "2026-05-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La magistratura destacó avances en capacidad resolutiva, coherencia jurisprudencial y modernización institucional, proyectando una reducción en los tiempos de tramitación pese al sostenido aumento de causas. The post Segundo Tribunal Ambiental rinde ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]
