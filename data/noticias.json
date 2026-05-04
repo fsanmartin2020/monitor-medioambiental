@@ -1,61 +1,85 @@
 {
-  "fecha_actualizacion": "2026-05-03T07:50:48.491346-04:00",
-  "total": 7,
+  "fecha_actualizacion": "2026-05-04T08:34:58.579546-04:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Cerdeña, un espejo en el que mirar el modelo de residuos de nuestros territorios turísticos. Por Inma Saranova (directora de IbizaPreservation)",
-      "url": "https://efeverde.com/cerdena-un-espejo-en-el-que-mirar-el-modelo-de-residuos-de-nuestros-territorios-turisticos-por-inma-saranova/",
-      "fecha": "2026-05-03",
+      "titular": "Reducir las emisiones de metano del sector energético aliviaría los efectos del cierre del estrecho de Ormuz",
+      "url": "https://efeverde.com/reducir-emisiones-metano-efectos-cierre-estrecho-ormuz/",
+      "fecha": "2026-05-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Emol",
-      "titular": "Trump dice que \"pronto\" revisará propuesta iraní pero duda que sea \"aceptable\"",
-      "url": "https://www.emol.com/noticias/Internacional/2026/05/02/1198907/trump-revisa-propuesta-iran.html",
-      "fecha": "2026-05-03",
+      "fuente": "EFE Verde",
+      "titular": "Las poblaciones de salmón caen más del 80 % en España en 10 años. La SIBIC urge a prohibir su pesca",
+      "url": "https://efeverde.com/las-poblaciones-de-salmon-caen-mas-del-80-en-espana-en-10-anos-urge-prohibir-su-pesca/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las ciudades miden el movimiento, pero no el miedo. Por Freyja Pérez Keller (criminóloga y CEO de SnailStep)",
+      "url": "https://efeverde.com/las-ciudades-miden-el-movimiento-pero-no-el-miedo-por-freyja-perez-keller/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Baterías para facilitar la electrificación: la solución de Full&fast frente al «problema real» de acceso a la red",
+      "url": "https://efeverde.com/baterias-electrificacion-fullfast-frente-problema-acceso-red/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "La mayor empresa de data centers en el país, Odata: “Queremos seguir creciendo en Chile”",
+      "url": "https://www.latercera.com/pulso/noticia/la-mayor-empresa-de-data-centers-en-el-pais-odata-queremos-seguir-creciendo-en-chile/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "Gobierno dará urgencia a norma que prohíbe a futbolistas publicitar casas de apuestas",
+      "url": "https://www.eldinamo.cl/deportes/2026/05/03/gobierno-dara-urgencia-a-norma-que-prohibe-a-futbolistas-publicitar-casas-de-apuestas/",
+      "fecha": "2026-05-04",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "BioBioChile",
-      "titular": "Trump dice que pronto revisará el plan de paz iraní pero duda que \"sea aceptable\"",
-      "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/05/03/trump-dice-que-pronto-revisara-el-plan-de-paz-irani-pero-duda-que-sea-aceptable.shtml",
+      "fuente": "EFE Verde",
+      "titular": "Dos semanas después, el ‘campanu’ aún se resiste y se abre la polémica sobre su veda",
+      "url": "https://efeverde.com/dos-semanas-despues-el-campanu-aun-se-resiste/",
       "fecha": "2026-05-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Miles de cangrejos patudos afloran en las playas de las islas Cíes, Ons, Sálvora y Cortegada",
-      "url": "https://efeverde.com/cangrejos-patudos-afloran-en-playas-de-las-islas-cies-ons-salvora-y-cortegada/",
-      "fecha": "2026-05-02",
+      "titular": "Cantabria registra hasta abril más de mil incendios forestales con 12.000 hectáreas quemadas",
+      "url": "https://efeverde.com/cantabria-mas-de-mil-incendios-forestales-hasta-abril/",
+      "fecha": "2026-05-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "¿Se sobrevacuna a las mascotas? Las recuerdos vacunales pueden relajarse si hay inmunidad",
+      "url": "https://efeverde.com/se-sobrevacuna-a-las-mascotas/",
+      "fecha": "2026-05-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Fernando Gago lanza dura advertencia a los consagrados de la U tras golear a La Serena con varios jóvenes en el equipo",
-      "url": "https://www.latercera.com/el-deportivo/noticia/fernando-gago-lanza-dura-advertencia-a-los-consagrados-de-la-u-tras-golear-a-la-serena-con-varios-jovenes-en-el-once/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Trump dice que tomará control de Cuba “casi de inmediato” e impone nuevas sanciones económicas a la isla",
-      "url": "https://www.latercera.com/mundo/noticia/trump-dice-que-tomara-control-de-cuba-casi-de-inmediato-e-impone-nuevas-sanciones-economicas-a-la-isla/",
-      "fecha": "2026-05-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental rinde Cuenta Pública 2025 destacando solidez técnica para responder a histórico aumento de causas",
-      "url": "https://www.diarioconstitucional.cl/2026/05/02/segundo-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-solidez-tecnica-para-responder-a-historico-aumento-de-causas/",
-      "fecha": "2026-05-02",
+      "titular": "Ramírez blinda a Steinert ante críticas por su gestión y sostiene que sus dichos le parecen “razonables”",
+      "url": "https://www.latercera.com/politica/noticia/ramirez-blinda-a-steinert-ante-criticas-por-su-gestion-y-sostiene-que-sus-dichos-le-parecen-razonables/",
+      "fecha": "2026-05-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
