@@ -1,5 +1,67 @@
 {
-  "fecha_generacion": "2026-05-04T08:34:58.592400-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-05-05T08:12:24.442791-04:00",
+  "total_alertas": 5,
+  "alertas": [
+    {
+      "fuente": "EFE Verde",
+      "titular": "Escazú no puede esperar: la vida de quienes defienden la naturaleza está en juego. Por María Inés Rivadeneira H. (líder de Políticas en WWF América Latina y el Caribe)",
+      "url": "https://efeverde.com/escazu-no-puede-esperar-la-vida-de-quienes-defienden-la-naturaleza-esta-en-juego-por-maria-ines-rivadeneira-h/",
+      "fecha": "2026-05-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "América Latina y el Caribe no solo es una de las regiones más biodiversas del planeta. También es la más peligrosa para quienes defienden la naturaleza. Esta paradoja, riqueza ecológica acompañada de violencia sistemática, define uno de los desafíos ",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA notifica preventivamente a cerca de mil Centros de Engorda de Salmones por posicionamiento de estructuras",
+      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-preventivamente-a-cerca-de-mil-centros-de-engorda-de-salmones-por-posicionamiento-de-estructuras/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa busca orientar a los titulares respecto de la ubicación de sus balsas jaulas y estructuras de apoyo, en relación a los límites de sus concesiones. El uso de imágenes satelitales permite una supervisión remota, continua y oportuna para a",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Albemarle presenta en audiencia argumentos en contra de multa impuesta SMA por sobre extracción de salmuera",
+      "url": "https://www.mch.cl/albemarle-presenta-en-audiencia-argumentos-en-contra-de-multa-impuesta-sma-por-sobre-extraccion-de-salmuera/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La causa quedó en acuerdo y se designó como redactor de la sentencia al ministro presidente del Primer Tribunal Ambiental. La entrada Albemarle presenta en audiencia argumentos en contra de multa impuesta SMA por sobre extracción de salmuera se publi",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en abril 2026",
+      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-abril-2026/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Estas iniciativas han sido ingresadas a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva del Servicio. La entrada SEA publica listado de Declaraciones de Impacto Ambiental presentadas en abril 2026 se publicó primero e",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental deja sin efecto resolución del SEA sobre proyecto fotovoltaico de US$362 millones",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-deja-sin-efecto-resolucion-del-sea-sobre-proyecto-fotovoltaico-de-us362-millones/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa se emplazaría en el kilómetro 3,2 de la Ruta A-665, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá. La entrada Tribunal Ambiental deja sin efecto resolución del SEA sobre proyecto fotovoltaico de US$362 millones se ",
+      "keywords_detectadas": [
+        "SEA",
+        "Tribunal Ambiental"
+      ]
+    }
+  ]
 }

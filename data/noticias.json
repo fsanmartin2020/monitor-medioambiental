@@ -1,87 +1,303 @@
 {
-  "fecha_actualizacion": "2026-05-04T08:34:58.579546-04:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-05-05T08:12:24.426523-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Reducir las emisiones de metano del sector energético aliviaría los efectos del cierre del estrecho de Ormuz",
-      "url": "https://efeverde.com/reducir-emisiones-metano-efectos-cierre-estrecho-ormuz/",
-      "fecha": "2026-05-04",
+      "fuente": "País Circular",
+      "titular": "Senador Sergio Gahona: “La prioridad número uno es destrabar la ‘permisología’”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/senador-sergio-gahona-presidente-comision-de-medio-ambiente-la-prioridad-numero-uno-es-destrabar-la-permisologia/",
+      "fecha": "2026-05-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Autoridades lanzan Gestión de Episodios Críticos (GEC) 2026 para enfrentar la mala calidad del aire en la Región Metropolitana",
+      "url": "https://www.chiledesarrollosustentable.cl/autoridades-lanzan-gestion-de-episodios-criticos-gec-2026-para-enfrentar-la-mala-calidad-del-aire-en-la-region-metropolitana/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-lanzan-gestion-de-episodios-criticos-gec-2026-para-enfrentar-la-mala-calidad-del-aire-en-la-region-metropolitana",
+      "fecha": "2026-05-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El alza de los combustibles redefine la movilidad en Chile",
+      "url": "https://codexverde.cl/el-alza-de-los-combustibles-redefine-la-movilidad-en-chile/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las poblaciones de salmón caen más del 80 % en España en 10 años. La SIBIC urge a prohibir su pesca",
-      "url": "https://efeverde.com/las-poblaciones-de-salmon-caen-mas-del-80-en-espana-en-10-anos-urge-prohibir-su-pesca/",
-      "fecha": "2026-05-04",
+      "titular": "Banderas azules 2026: España lidera el ranking mundial con 677 playas galardonadas",
+      "url": "https://efeverde.com/banderas-azules-2026-espana-lidera-ranking-mundial/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las ciudades miden el movimiento, pero no el miedo. Por Freyja Pérez Keller (criminóloga y CEO de SnailStep)",
-      "url": "https://efeverde.com/las-ciudades-miden-el-movimiento-pero-no-el-miedo-por-freyja-perez-keller/",
-      "fecha": "2026-05-04",
+      "titular": "Este mes de abril fue el más cálido en España desde que hay registros, según la Aemet",
+      "url": "https://efeverde.com/este-mes-de-abril-mas-calido-en-espana-desde-que-hay-registros/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Baterías para facilitar la electrificación: la solución de Full&fast frente al «problema real» de acceso a la red",
-      "url": "https://efeverde.com/baterias-electrificacion-fullfast-frente-problema-acceso-red/",
-      "fecha": "2026-05-04",
+      "titular": "Una alondra contra las macrogranjas: un proyecto avícola amenaza una de las escasas poblaciones de la alondra ricotí",
+      "url": "https://efeverde.com/una-alondra-contra-las-macrogranjas-un-proyecto-avicola-amenaza-una-de-las-escasas-poblaciones-de-la-alondra-ricoti/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "La mayor empresa de data centers en el país, Odata: “Queremos seguir creciendo en Chile”",
-      "url": "https://www.latercera.com/pulso/noticia/la-mayor-empresa-de-data-centers-en-el-pais-odata-queremos-seguir-creciendo-en-chile/",
-      "fecha": "2026-05-04",
+      "fuente": "EFE Verde",
+      "titular": "Navarra aprueba la obra para ejecutar el derribo parcial de la presa de Artikutza",
+      "url": "https://efeverde.com/navarra-da-luz-verde-a-las-obras-para-el-derribo-parcial-de-la-presa-de-artikutza/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Dínamo",
-      "titular": "Gobierno dará urgencia a norma que prohíbe a futbolistas publicitar casas de apuestas",
-      "url": "https://www.eldinamo.cl/deportes/2026/05/03/gobierno-dara-urgencia-a-norma-que-prohibe-a-futbolistas-publicitar-casas-de-apuestas/",
-      "fecha": "2026-05-04",
+      "fuente": "EFE Verde",
+      "titular": "Escazú no puede esperar: la vida de quienes defienden la naturaleza está en juego. Por María Inés Rivadeneira H. (líder de Políticas en WWF América Latina y el Caribe)",
+      "url": "https://efeverde.com/escazu-no-puede-esperar-la-vida-de-quienes-defienden-la-naturaleza-esta-en-juego-por-maria-ines-rivadeneira-h/",
+      "fecha": "2026-05-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Mostrador",
+      "titular": "A propósito de la seguridad de la información sensible: cuidemos Chile",
+      "url": "https://www.elmostrador.cl/noticias/opinion/columnas/2026/05/05/a-proposito-de-la-seguridad-de-la-informacion-sensible-cuidemos-chile/",
+      "fecha": "2026-05-05",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Dos semanas después, el ‘campanu’ aún se resiste y se abre la polémica sobre su veda",
-      "url": "https://efeverde.com/dos-semanas-despues-el-campanu-aun-se-resiste/",
-      "fecha": "2026-05-03",
+      "fuente": "Diario Financiero",
+      "titular": "Autoridad ambiental aprueba la mayor desaladora del país por US$ 5.000 millones en la Región de Antofagasta",
+      "url": "https://www.df.cl/empresas/medio-ambiente/autoridad-ambiental-aprueba-la-mayor-desaladora-del-pais-por-us-5-000",
+      "fecha": "2026-05-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La grieta en el mapa del carbón",
+      "url": "https://www.paiscircular.cl/opinion/la-grieta-en-el-mapa-del-carbon/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La energía que se nos escapa",
+      "url": "https://www.paiscircular.cl/opinion/la-energia-que-se-nos-escapa/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "CORFO METROPOLITANO ABRE NUEVAS CONVOCATORIAS:  HASTA $15 MILLONES PARA EMPRENDER Y $10 MILLONES PARA INNOVAR",
+      "url": "https://www.chiledesarrollosustentable.cl/corfo-metropolitano-abre-nuevas-convocatorias-hasta-15-millones-para-emprender-y-10-millones-para-innovar/?utm_source=rss&utm_medium=rss&utm_campaign=corfo-metropolitano-abre-nuevas-convocatorias-hasta-15-millones-para-emprender-y-10-millones-para-innovar",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Científicos se reunieron en Chile para discutir sobre los impactos y desafíos del cambio climático en América Latina",
+      "url": "https://codexverde.cl/cientificos-se-reunieron-en-chile-para-discutir-sobre-los-impactos-y-desafios-del-cambio-climatico-en-america-latina/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Culmina reunión de expertos del nuevo Atlas del IPCC en la Universidad de Chile",
+      "url": "https://www.cr2.cl/culmina-reunion-de-expertos-del-nuevo-atlas-del-ipcc-en-la-universidad-de-chile/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Representantes del IPCC conocen modelo pionero del IEB que integra conservación de biodiversidad y adaptación al cambio climático en la producción de vino (IEB-chile.cl)",
+      "url": "https://www.cr2.cl/representantes-del-ipcc-conocen-modelo-pionero-del-ieb-que-integra-conservacion-de-biodiversidad-y-adaptacion-al-cambio-climatico-en-la-produccion-de-vino-ieb-chile-cl/",
+      "fecha": "2026-05-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cantabria registra hasta abril más de mil incendios forestales con 12.000 hectáreas quemadas",
-      "url": "https://efeverde.com/cantabria-mas-de-mil-incendios-forestales-hasta-abril/",
-      "fecha": "2026-05-03",
+      "titular": "Los microplásticos en suspensión pueden contribuir de forma importante al cambio climático",
+      "url": "https://efeverde.com/microplasticos-en-suspension-cambio-climatico/",
+      "fecha": "2026-05-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Se sobrevacuna a las mascotas? Las recuerdos vacunales pueden relajarse si hay inmunidad",
-      "url": "https://efeverde.com/se-sobrevacuna-a-las-mascotas/",
-      "fecha": "2026-05-03",
+      "titular": "La CE propone nuevas simplificaciones del Reglamento de la Unión Europea sobre deforestación",
+      "url": "https://efeverde.com/nuevas-simplificaciones-reglamento-de-union-europea-sobre-deforestacion/",
+      "fecha": "2026-05-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Ramírez blinda a Steinert ante críticas por su gestión y sostiene que sus dichos le parecen “razonables”",
-      "url": "https://www.latercera.com/politica/noticia/ramirez-blinda-a-steinert-ante-criticas-por-su-gestion-y-sostiene-que-sus-dichos-le-parecen-razonables/",
-      "fecha": "2026-05-03",
+      "fuente": "Terram",
+      "titular": "Regular menos para producir más: El mensaje a la industria salmonera",
+      "url": "https://www.terram.cl/regular-menos-para-producir-mas-el-mensaje-a-la-industria-salmonera-2/",
+      "fecha": "2026-05-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Conferencia de Santa Marta propone hojas de ruta para salir de los combustibles fósiles",
+      "url": "https://www.terram.cl/conferencia-de-santa-marta-propone-hojas-de-ruta-para-salir-de-los-combustibles-fosiles/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Comunidad quechua denuncia daño en salar de Ascotán, hogar de pez único en el mundo: Fiscalía abre investigación",
+      "url": "https://www.terram.cl/comunidad-quechua-denuncia-dano-en-salar-de-ascotan-hogar-de-pez-unico-en-el-mundo-fiscalia-abre-investigacion/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "En UCN investigan microorganismo causante de bioluminiscencia en Guanaqueros",
+      "url": "https://www.terram.cl/en-ucn-investigan-microorganismo-causante-de-bioluminiscencia-en-guanaqueros/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Municipalidad de Tierra Amarilla denuncia destrucción de hábitat endémico y exige paralización de obras de entubamiento del río",
+      "url": "https://www.terram.cl/municipalidad-de-tierra-amarilla-denuncia-destruccion-de-habitat-endemico-y-exige-paralizacion-de-obras-de-entubamiento-del-rio/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Contaminación ambiental y salud mental: estudios alertan sobre su impacto en ansiedad y depresión",
+      "url": "https://www.terram.cl/contaminacion-ambiental-y-salud-mental-estudios-alertan-sobre-su-impacto-en-ansiedad-y-depresion/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "CONCURSO: ANALISTA DE SOFTWARE",
+      "url": "https://3ta.cl/noticias/concurso-analista-de-software/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal realizó audiencia por reclamaciones contra declaratoria del Humedal Urbano La Poza y Delta del Trancura en Pucón",
+      "url": "https://3ta.cl/noticias/tribunal-realizo-audiencia-por-reclamaciones-contra-declaratoria-del-humedal-urbano-la-poza-y-delta-del-trancura-en-pucon/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo profesional de apoyo del area juridica escalafon profesional a contrata asimilado a grado 15 de la e u s para la dr de aysen para el servici",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-profesional-de-apoyo-del-area-juridica-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-dr-de-aysen-para-el-servici/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF celebra el Día del Ingeniero y la Ingeniera Forestal con la entrega de 200 árboles nativos en Viña del Mar",
+      "url": "https://www.conaf.cl/conaf-celebra-el-dia-del-ingeniero-y-la-ingeniera-forestal-con-la-entrega-de-200-arboles-nativos-en-vina-del-mar/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-celebra-el-dia-del-ingeniero-y-la-ingeniera-forestal-con-la-entrega-de-200-arboles-nativos-en-vina-del-mar",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Restauración ecológica del Cerro Chepe logra 90% de prendimiento de plantas nativas",
+      "url": "https://www.conaf.cl/restauracion-ecologica-del-cerro-chepe-logra-90-de-prendimiento-de-plantas-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=restauracion-ecologica-del-cerro-chepe-logra-90-de-prendimiento-de-plantas-nativas",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA notifica preventivamente a cerca de mil Centros de Engorda de Salmones por posicionamiento de estructuras",
+      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-preventivamente-a-cerca-de-mil-centros-de-engorda-de-salmones-por-posicionamiento-de-estructuras/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente informa constante monitoreo de calidad del aire en Puchuncaví y Quintero y pide reforzar limpieza de alcantarillados de establecimientos educacionales",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-informa-constante-monitoreo-de-calidad-del-aire-en-puchuncavi-y-quintero-y-pide-reforzar-limpieza-de-alcantarillados-de-establecimientos-educacionales/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Antofagasta: más de medio centenar de trabajadores se certifican en electromovilidad con proyecto CLETS del Ministerio de Medio Ambiente",
+      "url": "https://mma.gob.cl/antofagasta-mas-de-medio-centenar-de-trabajadores-se-certifican-en-electromovilidad-con-proyecto-clets-del-ministerio-de-medio-ambiente/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente llama a los municipios a certificarse ambientalmente bajo programa ministerial",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-llama-a-los-municipios-a-certificarse-ambientalmente-bajo-programa-ministerial/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Albemarle presenta en audiencia argumentos en contra de multa impuesta SMA por sobre extracción de salmuera",
+      "url": "https://www.mch.cl/albemarle-presenta-en-audiencia-argumentos-en-contra-de-multa-impuesta-sma-por-sobre-extraccion-de-salmuera/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en abril 2026",
+      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-abril-2026/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental deja sin efecto resolución del SEA sobre proyecto fotovoltaico de US$362 millones",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-deja-sin-efecto-resolucion-del-sea-sobre-proyecto-fotovoltaico-de-us362-millones/",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal ordena retomar evaluación ambiental del proyecto solar Oxum del Tamarugal",
+      "url": "https://www.redimin.cl/articulo/tribunal-ordena-retomar-evaluacion-ambiental-del-proyecto-solar-oxum-del-tamarugal",
+      "fecha": "2026-05-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
     }
   ]
 }
