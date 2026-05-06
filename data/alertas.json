@@ -1,66 +1,54 @@
 {
-  "fecha_generacion": "2026-05-05T08:12:24.442791-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-05-06T08:38:19.937791-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Escazú no puede esperar: la vida de quienes defienden la naturaleza está en juego. Por María Inés Rivadeneira H. (líder de Políticas en WWF América Latina y el Caribe)",
-      "url": "https://efeverde.com/escazu-no-puede-esperar-la-vida-de-quienes-defienden-la-naturaleza-esta-en-juego-por-maria-ines-rivadeneira-h/",
+      "fuente": "Terram",
+      "titular": "Estado rechaza cuarta propuesta de conciliación de minera demandada por daño ambiental en salar de Surire",
+      "url": "https://www.terram.cl/estado-rechaza-cuarta-propuesta-de-conciliacion-de-minera-demandada-por-dano-ambiental-en-salar-de-surire/",
       "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "América Latina y el Caribe no solo es una de las regiones más biodiversas del planeta. También es la más peligrosa para quienes defienden la naturaleza. Esta paradoja, riqueza ecológica acompañada de violencia sistemática, define uno de los desafíos ",
+      "extracto": "Continúa el proceso judicial que busca una sentencia por daño ambiental contra la minera Quiborax por dañar irreparablemente el salar de Surire y afectar la nidificación de flamencos. Fuente: El Desconcierto, 5 de mayo de 2026.",
       "keywords_detectadas": [
-        "Escazú"
+        "daño ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA notifica preventivamente a cerca de mil Centros de Engorda de Salmones por posicionamiento de estructuras",
-      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-preventivamente-a-cerca-de-mil-centros-de-engorda-de-salmones-por-posicionamiento-de-estructuras/",
-      "fecha": "2026-05-04",
+      "fuente": "Terram",
+      "titular": "SMA notifica a 114 centros de salmones en Magallanes por ubicación de estructuras",
+      "url": "https://www.terram.cl/sma-notifica-a-114-centros-de-salmones-en-magallanes-por-ubicacion-de-estructuras/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa busca orientar a los titulares respecto de la ubicación de sus balsas jaulas y estructuras de apoyo, en relación a los límites de sus concesiones. El uso de imágenes satelitales permite una supervisión remota, continua y oportuna para a",
+      "extracto": "La Superintendencia del Medio Ambiente (SMA) envió 998 notificaciones preventivas a Centros de Engorda de Salmones en las regiones de Los Lagos, Aysén y Magallanes, con el objetivo de advertir a los titulares sobre el posicionamiento de sus balsas ja",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Albemarle presenta en audiencia argumentos en contra de multa impuesta SMA por sobre extracción de salmuera",
-      "url": "https://www.mch.cl/albemarle-presenta-en-audiencia-argumentos-en-contra-de-multa-impuesta-sma-por-sobre-extraccion-de-salmuera/",
-      "fecha": "2026-05-04",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La causa quedó en acuerdo y se designó como redactor de la sentencia al ministro presidente del Primer Tribunal Ambiental. La entrada Albemarle presenta en audiencia argumentos en contra de multa impuesta SMA por sobre extracción de salmuera se publi",
+      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. El Tercer Tribunal Ambiental llevó a cabo una inspección personal en el predio del proyecto «P",
       "keywords_detectadas": [
-        "SMA"
+        "Tribunal Ambiental",
+        "daño ambiental"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en abril 2026",
-      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-abril-2026/",
-      "fecha": "2026-05-04",
+      "titular": "Se aprueba EIA de desaladora por US$5 mil millones",
+      "url": "https://www.mch.cl/se-aprueba-eia-de-desaladora-por-us5-mil-millones/",
+      "fecha": "2026-05-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Estas iniciativas han sido ingresadas a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva del Servicio. La entrada SEA publica listado de Declaraciones de Impacto Ambiental presentadas en abril 2026 se publicó primero e",
+      "extracto": "La iniciativa busca disminuir la escasez hídrica de la Región de Antofagasta, generando la posibilidad que industrias y mineras cercanas al trazado de los ductos puedan solicitar provisión de agua industrial desalinizada. La entrada Se aprueba EIA de",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental deja sin efecto resolución del SEA sobre proyecto fotovoltaico de US$362 millones",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-deja-sin-efecto-resolucion-del-sea-sobre-proyecto-fotovoltaico-de-us362-millones/",
-      "fecha": "2026-05-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa se emplazaría en el kilómetro 3,2 de la Ruta A-665, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá. La entrada Tribunal Ambiental deja sin efecto resolución del SEA sobre proyecto fotovoltaico de US$362 millones se ",
-      "keywords_detectadas": [
-        "SEA",
-        "Tribunal Ambiental"
+        "EIA"
       ]
     }
   ]
