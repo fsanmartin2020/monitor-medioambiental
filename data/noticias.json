@@ -1,253 +1,229 @@
 {
-  "fecha_actualizacion": "2026-05-06T08:38:19.923319-04:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-05-07T08:44:01.550771-04:00",
+  "total": 28,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Estudio revela que Glaciar Echaurren Norte perdió más de la mitad de su superficie en 70 años",
-      "url": "https://www.paiscircular.cl/agua/estudio-revela-que-glaciar-echaurren-norte-perdio-mas-de-la-mitad-de-su-superficie-en-70-anos/",
+      "titular": "Abogados especialistas en Medio Ambiente rechazan restitución de gastos por anulación de RCA incorporada en proyecto de ley de Reconstrucción",
+      "url": "https://www.paiscircular.cl/medio-ambiente/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "SANTANDER CHILE SE CONVIERTE EN EL PRIMER BANCO DEL PAÍS EN  INGRESAR AL DOW JONES BEST IN CLASS WORLD.",
+      "url": "https://www.chiledesarrollosustentable.cl/santander-chile-se-convierte-en-el-primer-banco-del-pais-en-ingresar-al-dow-jones-best-in-class-world/?utm_source=rss&utm_medium=rss&utm_campaign=santander-chile-se-convierte-en-el-primer-banco-del-pais-en-ingresar-al-dow-jones-best-in-class-world",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Huiros bajo seguimiento satelital: revelan un sistema altamente dinámico en las costas de Chile",
+      "url": "https://codexverde.cl/revelan-un-sistema-altamente-dinamico-en-las-costas-de-chile/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Inversión de US$ 5 mil millones: mayor desaladora del país logra aprobación ambiental",
+      "url": "https://codexverde.cl/inversion-de-us-5-mil-millones-mayor-desaladora-del-pais-logra-aprobacion-ambiental/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los osos machos son más comunicativos a medida que aumenta la competencia para aparearse",
-      "url": "https://efeverde.com/osos-machos-mas-comunicativos-aumenta-competencia-para-aparearse/",
+      "titular": "Expertos de Estados Unidos alertan de un ‘Superniño’ dañino en el Pacífico, benévolo ante huracanes del Atlántico",
+      "url": "https://efeverde.com/supernino-danino-en-el-pacifico-benevolo-ante-huracanes-del-atlantico/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Abre el proceso de información pública sobre el estado de conservación del lobo",
-      "url": "https://efeverde.com/abre-el-proceso-de-informacion-publica-sobre-el-estado-de-conservacion-del-lobo/",
+      "titular": "Convocados los IV Premios Medicamento y Medio Ambiente de SIGRE",
+      "url": "https://efeverde.com/premios-medicamento-y-medio-ambiente-de-sigre/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mantener el flujo de insumos para mantener los alimentos a precios asequibles. Por Maurizio Martina (director general adjunto de la FAO)",
-      "url": "https://efeverde.com/mantener-el-flujo-de-insumos-para-mantener-los-alimentos-a-precios-asequibles-por-maurizio-martina/",
+      "titular": "Las fugas de metano en los países que suministran gas a España se triplican en 2025",
+      "url": "https://efeverde.com/fugas-metano-paises-suministran-gas-espana-triplican-2025/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Se nos viene encima el Niño extremo. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/se-nos-viene-encima-el-nino-extremo/",
+      "titular": "Cómo sofocar incendios forestales y económicos en Mangas Verdes 487",
+      "url": "https://efeverde.com/sofocar-incendios-rurales-economicos-mangas-verdes-487/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El reto de predecir el tiempo en la Antártida: el trabajo clave de la Aemet en el continente helado",
-      "url": "https://efeverde.com/predecir-tiempo-antartida-trabajo-clave-aemet/",
+      "titular": "Presentan un documental sobre la recuperación del lince con la colaboración de cazadores",
+      "url": "https://efeverde.com/documental-sobre-recuperacion-lince/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "De selva a sabana, el futuro de la Amazonía si no se frena la deforestación",
+      "url": "https://efeverde.com/de-selva-a-sabana-el-futuro-de-la-amazonia-si-no-se-frena-la-deforestacion/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Tsunamis por el retroceso de glaciares: el fenómeno del que hay que protegerse",
+      "url": "https://efeverde.com/tsunamis-retroceso-de-glaciares/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una expedición de Greenpeace investigará por primera vez las profundidades del Ártico",
+      "url": "https://efeverde.com/expedicion-greenpeace-profundidades-artico/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "¿Hacia dónde va la institucionalidad ambiental?",
+      "url": "https://www.terram.cl/hacia-donde-va-la-institucionalidad-ambiental/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Oxford premia a estudio que alerta sobre el uso de figura ambiental para expandir proyectos inmobiliarios en el sur de Chile",
+      "url": "https://www.terram.cl/oxford-premia-a-estudio-que-alerta-sobre-el-uso-de-figura-ambiental-para-expandir-proyectos-inmobiliarios-en-el-sur-de-chile/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Aprueban planta desaladora en Región de Antofagasta: inversión de US$5.000 y cerca 700.000 metros cúbicos al día",
+      "url": "https://www.terram.cl/aprueban-planta-desaladora-en-region-de-antofagasta-inversion-de-us5-000-y-cerca-700-000-metros-cubicos-al-dia/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Estudio inédito revela cómo cambian los bosques de huiro a lo largo de la costa del país",
+      "url": "https://www.terram.cl/estudio-inedito-revela-como-cambian-los-bosques-de-huiro-a-lo-largo-de-la-costa-del-pais/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Seremi del Medio Ambiente informa constante monitoreo de calidad del aire en Puchuncaví y Quintero y pide reforzar limpieza de alcantarillados de establecimientos educacionales",
+      "url": "https://www.terram.cl/seremi-del-medio-ambiente-informa-constante-monitoreo-de-calidad-del-aire-en-puchuncavi-y-quintero-y-pide-reforzar-limpieza-de-alcantarillados-de-establecimientos-educacionales/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "El calentamiento global podría cambiar los efectos de El Niño",
+      "url": "https://www.terram.cl/el-calentamiento-global-podria-cambiar-los-efectos-de-el-nino/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Conferencia de Santa Marta cierra con hojas de ruta nacionales y nuevo panel científico para acelerar la salida de los combustibles fósiles",
+      "url": "https://www.fima.cl/2026/05/06/conferencia-de-santa-marta-cierra-con-hojas-de-ruta-nacionales-y-nuevo-panel-cientifico-para-acelerar-la-salida-de-los-combustibles-fosiles/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA lideró nuevo encuentro de la Red Nacional de Fiscalización Ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-lidero-nuevo-encuentro-de-la-red-nacional-de-fiscalizacion-ambiental/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades ambientales y gremio de la construcción dialogan sobre gestión de residuos en la Región de Coquimbo",
+      "url": "https://mma.gob.cl/autoridades-ambientales-y-gremio-de-la-construccion-dialogan-sobre-gestion-de-residuos-en-la-region-de-coquimbo/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Presidente Kast y ministra Toledo reconocen a municipio de Calbuco con sello ambiental de excelencia",
+      "url": "https://mma.gob.cl/presidente-kast-y-ministra-toledo-reconocen-a-municipio-de-calbuco-con-sello-ambiental-de-excelencia/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi de Medio Ambiente destaca aprobación ambiental de nueva planta desaladora en la Región de Antofagasta",
+      "url": "https://mma.gob.cl/seremi-de-medio-ambiente-destaca-aprobacion-ambiental-de-nueva-planta-desaladora-en-la-region-de-antofagasta/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades hacen llamado a vecinos de las comunas de la Provincia de Quillota a ser parte de encuesta de catastro de artefactos a leña",
+      "url": "https://mma.gob.cl/autoridades-hacen-llamado-a-vecinos-de-las-comunas-de-la-provincia-de-quillota-a-ser-parte-de-encuesta-de-catastro-de-artefactos-a-lena/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Realizan taller informativo por elaboración de Norma Secundaria para Sistema Lacustre Lago Vichuquén",
+      "url": "https://mma.gob.cl/realizan-taller-informativo-por-elaboracion-de-norma-secundaria-para-sistema-lacustre-lago-vichuquen/",
+      "fecha": "2026-05-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Asociación Mapuche Huilliche cubre demanda energética de producción hortícola con paneles solares",
+      "url": "https://mma.gob.cl/asociacion-mapuche-huilliche-cubre-demanda-energetica-de-produccion-horticola-con-paneles-solares/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Duración de las carreras y el rediseño pendiente de la educación superior",
-      "url": "https://www.latercera.com/opinion/noticia/duracion-de-las-carreras-y-el-rediseno-pendiente-de-la-educacion-superior/",
+      "titular": "Línea 8 del Metro recibe aprobación unánime del SEA ¿Cuál será el trazado de las estaciones?",
+      "url": "https://www.latercera.com/pulso/noticia/linea-8-del-metro-recibe-aprobacion-unanime-del-servicio-de-evaluacion-ambiental/",
       "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Acústica arquitectónica en Chile: seminario de Codexverde y UDLA pondrá foco en normativa, innovación y calidad de vida",
-      "url": "https://codexverde.cl/acustica-arquitectonica-en-chile-seminario-de-codexverde-y-udla-pondra-foco-en-normativa-innovacion-y-calidad-de-vida/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Gonzalo Cruces inicia su gestión como seremi del Medio Ambiente RM: residuos y presión territorial marcan la agenda ambiental",
-      "url": "https://codexverde.cl/gonzalo-cruces-inicia-su-gestion-como-seremi-del-medio-ambiente/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Altitud de la isoterma 0 °C: ¿cómo es su comportamiento en la zona costera del Biobío?",
-      "url": "https://www.cr2.cl/altitud-de-la-isoterma-0-c-como-es-su-comportamiento-en-la-zona-costera-del-biobio/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un estudio, realizado en 205 países, alerta del desperdicio de los fertilizantes en los grandes cultivos agrícolas",
-      "url": "https://efeverde.com/desperdicio-fertilizantes-en-grandes-cultivos-agricolas/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un informe revela la «lentitud» de las principales empresas alimentarias del mundo para aplicar los compromisos de bienestar animal",
-      "url": "https://efeverde.com/informe-lentitud-principales-empresas-alimentarias-mundo-compromisos-bienestar-animal/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Estado rechaza cuarta propuesta de conciliación de minera demandada por daño ambiental en salar de Surire",
-      "url": "https://www.terram.cl/estado-rechaza-cuarta-propuesta-de-conciliacion-de-minera-demandada-por-dano-ambiental-en-salar-de-surire/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "SMA notifica a 114 centros de salmones en Magallanes por ubicación de estructuras",
-      "url": "https://www.terram.cl/sma-notifica-a-114-centros-de-salmones-en-magallanes-por-ubicacion-de-estructuras/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Reportan más de 130 cisnes de cuello negro muertos por influenza aviar en Los Ríos",
-      "url": "https://www.terram.cl/reportan-mas-de-130-cisnes-de-cuello-negro-muertos-por-influenza-aviar-en-los-rios/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Osorno: piden a Gobierno agilizar reconocimiento oficial de 5 humedales urbanos ubicados en río Damas",
-      "url": "https://www.terram.cl/osorno-piden-a-gobierno-agilizar-reconocimiento-oficial-de-5-humedales-urbanos-ubicados-en-rio-damas/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Indignación por “Dirt & Chaos 2026”: apuntan impacto ambiental en Quebrada El León",
-      "url": "https://www.terram.cl/indignacion-por-dirt-chaos-2026-apuntan-impacto-ambiental-en-quebrada-el-leon/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Municipio de penco insiste en rechazo a proyecto de tierras raras: adenda no corrige impactos ni incumplimientos",
-      "url": "https://www.terram.cl/municipio-de-penco-insiste-en-rechazo-a-proyecto-de-tierras-raras-adenda-no-corrige-impactos-ni-incumplimientos/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF celebró el Día del Ingeniero e Ingeniera Forestal a nivel nacional",
-      "url": "https://www.conaf.cl/conaf-celebro-el-dia-del-ingeniero-e-ingeniera-forestal-a-nivel-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-celebro-el-dia-del-ingeniero-e-ingeniera-forestal-a-nivel-nacional",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Continúan los patrullajes preventivos en el Parque Nacional Nonguén",
-      "url": "https://www.conaf.cl/continuan-los-patrullajes-preventivos-en-el-parque-nacional-nonguen/?utm_source=rss&utm_medium=rss&utm_campaign=continuan-los-patrullajes-preventivos-en-el-parque-nacional-nonguen",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Experiencias en terreno muestran impacto del fondo de bosque nativo en La Araucanía",
-      "url": "https://www.conaf.cl/experiencias-en-terreno-muestran-impacto-del-fondo-de-bosque-nativo-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=experiencias-en-terreno-muestran-impacto-del-fondo-de-bosque-nativo-en-la-araucania",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble reconoce contribución de ingenieros forestales al desarrollo sustentable de la región",
-      "url": "https://www.conaf.cl/conaf-nuble-reconoce-contribucion-de-ingenieros-forestales-al-desarrollo-sustentable-de-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-reconoce-contribucion-de-ingenieros-forestales-al-desarrollo-sustentable-de-la-region",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Entregan plantas nativas en el Día Nacional del Ingeniero Forestal",
-      "url": "https://www.conaf.cl/entregan-plantas-nativas-en-el-dia-nacional-del-ingeniero-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=entregan-plantas-nativas-en-el-dia-nacional-del-ingeniero-forestal",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Maule conmemora el Día del Ingeniero Forestal con actividad ciudadana en plaza de armas de Talca",
-      "url": "https://www.conaf.cl/conaf-maule-conmemora-el-dia-del-ingeniero-forestal-con-actividad-ciudadana-en-plaza-de-armas-de-talca/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-maule-conmemora-el-dia-del-ingeniero-forestal-con-actividad-ciudadana-en-plaza-de-armas-de-talca",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Asumen funciones nuevos directores regionales de la DGA",
-      "url": "https://dga.mop.gob.cl/asumen-funciones-nuevos-directores-regionales-de-la-dga/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA Biobío presenta alcances de estudio hídrico en islas Santa María y Mocha",
-      "url": "https://dga.mop.gob.cl/dga-biobio-presenta-alcances-de-estudio-hidrico-en-islas-santa-maria-y-mocha/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Vecinos de la Población Kajeco de Natales recuperan botellas plásticas PET 1 y latas de aluminio",
-      "url": "https://mma.gob.cl/vecinos-de-la-poblacion-kajeco-de-natales-recuperan-botellas-plasticas-pet-1-y-latas-de-aluminio/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "La calidad del aire parte en casa: invitan a actores del rubro construcción a taller sobre reglamentación térmica",
-      "url": "https://mma.gob.cl/la-calidad-del-aire-parte-en-casa-invitan-a-actores-del-rubro-construccion-a-taller-sobre-reglamentacion-termica/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se aprueba EIA de desaladora por US$5 mil millones",
-      "url": "https://www.mch.cl/se-aprueba-eia-de-desaladora-por-us5-mil-millones/",
-      "fecha": "2026-05-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal escucha alegatos en reclamación en contra de evaluación ambiental favorable de proyecto minero",
-      "url": "https://www.mch.cl/tribunal-escucha-alegatos-en-reclamacion-en-contra-de-evaluacion-ambiental-favorable-de-proyecto-minero/",
-      "fecha": "2026-05-05",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Coquimbo: Proyecto fotovoltaico por US$88 millones ingresa al SEIA",
+      "url": "https://www.revistaei.cl/coquimbo-proyecto-fotovoltaico-por-us88-millones-ingresa-al-seia/",
+      "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

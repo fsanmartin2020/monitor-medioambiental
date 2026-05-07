@@ -1,54 +1,53 @@
 {
-  "fecha_generacion": "2026-05-06T08:38:19.937791-04:00",
+  "fecha_generacion": "2026-05-07T08:44:01.564336-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Estado rechaza cuarta propuesta de conciliación de minera demandada por daño ambiental en salar de Surire",
-      "url": "https://www.terram.cl/estado-rechaza-cuarta-propuesta-de-conciliacion-de-minera-demandada-por-dano-ambiental-en-salar-de-surire/",
-      "fecha": "2026-05-05",
+      "fuente": "País Circular",
+      "titular": "Abogados especialistas en Medio Ambiente rechazan restitución de gastos por anulación de RCA incorporada en proyecto de ley de Reconstrucción",
+      "url": "https://www.paiscircular.cl/medio-ambiente/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
+      "fecha": "2026-05-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Continúa el proceso judicial que busca una sentencia por daño ambiental contra la minera Quiborax por dañar irreparablemente el salar de Surire y afectar la nidificación de flamencos. Fuente: El Desconcierto, 5 de mayo de 2026.",
+      "extracto": "Un seminario organizado por la Facultad de Derecho de la Universidad de Chile reunió ayer a Luis Cordero, Dominique Hervé, Patricio Leyton y Paulina Riquelme, con la moderación de Ximena Insunza, para analizar los aspectos ambientales incluidos en el",
       "keywords_detectadas": [
-        "daño ambiental"
+        "RCA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "SMA notifica a 114 centros de salmones en Magallanes por ubicación de estructuras",
-      "url": "https://www.terram.cl/sma-notifica-a-114-centros-de-salmones-en-magallanes-por-ubicacion-de-estructuras/",
-      "fecha": "2026-05-05",
+      "fuente": "SMA",
+      "titular": "SMA lideró nuevo encuentro de la Red Nacional de Fiscalización Ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-lidero-nuevo-encuentro-de-la-red-nacional-de-fiscalizacion-ambiental/",
+      "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente (SMA) envió 998 notificaciones preventivas a Centros de Engorda de Salmones en las regiones de Los Lagos, Aysén y Magallanes, con el objetivo de advertir a los titulares sobre el posicionamiento de sus balsas ja",
+      "extracto": "La instancia tuvo por objetivo dar inicio al Ciclo de Programación 2026 y presentar lineamientos para la planificación de la fiscalización ambiental del año 2027. En este contexto, la Superintendenta (s), Claudia Pastore, hizo un llamado a continuar ",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
-      "fecha": "2026-05-05",
+      "fuente": "La Tercera",
+      "titular": "Línea 8 del Metro recibe aprobación unánime del SEA ¿Cuál será el trazado de las estaciones?",
+      "url": "https://www.latercera.com/pulso/noticia/linea-8-del-metro-recibe-aprobacion-unanime-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. El Tercer Tribunal Ambiental llevó a cabo una inspección personal en el predio del proyecto «P",
+      "extracto": "La línea 8, con una inversión de US$1.900 millones, conectará a Puente Alto con Providencia, permitiendo descongestionar la Línea 4 del metro.",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "daño ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se aprueba EIA de desaladora por US$5 mil millones",
-      "url": "https://www.mch.cl/se-aprueba-eia-de-desaladora-por-us5-mil-millones/",
-      "fecha": "2026-05-05",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Coquimbo: Proyecto fotovoltaico por US$88 millones ingresa al SEIA",
+      "url": "https://www.revistaei.cl/coquimbo-proyecto-fotovoltaico-por-us88-millones-ingresa-al-seia/",
+      "fecha": "2026-05-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa busca disminuir la escasez hídrica de la Región de Antofagasta, generando la posibilidad que industrias y mineras cercanas al trazado de los ductos puedan solicitar provisión de agua industrial desalinizada. La entrada Se aprueba EIA de",
+      "extracto": "La iniciativa contempla además un sistema de almacenamiento de energía con baterías (BESS) que tendrá una capacidad de 60 MW / 240 MWh. La entrada Coquimbo: Proyecto fotovoltaico por US$88 millones ingresa al SEIA se publicó primero en Revista Electr",
       "keywords_detectadas": [
-        "EIA"
+        "SEIA"
       ]
     }
   ]
