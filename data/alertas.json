@@ -1,11 +1,11 @@
 {
-  "fecha_generacion": "2026-05-07T08:44:01.564336-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-05-08T08:24:21.873336-04:00",
+  "total_alertas": 9,
   "alertas": [
     {
-      "fuente": "País Circular",
+      "fuente": "Terram",
       "titular": "Abogados especialistas en Medio Ambiente rechazan restitución de gastos por anulación de RCA incorporada en proyecto de ley de Reconstrucción",
-      "url": "https://www.paiscircular.cl/medio-ambiente/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
+      "url": "https://www.terram.cl/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
       "fecha": "2026-05-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
@@ -15,39 +15,99 @@
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA lideró nuevo encuentro de la Red Nacional de Fiscalización Ambiental",
-      "url": "https://portal.sma.gob.cl/index.php/sma-lidero-nuevo-encuentro-de-la-red-nacional-de-fiscalizacion-ambiental/",
-      "fecha": "2026-05-06",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "El Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral",
+      "url": "https://www.1ta.cl/el-primer-tribunal-ambiental-inaugurara-su-ano-judicial-y-dara-su-cuenta-publica-con-una-charla-magistral/",
+      "fecha": "2026-05-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La instancia tuvo por objetivo dar inicio al Ciclo de Programación 2026 y presentar lineamientos para la planificación de la fiscalización ambiental del año 2027. En este contexto, la Superintendenta (s), Claudia Pastore, hizo un llamado a continuar ",
+      "extracto": "El El Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública del año 2025 en una ceremonia que contará con la participación de destacados expertos nacionales. En la ocasión, se dictará la charla magistral titulada “Justicia Amb",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "AHORA: audiencia en reclamación que busca dejar sin efecto la multa de $875 millones, ordenada a empresa de extracción de áridos ubicada en Maipú por ejecutar proyecto sin contar con RCA",
+      "url": "https://tribunalambiental.cl/en-breve-audiencia-en-reclamacion-que-busca-dejar-sin-efecto-la-multa-de-875-millones-ordenada-a-empresa-de-extraccion-de-aridos-ubicada-en-maipu-por-ejecutar-proyecto-sin-contar-con-rca/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental realiza audiencia en reclamación que busca dejar sin efecto la multa de 1.033 UTA, unos $875 millones, ordenada a empresa de extracción de áridos ubicada en la comuna de Maipú por ejecutar su proyecto sin contar con la r",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "19/05/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026",
+      "url": "https://3ta.cl/audiencias/19-05-2026-fija-audiencia-en-caso-de-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente-rol-r-3-2026/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 19/05/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 19/05/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026 appeared fir",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Inmobiliaria Pocuro Sur y SMA presentaron argumentos en reclamación por proyecto «Loteo Llacolén” en Coronel",
+      "url": "https://3ta.cl/noticias/inmobiliaria-pocuro-sur-y-sma-presentaron-argumentos-en-reclamacion-por-proyecto-loteo-llacolen-en-coronel/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La inmobiliaria busca dejar sin efecto las resoluciones de la SMA que dispusieron la detención de las obras de la Etapa IV del proyecto. El origen de la reclamación de la inmobiliaria se basa en dos resoluciones de la Superintendencia del Medio Ambie",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de Compañía Minera Teck Quebrada Blanca S.A.",
+      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera-teck-quebrada-blanca-s-a/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones del programa están orientadas a subsanar los incumplimientos ambientales cometidos por la empresa. El programa considera medidas cercanas a los 9.850 millones. La Superintendencia del Medio Ambiente (SMA) aprobó el Programa de Cumplimien",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
       "fuente": "La Tercera",
-      "titular": "Línea 8 del Metro recibe aprobación unánime del SEA ¿Cuál será el trazado de las estaciones?",
-      "url": "https://www.latercera.com/pulso/noticia/linea-8-del-metro-recibe-aprobacion-unanime-del-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-05-06",
+      "titular": "“Lo más probable es que sea cirugía”: Yasmani Acosta sufre una grave lesión en su regreso a las competencias",
+      "url": "https://www.latercera.com/el-deportivo/noticia/lo-mas-probable-es-que-sea-cirugia-yasmani-acosta-sufre-una-grave-lesion-en-su-regreso-a-las-competencias/",
+      "fecha": "2026-05-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La línea 8, con una inversión de US$1.900 millones, conectará a Puente Alto con Providencia, permitiendo descongestionar la Línea 4 del metro.",
+      "extracto": "El medallista olímpico debió retirarse en silla ruedas tras un movimiento que realizó en pleno combate en Estados Unidos. Su pronóstico es incierto.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Coquimbo: Proyecto fotovoltaico por US$88 millones ingresa al SEIA",
-      "url": "https://www.revistaei.cl/coquimbo-proyecto-fotovoltaico-por-us88-millones-ingresa-al-seia/",
-      "fecha": "2026-05-06",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de compañía minera",
+      "url": "https://www.mch.cl/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera/",
+      "fecha": "2026-05-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa contempla además un sistema de almacenamiento de energía con baterías (BESS) que tendrá una capacidad de 60 MW / 240 MWh. La entrada Coquimbo: Proyecto fotovoltaico por US$88 millones ingresa al SEIA se publicó primero en Revista Electr",
+      "extracto": "El monto comprometido por el total de las acciones propuestas en el PDC asciende a aproximadamente a $9.849.345.711, las que deberán ser cumplidas en un plazo de 24 meses. La entrada Tarapacá: SMA aprueba Programa de Cumplimiento de compañía minera s",
       "keywords_detectadas": [
-        "SEIA"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA reúne a organismos públicos para definir lineamientos de fiscalización ambiental 2026",
+      "url": "https://www.revistaei.cl/sma-reune-a-organismos-publicos-para-definir-lineamientos-de-fiscalizacion-ambiental-2026/",
+      "fecha": "2026-05-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La superintendenta (s) Claudia Pastore hizo un llamado a continuar fortaleciendo el trabajo interinstitucional para avanzar hacia una mayor protección del medio ambiente. La entrada SMA reúne a organismos públicos para definir lineamientos de fiscali",
+      "keywords_detectadas": [
+        "SMA"
       ]
     }
   ]
