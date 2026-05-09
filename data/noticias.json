@@ -1,261 +1,229 @@
 {
-  "fecha_actualizacion": "2026-05-08T08:24:21.857883-04:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-05-09T08:06:47.288932-04:00",
+  "total": 28,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Eko3: la solución tecnológica para desinfectar superficies y alimentos sin uso de químicos",
-      "url": "https://www.paiscircular.cl/agua/eko3/",
-      "fecha": "2026-05-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Banca impulsa a MiPymes sostenibles: $33 mil millones en créditos con condiciones preferentes para empresas APL",
-      "url": "https://codexverde.cl/banca-impulsa-a-mipymes-sostenibles-33-mil-millones-en-creditos-con-condiciones-preferentes-para-empresas-apl/",
-      "fecha": "2026-05-08",
+      "fuente": "EFE Verde",
+      "titular": "Protestas contra el «fracking sustentable» de Sheinbaum",
+      "url": "https://efeverde.com/protestas-contra-el-fracking-sustentable-de-sheinbaum/",
+      "fecha": "2026-05-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El chotacabras depende de la luz lunar para cazar",
-      "url": "https://efeverde.com/el-chotacabras-depende-de-la-luz-lunar-para-cazar/",
-      "fecha": "2026-05-08",
+      "titular": "La justicia argentina revoca freno a la aplicación de la reforma de la ley de glaciares",
+      "url": "https://efeverde.com/justicia-argentina-revoca-freno-a-la-aplicacion-de-la-reforma-de-la-ley-de-glaciares/",
+      "fecha": "2026-05-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Osos ligones. Por May",
-      "url": "https://efeverde.com/osos-ligones-may-mundomay/",
-      "fecha": "2026-05-08",
+      "titular": "La agricultura regenerativa reduciría a la mitad la escorrentía, según un estudio basado en Valencia",
+      "url": "https://efeverde.com/la-agricultura-regenerativa-reduciria-a-la-mitad-la-escorrentia-segun-un-estudio-basado-en-valencia/",
+      "fecha": "2026-05-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los océanos extrapolares alcanzan en abril la segunda temperatura más alta de la historia",
-      "url": "https://efeverde.com/los-oceanos-extrapolares-alcanzan-en-abril-la-segunda-temperatura-mas-alta-de-la-historia/",
-      "fecha": "2026-05-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La cometa del futuro: una alternativa para generar energía renovable",
-      "url": "https://efeverde.com/la-cometa-del-futuro-una-alternativa-para-generar-energia-renovable/",
-      "fecha": "2026-05-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Emol",
+      "titular": "De la junta de accionistas a la SMA: El origen y claves de la trama ambiental que sacude a Enap",
+      "url": "https://www.emol.com/noticias/Economia/2026/05/09/1199514/enap-medio-ambiente-antecedentes-falsos.html",
+      "fecha": "2026-05-09",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "País Circular",
-      "titular": "CircularTec apuesta por la “segunda vida” de las baterías de litio",
-      "url": "https://www.paiscircular.cl/economia-circular/circulartec-apuesta-por-la-segunda-vida-de-las-baterias-de-litio/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Mercado de compensación de emisiones se descentraliza y logra mayor diversificación de proyectos",
-      "url": "https://www.paiscircular.cl/medio-ambiente/mercado-de-compensacion-de-emisiones-se-descentraliza-y-logra-mayor-diversificacion-de-proyectos/",
-      "fecha": "2026-05-07",
+      "titular": "Del residuo al recurso: Campaña AgroCircular vuelve a Osorno para impulsar la sostenibilidad en el agro",
+      "url": "https://www.paiscircular.cl/economia-circular/del-residuo-al-recurso-campana-agrocircular-vuelve-a-osorno-para-impulsar-la-sostenibilidad-en-el-agro/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "SIGDO KOPPERS ALCANZA SU MAYOR PUNTAJE HISTÓRICO Y SUMA 11 AÑOS CONSECUTIVOS EN EL DOW JONES SUSTAINABILITY INDEX",
-      "url": "https://www.chiledesarrollosustentable.cl/sigdo-koppers-alcanza-su-mayor-puntaje-historico-y-suma-11-anos-consecutivos-en-el-dow-jones-sustainability-index/?utm_source=rss&utm_medium=rss&utm_campaign=sigdo-koppers-alcanza-su-mayor-puntaje-historico-y-suma-11-anos-consecutivos-en-el-dow-jones-sustainability-index",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Municipios cordilleranos de La Araucanía impulsan recolección gratuita de neumáticos fuera de uso",
-      "url": "https://codexverde.cl/municipios-cordilleranos-de-la-araucania-impulsan-recoleccion-gratuita-de-neumaticos-fuera-de-uso/",
-      "fecha": "2026-05-07",
+      "titular": "¿LA ATENCIÓN MEDIÁTICA AL CAMBIO CLIMÁTICO INFLUYE EN LAS DECISIONES DE INVERSIÓN?",
+      "url": "https://www.chiledesarrollosustentable.cl/la-atencion-mediatica-al-cambio-climatico-influye-en-las-decisiones-de-inversion/?utm_source=rss&utm_medium=rss&utm_campaign=la-atencion-mediatica-al-cambio-climatico-influye-en-las-decisiones-de-inversion",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los calderones «gritan» en un intento de hacerse oír entre el ruido de embarcaciones",
-      "url": "https://efeverde.com/los-calderones-gritan-en-un-intento-de-hacerse-oir-entre-el-ruido-de-embarcaciones/",
-      "fecha": "2026-05-07",
+      "titular": "El calor y las lluvias adelantan la temporada de mosquitos en España",
+      "url": "https://efeverde.com/temporada-de-mosquitos-en-espana/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nace GOTA, un observatorio para conocer en tiempo real los datos del agua en España",
-      "url": "https://efeverde.com/nace-gota-observatorio-para-conocer-en-tiempo-real-datos-del-agua/",
-      "fecha": "2026-05-07",
+      "titular": "Las emisiones de la aviación en Europa alcanzan máximo en 2025 y superan los niveles previos a la pandemia",
+      "url": "https://efeverde.com/emisiones-aviacion-europa-2025/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El fiscal de Medio Ambiente cifra en «solo» 86 las condenas por incendios forestales en 2025",
-      "url": "https://efeverde.com/fiscal-de-medio-ambiente-condenas-por-incendios-forestales-en-2025/",
-      "fecha": "2026-05-07",
+      "titular": "Colilargo, el ratón silvestre de Chile y Argentina que transmite la peligrosa cepa Andes",
+      "url": "https://efeverde.com/colilargo-raton-silvestre-chile-argentina-transmite-cepa-andes-hantavirus/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "David Attenborough, 100 años divulgando sobre la naturaleza",
+      "url": "https://efeverde.com/david-attenborough-100-anos-divulgando-sobre-la-naturaleza/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Puchuncaví – Quintero una negligente realidad",
-      "url": "https://www.terram.cl/puchuncavi-quintero-una-negligente-realidad/",
-      "fecha": "2026-05-07",
+      "titular": "Venta de loteos agrícolas para viviendas: El fallo de la Corte Suprema que detuvo proyecto en Los Lagos",
+      "url": "https://www.terram.cl/venta-de-loteos-agricolas-para-viviendas-el-fallo-de-la-corte-suprema-que-detuvo-proyecto-en-los-lagos/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Estudio detecta islas de calor alrededor de mega data centers que suben la temperatura hasta 9 grados",
-      "url": "https://www.terram.cl/estudio-detecta-islas-de-calor-alrededor-de-mega-data-centers-que-suben-la-temperatura-hasta-9-grados/",
-      "fecha": "2026-05-07",
+      "titular": "Tierras raras en Penco: organismos públicos se inclinan a favor de cuestionado proyecto minero",
+      "url": "https://www.terram.cl/tierras-raras-en-penco-organismos-publicos-se-inclinan-a-favor-de-cuestionado-proyecto-minero/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Abogados especialistas en Medio Ambiente rechazan restitución de gastos por anulación de RCA incorporada en proyecto de ley de Reconstrucción",
-      "url": "https://www.terram.cl/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
-      "fecha": "2026-05-07",
+      "titular": "En Bolivia, la expansión intensiva de la minería ilegal en el río Madre de Dios deja “daños graves”: Tribunal Agroambiental",
+      "url": "https://www.terram.cl/en-bolivia-la-expansion-intensiva-de-la-mineria-ilegal-en-el-rio-madre-de-dios-deja-danos-graves-tribunal-agroambiental/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Hantavirus: cambio climático amplía riesgo de propagación a otras zonas de Chile",
-      "url": "https://www.terram.cl/hantavirus-cambio-climatico-amplia-riesgo-de-propagacion-a-otras-zonas-de-chile/",
-      "fecha": "2026-05-07",
+      "titular": "Océanos rozan récords de calor, alerta Copernicus",
+      "url": "https://www.terram.cl/oceanos-rozan-records-de-calor-alerta-copernicus/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Restaurar la Noche: la mirada de Chiara Carucci sobre cómo proteger los cielos oscuros e iluminar sin dañar la biodiversidad",
-      "url": "https://www.terram.cl/restaurar-la-noche-la-mirada-de-chiara-carucci-sobre-como-proteger-los-cielos-oscuros-e-iluminar-sin-danar-la-biodiversidad/",
-      "fecha": "2026-05-07",
+      "titular": "Estudio demuestra que los microplásticos en el aire aceleran el calentamiento global",
+      "url": "https://www.terram.cl/estudio-demuestra-que-los-microplasticos-en-el-aire-aceleran-el-calentamiento-global/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "OMI advierte riesgo de contaminación marina a gran escala en ataques contra buques en Ormuz",
-      "url": "https://www.terram.cl/omi-advierte-riesgo-de-contaminacion-marina-a-gran-escala-en-ataques-contra-buques-en-ormuz/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "El Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral",
-      "url": "https://www.1ta.cl/el-primer-tribunal-ambiental-inaugurara-su-ano-judicial-y-dara-su-cuenta-publica-con-una-charla-magistral/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "AHORA: audiencia en reclamación que busca dejar sin efecto la multa de $875 millones, ordenada a empresa de extracción de áridos ubicada en Maipú por ejecutar proyecto sin contar con RCA",
-      "url": "https://tribunalambiental.cl/en-breve-audiencia-en-reclamacion-que-busca-dejar-sin-efecto-la-multa-de-875-millones-ordenada-a-empresa-de-extraccion-de-aridos-ubicada-en-maipu-por-ejecutar-proyecto-sin-contar-con-rca/",
-      "fecha": "2026-05-07",
+      "titular": "Las energías limpias y tecnologías digitales tienen un costo humano",
+      "url": "https://www.terram.cl/las-energias-limpias-y-tecnologias-digitales-tienen-un-costo-humano/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "19/05/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026",
-      "url": "https://3ta.cl/audiencias/19-05-2026-fija-audiencia-en-caso-de-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente-rol-r-3-2026/",
-      "fecha": "2026-05-07",
+      "titular": "Admítase a trámite «Comité Unión Diguillín y otros con Comisión de Evaluación Ambiental Región del Ñuble». Rol: R-26-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-comite-union-diguillin-y-otros-con-comision-de-evaluacion-ambiental-region-del-nuble-rol-r-26-2026/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Inmobiliaria Pocuro Sur y SMA presentaron argumentos en reclamación por proyecto «Loteo Llacolén” en Coronel",
-      "url": "https://3ta.cl/noticias/inmobiliaria-pocuro-sur-y-sma-presentaron-argumentos-en-reclamacion-por-proyecto-loteo-llacolen-en-coronel/",
-      "fecha": "2026-05-07",
+      "titular": "Turno medidas provisionales 08/05/2026",
+      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-08-05-2026/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Consejos de la sociedad civil cosoc",
-      "url": "https://www.sernapesca.cl/participacion_ciudadana/consejos-de-la-sociedad-civil-cosoc/",
-      "fecha": "2026-05-07",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal revisa reclamación de Municipio de Hualpén contra SMA tras sanciones a titular de vertedero en zona de humedal",
+      "url": "https://3ta.cl/noticias/tribunal-revisa-reclamacion-de-municipio-de-hualpen-contra-sma-tras-sanciones-a-titular-de-vertedero-en-zona-de-humedal/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "En aula y terreno: escolares de La Calera y La Cruz aprendieron a cuidar a la palma chilena",
-      "url": "https://www.conaf.cl/en-aula-y-terreno-escolares-de-la-calera-y-la-cruz-aprendieron-a-cuidar-a-la-palma-chilena/?utm_source=rss&utm_medium=rss&utm_campaign=en-aula-y-terreno-escolares-de-la-calera-y-la-cruz-aprendieron-a-cuidar-a-la-palma-chilena",
-      "fecha": "2026-05-07",
+      "titular": "CONAF y CGE fortalecen coordinación preventiva ante emergencias eléctricas en La Araucanía",
+      "url": "https://www.conaf.cl/conaf-y-cge-fortalecen-coordinacion-preventiva-ante-emergencias-electricas-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-cge-fortalecen-coordinacion-preventiva-ante-emergencias-electricas-en-la-araucania",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SMA",
-      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de Compañía Minera Teck Quebrada Blanca S.A.",
-      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera-teck-quebrada-blanca-s-a/",
-      "fecha": "2026-05-07",
+      "fuente": "CONAF",
+      "titular": "Refuerzan acciones de protección para la fardela blanca en Isla Mocha",
+      "url": "https://www.conaf.cl/refuerzan-acciones-de-proteccion-para-la-fardela-blanca-en-isla-mocha/?utm_source=rss&utm_medium=rss&utm_campaign=refuerzan-acciones-de-proteccion-para-la-fardela-blanca-en-isla-mocha",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF en alerta por impacto de influenza aviar en áreas protegidas",
+      "url": "https://www.conaf.cl/conaf-en-alerta-por-impacto-de-influenza-aviar-en-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-en-alerta-por-impacto-de-influenza-aviar-en-areas-protegidas",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presidente Kast y ministra Francisca Toledo participan en el Salmón Summit 2026",
-      "url": "https://mma.gob.cl/presidente-kast-y-ministra-francisca-toledo-participan-en-el-salmon-summit-2026/",
-      "fecha": "2026-05-07",
+      "titular": "Ministra Toledo anuncia nuevas opciones para reciclar “chatarra electrónica” en todo Chile",
+      "url": "https://mma.gob.cl/ministra-toledo-anuncia-nuevas-opciones-para-reciclar-chatarra-electronica-en-todo-chile/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "El rol que debe jugar el “Segundo Piso”",
-      "url": "https://www.latercera.com/editorial/noticia/el-rol-que-debe-jugar-el-segundo-piso/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Lo más probable es que sea cirugía”: Yasmani Acosta sufre una grave lesión en su regreso a las competencias",
-      "url": "https://www.latercera.com/el-deportivo/noticia/lo-mas-probable-es-que-sea-cirugia-yasmani-acosta-sufre-una-grave-lesion-en-su-regreso-a-las-competencias/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Cómo será el supermercado PriceSmart en Chicureo que costará casi US$10 millones",
-      "url": "https://www.latercera.com/pulso/noticia/como-sera-el-supermercado-pricesmart-en-chicureo-que-costara-casi-us10-millones/",
-      "fecha": "2026-05-07",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seminario Estado Verde reúne a funcionarios públicos para fortalecer la sostenibilidad en el Estado",
+      "url": "https://mma.gob.cl/seminario-estado-verde-reune-a-funcionarios-publicos-para-fortalecer-la-sostenibilidad-en-el-estado/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de compañía minera",
-      "url": "https://www.mch.cl/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera/",
-      "fecha": "2026-05-07",
+      "titular": "Comité de Ministros otorga RCA favorable a proyecto minero",
+      "url": "https://www.mch.cl/comite-de-ministros-otorga-rca-favorable-a-proyecto-minero/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral",
+      "url": "https://www.mch.cl/primer-tribunal-ambiental-inaugurara-su-ano-judicial-y-dara-su-cuenta-publica-con-una-charla-magistral/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA reúne a organismos públicos para definir lineamientos de fiscalización ambiental 2026",
-      "url": "https://www.revistaei.cl/sma-reune-a-organismos-publicos-para-definir-lineamientos-de-fiscalizacion-ambiental-2026/",
-      "fecha": "2026-05-07",
+      "titular": "Compañía española ingresa al SEIA proyecto de almacenamiento de energía por US$55 millones en O’Higgins",
+      "url": "https://www.revistaei.cl/compania-espanola-ingresa-al-seia-proyecto-de-almacenamiento-de-energia-por-us55-millones-en-ohiggins/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "MMA anuncia nuevas opciones para reciclar “chatarra electrónica” en todo Chile",
+      "url": "https://www.revistaei.cl/mma-anuncia-nuevas-opciones-para-reciclar-chatarra-electronica-en-todo-chile/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

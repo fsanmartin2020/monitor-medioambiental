@@ -1,113 +1,89 @@
 {
-  "fecha_generacion": "2026-05-08T08:24:21.873336-04:00",
-  "total_alertas": 9,
+  "fecha_generacion": "2026-05-09T08:06:47.304001-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Abogados especialistas en Medio Ambiente rechazan restitución de gastos por anulación de RCA incorporada en proyecto de ley de Reconstrucción",
-      "url": "https://www.terram.cl/abogados-especialistas-en-medio-ambiente-rechazan-restitucion-de-gastos-por-anulacion-de-rca-incorporada-en-proyecto-de-ley-de-reconstruccion/",
-      "fecha": "2026-05-07",
+      "fuente": "EFE Verde",
+      "titular": "La justicia argentina revoca freno a la aplicación de la reforma de la ley de glaciares",
+      "url": "https://efeverde.com/justicia-argentina-revoca-freno-a-la-aplicacion-de-la-reforma-de-la-ley-de-glaciares/",
+      "fecha": "2026-05-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Un seminario organizado por la Facultad de Derecho de la Universidad de Chile reunió ayer a Luis Cordero, Dominique Hervé, Patricio Leyton y Paulina Riquelme, con la moderación de Ximena Insunza, para analizar los aspectos ambientales incluidos en el",
+      "extracto": "Buenos Aires.- La Justicia argentina revocó este viernes un fallo que había suspendido la aplicación, en la austral provincia de Santa Cruz, de la reforma a la ley de protección de glaciares aprobada recientemente por el Parlamento argentino a impuls",
+      "keywords_detectadas": [
+        "Ley de Glaciares"
+      ]
+    },
+    {
+      "fuente": "Emol",
+      "titular": "De la junta de accionistas a la SMA: El origen y claves de la trama ambiental que sacude a Enap",
+      "url": "https://www.emol.com/noticias/Economia/2026/05/09/1199514/enap-medio-ambiente-antecedentes-falsos.html",
+      "fecha": "2026-05-09",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Venta de loteos agrícolas para viviendas: El fallo de la Corte Suprema que detuvo proyecto en Los Lagos",
+      "url": "https://www.terram.cl/venta-de-loteos-agricolas-para-viviendas-el-fallo-de-la-corte-suprema-que-detuvo-proyecto-en-los-lagos/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El negocio de los loteos en suelos rurales ha crecido en Chile, con proyectos que ofrecen terrenos habitacionales sin urbanización completa. Fuente: El Desconcierto, 6 de mayo de 2026.",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal revisa reclamación de Municipio de Hualpén contra SMA tras sanciones a titular de vertedero en zona de humedal",
+      "url": "https://3ta.cl/noticias/tribunal-revisa-reclamacion-de-municipio-de-hualpen-contra-sma-tras-sanciones-a-titular-de-vertedero-en-zona-de-humedal/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Municipalidad solicitó al Tribunal aumentar la sanción de multa y recalificar como gravísima la infracción por incumplimiento de medidas. Ante el Tercer Tribunal Ambiental se llevó a cabo la audiencia de alegatos en la causa R-25-2025, “Municipali",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Comité de Ministros otorga RCA favorable a proyecto minero",
+      "url": "https://www.mch.cl/comite-de-ministros-otorga-rca-favorable-a-proyecto-minero/",
+      "fecha": "2026-05-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los secretarios de Estado revisaron y acogieron con condiciones la reclamación del titular de la iniciativa. La entrada Comité de Ministros otorga RCA favorable a proyecto minero se publicó primero en Mch .",
       "keywords_detectadas": [
         "RCA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "El Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral",
-      "url": "https://www.1ta.cl/el-primer-tribunal-ambiental-inaugurara-su-ano-judicial-y-dara-su-cuenta-publica-con-una-charla-magistral/",
-      "fecha": "2026-05-07",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral",
+      "url": "https://www.mch.cl/primer-tribunal-ambiental-inaugurara-su-ano-judicial-y-dara-su-cuenta-publica-con-una-charla-magistral/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El El Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública del año 2025 en una ceremonia que contará con la participación de destacados expertos nacionales. En la ocasión, se dictará la charla magistral titulada “Justicia Amb",
+      "extracto": "La actividad se realizará el próximo 15 de mayo, en la Sala de Audiencias del organismo. La entrada Primer Tribunal Ambiental inaugurará su año judicial y dará su Cuenta Pública con una charla magistral se publicó primero en Mch .",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "AHORA: audiencia en reclamación que busca dejar sin efecto la multa de $875 millones, ordenada a empresa de extracción de áridos ubicada en Maipú por ejecutar proyecto sin contar con RCA",
-      "url": "https://tribunalambiental.cl/en-breve-audiencia-en-reclamacion-que-busca-dejar-sin-efecto-la-multa-de-875-millones-ordenada-a-empresa-de-extraccion-de-aridos-ubicada-en-maipu-por-ejecutar-proyecto-sin-contar-con-rca/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental realiza audiencia en reclamación que busca dejar sin efecto la multa de 1.033 UTA, unos $875 millones, ordenada a empresa de extracción de áridos ubicada en la comuna de Maipú por ejecutar su proyecto sin contar con la r",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/05/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026",
-      "url": "https://3ta.cl/audiencias/19-05-2026-fija-audiencia-en-caso-de-inmobiliaria-pocuro-sur-spa-con-superintendencia-del-medio-ambiente-rol-r-3-2026/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 19/05/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 19/05/2026: Fija audiencia en caso de «Inmobiliaria Pocuro Sur SpA con Superintendencia del Medio Ambiente», Rol: R-3-2026 appeared fir",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Inmobiliaria Pocuro Sur y SMA presentaron argumentos en reclamación por proyecto «Loteo Llacolén” en Coronel",
-      "url": "https://3ta.cl/noticias/inmobiliaria-pocuro-sur-y-sma-presentaron-argumentos-en-reclamacion-por-proyecto-loteo-llacolen-en-coronel/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La inmobiliaria busca dejar sin efecto las resoluciones de la SMA que dispusieron la detención de las obras de la Etapa IV del proyecto. El origen de la reclamación de la inmobiliaria se basa en dos resoluciones de la Superintendencia del Medio Ambie",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de Compañía Minera Teck Quebrada Blanca S.A.",
-      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera-teck-quebrada-blanca-s-a/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las acciones del programa están orientadas a subsanar los incumplimientos ambientales cometidos por la empresa. El programa considera medidas cercanas a los 9.850 millones. La Superintendencia del Medio Ambiente (SMA) aprobó el Programa de Cumplimien",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Lo más probable es que sea cirugía”: Yasmani Acosta sufre una grave lesión en su regreso a las competencias",
-      "url": "https://www.latercera.com/el-deportivo/noticia/lo-mas-probable-es-que-sea-cirugia-yasmani-acosta-sufre-una-grave-lesion-en-su-regreso-a-las-competencias/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El medallista olímpico debió retirarse en silla ruedas tras un movimiento que realizó en pleno combate en Estados Unidos. Su pronóstico es incierto.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tarapacá: SMA aprueba Programa de Cumplimiento de compañía minera",
-      "url": "https://www.mch.cl/tarapaca-sma-aprueba-programa-de-cumplimiento-de-compania-minera/",
-      "fecha": "2026-05-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El monto comprometido por el total de las acciones propuestas en el PDC asciende a aproximadamente a $9.849.345.711, las que deberán ser cumplidas en un plazo de 24 meses. La entrada Tarapacá: SMA aprueba Programa de Cumplimiento de compañía minera s",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA reúne a organismos públicos para definir lineamientos de fiscalización ambiental 2026",
-      "url": "https://www.revistaei.cl/sma-reune-a-organismos-publicos-para-definir-lineamientos-de-fiscalizacion-ambiental-2026/",
-      "fecha": "2026-05-07",
+      "titular": "Compañía española ingresa al SEIA proyecto de almacenamiento de energía por US$55 millones en O’Higgins",
+      "url": "https://www.revistaei.cl/compania-espanola-ingresa-al-seia-proyecto-de-almacenamiento-de-energia-por-us55-millones-en-ohiggins/",
+      "fecha": "2026-05-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La superintendenta (s) Claudia Pastore hizo un llamado a continuar fortaleciendo el trabajo interinstitucional para avanzar hacia una mayor protección del medio ambiente. La entrada SMA reúne a organismos públicos para definir lineamientos de fiscali",
+      "extracto": "La iniciativa considera además la construcción de una subestación elevadora equipada con un transformador 33/66 kV de 50 MVA. La entrada Compañía española ingresa al SEIA proyecto de almacenamiento de energía por US$55 millones en O’Higgins se public",
       "keywords_detectadas": [
-        "SMA"
+        "SEIA"
       ]
     }
   ]
