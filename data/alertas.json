@@ -1,54 +1,66 @@
 {
-  "fecha_generacion": "2026-05-10T07:59:14.768028-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-05-11T10:02:26.751162-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Tercer Tribunal Ambiental revisa reclamación de Municipio de Hualpén contra SMA tras sanciones a titular de vertedero en zona de humedal",
-      "url": "https://www.diarioconstitucional.cl/2026/05/10/tercer-tribunal-ambiental-revisa-reclamacion-de-municipio-de-hualpen-contra-sma-tras-sanciones-a-titular-de-vertedero-en-zona-de-humedal/",
-      "fecha": "2026-05-10",
+      "fuente": "País Circular",
+      "titular": "Nueva fase de la ley REP busca revolucionar la gestión de residuos electrónicos en Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/es-efectivo-la-ministra-y-muchos-otros-lo-vieron-la-chatarra-electronica-se-puede-transformar-en-nuevas-materias-primas-para-no-contaminar/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Municipalidad solicitó al Tribunal aumentar la sanción de multa y recalificar como gravísima la infracción por incumplimiento de medidas. The post Tercer Tribunal Ambiental revisa reclamación de Municipio de Hualpén contra SMA tras sanciones a tit",
+      "extracto": "Refrigeradores, paneles solares, hervidores, celulares y muchos otros aparatos eléctricos y electrónicos en desuso poblaron el viernes los alrededores del punto limpio instalado en el Parque O’Higgins. Algunos íntegros, otros desarmados y otros ya re",
       "keywords_detectadas": [
-        "SMA",
-        "Tribunal Ambiental"
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Recicladores de base participaron de capacita-ción sobre la Ley REP",
+      "url": "https://mma.gob.cl/recicladores-de-base-participaron-de-capacita-cion-sobre-la-ley-rep/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En dependencias de la Municipalidad de Pitrufquén se realizó una capacitación dirigida a re-cicladores de base, enfocada en la Ley […]",
+      "keywords_detectadas": [
+        "Ley REP"
       ]
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental anuló multa de $9 millones por infracción a la norma de ruido ordenada a pub restaurante ubicado en Viña del Mar",
-      "url": "https://www.diarioconstitucional.cl/2026/05/10/segundo-tribunal-ambiental-anulo-multa-de-9-millones-por-infraccion-a-la-norma-de-ruido-ordenada-a-pub-restaurante-ubicado-en-vina-del-mar/",
-      "fecha": "2026-05-10",
+      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
+      "url": "https://www.diarioconstitucional.cl/2026/05/11/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió la reclamación presentada por pub restaurante Destapas Beer House, ubicado en Viña del Mar, en contra de la multa de 11 UTA (poco más de $9 millones), ordenada por la SMA, por infracción a la norma de emisión ruid",
+      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. The post Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra pro",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Tribunal Ambiental",
+        "daño ambiental"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental presenta sitio web de su Revista Ambiental Derecho y Ciencia",
-      "url": "https://www.1ta.cl/el-primer-tribunal-ambiental-tiene-el-agrado-de-anunciar-el-lanzamiento-oficial-del-sitio-web-de-su-revista-ambiental-de-derecho-y-ciencia-una-nueva-plataforma-digital-destinada-a-la-divulgacion-de-c/",
-      "fecha": "2026-05-09",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Director Ejecutivo del SEA destaca evaluación de más de US$1.178 millones en Región del Biobío",
+      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-mas-de-us1-178-millones-en-region-del-biobio/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental tiene el agrado de anunciar el lanzamiento oficial del sitio web de su Revista Ambiental de Derecho y Ciencia, una nueva plataforma digital destinada a la divulgación de conocimiento actualizado y especializado en materia",
+      "extracto": "En jornada de trabajo en Concepción, la autoridad se reunió con el delegado presidencial, con el seremi del Medio Ambiente y con los representantes del SBAP y SMA en la zona. La entrada Director Ejecutivo del SEA destaca evaluación de más de US$1.178",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Agenda ambiental tensionada: entre la reforma al SEIA y los recortes de Hacienda, expertos advierten riesgos para la política de conservación",
-      "url": "https://www.latercera.com/sustentabilidad/noticia/agenda-ambiental-tensionada-entre-la-reforma-al-seia-y-los-recortes-de-hacienda-expertos-advierten-riesgos-para-la-politica-de-conservacion/",
-      "fecha": "2026-05-09",
+      "fuente": "Nueva Minería",
+      "titular": "SMA aprueba programa de cumplimiento de Teck Quebrada Blanca por infracciones ambientales en Tarapacá",
+      "url": "https://www.nuevamineria.com/revista/sma-aprueba-programa-de-cumplimiento-de-teck-quebrada-blanca-por-infracciones-ambientales-en-tarapaca/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Desde el Ministerio de Hacienda se ha propuesto descontinuar programas ambientales de bajo costo al mismo tiempo que el Ejecutivo impulsa una reforma al SEIA para acelerar la inversión y el empleo. Expertos ambientales advierten que este escenario po",
+      "extracto": "El programa contempla medidas por cerca de $9.850 millones orientadas a subsanar incumplimientos asociados a flora, fauna y ecosistemas presentes en el área de influencia de la operación minera ubicada en la Región de Tarapacá. La Superintendencia de",
       "keywords_detectadas": [
-        "SEIA"
+        "SMA"
       ]
     }
   ]

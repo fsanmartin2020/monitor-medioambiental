@@ -1,117 +1,93 @@
 {
-  "fecha_actualizacion": "2026-05-10T07:59:14.754694-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-05-11T10:02:26.737900-04:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La ‘Ruta del jaguar’, una campaña para denunciar la destrucción de la Selva Maya en el sureste mexicano",
-      "url": "https://efeverde.com/la-ruta-del-jaguar-una-campana-para-denunciar-la-destruccion-de-la-selva-maya-en-el-sureste-mexicano/",
-      "fecha": "2026-05-10",
+      "fuente": "País Circular",
+      "titular": "Nueva fase de la ley REP busca revolucionar la gestión de residuos electrónicos en Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/es-efectivo-la-ministra-y-muchos-otros-lo-vieron-la-chatarra-electronica-se-puede-transformar-en-nuevas-materias-primas-para-no-contaminar/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Chile ya agotó su “presupuesto natural” del año y necesitaría casi tres planetas para sostener su consumo",
+      "url": "https://codexverde.cl/chile-ya-agoto-su-presupuesto-natural-del-ano-y-necesitaria-casi-tres-planetas-para-sostener-su-consumo/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La guerra en Irán nos lleva a hablar de energías fósiles sin siquiera mencionar el clima. Por Monica Frassoni y Bertrand Piccard",
-      "url": "https://efeverde.com/la-guerra-en-iran-nos-lleva-a-hablar-de-energias-fosiles-sin-siquiera-mencionar-el-clima-por-monica-frassoni-y-bertrand-piccard/",
-      "fecha": "2026-05-10",
+      "titular": "100 años de Sir David Attenborough. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/100-anos-de-sir-david-attenborough-por-victor-solis/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Veda de tiburones en el Golfo de México. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/veda-de-tiburones-en-el-golfo-de-mexico-por-victor-solis/",
-      "fecha": "2026-05-10",
+      "titular": "El apagón disparó el consumo de gas en España y costó hasta 1.500 millones a los consumidores",
+      "url": "https://efeverde.com/apagon-gas-sobrecoste-1-500-millones-espana/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El koala tiene sed: Australia descubre cómo el calor extremo afecta al icono del país",
-      "url": "https://efeverde.com/koala-tiene-sed-australia-calor-extremo/",
-      "fecha": "2026-05-10",
+      "titular": "La bicicleta compartida podría generar 121 millones en beneficios sociales y reducir las emisiones en España",
+      "url": "https://efeverde.com/bicicleta-compartida-121-millones-beneficios-socialesreducir-emisiones/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Recicladores de base participaron de capacita-ción sobre la Ley REP",
+      "url": "https://mma.gob.cl/recicladores-de-base-participaron-de-capacita-cion-sobre-la-ley-rep/",
+      "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Tercer Tribunal Ambiental revisa reclamación de Municipio de Hualpén contra SMA tras sanciones a titular de vertedero en zona de humedal",
-      "url": "https://www.diarioconstitucional.cl/2026/05/10/tercer-tribunal-ambiental-revisa-reclamacion-de-municipio-de-hualpen-contra-sma-tras-sanciones-a-titular-de-vertedero-en-zona-de-humedal/",
+      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
+      "url": "https://www.diarioconstitucional.cl/2026/05/11/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Director Ejecutivo del SEA destaca evaluación de más de US$1.178 millones en Región del Biobío",
+      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-mas-de-us1-178-millones-en-region-del-biobio/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA aprueba programa de cumplimiento de Teck Quebrada Blanca por infracciones ambientales en Tarapacá",
+      "url": "https://www.nuevamineria.com/revista/sma-aprueba-programa-de-cumplimiento-de-teck-quebrada-blanca-por-infracciones-ambientales-en-tarapaca/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Anglo American busca extender hasta 2045 la vida útil de El Soldado con proyecto por US$295 millones",
+      "url": "https://www.nuevamineria.com/revista/anglo-american-busca-extender-hasta-2045-la-vida-util-de-el-soldado-con-proyecto-por-us295-millones/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Promueven una ILP para dotar de personalidad jurídica y derechos a la marisma de Urdaibai",
+      "url": "https://efeverde.com/promueven-una-ilp-para-dotar-de-personalidad-juridica-y-derechos-a-la-marisma-de-urdaibai/",
       "fecha": "2026-05-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental anuló multa de $9 millones por infracción a la norma de ruido ordenada a pub restaurante ubicado en Viña del Mar",
-      "url": "https://www.diarioconstitucional.cl/2026/05/10/segundo-tribunal-ambiental-anulo-multa-de-9-millones-por-infraccion-a-la-norma-de-ruido-ordenada-a-pub-restaurante-ubicado-en-vina-del-mar/",
-      "fecha": "2026-05-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Parlamento europeo propone eliminar requisito de fuerza y violencia para acreditar delito de violación",
-      "url": "https://www.diarioconstitucional.cl/2026/05/10/parlamento-europeo-propone-eliminar-requisito-de-fuerza-y-violencia-para-acreditar-delito-de-violacion/",
-      "fecha": "2026-05-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Dar una nueva vida a las algas invasoras, el trabajo de una gallega reconocido por Forbes",
-      "url": "https://efeverde.com/dar-una-nueva-vida-a-las-algas-invasoras-el-trabajo-de-una-gallega-reconocido-por-forbes/",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Anna Traveset: «Si perdemos polinizadores, el chocolate o el café peligran»",
-      "url": "https://efeverde.com/anna-traveset-si-perdemos-polinizadores-el-chocolate-o-el-cafe-peligran/",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El pueblo de Kearny teme su «desaparición» este año por la sequía del suroeste de EE. UU.",
-      "url": "https://efeverde.com/pueblo-de-kearny-teme-su-desaparicion-porsequia-suroeste-de-eeuu/",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las Tablas de Daimiel se llenan de agua, pero el acuífero del Alto Guadiana no se recupera",
-      "url": "https://efeverde.com/las-tablas-de-daimiel-se-llenan-de-agua-pero-el-acuifero-del-alto-guadiana-no-se-recupera/",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental presenta sitio web de su Revista Ambiental Derecho y Ciencia",
-      "url": "https://www.1ta.cl/el-primer-tribunal-ambiental-tiene-el-agrado-de-anunciar-el-lanzamiento-oficial-del-sitio-web-de-su-revista-ambiental-de-derecho-y-ciencia-una-nueva-plataforma-digital-destinada-a-la-divulgacion-de-c/",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Fiscalización en La Araucanía confirma alta efectividad en reforestación de araucarias bajo normativa internacional",
-      "url": "https://www.conaf.cl/fiscalizacion-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias-bajo-normativa-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=fiscalizacion-en-la-araucania-confirma-alta-efectividad-en-reforestacion-de-araucarias-bajo-normativa-internacional",
-      "fecha": "2026-05-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Agenda ambiental tensionada: entre la reforma al SEIA y los recortes de Hacienda, expertos advierten riesgos para la política de conservación",
-      "url": "https://www.latercera.com/sustentabilidad/noticia/agenda-ambiental-tensionada-entre-la-reforma-al-seia-y-los-recortes-de-hacienda-expertos-advierten-riesgos-para-la-politica-de-conservacion/",
-      "fecha": "2026-05-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
