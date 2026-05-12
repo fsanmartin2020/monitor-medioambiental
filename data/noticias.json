@@ -1,93 +1,301 @@
 {
-  "fecha_actualizacion": "2026-05-11T10:02:26.737900-04:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-05-12T09:19:16.135292-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Nueva fase de la ley REP busca revolucionar la gestión de residuos electrónicos en Chile",
-      "url": "https://www.paiscircular.cl/economia-circular/es-efectivo-la-ministra-y-muchos-otros-lo-vieron-la-chatarra-electronica-se-puede-transformar-en-nuevas-materias-primas-para-no-contaminar/",
+      "titular": "Gonzalo Cruces, Seremi del Medio Ambiente de la RM: “Tenemos que trabajar en fortalecer las confianzas en gestión ambiental”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/gonzalo-cruces-seremi-del-medio-ambiente-de-la-rm-tenemos-que-trabajar-en-fortalecer-las-confianzas-en-gestion-ambiental/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "EMPRESAS CHILENAS AUMENTAN PRESENCIA EN ÍNDICES DOW JONES DE SOSTENIBILIDAD EN 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/empresas-chilenas-aumentan-presencia-en-indices-dow-jones-de-sostenibilidad-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=empresas-chilenas-aumentan-presencia-en-indices-dow-jones-de-sostenibilidad-en-2026",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La extracción mundial de arena supera su reposición y pone en riesgo los ecosistemas, según la ONU",
+      "url": "https://efeverde.com/extraccion-mundial-de-arena-onu/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La personalidad jurídica de la naturaleza gana terreno como fórmula para reforzar la protección ambiental",
+      "url": "https://efeverde.com/la-personalidad-juridica-de-la-naturaleza-gana-terreno-como-formula-para-reforzar-la-proteccion-ambiental/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La temporada de cría del lince ibérico en Huelva y Cáceres finaliza con 31 nuevos cachorros",
+      "url": "https://efeverde.com/temporada-de-cria-del-lince-iberico-con-31-nuevos-cachorros/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una ONG acusa a la Comisión Europea de agilizar permisos para «infraestructuras sucias»",
+      "url": "https://efeverde.com/una-ong-acusa-a-la-comision-europea-de-agilizar-permisos-para-infraestructuras-sucias/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Conflictos y desastres naturales obligan a 82 millones de personas a desplazarse dentro de sus países",
+      "url": "https://efeverde.com/conflictos-y-desastres-naturales-obligan-a-82-millones-de-personas-a-desplazarse-dentro-de-sus-paises/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Enanismo, hocico achatado: Las «extravagancias» en las mascotas, una moda muy insana",
+      "url": "https://efeverde.com/enanismo-hocico-achatado-extravagancias-en-mascotas/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España, «uno de los ejemplos más importantes del mundo» en transición energética, según Espinosa",
+      "url": "https://efeverde.com/espana-uno-de-los-ejemplos-mas-importantes-del-mundo-en-transicion-energetica-segun-espinosa/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios forestales arrasan 157 millones de hectáreas hasta abril, el doble que en 2025",
+      "url": "https://efeverde.com/los-incendios-forestales-arrasan-157-millones-de-hectareas-hasta-abril-el-doble-que-en-2025/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Hay esperanza para el urogallo: la cría en cautividad y la recuperación de hábitats están funcionando",
+      "url": "https://efeverde.com/hay-esperanza-para-el-urogallo-la-cria-en-cautividad-y-la-recuperacion-de-habitats-estan-funcionando/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente detalló las prioridades de lo que será su gestión en Atacama",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-detallo-las-prioridades-de-lo-que-sera-su-gestion-en-atacama/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Primer Tribunal Ambiental inaugurará su año judicial con Cuenta Pública y charla magistral sobre justicia ambiental",
+      "url": "https://www.diarioconstitucional.cl/2026/05/12/primer-tribunal-ambiental-inaugurara-su-ano-judicial-con-cuenta-publica-y-charla-magistral-sobre-justicia-ambiental/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Marcela Godoy, ministra presidenta (s) del Segundo Tribunal Ambiental: “La justicia ambiental cumple un rol cada vez más relevante en un sistema más denso y sofisticado”",
+      "url": "https://codexverde.cl/marcela-godoy-ministra-presidenta-s-del-segundo-tribunal-ambiental-la-justicia-ambiental-cumple-un-rol-cada-vez-mas-relevante-en-un-sistema-mas-denso-y-sofisticado/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Chile ya agotó su “presupuesto natural” del año y necesitaría casi tres planetas para sostener su consumo",
-      "url": "https://codexverde.cl/chile-ya-agoto-su-presupuesto-natural-del-ano-y-necesitaria-casi-tres-planetas-para-sostener-su-consumo/",
+      "titular": "Tribunal Ambiental anula multa de $9 millones a pub de Viña del Mar por ruidos molestos",
+      "url": "https://codexverde.cl/anulan-multa-de-9-millones-a-pub-por-ruidos-molestos/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "¿Quién gana y quién pierde con la crisis energética?",
+      "url": "https://codexverde.cl/quien-gana-y-quien-pierde-con-la-crisis-energetica/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Estatus de la calidad del aire en Valparaíso este 11 de mayo de 2026",
+      "url": "https://www.cr2.cl/estatus-de-la-calidad-del-aire-en-valparaiso-este-11-de-mayo-de-2026/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "100 años de Sir David Attenborough. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/100-anos-de-sir-david-attenborough-por-victor-solis/",
+      "titular": "Las enfermedades que saltan de animales a personas conviven con nosotros desde el Neolítico",
+      "url": "https://efeverde.com/las-zoolisis-animales-personas-conviven-nosotros-neolitico/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El apagón disparó el consumo de gas en España y costó hasta 1.500 millones a los consumidores",
-      "url": "https://efeverde.com/apagon-gas-sobrecoste-1-500-millones-espana/",
+      "titular": "La superficie forestal mundial se redujo en 41 millones de hectáreas entre 2015 y 2025",
+      "url": "https://efeverde.com/superficie-forestal-mundial-redujo-41-millones-hectareas-2015-2025/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La bicicleta compartida podría generar 121 millones en beneficios sociales y reducir las emisiones en España",
-      "url": "https://efeverde.com/bicicleta-compartida-121-millones-beneficios-socialesreducir-emisiones/",
+      "titular": "Las empresas podrían perder hasta un 25 % de su resultado bruto para 2050 por la inacción ante el cambio climático",
+      "url": "https://efeverde.com/empresas-perder-25-ebitda-2050-inaccion-ante-el-cambio-climatico/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Riesgo ambiental, pagos estatales y deficiencias legales: Corte Suprema entrega crítico informe sobre la Ley de Reconstrucción",
+      "url": "https://www.terram.cl/riesgo-ambiental-pagos-estatales-y-deficiencias-legales-corte-suprema-entrega-critico-informe-sobre-la-ley-de-reconstruccion/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Decretan alerta ambiental en Santiago",
+      "url": "https://www.terram.cl/decretan-alerta-ambiental-en-santiago/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Municipio de Hualpén busca aumentar multa de $2 millones a familia que operó vertedero ilegal sobre humedal",
+      "url": "https://www.terram.cl/municipio-de-hualpen-busca-aumentar-multa-de-2-millones-a-familia-que-opero-vertedero-ilegal-sobre-humedal/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
+      "url": "https://www.terram.cl/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "MMA anuncia nuevas opciones para reciclar “chatarra electrónica” en todo Chile",
+      "url": "https://www.terram.cl/mma-anuncia-nuevas-opciones-para-reciclar-chatarra-electronica-en-todo-chile/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Conocidas por su llamativa forma y olor: Investigación revela tres nuevas especies de “orejas de zorro” endémicas de Chile",
+      "url": "https://www.terram.cl/conocidas-por-su-llamativa-forma-y-olor-investigacion-revela-tres-nuevas-especies-de-orejas-de-zorro-endemicas-de-chile/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Combustibles fósiles: Crónica de una transición anunciada",
+      "url": "https://www.fima.cl/2026/05/11/combustibles-fosiles-cronica-de-una-transicion-anunciada/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "La ley miscelánea: Un ataque al derecho ambiental",
+      "url": "https://www.fima.cl/2026/05/11/la-ley-miscelanea-un-ataque-al-derecho-ambiental/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Tribunal acoge a trámite reclamación de empresa que cuestiona participación de trabajadores de empresa competidora en procedimiento sancionatorio ambiental",
+      "url": "https://www.1ta.cl/tribunal-acoge-a-tramite-reclamacion-de-empresa-que-cuestiona-participacion-de-trabajadores-de-empresa-competidora-en-procedimiento-sancionatorio-ambiental/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tercer Tribunal Ambiental presenta Cuenta Anual 2025",
+      "url": "https://3ta.cl/noticias/tercer-tribunal-ambiental-presenta-cuenta-anual-2025/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Consejo Consultivo de la Reserva Ñuble sostiene primera asamblea del año y define hoja de ruta",
+      "url": "https://www.conaf.cl/consejo-consultivo-de-la-reserva-nuble-sostiene-primera-asamblea-del-ano-y-define-hoja-de-ruta/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-consultivo-de-la-reserva-nuble-sostiene-primera-asamblea-del-ano-y-define-hoja-de-ruta",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Recicladores de base participaron de capacita-ción sobre la Ley REP",
-      "url": "https://mma.gob.cl/recicladores-de-base-participaron-de-capacita-cion-sobre-la-ley-rep/",
+      "titular": "Más de 100 comunidades educativas participaron en webinar sobre gestión energética, educación ambiental y SNCAE",
+      "url": "https://mma.gob.cl/mas-de-100-comunidades-educativas-participaron-en-webinar-sobre-gestion-energetica-educacion-ambiental-y-sncae/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
-      "url": "https://www.diarioconstitucional.cl/2026/05/11/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente hace llamado a municipios de Viña y Valparaíso a formular solución conjunta para destino de relleno sanitario El Molle",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-hace-llamado-a-municipios-de-vina-y-valparaiso-a-formular-solucion-conjunta-para-destino-de-relleno-sanitario-el-molle/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Director Ejecutivo del SEA destaca evaluación de más de US$1.178 millones en Región del Biobío",
-      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-mas-de-us1-178-millones-en-region-del-biobio/",
+      "fuente": "La Tercera",
+      "titular": "“Está en un centro que ha acompañado su atención médica durante años”: hijos de Nelson Acosta desestiman traslado del DT",
+      "url": "https://www.latercera.com/el-deportivo/noticia/esta-en-un-centro-que-ha-acompanado-su-atencion-medica-durante-anos-hijos-de-nelson-acosta-desestiman-traslado-del-dt/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SMA aprueba programa de cumplimiento de Teck Quebrada Blanca por infracciones ambientales en Tarapacá",
-      "url": "https://www.nuevamineria.com/revista/sma-aprueba-programa-de-cumplimiento-de-teck-quebrada-blanca-por-infracciones-ambientales-en-tarapaca/",
+      "fuente": "La Tercera",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
       "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Anglo American busca extender hasta 2045 la vida útil de El Soldado con proyecto por US$295 millones",
-      "url": "https://www.nuevamineria.com/revista/anglo-american-busca-extender-hasta-2045-la-vida-util-de-el-soldado-con-proyecto-por-us295-millones/",
-      "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Promueven una ILP para dotar de personalidad jurídica y derechos a la marisma de Urdaibai",
-      "url": "https://efeverde.com/promueven-una-ilp-para-dotar-de-personalidad-juridica-y-derechos-a-la-marisma-de-urdaibai/",
-      "fecha": "2026-05-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

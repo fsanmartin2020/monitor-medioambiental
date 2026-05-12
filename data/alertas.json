@@ -1,66 +1,126 @@
 {
-  "fecha_generacion": "2026-05-11T10:02:26.751162-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-05-12T09:19:16.149080-04:00",
+  "total_alertas": 10,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Nueva fase de la ley REP busca revolucionar la gestión de residuos electrónicos en Chile",
-      "url": "https://www.paiscircular.cl/economia-circular/es-efectivo-la-ministra-y-muchos-otros-lo-vieron-la-chatarra-electronica-se-puede-transformar-en-nuevas-materias-primas-para-no-contaminar/",
-      "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Refrigeradores, paneles solares, hervidores, celulares y muchos otros aparatos eléctricos y electrónicos en desuso poblaron el viernes los alrededores del punto limpio instalado en el Parque O’Higgins. Algunos íntegros, otros desarmados y otros ya re",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Recicladores de base participaron de capacita-ción sobre la Ley REP",
-      "url": "https://mma.gob.cl/recicladores-de-base-participaron-de-capacita-cion-sobre-la-ley-rep/",
-      "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En dependencias de la Municipalidad de Pitrufquén se realizó una capacitación dirigida a re-cicladores de base, enfocada en la Ley […]",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
       "fuente": "Diario Constitucional",
-      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
-      "url": "https://www.diarioconstitucional.cl/2026/05/11/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "titular": "Primer Tribunal Ambiental inaugurará su año judicial con Cuenta Pública y charla magistral sobre justicia ambiental",
+      "url": "https://www.diarioconstitucional.cl/2026/05/12/primer-tribunal-ambiental-inaugurara-su-ano-judicial-con-cuenta-publica-y-charla-magistral-sobre-justicia-ambiental/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad se realizará el próximo 15 de mayo en Antofagasta y contará con exposiciones de la ex presidenta del Tribunal Constitucional, Marisol Peña Torres, y del ex presidente del Tercer Tribunal Ambiental, Michael Hantke Domas. El organismo juri",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
+      "fecha": "2026-05-12",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Marcela Godoy, ministra presidenta (s) del Segundo Tribunal Ambiental: “La justicia ambiental cumple un rol cada vez más relevante en un sistema más denso y sofisticado”",
+      "url": "https://codexverde.cl/marcela-godoy-ministra-presidenta-s-del-segundo-tribunal-ambiental-la-justicia-ambiental-cumple-un-rol-cada-vez-mas-relevante-en-un-sistema-mas-denso-y-sofisticado/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. The post Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra pro",
+      "extracto": "En medio de un escenario marcado por tensiones entre el Ejecutivo, los organismos técnicos y los tribunales, la institucionalidad ambiental en Chile atraviesa un periodo de alta exposición y discusión. Hoy en día la incorporación de nuevas normativas",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Tribunal Ambiental anula multa de $9 millones a pub de Viña del Mar por ruidos molestos",
+      "url": "https://codexverde.cl/anulan-multa-de-9-millones-a-pub-por-ruidos-molestos/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental acogió la reclamación presentada por pub restaurante Destapas Beer House, ubicado en Viña del Mar, en contra de la multa de 11 UTA (poco más de $9 millones), ordenada por la Superintendencia del Medio Ambiente (SMA), por",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Riesgo ambiental, pagos estatales y deficiencias legales: Corte Suprema entrega crítico informe sobre la Ley de Reconstrucción",
+      "url": "https://www.terram.cl/riesgo-ambiental-pagos-estatales-y-deficiencias-legales-corte-suprema-entrega-critico-informe-sobre-la-ley-de-reconstruccion/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las disposiciones que buscan destrabar permisos ambientales fueron criticadas por generar deudas fiscales, inhibir fallos judiciales y crear una alta incertidumbre jurídica. Fuente: ADN Radio, 8 de mayo de 2026.",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Municipio de Hualpén busca aumentar multa de $2 millones a familia que operó vertedero ilegal sobre humedal",
+      "url": "https://www.terram.cl/municipio-de-hualpen-busca-aumentar-multa-de-2-millones-a-familia-que-opero-vertedero-ilegal-sobre-humedal/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Municipalidad de Hualpén acudió al tercer tribunal ambiental para lograr que se aumente la multa por la contaminación del humedal Vasco da Gama por 16 años. Fuente: El Desconcierto, 11 de mayo de 2026.",
+      "keywords_detectadas": [
+        "vertedero ilegal"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
+      "url": "https://www.terram.cl/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
+      "fecha": "2026-05-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. Fuente: Diario Constitucional, 11 de mayo de 2026.",
       "keywords_detectadas": [
         "Tribunal Ambiental",
         "daño ambiental"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Director Ejecutivo del SEA destaca evaluación de más de US$1.178 millones en Región del Biobío",
-      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-mas-de-us1-178-millones-en-region-del-biobio/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tercer Tribunal Ambiental presenta Cuenta Anual 2025",
+      "url": "https://3ta.cl/noticias/tercer-tribunal-ambiental-presenta-cuenta-anual-2025/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En jornada de trabajo en Concepción, la autoridad se reunió con el delegado presidencial, con el seremi del Medio Ambiente y con los representantes del SBAP y SMA en la zona. La entrada Director Ejecutivo del SEA destaca evaluación de más de US$1.178",
+      "extracto": "Durante el periodo 2025 ingresaron un total de 59 causas entre reclamaciones de ilegalidad, demandas por daño ambiental; y solicitudes y consultas de la Superintendencia del Medio Ambiente. Además, se dictaron 53 sentencias. Desde su creación en 2013",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SMA aprueba programa de cumplimiento de Teck Quebrada Blanca por infracciones ambientales en Tarapacá",
-      "url": "https://www.nuevamineria.com/revista/sma-aprueba-programa-de-cumplimiento-de-teck-quebrada-blanca-por-infracciones-ambientales-en-tarapaca/",
+      "fuente": "La Tercera",
+      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
+      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
       "fecha": "2026-05-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El programa contempla medidas por cerca de $9.850 millones orientadas a subsanar incumplimientos asociados a flora, fauna y ecosistemas presentes en el área de influencia de la operación minera ubicada en la Región de Tarapacá. La Superintendencia de",
+      "extracto": "Durante el primer bimestre del gobierno de José Antonio Kast, el ingreso de proyectos de inversión a trámite ambiental alcanzó un máximo histórico de US$ 22.258 millones, impulsado principalmente por megainiciativas mineras.",
       "keywords_detectadas": [
-        "SMA"
+        "SEIA"
       ]
     }
   ]
