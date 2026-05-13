@@ -1,126 +1,90 @@
 {
-  "fecha_generacion": "2026-05-12T09:19:16.149080-04:00",
-  "total_alertas": 10,
+  "fecha_generacion": "2026-05-13T09:26:41.938679-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Primer Tribunal Ambiental inaugurará su año judicial con Cuenta Pública y charla magistral sobre justicia ambiental",
-      "url": "https://www.diarioconstitucional.cl/2026/05/12/primer-tribunal-ambiental-inaugurara-su-ano-judicial-con-cuenta-publica-y-charla-magistral-sobre-justicia-ambiental/",
-      "fecha": "2026-05-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La actividad se realizará el próximo 15 de mayo en Antofagasta y contará con exposiciones de la ex presidenta del Tribunal Constitucional, Marisol Peña Torres, y del ex presidente del Tercer Tribunal Ambiental, Michael Hantke Domas. El organismo juri",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
-      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
-      "fecha": "2026-05-12",
+      "fuente": "La Segunda",
+      "titular": "Delcy Rodríguez rechaza que Venezuela sea el \"estado 51\" de EE.UU.",
+      "url": "https://www.lasegunda.com/Noticias/Internacional/2026/05/1113182/estado-51-eeuu-venezuela",
+      "fecha": "2026-05-13",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Pulso",
-      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
-      "url": "https://www.pulso.cl/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
-      "fecha": "2026-05-12",
+      "fuente": "BioBioChile",
+      "titular": "\"Espero que el cine sea diverso\": el paso del chileno Diego Céspedes por la alfombra roja de Cannes",
+      "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/05/13/espero-que-el-cine-sea-diverso-el-paso-del-chileno-diego-cespedes-por-la-alfombra-roja-de-cannes.shtml",
+      "fecha": "2026-05-13",
       "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
+      "metodo_extraccion": "links-genericos",
       "extracto": "",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Marcela Godoy, ministra presidenta (s) del Segundo Tribunal Ambiental: “La justicia ambiental cumple un rol cada vez más relevante en un sistema más denso y sofisticado”",
-      "url": "https://codexverde.cl/marcela-godoy-ministra-presidenta-s-del-segundo-tribunal-ambiental-la-justicia-ambiental-cumple-un-rol-cada-vez-mas-relevante-en-un-sistema-mas-denso-y-sofisticado/",
-      "fecha": "2026-05-11",
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental admite reclamación de Confinor y abre debate por participación de competidores en proceso de la SMA",
+      "url": "https://www.redimin.cl/tribunal-ambiental-admite-reclamacion-de-confinor-y-abre-debate-por-participacion-de-competidores-en-proceso-de-la-sma",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En medio de un escenario marcado por tensiones entre el Ejecutivo, los organismos técnicos y los tribunales, la institucionalidad ambiental en Chile atraviesa un periodo de alta exposición y discusión. Hoy en día la incorporación de nuevas normativas",
+      "extracto": "El Primer Tribunal Ambiental acogió a trámite una reclamación presentada por Confinor contra decisiones adoptadas por la Superintendencia del Medio Ambiente (SMA) en el marco de un procedimiento sancionatorio ambiental ligado a su proyecto de manejo ",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Tribunal Ambiental anula multa de $9 millones a pub de Viña del Mar por ruidos molestos",
-      "url": "https://codexverde.cl/anulan-multa-de-9-millones-a-pub-por-ruidos-molestos/",
-      "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió la reclamación presentada por pub restaurante Destapas Beer House, ubicado en Viña del Mar, en contra de la multa de 11 UTA (poco más de $9 millones), ordenada por la Superintendencia del Medio Ambiente (SMA), por",
-      "keywords_detectadas": [
+        "SMA",
         "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "Riesgo ambiental, pagos estatales y deficiencias legales: Corte Suprema entrega crítico informe sobre la Ley de Reconstrucción",
-      "url": "https://www.terram.cl/riesgo-ambiental-pagos-estatales-y-deficiencias-legales-corte-suprema-entrega-critico-informe-sobre-la-ley-de-reconstruccion/",
-      "fecha": "2026-05-11",
+      "titular": "Bahía La Herradura de Coquimbo suma nuevo caso de derrame de petróleo que podría afectar a cultivos de piure",
+      "url": "https://www.terram.cl/bahia-la-herradura-de-coquimbo-suma-nuevo-caso-de-derrame-de-petroleo-que-podria-afectar-a-cultivos-de-piure/",
+      "fecha": "2026-05-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las disposiciones que buscan destrabar permisos ambientales fueron criticadas por generar deudas fiscales, inhibir fallos judiciales y crear una alta incertidumbre jurídica. Fuente: ADN Radio, 8 de mayo de 2026.",
+      "extracto": "Un nuevo vertimiento de petróleo en La Herradura, Coquimbo, pone en riesgo la pesca artesanal y cultivos marinos. Fuente: El Desconcierto, 11 de mayo de 2026.",
       "keywords_detectadas": [
-        "Corte Suprema"
+        "derrame"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "Municipio de Hualpén busca aumentar multa de $2 millones a familia que operó vertedero ilegal sobre humedal",
-      "url": "https://www.terram.cl/municipio-de-hualpen-busca-aumentar-multa-de-2-millones-a-familia-que-opero-vertedero-ilegal-sobre-humedal/",
-      "fecha": "2026-05-11",
+      "titular": "Peine recurrirá al Tribunal Ambiental por la aprobación de proyecto NX Uno",
+      "url": "https://www.terram.cl/peine-recurrira-al-tribunal-ambiental-por-la-aprobacion-de-proyecto-nx-uno/",
+      "fecha": "2026-05-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Municipalidad de Hualpén acudió al tercer tribunal ambiental para lograr que se aumente la multa por la contaminación del humedal Vasco da Gama por 16 años. Fuente: El Desconcierto, 11 de mayo de 2026.",
+      "extracto": "El presidente de la comunidad cuestionó la decisión del Comité de Ministros y aseguró que utilizarán \"todos los recursos\" disponibles para revertir la resolución favorable al proyecto de potasio. Fuente: El Mercurio de Calama, 12 de mayo de 2026.",
       "keywords_detectadas": [
-        "vertedero ilegal"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "Tercer Tribunal Ambiental realizó inspección en demanda por daño ambiental contra proyecto inmobiliario en Petrohué",
-      "url": "https://www.terram.cl/tercer-tribunal-ambiental-realizo-inspeccion-en-demanda-por-dano-ambiental-contra-proyecto-inmobiliario-en-petrohue/",
-      "fecha": "2026-05-11",
+      "titular": "Denuncian irreparable daño ambiental por limpieza en estero El Sauce de Llolleo",
+      "url": "https://www.terram.cl/denuncian-irreparable-dano-ambiental-por-limpieza-en-estero-el-sauce-de-llolleo/",
+      "fecha": "2026-05-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Tras demanda interpuesta por el Estado de Chile, se evalúan presuntos daños graves a la vegetación y suelos en zona emplazada entre dos parques nacionales. Fuente: Diario Constitucional, 11 de mayo de 2026.",
+      "extracto": "La semana pasada el municipio realizó el operativo con maquinaria pesada en tres sectores del curso de agua. Vecinos, autoridades y grupos ambientalistas denunciaron el grave daño ambiental que ocasionó la limpieza ejecutada por la Municipalidad de S",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
         "daño ambiental"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tercer Tribunal Ambiental presenta Cuenta Anual 2025",
-      "url": "https://3ta.cl/noticias/tercer-tribunal-ambiental-presenta-cuenta-anual-2025/",
-      "fecha": "2026-05-11",
+      "fuente": "Terram",
+      "titular": "Tercer Tribunal Ambiental presenta su Cuenta Anual 2025",
+      "url": "https://www.terram.cl/tercer-tribunal-ambiental-presenta-su-cuenta-anual-2025/",
+      "fecha": "2026-05-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante el periodo 2025 ingresaron un total de 59 causas entre reclamaciones de ilegalidad, demandas por daño ambiental; y solicitudes y consultas de la Superintendencia del Medio Ambiente. Además, se dictaron 53 sentencias. Desde su creación en 2013",
+      "extracto": "Durante el periodo, ingresaron un total de 59 causas entre reclamaciones de ilegalidad, demandas por daño ambiental; y solicitudes y consultas de la Superintendencia del Medio Ambiente. Además, se dictaron 53 sentencias. Fuente: Revista Electricidad,",
       "keywords_detectadas": [
         "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Récord de inversión en el SEIA: los primeros dos meses de Kast registran la mayor cifra desde la vuelta a la democracia",
-      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-los-primeros-dos-meses-de-kast-registran-la-mayor-cifra-desde-la-vuelta-a-la-democracia/",
-      "fecha": "2026-05-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Durante el primer bimestre del gobierno de José Antonio Kast, el ingreso de proyectos de inversión a trámite ambiental alcanzó un máximo histórico de US$ 22.258 millones, impulsado principalmente por megainiciativas mineras.",
-      "keywords_detectadas": [
-        "SEIA"
       ]
     }
   ]
