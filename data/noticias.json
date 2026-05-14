@@ -1,261 +1,221 @@
 {
-  "fecha_actualizacion": "2026-05-13T09:26:41.925982-04:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-05-14T08:40:50.256248-04:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Estudiantes de diseño exhiben en el retail prendas de ropa que crearon a partir de vestuario en desuso",
-      "url": "https://www.paiscircular.cl/economia-circular/estudiantes-de-diseno-exhiben-en-el-retail-prendas-de-ropa-que-crearon-a-partir-de-vestuario-en-desuso/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "MINISTRA TOLEDO EN CHILE DAY: “EL CRECIMIENTO ECONÓMICO, LA SEGURIDAD JURÍDICA Y LA SUSTENTABILIDAD SON UNA MISMA AGENDA”",
-      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-en-chile-day-el-crecimiento-economico-la-seguridad-juridica-y-la-sustentabilidad-son-una-misma-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-en-chile-day-el-crecimiento-economico-la-seguridad-juridica-y-la-sustentabilidad-son-una-misma-agenda",
-      "fecha": "2026-05-13",
+      "titular": "Trazabilidad, lugares de acopio y dudas sobre las baterías de litio destacan entre las observaciones al anteproyecto de metas de baterías",
+      "url": "https://www.paiscircular.cl/economia-circular/trazabilidad-lugares-de-acopio-y-dudas-sobre-baterias-de-litio-entre-los-principales-temas-observados-al-anteproyecto-de-baterias/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Viajar más despacio: la nueva tendencia que transforma el turismo mediterráneo",
-      "url": "https://efeverde.com/viajar-mas-despacio-nueva-tendencia-que-transforma-turismo-mediterraneo/",
-      "fecha": "2026-05-13",
+      "titular": "Pérdida de biodiversidad, crisis climática, fauna y virus: Un nuevo mapa de enfermedades preocupa a los expertos",
+      "url": "https://efeverde.com/perdida-de-biodiversidad-crisis-climatica-fauna-y-virus-un-nuevo-mapa-de-enfermedades/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las emisiones de CO2 de la UE aumentaron un 0,9 % a finales de 2025",
-      "url": "https://efeverde.com/emisiones-co2-ue-finales-2025/",
-      "fecha": "2026-05-13",
+      "titular": "Life Terra: más de 36 millones de árboles plantados en 5 años en Europa",
+      "url": "https://efeverde.com/life-terra-mas-de-36-millones-de-arboles-plantados-en-5-anos-en-europa/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Liberados en Jaén dos quebrantahuesos jóvenes nacidos en Austria y en Francia",
-      "url": "https://efeverde.com/liberados-en-jaen-quebrantahuesos-jovenes/",
-      "fecha": "2026-05-13",
+      "titular": "La deforestación en los bosques tropicales del litoral brasileño bate mínimos históricos",
+      "url": "https://efeverde.com/la-deforestacion-en-los-bosques-tropicales-del-litoral-brasileno-bate-minimos-historicos/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "300.000 metros cuadrados en 900 proyectos: las cifras de las salas limpias de Valtria",
-      "url": "https://efeverde.com/300000-metros-cuadrados-900-proyectos-salas-limpias-de-valtria/",
-      "fecha": "2026-05-13",
+      "titular": "Plantar 100.000 posidonias en Formentera, el plan de «jardinería submarina» para restaurar «el pulmón del Mediterráneo»",
+      "url": "https://efeverde.com/plantar-100-000-posidonias-en-formentera-el-plan-de-jardineria-submarina-para-restaurar-el-pulmon-del-mediterraneo/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La contaminación atmosférica a corto plazo se asocia con 146.000 muertes prematuras al año en Europa",
-      "url": "https://efeverde.com/la-contaminacion-atmosferica-a-corto-plazo-se-asocia-con-146-000-muertes-prematuras-al-ano-en-europa/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Chloe Dalton (La liebre y yo): «Quería contar una historia humana a través de un animal salvaje»",
-      "url": "https://efeverde.com/chloe-dalton-la-liebre-y-yo-queria-contar-una-historia-humana-a-traves-de-un-animal-salvaje/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La biodiversidad del suelo, clave para la lucha climática",
-      "url": "https://efeverde.com/la-biodiversidad-del-suelo-clave-para-la-lucha-climatica/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Segunda",
-      "titular": "Delcy Rodríguez rechaza que Venezuela sea el \"estado 51\" de EE.UU.",
-      "url": "https://www.lasegunda.com/Noticias/Internacional/2026/05/1113182/estado-51-eeuu-venezuela",
-      "fecha": "2026-05-13",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "\"Espero que el cine sea diverso\": el paso del chileno Diego Céspedes por la alfombra roja de Cannes",
-      "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/05/13/espero-que-el-cine-sea-diverso-el-paso-del-chileno-diego-cespedes-por-la-alfombra-roja-de-cannes.shtml",
-      "fecha": "2026-05-13",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental admite reclamación de Confinor y abre debate por participación de competidores en proceso de la SMA",
-      "url": "https://www.redimin.cl/tribunal-ambiental-admite-reclamacion-de-confinor-y-abre-debate-por-participacion-de-competidores-en-proceso-de-la-sma",
+      "titular": "Proyecto El Abra enfrenta exigencias por chinchillas y flora endémica en Antofagasta",
+      "url": "https://www.redimin.cl/proyecto-el-abra-enfrenta-exigencias-por-chinchillas-y-flora-endemica-en-antofagasta",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Estudiantes de diseño transforman 2.000 prendas de Paris bajo el sello del upcycling",
+      "url": "https://codexverde.cl/estudiantes-de-diseno-transforman-2-000-prendas-de-paris/",
       "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Chile sabe dónde está la basura. El problema es que no sabe qué hacer con ella",
-      "url": "https://www.paiscircular.cl/opinion/chile-sabe-donde-esta-la-basura-el-problema-es-que-no-sabe-que-hacer-con-ella/",
-      "fecha": "2026-05-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Nuevo sendero “El Puma” en Yerba Loca habilita 10 km de ruta con mejor estándar de seguridad",
-      "url": "https://codexverde.cl/nuevo-sendero-el-puma-en-yerba-loca-habilita-10-km-de-ruta-con-mejor-estandar-de-seguridad/",
-      "fecha": "2026-05-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Finalistas Premio al Inventor Europeo 2026: chilenos crean biofiltro vivo que elimina más del 90% del humo contaminante",
-      "url": "https://codexverde.cl/crean-biofiltro-que-elimina-mas-del-90-del-humo-contaminante/",
-      "fecha": "2026-05-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Mercado de compensación de emisiones se consolida: más regiones y nuevos tipos de proyectos marcan 2025",
-      "url": "https://codexverde.cl/mercado-de-compensacion-de-emisiones-se-consolida-mas-regiones-y-nuevos-tipos-de-proyectos-marcan-2025/",
-      "fecha": "2026-05-12",
+      "fuente": "EFE Verde",
+      "titular": "El cambio climático concentra los episodios de lluvia, y eso da lugar a más sequías",
+      "url": "https://efeverde.com/cambio-climatico-concentra-episodios-de-lluvia-da-lugar-a-mas-sequias/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bruselas sopesa aliviar más cargas verdes por la presión geopolítica sobre la industria",
-      "url": "https://efeverde.com/bruselas-sopesa-aliviar-mas-cargas-verdes-por-la-presion-geopolitica-sobre-la-industria/",
-      "fecha": "2026-05-12",
+      "titular": "Un Corredor Hispanoluso para poner en valor los hábitats verdes fronterizos",
+      "url": "https://efeverde.com/corredor-hispanoluso-para-poner-en-valor-habitats-verdes-fronterizos/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Simonetta Cheli (ESA): «Copernicus es esencial para el medio ambiente, la sostenibilidad y el clima»",
-      "url": "https://efeverde.com/directora-observacion-tierra-esa-copernicus-esencial-medio-ambiente/",
-      "fecha": "2026-05-12",
+      "titular": "Compartir la bicicleta. Por May",
+      "url": "https://efeverde.com/compartir-bicicleta-may-mundomay-2/",
+      "fecha": "2026-05-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El plástico reciclado puede filtrar sustancias tóxicas a los alimentos, advierte la FAO",
+      "url": "https://efeverde.com/plastico-reciclado-puede-filtrar-sustancias-toxicas-a-alimentos-fao/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Bahía La Herradura de Coquimbo suma nuevo caso de derrame de petróleo que podría afectar a cultivos de piure",
-      "url": "https://www.terram.cl/bahia-la-herradura-de-coquimbo-suma-nuevo-caso-de-derrame-de-petroleo-que-podria-afectar-a-cultivos-de-piure/",
-      "fecha": "2026-05-12",
+      "titular": "Confirman multa a minera que opera tranque de relaves colapsado contaminando un río en Aysén con metales",
+      "url": "https://www.terram.cl/confirman-multa-a-minera-que-opera-tranque-de-relaves-colapsado-contaminando-un-rio-en-aysen-con-metales/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Peine recurrirá al Tribunal Ambiental por la aprobación de proyecto NX Uno",
-      "url": "https://www.terram.cl/peine-recurrira-al-tribunal-ambiental-por-la-aprobacion-de-proyecto-nx-uno/",
-      "fecha": "2026-05-12",
+      "titular": "Metano: el gas invisible que se convirtió en una bomba política",
+      "url": "https://www.terram.cl/metano-el-gas-invisible-que-se-convirtio-en-una-bomba-politica/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Más de 30 sociedades científicas alertan por señales de retroceso en ciencia y medio ambiente",
-      "url": "https://www.terram.cl/mas-de-30-sociedades-cientificas-alertan-por-senales-de-retroceso-en-ciencia-y-medio-ambiente/",
-      "fecha": "2026-05-12",
+      "titular": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce",
+      "url": "https://www.terram.cl/chile-la-influenza-aviar-esta-afectando-mas-a-cisnes-de-cuello-negro-y-otras-aves-de-agua-dulce/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Científicos advierten que la sobrepoblación de erizos negros está devastando los fondos marinos en Chile",
-      "url": "https://www.terram.cl/cientificos-advierten-que-la-sobrepoblacion-de-erizos-negros-esta-devastando-los-fondos-marinos-en-chile/",
-      "fecha": "2026-05-12",
+      "titular": "Murat Kurum, presidente de la COP31, centra la agenda climática en las «ciudades resilientes»",
+      "url": "https://www.terram.cl/murat-kurum-presidente-de-la-cop31-centra-la-agenda-climatica-en-las-ciudades-resilientes/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Denuncian irreparable daño ambiental por limpieza en estero El Sauce de Llolleo",
-      "url": "https://www.terram.cl/denuncian-irreparable-dano-ambiental-por-limpieza-en-estero-el-sauce-de-llolleo/",
-      "fecha": "2026-05-12",
+      "titular": "El enigma del lucumillo: Pequeñas variaciones de humedad en el suelo definen su supervivencia",
+      "url": "https://www.terram.cl/el-enigma-del-lucumillo-pequenas-variaciones-de-humedad-en-el-suelo-definen-su-supervivencia/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Tercer Tribunal Ambiental presenta su Cuenta Anual 2025",
-      "url": "https://www.terram.cl/tercer-tribunal-ambiental-presenta-su-cuenta-anual-2025/",
-      "fecha": "2026-05-12",
+      "titular": "Parte plan de ordenamiento y retiro de cables en desuso en todo Chile",
+      "url": "https://www.terram.cl/parte-plan-de-ordenamiento-y-retiro-de-cables-en-desuso-en-todo-chile/",
+      "fecha": "2026-05-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Cronograma de Descarbonización en Chile: cierres incumplidos y conflictos pendientes",
+      "url": "https://chilesustentable.net/2026/05/coalicion-chao-carbon-denuncia-incumplimiento-de-ley-ambiental-vigente-y-exige-el-reingreso-de-la-norma-de-emision-para-centrales-termoelectricas-y-gobernanza-de-una-transicion-justa/",
+      "fecha": "2026-05-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Coalición Chao Carbón denuncia incumplimiento de Ley Ambiental vigente y exige el reingreso de la Norma de Emisión para Centrales Termoeléctricas y gobernanza de una transición justa",
+      "url": "https://chilesustentable.net/2026/05/coalicion-chao-carbon-denuncia-incumplimiento-de-ley-ambiental-vigente-y-exige-el-reingreso-de-la-norma-de-emision-para-centrales-termoelectricas-y-gobernanza-de-una-transicion-justa/",
+      "fecha": "2026-05-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-3/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Ministro Presidente recibió saludo protocolar de Seremi de Medio Ambiente de la Región de Antofagasta",
-      "url": "https://www.1ta.cl/ministro-presidente-recibio-saludo-protocolar-de-seremi-de-medio-ambiente-de-la-region-de-antofagasta/",
-      "fecha": "2026-05-12",
+      "titular": "Primer Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración minera en San Pedro de Atacama",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion-minera-en-san-pedro-de-atacama/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo profesional con funciones de encargadoa del area juridica escalafon profesional a contrata asimilado a grado12 de la e u s para la dr de tar",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-profesional-con-funciones-de-encargadoa-del-area-juridica-escalafon-profesional-a-contrata-asimilado-a-grado12-de-la-e-u-s-para-la-dr-de-tar/",
-      "fecha": "2026-05-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi de Medio Ambiente visita Ecoparque “Yerba Buena” y releva trabajo comunitario en la protección del lucumillo",
-      "url": "https://mma.gob.cl/seremi-de-medio-ambiente-visita-ecoparque-yerba-buena-y-releva-trabajo-comunitario-en-la-proteccion-del-lucumillo/",
-      "fecha": "2026-05-12",
+      "fuente": "SMA",
+      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
+      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades y dirigentes realizan su primera reunión por Polimetales",
-      "url": "https://mma.gob.cl/autoridades-y-dirigentes-realizan-su-primera-reunion-por-polimetales/",
-      "fecha": "2026-05-12",
+      "fuente": "DGA - MOP",
+      "titular": "DGA prepara sus estaciones de monitoreo en todo el país en el marco de la Operación MOP Invernal 2026",
+      "url": "https://dga.mop.gob.cl/dga-prepara-sus-estaciones-de-monitoreo-en-todo-el-pais-en-el-marco-de-la-operacion-mop-invernal-2026/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Area de Conservación Pitipalena Añihue avanza en la actualización de su Plan de Manejo",
-      "url": "https://mma.gob.cl/area-de-conservacion-pitipalena-anihue-avanza-en-la-actualizacion-de-su-plan-de-manejo/",
-      "fecha": "2026-05-12",
+      "titular": "Aire limpio para O’Higgins: compromiso con la salud y el medioambiente.",
+      "url": "https://mma.gob.cl/aire-limpio-para-ohiggins-compromiso-con-la-salud-y-el-medioambiente/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo en Chile Day: “El crecimiento económico, la seguridad jurídica y la sustentabilidad son una misma agenda”",
-      "url": "https://mma.gob.cl/ministra-toledo-en-chile-day-el-crecimiento-economico-la-seguridad-juridica-y-la-sustentabilidad-son-una-misma-agenda/",
-      "fecha": "2026-05-12",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración",
+      "url": "https://www.mch.cl/tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Región de Los Lagos consolida formación especializada en emergencias con materiales peligrosos",
-      "url": "https://mma.gob.cl/region-de-los-lagos-consolida-formacion-especializada-en-emergencias-con-materiales-peligrosos/",
-      "fecha": "2026-05-12",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Califican ambientalmente favorable EIA de proyecto de aumento de capacidad de desalinización",
+      "url": "https://www.mch.cl/califican-ambientalmente-favorable-eia-de-proyecto-de-aumento-de-capacidad-de-desalinizacion/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Medio Ambiente invita a juntas de vecinos y organizaciones sociales a participar de reunión ciudadana sobre actualización del PDA de Coyhaique",
-      "url": "https://mma.gob.cl/medio-ambiente-invita-a-juntas-de-vecinos-y-organizaciones-sociales-a-participar-de-reunion-ciudadana-sobre-actualizacion-del-pda-de-coyhaique/",
-      "fecha": "2026-05-12",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
+      "url": "https://www.revistaei.cl/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
+      "fecha": "2026-05-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
