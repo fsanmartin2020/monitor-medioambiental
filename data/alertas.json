@@ -1,77 +1,77 @@
 {
-  "fecha_generacion": "2026-05-14T08:40:50.268332-04:00",
+  "fecha_generacion": "2026-05-15T09:07:15.475555-04:00",
   "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-3/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental informa que está disponible el N° 5-2026 de su Boletín de Actualidad Ambiental. La edición de este mes contiene información ambiental relevante de lo ocurrido durante el mes de abril de este año, teniendo por objeto dar a",
+      "fuente": "Pulso",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "RCA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración minera en San Pedro de Atacama",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion-minera-en-san-pedro-de-atacama/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se acogió a trámite la reclamación presentada por la Comunidad Indígena Atacameña de Toconao, en contra de la resolución del Director Ejecutivo del Servicio de Evaluación Ambiental (SEA), que acogió la reclamación del titular del proyecto “Exploracio",
+      "fuente": "Pulso",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "RCA"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
-      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
-      "fecha": "2026-05-13",
+      "fuente": "Terram",
+      "titular": "SMA notificó a 620 establecimientos de manera preventiva para controlar emisiones atmosféricas",
+      "url": "https://www.terram.cl/sma-notifico-a-620-establecimientos-de-manera-preventiva-para-controlar-emisiones-atmosfericas/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En el marco del inicio del Período de Gestión de Episodios Críticos, la Superintendencia del Medio Ambiente realizó una notificación masiva para reforzar a los regulados el cumplimiento de medidas en zonas con planes de descontaminación. La Superinte",
+      "extracto": "En el marco del período de Gestión de Episodios Críticos, la Superintendencia del Medio Ambiente realizó una notificación masiva a los regulados para fortalecer el cumplimiento de medidas en zonas con planes de descontaminación entre las regiones de ",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración",
-      "url": "https://www.mch.cl/tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion/",
-      "fecha": "2026-05-13",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "En audiencia se revisa avance en el cumplimiento de sentencia por daño ambiental en la ex Central Diésel Iquique",
+      "url": "https://www.1ta.cl/en-audiencia-se-revisa-avance-en-el-cumplimiento-de-sentencia-por-dano-ambiental-en-la-ex-central-diesel-iquique/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Reclamación de comunidad indígena se funda en que la resolución del SEA no consideró adecuadamente las observaciones ciudadanas vinculadas con los posibles impactos de la iniciativa. La entrada Tribunal Ambiental revisará legalidad de cambio de calif",
+      "extracto": "La audiencia se enmarca en el proceso de cumplimiento de la sentencia dictada por el Primer Tribunal Ambiental en agosto de 2024, mediante la cual se condenó a la empresa Engie Energía Chile S.A. (Engie) a reparar el daño ambiental existente en el Lo",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.latercera.com/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Sobre este punto, el ministro de Hacienda sostuvo que \"la probabilidad que sea rechazada al final de la RCA es muy baja\". Agregó que un titular que presenta información maliciosa no tiene derecho a esta solicitud.",
+      "keywords_detectadas": [
+        "RCA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Califican ambientalmente favorable EIA de proyecto de aumento de capacidad de desalinización",
-      "url": "https://www.mch.cl/califican-ambientalmente-favorable-eia-de-proyecto-de-aumento-de-capacidad-de-desalinizacion/",
-      "fecha": "2026-05-13",
+      "titular": "SEA Antofagasta realiza visitas técnicas por proyectos mineros en evaluación",
+      "url": "https://www.mch.cl/sea-antofagasta-realiza-visitas-tecnicas-por-proyectos-mineros-en-evaluacion/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa tiene como objetivo principal aportar una nueva fuente de agua estable y segura para diversas industrias, comunidades y otros usuarios de la zona central del país. La entrada Califican ambientalmente favorable EIA de proyecto de aumento",
+      "extracto": "Actividades se desarrollaron en el contexto de dos iniciativas emplazadas en las localidades de San Pedro de Atacama, Calama, Ollague, María Elena, Tocopilla y Mejillones. La entrada SEA Antofagasta realiza visitas técnicas por proyectos mineros en e",
       "keywords_detectadas": [
-        "EIA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
-      "url": "https://www.revistaei.cl/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estos se ubican en comunas sujetas a Planes de Prevención y/o Descontaminación Atmosférica, desde la Región de O’Higgins hacia el sur. La entrada SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones ",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     }
   ]

@@ -1,221 +1,301 @@
 {
-  "fecha_actualizacion": "2026-05-14T08:40:50.256248-04:00",
-  "total": 27,
+  "fecha_actualizacion": "2026-05-15T09:07:15.463990-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Trazabilidad, lugares de acopio y dudas sobre las baterías de litio destacan entre las observaciones al anteproyecto de metas de baterías",
-      "url": "https://www.paiscircular.cl/economia-circular/trazabilidad-lugares-de-acopio-y-dudas-sobre-baterias-de-litio-entre-los-principales-temas-observados-al-anteproyecto-de-baterias/",
-      "fecha": "2026-05-14",
+      "titular": "Hera Materials reemplaza el plástico con packaging sustentable hecho con tecnología aplicada e inteligencia artificial",
+      "url": "https://www.paiscircular.cl/economia-circular/hera/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "UNA OLA DE CALOR MARINA MASIVA PROVOCÓ EL COLAPSO DE LOS ARRECIFES DE CORAL DEL CARIBE MUCHO MÁS RÁPIDO DE LO PREVISTO.",
+      "url": "https://www.chiledesarrollosustentable.cl/una-ola-de-calor-marina-masiva-provoco-el-colapso-de-los-arrecifes-de-coral-del-caribe-mucho-mas-rapido-de-lo-previsto-segun-una-nueva-investigacion/?utm_source=rss&utm_medium=rss&utm_campaign=una-ola-de-calor-marina-masiva-provoco-el-colapso-de-los-arrecifes-de-coral-del-caribe-mucho-mas-rapido-de-lo-previsto-segun-una-nueva-investigacion",
+      "fecha": "2026-05-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Pérdida de biodiversidad, crisis climática, fauna y virus: Un nuevo mapa de enfermedades preocupa a los expertos",
-      "url": "https://efeverde.com/perdida-de-biodiversidad-crisis-climatica-fauna-y-virus-un-nuevo-mapa-de-enfermedades/",
-      "fecha": "2026-05-14",
+      "titular": "Caminar y escuchar los ríos para reconectar con ellos,  la propuesta de la tercera edición de WalkingRivers",
+      "url": "https://efeverde.com/caminar-y-escuchar-los-rios-para-reconectar-con-ellos-la-propuesta-de-la-tercera-edicion-de-walkingrivers/",
+      "fecha": "2026-05-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Life Terra: más de 36 millones de árboles plantados en 5 años en Europa",
-      "url": "https://efeverde.com/life-terra-mas-de-36-millones-de-arboles-plantados-en-5-anos-en-europa/",
+      "titular": "Operación contrarreloj para salvar a la lagartija pitiusa. La culebra de herradura alcanza a nado sus últimos reductos",
+      "url": "https://efeverde.com/operacion-contrarreloj-para-salvar-a-la-lagartija-pitiusa/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Santa Marta: compensar también es transformar",
+      "url": "https://www.paiscircular.cl/opinion/santa-marta-compensar-tambien-es-transformar/",
       "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La deforestación en los bosques tropicales del litoral brasileño bate mínimos históricos",
-      "url": "https://efeverde.com/la-deforestacion-en-los-bosques-tropicales-del-litoral-brasileno-bate-minimos-historicos/",
+      "fuente": "País Circular",
+      "titular": "Comienza una nueva era: entra en vigencia el decreto que regula los RAEE",
+      "url": "https://www.paiscircular.cl/videos/comienza-una-nueva-era-entra-en-vigencia-el-decreto-que-regula-los-raee/",
       "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Plantar 100.000 posidonias en Formentera, el plan de «jardinería submarina» para restaurar «el pulmón del Mediterráneo»",
-      "url": "https://efeverde.com/plantar-100-000-posidonias-en-formentera-el-plan-de-jardineria-submarina-para-restaurar-el-pulmon-del-mediterraneo/",
-      "fecha": "2026-05-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto El Abra enfrenta exigencias por chinchillas y flora endémica en Antofagasta",
-      "url": "https://www.redimin.cl/proyecto-el-abra-enfrenta-exigencias-por-chinchillas-y-flora-endemica-en-antofagasta",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Liderazgo regional en sostenibilidad: PARQUE ARAUCO ES PARTE DEL ÍNDICE DOW JONES BEST IN CLASS 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/liderazgo-regional-en-sostenibilidad-parque-arauco-es-parte-del-indice-dow-jones-best-in-class-2026/?utm_source=rss&utm_medium=rss&utm_campaign=liderazgo-regional-en-sostenibilidad-parque-arauco-es-parte-del-indice-dow-jones-best-in-class-2026",
       "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Estudiantes de diseño transforman 2.000 prendas de Paris bajo el sello del upcycling",
-      "url": "https://codexverde.cl/estudiantes-de-diseno-transforman-2-000-prendas-de-paris/",
-      "fecha": "2026-05-13",
+      "titular": "Expertos analizan el futuro de la acústica arquitectónica en seminario de UDLA y Codexverde",
+      "url": "https://codexverde.cl/expertos-analizan-el-futuro-de-la-acustica-arquitectonica/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Paulina Aldunce participa en el III Encuentro Nacional de las Ciencias 2026",
+      "url": "https://www.cr2.cl/paulina-aldunce-participa-en-el-iii-encuentro-nacional-de-las-ciencias-2026/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Cuando pensar parece un gasto",
+      "url": "https://www.cr2.cl/cuando-pensar-parece-un-gasto/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El cambio climático concentra los episodios de lluvia, y eso da lugar a más sequías",
-      "url": "https://efeverde.com/cambio-climatico-concentra-episodios-de-lluvia-da-lugar-a-mas-sequias/",
-      "fecha": "2026-05-13",
+      "titular": "Catorce autonomías anuncian acciones judiciales para exigir que se cumpla la norma sobre el lobo",
+      "url": "https://efeverde.com/acciones-judiciales-para-exigir-que-se-cumpla-norma-sobre-lobo/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un Corredor Hispanoluso para poner en valor los hábitats verdes fronterizos",
-      "url": "https://efeverde.com/corredor-hispanoluso-para-poner-en-valor-habitats-verdes-fronterizos/",
-      "fecha": "2026-05-13",
+      "titular": "El lanzamiento masivo de satélites está llenando de hollín la atmósfera superior",
+      "url": "https://efeverde.com/lanzamiento-masivo-satelites-hollin-atmosfera-superior/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Compartir la bicicleta. Por May",
-      "url": "https://efeverde.com/compartir-bicicleta-may-mundomay-2/",
-      "fecha": "2026-05-13",
+      "titular": "Repsol pide «menos demagogia» y no «frivolizar» sobre la importancia de los combustibles fósiles",
+      "url": "https://efeverde.com/repsol-pide-menos-demagogia-e-ideologia-y-no-frivolizar-sobre-la-importancia-de-los-combustibles-fosiles/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El plástico reciclado puede filtrar sustancias tóxicas a los alimentos, advierte la FAO",
-      "url": "https://efeverde.com/plastico-reciclado-puede-filtrar-sustancias-toxicas-a-alimentos-fao/",
-      "fecha": "2026-05-13",
+      "titular": "Tortugas que comen plástico, un indicador de la contaminación del Mediterráneo",
+      "url": "https://efeverde.com/tortugas-que-comen-plastico-un-indicador-de-la-contaminacion-del-mediterraneo/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Confirman multa a minera que opera tranque de relaves colapsado contaminando un río en Aysén con metales",
-      "url": "https://www.terram.cl/confirman-multa-a-minera-que-opera-tranque-de-relaves-colapsado-contaminando-un-rio-en-aysen-con-metales/",
-      "fecha": "2026-05-13",
+      "titular": "Argentina y Chile reviven plan de minería binacional con proyectos de frontera y generan alerta por glaciares",
+      "url": "https://www.terram.cl/argentina-y-chile-reviven-plan-de-mineria-binacional-con-proyectos-de-frontera-y-generan-alerta-por-glaciares/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Metano: el gas invisible que se convirtió en una bomba política",
-      "url": "https://www.terram.cl/metano-el-gas-invisible-que-se-convirtio-en-una-bomba-politica/",
-      "fecha": "2026-05-13",
+      "titular": "Especies invasoras son serio riesgo sanitario y económico, no solo ambiental, advierte científico",
+      "url": "https://www.terram.cl/especies-invasoras-son-serio-riesgo-sanitario-y-economico-no-solo-ambiental-advierte-cientifico/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce",
-      "url": "https://www.terram.cl/chile-la-influenza-aviar-esta-afectando-mas-a-cisnes-de-cuello-negro-y-otras-aves-de-agua-dulce/",
-      "fecha": "2026-05-13",
+      "titular": "SMA notificó a 620 establecimientos de manera preventiva para controlar emisiones atmosféricas",
+      "url": "https://www.terram.cl/sma-notifico-a-620-establecimientos-de-manera-preventiva-para-controlar-emisiones-atmosfericas/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Murat Kurum, presidente de la COP31, centra la agenda climática en las «ciudades resilientes»",
-      "url": "https://www.terram.cl/murat-kurum-presidente-de-la-cop31-centra-la-agenda-climatica-en-las-ciudades-resilientes/",
-      "fecha": "2026-05-13",
+      "titular": "Gobierno definirá en mayo delegado en medio de críticas por crisis ambiental en Quintero y Puchuncaví",
+      "url": "https://www.terram.cl/gobierno-definira-en-mayo-delegado-en-medio-de-criticas-por-crisis-ambiental-en-quintero-y-puchuncavi/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "El enigma del lucumillo: Pequeñas variaciones de humedad en el suelo definen su supervivencia",
-      "url": "https://www.terram.cl/el-enigma-del-lucumillo-pequenas-variaciones-de-humedad-en-el-suelo-definen-su-supervivencia/",
-      "fecha": "2026-05-13",
+      "titular": "Regresa a Valdivia FungiFest, el festival de hongos más grande de Chile",
+      "url": "https://www.terram.cl/regresa-a-valdivia-fungifest-el-festival-de-hongos-mas-grande-de-chile/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Parte plan de ordenamiento y retiro de cables en desuso en todo Chile",
-      "url": "https://www.terram.cl/parte-plan-de-ordenamiento-y-retiro-de-cables-en-desuso-en-todo-chile/",
-      "fecha": "2026-05-13",
+      "titular": "Trazabilidad, lugares de acopio y dudas sobre las baterías de litio destacan entre las observaciones al anteproyecto de metas de baterías",
+      "url": "https://www.terram.cl/trazabilidad-lugares-de-acopio-y-dudas-sobre-las-baterias-de-litio-destacan-entre-las-observaciones-al-anteproyecto-de-metas-de-baterias/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Sustentable",
-      "titular": "Cronograma de Descarbonización en Chile: cierres incumplidos y conflictos pendientes",
-      "url": "https://chilesustentable.net/2026/05/coalicion-chao-carbon-denuncia-incumplimiento-de-ley-ambiental-vigente-y-exige-el-reingreso-de-la-norma-de-emision-para-centrales-termoelectricas-y-gobernanza-de-una-transicion-justa/",
-      "fecha": "2026-05-13",
+      "fuente": "FIMA",
+      "titular": "Gobernando contra el desarrollo de Chile",
+      "url": "https://www.fima.cl/2026/05/14/gobernando-contra-el-desarrollo-de-chile/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Coalición Chao Carbón denuncia incumplimiento de Ley Ambiental vigente y exige el reingreso de la Norma de Emisión para Centrales Termoeléctricas y gobernanza de una transición justa",
-      "url": "https://chilesustentable.net/2026/05/coalicion-chao-carbon-denuncia-incumplimiento-de-ley-ambiental-vigente-y-exige-el-reingreso-de-la-norma-de-emision-para-centrales-termoelectricas-y-gobernanza-de-una-transicion-justa/",
-      "fecha": "2026-05-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-3/",
-      "fecha": "2026-05-13",
+      "titular": "En audiencia se revisa avance en el cumplimiento de sentencia por daño ambiental en la ex Central Diésel Iquique",
+      "url": "https://www.1ta.cl/en-audiencia-se-revisa-avance-en-el-cumplimiento-de-sentencia-por-dano-ambiental-en-la-ex-central-diesel-iquique/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración minera en San Pedro de Atacama",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion-minera-en-san-pedro-de-atacama/",
-      "fecha": "2026-05-13",
+      "fuente": "SERNAPESCA",
+      "titular": "Jefe a de departamento de gestion de programas de fiscalizacion pesquera grado 5 de la e u s direccion nacional region de valparaiso del servicio nacional de pesca y acuicultura",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/jefe-a-de-departamento-de-gestion-de-programas-de-fiscalizacion-pesquera-grado-5-de-la-e-u-s-direccion-nacional-region-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Ñuble celebró 56 años de la Corporación Nacional Forestal al servicio de los bosques y las personas",
+      "url": "https://www.conaf.cl/nuble-celebro-56-anos-de-la-corporacion-nacional-forestal-al-servicio-de-los-bosques-y-las-personas/?utm_source=rss&utm_medium=rss&utm_campaign=nuble-celebro-56-anos-de-la-corporacion-nacional-forestal-al-servicio-de-los-bosques-y-las-personas",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
-      "url": "https://portal.sma.gob.cl/index.php/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
-      "fecha": "2026-05-13",
+      "fuente": "CONAF",
+      "titular": "CONAF celebra su 56° aniversario y reconoce a trabajador con 50 años de trayectoria",
+      "url": "https://www.conaf.cl/conaf-celebra-su-56-aniversario-y-reconoce-a-trabajador-con-50-anos-de-trayectoria/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-celebra-su-56-aniversario-y-reconoce-a-trabajador-con-50-anos-de-trayectoria",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Guardaparques de CONAF Tarapacá recibieron certificación ChileValora de competencias laborales",
+      "url": "https://www.conaf.cl/guardaparques-de-conaf-tarapaca-recibieron-certificacion-chilevalora-de-competencias-laborales/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-de-conaf-tarapaca-recibieron-certificacion-chilevalora-de-competencias-laborales",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "DGA - MOP",
-      "titular": "DGA prepara sus estaciones de monitoreo en todo el país en el marco de la Operación MOP Invernal 2026",
-      "url": "https://dga.mop.gob.cl/dga-prepara-sus-estaciones-de-monitoreo-en-todo-el-pais-en-el-marco-de-la-operacion-mop-invernal-2026/",
-      "fecha": "2026-05-13",
+      "titular": "Promulgación de Ley de Desalinización: Presidente Kast y Ministro Arrau destacan que será una herramienta clave para la seguridad hídrica del país",
+      "url": "https://dga.mop.gob.cl/promulgacion-de-ley-de-desalinizacion-presidente-kast-y-ministro-arrau-destacan-que-sera-una-herramienta-clave-para-la-seguridad-hidrica-del-pais/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Aire limpio para O’Higgins: compromiso con la salud y el medioambiente.",
-      "url": "https://mma.gob.cl/aire-limpio-para-ohiggins-compromiso-con-la-salud-y-el-medioambiente/",
-      "fecha": "2026-05-13",
+      "titular": "SEREMI del Medio Ambiente invita a la comunidad a participar de jornada educativa por la Semana del Reciclaje",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-la-comunidad-a-participar-de-jornada-educativa-por-la-semana-del-reciclaje/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente lanza programa “Arica Circular”",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-lanza-programa-arica-circular/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "“Vamos a seguir”: Steinert defiende gestión y anuncia que formalizará Plan de Seguridad vía resolución en próximos días",
+      "url": "https://www.latercera.com/nacional/noticia/vamos-a-seguir-steinert-defiende-gestion-y-anuncia-que-formalizara-plan-de-seguridad-via-resolucion-en-proximos-dias/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
+      "url": "https://www.latercera.com/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
+      "fecha": "2026-05-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Había una vez un circo",
+      "url": "https://www.latercera.com/opinion/noticia/habia-una-vez-un-circo/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental revisará legalidad de cambio de calificación ambiental de proyecto de exploración",
-      "url": "https://www.mch.cl/tribunal-ambiental-revisara-legalidad-de-cambio-de-calificacion-ambiental-de-proyecto-de-exploracion/",
-      "fecha": "2026-05-13",
+      "titular": "COEVA de Coquimbo resuelve sobre proyecto de prospección minera",
+      "url": "https://www.mch.cl/coeva-de-coquimbo-resuelve-sobre-proyecto-de-prospeccion-minera/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Califican ambientalmente favorable EIA de proyecto de aumento de capacidad de desalinización",
-      "url": "https://www.mch.cl/califican-ambientalmente-favorable-eia-de-proyecto-de-aumento-de-capacidad-de-desalinizacion/",
-      "fecha": "2026-05-13",
+      "titular": "PDI incauta más de cinco toneladas de cable de cobre en Copiapó",
+      "url": "https://www.mch.cl/pdi-incauta-mas-de-cinco-toneladas-de-cable-de-cobre-en-copiapo/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA notifica a más de 600 establecimientos y refuerza acciones preventivas para el control de emisiones",
-      "url": "https://www.revistaei.cl/sma-notifica-a-mas-de-600-establecimientos-y-refuerza-acciones-preventivas-para-el-control-de-emisiones/",
-      "fecha": "2026-05-13",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA Antofagasta realiza visitas técnicas por proyectos mineros en evaluación",
+      "url": "https://www.mch.cl/sea-antofagasta-realiza-visitas-tecnicas-por-proyectos-mineros-en-evaluacion/",
+      "fecha": "2026-05-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
