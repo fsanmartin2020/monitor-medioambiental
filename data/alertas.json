@@ -1,77 +1,103 @@
 {
-  "fecha_generacion": "2026-05-15T09:07:15.475555-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-05-16T07:59:49.071594-04:00",
+  "total_alertas": 8,
   "alertas": [
     {
-      "fuente": "Pulso",
-      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
-      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
-      "url": "https://www.pulso.cl/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "SMA notificó a 620 establecimientos de manera preventiva para controlar emisiones atmosféricas",
-      "url": "https://www.terram.cl/sma-notifico-a-620-establecimientos-de-manera-preventiva-para-controlar-emisiones-atmosfericas/",
-      "fecha": "2026-05-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el marco del período de Gestión de Episodios Críticos, la Superintendencia del Medio Ambiente realizó una notificación masiva a los regulados para fortalecer el cumplimiento de medidas en zonas con planes de descontaminación entre las regiones de ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "En audiencia se revisa avance en el cumplimiento de sentencia por daño ambiental en la ex Central Diésel Iquique",
-      "url": "https://www.1ta.cl/en-audiencia-se-revisa-avance-en-el-cumplimiento-de-sentencia-por-dano-ambiental-en-la-ex-central-diesel-iquique/",
-      "fecha": "2026-05-14",
+      "titular": "Primer Tribunal Ambiental rinde Cuenta Pública 2025 destacando aumento histórico en sentencias y reducción de tiempos de tramitación",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-aumento-historico-en-sentencias-y-reduccion-de-tiempos-de-tramitacion/",
+      "fecha": "2026-05-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La audiencia se enmarca en el proceso de cumplimiento de la sentencia dictada por el Primer Tribunal Ambiental en agosto de 2024, mediante la cual se condenó a la empresa Engie Energía Chile S.A. (Engie) a reparar el daño ambiental existente en el Lo",
+      "extracto": "En una solemne ceremonia que congregó a autoridades, representantes de diversos servicios públicos y del mundo académico, el Primer Tribunal Ambiental realizó la inauguración del Año Judicial y presentó su Cuenta Pública 2025. La jornada estuvo marca",
       "keywords_detectadas": [
-        "daño ambiental"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tercer Tribunal Ambiental recibe a nuevos pasantes de la carrera de Derecho",
+      "url": "https://3ta.cl/noticias/tercer-tribunal-ambiental-recibe-a-nuevos-pasantes-de-la-carrera-de-derecho/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Estudiantes de la Universidad San Sebastián de Valdivia y Universidad Austral de Chile harán sus pasantías durante el primer y segundo semestre del 2026. Con el objetivo de fortalecer el vínculo entre la judicatura especializada y la formación académ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "La Tercera",
-      "titular": "Megarreforma: Quiroz defiende en Comisión de Medio Ambiente restitución de gastos asociados a RCA anuladas",
-      "url": "https://www.latercera.com/pulso/noticia/megarreforma-comision-de-medio-ambiente-comienza-analisis-y-lunes-se-vota/",
-      "fecha": "2026-05-14",
+      "titular": "Tribunal retrotrae RCA de proyecto minero de Collahuasi con inversión por US$ 3.200 millones",
+      "url": "https://www.latercera.com/pulso/noticia/tribunal-retrotrae-rca-de-proyecto-minero-de-collahuasi-con-inversion-por-us-3200-millones/",
+      "fecha": "2026-05-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Sobre este punto, el ministro de Hacienda sostuvo que \"la probabilidad que sea rechazada al final de la RCA es muy baja\". Agregó que un titular que presenta información maliciosa no tiene derecho a esta solicitud.",
+      "extracto": "“Se deja sin efecto resolución reclamada y la RCA del proyecto, debiendo retrotraerse la evaluación ambiental del proyecto\", se lee en la sentencia del tribunal, a raíz de una reclamación interpuesta por comunidades. Collahuasi dijo que la \"planta de",
       "keywords_detectadas": [
         "RCA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA Antofagasta realiza visitas técnicas por proyectos mineros en evaluación",
-      "url": "https://www.mch.cl/sea-antofagasta-realiza-visitas-tecnicas-por-proyectos-mineros-en-evaluacion/",
-      "fecha": "2026-05-14",
+      "fuente": "ADN Prensa",
+      "titular": "IA y salud mental: los peligros de que ChatGPT sea mi psicólogo",
+      "url": "https://adprensa.cl/ia-y-salud-mental-los-peligros-de-que-chatgpt-sea-mi-psicologo/",
+      "fecha": "2026-05-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Actividades se desarrollaron en el contexto de dos iniciativas emplazadas en las localidades de San Pedro de Atacama, Calama, Ollague, María Elena, Tocopilla y Mejillones. La entrada SEA Antofagasta realiza visitas técnicas por proyectos mineros en e",
+      "extracto": "La evidencia sugiere que los programas computacionales especializados para una primera consulta en salud mental, pueden entregar orientación y guía efectivas respecto de síntomas psicológicos o emocionales como ansiedad, crisis de pánico y estrés emo",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental acoge reclamación contra minera y anula RCA",
+      "url": "https://www.mch.cl/tribunal-ambiental-acoge-reclamacion-contra-minera-y-anula-rca/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El organismo detalló los fundamentos de su decisión. La entrada Tribunal Ambiental acoge reclamación contra minera y anula RCA se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Proyecto de Reconstrucción plantea modificación sobre ingreso obligatorio al SEIA",
+      "url": "https://www.revistaei.cl/proyecto-de-reconstruccion-plantea-modificacion-sobre-ingreso-obligatorio-al-seia/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Propuesta se relaciona con las iniciativas energéticas que son presentadas por los titulares. La entrada Proyecto de Reconstrucción plantea modificación sobre ingreso obligatorio al SEIA se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Valentina Durán expone en el Congreso sobre reforma al SEA",
+      "url": "https://www.revistaei.cl/valentina-duran-expone-en-el-congreso-sobre-reforma-al-sea/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La ex directora del organismo abordó ante la Comisión de Medio Ambiente de la Cámara sobre las modificaciones a la institucionalidad. La entrada Valentina Durán expone en el Congreso sobre reforma al SEA se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Segundo Tribunal Ambiental deja sin efecto RCA de proyecto de Collahuasi por US$ 3.200 millones",
+      "url": "https://www.nuevamineria.com/revista/segundo-tribunal-ambiental-deja-sin-efecto-rca-de-proyecto-de-collahuasi-por-us-3-200-millones/",
+      "fecha": "2026-05-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La resolución ordena retrotraer parte del proceso de evaluación ambiental del proyecto “Desarrollo de Infraestructura y Mejoramiento de Capacidad Productiva”, iniciativa valorizada en más de US$ 3.200 millones destinada a fortalecer la continuidad op",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "RCA"
       ]
     }
   ]
