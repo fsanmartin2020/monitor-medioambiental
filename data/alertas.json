@@ -1,103 +1,29 @@
 {
-  "fecha_generacion": "2026-05-16T07:59:49.071594-04:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-05-17T08:13:32.383945-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental rinde Cuenta Pública 2025 destacando aumento histórico en sentencias y reducción de tiempos de tramitación",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-rinde-cuenta-publica-2025-destacando-aumento-historico-en-sentencias-y-reduccion-de-tiempos-de-tramitacion/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En una solemne ceremonia que congregó a autoridades, representantes de diversos servicios públicos y del mundo académico, el Primer Tribunal Ambiental realizó la inauguración del Año Judicial y presentó su Cuenta Pública 2025. La jornada estuvo marca",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tercer Tribunal Ambiental recibe a nuevos pasantes de la carrera de Derecho",
-      "url": "https://3ta.cl/noticias/tercer-tribunal-ambiental-recibe-a-nuevos-pasantes-de-la-carrera-de-derecho/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estudiantes de la Universidad San Sebastián de Valdivia y Universidad Austral de Chile harán sus pasantías durante el primer y segundo semestre del 2026. Con el objetivo de fortalecer el vínculo entre la judicatura especializada y la formación académ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
       "fuente": "La Tercera",
-      "titular": "Tribunal retrotrae RCA de proyecto minero de Collahuasi con inversión por US$ 3.200 millones",
-      "url": "https://www.latercera.com/pulso/noticia/tribunal-retrotrae-rca-de-proyecto-minero-de-collahuasi-con-inversion-por-us-3200-millones/",
-      "fecha": "2026-05-15",
+      "titular": "Carlos Granés: “No creo que sea tan evidente que haya una ola derechista arrasando el continente”",
+      "url": "https://www.latercera.com/mundo/noticia/carlos-granes-no-creo-que-sea-tan-evidente-que-haya-una-ola-derechista-arrasando-el-continente/",
+      "fecha": "2026-05-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“Se deja sin efecto resolución reclamada y la RCA del proyecto, debiendo retrotraerse la evaluación ambiental del proyecto\", se lee en la sentencia del tribunal, a raíz de una reclamación interpuesta por comunidades. Collahuasi dijo que la \"planta de",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "IA y salud mental: los peligros de que ChatGPT sea mi psicólogo",
-      "url": "https://adprensa.cl/ia-y-salud-mental-los-peligros-de-que-chatgpt-sea-mi-psicologo/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La evidencia sugiere que los programas computacionales especializados para una primera consulta en salud mental, pueden entregar orientación y guía efectivas respecto de síntomas psicológicos o emocionales como ansiedad, crisis de pánico y estrés emo",
+      "extracto": "El antropólogo social y ensayista colombiano, considerado uno de los más agudos observadores de la idiosincrasia política y cultural de América Latina, cree que una “nueva derecha está tomando la iniciativa” en la región y “arranca con mucho más brío",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental acoge reclamación contra minera y anula RCA",
-      "url": "https://www.mch.cl/tribunal-ambiental-acoge-reclamacion-contra-minera-y-anula-rca/",
-      "fecha": "2026-05-15",
+      "fuente": "SMA",
+      "titular": "Día Internacional de la Luz: SMA lanza mapa interactivo de la nueva norma lumínica",
+      "url": "https://portal.sma.gob.cl/index.php/dia-internacional-de-la-luz-sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El organismo detalló los fundamentos de su decisión. La entrada Tribunal Ambiental acoge reclamación contra minera y anula RCA se publicó primero en Mch .",
+      "extracto": "Esta nueva herramienta de la Superintendencia del Medio Ambiente permitirá identificar de manera integral todas las áreas de protección especial presentes en el territorio nacional, facilitando el acceso a información clave sobre las exigencias y pla",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Proyecto de Reconstrucción plantea modificación sobre ingreso obligatorio al SEIA",
-      "url": "https://www.revistaei.cl/proyecto-de-reconstruccion-plantea-modificacion-sobre-ingreso-obligatorio-al-seia/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Propuesta se relaciona con las iniciativas energéticas que son presentadas por los titulares. La entrada Proyecto de Reconstrucción plantea modificación sobre ingreso obligatorio al SEIA se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Valentina Durán expone en el Congreso sobre reforma al SEA",
-      "url": "https://www.revistaei.cl/valentina-duran-expone-en-el-congreso-sobre-reforma-al-sea/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La ex directora del organismo abordó ante la Comisión de Medio Ambiente de la Cámara sobre las modificaciones a la institucionalidad. La entrada Valentina Durán expone en el Congreso sobre reforma al SEA se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Segundo Tribunal Ambiental deja sin efecto RCA de proyecto de Collahuasi por US$ 3.200 millones",
-      "url": "https://www.nuevamineria.com/revista/segundo-tribunal-ambiental-deja-sin-efecto-rca-de-proyecto-de-collahuasi-por-us-3-200-millones/",
-      "fecha": "2026-05-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La resolución ordena retrotraer parte del proceso de evaluación ambiental del proyecto “Desarrollo de Infraestructura y Mejoramiento de Capacidad Productiva”, iniciativa valorizada en más de US$ 3.200 millones destinada a fortalecer la continuidad op",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
+        "SMA"
       ]
     }
   ]
