@@ -1,29 +1,117 @@
 {
-  "fecha_actualizacion": "2026-05-17T08:13:32.373405-04:00",
-  "total": 3,
+  "fecha_actualizacion": "2026-05-18T10:43:46.840665-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "La Tercera",
-      "titular": "Carlos Granés: “No creo que sea tan evidente que haya una ola derechista arrasando el continente”",
-      "url": "https://www.latercera.com/mundo/noticia/carlos-granes-no-creo-que-sea-tan-evidente-que-haya-una-ola-derechista-arrasando-el-continente/",
+      "fuente": "País Circular",
+      "titular": "Una mirada con lupa al decreto de metas de P+RAEE desde cuatro perspectivas: regulador, gestores, sistemas de gestión y regulados",
+      "url": "https://www.paiscircular.cl/economia-circular/una-mirada-con-lupa-al-decreto-de-metas-de-praee-desde-cuatro-perspectivas-regulador-gestores-sistemas-de-gestion-y-regulados/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "28 de mayo | Panel de discusión: “Monitoreo y análisis de la calidad del aire”",
+      "url": "https://www.cr2.cl/invitacion-panel-de-discusion-monitoreo-y-analisis-de-la-calidad-del-aire/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Crisis climática en Latinoamérica: La OMM alerta de episodios de calor extremo «sin precedentes» en 2025",
+      "url": "https://efeverde.com/latinoamerica-calor-extremo-sin-precedentes-en-2025/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Contabilizan en Asturias cincuenta manadas de lobos en 2025, cinco más que en el último censo",
+      "url": "https://efeverde.com/cincuenta-manadas-lobos-en-asturias/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las semillas germinan cuando les conviene",
+      "url": "https://efeverde.com/las-semillas-germinan-cuando-les-conviene/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "SEO/BirdLife se une un año más a la celebración del Día Europeo de la Red Natura 2000",
+      "url": "https://efeverde.com/seo-birdlife-se-une-un-ano-mas-a-la-celebracion-del-dia-europeo-de-la-red-natura-2000/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El elefante africano, un «héroe climático» que ayuda a capturar dióxido de carbono",
+      "url": "https://efeverde.com/eelefante-africano-heroe-climatico/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Colectivos animalistas piden al Gobierno impedir el traslado de 2 orcas de Francia a Tenerife",
+      "url": "https://efeverde.com/colectivos-animalistas-piden-gobierno-impedir-traslado-orcas-de-francia-a-tenerife/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los embalses en España, a tan solo un 16 % de alcanzar el lleno total",
+      "url": "https://efeverde.com/embalses-en-espana-alcanzar-el-lleno-total/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cuando la sostenibilidad se convierte en innovación turística. Por Arturo Crosby",
+      "url": "https://efeverde.com/cuando-la-sostenibilidad-se-convierte-en-innovacion-turistica-por-arturo-crosby/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades fiscalizan uso de artefactos a leña tras declararse primera alerta ambiental del año",
+      "url": "https://mma.gob.cl/autoridades-fiscalizan-uso-de-artefactos-a-lena-tras-declararse-primera-alerta-ambiental-del-ano/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA estrena portal con avances en resolución de reclamaciones de proyectos",
+      "url": "https://www.mch.cl/sea-estrena-portal-con-avances-en-resolucion-de-reclamaciones-de-proyectos/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA lanza mapa interactivo de la nueva norma lumínica",
+      "url": "https://www.revistaei.cl/sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El bisonte conquista el Alto Tajo restaurando su entorno e impulsando el turismo",
+      "url": "https://efeverde.com/el-bisonte-conquista-el-alto-tajo-restaurando-su-entorno-e-impulsando-el-turismo/",
       "fecha": "2026-05-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Día Internacional de la Luz: SMA lanza mapa interactivo de la nueva norma lumínica",
-      "url": "https://portal.sma.gob.cl/index.php/dia-internacional-de-la-luz-sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
-      "fecha": "2026-05-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Environmental Tribunal Reverses Approval of Collahuasi Mining Project Due to Neglecting Indigenous Communities",
-      "url": "https://www.elciudadano.com/en/environmental-tribunal-reverses-approval-of-collahuasi-mining-project-due-to-neglecting-indigenous-communities/05/16/",
-      "fecha": "2026-05-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

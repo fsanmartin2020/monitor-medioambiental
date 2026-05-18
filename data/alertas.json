@@ -1,27 +1,27 @@
 {
-  "fecha_generacion": "2026-05-17T08:13:32.383945-04:00",
+  "fecha_generacion": "2026-05-18T10:43:46.852834-04:00",
   "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Carlos Granés: “No creo que sea tan evidente que haya una ola derechista arrasando el continente”",
-      "url": "https://www.latercera.com/mundo/noticia/carlos-granes-no-creo-que-sea-tan-evidente-que-haya-una-ola-derechista-arrasando-el-continente/",
-      "fecha": "2026-05-17",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA estrena portal con avances en resolución de reclamaciones de proyectos",
+      "url": "https://www.mch.cl/sea-estrena-portal-con-avances-en-resolucion-de-reclamaciones-de-proyectos/",
+      "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El antropólogo social y ensayista colombiano, considerado uno de los más agudos observadores de la idiosincrasia política y cultural de América Latina, cree que una “nueva derecha está tomando la iniciativa” en la región y “arranca con mucho más brío",
+      "extracto": "Durante este gobierno, el Comité de Ministros ha revisado nueve Estudios de Impacto Ambiental en cuatro sesiones desarrolladas. La entrada SEA estrena portal con avances en resolución de reclamaciones de proyectos se publicó primero en Mch .",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "Día Internacional de la Luz: SMA lanza mapa interactivo de la nueva norma lumínica",
-      "url": "https://portal.sma.gob.cl/index.php/dia-internacional-de-la-luz-sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
-      "fecha": "2026-05-16",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA lanza mapa interactivo de la nueva norma lumínica",
+      "url": "https://www.revistaei.cl/sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Esta nueva herramienta de la Superintendencia del Medio Ambiente permitirá identificar de manera integral todas las áreas de protección especial presentes en el territorio nacional, facilitando el acceso a información clave sobre las exigencias y pla",
+      "extracto": "Nueva herramienta de la Superintendencia del Medio Ambiente permite identificar todas las áreas de protección especial presentes en el territorio nacional. La entrada SMA lanza mapa interactivo de la nueva norma lumínica se publicó primero en Revista",
       "keywords_detectadas": [
         "SMA"
       ]
