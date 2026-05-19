@@ -1,29 +1,162 @@
 {
-  "fecha_generacion": "2026-05-18T10:43:46.852834-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-05-19T10:10:23.723761-04:00",
+  "total_alertas": 13,
   "alertas": [
     {
+      "fuente": "SMA",
+      "titular": "SMA comparte criterios y experiencia sobre fiscalización ambiental al Servicio Nacional de Biodiversidad y Áreas Protegidas",
+      "url": "https://portal.sma.gob.cl/index.php/sma-comparte-criterios-y-experiencia-sobre-fiscalizacion-ambiental-al-servicio-nacional-de-biodiversidad-y-areas-protegidas/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Capacitación analizó los procedimientos legales y casos prácticos sobre biodiversidad, bajo las competencias de fiscalización que establece la Ley N° 21.600. La Superintendencia del Medio Ambiente (SMA) realizó este miércoles 13 de mayo el taller de ",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Si la \"miscelánea\" incluyera el seguro para RCA, Collahuasi podría pedir indemnización al Estado",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/05/1113320/collahuasi-fallo-ambiental",
+      "fecha": "2026-05-19",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El fallo que dejó sin efecto la calificación del C20+ irrumpe justo cuando el Congreso debate si la institucionalidad debe responder económicamente por sus propios tropiezos administrativos.",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA estrena portal con avances en resolución de reclamaciones de proyectos",
-      "url": "https://www.mch.cl/sea-estrena-portal-con-avances-en-resolucion-de-reclamaciones-de-proyectos/",
+      "titular": "DIA de proyecto para reactivar planta minera es calificado favorablemente",
+      "url": "https://www.mch.cl/dia-de-proyecto-para-reactivar-planta-minera-es-calificado-favorablemente/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa buscar dar continuidad operacional a las instalaciones emplazadas en la comuna de Sierra Gorda. La entrada DIA de proyecto para reactivar planta minera es calificado favorablemente se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "SONAMI",
+      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "La Sociedad Nacional de Minería (SONAMI) manifestó su preocupación ante la reciente resolución del Segundo Tribunal Ambiental, instancia que dejó…",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Megarreforma ambiental avanza: aprueban cambios al SEIA y restitución por RCA anulada tras votación clave del PDG",
+      "url": "https://www.redimin.cl/megarreforma-ambiental-avanza-aprueban-cambios-al-seia-y-restitucion-por-rca-anulada-tras-votacion-clave-del-pdg",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Comisión de Medio Ambiente de la Cámara de Diputados aprobó modificaciones clave al Sistema de Evaluación de Impacto Ambiental, incluyendo cambios en concesiones acuícolas y un nuevo mecanismo de restitución económica.",
+      "keywords_detectadas": [
+        "SEIA",
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tribunal Ambiental anula permiso de millonario proyecto de Collahuasi tras reclamaciones de comunidades indígenas",
+      "url": "https://www.terram.cl/tribunal-ambiental-anula-permiso-de-millonario-proyecto-de-collahuasi-tras-reclamaciones-de-comunidades-indigenas/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante este gobierno, el Comité de Ministros ha revisado nueve Estudios de Impacto Ambiental en cuatro sesiones desarrolladas. La entrada SEA estrena portal con avances en resolución de reclamaciones de proyectos se publicó primero en Mch .",
+      "extracto": "El Segundo Tribunal Ambiental anuló el permiso ambiental del proyecto minero de Collahuasi por falencias en evaluación indígena. Fuente: El Desconcierto, 15 de mayo de 2026.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SMA lanza plataforma para consultar áreas de protección especial asociadas a la norma lumínica",
+      "url": "https://www.terram.cl/sma-lanza-plataforma-para-consultar-areas-de-proteccion-especial-asociadas-a-la-norma-luminica/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La nueva plataforma desarrollada por la Superintendencia del Medio Ambiente (SMA) permite consultar áreas sujetas a protección especial y conocer obligaciones asociadas a la Norma de Emisión de Luminosidad Artificial, vigente progresivamente en el pa",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA ofició preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-oficio-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los regulados de la nueva Norma Lumínica asociados a áreas de protección especial de biodiversidad fueron informados sobre las obligaciones de la norma con el objetivo de promover el cumplimiento y evitar posibles consecuencias generadas por este con",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Anglo American y Glencore por fallo judicial que retrotrae proyecto por US$3.200 millones: “Collahuasi está solicitando una aclaración completa al tribunal y al SEA”",
+      "url": "https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las mineras, controladoras de Collahuasi, indicaron que “el proceso de autorización ambiental del proyecto se llevó a cabo conforme a la normativa local y al marco ambiental pertinente”. A la industria minera le parece \"contradictorio\" el consenso de",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA lanza mapa interactivo de la nueva norma lumínica",
-      "url": "https://www.revistaei.cl/sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Gremios por anulación de RCA: “Esto reinstala el debate sobre la permisología”",
+      "url": "https://www.mch.cl/consejo-minero-por-anulacion-de-rca-esto-reinstala-el-debate-sobre-la-permisologia/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Nueva herramienta de la Superintendencia del Medio Ambiente permite identificar todas las áreas de protección especial presentes en el territorio nacional. La entrada SMA lanza mapa interactivo de la nueva norma lumínica se publicó primero en Revista",
+      "extracto": "Consejo Minero, Sonami, Aprimin y la AII han sido algunas de las organizaciones que han expresado su preocupación por la decisión del Segundo Tribunal Ambiental. La entrada Gremios por anulación de RCA: “Esto reinstala el debate sobre la permisología",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Sonami da a conocer su visión respecto a fallo que retrotrae RCA de proyecto de Collahuasi",
+      "url": "https://www.mch.cl/sonami-entrega-su-vision-respecto-a-fallo-que-retrotrae-rca-de-proyecto-de-collahuasi/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El presidente de la gremial aseguró que la decisión del Segundo Tribunal Ambiental “reabre una discusión que el país aún no logra resolver\". La entrada Sonami da a conocer su visión respecto a fallo que retrotrae RCA de proyecto de Collahuasi se publ",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA oficia preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
+      "url": "https://www.revistaei.cl/sma-oficia-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El próximo 19 de octubre la normativa entrará plenamente en vigencia en todo el territorio nacional. La entrada SMA oficia preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
         "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA estrena nueva plataforma con avances en resolución de proyectos por más de US$16 mil millones",
+      "url": "https://www.revistaei.cl/sea-estrena-nueva-plataforma-con-avances-en-resolucion-de-proyectos-por-mas-de-us16-mil-millones/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Un total de 24 iniciativas que tenían materias pendientes ya fueron resueltas, sumando hasta la fecha US$9.584 millones en inversión. La entrada SEA estrena nueva plataforma con avances en resolución de proyectos por más de US$16 mil millones se publ",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

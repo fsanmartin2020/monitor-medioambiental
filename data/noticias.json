@@ -1,117 +1,349 @@
 {
-  "fecha_actualizacion": "2026-05-18T10:43:46.840665-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-05-19T10:10:23.708439-04:00",
+  "total": 43,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Una mirada con lupa al decreto de metas de P+RAEE desde cuatro perspectivas: regulador, gestores, sistemas de gestión y regulados",
-      "url": "https://www.paiscircular.cl/economia-circular/una-mirada-con-lupa-al-decreto-de-metas-de-praee-desde-cuatro-perspectivas-regulador-gestores-sistemas-de-gestion-y-regulados/",
+      "titular": "Concepción se consolida como referente regional en reciclaje gastronómico",
+      "url": "https://www.paiscircular.cl/economia-circular/concepcion-se-consolida-como-referente-regional-en-reciclaje-gastronomico/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Mar Menor interviene como acusación y víctima en el juicio contra dos empresas por vertidos",
+      "url": "https://efeverde.com/mar-menor-interviene-como-acusacion-y-victima-en-juicio-contra-dos-empresas-por-vertidos/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Greenfiber se resiste a renunciar a la macroplanta de Lugo y alega autosuficiencia energética para evitar el archivo del proyecto",
+      "url": "https://efeverde.com/greenfiber-se-resiste-a-renunciar-a-la-macroplanta-de-lugo-y-alega-autosuficiencia-energetica-para-evitar-el-archivo-del-proyecto/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Asturias y Cantabria revisarán la situación del salmón tras la temporada de pesca, que mantendrán pese a la tardanza del campanu",
+      "url": "https://efeverde.com/asturias-y-cantabria-revisaran-la-situacion-del-salmon-tras-la-temporada-de-pesca-que-mantendran-pese-a-tardanza-del-campanu/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El sector de la edificación debería invertir 5 billones en eficiencia energética antes de 2030",
+      "url": "https://efeverde.com/edificacion-invertir-5-billones-eficiencia-energetica/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Areas de manejo y explotacion de recursos bentonicos amerb",
+      "url": "https://www.sernapesca.cl/tramites-y-formularios/areas-de-manejo-y-explotacion-de-recursos-bentonicos-amerb/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo profesional de apoyo del area de pesquerias escalafon profesional a contrata asimilado a grado 15 de la e u s dr de tarapaca del servicio nac",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-profesional-de-apoyo-del-area-de-pesquerias-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-dr-de-tarapaca-del-servicio-nac/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA comparte criterios y experiencia sobre fiscalización ambiental al Servicio Nacional de Biodiversidad y Áreas Protegidas",
+      "url": "https://portal.sma.gob.cl/index.php/sma-comparte-criterios-y-experiencia-sobre-fiscalizacion-ambiental-al-servicio-nacional-de-biodiversidad-y-areas-protegidas/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente certifica ambientalmente a dos establecimientos educacionales de Mejillones",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-certifica-ambientalmente-a-dos-establecimientos-educacionales-de-mejillones/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Si la \"miscelánea\" incluyera el seguro para RCA, Collahuasi podría pedir indemnización al Estado",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/05/1113320/collahuasi-fallo-ambiental",
+      "fecha": "2026-05-19",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "DIA de proyecto para reactivar planta minera es calificado favorablemente",
+      "url": "https://www.mch.cl/dia-de-proyecto-para-reactivar-planta-minera-es-calificado-favorablemente/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SONAMI",
+      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Megarreforma ambiental avanza: aprueban cambios al SEIA y restitución por RCA anulada tras votación clave del PDG",
+      "url": "https://www.redimin.cl/megarreforma-ambiental-avanza-aprueban-cambios-al-seia-y-restitucion-por-rca-anulada-tras-votacion-clave-del-pdg",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Industria minera advierte impacto en inversión y certeza jurídica tras fallo que retrotrae proyecto de Collahuasi",
+      "url": "https://www.nuevamineria.com/revista/industria-minera-advierte-impacto-en-inversion-y-certeza-juridica-tras-fallo-que-retrotrae-proyecto-de-collahuasi/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Declaración de la U.de Chile: “Poner en duda la importancia de los ecosistemas resulta peligroso para el futuro de las sociedades”",
+      "url": "https://www.paiscircular.cl/agua/declaracion-de-la-u-de-chile-poner-en-duda-la-importancia-de-los-ecosistemas-resulta-peligroso-para-el-futuro-de-las-sociedades/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ecológica reconoció a ocho innovaciones por su aporte a la economía circular en Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/ecologica-reconocio-a-ocho-innovaciones-por-su-aporte-a-la-economia-circular-en-chile/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Más que un espectáculo visual: ¿Por qué las ballenas eligen las costas del Biobío",
+      "url": "https://codexverde.cl/mas-que-un-espectaculo-visual-por-que-las-ballenas-eligen-las-costas-del-biobio/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Blue Week 2026 consolida a Chile como referente latinoamericano en economía azul e innovación oceánica",
+      "url": "https://codexverde.cl/blue-week-2026-consolida-a-chile-como-referente-latinoamericano-en-economia-azul-e-innovacion-oceanica/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "28 de mayo | Panel de discusión: “Monitoreo y análisis de la calidad del aire”",
-      "url": "https://www.cr2.cl/invitacion-panel-de-discusion-monitoreo-y-analisis-de-la-calidad-del-aire/",
+      "titular": "Opinión: Ciencia, futuro y la obsesión por el retorno inmediato",
+      "url": "https://www.cr2.cl/opinion-ciencia-futuro-y-la-obsesion-por-el-retorno-inmediato-eugenia-gayo/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Crisis climática en Latinoamérica: La OMM alerta de episodios de calor extremo «sin precedentes» en 2025",
-      "url": "https://efeverde.com/latinoamerica-calor-extremo-sin-precedentes-en-2025/",
+      "titular": "Lo que el mar esconde: descubren más de 1.100 nuevas especies en un sólo año",
+      "url": "https://efeverde.com/lo-que-el-mar-esconde-descubren-mas-de-1-100-nuevas-especies-en-un-solo-ano/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Contabilizan en Asturias cincuenta manadas de lobos en 2025, cinco más que en el último censo",
-      "url": "https://efeverde.com/cincuenta-manadas-lobos-en-asturias/",
+      "titular": "Brasil usará por primera vez combustibles verdes para transportar un fertilizante orgánico",
+      "url": "https://efeverde.com/brasil-primera-vez-combustibles-verdes-para-transportar-fertilizante-organico/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las semillas germinan cuando les conviene",
-      "url": "https://efeverde.com/las-semillas-germinan-cuando-les-conviene/",
+      "titular": "El IEO señala la importancia de identificar refugios climáticos marinos",
+      "url": "https://efeverde.com/importancia-de-identificar-refugios-climaticos-marinos/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "SEO/BirdLife se une un año más a la celebración del Día Europeo de la Red Natura 2000",
-      "url": "https://efeverde.com/seo-birdlife-se-une-un-ano-mas-a-la-celebracion-del-dia-europeo-de-la-red-natura-2000/",
+      "titular": "Cataluña, Alicante y Almería son claves para la conservación del tiburón del Mediterráneo",
+      "url": "https://efeverde.com/conservacion-tiburon-del-mediterraneo/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El elefante africano, un «héroe climático» que ayuda a capturar dióxido de carbono",
-      "url": "https://efeverde.com/eelefante-africano-heroe-climatico/",
+      "fuente": "Terram",
+      "titular": "Destrabar y agilizar: la estrategia de Kast detrás del boom de inversiones y la tensión medioambiental",
+      "url": "https://www.terram.cl/destrabar-y-agilizar-la-estrategia-de-kast-detras-del-boom-de-inversiones-y-la-tension-medioambiental/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Colectivos animalistas piden al Gobierno impedir el traslado de 2 orcas de Francia a Tenerife",
-      "url": "https://efeverde.com/colectivos-animalistas-piden-gobierno-impedir-traslado-orcas-de-francia-a-tenerife/",
+      "fuente": "Terram",
+      "titular": "Megarreforma: Medio Ambiente y Trabajo votan hoy proyecto y mañana pasa a sala",
+      "url": "https://www.terram.cl/megarreforma-medio-ambiente-y-trabajo-votan-hoy-proyecto-y-manana-pasa-a-sala/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los embalses en España, a tan solo un 16 % de alcanzar el lleno total",
-      "url": "https://efeverde.com/embalses-en-espana-alcanzar-el-lleno-total/",
+      "fuente": "Terram",
+      "titular": "Trece salmoneras recurren a la justicia para frenar entrega de datos ordenada por Transparencia",
+      "url": "https://www.terram.cl/trece-salmoneras-recurren-a-la-justicia-para-frenar-entrega-de-datos-ordenada-por-transparencia/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Cuando la sostenibilidad se convierte en innovación turística. Por Arturo Crosby",
-      "url": "https://efeverde.com/cuando-la-sostenibilidad-se-convierte-en-innovacion-turistica-por-arturo-crosby/",
+      "fuente": "Terram",
+      "titular": "La nueva ley de desalinización: consolidación de un régimen paralelo al Código de Aguas",
+      "url": "https://www.terram.cl/la-nueva-ley-de-desalinizacion-consolidacion-de-un-regimen-paralelo-al-codigo-de-aguas/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tribunal Ambiental anula permiso de millonario proyecto de Collahuasi tras reclamaciones de comunidades indígenas",
+      "url": "https://www.terram.cl/tribunal-ambiental-anula-permiso-de-millonario-proyecto-de-collahuasi-tras-reclamaciones-de-comunidades-indigenas/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SMA lanza plataforma para consultar áreas de protección especial asociadas a la norma lumínica",
+      "url": "https://www.terram.cl/sma-lanza-plataforma-para-consultar-areas-de-proteccion-especial-asociadas-a-la-norma-luminica/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Comunidades de Mejillones y Tocopilla participaron en talleres ciudadanos sobre transición socioecológica y energética justa",
+      "url": "https://chilesustentable.net/2026/05/comunidades-de-mejillones-y-tocopilla-participaron-en-talleres-ciudadanos-sobre-transicion-socioecologica-y-energetica-justa/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Comunidades de Mejillones y Tocopilla participaron en talleres ciudadanos sobre transición socioecológica y energética justa",
+      "url": "https://chilesustentable.net/2026/05/comunidades-de-mejillones-y-tocopilla-participaron-en-talleres-ciudadanos-sobre-transicion-socioecologica-y-energetica-justa/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble capacita a carabineros de Patrulla Forestal en prevención y fiscalización ambiental",
+      "url": "https://www.conaf.cl/conaf-nuble-capacita-a-carabineros-de-patrulla-forestal-en-prevencion-y-fiscalizacion-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-capacita-a-carabineros-de-patrulla-forestal-en-prevencion-y-fiscalizacion-ambiental",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA ofició preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-oficio-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades fiscalizan uso de artefactos a leña tras declararse primera alerta ambiental del año",
-      "url": "https://mma.gob.cl/autoridades-fiscalizan-uso-de-artefactos-a-lena-tras-declararse-primera-alerta-ambiental-del-ano/",
+      "titular": "Chillán y Chillán Viejo registran la primera Preemergencia de calidad del aire del periodo GEC 2026",
+      "url": "https://mma.gob.cl/chillan-y-chillan-viejo-registran-la-primera-preemergencia-de-calidad-del-aire-del-periodo-gec-2026/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Con actividades en Linares, Curicó y Molina Seremi del Medio Ambiente lideró Semana del reciclaje",
+      "url": "https://mma.gob.cl/con-actividades-en-linares-curico-y-molina-seremi-del-medio-ambiente-lidero-semana-del-reciclaje/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario Vial sobre el éxito de la Semana del Reciclaje: «Logramos transmitir que, con pequeñas acciones, podemos lograr grandes cambios»",
+      "url": "https://mma.gob.cl/subsecretario-vial-sobre-el-exito-de-la-semana-del-reciclaje-logramos-transmitir-que-con-pequenas-acciones-podemos-lograr-grandes-cambios/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "La seremi del medio ambiente lanza nuevo Registro Nacional de Recicladores de Base",
+      "url": "https://mma.gob.cl/la-seremi-del-medio-ambiente-lanza-nuevo-registro-nacional-de-recicladores-de-base/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Arica conmemoró el Día Internacional del Reciclaje",
+      "url": "https://mma.gob.cl/arica-conmemoro-el-dia-mundial-del-reciclaje/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Anglo American y Glencore por fallo judicial que retrotrae proyecto por US$3.200 millones: “Collahuasi está solicitando una aclaración completa al tribunal y al SEA”",
+      "url": "https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA estrena portal con avances en resolución de reclamaciones de proyectos",
-      "url": "https://www.mch.cl/sea-estrena-portal-con-avances-en-resolucion-de-reclamaciones-de-proyectos/",
+      "titular": "Gremios por anulación de RCA: “Esto reinstala el debate sobre la permisología”",
+      "url": "https://www.mch.cl/consejo-minero-por-anulacion-de-rca-esto-reinstala-el-debate-sobre-la-permisologia/",
+      "fecha": "2026-05-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Sonami da a conocer su visión respecto a fallo que retrotrae RCA de proyecto de Collahuasi",
+      "url": "https://www.mch.cl/sonami-entrega-su-vision-respecto-a-fallo-que-retrotrae-rca-de-proyecto-de-collahuasi/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA lanza mapa interactivo de la nueva norma lumínica",
-      "url": "https://www.revistaei.cl/sma-lanza-mapa-interactivo-de-la-nueva-norma-luminica/",
+      "titular": "SMA oficia preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
+      "url": "https://www.revistaei.cl/sma-oficia-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
       "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El bisonte conquista el Alto Tajo restaurando su entorno e impulsando el turismo",
-      "url": "https://efeverde.com/el-bisonte-conquista-el-alto-tajo-restaurando-su-entorno-e-impulsando-el-turismo/",
-      "fecha": "2026-05-17",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA estrena nueva plataforma con avances en resolución de proyectos por más de US$16 mil millones",
+      "url": "https://www.revistaei.cl/sea-estrena-nueva-plataforma-con-avances-en-resolucion-de-proyectos-por-mas-de-us16-mil-millones/",
+      "fecha": "2026-05-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
