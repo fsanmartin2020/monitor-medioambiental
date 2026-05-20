@@ -1,162 +1,78 @@
 {
-  "fecha_generacion": "2026-05-19T10:10:23.723761-04:00",
-  "total_alertas": 13,
+  "fecha_generacion": "2026-05-20T09:55:33.266703-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "SMA",
-      "titular": "SMA comparte criterios y experiencia sobre fiscalización ambiental al Servicio Nacional de Biodiversidad y Áreas Protegidas",
-      "url": "https://portal.sma.gob.cl/index.php/sma-comparte-criterios-y-experiencia-sobre-fiscalizacion-ambiental-al-servicio-nacional-de-biodiversidad-y-areas-protegidas/",
-      "fecha": "2026-05-19",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental confirmó rechazo de Programa de Cumplimiento de Piscicultura Chesque Alto por eludir el ingreso al SEIA",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-confirmo-rechazo-de-programa-de-cumplimiento-de-piscicultura-chesque-alto-por-eludir-el-ingreso-al-seia/",
+      "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Capacitación analizó los procedimientos legales y casos prácticos sobre biodiversidad, bajo las competencias de fiscalización que establece la Ley N° 21.600. La Superintendencia del Medio Ambiente (SMA) realizó este miércoles 13 de mayo el taller de ",
+      "extracto": "El Tribunal consideró fundada la resolución de la SMA que rechazó el Programa de Cumplimiento, ya que dada la infracción grave de elusión, el titular debió considerar el ingreso del proyecto a evaluación ambiental. El Tercer Tribunal Ambiental dictó ",
       "keywords_detectadas": [
-        "SMA"
+        "Tribunal Ambiental",
+        "SEIA"
       ]
     },
     {
-      "fuente": "La Segunda",
-      "titular": "Si la \"miscelánea\" incluyera el seguro para RCA, Collahuasi podría pedir indemnización al Estado",
-      "url": "https://www.lasegunda.com/Noticias/Economia/2026/05/1113320/collahuasi-fallo-ambiental",
-      "fecha": "2026-05-19",
+      "fuente": "Diario Financiero",
+      "titular": "Collahuasi pide al Segundo Tribunal Ambiental aclarar sentencia que anuló permiso ambiental de proyecto por US$ 3.200 millones",
+      "url": "https://www.df.cl/empresas/mineria/collahuasi-pide-al-segundo-tribunal-ambiental-aclarar-sentencia-que-anulo",
+      "fecha": "2026-05-20",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "El fallo que dejó sin efecto la calificación del C20+ irrumpe justo cuando el Congreso debate si la institucionalidad debe responder económicamente por sus propios tropiezos administrativos.",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "DIA de proyecto para reactivar planta minera es calificado favorablemente",
-      "url": "https://www.mch.cl/dia-de-proyecto-para-reactivar-planta-minera-es-calificado-favorablemente/",
-      "fecha": "2026-05-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa buscar dar continuidad operacional a las instalaciones emplazadas en la comuna de Sierra Gorda. La entrada DIA de proyecto para reactivar planta minera es calificado favorablemente se publicó primero en Mch .",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
-      "fuente": "SONAMI",
-      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
-      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
-      "fecha": "2026-05-19",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "La Sociedad Nacional de Minería (SONAMI) manifestó su preocupación ante la reciente resolución del Segundo Tribunal Ambiental, instancia que dejó…",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Megarreforma ambiental avanza: aprueban cambios al SEIA y restitución por RCA anulada tras votación clave del PDG",
-      "url": "https://www.redimin.cl/megarreforma-ambiental-avanza-aprueban-cambios-al-seia-y-restitucion-por-rca-anulada-tras-votacion-clave-del-pdg",
-      "fecha": "2026-05-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Comisión de Medio Ambiente de la Cámara de Diputados aprobó modificaciones clave al Sistema de Evaluación de Impacto Ambiental, incluyendo cambios en concesiones acuícolas y un nuevo mecanismo de restitución económica.",
-      "keywords_detectadas": [
-        "SEIA",
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tribunal Ambiental anula permiso de millonario proyecto de Collahuasi tras reclamaciones de comunidades indígenas",
-      "url": "https://www.terram.cl/tribunal-ambiental-anula-permiso-de-millonario-proyecto-de-collahuasi-tras-reclamaciones-de-comunidades-indigenas/",
-      "fecha": "2026-05-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental anuló el permiso ambiental del proyecto minero de Collahuasi por falencias en evaluación indígena. Fuente: El Desconcierto, 15 de mayo de 2026.",
+      "extracto": "",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "SMA lanza plataforma para consultar áreas de protección especial asociadas a la norma lumínica",
-      "url": "https://www.terram.cl/sma-lanza-plataforma-para-consultar-areas-de-proteccion-especial-asociadas-a-la-norma-luminica/",
-      "fecha": "2026-05-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La nueva plataforma desarrollada por la Superintendencia del Medio Ambiente (SMA) permite consultar áreas sujetas a protección especial y conocer obligaciones asociadas a la Norma de Emisión de Luminosidad Artificial, vigente progresivamente en el pa",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA ofició preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
-      "url": "https://portal.sma.gob.cl/index.php/sma-oficio-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
-      "fecha": "2026-05-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los regulados de la nueva Norma Lumínica asociados a áreas de protección especial de biodiversidad fueron informados sobre las obligaciones de la norma con el objetivo de promover el cumplimiento y evitar posibles consecuencias generadas por este con",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Anglo American y Glencore por fallo judicial que retrotrae proyecto por US$3.200 millones: “Collahuasi está solicitando una aclaración completa al tribunal y al SEA”",
-      "url": "https://www.latercera.com/pulso/noticia/anglo-american-y-glencore-por-fallo-judicial-collahuasi-esta-solicitando-una-aclaracion-completa-al-tribunal-y-al-sea/",
-      "fecha": "2026-05-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las mineras, controladoras de Collahuasi, indicaron que “el proceso de autorización ambiental del proyecto se llevó a cabo conforme a la normativa local y al marco ambiental pertinente”. A la industria minera le parece \"contradictorio\" el consenso de",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Gremios por anulación de RCA: “Esto reinstala el debate sobre la permisología”",
-      "url": "https://www.mch.cl/consejo-minero-por-anulacion-de-rca-esto-reinstala-el-debate-sobre-la-permisologia/",
-      "fecha": "2026-05-18",
+      "titular": "Collahuasi presenta recurso ante el Segundo Tribunal Ambiental",
+      "url": "https://www.mch.cl/collahuasi-presenta-recurso-ante-el-segundo-tribunal-ambiental/",
+      "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Consejo Minero, Sonami, Aprimin y la AII han sido algunas de las organizaciones que han expresado su preocupación por la decisión del Segundo Tribunal Ambiental. La entrada Gremios por anulación de RCA: “Esto reinstala el debate sobre la permisología",
+      "extracto": "La compañía precisó que la paralización de los aspectos vigentes de la RCA tendría efectos ambientales, regulatorios, laborales y económicos significativos. La entrada Collahuasi presenta recurso ante el Segundo Tribunal Ambiental se publicó primero ",
       "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Sonami da a conocer su visión respecto a fallo que retrotrae RCA de proyecto de Collahuasi",
-      "url": "https://www.mch.cl/sonami-entrega-su-vision-respecto-a-fallo-que-retrotrae-rca-de-proyecto-de-collahuasi/",
-      "fecha": "2026-05-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El presidente de la gremial aseguró que la decisión del Segundo Tribunal Ambiental “reabre una discusión que el país aún no logra resolver\". La entrada Sonami da a conocer su visión respecto a fallo que retrotrae RCA de proyecto de Collahuasi se publ",
-      "keywords_detectadas": [
-        "RCA"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA oficia preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica",
-      "url": "https://www.revistaei.cl/sma-oficia-preventivamente-a-regulados-para-reforzar-cumplimiento-de-la-nueva-norma-luminica/",
-      "fecha": "2026-05-18",
+      "titular": "Multinacional Alupar ingresa al SEIA nuevo proyecto de subestaciones y líneas eléctricas",
+      "url": "https://www.revistaei.cl/multinacional-alupar-ingresa-al-seia-nuevo-proyecto-de-subestaciones-y-lineas-electricas/",
+      "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El próximo 19 de octubre la normativa entrará plenamente en vigencia en todo el territorio nacional. La entrada SMA oficia preventivamente a regulados para reforzar cumplimiento de la nueva Norma Lumínica se publicó primero en Revista Electricidad .",
+      "extracto": "La iniciativa considera un periodo de construcción de 14 meses. La entrada Multinacional Alupar ingresa al SEIA nuevo proyecto de subestaciones y líneas eléctricas se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "SMA"
+        "SEIA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA estrena nueva plataforma con avances en resolución de proyectos por más de US$16 mil millones",
-      "url": "https://www.revistaei.cl/sea-estrena-nueva-plataforma-con-avances-en-resolucion-de-proyectos-por-mas-de-us16-mil-millones/",
-      "fecha": "2026-05-18",
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental suspende revisión ambiental de Central Mejillones 2 tras reclamación presentada por Engie",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-suspende-revision-ambiental-de-central-mejillones-2-tras-reclamacion-presentada-por-engie/",
+      "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Un total de 24 iniciativas que tenían materias pendientes ya fueron resueltas, sumando hasta la fecha US$9.584 millones en inversión. La entrada SEA estrena nueva plataforma con avances en resolución de proyectos por más de US$16 mil millones se publ",
+      "extracto": "La medida cautelar ordenada por el Primer Tribunal Ambiental paraliza temporalmente el proceso mediante el cual se buscaba revisar el permiso ambiental histórico de la unidad termoeléctrica ubicada en Mejillones. El Primer Tribunal Ambiental acogió a",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Impulsando la Ley REP: cuatro comunas se suman al reciclaje de neumáticos fuera de uso",
+      "url": "https://mma.gob.cl/impulsando-la-ley-rep-cuatro-comunas-se-suman-al-reciclaje-de-neumaticos-fuera-de-uso/",
+      "fecha": "2026-05-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Con esta campaña la SEREMI del Medio Ambiente continúa promoviendo en la región la implementación de la Ley de Responsabilidad […]",
+      "keywords_detectadas": [
+        "Ley REP"
       ]
     }
   ]
