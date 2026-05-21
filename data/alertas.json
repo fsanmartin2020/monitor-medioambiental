@@ -1,78 +1,66 @@
 {
-  "fecha_generacion": "2026-05-20T09:55:33.266703-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-05-21T10:32:28.996166-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental confirmó rechazo de Programa de Cumplimiento de Piscicultura Chesque Alto por eludir el ingreso al SEIA",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-confirmo-rechazo-de-programa-de-cumplimiento-de-piscicultura-chesque-alto-por-eludir-el-ingreso-al-seia/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tribunal consideró fundada la resolución de la SMA que rechazó el Programa de Cumplimiento, ya que dada la infracción grave de elusión, el titular debió considerar el ingreso del proyecto a evaluación ambiental. El Tercer Tribunal Ambiental dictó ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Collahuasi pide al Segundo Tribunal Ambiental aclarar sentencia que anuló permiso ambiental de proyecto por US$ 3.200 millones",
-      "url": "https://www.df.cl/empresas/mineria/collahuasi-pide-al-segundo-tribunal-ambiental-aclarar-sentencia-que-anulo",
-      "fecha": "2026-05-20",
+      "fuente": "El Mercurio Legal",
+      "titular": "Corte de Apelaciones de Antofagasta ordena que caso Democracia Viva sea trasladado a un juzgado de Santiago, en antesala de juicio oral",
+      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/05/20/916232/juicio-democracia-viva.aspx",
+      "fecha": "2026-05-21",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Claudio Marcelo Gómez Paredes y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-30-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-claudio-marcelo-gomez-paredes-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-30-2026/",
+      "fecha": "2026-05-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Con fecha 20 de mayo de 2026, admítase a trámite la Reclamación identificada como Claudio Marcelo Gómez Paredes y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental. (Rol R-30-2026). Acceda al expediente electrónico de la causa en el ",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Gestión de Episodios Críticos 2026: SMA actualiza listado de paralización de grandes establecimientos afectos al PPDA de la RM",
+      "url": "https://portal.sma.gob.cl/index.php/gestion-de-episodios-criticos-2026-sma-actualiza-listado-de-paralizacion-de-grandes-establecimientos-afectos-al-ppda-de-la-rm/",
+      "fecha": "2026-05-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "A partir de la publicación de la Resolución Exenta N°1365/2026, sólo un establecimiento deberá paralizar la operación de sus fuentes estacionarias durante episodios de preemergencia o emergencia ambiental en la Región Metropolitana. En el marco del i",
+      "keywords_detectadas": [
+        "SMA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Collahuasi presenta recurso ante el Segundo Tribunal Ambiental",
-      "url": "https://www.mch.cl/collahuasi-presenta-recurso-ante-el-segundo-tribunal-ambiental/",
+      "titular": "Voces Mineras por anulación de RCA de Collahuasi: “Sentencia afecta seriamente la certeza jurídica”",
+      "url": "https://www.mch.cl/voces-mineras-por-anulacion-de-rca-de-collahuasi-sentencia-afecta-seriamente-la-certeza-juridica/",
       "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La compañía precisó que la paralización de los aspectos vigentes de la RCA tendría efectos ambientales, regulatorios, laborales y económicos significativos. La entrada Collahuasi presenta recurso ante el Segundo Tribunal Ambiental se publicó primero ",
+      "extracto": "La gremial se refirió a las implicancias de la decisión del Segundo Tribunal Ambiental. La entrada Voces Mineras por anulación de RCA de Collahuasi: “Sentencia afecta seriamente la certeza jurídica” se publicó primero en Mch .",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "RCA"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Multinacional Alupar ingresa al SEIA nuevo proyecto de subestaciones y líneas eléctricas",
-      "url": "https://www.revistaei.cl/multinacional-alupar-ingresa-al-seia-nuevo-proyecto-de-subestaciones-y-lineas-electricas/",
+      "titular": "Tribunal Ambiental suspende revisión de RCA de central termoeléctrica",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-suspende-revision-de-rca-de-central-termoelectrica/",
       "fecha": "2026-05-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera un periodo de construcción de 14 meses. La entrada Multinacional Alupar ingresa al SEIA nuevo proyecto de subestaciones y líneas eléctricas se publicó primero en Revista Electricidad .",
+      "extracto": "Decisión se origina tras la reclamación presentada por el titular del proyecto. La entrada Tribunal Ambiental suspende revisión de RCA de central termoeléctrica se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental suspende revisión ambiental de Central Mejillones 2 tras reclamación presentada por Engie",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-suspende-revision-ambiental-de-central-mejillones-2-tras-reclamacion-presentada-por-engie/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La medida cautelar ordenada por el Primer Tribunal Ambiental paraliza temporalmente el proceso mediante el cual se buscaba revisar el permiso ambiental histórico de la unidad termoeléctrica ubicada en Mejillones. El Primer Tribunal Ambiental acogió a",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Impulsando la Ley REP: cuatro comunas se suman al reciclaje de neumáticos fuera de uso",
-      "url": "https://mma.gob.cl/impulsando-la-ley-rep-cuatro-comunas-se-suman-al-reciclaje-de-neumaticos-fuera-de-uso/",
-      "fecha": "2026-05-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con esta campaña la SEREMI del Medio Ambiente continúa promoviendo en la región la implementación de la Ley de Responsabilidad […]",
-      "keywords_detectadas": [
-        "Ley REP"
+        "Tribunal Ambiental",
+        "RCA"
       ]
     }
   ]
