@@ -1,285 +1,173 @@
 {
-  "fecha_actualizacion": "2026-05-21T10:32:28.984686-04:00",
-  "total": 35,
+  "fecha_actualizacion": "2026-05-22T09:55:34.133691-04:00",
+  "total": 21,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La campaña estatal contra incendios forestales se adelanta de nuevo al 1 de junio",
-      "url": "https://efeverde.com/campana-estatal-contra-incendios-forestales/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El aumento del nivel del mar se ha duplicado desde 2005",
-      "url": "https://efeverde.com/aumento-del-nivel-del-mar/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La «resolución de Vanuatu»: claves de una histórica victoria para el clima",
-      "url": "https://efeverde.com/la-resolucion-de-vanuatu-claves-de-una-historica-victoria-para-el-clima/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La financiación climática alcanza el récord de 136.700 millones en 2024, aunque desacelera el crecimiento",
-      "url": "https://efeverde.com/la-financiacion-climatica-alcanza-el-record-de-136-700-millones-en-2024-aunque-desacelera/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Mariposas por lo que nos salva: defender la Red Natura 2000. Por Asunción Ruiz (directora ejecutiva de SEO/BirdLife)",
-      "url": "https://efeverde.com/mariposas-por-lo-que-nos-salva-defender-la-red-natura-2000-por-asuncion-ruiz/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Kate Brauman (experta en riesgos hídricos): los centros de datos desatarán conflictos por el agua",
-      "url": "https://efeverde.com/kate-brauman-experta-en-riesgos-hidricos-los-centros-de-datos-desataran-conflictos-por-el-agua/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Nuevo récord de barreras fluviales eliminadas en Europa en 2025: 603, el 11 % más que en 2024",
-      "url": "https://efeverde.com/nuevo-record-de-barreras-fluviales-eliminadas-europa-en-2025-603-el-11-mas-que-en-2024/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Mercurio Legal",
-      "titular": "Corte de Apelaciones de Antofagasta ordena que caso Democracia Viva sea trasladado a un juzgado de Santiago, en antesala de juicio oral",
-      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/05/20/916232/juicio-democracia-viva.aspx",
-      "fecha": "2026-05-21",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
       "fuente": "País Circular",
-      "titular": "Chile pierde glaciares equivalentes a 16 canchas de fútbol: alertan impacto directo sobre el agua y la biodiversidad",
-      "url": "https://www.paiscircular.cl/agua/chile-pierde-glaciares-equivalentes-a-16-canchas-de-futbol-alertan-impacto-directo-sobre-el-agua-y-la-biodiversidad/",
-      "fecha": "2026-05-20",
+      "titular": "Gabriella Muñoz, fundadora de GRYS Consultora: “Ayudamos a las empresas a entender qué normas ambientales tienen que cumplir y cómo hacerlo”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/gabriella-munoz-fundadora-de-grys-consultora-ayudamos-a-las-empresas-a-entender-que-normas-ambientales-tienen-que-cumplir-y-como-hacerlo/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Mitos versus realidad: el “peligro” de las especies marinas que habitan Chile",
-      "url": "https://codexverde.cl/el-peligro-de-las-especies-marinas-que-habitan-chile/",
-      "fecha": "2026-05-20",
+      "titular": "Por segundo año consecutivo: Paris introduce Pasaporte Digital en vestuario y permite conocer la trazabilidad completa de cada prenda",
+      "url": "https://codexverde.cl/paris-introduce-pasaporte-digital-en-vestuario/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Bart van den Hurk, copresidente del grupo II del IPCC: “necesitamos pasar de los estudios académicos al contexto local”",
-      "url": "https://www.cr2.cl/bart-van-den-hurk-copresidente-del-grupo-ii-del-ipcc-necesitamos-pasar-de-los-estudios-academicos-al-contexto-local/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Análisis CR2 | El Niño Godzilla, versión 2026",
-      "url": "https://www.cr2.cl/analisis-cr2-el-nino-godzilla-version-2026/",
-      "fecha": "2026-05-20",
+      "fuente": "Codex Verde",
+      "titular": "Lanzan mapa interactivo para identificar zonas protegidas y exigencias de la nueva norma lumínica",
+      "url": "https://codexverde.cl/lanzan-mapa-interactivo-para-identificar-zonas-protegidas-y-exigencias-de-la-nueva-norma-luminica/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cinco millones de españoles carecen de transporte público adecuado, según Greenpeace",
-      "url": "https://efeverde.com/cinco-millones-espanoles-carecen-de-transporte-publico-adecuado-segun-greenpeace/",
-      "fecha": "2026-05-20",
+      "titular": "Movilidad sostenible…, para todos. Por May",
+      "url": "https://efeverde.com/movilidad-sostenible-todos-may-mundomay/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las inundaciones que combinan riesgos cuestan tres veces más y alcanzan el 70 % en Europa",
-      "url": "https://efeverde.com/inundaciones-riesgos-cuestan-tres-veces-mas-70-europa/",
-      "fecha": "2026-05-20",
+      "titular": "España entra en déficit ecológico: ya ha agotado sus recursos naturales disponibles para 2026",
+      "url": "https://efeverde.com/espana-entra-en-deficit-ecologico/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Greenpeace presenta querella por presunta corrupción en proyecto Dominga",
-      "url": "https://www.terram.cl/greenpeace-presenta-querella-por-presunta-corrupcion-en-proyecto-dominga/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Tres islas sienten el mayor terremoto en Canarias en 5 años, un seísmo de 4,8 en el Atlántico",
+      "url": "https://efeverde.com/mayor-terremoto-en-canarias-en-5-anos/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Al Gore llega a Chile: Abren convocatoria para entrenamiento gratuito de líderes climáticos",
-      "url": "https://www.terram.cl/al-gore-llega-a-chile-abren-convocatoria-para-entrenamiento-gratuito-de-lideres-climaticos/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Reintroducen 2.600 cangrejos de río ibérico, en peligro de extinción, en Cazorla (Jaén)",
+      "url": "https://efeverde.com/reintroducen-cangrejos-rio-iberico-cazorla/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Huasco: La localidad cubierta en polvo del carbón que se extrae de tierras de un pueblo indígena colombiano",
-      "url": "https://www.terram.cl/huasco-la-localidad-cubierta-en-polvo-del-carbon-que-se-extrae-de-tierras-de-un-pueblo-indigena-colombiano/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "La sombra de los naranjos puede reducir hasta 12 grados la temperatura del pavimento",
+      "url": "https://efeverde.com/sombra-naranjos-reducir-temperatura-pavimento/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Proyecto para neutralizar CO₂ en Los Lagos abre controversia científica",
-      "url": "https://www.terram.cl/proyecto-para-neutralizar-co%e2%82%82-en-los-lagos-abre-controversia-cientifica/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Aprobada la primera ley europea para mejorar el bienestar de perros y gatos",
+      "url": "https://efeverde.com/aprobada-primera-ley-europea-para-mejorar-bienestar-perros-gatos/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Chile descubre una nueva especie de pingüino, la primera descrita en más de 100 años",
-      "url": "https://www.terram.cl/chile-descubre-una-nueva-especie-de-pinguino-la-primera-descrita-en-mas-de-100-anos/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Optimismo socioambiental, la revolución necesaria. Por Arturo Larena",
+      "url": "https://efeverde.com/optimismo-socioambiental-la-revolucion-necesaria-por-arturo-larena/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Día Mundial de las Abejas: ciencia nuclear busca proteger la miel chilena",
-      "url": "https://www.terram.cl/dia-mundial-de-las-abejas-ciencia-nuclear-busca-proteger-la-miel-chilena/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "España registra un 19 % más de lluvias de lo normal a las puertas del verano meteorológico",
+      "url": "https://efeverde.com/espana-19-mas-lluvias-normal/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "FIMA",
-      "titular": "Empresas y DD.HH.: tres fallas ambientales del proyecto de reconstrucción",
-      "url": "https://www.fima.cl/2026/05/20/empresas-y-dd-hh-tres-fallas-ambientales-del-proyecto-de-reconstruccion/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "El impacto de la flora invasora: un desafío para la gestión forestal y de infraestructuras",
+      "url": "https://efeverde.com/impacto-de-flora-invasora/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Claudio Marcelo Gómez Paredes y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-30-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-claudio-marcelo-gomez-paredes-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-30-2026/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Al menos 471 especies están amenazadas en España, según la primera Lista Roja Nacional UICN",
+      "url": "https://efeverde.com/al-menos-428-especies-estan-amenazadas-en-espana-segun-la-primera-lista-roja-nacional-uicn/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Clementina Lepío Milipichún con Comité de Ministros». Rol: R-31-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-clementina-lepio-milipichun-con-comite-de-ministros-rol-r-31-2026/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "Rehabilitar en lugar de construir: la gran oportunidad olvidada de la sostenibilidad. Por Giorgio Grillo",
+      "url": "https://efeverde.com/falta-foto-rehabilitar-en-lugar-de-construir-la-gran-oportunidad-olvidada-de-la-sostenibilidad-por-giorgio-grillo/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Nilda Julia San Vasquez y otro con Gonzalo Javier Heise Reyes». Rol: DE-1-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-nilda-julia-san-vasquez-y-otro-con-gonzalo-javier-heise-reyes-rol-de-1-2026/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Fondo de la Naturaleza dona equipamiento al Parque Nacional Vicente Pérez Rosales",
-      "url": "https://www.conaf.cl/fondo-de-la-naturaleza-dona-equipamiento-al-parque-nacional-vicente-perez-rosales/?utm_source=rss&utm_medium=rss&utm_campaign=fondo-de-la-naturaleza-dona-equipamiento-al-parque-nacional-vicente-perez-rosales",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Actualización: situación del uso del fuego como quema controlada",
-      "url": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-situacion-uso-del-fuego-en-regiones",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF actualiza el Catastro de los Recursos Vegetacionales de la Región de Arica y Parinacota",
-      "url": "https://www.conaf.cl/conaf-actualiza-el-catastro-de-los-recursos-vegetacionales-de-la-region-de-arica-y-parinacota/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-actualiza-el-catastro-de-los-recursos-vegetacionales-de-la-region-de-arica-y-parinacota",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF consolida participación de la comunidad en proyectos de cambio climático",
-      "url": "https://www.conaf.cl/conaf-consolida-participacion-de-la-comunidad-en-proyectos-de-cambio-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-consolida-participacion-de-la-comunidad-en-proyectos-de-cambio-climatico",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Gestión de Episodios Críticos 2026: SMA actualiza listado de paralización de grandes establecimientos afectos al PPDA de la RM",
-      "url": "https://portal.sma.gob.cl/index.php/gestion-de-episodios-criticos-2026-sma-actualiza-listado-de-paralizacion-de-grandes-establecimientos-afectos-al-ppda-de-la-rm/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "La Corte Suprema de Brasil valida la ley que permite construir un criticado ferrocarril en la Amazonía",
+      "url": "https://efeverde.com/la-corte-suprema-de-brasil-valida-la-ley-que-permite-construir-un-criticado-ferrocarril-en-la-amazonia/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremis de Medio Ambiente y Energía llaman a optar por calefacción responsable ante las bajas temperaturas",
-      "url": "https://mma.gob.cl/seremis-de-medio-ambiente-y-energia-llaman-a-optar-por-calefaccion-responsable-ante-las-bajas-temperaturas/",
-      "fecha": "2026-05-20",
+      "titular": "SEREMI da inicio a dos proyectos orientados a fortalecer el conocimiento, valoración y conservación de los Ecosistemas Altoandinos de la comuna de Alto del Carmen",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-da-inicio-a-dos-proyectos-orientados-a-fortalecer-el-conocimiento-valoracion-y-conservacion-de-los-ecosistemas-altoandinos-de-la-comuna-de-alto-del-carmen/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Semana del Reciclaje: comunidad participó en jornada educativa sobre gestión de residuos y economía circular",
-      "url": "https://mma.gob.cl/semana-del-reciclaje-comunidad-participo-en-jornada-educativa-sobre-gestion-de-residuos-y-economia-circular/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ejército y Medio Ambiente organizan mega operativo de limpieza para este sábado 23 de mayo",
-      "url": "https://mma.gob.cl/ejercito-y-medio-ambiente-organizan-mega-operativo-de-limpieza-para-este-sabado-23-de-mayo/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Declaran primera Emergencia del periodo GEC 2026 en Chillán y Chillán Viejo",
-      "url": "https://mma.gob.cl/declaran-primera-emergencia-del-periodo-gec-2026-en-chillan-y-chillan-viejo/",
-      "fecha": "2026-05-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Diario Financiero",
+      "titular": "Segundo Tribunal Ambiental aclara fallo de Collahuasi y permite continuidad parcial del proyecto de US$ 3.200 millones",
+      "url": "https://www.df.cl/empresas/mineria/segundo-tribunal-ambiental-aclara-fallo-de-collahuasi-y-permite-continuidad",
+      "fecha": "2026-05-22",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Voces Mineras por anulación de RCA de Collahuasi: “Sentencia afecta seriamente la certeza jurídica”",
-      "url": "https://www.mch.cl/voces-mineras-por-anulacion-de-rca-de-collahuasi-sentencia-afecta-seriamente-la-certeza-juridica/",
-      "fecha": "2026-05-20",
+      "titular": "Collahuasi se refiere a resolución del Tribunal Ambiental relacionada al recurso de aclaración",
+      "url": "https://www.mch.cl/collahuasi-se-refiere-a-resolucion-del-tribunal-ambiental-relacionada-al-recurso-de-aclaracion/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental suspende revisión de RCA de central termoeléctrica",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-suspende-revision-de-rca-de-central-termoelectrica/",
-      "fecha": "2026-05-20",
+      "fuente": "EFE Verde",
+      "titular": "España incumple el plazo para adaptar la nueva ley europea contra delitos ambientales",
+      "url": "https://efeverde.com/espana-incumple-plazo-adaptar-ley-europea-delitos-ambientales/",
+      "fecha": "2026-05-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Greenpeace detecta microplásticos en alimentos para bebés envasados en bolsas exprimibles",
+      "url": "https://efeverde.com/greenpeace-detecta-microplasticos-alimentos-bebes/",
+      "fecha": "2026-05-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Tribunal ambiental responde a Collahuasi por fallo judicial que retrotrae proyecto por US$3.200 millones",
+      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi-por-fallo-judicial-que-retrotrae-proyecto-por-us3200-millones/",
+      "fecha": "2026-05-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
