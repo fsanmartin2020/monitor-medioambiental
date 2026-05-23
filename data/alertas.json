@@ -1,51 +1,51 @@
 {
-  "fecha_generacion": "2026-05-22T09:55:34.146216-04:00",
+  "fecha_generacion": "2026-05-23T08:14:45.499695-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La Corte Suprema de Brasil valida la ley que permite construir un criticado ferrocarril en la Amazonía",
-      "url": "https://efeverde.com/la-corte-suprema-de-brasil-valida-la-ley-que-permite-construir-un-criticado-ferrocarril-en-la-amazonia/",
-      "fecha": "2026-05-22",
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema exige causas reales para despedir por necesidades de la empresa",
+      "url": "https://www.diarioconstitucional.cl/2026/05/23/corte-suprema-exige-causas-reales-para-despedir-por-necesidades-de-la-empresa/",
+      "fecha": "2026-05-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Río de Janeiro.- La Corte Suprema de Brasil ha declarado constitucional la ley que redujo el tamaño de una importante reserva natural en la Amazonía para permitir la construcción de un cuestionado ferrocarril destinado al transporte de granos para su",
+      "extracto": "Descartó que una reestructuración interna sea suficiente para justificar despidos, señalando que la empresa debe acreditar razones económicas o técnicas que hagan realmente necesaria la desvinculación, pues mejorar la eficiencia o reducir costos no b",
       "keywords_detectadas": [
         "Corte Suprema"
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Segundo Tribunal Ambiental aclara fallo de Collahuasi y permite continuidad parcial del proyecto de US$ 3.200 millones",
-      "url": "https://www.df.cl/empresas/mineria/segundo-tribunal-ambiental-aclara-fallo-de-collahuasi-y-permite-continuidad",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de sondajes",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-sondajes/",
       "fecha": "2026-05-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Iniciativa tiene por objetivo reducir la incertidumbre geológica del cuerpo mineralizado. La entrada Se califica favorablemente DIA de proyecto de sondajes se publicó primero en Mch .",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "DIA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Collahuasi se refiere a resolución del Tribunal Ambiental relacionada al recurso de aclaración",
-      "url": "https://www.mch.cl/collahuasi-se-refiere-a-resolucion-del-tribunal-ambiental-relacionada-al-recurso-de-aclaracion/",
+      "titular": "SEA Antofagasta continua jornadas ciudadana por proyecto que extiende continuidad operación de minera",
+      "url": "https://www.mch.cl/sea-antofagasta-continua-jornadas-ciudadana-por-proyecto-que-extiende-continuidad-operacion-de-minera/",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La minera reafirmó que la evaluación ambiental del proyecto C20+ se ajustó a la normativa vigente y a la institucionalidad ambiental. La entrada Collahuasi se refiere a resolución del Tribunal Ambiental relacionada al recurso de aclaración se publicó",
+      "extracto": "La actividad contó con stands informativos sobre las características de la iniciativa. La entrada SEA Antofagasta continua jornadas ciudadana por proyecto que extiende continuidad operación de minera se publicó primero en Mch .",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Tribunal ambiental responde a Collahuasi por fallo judicial que retrotrae proyecto por US$3.200 millones",
-      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi-por-fallo-judicial-que-retrotrae-proyecto-por-us3200-millones/",
-      "fecha": "2026-05-21",
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental aclara fallo sobre proyecto C20+ de Collahuasi y permite continuidad parcial de obras",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aclara-fallo-sobre-proyecto-c20-de-collahuasi-y-permite-continuidad-parcial-de-obras/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La minera fue notificada del resultado de la aclaración pedida por la firma y según comunicó la empresa, \"se encuentra acotada a materias vinculadas a la planta desaladora y al medio humano, con foco en ambas comunidades reclamantes, manteniendo la v",
+      "extracto": "La resolución del Segundo Tribunal Ambiental precisó que la minera podrá continuar ejecutando los componentes no cuestionados del proyecto de US$3.200 millones, mientras avanza la reevaluación ambiental vinculada a la planta desaladora y al medio hum",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]

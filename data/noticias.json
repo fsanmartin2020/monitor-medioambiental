@@ -1,173 +1,165 @@
 {
-  "fecha_actualizacion": "2026-05-22T09:55:34.133691-04:00",
-  "total": 21,
+  "fecha_actualizacion": "2026-05-23T08:14:45.486778-04:00",
+  "total": 20,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Gabriella Muñoz, fundadora de GRYS Consultora: “Ayudamos a las empresas a entender qué normas ambientales tienen que cumplir y cómo hacerlo”",
-      "url": "https://www.paiscircular.cl/medio-ambiente/gabriella-munoz-fundadora-de-grys-consultora-ayudamos-a-las-empresas-a-entender-que-normas-ambientales-tienen-que-cumplir-y-como-hacerlo/",
-      "fecha": "2026-05-22",
+      "fuente": "EFE Verde",
+      "titular": "León XIV, desde la Italia de los residuos tóxicos: «Un cambio de mentalidad económica sanará el planeta»",
+      "url": "https://efeverde.com/leon-xiv-residuos-toxicos-cambio-mentalidad-economica-sanara-planeta/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Rescatan en Ciudad Real un ibis eremita, una rara avis amenazada con solo 1.100 ejemplares en el mundo",
+      "url": "https://efeverde.com/rescatan-ibis-eremita-amenazada-mundo/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Eduardo Tolosana (decano de Montes): «La campaña de incendios que arranca podría superar la gravedad de 2025»",
+      "url": "https://efeverde.com/eduardo-tolosana-decano-montes-campana-incendios-que-arranca-podria-superar-gravedad-de-2025/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Descubren dos nuevas especies de plantas endémicas en la selva central de Perú",
+      "url": "https://efeverde.com/descubren-especies-plantas-endemicas-peru/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El viaje de récord de dos ballenas jorobadas: cruzan más de 14.000 kilómetros de Australia a Brasil",
+      "url": "https://efeverde.com/ballenas-jorobadas-record-viaje-australia-brasil/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Plantas centenarias adaptadas al cambio climático que pueden crear empleo verde local",
+      "url": "https://efeverde.com/plantas-centenarias-adaptadas-cambio-climatico-empleo-verde-local/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Agrandando su estatus de histórica: la tercera final de Champions League para Christiane Endler",
+      "url": "https://www.latercera.com/el-deportivo/noticia/para-agrandar-su-estatus-de-historica-christiane-endler-juega-su-tercera-final-de-champions-league/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "Senadora María José Gatica (RN): \"Lo mínimo que uno esperaría de los nuestros, si es tu Gobierno, es que te escuchen\"",
+      "url": "https://www.eldinamo.cl/politica/2026/05/23/senadora-maria-jose-gatica-rn-lo-minimo-que-uno-esperaria-de-los-nuestros-si-es-tu-gobierno-es-que-te-escuchen/",
+      "fecha": "2026-05-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema exige causas reales para despedir por necesidades de la empresa",
+      "url": "https://www.diarioconstitucional.cl/2026/05/23/corte-suprema-exige-causas-reales-para-despedir-por-necesidades-de-la-empresa/",
+      "fecha": "2026-05-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Por segundo año consecutivo: Paris introduce Pasaporte Digital en vestuario y permite conocer la trazabilidad completa de cada prenda",
-      "url": "https://codexverde.cl/paris-introduce-pasaporte-digital-en-vestuario/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Lanzan mapa interactivo para identificar zonas protegidas y exigencias de la nueva norma lumínica",
-      "url": "https://codexverde.cl/lanzan-mapa-interactivo-para-identificar-zonas-protegidas-y-exigencias-de-la-nueva-norma-luminica/",
+      "titular": "Especialista de INERCO advierte sobre la ausencia de regulación para suelos contaminados en Chile: “Implica riesgos para proyectos de inversión, así como para la salud de las personas y el medio ambiente”",
+      "url": "https://codexverde.cl/especialista-de-inerco-advierte-sobre-la-ausencia-de-regulacion-para-suelos-contaminados-en-chile-implica-riesgos-para-proyectos-de-inversion-asi-como-para-la-salud-de-las-personas-y-el-med/",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Movilidad sostenible…, para todos. Por May",
-      "url": "https://efeverde.com/movilidad-sostenible-todos-may-mundomay/",
+      "titular": "La anguila, víctima a una «sobreexplotación» irreversible por el interés «de unos pocos»",
+      "url": "https://efeverde.com/anguila-sobreexplotacion-irreversible/",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España entra en déficit ecológico: ya ha agotado sus recursos naturales disponibles para 2026",
-      "url": "https://efeverde.com/espana-entra-en-deficit-ecologico/",
+      "titular": "¿»Domo» de calor? Así será el anómalo episodio de temperaturas tan altas los próximos días",
+      "url": "https://efeverde.com/domo-de-calor/",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Tres islas sienten el mayor terremoto en Canarias en 5 años, un seísmo de 4,8 en el Atlántico",
-      "url": "https://efeverde.com/mayor-terremoto-en-canarias-en-5-anos/",
+      "titular": "Las poblaciones de desmán ibérico podrían desaparecer en 30 años si continúa la actual tendencia",
+      "url": "https://efeverde.com/poblaciones-desman-iberico-desaparecer-30-anos/",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Reintroducen 2.600 cangrejos de río ibérico, en peligro de extinción, en Cazorla (Jaén)",
-      "url": "https://efeverde.com/reintroducen-cangrejos-rio-iberico-cazorla/",
+      "fuente": "CONAF",
+      "titular": "CONAF llama a respetar normativa para la seguridad de visitantes en el volcán Osorno",
+      "url": "https://www.conaf.cl/conaf-llama-a-respetar-normativa-para-la-seguridad-de-visitantes-en-el-volcan-osorno/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-llama-a-respetar-normativa-para-la-seguridad-de-visitantes-en-el-volcan-osorno",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La sombra de los naranjos puede reducir hasta 12 grados la temperatura del pavimento",
-      "url": "https://efeverde.com/sombra-naranjos-reducir-temperatura-pavimento/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Aprobada la primera ley europea para mejorar el bienestar de perros y gatos",
-      "url": "https://efeverde.com/aprobada-primera-ley-europea-para-mejorar-bienestar-perros-gatos/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Optimismo socioambiental, la revolución necesaria. Por Arturo Larena",
-      "url": "https://efeverde.com/optimismo-socioambiental-la-revolucion-necesaria-por-arturo-larena/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "España registra un 19 % más de lluvias de lo normal a las puertas del verano meteorológico",
-      "url": "https://efeverde.com/espana-19-mas-lluvias-normal/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El impacto de la flora invasora: un desafío para la gestión forestal y de infraestructuras",
-      "url": "https://efeverde.com/impacto-de-flora-invasora/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Al menos 471 especies están amenazadas en España, según la primera Lista Roja Nacional UICN",
-      "url": "https://efeverde.com/al-menos-428-especies-estan-amenazadas-en-espana-segun-la-primera-lista-roja-nacional-uicn/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Rehabilitar en lugar de construir: la gran oportunidad olvidada de la sostenibilidad. Por Giorgio Grillo",
-      "url": "https://efeverde.com/falta-foto-rehabilitar-en-lugar-de-construir-la-gran-oportunidad-olvidada-de-la-sostenibilidad-por-giorgio-grillo/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Corte Suprema de Brasil valida la ley que permite construir un criticado ferrocarril en la Amazonía",
-      "url": "https://efeverde.com/la-corte-suprema-de-brasil-valida-la-ley-que-permite-construir-un-criticado-ferrocarril-en-la-amazonia/",
+      "fuente": "CONAF",
+      "titular": "Comunidad educativa de Jaiña se capacitó en prevención de incendios forestales con programa Escuelas Preparadas de CONAF",
+      "url": "https://www.conaf.cl/comunidad-educativa-de-jaina-se-capacito-en-prevencion-de-incendios-forestales-con-programa-escuelas-preparadas-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-educativa-de-jaina-se-capacito-en-prevencion-de-incendios-forestales-con-programa-escuelas-preparadas-de-conaf",
       "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI da inicio a dos proyectos orientados a fortalecer el conocimiento, valoración y conservación de los Ecosistemas Altoandinos de la comuna de Alto del Carmen",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-da-inicio-a-dos-proyectos-orientados-a-fortalecer-el-conocimiento-valoracion-y-conservacion-de-los-ecosistemas-altoandinos-de-la-comuna-de-alto-del-carmen/",
+      "titular": "Actualización norma de plomo: Contraloría toma de razón decreto clave para la salud de las personas",
+      "url": "https://mma.gob.cl/actualizacion-norma-de-plomo-contraloria-toma-de-razon-decreto-clave-para-la-salud-de-las-personas/",
       "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Segundo Tribunal Ambiental aclara fallo de Collahuasi y permite continuidad parcial del proyecto de US$ 3.200 millones",
-      "url": "https://www.df.cl/empresas/mineria/segundo-tribunal-ambiental-aclara-fallo-de-collahuasi-y-permite-continuidad",
-      "fecha": "2026-05-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Collahuasi se refiere a resolución del Tribunal Ambiental relacionada al recurso de aclaración",
-      "url": "https://www.mch.cl/collahuasi-se-refiere-a-resolucion-del-tribunal-ambiental-relacionada-al-recurso-de-aclaracion/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "España incumple el plazo para adaptar la nueva ley europea contra delitos ambientales",
-      "url": "https://efeverde.com/espana-incumple-plazo-adaptar-ley-europea-delitos-ambientales/",
-      "fecha": "2026-05-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace detecta microplásticos en alimentos para bebés envasados en bolsas exprimibles",
-      "url": "https://efeverde.com/greenpeace-detecta-microplasticos-alimentos-bebes/",
-      "fecha": "2026-05-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Tribunal ambiental responde a Collahuasi por fallo judicial que retrotrae proyecto por US$3.200 millones",
-      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-responde-a-collahuasi-por-fallo-judicial-que-retrotrae-proyecto-por-us3200-millones/",
-      "fecha": "2026-05-21",
+      "titular": "Kevin Warsh, el candidato de Trump, jura como nuevo presidente de la Fed",
+      "url": "https://www.latercera.com/pulso/noticia/kevin-warsh-el-candidato-de-trump-jura-como-nuevo-presidente-de-la-fed/",
+      "fecha": "2026-05-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de sondajes",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-sondajes/",
+      "fecha": "2026-05-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA Antofagasta continua jornadas ciudadana por proyecto que extiende continuidad operación de minera",
+      "url": "https://www.mch.cl/sea-antofagasta-continua-jornadas-ciudadana-por-proyecto-que-extiende-continuidad-operacion-de-minera/",
+      "fecha": "2026-05-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental aclara fallo sobre proyecto C20+ de Collahuasi y permite continuidad parcial de obras",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aclara-fallo-sobre-proyecto-c20-de-collahuasi-y-permite-continuidad-parcial-de-obras/",
+      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
