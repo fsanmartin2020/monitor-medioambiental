@@ -1,165 +1,45 @@
 {
-  "fecha_actualizacion": "2026-05-23T08:14:45.486778-04:00",
-  "total": 20,
+  "fecha_actualizacion": "2026-05-24T08:13:37.554076-04:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "León XIV, desde la Italia de los residuos tóxicos: «Un cambio de mentalidad económica sanará el planeta»",
-      "url": "https://efeverde.com/leon-xiv-residuos-toxicos-cambio-mentalidad-economica-sanara-planeta/",
-      "fecha": "2026-05-23",
+      "titular": "Registran 14 especies nativas de mamíferos medianos y grandes en la reserva Manglares Churute (Ecuador)",
+      "url": "https://efeverde.com/registran-especies-nativas-mamiferos-reserva-manglares-churute-ecuador/",
+      "fecha": "2026-05-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Rescatan en Ciudad Real un ibis eremita, una rara avis amenazada con solo 1.100 ejemplares en el mundo",
-      "url": "https://efeverde.com/rescatan-ibis-eremita-amenazada-mundo/",
-      "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Eduardo Tolosana (decano de Montes): «La campaña de incendios que arranca podría superar la gravedad de 2025»",
-      "url": "https://efeverde.com/eduardo-tolosana-decano-montes-campana-incendios-que-arranca-podria-superar-gravedad-de-2025/",
-      "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descubren dos nuevas especies de plantas endémicas en la selva central de Perú",
-      "url": "https://efeverde.com/descubren-especies-plantas-endemicas-peru/",
-      "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El viaje de récord de dos ballenas jorobadas: cruzan más de 14.000 kilómetros de Australia a Brasil",
-      "url": "https://efeverde.com/ballenas-jorobadas-record-viaje-australia-brasil/",
-      "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Plantas centenarias adaptadas al cambio climático que pueden crear empleo verde local",
-      "url": "https://efeverde.com/plantas-centenarias-adaptadas-cambio-climatico-empleo-verde-local/",
-      "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Agrandando su estatus de histórica: la tercera final de Champions League para Christiane Endler",
-      "url": "https://www.latercera.com/el-deportivo/noticia/para-agrandar-su-estatus-de-historica-christiane-endler-juega-su-tercera-final-de-champions-league/",
-      "fecha": "2026-05-23",
+      "titular": "Los Certificados de Ahorro, una vía para mejorar la eficiencia energética de la vivienda",
+      "url": "https://efeverde.com/certificados-ahorro-mejorar-eficiencia-energetica-vivienda/",
+      "fecha": "2026-05-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "El Dínamo",
-      "titular": "Senadora María José Gatica (RN): \"Lo mínimo que uno esperaría de los nuestros, si es tu Gobierno, es que te escuchen\"",
-      "url": "https://www.eldinamo.cl/politica/2026/05/23/senadora-maria-jose-gatica-rn-lo-minimo-que-uno-esperaria-de-los-nuestros-si-es-tu-gobierno-es-que-te-escuchen/",
-      "fecha": "2026-05-23",
+      "titular": "Bárbara Hernández, la Sirena de Hielo que ingresó al Salón de la Fama de la Natación: \"Cuando estoy en el mar, siento que pertenezco ahí\"",
+      "url": "https://www.eldinamo.cl/pais/2026/05/24/barbara-hernandez-la-sirena-de-hielo-que-ingreso-al-salon-de-la-fama-de-la-natacion-una-vez-que-estoy-en-el-mar-siento-que-pertenezco-ahi/",
+      "fecha": "2026-05-24",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema exige causas reales para despedir por necesidades de la empresa",
-      "url": "https://www.diarioconstitucional.cl/2026/05/23/corte-suprema-exige-causas-reales-para-despedir-por-necesidades-de-la-empresa/",
+      "fuente": "EFE Verde",
+      "titular": "El calor extremo y la contaminación dejan cientos de peces muertos en un lago de la India",
+      "url": "https://efeverde.com/calor-extremo-contaminacion-peces-muertos-india/",
       "fecha": "2026-05-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Especialista de INERCO advierte sobre la ausencia de regulación para suelos contaminados en Chile: “Implica riesgos para proyectos de inversión, así como para la salud de las personas y el medio ambiente”",
-      "url": "https://codexverde.cl/especialista-de-inerco-advierte-sobre-la-ausencia-de-regulacion-para-suelos-contaminados-en-chile-implica-riesgos-para-proyectos-de-inversion-asi-como-para-la-salud-de-las-personas-y-el-med/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La anguila, víctima a una «sobreexplotación» irreversible por el interés «de unos pocos»",
-      "url": "https://efeverde.com/anguila-sobreexplotacion-irreversible/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿»Domo» de calor? Así será el anómalo episodio de temperaturas tan altas los próximos días",
-      "url": "https://efeverde.com/domo-de-calor/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las poblaciones de desmán ibérico podrían desaparecer en 30 años si continúa la actual tendencia",
-      "url": "https://efeverde.com/poblaciones-desman-iberico-desaparecer-30-anos/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF llama a respetar normativa para la seguridad de visitantes en el volcán Osorno",
-      "url": "https://www.conaf.cl/conaf-llama-a-respetar-normativa-para-la-seguridad-de-visitantes-en-el-volcan-osorno/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-llama-a-respetar-normativa-para-la-seguridad-de-visitantes-en-el-volcan-osorno",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Comunidad educativa de Jaiña se capacitó en prevención de incendios forestales con programa Escuelas Preparadas de CONAF",
-      "url": "https://www.conaf.cl/comunidad-educativa-de-jaina-se-capacito-en-prevencion-de-incendios-forestales-con-programa-escuelas-preparadas-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-educativa-de-jaina-se-capacito-en-prevencion-de-incendios-forestales-con-programa-escuelas-preparadas-de-conaf",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Actualización norma de plomo: Contraloría toma de razón decreto clave para la salud de las personas",
-      "url": "https://mma.gob.cl/actualizacion-norma-de-plomo-contraloria-toma-de-razon-decreto-clave-para-la-salud-de-las-personas/",
-      "fecha": "2026-05-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Kevin Warsh, el candidato de Trump, jura como nuevo presidente de la Fed",
-      "url": "https://www.latercera.com/pulso/noticia/kevin-warsh-el-candidato-de-trump-jura-como-nuevo-presidente-de-la-fed/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto de sondajes",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-sondajes/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA Antofagasta continua jornadas ciudadana por proyecto que extiende continuidad operación de minera",
-      "url": "https://www.mch.cl/sea-antofagasta-continua-jornadas-ciudadana-por-proyecto-que-extiende-continuidad-operacion-de-minera/",
-      "fecha": "2026-05-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental aclara fallo sobre proyecto C20+ de Collahuasi y permite continuidad parcial de obras",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aclara-fallo-sobre-proyecto-c20-de-collahuasi-y-permite-continuidad-parcial-de-obras/",
-      "fecha": "2026-05-22",
+      "titular": "La responsabilidad del Mandatario en las fallas del gobierno",
+      "url": "https://www.latercera.com/editorial/noticia/la-responsabilidad-del-mandatario-en-las-fallas-del-gobierno/",
+      "fecha": "2026-05-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
