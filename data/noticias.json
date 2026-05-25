@@ -1,45 +1,117 @@
 {
-  "fecha_actualizacion": "2026-05-24T08:13:37.554076-04:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-05-25T10:12:44.224775-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Registran 14 especies nativas de mamíferos medianos y grandes en la reserva Manglares Churute (Ecuador)",
-      "url": "https://efeverde.com/registran-especies-nativas-mamiferos-reserva-manglares-churute-ecuador/",
-      "fecha": "2026-05-24",
+      "fuente": "País Circular",
+      "titular": "Programa suma 11 nuevas cooperativas de recicladores y entrega equipamiento para fortalecer el reciclaje en Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/programa-suma-11-nuevas-cooperativas-de-recicladores-y-entrega-equipamiento-para-fortalecer-el-reciclaje-en-chile/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Urgente necesidad de invertir en infraestructura sanitaria",
+      "url": "https://codexverde.cl/urgente-necesidad-de-invertir-en-infraestructura-sanitaria/",
+      "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los Certificados de Ahorro, una vía para mejorar la eficiencia energética de la vivienda",
-      "url": "https://efeverde.com/certificados-ahorro-mejorar-eficiencia-energetica-vivienda/",
-      "fecha": "2026-05-24",
+      "titular": "El Plan Social para el Clima destinará 4.700 millones a la vivienda y 4.300 al transporte",
+      "url": "https://efeverde.com/plan-social-para-el-clima/",
+      "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Dínamo",
-      "titular": "Bárbara Hernández, la Sirena de Hielo que ingresó al Salón de la Fama de la Natación: \"Cuando estoy en el mar, siento que pertenezco ahí\"",
-      "url": "https://www.eldinamo.cl/pais/2026/05/24/barbara-hernandez-la-sirena-de-hielo-que-ingreso-al-salon-de-la-fama-de-la-natacion-una-vez-que-estoy-en-el-mar-siento-que-pertenezco-ahi/",
-      "fecha": "2026-05-24",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fuente": "EFE Verde",
+      "titular": "El calor sofocante se dispara aún más: máximas de 40 grados y noches tropicales «en muchos puntos» de España",
+      "url": "https://efeverde.com/el-calor-sofocante-se-dispara-aun-mas/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calor extremo y la contaminación dejan cientos de peces muertos en un lago de la India",
-      "url": "https://efeverde.com/calor-extremo-contaminacion-peces-muertos-india/",
-      "fecha": "2026-05-23",
+      "titular": "Ciudad de México se pinta de ajolotes a días del Mundial, mientras la especie desaparece",
+      "url": "https://efeverde.com/ciudad-mexico-ajolotes-mundial-futbol/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF informa cierre temporal del circuito “W” durante junio y julio por condiciones para operar en invierno",
+      "url": "https://www.conaf.cl/conaf-informa-cierre-temporal-del-circuito-w-durante-junio-y-julio-por-condiciones-para-operar-en-invierno/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-informa-cierre-temporal-del-circuito-w-durante-junio-y-julio-por-condiciones-para-operar-en-invierno",
+      "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "La responsabilidad del Mandatario en las fallas del gobierno",
-      "url": "https://www.latercera.com/editorial/noticia/la-responsabilidad-del-mandatario-en-las-fallas-del-gobierno/",
-      "fecha": "2026-05-23",
+      "titular": "¿Error o dolo en Codelco?: Tamara Agnic dice que hubo “una interpretación demasiado errónea de la normativa vigente”",
+      "url": "https://www.latercera.com/pulso/noticia/tamara-agnic-dolo-o-error-en-codelco-interpretacion-demasiado-erronea/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Irán confirma progresos en las conversaciones con EE.UU. pero descarta que la firma sea “inminente”",
+      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-eeuu-pero-descarta-que-la-firma-sea-inminente/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Trump recalca que no firmará un acuerdo con Irán que no sea “grande y significativo”",
+      "url": "https://www.latercera.com/mundo/noticia/trump-recalca-que-no-firmara-un-acuerdo-con-iran-que-no-sea-grande-y-significativo/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Irán confirma progresos en las conversaciones con Estados Unidos pero descarta que la firma sea “inminente”",
+      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-estados-unidos-pero-descarta-que-la-firma-sea-inminente/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Punta Peuco: 57% está en desacuerdo con que sea exclusivo para violadores de DD.HH. y 59% rechaza beneficios carcelarios",
+      "url": "https://www.latercera.com/nacional/noticia/punta-peuco-57-esta-en-desacuerdo-con-que-sea-exclusivo-para-violadores-de-ddhh-y-59-rechaza-beneficios-carcelarios/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "La directora de Codelco Tamara admitió que desde el punto de vista del gobierno corporativo que “es muy grave” lo ocurrido en Codelco, pero descartó  “absolutamente” que sea una empresa quebrada.",
+      "url": "https://www.pulso.cl/pulso/noticia/tamara-agnic-dolo-o-error-en-codelco-interpretacion-demasiado-erronea/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cientos de personas se manifiestan en Pontevedra contra Ence y el proyecto de Altri",
+      "url": "https://efeverde.com/manifestacion-rechazo-altri-ence/",
+      "fecha": "2026-05-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "La lección de Collahuasi",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/la-leccion-de-collahuasi/",
+      "fecha": "2026-05-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
