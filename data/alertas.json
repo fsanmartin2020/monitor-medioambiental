@@ -1,65 +1,29 @@
 {
-  "fecha_generacion": "2026-05-25T10:12:44.237448-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-05-26T10:08:38.794028-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Irán confirma progresos en las conversaciones con EE.UU. pero descarta que la firma sea “inminente”",
-      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-eeuu-pero-descarta-que-la-firma-sea-inminente/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Comité de Ministros confirma RCA de proyecto minero",
+      "url": "https://www.mch.cl/comite-de-ministros-confirma-rca-de-proyecto-minero/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Teherán insiste en que por ahora no se discute su programa nuclear y en que el pacto incluirá \"un cese de hostilidades en todos los frentes\".",
+      "extracto": "La instancia sesionó por quinta vez durante la administración del Presidente Kast. La entrada Comité de Ministros confirma RCA de proyecto minero se publicó primero en Mch .",
       "keywords_detectadas": [
-        "SEA"
+        "RCA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Trump recalca que no firmará un acuerdo con Irán que no sea “grande y significativo”",
-      "url": "https://www.latercera.com/mundo/noticia/trump-recalca-que-no-firmara-un-acuerdo-con-iran-que-no-sea-grande-y-significativo/",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Comité de Ministros confirma RCA de proyecto energético por US$2.500 millones",
+      "url": "https://www.revistaei.cl/comite-de-ministros-confirma-rca-de-proyecto-energetico/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“El acuerdo con Irán será uno grande o significativo, o no habrá acuerdo\", sostuvo el mandatario estadounidense.",
+      "extracto": "La instancia sesionó por quinta vez durante la administración del Presidente Kast. La entrada Comité de Ministros confirma RCA de proyecto energético por US$2.500 millones se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Irán confirma progresos en las conversaciones con Estados Unidos pero descarta que la firma sea “inminente”",
-      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-estados-unidos-pero-descarta-que-la-firma-sea-inminente/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Según han detallado, “el foco de las negociaciones es poner fin a la guerra y, en esta etapa, no estamos discutiendo detalles sobre el programa nuclear”.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Punta Peuco: 57% está en desacuerdo con que sea exclusivo para violadores de DD.HH. y 59% rechaza beneficios carcelarios",
-      "url": "https://www.latercera.com/nacional/noticia/punta-peuco-57-esta-en-desacuerdo-con-que-sea-exclusivo-para-violadores-de-ddhh-y-59-rechaza-beneficios-carcelarios/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En la última encuesta Plaza Pública de Cadem también se reveló una extendida percepción sobre el aumento del racismo y la xenofobia en Chile, además de altos niveles de apoyo a sanciones sociales y laborales contra actos discriminatorios.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "La directora de Codelco Tamara admitió que desde el punto de vista del gobierno corporativo que “es muy grave” lo ocurrido en Codelco, pero descartó  “absolutamente” que sea una empresa quebrada.",
-      "url": "https://www.pulso.cl/pulso/noticia/tamara-agnic-dolo-o-error-en-codelco-interpretacion-demasiado-erronea/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
+        "RCA"
       ]
     }
   ]

@@ -1,117 +1,229 @@
 {
-  "fecha_actualizacion": "2026-05-25T10:12:44.224775-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-05-26T10:08:38.778681-04:00",
+  "total": 28,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Programa suma 11 nuevas cooperativas de recicladores y entrega equipamiento para fortalecer el reciclaje en Chile",
-      "url": "https://www.paiscircular.cl/economia-circular/programa-suma-11-nuevas-cooperativas-de-recicladores-y-entrega-equipamiento-para-fortalecer-el-reciclaje-en-chile/",
+      "titular": "Campamento minero El Espino: 40 habitaciones cuyos muebles fueron confeccionados solo con madera reciclada",
+      "url": "https://www.paiscircular.cl/economia-circular/campamento-minero-el-espino-40-habitaciones-cuyos-muebles-fueron-confeccionados-solo-con-madera-reciclada/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "La desalación gana terreno en Chile, pero persisten dudas sobre sus efectos ambientales",
+      "url": "https://codexverde.cl/chilenos-desconocen-el-impacto-de-la-desalacion/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las temperaturas marcan máximos para mayo en Europa y provocan víctimas en Francia y Reino Unido",
+      "url": "https://efeverde.com/temperaturas-marcan-maximos-para-mayo-en-europa/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Máximas de hasta 39 grados en una nueva jornada de calor en España",
+      "url": "https://efeverde.com/nueva-jornada-de-calor-en-espana/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Denuncian muertes de aves protegidas al colisionar con un vallado en la laguna de Cucharas (Ciudad Real)",
+      "url": "https://efeverde.com/muertes-aves-protegidas-vallado-laguna-cucharas-ciudad-real/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nacen en Lorca (Murcia) cuatro linces ibéricos, la segunda camada en libertad",
+      "url": "https://efeverde.com/nacen-en-lorca-murcia-cuatro-linces-ibericos/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Descubren una nueva especie de pulpo, diminuto y de color azul, en el archipiélago ecuatoriano de Galápagos",
+      "url": "https://efeverde.com/descubren-nueva-especie-pequeno-pulpo-azul-galapagos/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Criar corales en el laboratorio para salvar arrecifes en el mar",
+      "url": "https://efeverde.com/criar-corales-en-el-laboratorio-para-salvar-arrecifes-en-el-mar/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El río Gigüela mantiene inundadas Las Tablas de Daimiel tras aportar casi 13 hm³ de agua",
+      "url": "https://efeverde.com/el-rio-giguela-mantiene-inundadas-las-tablas-de-daimiel-tras-aportar-casi-13-hm%c2%b3-de-agua/",
+      "fecha": "2026-05-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "¿Por qué Fortune Gems 2 es popular entre los jugadores?",
+      "url": "https://www.paiscircular.cl/insights/por-que-fortune-gems-2-es-popular-entre-los-jugadores-2/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Apuestas entre simple expresa y sistema",
+      "url": "https://www.paiscircular.cl/insights/apuestas-entre-simple-expresa-y-sistema/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "VERANOS INTERMINABLES E INVIERNOS MENGUANTES: ¿CÓMO DEFINIMOS AHORA LAS ESTACIONES?",
+      "url": "https://www.chiledesarrollosustentable.cl/veranos-interminables-e-inviernos-menguantes-como-definimos-ahora-las-estaciones/?utm_source=rss&utm_medium=rss&utm_campaign=veranos-interminables-e-inviernos-menguantes-como-definimos-ahora-las-estaciones",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Urgente necesidad de invertir en infraestructura sanitaria",
-      "url": "https://codexverde.cl/urgente-necesidad-de-invertir-en-infraestructura-sanitaria/",
+      "titular": "Programa incorpora 11 nuevas cooperativas y fortalece el reciclaje de base con entrega de camiones",
+      "url": "https://codexverde.cl/programa-incorpora-11-nuevas-cooperativas-y-fortalece-el-reciclaje-de-base-con-entrega-de-camiones/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Plan Social para el Clima destinará 4.700 millones a la vivienda y 4.300 al transporte",
-      "url": "https://efeverde.com/plan-social-para-el-clima/",
+      "titular": "Ciudad de México se pinta de ajolotes a días del Mundial, mientras la especie desaparece. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/ciudad-de-mexico-se-pinta-de-ajolotes-a-dias-del-mundial-mientras-la-especie-desaparece-por-victor-solis-visoor/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calor sofocante se dispara aún más: máximas de 40 grados y noches tropicales «en muchos puntos» de España",
-      "url": "https://efeverde.com/el-calor-sofocante-se-dispara-aun-mas/",
+      "titular": "Dos incendios en menos de cinco horas afectan al Parque Nacional de Doñana",
+      "url": "https://efeverde.com/dos-incendios-en-menos-de-cinco-horas-parque-nacional-de-donana/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ciudad de México se pinta de ajolotes a días del Mundial, mientras la especie desaparece",
-      "url": "https://efeverde.com/ciudad-mexico-ajolotes-mundial-futbol/",
+      "titular": "Entre olivos y bodegas: nace un destino basado en la autenticidad de Tierra de Campos. Por Arturo Crosby",
+      "url": "https://efeverde.com/entre-olivos-y-bodegas-nace-un-destino-basado-en-la-autenticidad-de-tierra-de-campos-por-arturo-crosby/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los chacales podrían expandirse por el 75% del territorio europeo",
+      "url": "https://efeverde.com/chacales-territorio-europeo/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las alertas por calor y el riesgo de incendios se extienden por varios países europeos",
+      "url": "https://efeverde.com/alertas-por-calor-y-riesgo-de-incendios-paises-europeos/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Institucionalidad ambiental en riesgo",
+      "url": "https://www.terram.cl/institucionalidad-ambiental-en-riesgo/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Chile: empresa salmonera va a la Justicia para hacer caer una protección especial en reservas marinas",
+      "url": "https://www.terram.cl/chile-empresa-salmonera-va-a-la-justicia-para-hacer-caer-una-proteccion-especial-en-reservas-marinas/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Santiago inicia la semana con preemergencia ambiental por altos niveles de contaminación",
+      "url": "https://www.terram.cl/santiago-inicia-la-semana-con-preemergencia-ambiental-por-altos-niveles-de-contaminacion/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Comienza plan para descontaminar el lago Llanquihue con plantas de la zona",
+      "url": "https://www.terram.cl/comienza-plan-para-descontaminar-el-lago-llanquihue-con-plantas-de-la-zona/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Científicos internacionales destacan proyecto municipal de conservación ambiental en Alto Hospicio",
+      "url": "https://www.terram.cl/cientificos-internacionales-destacan-proyecto-municipal-de-conservacion-ambiental-en-alto-hospicio/",
+      "fecha": "2026-05-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Inauguran pasarela que preserva el humedal de Monkul en Carahue: contó con inversión de $600 millones",
+      "url": "https://www.terram.cl/inauguran-pasarela-que-preserva-el-humedal-de-monkul-en-carahue-conto-con-inversion-de-600-millones/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF informa cierre temporal del circuito “W” durante junio y julio por condiciones para operar en invierno",
-      "url": "https://www.conaf.cl/conaf-informa-cierre-temporal-del-circuito-w-durante-junio-y-julio-por-condiciones-para-operar-en-invierno/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-informa-cierre-temporal-del-circuito-w-durante-junio-y-julio-por-condiciones-para-operar-en-invierno",
+      "titular": "CONAF impulsa restauración de más de 40 hectáreas con especies nativas en predio de Lonquimay",
+      "url": "https://www.conaf.cl/conaf-impulsa-restauracion-de-mas-de-40-hectareas-con-especies-nativas-en-predio-de-lonquimay/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-restauracion-de-mas-de-40-hectareas-con-especies-nativas-en-predio-de-lonquimay",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "¿Error o dolo en Codelco?: Tamara Agnic dice que hubo “una interpretación demasiado errónea de la normativa vigente”",
-      "url": "https://www.latercera.com/pulso/noticia/tamara-agnic-dolo-o-error-en-codelco-interpretacion-demasiado-erronea/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente destacó iniciativas de acceso a la información ambiental en Feria de Estado Abierto",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-destaco-iniciativas-de-acceso-a-la-informacion-ambiental-en-feria-de-estado-abierto/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Irán confirma progresos en las conversaciones con EE.UU. pero descarta que la firma sea “inminente”",
-      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-eeuu-pero-descarta-que-la-firma-sea-inminente/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Comité de Ministros confirma RCA de proyecto minero",
+      "url": "https://www.mch.cl/comite-de-ministros-confirma-rca-de-proyecto-minero/",
       "fecha": "2026-05-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Trump recalca que no firmará un acuerdo con Irán que no sea “grande y significativo”",
-      "url": "https://www.latercera.com/mundo/noticia/trump-recalca-que-no-firmara-un-acuerdo-con-iran-que-no-sea-grande-y-significativo/",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Comité de Ministros confirma RCA de proyecto energético por US$2.500 millones",
+      "url": "https://www.revistaei.cl/comite-de-ministros-confirma-rca-de-proyecto-energetico/",
       "fecha": "2026-05-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Irán confirma progresos en las conversaciones con Estados Unidos pero descarta que la firma sea “inminente”",
-      "url": "https://www.latercera.com/mundo/noticia/iran-confirma-progresos-en-las-conversaciones-con-estados-unidos-pero-descarta-que-la-firma-sea-inminente/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Punta Peuco: 57% está en desacuerdo con que sea exclusivo para violadores de DD.HH. y 59% rechaza beneficios carcelarios",
-      "url": "https://www.latercera.com/nacional/noticia/punta-peuco-57-esta-en-desacuerdo-con-que-sea-exclusivo-para-violadores-de-ddhh-y-59-rechaza-beneficios-carcelarios/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "La directora de Codelco Tamara admitió que desde el punto de vista del gobierno corporativo que “es muy grave” lo ocurrido en Codelco, pero descartó  “absolutamente” que sea una empresa quebrada.",
-      "url": "https://www.pulso.cl/pulso/noticia/tamara-agnic-dolo-o-error-en-codelco-interpretacion-demasiado-erronea/",
-      "fecha": "2026-05-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cientos de personas se manifiestan en Pontevedra contra Ence y el proyecto de Altri",
-      "url": "https://efeverde.com/manifestacion-rechazo-altri-ence/",
-      "fecha": "2026-05-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "La lección de Collahuasi",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/la-leccion-de-collahuasi/",
-      "fecha": "2026-05-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
