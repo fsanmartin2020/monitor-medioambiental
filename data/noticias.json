@@ -1,293 +1,245 @@
 {
-  "fecha_actualizacion": "2026-05-27T10:47:09.447488-04:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-05-28T10:56:19.380363-04:00",
+  "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Evelyn Peña, gerenta de Planificación y Circularidad de CCU: “Todas nuestras botellas PET que se reciclan tienen una vida nueva”",
-      "url": "https://www.paiscircular.cl/economia-circular/evelyn-pena-gerenta-de-planificacion-y-circularidad-de-ccu-todas-nuestras-botellas-pet-que-se-reciclan-tienen-una-vida-nueva/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Científicos y ambientalistas responden a Francisca Toledo: «No es divergencia, es negación de una realidad» (El Desconcierto)",
-      "url": "https://www.cr2.cl/cientificos-y-ambientalistas-responden-a-francisca-toledo-no-es-divergencia-es-negacion-de-una-realidad-el-desconcierto/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "“No hay divergencia”: comunidad científica sale en bloque a desmentir a ministra Toledo (El Mostrador)",
-      "url": "https://www.cr2.cl/no-hay-divergencia-comunidad-cientifica-sale-en-bloque-a-desmentir-a-ministra-toledo-el-mostrador/",
-      "fecha": "2026-05-27",
+      "titular": "EcoAZA y Magotteaux impulsan modelo de circularidad que permitirá valorizar más de 38 mil toneladas de escoria",
+      "url": "https://www.paiscircular.cl/economia-circular/magotteaux-y-ecoaza-impulsan-modelo-de-economia-circular-que-valorizara-mas-de-38-mil-toneladas-de-escoria/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El director de la Estación Biológica de Doñana confía en la recuperación de la vegetación tras el incendio",
-      "url": "https://efeverde.com/director-estacion-biologica-donana-confia-recuperacion-vegetacion-incendio/",
-      "fecha": "2026-05-27",
+      "titular": "El Mundial 2026 podría generar 9 millones de toneladas de CO2, más que ninguna otra competición",
+      "url": "https://efeverde.com/mundial-toneladas-de-co2/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Casi ocho de cada diez de españoles cree en el cambio climático y el 56 % lo ve como motor de empleo",
-      "url": "https://efeverde.com/78-espanoles-cree-cambio-climatico-56-motor-empleo/",
-      "fecha": "2026-05-27",
+      "titular": "Nueva jornada de calor en Europa, con cinco ciudades italianas en alerta roja",
+      "url": "https://efeverde.com/nueva-jornada-de-calor-en-europa/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las altas temperaturas se mantienen en gran parte de Europa, con alertas por calor y tormentas",
-      "url": "https://efeverde.com/altas-temperaturas-gran-parte-de-europa/",
-      "fecha": "2026-05-27",
+      "titular": "La CE expedienta a España y a 19 países más por no adaptar normas contra el ecopostureo",
+      "url": "https://efeverde.com/ce-expedienta-a-espana-y-a-19-paises-mas-por-no-adaptar-normas-contra-ecopostureo/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Simon Stiell (ONU): El calor en Europa es «un crudo recordatorio» de los efectos de la crisis climática",
-      "url": "https://efeverde.com/simon-stiell-onu-calor-en-europa-efectos-crisis-climatica/",
-      "fecha": "2026-05-27",
+      "titular": "El calor no da tregua: otra jornada sofocante en España con máximas disparadas hasta los 38 grados",
+      "url": "https://efeverde.com/el-calor-no-da-tregua/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La grave sequía en la Amazonía causó «impactos desproporcionados», según un estudio",
-      "url": "https://efeverde.com/grave-sequia-amazonia-impactos-desproporcionados/",
-      "fecha": "2026-05-27",
+      "titular": "Cazadores de seis países europeos participan en un censo científico simultáneo de codorniz",
+      "url": "https://efeverde.com/censo-cientifico-de-codorniz/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Recomiendan reubicar a los residentes de la costa de Luisiana (EEUU) por el aumento del nivel del mar",
-      "url": "https://efeverde.com/reubicar-residentes-de-costa-de-luisiana/",
-      "fecha": "2026-05-27",
+      "titular": "La transición verde y digital no es posible sin una gestión sostenible del agua, según expertos",
+      "url": "https://efeverde.com/la-transicion-verde-y-digital-no-es-posible-sin-una-gestion-sostenible-del-agua/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Agencia EFE y SIGRE renuevan su convenio de la beca de especialización en periodismo ambiental",
-      "url": "https://efeverde.com/efe-sigre-renuevan-convenio-beca-especializacion-periodismo-ambiental/",
-      "fecha": "2026-05-27",
+      "titular": "Piden paralizar cinco macrogranjas en Guadalajara por su impacto en la recuperación de la alondra ricotí",
+      "url": "https://efeverde.com/piden-paralizar-cinco-macrogranjas-en-guadalajara/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Por qué hace tanto calor en mayo? La potente dorsal que dispara temperaturas en España",
-      "url": "https://efeverde.com/por-que-hace-tanto-calor-en-mayo-en-espana/",
-      "fecha": "2026-05-27",
+      "titular": "Galicia, Asturias, Castilla y León y Cantabria mantienen que el estado del lobo es favorable",
+      "url": "https://efeverde.com/galicia-asturias-castilla-y-leon-y-cantabria-mantienen-que-el-estado-del-lobo-es-favorable/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las sociedades científicas SECEM y DIRUS afirman que el estado de conservación del lobo es desfavorable",
-      "url": "https://efeverde.com/las-sociedades-cientificas-secem-y-dirus-afirman-que-el-estado-de-conservacion-del-lobo-es-desfavorable/",
-      "fecha": "2026-05-27",
+      "titular": "La OMM prevé nuevos récords de temperaturas hasta 2030 y una subida media superior a 1,5°C",
+      "url": "https://efeverde.com/la-omm-preve-nuevos-records-de-temperaturas-hasta-2030-y-una-subida-media-superior-a-15c/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España afronta un episodio de calor «intenso, extenso y persistente» propio de la canícula",
-      "url": "https://efeverde.com/espana-calor-intenso-extenso-y-persistente/",
-      "fecha": "2026-05-27",
+      "titular": "Javier Goikoetxea (Next Mobility): Europa está llegando «tarde y mal» a la movilidad del futuro",
+      "url": "https://efeverde.com/javier-goikoetxea-next-mobility-futuro-movilidad-coches-autonomos-electricos/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La electrificación del transporte pesado, una asignatura pendiente clave para descarbonizar la movilidad",
-      "url": "https://efeverde.com/electrificacion-transporte-pesado-asignatura-pendiente/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Consecuencias de retirar decretos",
-      "url": "https://www.fima.cl/2026/05/27/consecuencias-de-retirar-decretos/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Delegación brasileña conoce en Chile proyecto BESS orientado a fortalecer estabilidad de la red eléctrica",
-      "url": "https://www.nuevamineria.com/revista/delegacion-brasilena-conoce-en-chile-proyecto-bess-orientado-a-fortalecer-estabilidad-de-la-red-electrica/",
-      "fecha": "2026-05-27",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental recibió prueba testimonial en demanda por presunto daño ambiental a patrimonio arqueológico en Huara",
+      "url": "https://www.1ta.cl/tribunal-ambiental-recibio-prueba-testimonial-en-demanda-por-presunto-dano-ambiental-a-patrimonio-arqueologico-en-huara/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Colchones: cómo elegir el ideal para un descanso reparador",
-      "url": "https://www.paiscircular.cl/tendencias/colchones-como-elegir-el-ideal-para-un-descanso-reparador/",
-      "fecha": "2026-05-26",
+      "titular": "La batería verde está en Atacama: Chile y la paradoja de la minería de Bitcoin sostenible",
+      "url": "https://www.paiscircular.cl/tendencias/la-bateria-verde-esta-en-atacama-chile-y-la-paradoja-de-la-mineria-de-bitcoin-sostenible/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Ministra Toledo genera críticas por su dubitativa respuesta sobre la causa del cambio climático",
-      "url": "https://codexverde.cl/ministra-toledo-genera-criticas-por-su-dubitativa-respuesta-sobre-la-causa-del-cambio-climatico/",
-      "fecha": "2026-05-26",
+      "titular": "Comunidades luchan por mantener el reconocimiento de Aculeo como Humedal Urbano",
+      "url": "https://codexverde.cl/comunidades-luchan-por-mantener-el-reconocimiento-de-aculeo-como-humedal-urbano/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Descubren los obstáculos que dificultan el reciclaje completo de las botellas de plástico",
-      "url": "https://efeverde.com/descubren-obstaculos-reciclaje-completo-botellas-plastico/",
-      "fecha": "2026-05-26",
+      "titular": "La transición ecológica entra en su fase más social. Por Arturo Larena",
+      "url": "https://efeverde.com/la-transicion-ecologica-entra-en-su-fase-mas-social-por-arturo-larena/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mejora la evolución del incendio de Doñana, con 400 hectáreas afectadas",
-      "url": "https://efeverde.com/evolucion-incendio-de-donana/",
-      "fecha": "2026-05-26",
+      "titular": "El calor persiste en gran parte de Europa y se extiende a Italia, pero cede en el Reino Unido",
+      "url": "https://efeverde.com/calor-persiste-en-gran-parte-de-europa/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Canal de Panamá se prepara ante la amenaza de un fenómeno El Niño potente este 2026",
-      "url": "https://efeverde.com/canal-panama-amenaza-nino-potente/",
-      "fecha": "2026-05-26",
+      "titular": "El CSN aprueba la construcción del almacén temporal de residuos radiactivos de Vandellós I",
+      "url": "https://efeverde.com/construccion-almacen-temporal-de-residuos-radiactivos-de-vandellos/",
+      "fecha": "2026-05-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Científicos confirman una recuperación histórica del pinzón de manglar de Galápagos",
+      "url": "https://efeverde.com/recuperacion-historica-pinzon-manglar-galapagos/",
+      "fecha": "2026-05-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España se aleja cada vez más de la UE en el tratamiento de los residuos, según expertos",
+      "url": "https://efeverde.com/espana-se-aleja-cada-vez-mas-de-la-ue-en-tratamiento-residuos/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Salmoneras acuden a la justicia para no dar datos por Transparencia: Abogados alertan opacidad recurrente",
-      "url": "https://www.terram.cl/salmoneras-acuden-a-la-justicia-para-no-dar-datos-por-transparencia-abogados-alertan-opacidad-recurrente/",
-      "fecha": "2026-05-26",
+      "titular": "Aprueban ampliación de puerto de San Antonio pese a numerosos cuestionamientos ambientales",
+      "url": "https://www.terram.cl/aprueban-ampliacion-de-puerto-de-san-antonio-pese-a-numerosos-cuestionamientos-ambientales/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "La industria chilena del salmón arrastra una alta tasa de muertes de buzos y trabajadores",
-      "url": "https://www.terram.cl/la-industria-chilena-del-salmon-arrastra-una-alta-tasa-de-muertes-de-buzos-y-trabajadores/",
-      "fecha": "2026-05-26",
+      "titular": "Ministra de Medio Ambiente, Francisca Toledo, evita responder quién es responsable de cambio climático",
+      "url": "https://www.terram.cl/ministra-de-medio-ambiente-francisca-toledo-evita-responder-quien-es-responsable-de-cambio-climatico/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Ingresan proyecto que busca limitar restricciones asociadas a humedales urbanos y precisar criterios de protección",
-      "url": "https://www.terram.cl/ingresan-proyecto-que-busca-limitar-restricciones-asociadas-a-humedales-urbanos-y-precisar-criterios-de-proteccion/",
-      "fecha": "2026-05-26",
+      "titular": "Aprueban saneamiento de cerro con relaves mineros tóxicos en Arica: Fallo por contaminación sigue pendiente",
+      "url": "https://www.terram.cl/aprueban-saneamiento-de-cerro-con-relaves-mineros-toxicos-en-arica-fallo-por-contaminacion-sigue-pendiente/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "¿Qué pasó en el Estero Cosmito de Penco? Investigarán contaminación con sustancias químicas",
-      "url": "https://www.terram.cl/que-paso-en-el-estero-cosmito-de-penco-investigaran-contaminacion-con-sustancias-quimicas/",
-      "fecha": "2026-05-26",
+      "titular": "Científicos chilenos escalan presión internacional por retiro de decretos",
+      "url": "https://www.terram.cl/cientificos-chilenos-escalan-presion-internacional-por-retiro-de-decretos/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "El futuro de la chinchilla: Los esfuerzos científicos para rescatar a un ícono en peligro crítico",
-      "url": "https://www.terram.cl/el-futuro-de-la-chinchilla-los-esfuerzos-cientificos-para-rescatar-a-un-icono-en-peligro-critico/",
-      "fecha": "2026-05-26",
+      "titular": "Tribunal confirma rechazo de programa de cumplimiento de piscicultura Chesque Alto en Villarrica",
+      "url": "https://www.terram.cl/tribunal-confirma-rechazo-de-programa-de-cumplimiento-de-piscicultura-chesque-alto-en-villarrica/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "FIMA",
-      "titular": "Un mínimo de justicia climática: Obligaciones internacionales de los Estados en su fase definitiva",
-      "url": "https://www.fima.cl/2026/05/26/un-minimo-de-justicia-climatica-obligaciones-internacionales-de-los-estados-en-su-fase-definitiva/",
-      "fecha": "2026-05-26",
+      "fuente": "SERNAPESCA",
+      "titular": "Nomina provisoria de embarcaciones",
+      "url": "https://www.sernapesca.cl/nomina-provisoria-de-embarcaciones/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "sitemap"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 26/05/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-26-05-2026/",
-      "fecha": "2026-05-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF y Agencia de Sostenibilidad Energética capacitan a 100 productores y comerciantes de leña",
-      "url": "https://www.conaf.cl/conaf-y-agencia-de-sostenibilidad-energetica-capacitan-a-100-productores-y-comerciantes-de-lena/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-agencia-de-sostenibilidad-energetica-capacitan-a-100-productores-y-comerciantes-de-lena",
-      "fecha": "2026-05-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Los Ríos celebrará el Día de los Patrimonios con entrada gratuita a las áreas silvestres protegidas",
-      "url": "https://www.conaf.cl/conaf-los-rios-celebrara-el-dia-de-los-patrimonios-con-entrada-gratuita-a-las-areas-silvestres-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-rios-celebrara-el-dia-de-los-patrimonios-con-entrada-gratuita-a-las-areas-silvestres-protegidas",
-      "fecha": "2026-05-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa la restauración del bosque esclerófilo mediante innovadora tecnología NIR e Inteligencia Artificial",
-      "url": "https://www.conaf.cl/conaf-impulsa-la-restauracion-del-bosque-esclerofilo-mediante-innovadora-tecnologia-nir-e-inteligencia-artificial/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-la-restauracion-del-bosque-esclerofilo-mediante-innovadora-tecnologia-nir-e-inteligencia-artificial",
-      "fecha": "2026-05-26",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo inaugura seminario sobre Alianzas Público – Privadas por la conservación: “Este desafío solo se puede enfrentar en conjunto”",
+      "url": "https://mma.gob.cl/ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente lidera jornada de educación ambiental para fortalecer la conservación del Queule",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-lidera-jornada-de-educacion-ambiental-para-fortalecer-la-conservacion-del-queule/",
-      "fecha": "2026-05-26",
+      "titular": "Consejo Consultivo Regional del Medio Ambiente recibe a nuevos integrantes",
+      "url": "https://mma.gob.cl/consejo-consultivo-regional-del-medio-ambiente-recibe-a-nuevos-integrantes/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente impulsa actividades para fortalecer la conservación del Queule en Ñuble",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-impulsa-actividades-para-fortalecer-la-conservacion-del-queule-en-nuble/",
-      "fecha": "2026-05-26",
+      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente certifica a profesionales de Valdivia en electromovilidad",
+      "url": "https://mma.gob.cl/proyecto-clets-del-ministerio-de-medio-ambiente-certifica-a-profesionales-de-valdivia-en-electromovilidad/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mujeres del Archipiélago de Humboldt marcan un hito nacional en Economía Azul con apoyo de FAO",
-      "url": "https://mma.gob.cl/mujeres-del-archipielago-de-humboldt-marcan-un-hito-nacional-en-economia-azul-con-apoyo-de-fao/",
-      "fecha": "2026-05-26",
+      "titular": "Ministerio del Medio Ambiente, comunidad y academia fortalecen conservación del humedal Antumalén en Temuco",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-comunidad-y-academia-fortalecen-conservacion-del-humedal-antumalen-en-temuco/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Coyhaique avanza en acción climática con aprobación de su Plan Comunal de Cambio Climático",
-      "url": "https://mma.gob.cl/coyhaique-avanza-en-accion-climatica-con-aprobacion-de-su-plan-comunal-de-cambio-climatico/",
-      "fecha": "2026-05-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comuna de Guaitecas avanza en Certificación Ambiental Municipal",
-      "url": "https://mma.gob.cl/comuna-de-guaitecas-avanza-en-certificacion-ambiental-municipal/",
-      "fecha": "2026-05-26",
+      "fuente": "La Tercera",
+      "titular": "Políticas públicas para electromovilidad en chile",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/politicas-publicas-para-electromovilidad-en-chile/",
+      "fecha": "2026-05-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

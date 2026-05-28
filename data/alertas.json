@@ -1,5 +1,19 @@
 {
-  "fecha_generacion": "2026-05-27T10:47:09.461316-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-05-28T10:56:19.395194-04:00",
+  "total_alertas": 1,
+  "alertas": [
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental recibió prueba testimonial en demanda por presunto daño ambiental a patrimonio arqueológico en Huara",
+      "url": "https://www.1ta.cl/tribunal-ambiental-recibio-prueba-testimonial-en-demanda-por-presunto-dano-ambiental-a-patrimonio-arqueologico-en-huara/",
+      "fecha": "2026-05-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La audiencia comenzó con un llamado a conciliación, respecto del cual las partes afirmaron tener disposición para arribar a un acuerdo, pero que aún no existía uno y que eventualmente podrían solicitar la presentación de bases de conciliación de part",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
+      ]
+    }
+  ]
 }
