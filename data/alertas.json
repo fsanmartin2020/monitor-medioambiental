@@ -1,18 +1,53 @@
 {
-  "fecha_generacion": "2026-05-28T10:56:19.395194-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-05-29T10:18:38.848856-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
+      "fuente": "El Ciudadano",
+      "titular": "Dia de los Patrimonios 2026: el INDH abre sus puertas en todo el país con enfoque en memoria y ciudadanía",
+      "url": "https://www.elciudadano.com/arte-cultura/dia-de-los-patrimonios-2026-el-indh-abre-sus-puertas-en-todo-el-pais-con-enfoque-en-memoria-y-ciudadania/05/29/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Ciudadano El Instituto Nacional de Derechos Humanos participa por cuarta vez consecutiva en el hito cultural coordinado por el Ministerio de las Culturas. Bajo la consigna “Derechos Humanos, Patrimonio Ciudadano”, la institución diseñó una agenda ",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental recibió prueba testimonial en demanda por presunto daño ambiental a patrimonio arqueológico en Huara",
-      "url": "https://www.1ta.cl/tribunal-ambiental-recibio-prueba-testimonial-en-demanda-por-presunto-dano-ambiental-a-patrimonio-arqueologico-en-huara/",
+      "titular": "Primer Tribunal Ambiental acoge a trámite nueva reclamación contra aprobación del proyecto minero “Exploraciones Aida”",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-acoge-a-tramite-nueva-reclamacion-contra-aprobacion-del-proyecto-minero-exploraciones-aida/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La audiencia comenzó con un llamado a conciliación, respecto del cual las partes afirmaron tener disposición para arribar a un acuerdo, pero que aún no existía uno y que eventualmente podrían solicitar la presentación de bases de conciliación de part",
+      "extracto": "La Asociación Indígena Atacameña de Regantes y Agricultores de Toconao, junto a dos personas naturales, presentó una reclamación en contra de la Dirección Ejecutiva del Servicio de Evaluación Ambiental (SEA), solicitando dejar sin efecto la resolució",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Demanda por reparación de daño ambiental en Quilamarí fue rechazada por inexistencia de afectación significativa",
+      "url": "https://www.1ta.cl/demanda-por-reparacion-de-dano-ambiental-en-quilamari-fue-rechazada-por-inexistencia-de-afectacion-significativa/",
+      "fecha": "2026-05-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La demanda de reparación por daño ambiental interpuesta por un vecino de Quilimarí en contra de Empresa de Servicios Sanitarios San Isidro S.A., fue rechazada por mayoría del Primer Tribunal Ambiental, al concluir que no se logró acreditar la existen",
+      "keywords_detectadas": [
         "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Biministro Daniel Mas: «Para que Chile sea una verdadera potencia minera, Codelco debe ser capaz de articularse con el sector privado»",
+      "url": "https://www.mch.cl/biministro-daniel-mas-para-que-chile-sea-una-verdadera-potencia-minera-codelco-debe-ser-capaz-de-articularse-con-el-sector-privado/",
+      "fecha": "2026-05-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Para el secretario de Estado, resulta clave agilizar la tramitación de proyectos de continuidad y expansión operacional, que forman parte de una cartera que hoy supera los US$100.000 millones. La entrada Biministro Daniel Mas: «Para que Chile sea una",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

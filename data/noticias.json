@@ -1,245 +1,245 @@
 {
-  "fecha_actualizacion": "2026-05-28T10:56:19.380363-04:00",
+  "fecha_actualizacion": "2026-05-29T10:18:38.833948-04:00",
   "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "EcoAZA y Magotteaux impulsan modelo de circularidad que permitirá valorizar más de 38 mil toneladas de escoria",
-      "url": "https://www.paiscircular.cl/economia-circular/magotteaux-y-ecoaza-impulsan-modelo-de-economia-circular-que-valorizara-mas-de-38-mil-toneladas-de-escoria/",
+      "titular": "Delinean principales énfasis de la Hoja de Ruta del Transforma Cambio Climático para los próximos trienios",
+      "url": "https://www.paiscircular.cl/medio-ambiente/delinean-principales-enfasis-de-la-hoja-de-ruta-del-transforma-cambio-climatico/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Nathalia Silva, de Valora Más, advierte que la falta de demanda para los neumáticos reciclados “es una bomba de tiempo” para la sostenibilidad de la REP",
+      "url": "https://www.paiscircular.cl/economia-circular/nathalia-silva-de-valora-mas-advierte-que-la-falta-de-demanda-para-los-neumaticos-reciclados-es-una-bomba-de-tiempo-para-la-sostenibilidad-de-la-ley-rep/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Opinión: Infraestructura de monitoreo (La Tercera)",
+      "url": "https://www.cr2.cl/opinion-infraestructura-de-monitoreo-la-tercera/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Hotel El Algarrobico: 20 años de litigios y un dictamen que despeja el derribo",
+      "url": "https://efeverde.com/hotel-el-algarrobico-20-anos-de-litigios-y-un-dictamen-que-despeja-el-derribo/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Restaurar humedales también significa actuar contra el cambio climático. Por Arturo Larena",
+      "url": "https://efeverde.com/restaurar-humedales-tambien-significa-actuar-contra-el-cambio-climatico-por-arturo-larena/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Eliminar barreras fluviales. Por May",
+      "url": "https://efeverde.com/barreras-fluviales-may-mundomay/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Consejo Consultivo andaluz avala la nulidad de la licencia del hotel El Algarrobico",
+      "url": "https://efeverde.com/el-consejo-consultivo-andaluz-avala-la-nulidad-de-la-licencia-del-hotel-el-algarrobico/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El ruido electromagnético de las ciudades altera el comportamiento de los murciélagos",
+      "url": "https://efeverde.com/el-ruido-electromagnetico-de-las-ciudades-altera-el-comportamiento-de-los-murcielagos/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Primer parque eólico abre camino para consolidar a Ñuble como referente en energía renovable",
+      "url": "https://mma.gob.cl/primer-parque-eolico-abre-camino-para-consolidar-a-nuble-como-referente-en-energia-renovable/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "La multa impaga que obligará a La Red a bajar la cortina durante diez días",
+      "url": "https://www.eldinamo.cl/entretencion/2026/05/29/la-multa-impaga-que-obligara-a-la-red-a-bajar-la-cortina-durante-diez-dias-por-orden-del-cntv/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "El Ciudadano",
+      "titular": "Dia de los Patrimonios 2026: el INDH abre sus puertas en todo el país con enfoque en memoria y ciudadanía",
+      "url": "https://www.elciudadano.com/arte-cultura/dia-de-los-patrimonios-2026-el-indh-abre-sus-puertas-en-todo-el-pais-con-enfoque-en-memoria-y-ciudadania/05/29/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "CMN emite pronunciamiento por proyecto minero de continuidad operacional",
+      "url": "https://www.mch.cl/cmn-emite-pronunciamiento-por-proyecto-minero-de-continuidad-operacional/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Modelamiento matemático y computacional: el plan de CEMADIS para resolver la crisis ambiental en Chile",
+      "url": "https://codexverde.cl/el-plan-de-cemadis-para-resolver-la-crisis-ambiental-en-chile/",
+      "fecha": "2026-05-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Biodiversidad microbiana en Chile: acción local, impacto planetario",
+      "url": "https://codexverde.cl/biodiversidad-microbiana-en-chile-accion-local-impacto-planetario/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Mundial 2026 podría generar 9 millones de toneladas de CO2, más que ninguna otra competición",
-      "url": "https://efeverde.com/mundial-toneladas-de-co2/",
+      "titular": "SEO/BirdLife: El incendio en Doñana podría afectar a cerca de 400 hectáreas y alrededor de un centenar de especies",
+      "url": "https://efeverde.com/seo-birdlife-incendio-en-donana/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Nueva jornada de calor en Europa, con cinco ciudades italianas en alerta roja",
-      "url": "https://efeverde.com/nueva-jornada-de-calor-en-europa/",
+      "fuente": "Terram",
+      "titular": "Los microorganismos que podrían cambiar el panorama del litio en Chile: cuando la ciencia y la industria se enfrentan",
+      "url": "https://www.terram.cl/los-microorganismos-que-podrian-cambiar-el-panorama-del-litio-en-chile-cuando-la-ciencia-y-la-industria-se-enfrentan/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La CE expedienta a España y a 19 países más por no adaptar normas contra el ecopostureo",
-      "url": "https://efeverde.com/ce-expedienta-a-espana-y-a-19-paises-mas-por-no-adaptar-normas-contra-ecopostureo/",
+      "fuente": "Terram",
+      "titular": "Valdivia será sede del Tercer Encuentro Nacional de Sitios Ramsar tras reconocimiento como “Ciudad Humedal”",
+      "url": "https://www.terram.cl/valdivia-sera-sede-del-tercer-encuentro-nacional-de-sitios-ramsar-tras-reconocimiento-como-ciudad-humedal/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El calor no da tregua: otra jornada sofocante en España con máximas disparadas hasta los 38 grados",
-      "url": "https://efeverde.com/el-calor-no-da-tregua/",
+      "fuente": "Terram",
+      "titular": "Develan que jurel se movió por El Niño y llaman a financiar el plan de adaptación pesquero al cambio climático",
+      "url": "https://www.terram.cl/develan-que-jurel-se-movio-por-el-nino-y-llaman-a-financiar-el-plan-de-adaptacion-pesquero-al-cambio-climatico/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Cazadores de seis países europeos participan en un censo científico simultáneo de codorniz",
-      "url": "https://efeverde.com/censo-cientifico-de-codorniz/",
+      "fuente": "Terram",
+      "titular": "Global: Los datos que alimentan la inteligencia artificial propicia violaciones generalizadas de la privacidad y el medioambiente",
+      "url": "https://www.terram.cl/global-los-datos-que-alimentan-la-inteligencia-artificial-propicia-violaciones-generalizadas-de-la-privacidad-y-el-medioambiente/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La transición verde y digital no es posible sin una gestión sostenible del agua, según expertos",
-      "url": "https://efeverde.com/la-transicion-verde-y-digital-no-es-posible-sin-una-gestion-sostenible-del-agua/",
+      "fuente": "Terram",
+      "titular": "Vecinos y organizaciones alertan reactivación de obras de salmonera en río San Pedro",
+      "url": "https://www.terram.cl/vecinos-y-organizaciones-alertan-reactivacion-de-obras-de-salmonera-en-rio-san-pedro/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Piden paralizar cinco macrogranjas en Guadalajara por su impacto en la recuperación de la alondra ricotí",
-      "url": "https://efeverde.com/piden-paralizar-cinco-macrogranjas-en-guadalajara/",
+      "fuente": "Terram",
+      "titular": "Argentina: las ballenas jorobadas regresaron al Canal Beagle en busca de alimento",
+      "url": "https://www.terram.cl/argentina-las-ballenas-jorobadas-regresaron-al-canal-beagle-en-busca-de-alimento/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Galicia, Asturias, Castilla y León y Cantabria mantienen que el estado del lobo es favorable",
-      "url": "https://efeverde.com/galicia-asturias-castilla-y-leon-y-cantabria-mantienen-que-el-estado-del-lobo-es-favorable/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La OMM prevé nuevos récords de temperaturas hasta 2030 y una subida media superior a 1,5°C",
-      "url": "https://efeverde.com/la-omm-preve-nuevos-records-de-temperaturas-hasta-2030-y-una-subida-media-superior-a-15c/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Javier Goikoetxea (Next Mobility): Europa está llegando «tarde y mal» a la movilidad del futuro",
-      "url": "https://efeverde.com/javier-goikoetxea-next-mobility-futuro-movilidad-coches-autonomos-electricos/",
+      "fuente": "FIMA",
+      "titular": "Desafíos para la implementación de la nueva ley de desalinización",
+      "url": "https://www.fima.cl/2026/05/28/desafios-para-la-implementacion-de-la-nueva-ley-de-desalinizacion/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental recibió prueba testimonial en demanda por presunto daño ambiental a patrimonio arqueológico en Huara",
-      "url": "https://www.1ta.cl/tribunal-ambiental-recibio-prueba-testimonial-en-demanda-por-presunto-dano-ambiental-a-patrimonio-arqueologico-en-huara/",
+      "titular": "Primer Tribunal Ambiental acoge a trámite nueva reclamación contra aprobación del proyecto minero “Exploraciones Aida”",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-acoge-a-tramite-nueva-reclamacion-contra-aprobacion-del-proyecto-minero-exploraciones-aida/",
       "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "La batería verde está en Atacama: Chile y la paradoja de la minería de Bitcoin sostenible",
-      "url": "https://www.paiscircular.cl/tendencias/la-bateria-verde-esta-en-atacama-chile-y-la-paradoja-de-la-mineria-de-bitcoin-sostenible/",
-      "fecha": "2026-05-27",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Demanda por reparación de daño ambiental en Quilamarí fue rechazada por inexistencia de afectación significativa",
+      "url": "https://www.1ta.cl/demanda-por-reparacion-de-dano-ambiental-en-quilamari-fue-rechazada-por-inexistencia-de-afectacion-significativa/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Comunidades luchan por mantener el reconocimiento de Aculeo como Humedal Urbano",
-      "url": "https://codexverde.cl/comunidades-luchan-por-mantener-el-reconocimiento-de-aculeo-como-humedal-urbano/",
-      "fecha": "2026-05-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Estado – Fisco de Chile con Heraldo Jesús Parra Pincheira y otros». Rol: D-1-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-estado-fisco-de-chile-con-heraldo-jesus-parra-pincheira-y-otros-rol-d-1-2026/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La transición ecológica entra en su fase más social. Por Arturo Larena",
-      "url": "https://efeverde.com/la-transicion-ecologica-entra-en-su-fase-mas-social-por-arturo-larena/",
-      "fecha": "2026-05-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "05/06/2026: Fija audiencia en caso de «Estado de Chile con Forestal Arauco S.A.», Rol: D-2-2025",
+      "url": "https://3ta.cl/audiencias/05-06-2026-fija-audiencia-en-caso-de-estado-de-chile-con-forestal-arauco-s-a-rol-d-2-2025/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El calor persiste en gran parte de Europa y se extiende a Italia, pero cede en el Reino Unido",
-      "url": "https://efeverde.com/calor-persiste-en-gran-parte-de-europa/",
-      "fecha": "2026-05-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Boletín N°68 de Jurisprudencia Ambiental",
+      "url": "https://3ta.cl/noticias/boletin-n68-de-jurisprudencia-ambiental/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El CSN aprueba la construcción del almacén temporal de residuos radiactivos de Vandellós I",
-      "url": "https://efeverde.com/construccion-almacen-temporal-de-residuos-radiactivos-de-vandellos/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Científicos confirman una recuperación histórica del pinzón de manglar de Galápagos",
-      "url": "https://efeverde.com/recuperacion-historica-pinzon-manglar-galapagos/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "España se aleja cada vez más de la UE en el tratamiento de los residuos, según expertos",
-      "url": "https://efeverde.com/espana-se-aleja-cada-vez-mas-de-la-ue-en-tratamiento-residuos/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Aprueban ampliación de puerto de San Antonio pese a numerosos cuestionamientos ambientales",
-      "url": "https://www.terram.cl/aprueban-ampliacion-de-puerto-de-san-antonio-pese-a-numerosos-cuestionamientos-ambientales/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ministra de Medio Ambiente, Francisca Toledo, evita responder quién es responsable de cambio climático",
-      "url": "https://www.terram.cl/ministra-de-medio-ambiente-francisca-toledo-evita-responder-quien-es-responsable-de-cambio-climatico/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Aprueban saneamiento de cerro con relaves mineros tóxicos en Arica: Fallo por contaminación sigue pendiente",
-      "url": "https://www.terram.cl/aprueban-saneamiento-de-cerro-con-relaves-mineros-toxicos-en-arica-fallo-por-contaminacion-sigue-pendiente/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Científicos chilenos escalan presión internacional por retiro de decretos",
-      "url": "https://www.terram.cl/cientificos-chilenos-escalan-presion-internacional-por-retiro-de-decretos/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tribunal confirma rechazo de programa de cumplimiento de piscicultura Chesque Alto en Villarrica",
-      "url": "https://www.terram.cl/tribunal-confirma-rechazo-de-programa-de-cumplimiento-de-piscicultura-chesque-alto-en-villarrica/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Nomina provisoria de embarcaciones",
-      "url": "https://www.sernapesca.cl/nomina-provisoria-de-embarcaciones/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo inaugura seminario sobre Alianzas Público – Privadas por la conservación: “Este desafío solo se puede enfrentar en conjunto”",
-      "url": "https://mma.gob.cl/ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto/",
-      "fecha": "2026-05-27",
+      "fuente": "CONAF",
+      "titular": "Subsecretario de Agricultura inaugura renovado Centro de Acopio de CONAF en Puerto Montt",
+      "url": "https://www.conaf.cl/subsecretario-de-agricultura-inaugura-renovado-centro-de-acopio-de-conaf-en-puerto-montt/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-inaugura-renovado-centro-de-acopio-de-conaf-en-puerto-montt",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Consejo Consultivo Regional del Medio Ambiente recibe a nuevos integrantes",
-      "url": "https://mma.gob.cl/consejo-consultivo-regional-del-medio-ambiente-recibe-a-nuevos-integrantes/",
-      "fecha": "2026-05-27",
+      "titular": "Autoridades ambientales e investigadores abordan estrategias de conservación y sostenibilidad en la Reserva de Biósfera Fray Jorge",
+      "url": "https://mma.gob.cl/autoridades-ambientales-e-investigadores-abordan-estrategias-de-conservacion-y-sostenibilidad-en-la-reserva-de-biosfera-fray-jorge/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente certifica a profesionales de Valdivia en electromovilidad",
-      "url": "https://mma.gob.cl/proyecto-clets-del-ministerio-de-medio-ambiente-certifica-a-profesionales-de-valdivia-en-electromovilidad/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente, comunidad y academia fortalecen conservación del humedal Antumalén en Temuco",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-comunidad-y-academia-fortalecen-conservacion-del-humedal-antumalen-en-temuco/",
-      "fecha": "2026-05-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Políticas públicas para electromovilidad en chile",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/politicas-publicas-para-electromovilidad-en-chile/",
-      "fecha": "2026-05-27",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Biministro Daniel Mas: «Para que Chile sea una verdadera potencia minera, Codelco debe ser capaz de articularse con el sector privado»",
+      "url": "https://www.mch.cl/biministro-daniel-mas-para-que-chile-sea-una-verdadera-potencia-minera-codelco-debe-ser-capaz-de-articularse-con-el-sector-privado/",
+      "fecha": "2026-05-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
