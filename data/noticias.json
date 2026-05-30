@@ -1,245 +1,245 @@
 {
-  "fecha_actualizacion": "2026-05-29T10:18:38.833948-04:00",
+  "fecha_actualizacion": "2026-05-30T08:24:38.538945-04:00",
   "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Delinean principales énfasis de la Hoja de Ruta del Transforma Cambio Climático para los próximos trienios",
-      "url": "https://www.paiscircular.cl/medio-ambiente/delinean-principales-enfasis-de-la-hoja-de-ruta-del-transforma-cambio-climatico/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Nathalia Silva, de Valora Más, advierte que la falta de demanda para los neumáticos reciclados “es una bomba de tiempo” para la sostenibilidad de la REP",
-      "url": "https://www.paiscircular.cl/economia-circular/nathalia-silva-de-valora-mas-advierte-que-la-falta-de-demanda-para-los-neumaticos-reciclados-es-una-bomba-de-tiempo-para-la-sostenibilidad-de-la-ley-rep/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Opinión: Infraestructura de monitoreo (La Tercera)",
-      "url": "https://www.cr2.cl/opinion-infraestructura-de-monitoreo-la-tercera/",
-      "fecha": "2026-05-29",
+      "fuente": "EFE Verde",
+      "titular": "Perfil, rutas, «modus operandi» del tráfico ilícito del residuo textil, un delito en auge",
+      "url": "https://efeverde.com/trafico-ilicito-del-residuo-textil/",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Hotel El Algarrobico: 20 años de litigios y un dictamen que despeja el derribo",
-      "url": "https://efeverde.com/hotel-el-algarrobico-20-anos-de-litigios-y-un-dictamen-que-despeja-el-derribo/",
-      "fecha": "2026-05-29",
+      "titular": "Aviso para fanáticos de Bad Bunny: ‘Tira fotos’, pero no las pilas",
+      "url": "https://efeverde.com/aviso-para-fanaticos-de-bad-bunny-tira-fotos-pero-no-las-pilas/",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Restaurar humedales también significa actuar contra el cambio climático. Por Arturo Larena",
-      "url": "https://efeverde.com/restaurar-humedales-tambien-significa-actuar-contra-el-cambio-climatico-por-arturo-larena/",
-      "fecha": "2026-05-29",
+      "titular": "Luis Miguel Domínguez (naturalista): El lobo salió del Listado de Especies Silvestres en Régimen de Protección Especial «por una triquiñuela»",
+      "url": "https://efeverde.com/luis-miguel-dominguez-naturalista-lobo/",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Eliminar barreras fluviales. Por May",
-      "url": "https://efeverde.com/barreras-fluviales-may-mundomay/",
-      "fecha": "2026-05-29",
+      "titular": "El factor humano y el cambio climático aceleran la erosión costera en España",
+      "url": "https://efeverde.com/factor-humano-cambio-climatico-aceleran-erosion-costera-en-espana/",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El Consejo Consultivo andaluz avala la nulidad de la licencia del hotel El Algarrobico",
-      "url": "https://efeverde.com/el-consejo-consultivo-andaluz-avala-la-nulidad-de-la-licencia-del-hotel-el-algarrobico/",
-      "fecha": "2026-05-29",
+      "fuente": "La Tercera",
+      "titular": "Arturo Squella: “Si el PS y el PPD rechazan la idea de legislar, cerraría las negociaciones y avanzaría lo más rápido en el proyecto”",
+      "url": "https://www.latercera.com/politica/noticia/arturo-squella-si-el-ps-y-el-ppd-rechazan-la-idea-de-legislar-cerraria-las-negociaciones-y-avanzaria-lo-mas-rapido-en-el-proyecto/",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El ruido electromagnético de las ciudades altera el comportamiento de los murciélagos",
-      "url": "https://efeverde.com/el-ruido-electromagnetico-de-las-ciudades-altera-el-comportamiento-de-los-murcielagos/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Primer parque eólico abre camino para consolidar a Ñuble como referente en energía renovable",
-      "url": "https://mma.gob.cl/primer-parque-eolico-abre-camino-para-consolidar-a-nuble-como-referente-en-energia-renovable/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "La multa impaga que obligará a La Red a bajar la cortina durante diez días",
-      "url": "https://www.eldinamo.cl/entretencion/2026/05/29/la-multa-impaga-que-obligara-a-la-red-a-bajar-la-cortina-durante-diez-dias-por-orden-del-cntv/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "El Ciudadano",
-      "titular": "Dia de los Patrimonios 2026: el INDH abre sus puertas en todo el país con enfoque en memoria y ciudadanía",
-      "url": "https://www.elciudadano.com/arte-cultura/dia-de-los-patrimonios-2026-el-indh-abre-sus-puertas-en-todo-el-pais-con-enfoque-en-memoria-y-ciudadania/05/29/",
+      "titular": "COEVA: Gobierno de Kast del Biobío votará este 8 de junio cuestionado proyecto de Tierras Raras en Penco Lirquén",
+      "url": "https://www.elciudadano.com/actualidad/coeva-gobierno-de-kast-del-biobio-votara-este-8-de-junio-cuestionado-proyecto-de-tierras-raras-en-penco-lirquen/05/30/",
+      "fecha": "2026-05-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ministra Toledo inaugura seminario sobre Alianzas Público – Privadas por la conservación: “ESTE DESAFÍO SOLO SE PUEDE ENFRENTAR EN CONJUNTO”",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto",
       "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "CMN emite pronunciamiento por proyecto minero de continuidad operacional",
-      "url": "https://www.mch.cl/cmn-emite-pronunciamiento-por-proyecto-minero-de-continuidad-operacional/",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "AVIÓN SOLIDARIO DE LATAM SUMA NUEVAS ALIANZAS Y DISPONDRÁ MÁS DE 9.200 PASAJES SIN COSTO EN SUDAMÉRICA DURANTE 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/avion-solidario-de-latam-suma-nuevas-alianzas-y-dispondra-mas-de-9-200-pasajes-sin-costo-en-sudamerica-durante-2026/?utm_source=rss&utm_medium=rss&utm_campaign=avion-solidario-de-latam-suma-nuevas-alianzas-y-dispondra-mas-de-9-200-pasajes-sin-costo-en-sudamerica-durante-2026",
       "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Modelamiento matemático y computacional: el plan de CEMADIS para resolver la crisis ambiental en Chile",
-      "url": "https://codexverde.cl/el-plan-de-cemadis-para-resolver-la-crisis-ambiental-en-chile/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Biodiversidad microbiana en Chile: acción local, impacto planetario",
-      "url": "https://codexverde.cl/biodiversidad-microbiana-en-chile-accion-local-impacto-planetario/",
-      "fecha": "2026-05-28",
+      "titular": "El desafío del reúso en Sudamérica: estudio revela que sistemas de reutilización de envases aún son limitados",
+      "url": "https://codexverde.cl/el-desafio-del-reuso-en-sudamerica/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "SEO/BirdLife: El incendio en Doñana podría afectar a cerca de 400 hectáreas y alrededor de un centenar de especies",
-      "url": "https://efeverde.com/seo-birdlife-incendio-en-donana/",
-      "fecha": "2026-05-28",
+      "titular": "Tres nuevos ‘vecinos’ elevan a 12 los quebrantahuesos que repueblan la Sierra de Gredos",
+      "url": "https://efeverde.com/quebrantahuesos-sierra-de-gredos/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Sobreviven ocho de los once cachorros de lince que nacieron en el centro de La Olivilla (Jaén)",
+      "url": "https://efeverde.com/cachorros-de-lince-centro-la-olivilla-jaen/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio en Doñana podría afectar a unas 500 hectáreas, según un análisis preliminar",
+      "url": "https://efeverde.com/incendio-en-donana-500-hectareas/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Los microorganismos que podrían cambiar el panorama del litio en Chile: cuando la ciencia y la industria se enfrentan",
-      "url": "https://www.terram.cl/los-microorganismos-que-podrian-cambiar-el-panorama-del-litio-en-chile-cuando-la-ciencia-y-la-industria-se-enfrentan/",
-      "fecha": "2026-05-28",
+      "titular": "Senado resuelve derivar megaproyecto a comisiones de Hacienda, Trabajo y Medio Ambiente",
+      "url": "https://www.terram.cl/senado-resuelve-derivar-megaproyecto-a-comisiones-de-hacienda-trabajo-y-medio-ambiente/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Valdivia será sede del Tercer Encuentro Nacional de Sitios Ramsar tras reconocimiento como “Ciudad Humedal”",
-      "url": "https://www.terram.cl/valdivia-sera-sede-del-tercer-encuentro-nacional-de-sitios-ramsar-tras-reconocimiento-como-ciudad-humedal/",
-      "fecha": "2026-05-28",
+      "titular": "Proyecto de integración energética con Argentina abre foco en el potencial de Magallanes",
+      "url": "https://www.terram.cl/proyecto-de-integracion-energetica-con-argentina-abre-foco-en-el-potencial-de-magallanes/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Develan que jurel se movió por El Niño y llaman a financiar el plan de adaptación pesquero al cambio climático",
-      "url": "https://www.terram.cl/develan-que-jurel-se-movio-por-el-nino-y-llaman-a-financiar-el-plan-de-adaptacion-pesquero-al-cambio-climatico/",
-      "fecha": "2026-05-28",
+      "titular": "Ley de la jibia reabre choque entre industriales y pescadores artesanales tras dichos de ASIPES",
+      "url": "https://www.terram.cl/ley-de-la-jibia-reabre-choque-entre-industriales-y-pescadores-artesanales-tras-dichos-de-asipes/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Global: Los datos que alimentan la inteligencia artificial propicia violaciones generalizadas de la privacidad y el medioambiente",
-      "url": "https://www.terram.cl/global-los-datos-que-alimentan-la-inteligencia-artificial-propicia-violaciones-generalizadas-de-la-privacidad-y-el-medioambiente/",
-      "fecha": "2026-05-28",
+      "titular": "Bosques marinos en riesgo: estudio de la U. de Chile advierte fuerte reducción del hábitat de macroalgas chilenas",
+      "url": "https://www.terram.cl/bosques-marinos-en-riesgo-estudio-de-la-u-de-chile-advierte-fuerte-reduccion-del-habitat-de-macroalgas-chilenas/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Vecinos y organizaciones alertan reactivación de obras de salmonera en río San Pedro",
-      "url": "https://www.terram.cl/vecinos-y-organizaciones-alertan-reactivacion-de-obras-de-salmonera-en-rio-san-pedro/",
-      "fecha": "2026-05-28",
+      "titular": "Comunidades luchan por mantener el reconocimiento de Aculeo como Humedal Urbano",
+      "url": "https://www.terram.cl/comunidades-luchan-por-mantener-el-reconocimiento-de-aculeo-como-humedal-urbano/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Argentina: las ballenas jorobadas regresaron al Canal Beagle en busca de alimento",
-      "url": "https://www.terram.cl/argentina-las-ballenas-jorobadas-regresaron-al-canal-beagle-en-busca-de-alimento/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Desafíos para la implementación de la nueva ley de desalinización",
-      "url": "https://www.fima.cl/2026/05/28/desafios-para-la-implementacion-de-la-nueva-ley-de-desalinizacion/",
-      "fecha": "2026-05-28",
+      "titular": "El tiburón fantasma, la esponja carnívora y otras 1.100 especies marinas descubiertas en solo un año",
+      "url": "https://www.terram.cl/el-tiburon-fantasma-la-esponja-carnivora-y-otras-1-100-especies-marinas-descubiertas-en-solo-un-ano/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental acoge a trámite nueva reclamación contra aprobación del proyecto minero “Exploraciones Aida”",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-acoge-a-tramite-nueva-reclamacion-contra-aprobacion-del-proyecto-minero-exploraciones-aida/",
-      "fecha": "2026-05-28",
+      "titular": "En audiencia se revisó medida cautelar que mantiene detenida la revisión de la RCA de la Central Termoeléctrica Mejillones Unidad 2",
+      "url": "https://www.1ta.cl/en-audiencia-se-reviso-medida-cautelar-que-mantiene-detenida-la-revision-de-la-rca-de-la-central-termoelectrica-mejillones-unidad-2/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Demanda por reparación de daño ambiental en Quilamarí fue rechazada por inexistencia de afectación significativa",
-      "url": "https://www.1ta.cl/demanda-por-reparacion-de-dano-ambiental-en-quilamari-fue-rechazada-por-inexistencia-de-afectacion-significativa/",
-      "fecha": "2026-05-28",
+      "titular": "Se acoge parcialmente demanda por daño ambiental en Estancia Panulcillo  en la Región de Coquimbo",
+      "url": "https://www.1ta.cl/se-acoge-parcialmente-demanda-por-dano-ambiental-en-estancia-panulcillo-en-la-region-de-coquimbo/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Estado – Fisco de Chile con Heraldo Jesús Parra Pincheira y otros». Rol: D-1-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-estado-fisco-de-chile-con-heraldo-jesus-parra-pincheira-y-otros-rol-d-1-2026/",
-      "fecha": "2026-05-28",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Se realiza audiencia en reclamación presentada por la Municipalidad de Caldera por proyecto portuario CopiaPort-E",
+      "url": "https://www.1ta.cl/se-realiza-audiencia-en-reclamacion-presentada-por-la-municipalidad-de-caldera-por-proyecto-portuario-copiaport-e/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "05/06/2026: Fija audiencia en caso de «Estado de Chile con Forestal Arauco S.A.», Rol: D-2-2025",
-      "url": "https://3ta.cl/audiencias/05-06-2026-fija-audiencia-en-caso-de-estado-de-chile-con-forestal-arauco-s-a-rol-d-2-2025/",
-      "fecha": "2026-05-28",
+      "fuente": "SERNAPESCA",
+      "titular": "Consulta cupon pesca artesanal",
+      "url": "https://www.sernapesca.cl/consulta-cupon-pesca-artesanal/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "sitemap"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Boletín N°68 de Jurisprudencia Ambiental",
-      "url": "https://3ta.cl/noticias/boletin-n68-de-jurisprudencia-ambiental/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Subsecretario de Agricultura inaugura renovado Centro de Acopio de CONAF en Puerto Montt",
-      "url": "https://www.conaf.cl/subsecretario-de-agricultura-inaugura-renovado-centro-de-acopio-de-conaf-en-puerto-montt/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-inaugura-renovado-centro-de-acopio-de-conaf-en-puerto-montt",
-      "fecha": "2026-05-28",
+      "fuente": "DGA - MOP",
+      "titular": "Se realizó cuarta Mesa Estratégica de Recursos Hídricos (MERH) en Biobío",
+      "url": "https://dga.mop.gob.cl/se-realizo-cuarta-mesa-estrategica-de-recursos-hidricos-merh-en-biobio/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades ambientales e investigadores abordan estrategias de conservación y sostenibilidad en la Reserva de Biósfera Fray Jorge",
-      "url": "https://mma.gob.cl/autoridades-ambientales-e-investigadores-abordan-estrategias-de-conservacion-y-sostenibilidad-en-la-reserva-de-biosfera-fray-jorge/",
-      "fecha": "2026-05-28",
+      "titular": "Autoridades realizan visita inspectiva a Estación de Monitoreo de Calidad del Aire en Talca",
+      "url": "https://mma.gob.cl/autoridades-realizan-visita-inspectiva-a-estacion-de-monitoreo-de-calidad-del-aire-en-talca/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En Laja realizan nueva sesión de Mesa REP para fortalecer la economía circular y la gestión de residuos en el Biobío",
+      "url": "https://mma.gob.cl/en-laja-realizan-nueva-sesion-de-mesa-rep-para-fortalecer-la-economia-circular-y-la-gestion-de-residuos-en-el-biobio/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente llama a participar de nueva versión del premio Territorio Circular",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-llama-a-participar-de-nueva-version-del-premio-territorio-circular/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Más de 100 certificados en electromovilidad en Concepción con Proyecto CLETS del Ministerio de Medio Ambiente",
+      "url": "https://mma.gob.cl/mas-de-100-certificados-en-electromovilidad-en-concepcion-con-proyecto-clets-del-ministerio-de-medio-ambiente/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Hacen llamado a informarse sobre la correcta realización de denuncias ambientales",
+      "url": "https://mma.gob.cl/hacen-llamado-a-informarse-sobre-la-correcta-realizacion-de-denuncias-ambientales/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Biministro Daniel Mas: «Para que Chile sea una verdadera potencia minera, Codelco debe ser capaz de articularse con el sector privado»",
-      "url": "https://www.mch.cl/biministro-daniel-mas-para-que-chile-sea-una-verdadera-potencia-minera-codelco-debe-ser-capaz-de-articularse-con-el-sector-privado/",
-      "fecha": "2026-05-28",
+      "titular": "Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-acoge-a-tramite-reclamacion-contra-aprobacion-de-proyecto-minero/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica",
+      "url": "https://www.revistaei.cl/tribunal-revisa-medida-cautelar-que-mantiene-detenida-revision-de-rca-de-termoelectrica/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

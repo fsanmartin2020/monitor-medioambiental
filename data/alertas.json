@@ -1,53 +1,53 @@
 {
-  "fecha_generacion": "2026-05-29T10:18:38.848856-04:00",
+  "fecha_generacion": "2026-05-30T08:24:38.553067-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "El Ciudadano",
-      "titular": "Dia de los Patrimonios 2026: el INDH abre sus puertas en todo el país con enfoque en memoria y ciudadanía",
-      "url": "https://www.elciudadano.com/arte-cultura/dia-de-los-patrimonios-2026-el-indh-abre-sus-puertas-en-todo-el-pais-con-enfoque-en-memoria-y-ciudadania/05/29/",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "En audiencia se revisó medida cautelar que mantiene detenida la revisión de la RCA de la Central Termoeléctrica Mejillones Unidad 2",
+      "url": "https://www.1ta.cl/en-audiencia-se-reviso-medida-cautelar-que-mantiene-detenida-la-revision-de-la-rca-de-la-central-termoelectrica-mejillones-unidad-2/",
       "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano El Instituto Nacional de Derechos Humanos participa por cuarta vez consecutiva en el hito cultural coordinado por el Ministerio de las Culturas. Bajo la consigna “Derechos Humanos, Patrimonio Ciudadano”, la institución diseñó una agenda ",
+      "extracto": "El Primer Tribunal Ambiental realizó la audiencia de revisión de la medida cautelar decretada en la causa Rol R-157-2026, reclamación presentada por Engie Energía Chile S.A. en contra de la resolución de la Comisión de Evaluación Ambiental de la Regi",
       "keywords_detectadas": [
-        "DIA"
+        "RCA"
       ]
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental acoge a trámite nueva reclamación contra aprobación del proyecto minero “Exploraciones Aida”",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-acoge-a-tramite-nueva-reclamacion-contra-aprobacion-del-proyecto-minero-exploraciones-aida/",
-      "fecha": "2026-05-28",
+      "titular": "Se acoge parcialmente demanda por daño ambiental en Estancia Panulcillo  en la Región de Coquimbo",
+      "url": "https://www.1ta.cl/se-acoge-parcialmente-demanda-por-dano-ambiental-en-estancia-panulcillo-en-la-region-de-coquimbo/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Asociación Indígena Atacameña de Regantes y Agricultores de Toconao, junto a dos personas naturales, presentó una reclamación en contra de la Dirección Ejecutiva del Servicio de Evaluación Ambiental (SEA), solicitando dejar sin efecto la resolució",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Demanda por reparación de daño ambiental en Quilamarí fue rechazada por inexistencia de afectación significativa",
-      "url": "https://www.1ta.cl/demanda-por-reparacion-de-dano-ambiental-en-quilamari-fue-rechazada-por-inexistencia-de-afectacion-significativa/",
-      "fecha": "2026-05-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La demanda de reparación por daño ambiental interpuesta por un vecino de Quilimarí en contra de Empresa de Servicios Sanitarios San Isidro S.A., fue rechazada por mayoría del Primer Tribunal Ambiental, al concluir que no se logró acreditar la existen",
+      "extracto": "El Primer Tribunal Ambiental acogió parcialmente la demanda de reparación por daño ambiental interpuesta por Empresa Agrícola HC Limitada en contra del Sr. Hermán Segovia Cortés, declarando la existencia de daño ambiental respecto de las formaciones ",
       "keywords_detectadas": [
         "daño ambiental"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Biministro Daniel Mas: «Para que Chile sea una verdadera potencia minera, Codelco debe ser capaz de articularse con el sector privado»",
-      "url": "https://www.mch.cl/biministro-daniel-mas-para-que-chile-sea-una-verdadera-potencia-minera-codelco-debe-ser-capaz-de-articularse-con-el-sector-privado/",
-      "fecha": "2026-05-28",
+      "titular": "Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-acoge-a-tramite-reclamacion-contra-aprobacion-de-proyecto-minero/",
+      "fecha": "2026-05-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Para el secretario de Estado, resulta clave agilizar la tramitación de proyectos de continuidad y expansión operacional, que forman parte de una cartera que hoy supera los US$100.000 millones. La entrada Biministro Daniel Mas: «Para que Chile sea una",
+      "extracto": "Acción judicial sostiene que observaciones ciudadanas formuladas durante la evaluación de la iniciativa no habrían sido debidamente consideradas por la autoridad. La entrada Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica",
+      "url": "https://www.revistaei.cl/tribunal-revisa-medida-cautelar-que-mantiene-detenida-revision-de-rca-de-termoelectrica/",
+      "fecha": "2026-05-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Durante la audiencia, las partes expusieron sus argumentos. La entrada Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "RCA"
       ]
     }
   ]
