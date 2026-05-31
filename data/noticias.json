@@ -1,245 +1,69 @@
 {
-  "fecha_actualizacion": "2026-05-30T08:24:38.538945-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-05-31T08:29:33.319729-04:00",
+  "total": 8,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Perfil, rutas, «modus operandi» del tráfico ilícito del residuo textil, un delito en auge",
-      "url": "https://efeverde.com/trafico-ilicito-del-residuo-textil/",
-      "fecha": "2026-05-30",
+      "titular": "Liberan en Zaragoza más de 225.000 insectos beneficiosos para controlar las plagas en el arbolado",
+      "url": "https://efeverde.com/liberan-en-zaragoza-insectos-beneficiosos-para-controlar-plagas-en-arbolado/",
+      "fecha": "2026-05-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Aviso para fanáticos de Bad Bunny: ‘Tira fotos’, pero no las pilas",
-      "url": "https://efeverde.com/aviso-para-fanaticos-de-bad-bunny-tira-fotos-pero-no-las-pilas/",
-      "fecha": "2026-05-30",
+      "titular": "Entoldar las calles, una práctica milenaria que sigue siendo eficaz contra el calor",
+      "url": "https://efeverde.com/entoldar-calles-una-practica-milenaria-eficaz-contra-calor/",
+      "fecha": "2026-05-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Luis Miguel Domínguez (naturalista): El lobo salió del Listado de Especies Silvestres en Régimen de Protección Especial «por una triquiñuela»",
-      "url": "https://efeverde.com/luis-miguel-dominguez-naturalista-lobo/",
-      "fecha": "2026-05-30",
+      "titular": "Del asfalto a la naturaleza: los senderos azules, un refugio frente al calor extremo",
+      "url": "https://efeverde.com/del-asfalto-a-la-naturaleza-los-senderos-azules-un-refugio-frente-al-calor-extremo/",
+      "fecha": "2026-05-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El factor humano y el cambio climático aceleran la erosión costera en España",
-      "url": "https://efeverde.com/factor-humano-cambio-climatico-aceleran-erosion-costera-en-espana/",
-      "fecha": "2026-05-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Arturo Squella: “Si el PS y el PPD rechazan la idea de legislar, cerraría las negociaciones y avanzaría lo más rápido en el proyecto”",
-      "url": "https://www.latercera.com/politica/noticia/arturo-squella-si-el-ps-y-el-ppd-rechazan-la-idea-de-legislar-cerraria-las-negociaciones-y-avanzaria-lo-mas-rapido-en-el-proyecto/",
-      "fecha": "2026-05-30",
+      "titular": "El secreto de la orientación de las palomas está… ¡en el hígado!",
+      "url": "https://efeverde.com/el-secreto-de-la-orientacion-de-las-palomas-esta-en-el-higado/",
+      "fecha": "2026-05-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "El Ciudadano",
-      "titular": "COEVA: Gobierno de Kast del Biobío votará este 8 de junio cuestionado proyecto de Tierras Raras en Penco Lirquén",
-      "url": "https://www.elciudadano.com/actualidad/coeva-gobierno-de-kast-del-biobio-votara-este-8-de-junio-cuestionado-proyecto-de-tierras-raras-en-penco-lirquen/05/30/",
+      "titular": "Diaguita and Chango Women Lead Community Water Monitoring to Safeguard Coastal Regions",
+      "url": "https://www.elciudadano.com/en/diaguita-and-chango-women-lead-community-water-monitoring-to-safeguard-coastal-regions/05/30/",
       "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministra Toledo inaugura seminario sobre Alianzas Público – Privadas por la conservación: “ESTE DESAFÍO SOLO SE PUEDE ENFRENTAR EN CONJUNTO”",
-      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-inaugura-seminario-sobre-alianzas-publico-privadas-por-la-conservacion-este-desafio-solo-se-puede-enfrentar-en-conjunto",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "Comité de Ministros mantiene RCA de proyectos por US$735,5 millones y deja pendiente definición sobre Kimal-Lo Aguirre",
+      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us7355-millones-y-deja-pendiente-definicion-sobre-kimal-lo-aguirre",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "AVIÓN SOLIDARIO DE LATAM SUMA NUEVAS ALIANZAS Y DISPONDRÁ MÁS DE 9.200 PASAJES SIN COSTO EN SUDAMÉRICA DURANTE 2026",
-      "url": "https://www.chiledesarrollosustentable.cl/avion-solidario-de-latam-suma-nuevas-alianzas-y-dispondra-mas-de-9-200-pasajes-sin-costo-en-sudamerica-durante-2026/?utm_source=rss&utm_medium=rss&utm_campaign=avion-solidario-de-latam-suma-nuevas-alianzas-y-dispondra-mas-de-9-200-pasajes-sin-costo-en-sudamerica-durante-2026",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "SEA del Biobío recomienda aprobar proyecto de tierras raras de Aclara y CAP en Penco por US$130 millones",
+      "url": "https://www.redimin.cl/sea-del-biobio-recomienda-aprobar-proyecto-de-tierras-raras-de-aclara-y-cap-en-penco-por-us130-millones",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "El desafío del reúso en Sudamérica: estudio revela que sistemas de reutilización de envases aún son limitados",
-      "url": "https://codexverde.cl/el-desafio-del-reuso-en-sudamerica/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tres nuevos ‘vecinos’ elevan a 12 los quebrantahuesos que repueblan la Sierra de Gredos",
-      "url": "https://efeverde.com/quebrantahuesos-sierra-de-gredos/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Sobreviven ocho de los once cachorros de lince que nacieron en el centro de La Olivilla (Jaén)",
-      "url": "https://efeverde.com/cachorros-de-lince-centro-la-olivilla-jaen/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio en Doñana podría afectar a unas 500 hectáreas, según un análisis preliminar",
-      "url": "https://efeverde.com/incendio-en-donana-500-hectareas/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Senado resuelve derivar megaproyecto a comisiones de Hacienda, Trabajo y Medio Ambiente",
-      "url": "https://www.terram.cl/senado-resuelve-derivar-megaproyecto-a-comisiones-de-hacienda-trabajo-y-medio-ambiente/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Proyecto de integración energética con Argentina abre foco en el potencial de Magallanes",
-      "url": "https://www.terram.cl/proyecto-de-integracion-energetica-con-argentina-abre-foco-en-el-potencial-de-magallanes/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ley de la jibia reabre choque entre industriales y pescadores artesanales tras dichos de ASIPES",
-      "url": "https://www.terram.cl/ley-de-la-jibia-reabre-choque-entre-industriales-y-pescadores-artesanales-tras-dichos-de-asipes/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Bosques marinos en riesgo: estudio de la U. de Chile advierte fuerte reducción del hábitat de macroalgas chilenas",
-      "url": "https://www.terram.cl/bosques-marinos-en-riesgo-estudio-de-la-u-de-chile-advierte-fuerte-reduccion-del-habitat-de-macroalgas-chilenas/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Comunidades luchan por mantener el reconocimiento de Aculeo como Humedal Urbano",
-      "url": "https://www.terram.cl/comunidades-luchan-por-mantener-el-reconocimiento-de-aculeo-como-humedal-urbano/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "El tiburón fantasma, la esponja carnívora y otras 1.100 especies marinas descubiertas en solo un año",
-      "url": "https://www.terram.cl/el-tiburon-fantasma-la-esponja-carnivora-y-otras-1-100-especies-marinas-descubiertas-en-solo-un-ano/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "En audiencia se revisó medida cautelar que mantiene detenida la revisión de la RCA de la Central Termoeléctrica Mejillones Unidad 2",
-      "url": "https://www.1ta.cl/en-audiencia-se-reviso-medida-cautelar-que-mantiene-detenida-la-revision-de-la-rca-de-la-central-termoelectrica-mejillones-unidad-2/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se acoge parcialmente demanda por daño ambiental en Estancia Panulcillo  en la Región de Coquimbo",
-      "url": "https://www.1ta.cl/se-acoge-parcialmente-demanda-por-dano-ambiental-en-estancia-panulcillo-en-la-region-de-coquimbo/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se realiza audiencia en reclamación presentada por la Municipalidad de Caldera por proyecto portuario CopiaPort-E",
-      "url": "https://www.1ta.cl/se-realiza-audiencia-en-reclamacion-presentada-por-la-municipalidad-de-caldera-por-proyecto-portuario-copiaport-e/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Consulta cupon pesca artesanal",
-      "url": "https://www.sernapesca.cl/consulta-cupon-pesca-artesanal/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Se realizó cuarta Mesa Estratégica de Recursos Hídricos (MERH) en Biobío",
-      "url": "https://dga.mop.gob.cl/se-realizo-cuarta-mesa-estrategica-de-recursos-hidricos-merh-en-biobio/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades realizan visita inspectiva a Estación de Monitoreo de Calidad del Aire en Talca",
-      "url": "https://mma.gob.cl/autoridades-realizan-visita-inspectiva-a-estacion-de-monitoreo-de-calidad-del-aire-en-talca/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Laja realizan nueva sesión de Mesa REP para fortalecer la economía circular y la gestión de residuos en el Biobío",
-      "url": "https://mma.gob.cl/en-laja-realizan-nueva-sesion-de-mesa-rep-para-fortalecer-la-economia-circular-y-la-gestion-de-residuos-en-el-biobio/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente llama a participar de nueva versión del premio Territorio Circular",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-llama-a-participar-de-nueva-version-del-premio-territorio-circular/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Más de 100 certificados en electromovilidad en Concepción con Proyecto CLETS del Ministerio de Medio Ambiente",
-      "url": "https://mma.gob.cl/mas-de-100-certificados-en-electromovilidad-en-concepcion-con-proyecto-clets-del-ministerio-de-medio-ambiente/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Hacen llamado a informarse sobre la correcta realización de denuncias ambientales",
-      "url": "https://mma.gob.cl/hacen-llamado-a-informarse-sobre-la-correcta-realizacion-de-denuncias-ambientales/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto minero",
-      "url": "https://www.mch.cl/tribunal-ambiental-acoge-a-tramite-reclamacion-contra-aprobacion-de-proyecto-minero/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica",
-      "url": "https://www.revistaei.cl/tribunal-revisa-medida-cautelar-que-mantiene-detenida-revision-de-rca-de-termoelectrica/",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "Comité de Ministros mantiene RCA de tres proyectos por US$715,5 millones y ratifica rechazo a Punta Puertecillo",
+      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-tres-proyectos-por-us7155-millones-y-ratifica-rechazo-a-punta-puertecillo",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

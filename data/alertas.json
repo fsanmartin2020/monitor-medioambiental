@@ -1,51 +1,39 @@
 {
-  "fecha_generacion": "2026-05-30T08:24:38.553067-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-05-31T08:29:33.326500-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "En audiencia se revisó medida cautelar que mantiene detenida la revisión de la RCA de la Central Termoeléctrica Mejillones Unidad 2",
-      "url": "https://www.1ta.cl/en-audiencia-se-reviso-medida-cautelar-que-mantiene-detenida-la-revision-de-la-rca-de-la-central-termoelectrica-mejillones-unidad-2/",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "Comité de Ministros mantiene RCA de proyectos por US$735,5 millones y deja pendiente definición sobre Kimal-Lo Aguirre",
+      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us7355-millones-y-deja-pendiente-definicion-sobre-kimal-lo-aguirre",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental realizó la audiencia de revisión de la medida cautelar decretada en la causa Rol R-157-2026, reclamación presentada por Engie Energía Chile S.A. en contra de la resolución de la Comisión de Evaluación Ambiental de la Regi",
+      "extracto": "El Comité de Ministros ratificó la calificación ambiental favorable de tres proyectos por US$735,5 millones, mientras que el proyecto Punta Puertecillo recibió un rechazo definitivo. La resolución sobre la línea Kimal-Lo Aguirre quedó pendiente.",
       "keywords_detectadas": [
         "RCA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se acoge parcialmente demanda por daño ambiental en Estancia Panulcillo  en la Región de Coquimbo",
-      "url": "https://www.1ta.cl/se-acoge-parcialmente-demanda-por-dano-ambiental-en-estancia-panulcillo-en-la-region-de-coquimbo/",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "SEA del Biobío recomienda aprobar proyecto de tierras raras de Aclara y CAP en Penco por US$130 millones",
+      "url": "https://www.redimin.cl/sea-del-biobio-recomienda-aprobar-proyecto-de-tierras-raras-de-aclara-y-cap-en-penco-por-us130-millones",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental acogió parcialmente la demanda de reparación por daño ambiental interpuesta por Empresa Agrícola HC Limitada en contra del Sr. Hermán Segovia Cortés, declarando la existencia de daño ambiental respecto de las formaciones ",
+      "extracto": "La recomendación del Servicio de Evaluación Ambiental del Biobío para aprobar el proyecto de extracción de tierras raras en Penco podría generar 2.200 empleos y una inversión de US$130 millones.",
       "keywords_detectadas": [
-        "daño ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto minero",
-      "url": "https://www.mch.cl/tribunal-ambiental-acoge-a-tramite-reclamacion-contra-aprobacion-de-proyecto-minero/",
-      "fecha": "2026-05-29",
+      "fuente": "REDIMIN",
+      "titular": "Comité de Ministros mantiene RCA de tres proyectos por US$715,5 millones y ratifica rechazo a Punta Puertecillo",
+      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-tres-proyectos-por-us7155-millones-y-ratifica-rechazo-a-punta-puertecillo",
+      "fecha": "2026-05-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Acción judicial sostiene que observaciones ciudadanas formuladas durante la evaluación de la iniciativa no habrían sido debidamente consideradas por la autoridad. La entrada Tribunal Ambiental acoge a trámite reclamación contra aprobación de proyecto",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica",
-      "url": "https://www.revistaei.cl/tribunal-revisa-medida-cautelar-que-mantiene-detenida-revision-de-rca-de-termoelectrica/",
-      "fecha": "2026-05-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Durante la audiencia, las partes expusieron sus argumentos. La entrada Tribunal revisa medida cautelar que mantiene detenida revisión de RCA de termoeléctrica se publicó primero en Revista Electricidad .",
+      "extracto": "El Comité de Ministros aprobó tres proyectos por un total de US$715,5 millones, incluyendo infraestructura portuaria y energía solar, mientras ratificó la calificación negativa de un cuarto proyecto en O’Higgins.",
       "keywords_detectadas": [
         "RCA"
       ]
