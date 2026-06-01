@@ -1,69 +1,221 @@
 {
-  "fecha_actualizacion": "2026-05-31T08:29:33.319729-04:00",
-  "total": 8,
+  "fecha_actualizacion": "2026-06-01T12:53:37.834896-04:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Liberan en Zaragoza más de 225.000 insectos beneficiosos para controlar las plagas en el arbolado",
-      "url": "https://efeverde.com/liberan-en-zaragoza-insectos-beneficiosos-para-controlar-plagas-en-arbolado/",
-      "fecha": "2026-05-31",
+      "fuente": "País Circular",
+      "titular": "Mitzy Lagos, de Midas Chile: “El riesgo del Decreto para P+RAEE es que cada actor interprete de distinta forma sus obligaciones”",
+      "url": "https://www.paiscircular.cl/economia-circular/mitzy-lagos-de-midas-chile-el-riesgo-del-decreto-para-praee-es-que-cada-actor-interprete-de-distinta-forma-sus-obligaciones/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Cambio climático reduce el hábitat de aves marinas y aumenta riesgo de extinción de algunas especies",
+      "url": "https://codexverde.cl/cambio-climatico-reduce-el-habitat-de-aves-marinas-y-aumenta-riesgo-de-extincion-de-algunas-especies/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El día que el aire de Santiago aceleró el envejecimiento de tu cerebro",
+      "url": "https://codexverde.cl/el-dia-que-el-aire-de-santiago-acelero-el-envejecimiento-de-tu-cerebro/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Especialistas del CR2 son parte del primer posgrado de la Región de Aysén",
+      "url": "https://www.cr2.cl/especialistas-del-cr2-son-parte-del-primer-posgrado-de-la-region-de-aysen/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Activan instrumento para medir el nivel de precipitaciones en la estación meteorológica Cerro Tres Puntas",
+      "url": "https://www.cr2.cl/activan-instrumento-para-medir-el-nivel-de-precipitaciones-en-la-estacion-meteorologica-cerro-tres-puntas/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Entoldar las calles, una práctica milenaria que sigue siendo eficaz contra el calor",
-      "url": "https://efeverde.com/entoldar-calles-una-practica-milenaria-eficaz-contra-calor/",
-      "fecha": "2026-05-31",
+      "titular": "Las playas españolas retrocederán entre 60 y 80 metros para el año 2100",
+      "url": "https://efeverde.com/las-playas-espanolas-retrocederan-entre-60-y-80-metros-para-el-ano-2100/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Del asfalto a la naturaleza: los senderos azules, un refugio frente al calor extremo",
-      "url": "https://efeverde.com/del-asfalto-a-la-naturaleza-los-senderos-azules-un-refugio-frente-al-calor-extremo/",
-      "fecha": "2026-05-31",
+      "titular": "Asturias dispondrá de nuevo de un plan de control de lobos este verano",
+      "url": "https://efeverde.com/asturias-dispondra-de-nuevo-de-un-plan-de-control-de-lobos-este-verano/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El secreto de la orientación de las palomas está… ¡en el hígado!",
-      "url": "https://efeverde.com/el-secreto-de-la-orientacion-de-las-palomas-esta-en-el-higado/",
-      "fecha": "2026-05-31",
+      "titular": "Uno de cada cuatro incendios forestales esclarecidos por la Guardia Civil fue provocado",
+      "url": "https://efeverde.com/uno-de-cada-cuatro-incendios-forestales-esclarecidos-por-la-guardia-civil-fue-provocado/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Diaguita and Chango Women Lead Community Water Monitoring to Safeguard Coastal Regions",
-      "url": "https://www.elciudadano.com/en/diaguita-and-chango-women-lead-community-water-monitoring-to-safeguard-coastal-regions/05/30/",
-      "fecha": "2026-05-30",
+      "fuente": "Terram",
+      "titular": "Reingresan decreto para crear área protegida en el Cajón del Maipo: Otros 36 aún siguen en suspenso",
+      "url": "https://www.terram.cl/reingresan-decreto-para-crear-area-protegida-en-el-cajon-del-maipo-otros-36-aun-siguen-en-suspenso/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SEA da luz verde a minera de tierras raras en Penco pese a críticas por cercanía con casas y cursos de agua",
+      "url": "https://www.terram.cl/sea-da-luz-verde-a-minera-de-tierras-raras-en-penco-pese-a-criticas-por-cercania-con-casas-y-cursos-de-agua/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tres buzos terminaron en cámaras hiperbáricas luego de accidentes en centros de cultivos de salmones durante mayo",
+      "url": "https://www.terram.cl/tres-buzos-terminaron-en-camaras-hiperbaricas-luego-de-accidentes-en-centros-de-cultivos-de-salmones-durante-mayo/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Comité de Ministros destraba Copiaport-E en medio de ofensiva judicial y ambiental en Atacama",
+      "url": "https://www.terram.cl/comite-de-ministros-destraba-copiaport-e-en-medio-de-ofensiva-judicial-y-ambiental-en-atacama/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Región de Los Lagos: Comisión de Medio Ambiente evalúa en terreno daños en lago Chapo",
+      "url": "https://www.terram.cl/region-de-los-lagos-comision-de-medio-ambiente-evalua-en-terreno-danos-en-lago-chapo/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Un patrimonio oculto bajo la superficie: Descubriendo 10 especies minerales emblemáticas de Chile",
+      "url": "https://www.terram.cl/un-patrimonio-oculto-bajo-la-superficie-descubriendo-10-especies-minerales-emblematicas-de-chile/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Programa de consumo responsable sello azul",
+      "url": "https://www.sernapesca.cl/programa-de-consumo-responsable-sello-azul/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF levanta restricción del uso del fuego para determinadas comunas de la Región del Biobío",
+      "url": "https://www.conaf.cl/conaf-levanta-restriccion-del-uso-del-fuego-para-determinadas-comunas-de-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-levanta-restriccion-del-uso-del-fuego-para-determinadas-comunas-de-la-region-del-biobio",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF refuerza llamado a automovilistas a conducir “Lento por la fauna”",
+      "url": "https://www.conaf.cl/conaf-refuerza-llamado-a-automovilistas-a-conducir-lento-por-la-fauna/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-refuerza-llamado-a-automovilistas-a-conducir-lento-por-la-fauna",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF impulsa red de cámaras con inteligencia artificial para prevenir incendios forestales en La Araucanía",
+      "url": "https://www.conaf.cl/conaf-impulsa-red-de-camaras-con-inteligencia-artificial-para-prevenir-incendios-forestales-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-red-de-camaras-con-inteligencia-artificial-para-prevenir-incendios-forestales-en-la-araucania",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargo contra titular de Musa Gastrobar por infracción a la Norma de Ruidos en establecimiento en Iquique",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-contra-titular-de-musa-gastrobar-por-infraccion-a-la-norma-de-ruidos-en-establecimiento-en-iquique/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Realizan nueva sesión del Comité Operativo Ampliado para la elaboración del PDA de Calama",
+      "url": "https://mma.gob.cl/realizan-nueva-sesion-del-comite-operativo-ampliado-para-la-elaboracion-del-pda-de-calama/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente trabaja en resguardar cactus «Chilenito» especie única en el mundo",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-trabaja-en-resguardar-cactus-chilenito-especie-unica-en-el-mundo-2/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Mes del Mar finaliza con jornada de limpieza de riberas en el marco del Plan Simpson",
+      "url": "https://mma.gob.cl/mes-del-mar-finaliza-con-jornada-de-limpieza-de-riberas-en-el-marco-del-plan-simpson/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Un hito para Freirina: La experiencia de la agrupación de Caleta Los Bronces que obtuvo financiamiento internacional para desarrollar un proyecto de economía azul",
+      "url": "https://mma.gob.cl/un-hito-para-freirina-la-experiencia-de-la-agrupacion-de-caleta-los-bronces-que-obtuvo-financiamiento-internacional-para-desarrollar-un-proyecto-de-economia-azul/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "20 Establecimientos educacionales reciben certificación ambiental de la región de Atacama",
+      "url": "https://mma.gob.cl/20-establecimientos-educacionales-reciben-certificacion-ambiental-de-la-region-de-atacama/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Presidente de la Cámara de Diputados espera una Cuenta Pública cargada a Seguridad y critica convocatorias contra el discurso de Kast",
+      "url": "https://www.latercera.com/politica/noticia/presidente-de-la-camara-de-diputados-espera-una-cuenta-publica-cargada-a-seguridad-y-critica-convocatorias-contra-el-discurso-de-kast/",
+      "fecha": "2026-06-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Cuenta Pública: Oficialismo espera que la seguridad sea protagonista en mensaje del Presidente",
+      "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/cuenta-publica-oficialismo-espera-que-la-seguridad-sea-protagonista-en/2026-05-31/133954.html",
+      "fecha": "2026-06-01",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de proyectos por US$735,5 millones y deja pendiente definición sobre Kimal-Lo Aguirre",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us7355-millones-y-deja-pendiente-definicion-sobre-kimal-lo-aguirre",
-      "fecha": "2026-05-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA del Biobío recomienda aprobar proyecto de tierras raras de Aclara y CAP en Penco por US$130 millones",
-      "url": "https://www.redimin.cl/sea-del-biobio-recomienda-aprobar-proyecto-de-tierras-raras-de-aclara-y-cap-en-penco-por-us130-millones",
-      "fecha": "2026-05-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de tres proyectos por US$715,5 millones y ratifica rechazo a Punta Puertecillo",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-tres-proyectos-por-us7155-millones-y-ratifica-rechazo-a-punta-puertecillo",
-      "fecha": "2026-05-30",
+      "titular": "Deep Sea Minerals solicita listar en Nasdaq y suma avance regulatorio para concesiones submarinas de 150.000 km²",
+      "url": "https://www.redimin.cl/deep-sea-minerals-solicita-listar-en-nasdaq-y-suma-avance-regulatorio-para-concesiones-submarinas-de-150-000-km%c2%b2",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,41 +1,53 @@
 {
-  "fecha_generacion": "2026-05-31T08:29:33.326500-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-06-01T12:53:37.849017-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de proyectos por US$735,5 millones y deja pendiente definición sobre Kimal-Lo Aguirre",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us7355-millones-y-deja-pendiente-definicion-sobre-kimal-lo-aguirre",
-      "fecha": "2026-05-30",
+      "fuente": "Terram",
+      "titular": "SEA da luz verde a minera de tierras raras en Penco pese a críticas por cercanía con casas y cursos de agua",
+      "url": "https://www.terram.cl/sea-da-luz-verde-a-minera-de-tierras-raras-en-penco-pese-a-criticas-por-cercania-con-casas-y-cursos-de-agua/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Comité de Ministros ratificó la calificación ambiental favorable de tres proyectos por US$735,5 millones, mientras que el proyecto Punta Puertecillo recibió un rechazo definitivo. La resolución sobre la línea Kimal-Lo Aguirre quedó pendiente.",
+      "extracto": "El Servicio de Evaluación Ambiental recomendó aprobar un proyecto de extracción de tierras raras en Penco, pese a la negativa del municipio. Fuente: El Desconcierto, 29 de mayo de 2026.",
       "keywords_detectadas": [
-        "RCA"
+        "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA del Biobío recomienda aprobar proyecto de tierras raras de Aclara y CAP en Penco por US$130 millones",
-      "url": "https://www.redimin.cl/sea-del-biobio-recomienda-aprobar-proyecto-de-tierras-raras-de-aclara-y-cap-en-penco-por-us130-millones",
-      "fecha": "2026-05-30",
+      "fuente": "SMA",
+      "titular": "SMA formula cargo contra titular de Musa Gastrobar por infracción a la Norma de Ruidos en establecimiento en Iquique",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-contra-titular-de-musa-gastrobar-por-infraccion-a-la-norma-de-ruidos-en-establecimiento-en-iquique/",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La recomendación del Servicio de Evaluación Ambiental del Biobío para aprobar el proyecto de extracción de tierras raras en Penco podría generar 2.200 empleos y una inversión de US$130 millones.",
+      "extracto": "Producto de denuncias recibidas, la Oficina Regional SMA de Tarapacá, constató la superación de los decibeles permitidos por la norma de referencia para el horario nocturno. La Superintendencia del Medio Ambiente (SMA) inició un procedimiento sancion",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Cuenta Pública: Oficialismo espera que la seguridad sea protagonista en mensaje del Presidente",
+      "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/cuenta-publica-oficialismo-espera-que-la-seguridad-sea-protagonista-en/2026-05-31/133954.html",
+      "fecha": "2026-06-01",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de tres proyectos por US$715,5 millones y ratifica rechazo a Punta Puertecillo",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-tres-proyectos-por-us7155-millones-y-ratifica-rechazo-a-punta-puertecillo",
-      "fecha": "2026-05-30",
+      "titular": "Deep Sea Minerals solicita listar en Nasdaq y suma avance regulatorio para concesiones submarinas de 150.000 km²",
+      "url": "https://www.redimin.cl/deep-sea-minerals-solicita-listar-en-nasdaq-y-suma-avance-regulatorio-para-concesiones-submarinas-de-150-000-km%c2%b2",
+      "fecha": "2026-06-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Comité de Ministros aprobó tres proyectos por un total de US$715,5 millones, incluyendo infraestructura portuaria y energía solar, mientras ratificó la calificación negativa de un cuarto proyecto en O’Higgins.",
+      "extracto": "Deep Sea Minerals Corp. busca listar sus acciones en el Nasdaq para ampliar su base de inversionistas y mejorar su visibilidad en EE. UU., en medio del creciente interés por nódulos polimetálicos.",
       "keywords_detectadas": [
-        "RCA"
+        "SEA"
       ]
     }
   ]
