@@ -1,53 +1,54 @@
 {
-  "fecha_generacion": "2026-06-01T12:53:37.849017-04:00",
+  "fecha_generacion": "2026-06-02T11:11:49.546417-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "SEA da luz verde a minera de tierras raras en Penco pese a críticas por cercanía con casas y cursos de agua",
-      "url": "https://www.terram.cl/sea-da-luz-verde-a-minera-de-tierras-raras-en-penco-pese-a-criticas-por-cercania-con-casas-y-cursos-de-agua/",
-      "fecha": "2026-06-01",
+      "fuente": "El Ciudadano",
+      "titular": "Penco on High Alert: SEA Recommends Approval for Controversial Rare Earth Mining Project as Communities Organize March Against Aclara",
+      "url": "https://www.elciudadano.com/en/penco-on-high-alert-sea-recommends-approval-for-controversial-rare-earth-mining-project-as-communities-organize-march-against-aclara/06/02/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental recomendó aprobar un proyecto de extracción de tierras raras en Penco, pese a la negativa del municipio. Fuente: El Desconcierto, 29 de mayo de 2026.",
+      "extracto": "El Ciudadano Original article: Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara The Environmental Evaluation Service (SEA) has recommended the approval of a controversial rare earth ",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA formula cargo contra titular de Musa Gastrobar por infracción a la Norma de Ruidos en establecimiento en Iquique",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-contra-titular-de-musa-gastrobar-por-infraccion-a-la-norma-de-ruidos-en-establecimiento-en-iquique/",
-      "fecha": "2026-06-01",
+      "fuente": "El Ciudadano",
+      "titular": "Penco in Alarm: SEA Empfiehlt Genehmigung des Kontroversen Seltene Erden-Projekts, während Gemeinden Protestmarsch Gegen Aclara Organisieren",
+      "url": "https://www.elciudadano.com/deustche/penco-in-alarm-sea-empfiehlt-genehmigung-des-kontroversen-seltene-erden-projekts-wahrend-gemeinden-protestmarsch-gegen-aclara-organisieren/06/02/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Producto de denuncias recibidas, la Oficina Regional SMA de Tarapacá, constató la superación de los decibeles permitidos por la norma de referencia para el horario nocturno. La Superintendencia del Medio Ambiente (SMA) inició un procedimiento sancion",
+      "extracto": "El Ciudadano Originalbeitrag: Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara Der Umweltbewertungsdienst (SEA) hat empfohlen, das umstrittene Projekt zur Förderung seltener Erden, d",
       "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Cuenta Pública: Oficialismo espera que la seguridad sea protagonista en mensaje del Presidente",
-      "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/cuenta-publica-oficialismo-espera-que-la-seguridad-sea-protagonista-en/2026-05-31/133954.html",
-      "fecha": "2026-06-01",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fuente": "El Ciudadano",
+      "titular": "Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara",
+      "url": "https://www.elciudadano.com/mineria/penco-en-alerta-sea-recomienda-aprobar-proyecto-de-tierras-raras-y-comunidades-convocan-marcha-contra-minera-aclara/06/02/",
+      "fecha": "2026-06-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Ciudadano La Comisión de Evaluación Ambiental (COEVA) del Biobío votará el próximo s 8 de junio el controvertido proyecto de extracción de tierras raras de la transnacional Aclara Resources, y mientras el SEA ya recomendó aprobar la iniciativa, la",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Deep Sea Minerals solicita listar en Nasdaq y suma avance regulatorio para concesiones submarinas de 150.000 km²",
-      "url": "https://www.redimin.cl/deep-sea-minerals-solicita-listar-en-nasdaq-y-suma-avance-regulatorio-para-concesiones-submarinas-de-150-000-km%c2%b2",
-      "fecha": "2026-06-01",
+      "titular": "SEA publica 16 DIA ingresadas en mayo y abre plazo de 30 días hábiles para solicitar participación ciudadana",
+      "url": "https://www.redimin.cl/sea-publica-16-dia-ingresadas-en-mayo-y-abre-plazo-de-30-dias-habiles-para-solicitar-participacion-ciudadana",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Deep Sea Minerals Corp. busca listar sus acciones en el Nasdaq para ampliar su base de inversionistas y mejorar su visibilidad en EE. UU., en medio del creciente interés por nódulos polimetálicos.",
+      "extracto": "El Servicio de Evaluación Ambiental publicó un listado de proyectos que incluye iniciativas de minería, energía y saneamiento, marcando el inicio del plazo para solicitar participación ciudadana en las Declaraciones de Impacto Ambiental.",
       "keywords_detectadas": [
-        "SEA"
+        "SEA",
+        "DIA"
       ]
     }
   ]
