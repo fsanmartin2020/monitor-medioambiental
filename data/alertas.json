@@ -1,54 +1,53 @@
 {
-  "fecha_generacion": "2026-06-02T11:11:49.546417-04:00",
+  "fecha_generacion": "2026-06-03T11:52:00.082203-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "El Ciudadano",
-      "titular": "Penco on High Alert: SEA Recommends Approval for Controversial Rare Earth Mining Project as Communities Organize March Against Aclara",
-      "url": "https://www.elciudadano.com/en/penco-on-high-alert-sea-recommends-approval-for-controversial-rare-earth-mining-project-as-communities-organize-march-against-aclara/06/02/",
-      "fecha": "2026-06-02",
+      "fuente": "Terram",
+      "titular": "Vecinos de Antofagasta frenan ampliación de Minera Escondida y SEA ordena participación ciudadana",
+      "url": "https://www.terram.cl/vecinos-de-antofagasta-frenan-ampliacion-de-minera-escondida-y-sea-ordena-participacion-ciudadana/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano Original article: Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara The Environmental Evaluation Service (SEA) has recommended the approval of a controversial rare earth ",
+      "extracto": "Vecinos de Antofagasta frenaron momentáneamente el avance del proyecto de la mayor minera de cobre del mundo con el fin de discutir sus impactos ambientales. Fuente: El Desconcierto, 2 de junio de 2026.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Penco in Alarm: SEA Empfiehlt Genehmigung des Kontroversen Seltene Erden-Projekts, während Gemeinden Protestmarsch Gegen Aclara Organisieren",
-      "url": "https://www.elciudadano.com/deustche/penco-in-alarm-sea-empfiehlt-genehmigung-des-kontroversen-seltene-erden-projekts-wahrend-gemeinden-protestmarsch-gegen-aclara-organisieren/06/02/",
-      "fecha": "2026-06-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano Originalbeitrag: Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara Der Umweltbewertungsdienst (SEA) hat empfohlen, das umstrittene Projekt zur Förderung seltener Erden, d",
+      "fuente": "Interferencia",
+      "titular": "Penco convoca a marcha contra proyecto de tierras raras antes de votación clave: “No seremos una zona de sacrificio”",
+      "url": "https://interferencia.cl/articulos/penco-convoca-marcha-contra-proyecto-de-tierras-raras-antes-de-votacion-clave-no-seremos",
+      "fecha": "2026-06-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara",
-      "url": "https://www.elciudadano.com/mineria/penco-en-alerta-sea-recomienda-aprobar-proyecto-de-tierras-raras-y-comunidades-convocan-marcha-contra-minera-aclara/06/02/",
-      "fecha": "2026-06-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano La Comisión de Evaluación Ambiental (COEVA) del Biobío votará el próximo s 8 de junio el controvertido proyecto de extracción de tierras raras de la transnacional Aclara Resources, y mientras el SEA ya recomendó aprobar la iniciativa, la",
-      "keywords_detectadas": [
-        "SEA"
+        "zona de sacrificio"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SEA publica 16 DIA ingresadas en mayo y abre plazo de 30 días hábiles para solicitar participación ciudadana",
-      "url": "https://www.redimin.cl/sea-publica-16-dia-ingresadas-en-mayo-y-abre-plazo-de-30-dias-habiles-para-solicitar-participacion-ciudadana",
+      "titular": "SEA recomienda aprobar proyecto de tierras raras en Penco y votación tensiona debate en Biobío",
+      "url": "https://www.redimin.cl/sea-recomienda-aprobar-proyecto-de-tierras-raras-en-penco-y-votacion-tensiona-debate-en-biobio",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Comisión de Evaluación Ambiental del Biobío revisará el 8 de junio el Estudio de Impacto Ambiental del proyecto de Aclara en Penco, que enfrenta el rechazo de comunidades locales y el apoyo de gremios empresariales.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Ministerio de Economía",
+      "titular": "Daniel Mas: «Queremos que Arica y Parinacota no solo sea un punto de paso»",
+      "url": "https://www.economia.gob.cl/2026/06/02/daniel-mas-queremos-que-arica-y-parinacota-no-solo-sea-un-punto-de-paso.htm",
       "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental publicó un listado de proyectos que incluye iniciativas de minería, energía y saneamiento, marcando el inicio del plazo para solicitar participación ciudadana en las Declaraciones de Impacto Ambiental.",
+      "extracto": "La entrada Daniel Mas: «Queremos que Arica y Parinacota no solo sea un punto de paso» se publicó primero en Ministerio de Economía, Fomento y Turismo .",
       "keywords_detectadas": [
-        "SEA",
-        "DIA"
+        "SEA"
       ]
     }
   ]

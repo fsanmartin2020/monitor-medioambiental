@@ -1,189 +1,221 @@
 {
-  "fecha_actualizacion": "2026-06-02T11:11:49.532208-04:00",
-  "total": 23,
+  "fecha_actualizacion": "2026-06-03T11:52:00.066951-04:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "SOLUCIONES PARA DESCARBONIZAR EL AGRO MARCARON EL DEMO DAY DE AGROTECH STUDIO",
-      "url": "https://www.chiledesarrollosustentable.cl/soluciones-para-descarbonizar-el-agro-marcaron-el-demo-day-de-agrotech-studio/?utm_source=rss&utm_medium=rss&utm_campaign=soluciones-para-descarbonizar-el-agro-marcaron-el-demo-day-de-agrotech-studio",
-      "fecha": "2026-06-02",
+      "titular": "MÁS DE 240 ESTABLECIMIENTOS EDUCACIONALES DE LA REGIÓN METROPOLITANA RECIBEN CERTIFICACIÓN AMBIENTAL",
+      "url": "https://www.chiledesarrollosustentable.cl/mas-de-240-establecimientos-educacionales-de-la-region-metropolitana-reciben-certificacion-ambiental-2/?utm_source=rss&utm_medium=rss&utm_campaign=mas-de-240-establecimientos-educacionales-de-la-region-metropolitana-reciben-certificacion-ambiental-2",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La temperatura del agua del mar bate récord en mayo en España, según la red de boyas de Puertos del Estado",
-      "url": "https://efeverde.com/la-temperatura-del-agua-del-mar-bate-record-en-mayo/",
-      "fecha": "2026-06-02",
+      "titular": "ONU: El error de medir el impacto ambiental de la IA sólo por CO2 pone en serio riesgo agua y suelo",
+      "url": "https://efeverde.com/onu-el-error-de-medir-el-impacto-ambiental-de-la-ia-solo-por-co2-pone-en-serio-riesgo-agua-y-suelo/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calor en interiores, una amenaza creciente para la salud física y mental",
-      "url": "https://efeverde.com/el-calor-en-interiores/",
-      "fecha": "2026-06-02",
+      "titular": "Perimetrado el incendio de Murcia, tras calcinar 177 hectáreas",
+      "url": "https://efeverde.com/perimetrado-el-incendio-de-murcia/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios en la Amazonía brasileña se disparan un 115 % en mayo",
-      "url": "https://efeverde.com/incendios-en-la-amazonia-brasilena/",
-      "fecha": "2026-06-02",
+      "titular": "La preocupación de los españoles por el cambio climático cae 25 puntos desde 2019",
+      "url": "https://efeverde.com/preocupacion-de-espanoles-por-cambio-climatico/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Cómo afecta la naturaleza al turismo? Por Arturo Crosby",
-      "url": "https://efeverde.com/como-afecta-la-naturaleza-al-turismo-por-arturo-crosby/",
-      "fecha": "2026-06-02",
+      "titular": "Economía circular y movilidad sostenible en Mangas Verdes 491",
+      "url": "https://efeverde.com/economia-circular-movilidad-sostenible-mangas-verdes-491/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La OMM pronostica un episodio de El Niño potencialmente fuerte",
-      "url": "https://efeverde.com/la-omm-pronostica-un-episodio-de-el-nino-potencialmente-fuerte/",
-      "fecha": "2026-06-02",
+      "titular": "La ingeniería frente al estrés hídrico: la era de la circularidad del agua. Por Fernando Díaz (Incatema)",
+      "url": "https://efeverde.com/la-ingenieria-frente-al-estres-hidrico-la-era-de-la-circularidad-del-agua-por-fernando-diaz/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Comisión Europea a los estados miembro: la prevención de incendios no es una opción es una necesidad",
-      "url": "https://efeverde.com/la-comision-europea-a-los-estados-miembro-la-prevencion-de-incendios-no-es-opcional-es-una-necesidad/",
-      "fecha": "2026-06-02",
+      "titular": "El incendio forestal declarado en El Valle (Murcia) afecta ya a unas 177 hectáreas",
+      "url": "https://efeverde.com/el-incendio-forestal-declarado-en-el-valle-murcia-afecta-ya-a-unas-177-hectareas/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Así afectará a América Latina el nuevo episodio de El Niño",
-      "url": "https://www.terram.cl/asi-afectara-a-america-latina-el-nuevo-episodio-de-el-nino/",
-      "fecha": "2026-06-02",
+      "titular": "Reactivación del tratado minero entre Chile y Argentina despierta alertas ambientales",
+      "url": "https://www.terram.cl/reactivacion-del-tratado-minero-entre-chile-y-argentina-despierta-alertas-ambientales/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Plataforma interactiva evalúa la salud del océano chileno en 105 comunas costeras",
-      "url": "https://www.terram.cl/plataforma-interactiva-evalua-la-salud-del-oceano-chileno-en-105-comunas-costeras/",
-      "fecha": "2026-06-02",
+      "titular": "Vecinos de Antofagasta frenan ampliación de Minera Escondida y SEA ordena participación ciudadana",
+      "url": "https://www.terram.cl/vecinos-de-antofagasta-frenan-ampliacion-de-minera-escondida-y-sea-ordena-participacion-ciudadana/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Las mujeres que lideran la transición justa en Latinoamérica",
-      "url": "https://www.terram.cl/las-mujeres-que-lideran-la-transicion-justa-en-latinoamerica/",
-      "fecha": "2026-06-02",
+      "titular": "Megarreforma será analizada por comisiones de Hacienda, de Trabajo y de Medio Ambiente",
+      "url": "https://www.terram.cl/megarreforma-sera-analizada-por-comisiones-de-hacienda-de-trabajo-y-de-medio-ambiente/",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Los cañones invisibles de Humboldt: lo que Dominga no ve bajo el mar",
+      "url": "https://www.terram.cl/los-canones-invisibles-de-humboldt-lo-que-dominga-no-ve-bajo-el-mar/",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Especies invasoras y humedales: expertos llaman a fortalecer el trabajo colaborativo para proteger ecosistemas urbanos",
+      "url": "https://www.terram.cl/especies-invasoras-y-humedales-expertos-llaman-a-fortalecer-el-trabajo-colaborativo-para-proteger-ecosistemas-urbanos/",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Liberan golondrinas de mar tras caer por contaminación lumínica",
+      "url": "https://www.terram.cl/liberan-golondrinas-de-mar-tras-caer-por-contaminacion-luminica/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Misión técnica del Proyecto +Bosques conoció avances de restauración y acción climática en Ñuble",
-      "url": "https://www.conaf.cl/mision-tecnica-del-proyecto-bosques-conocio-avances-de-restauracion-y-accion-climatica-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=mision-tecnica-del-proyecto-bosques-conocio-avances-de-restauracion-y-accion-climatica-en-nuble",
-      "fecha": "2026-06-02",
+      "titular": "Reserva Ñuble inicia cierre preventivo de invierno",
+      "url": "https://www.conaf.cl/reserva-nuble-inicia-cierre-preventivo-de-invierno/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nuble-inicia-cierre-preventivo-de-invierno",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Alessandri (UDI) por Registro de Vándalos e Incivilidades: “Hay que verlo con mucho cuidado, pero a mí me parece de toda sensatez”",
-      "url": "https://www.latercera.com/politica/noticia/alessandri-udi-por-registro-de-vandalos-e-incivilidades-hay-que-verlo-con-mucho-cuidado-pero-a-mi-me-parece-de-toda-sensatez/",
-      "fecha": "2026-06-02",
+      "fuente": "CONAF",
+      "titular": "CONAF integra a Puerto Toro en programa Comunidad Preparada para disminuir incendios forestales",
+      "url": "https://www.conaf.cl/conaf-integra-a-puerto-toro-en-programa-comunidad-preparada-para-disminuir-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-integra-a-puerto-toro-en-programa-comunidad-preparada-para-disminuir-incendios-forestales",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Penco on High Alert: SEA Recommends Approval for Controversial Rare Earth Mining Project as Communities Organize March Against Aclara",
-      "url": "https://www.elciudadano.com/en/penco-on-high-alert-sea-recommends-approval-for-controversial-rare-earth-mining-project-as-communities-organize-march-against-aclara/06/02/",
-      "fecha": "2026-06-02",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente instala sensores de calidad del aire en las 17 comunas del valle central de O´Higgins",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-instala-sensores-de-calidad-del-aire-en-las-17-comunas-del-valle-central-de-ohiggins-2/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Penco in Alarm: SEA Empfiehlt Genehmigung des Kontroversen Seltene Erden-Projekts, während Gemeinden Protestmarsch Gegen Aclara Organisieren",
-      "url": "https://www.elciudadano.com/deustche/penco-in-alarm-sea-empfiehlt-genehmigung-des-kontroversen-seltene-erden-projekts-wahrend-gemeinden-protestmarsch-gegen-aclara-organisieren/06/02/",
-      "fecha": "2026-06-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Penco en alerta: SEA recomienda aprobar proyecto de tierras raras y comunidades convocan marcha contra minera Aclara",
-      "url": "https://www.elciudadano.com/mineria/penco-en-alerta-sea-recomienda-aprobar-proyecto-de-tierras-raras-y-comunidades-convocan-marcha-contra-minera-aclara/06/02/",
-      "fecha": "2026-06-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Interferencia",
+      "titular": "Penco convoca a marcha contra proyecto de tierras raras antes de votación clave: “No seremos una zona de sacrificio”",
+      "url": "https://interferencia.cl/articulos/penco-convoca-marcha-contra-proyecto-de-tierras-raras-antes-de-votacion-clave-no-seremos",
+      "fecha": "2026-06-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SEA publica 16 DIA ingresadas en mayo y abre plazo de 30 días hábiles para solicitar participación ciudadana",
-      "url": "https://www.redimin.cl/sea-publica-16-dia-ingresadas-en-mayo-y-abre-plazo-de-30-dias-habiles-para-solicitar-participacion-ciudadana",
+      "titular": "SEA recomienda aprobar proyecto de tierras raras en Penco y votación tensiona debate en Biobío",
+      "url": "https://www.redimin.cl/sea-recomienda-aprobar-proyecto-de-tierras-raras-en-penco-y-votacion-tensiona-debate-en-biobio",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Análisis CR2 | Escenarios de emisiones y proyecciones climáticas. ¿Nublado variando a parcial?",
+      "url": "https://www.cr2.cl/analisis-cr2-escenarios-de-emisiones-y-proyecciones-climaticas-nublado-variado-a-parcial/",
+      "fecha": "2026-06-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La OMM pide «extremar las precauciones» en América Latina ante el fenómeno de El Niño",
+      "url": "https://efeverde.com/omm-pide-extremar-precauciones-en-america-latina-ante-fenomeno-de-el-nino/",
+      "fecha": "2026-06-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Trasladar lobos jóvenes del norte de la península a poblaciones aisladas del sur, propuesta de la Unión de Pequeños Agricultores",
+      "url": "https://efeverde.com/lobos-jovenes-del-norte-peninsula-a-poblaciones-aisladas-del-sur/",
       "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "FIMA",
-      "titular": "Nuevo revés para piscicultura Chesque Alto: tribunales respaldan las acciones legales y rechazan intentos de la empresa para eludir responsabilidad.",
-      "url": "https://www.fima.cl/2026/06/01/nuevo-reves-para-piscicultura-chesque-alto-tribunales-respaldan-las-acciones-legales-y-rechazan-intentos-de-la-empresa-para-eludir-responsabilidad/",
-      "fecha": "2026-06-01",
+      "titular": "Informe internacional revela cómo la tecnología satelital puede transformar la lucha contra la pesca ilegal en América Latina",
+      "url": "https://www.fima.cl/2026/06/02/informe-internacional-revela-como-la-tecnologia-satelital-puede-transformar-la-lucha-contra-la-pesca-ilegal-en-america-latina/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF Valparaíso reconoce la labor de su personal en el período de mayor riesgo de incendios forestales 2025-2026",
-      "url": "https://www.conaf.cl/conaf-valparaiso-reconoce-la-labor-de-su-personal-en-el-periodo-de-mayor-riesgo-de-incendios-forestales-2025-2026/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-valparaiso-reconoce-la-labor-de-su-personal-en-el-periodo-de-mayor-riesgo-de-incendios-forestales-2025-2026",
-      "fecha": "2026-06-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA del MOP ordena a organizaciones de usuarios de aguas el cierre de bocatomas como medida preventiva ante crecidas por lluvias",
-      "url": "https://dga.mop.gob.cl/dga-del-mop-ordena-a-organizaciones-de-usuarios-de-aguas-el-cierre-de-bocatomas-como-medida-preventiva-ante-crecidas-por-lluvias-2/",
-      "fecha": "2026-06-01",
+      "fuente": "FIMA",
+      "titular": "Cuando quien contamina no paga: el caso de Engie Energía Chile SA en Mejillones",
+      "url": "https://www.fima.cl/2026/06/02/cuando-quien-contamina-no-paga-el-caso-de-engie-energia-chile-sa-en-mejillones/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mesa Regional de Medio Ambiente invita a dialogar sobre los desafíos de la calidad del agua en Aysén",
-      "url": "https://mma.gob.cl/mesa-regional-de-medio-ambiente-invita-a-dialogar-sobre-los-desafios-de-la-calidad-del-agua-en-aysen/",
-      "fecha": "2026-06-01",
+      "titular": "Cuenta Pública 2026: Comité de Ministros destraba inversiones por US$ 7.000 millones agilizando la gestión ambiental y resguardando la sostenibilidad en los territorios",
+      "url": "https://mma.gob.cl/cuenta-publica-2026-comite-de-ministros-destraba-inversiones-por-us-7-000-millones-agilizando-la-gestion-ambiental-y-resguardando-la-sostenibilidad-en-los-territorios/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "CChC Coyhaique entrega observaciones al anteproyecto del Plan de Descontaminación Atmosférica",
-      "url": "https://mma.gob.cl/cchc-coyhaique-entrega-observaciones-al-anteproyecto-del-plan-de-descontaminacion-atmosferica/",
-      "fecha": "2026-06-01",
+      "titular": "Más de 240 establecimientos educacionales de la Región Metropolitana reciben Certificación Ambiental",
+      "url": "https://mma.gob.cl/mas-de-240-establecimientos-educacionales-de-la-region-metropolitana-reciben-certificacion-ambiental/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "A pesar de “invitación” de Kast a discutir, megaproyecto tendrá su primer choque este martes en el Senado",
-      "url": "https://www.latercera.com/politica/noticia/a-pesar-de-invitacion-de-kast-a-discutir-megaproyecto-tendra-su-primer-choque-este-martes-en-el-senado/",
-      "fecha": "2026-06-01",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ñuble refuerza acciones por la calidad del aire tras cierre de consulta pública del nuevo PDA y balance GEC de mayo",
+      "url": "https://mma.gob.cl/nuble-refuerza-acciones-por-la-calidad-del-aire-tras-cierre-de-consulta-publica-del-nuevo-pda-y-balance-gec-de-mayo/",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "MINSAL",
-      "titular": "Primera Cuenta Pública presidencial: Mandatario destaca priorización de las atenciones oncológicas retrasadas en materia de Salud",
-      "url": "https://www.minsal.cl/primera-cuenta-publica-presidencial-mandatario-destaca-priorizacion-de-las-atenciones-oncologicas-retrasadas-en-materia-de-salud/",
-      "fecha": "2026-06-01",
+      "fuente": "Ministerio de Economía",
+      "titular": "Daniel Mas: «Queremos que Arica y Parinacota no solo sea un punto de paso»",
+      "url": "https://www.economia.gob.cl/2026/06/02/daniel-mas-queremos-que-arica-y-parinacota-no-solo-sea-un-punto-de-paso.htm",
+      "fecha": "2026-06-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
