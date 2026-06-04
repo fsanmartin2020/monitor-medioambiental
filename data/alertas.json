@@ -1,53 +1,90 @@
 {
-  "fecha_generacion": "2026-06-03T11:52:00.082203-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-04T10:30:54.632039-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Vecinos de Antofagasta frenan ampliación de Minera Escondida y SEA ordena participación ciudadana",
-      "url": "https://www.terram.cl/vecinos-de-antofagasta-frenan-ampliacion-de-minera-escondida-y-sea-ordena-participacion-ciudadana/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Vecinos de Antofagasta frenaron momentáneamente el avance del proyecto de la mayor minera de cobre del mundo con el fin de discutir sus impactos ambientales. Fuente: El Desconcierto, 2 de junio de 2026.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Interferencia",
-      "titular": "Penco convoca a marcha contra proyecto de tierras raras antes de votación clave: “No seremos una zona de sacrificio”",
-      "url": "https://interferencia.cl/articulos/penco-convoca-marcha-contra-proyecto-de-tierras-raras-antes-de-votacion-clave-no-seremos",
-      "fecha": "2026-06-03",
+      "fuente": "Diario Financiero",
+      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
+      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
+      "fecha": "2026-06-04",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "zona de sacrificio"
+        "SEIA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA recomienda aprobar proyecto de tierras raras en Penco y votación tensiona debate en Biobío",
-      "url": "https://www.redimin.cl/sea-recomienda-aprobar-proyecto-de-tierras-raras-en-penco-y-votacion-tensiona-debate-en-biobio",
+      "fuente": "Diario Financiero",
+      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
+      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
+      "fecha": "2026-06-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto minero",
+      "url": "https://www.mch.cl/tribunal-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-minero/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Cabe recordar que el caso se inició con la demanda de reparación interpuesta en abril de 2019 por el Consejo de Defensa del Estado. La entrada Tribunal aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto minero se publicó pri",
+      "keywords_detectadas": [
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental aprueba ajustes al plan de reparación por daño ambiental asociado a Pascua Lama",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aprueba-ajustes-al-plan-de-reparacion-por-dano-ambiental-asociado-a-pascua-lama/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La resolución modifica el acuerdo conciliatorio vigente e incorpora nuevas condiciones para asegurar el cumplimiento de las medidas de restauración comprometidas en la cuenca del Huasco. El Primer Tribunal Ambiental aprobó una modificación al acuerdo",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Se aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto Pascua Lama",
+      "url": "https://www.1ta.cl/se-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-pascua-lama/",
       "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Comisión de Evaluación Ambiental del Biobío revisará el 8 de junio el Estudio de Impacto Ambiental del proyecto de Aclara en Penco, que enfrenta el rechazo de comunidades locales y el apoyo de gremios empresariales.",
+      "extracto": "El Primer Tribunal Ambiental aprobó la modificación de la conciliación entre el Consejo de Defensa del Estado y Compañía Minera Nevada SpA, en el marco de la demanda por reparación de daño ambiental asociada a la intervención de vegas altoandinas en ",
       "keywords_detectadas": [
-        "SEA"
+        "daño ambiental"
       ]
     },
     {
-      "fuente": "Ministerio de Economía",
-      "titular": "Daniel Mas: «Queremos que Arica y Parinacota no solo sea un punto de paso»",
-      "url": "https://www.economia.gob.cl/2026/06/02/daniel-mas-queremos-que-arica-y-parinacota-no-solo-sea-un-punto-de-paso.htm",
-      "fecha": "2026-06-02",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-44-2025 “Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-44-2025-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-06-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La entrada Daniel Mas: «Queremos que Arica y Parinacota no solo sea un punto de paso» se publicó primero en Ministerio de Economía, Fomento y Turismo .",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-44-2025 “Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental» (acumula R-46-2025), que",
       "keywords_detectadas": [
-        "SEA"
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Consejo Nacional de Escazú conoce resultados de la COP4 y avanza en propuesta para convocar a su primer Grupo Ampliado Público-Privado",
+      "url": "https://mma.gob.cl/consejo-nacional-de-escazu-conoce-resultados-de-la-cop4-y-avanza-en-propuesta-para-convocar-a-su-primer-grupo-ampliado-publico-privado/",
+      "fecha": "2026-06-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La sesión abordó los principales resultados de la COP4 del Acuerdo de Escazú, aprobó los lineamientos de funcionamiento de sus […]",
+      "keywords_detectadas": [
+        "Escazú"
       ]
     }
   ]
