@@ -1,90 +1,65 @@
 {
-  "fecha_generacion": "2026-06-04T10:30:54.632039-04:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-06-05T10:08:22.851847-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Diario Financiero",
-      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
-      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
-      "fecha": "2026-06-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
-      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
-      "fecha": "2026-06-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto minero",
-      "url": "https://www.mch.cl/tribunal-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-minero/",
-      "fecha": "2026-06-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Cabe recordar que el caso se inició con la demanda de reparación interpuesta en abril de 2019 por el Consejo de Defensa del Estado. La entrada Tribunal aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto minero se publicó pri",
-      "keywords_detectadas": [
-        "daño ambiental"
-      ]
-    },
-    {
       "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental aprueba ajustes al plan de reparación por daño ambiental asociado a Pascua Lama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aprueba-ajustes-al-plan-de-reparacion-por-dano-ambiental-asociado-a-pascua-lama/",
+      "titular": "Tribunal Ambiental abre proceso por demanda de habitantes de Tierra Amarilla contra el Estado y empresas mineras",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-abre-proceso-por-demanda-de-habitantes-de-tierra-amarilla-contra-el-estado-y-empresas-mineras/",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción judicial busca determinar la existencia de un eventual daño ambiental asociado a depósitos y residuos mineros emplazados en sectores cercanos a zonas habitadas de la comuna de Atacama. El Primer Tribunal Ambiental admitió a trámite una dema",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
+      "url": "https://www.terram.cl/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un-acuerdo-asociado-a-su-institucionalidad/",
       "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La resolución modifica el acuerdo conciliatorio vigente e incorpora nuevas condiciones para asegurar el cumplimiento de las medidas de restauración comprometidas en la cuenca del Huasco. El Primer Tribunal Ambiental aprobó una modificación al acuerdo",
+      "extracto": "Previo a lograr luz verde en un estrecho margen, la ministra del Medio Ambiente, instó a que parte del desafío que le corresponde a la comisión del ramo \"es poder definir cuál será esa institucionalidad que finalmente se va a hacer cargo de la evalua",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Se acoge a trámite demanda por daño ambiental presentada por habitantes de Tierra Amarilla en contra del Estado y empresas mineras de la zona",
+      "url": "https://www.1ta.cl/se-acoge-a-tramite-demanda-por-dano-ambiental-presentada-por-habitantes-de-tierra-amarilla-en-contra-del-estado-y-empresas-mineras-de-la-zona/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción judicial por daño ambiental fue interpuesta por habitantes de Tierra Amarilla, quienes afirman que la existencia de botaderos, acopios y depósitos de residuos mineros que se encuentra ubicados no solo en las cercanías, sino que también dent",
+      "keywords_detectadas": [
         "daño ambiental"
       ]
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Se aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto Pascua Lama",
-      "url": "https://www.1ta.cl/se-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-pascua-lama/",
-      "fecha": "2026-06-03",
+      "titular": "Primer Tribunal Ambiental realizará capacitaciones sobre acceso a la justicia ambiental en La Serena y Copiapó",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-realizara-capacitaciones-sobre-acceso-a-la-justicia-ambiental-en-la-serena-y-copiapo/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental aprobó la modificación de la conciliación entre el Consejo de Defensa del Estado y Compañía Minera Nevada SpA, en el marco de la demanda por reparación de daño ambiental asociada a la intervención de vegas altoandinas en ",
+      "extracto": "Como parte de las acciones comprometidas para fortalecer el acceso a la justicia ambiental y contribuir a la implementación del Acuerdo de Escazú en Chile, el Primer Tribunal Ambiental desarrollará jornadas de capacitación en las regiones de Coquimbo",
       "keywords_detectadas": [
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-44-2025 “Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-44-2025-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-44-2025 “Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental» (acumula R-46-2025), que",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Consejo Nacional de Escazú conoce resultados de la COP4 y avanza en propuesta para convocar a su primer Grupo Ampliado Público-Privado",
-      "url": "https://mma.gob.cl/consejo-nacional-de-escazu-conoce-resultados-de-la-cop4-y-avanza-en-propuesta-para-convocar-a-su-primer-grupo-ampliado-publico-privado/",
-      "fecha": "2026-06-03",
+      "titular": "SMA Fiscaliza comercialización de leña seca en Coyhaique para reforzar medidas del Plan de Descontaminación Atmosférica",
+      "url": "https://mma.gob.cl/sma-fiscaliza-comercializacion-de-lena-seca-en-coyhaique-para-reforzar-medidas-del-plan-de-descontaminacion-atmosferica/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La sesión abordó los principales resultados de la COP4 del Acuerdo de Escazú, aprobó los lineamientos de funcionamiento de sus […]",
+      "extracto": "Con el objetivo de contribuir a una mejor calidad del aire durante el período de Gestión de Episodios Críticos (GEC), […]",
       "keywords_detectadas": [
-        "Escazú"
+        "SMA"
       ]
     }
   ]

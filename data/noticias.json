@@ -1,261 +1,325 @@
 {
-  "fecha_actualizacion": "2026-06-04T10:30:54.618713-04:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-06-05T10:08:22.839044-04:00",
+  "total": 40,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Ante la próxima revisión del decreto de envases y embalajes, actores clave analizan necesidad de ajustar las metas a la realidad sin perder ambición",
-      "url": "https://www.paiscircular.cl/economia-circular/ante-la-proxima-revision-del-decreto-de-envases-y-embalajes-actores-clave-analizan-necesidad-de-ajustar-las-metas-a-la-realidad-sin-perder-ambicion/",
-      "fecha": "2026-06-04",
+      "titular": "Día del Medio Ambiente: La esperanza también es acción por el clima",
+      "url": "https://www.paiscircular.cl/opinion/dia-del-medio-ambiente-la-esperanza-tambien-es-accion-por-el-clima/",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Día del medio ambiente: volver a observar para actuar",
+      "url": "https://www.paiscircular.cl/opinion/dia-del-medio-ambiente-volver-a-observar-para-actuar/",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Filtrovivo: la innovación de dos chilenos finalistas del Premio Europeo al Inventor 2026",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/filtrovivo/",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "DÍA MUNDIAL DEL MEDIO AMBIENTE",
+      "url": "https://www.chiledesarrollosustentable.cl/dia-mundial-del-medio-ambiente-4/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-del-medio-ambiente-4",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Más de 2.400 bicicletas compartidas estarán disponibles gratis durante junio para promover la movilidad sostenible",
+      "url": "https://codexverde.cl/mas-de-2-400-bicicletas-compartidas-estaran-disponibles-gratis-durante-junio-para-promover-la-movilidad-sostenible/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una alianza público-privada para conservar y potenciar la Laguna de Las Madres, en Huelva",
-      "url": "https://efeverde.com/laguna-de-las-madres-en-huelva/",
-      "fecha": "2026-06-04",
+      "titular": "Día Mundial del Medioambiente: Instituciones y organizaciones ecologistas renuevan sus compromisos y demandas",
+      "url": "https://efeverde.com/dia-mundial-del-medioambiente/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "30.229 hectáreas ya quemadas en 2026, casi el cuádruple que en el mismo periodo de 2025",
-      "url": "https://efeverde.com/hectareas-ya-quemadas-en-2026/",
-      "fecha": "2026-06-04",
+      "titular": "El lince ibérico sigue recuperándose y aumentó hasta los 2.663 ejemplares en 2025",
+      "url": "https://efeverde.com/el-lince-iberico-sigue-recuperandose/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un enfoque interdisciplinar, clave para la acción frente a la emergencia climática. Por (*) Varios autores",
-      "url": "https://efeverde.com/un-enfoque-interdisciplinar-clave-para-la-accion-frente-a-la-emergencia-climatica/",
-      "fecha": "2026-06-04",
+      "titular": "‘El crimen del váter: la toallita húmeda, culpable’, una curiosa campaña de concienciación lanzada en Málaga",
+      "url": "https://efeverde.com/el-crimen-del-vater-la-toallita-humeda-culpable-campana-de-concienciacion-malaga/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El proyecto Wetlands4Climate, galardonado en los premios LIFE Award 2026",
-      "url": "https://efeverde.com/el-proyecto-wetlands4climate-ha-sido-galardonado-con-el-premio-life-award-2026-en-la-categoria-de-accion-climatica/",
-      "fecha": "2026-06-04",
+      "titular": "Victoria ambiental histórica: los manglares del mundo recuperan la superficie perdida",
+      "url": "https://efeverde.com/victoria-ambiental-historica-los-manglares-del-mundo-recuperan-la-superficie-perdida/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Tierra nos da un ultimátum. Por María García de la Fuente (presidenta de APIA)",
-      "url": "https://efeverde.com/la-tierra-nos-da-un-ultimatum-por-maria-garcia-de-la-fuente-presidenta-de-apia/",
-      "fecha": "2026-06-04",
+      "titular": "En España hay más de 15 millones de animales de compañía, tras aumentar un 14 % en 5 años",
+      "url": "https://efeverde.com/espana-animales-de-compania/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las «moléculas verdes» podrían  recortar un 50 % la dependencia fósil de la UE",
-      "url": "https://efeverde.com/las-moleculas-verdes-podrian-recortar-un-50-la-dependencia-fosil-de-la-ue/",
-      "fecha": "2026-06-04",
+      "titular": "Decomisan en Australia 100.000 cucarachas exóticas, algunas gigantes, valoradas en 120.000 euros",
+      "url": "https://efeverde.com/decomisan-en-australia-cucarachas-exoticas/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Día del Medioambiente 2026, una llamada de emergencia para la acción climática",
-      "url": "https://efeverde.com/el-dia-del-medioambiente-2026-una-llamada-de-emergencia-para-la-accion-climatica/",
-      "fecha": "2026-06-04",
+      "titular": "Sostenibilidad ambiental: del querer hacer al saber hacer. Por Cristina Sánchez (directora ejecutiva Pacto Mundial ONU España)",
+      "url": "https://efeverde.com/sostenibilidad-ambiental-del-querer-hacer-al-saber-hacer-por-cristina-sanchez/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La directora de la Aemet reivindica la neutralidad y el rigor científico como pilares de la agencia",
-      "url": "https://efeverde.com/directora-de-aemet-reivindica-neutralidad-y-rigor-cientifico/",
-      "fecha": "2026-06-04",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Día Mundial del Medio Ambiente: avances concretos en calidad del aire, biodiversidad, economía circular y acción climática",
+      "url": "https://mma.gob.cl/dia-mundial-del-medio-ambiente-avances-concretos-en-calidad-del-aire-biodiversidad-economia-circular-y-accion-climatica/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La Retorna, ¿restauración fluvial o conservación del patrimonio?",
-      "url": "https://efeverde.com/la-retorna-restauracion-fluvial-o-conservacion-del-patrimonio/",
-      "fecha": "2026-06-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
-      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
-      "fecha": "2026-06-04",
+      "fuente": "La Segunda",
+      "titular": "El debut del ministro Arrau",
+      "url": "https://www.lasegunda.com/Noticias/Opinion/2026/06/1113667/ministro-arrau-seguridad",
+      "fecha": "2026-06-05",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
-      "url": "https://www.df.cl/empresas/medio-ambiente/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un",
-      "fecha": "2026-06-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto minero",
-      "url": "https://www.mch.cl/tribunal-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-minero/",
-      "fecha": "2026-06-04",
+      "fuente": "REDIMIN",
+      "titular": "“Tren de sismos” en O’Higgins: secuencia frente a Navidad no anticipa por sí sola un terremoto mayor",
+      "url": "https://www.redimin.cl/tren-de-sismos-en-ohiggins-secuencia-frente-a-navidad-no-anticipa-por-si-sola-un-terremoto-mayor",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental aprueba ajustes al plan de reparación por daño ambiental asociado a Pascua Lama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-aprueba-ajustes-al-plan-de-reparacion-por-dano-ambiental-asociado-a-pascua-lama/",
+      "titular": "Tribunal Ambiental abre proceso por demanda de habitantes de Tierra Amarilla contra el Estado y empresas mineras",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-abre-proceso-por-demanda-de-habitantes-de-tierra-amarilla-contra-el-estado-y-empresas-mineras/",
+      "fecha": "2026-06-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "AZA invierte US$ 15 millones y aumenta su capacidad de laminación en la Planta Colina hasta 400 mil toneladas",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/aza-invierte-us-15-millones-y-aumenta-su-capacidad-de-laminacion-en-la-planta-colina-hasta-400-mil-toneladas/",
       "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Vuelve el Premio Territorio Circular en su 4ª versión para destacar modelos de negocio sostenibles",
-      "url": "https://www.paiscircular.cl/economia-circular/vuelve-el-premio-territorio-circular-en-su-4a-version-para-destacar-modelos-de-negocio-sostenibles/",
-      "fecha": "2026-06-03",
+      "titular": "Lanzan convocatoria de Conserva Aves en Chile para financiar la creación, ampliación y homologación de áreas protegidas privadas",
+      "url": "https://www.paiscircular.cl/biodiversidad/lanzan-convocatoria-de-conserva-aves-en-chile-para-financiar-la-creacion-ampliacion-y-homologacion-de-areas-protegidas-privadas/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Reactivación del tratado minero entre Chile y Argentina reabre debate por riesgos a glaciares y fuentes de agua",
-      "url": "https://codexverde.cl/reactivacion-del-tratado-minero-entre-chile-y-argentina-reabre-debate-por-riesgos-a-glaciares-y-fuentes-de-agua/",
-      "fecha": "2026-06-03",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "1/2 Ambiente",
+      "url": "https://www.chiledesarrollosustentable.cl/1-2-ambiente/?utm_source=rss&utm_medium=rss&utm_campaign=1-2-ambiente",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Informe revela que consumo de combustibles fósiles en Chile aumentó un 29% desde el 2000",
-      "url": "https://codexverde.cl/consumo-de-combustibles-fosiles-aumento-un-29-desde-el-2000/",
-      "fecha": "2026-06-03",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "LA HUELLA QUE DEJA EL LITIO DE LAS BATERÍAS EN LOS OCÉANOS",
+      "url": "https://www.chiledesarrollosustentable.cl/la-huella-que-deja-el-litio-de-las-baterias-en-los-oceanos/?utm_source=rss&utm_medium=rss&utm_campaign=la-huella-que-deja-el-litio-de-las-baterias-en-los-oceanos",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las celdas reales, una estructura única y esencial para el desarrollo de las abejas reina",
-      "url": "https://efeverde.com/celdas-reales-desarrollo-de-abejas-reina/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Mayo concluye con 101 muertes asociadas al calor, la cifra más alta desde 2015",
-      "url": "https://efeverde.com/mayo-muertes-asociadas-al-calor/",
-      "fecha": "2026-06-03",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "MASISA ES RECONOCIDA EN EL DOW JONES BEST IN CLASS MILA Y CONSOLIDA SU LIDERAZGO EN SOSTENIBILIDAD",
+      "url": "https://www.chiledesarrollosustentable.cl/masisa-es-reconocida-en-el-dow-jones-best-in-class-mila-y-consolida-su-liderazgo-en-sostenibilidad/?utm_source=rss&utm_medium=rss&utm_campaign=masisa-es-reconocida-en-el-dow-jones-best-in-class-mila-y-consolida-su-liderazgo-en-sostenibilidad",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Recuperando pinzones. Por May",
-      "url": "https://efeverde.com/recuperando-pinzones-may-mundomay/",
-      "fecha": "2026-06-03",
+      "titular": "Los bosques mediterráneos emiten un contaminante asociado al tráfico durante las olas de calor",
+      "url": "https://efeverde.com/bosques-mediterraneos-contaminante-asociado-trafico-durante-olas-de-calor/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "‘El agua también nos une’:  Nueva campaña para promover el ahorro de agua durante el Mundial de 2026 en México",
+      "url": "https://efeverde.com/ahorro-de-agua-durante-el-mundial-de-2026-en-mexico/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Colombia declara Sierra Nevada de Santa Marta como zona de reserva permanente",
+      "url": "https://efeverde.com/gobierno-colombiano-declara-a-sierra-nevada-de-santa-marta-como-zona-de-reserva-permanente/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "El optimismo de Kast en la aprobación de proyectos inversión",
+      "url": "https://www.terram.cl/el-optimismo-de-kast-en-la-aprobacion-de-proyectos-inversion/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
+      "url": "https://www.terram.cl/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un-acuerdo-asociado-a-su-institucionalidad/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Agilizar inversión como único foco: Critican nula mención a naturaleza y cambio climático en la Cuenta Pública",
+      "url": "https://www.terram.cl/agilizar-inversion-como-unico-foco-critican-nula-mencion-a-naturaleza-y-cambio-climatico-en-la-cuenta-publica/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Idea es facilitar las iniciativas privadas: Esto plantea el primer proyecto minero del presidente Kast",
+      "url": "https://www.terram.cl/idea-es-facilitar-las-iniciativas-privadas-esto-plantea-el-primer-proyecto-minero-del-presidente-kast/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Red Ambiental Ciudadana de Osorno ingresa denuncias por contaminación en el río Damas",
+      "url": "https://www.terram.cl/red-ambiental-ciudadana-de-osorno-ingresa-denuncias-por-contaminacion-en-el-rio-damas/",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Timaukel y el desafío de consolidarse en el mapa turístico de Tierra del Fuego",
+      "url": "https://www.terram.cl/timaukel-y-el-desafio-de-consolidarse-en-el-mapa-turistico-de-tierra-del-fuego/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Se aprueba modificación de acuerdo conciliatorio por daño ambiental en proyecto Pascua Lama",
-      "url": "https://www.1ta.cl/se-aprueba-modificacion-de-acuerdo-conciliatorio-por-dano-ambiental-en-proyecto-pascua-lama/",
-      "fecha": "2026-06-03",
+      "titular": "Se acoge a trámite demanda por daño ambiental presentada por habitantes de Tierra Amarilla en contra del Estado y empresas mineras de la zona",
+      "url": "https://www.1ta.cl/se-acoge-a-tramite-demanda-por-dano-ambiental-presentada-por-habitantes-de-tierra-amarilla-en-contra-del-estado-y-empresas-mineras-de-la-zona/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-44-2025 “Comunidad Indígena PU WAPI con Dirección Ejecutiva del Servicio de Evaluación Ambiental»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-44-2025-comunidad-indigena-pu-wapi-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para proveer el cargo de profesional de apoyo escalafon profesional a contrata asimilado a grado 15 de la e u s para la unidad de acuicultura oficina de castro de la dr",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-proveer-el-cargo-de-profesional-de-apoyo-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-unidad-de-acuicultura-oficina-de-castro-de-la-dr/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "La Araucanía refuerza preparación ante incendios forestales e inicia trabajo preventivo para periodo 2026-2027",
-      "url": "https://www.conaf.cl/la-araucania-refuerza-preparacion-ante-incendios-forestales-e-inicia-trabajo-preventivo-para-periodo-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=la-araucania-refuerza-preparacion-ante-incendios-forestales-e-inicia-trabajo-preventivo-para-periodo-2026-2027",
-      "fecha": "2026-06-03",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental realizará capacitaciones sobre acceso a la justicia ambiental en La Serena y Copiapó",
+      "url": "https://www.1ta.cl/primer-tribunal-ambiental-realizara-capacitaciones-sobre-acceso-a-la-justicia-ambiental-en-la-serena-y-copiapo/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Buscan mejorar el manejo sostenible de cactácea palos de lluvia en la Región de Coquimbo",
-      "url": "https://www.conaf.cl/buscan-mejorar-el-manejo-sostenible-de-cactacea-palos-de-lluvia-en-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=buscan-mejorar-el-manejo-sostenible-de-cactacea-palos-de-lluvia-en-la-region-de-coquimbo",
-      "fecha": "2026-06-03",
+      "titular": "Certifican a docentes de la Escuela Batalla del Roble en prevención de incendios forestales",
+      "url": "https://www.conaf.cl/certifican-a-docentes-de-la-escuela-batalla-del-roble-en-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=certifican-a-docentes-de-la-escuela-batalla-del-roble-en-prevencion-de-incendios-forestales",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Estudiantes de ingeniería forestal aprenden sobre manejo integrado de plagas forestales",
+      "url": "https://www.conaf.cl/estudiantes-de-ingenieria-forestal-aprenden-sobre-manejo-integrado-de-plagas-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-de-ingenieria-forestal-aprenden-sobre-manejo-integrado-de-plagas-forestales",
+      "fecha": "2026-06-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Alianza forestal entre Perú y Chile impulsa la economía sostenible y el mercado de carbono",
+      "url": "https://www.conaf.cl/alianza-forestal-entre-peru-y-chile-impulsa-la-economia-sostenible-y-el-mercado-de-carbono/?utm_source=rss&utm_medium=rss&utm_campaign=alianza-forestal-entre-peru-y-chile-impulsa-la-economia-sostenible-y-el-mercado-de-carbono",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "48 Establecimientos educacionales de la región de Valparaíso se certificaron ambientalmente por el Ministerio de Medio Ambiente",
-      "url": "https://mma.gob.cl/48-establecimientos-educacionales-de-la-region-de-valparaiso-se-certificaron-ambientalmente-por-el-ministerio-de-medio-ambiente/",
-      "fecha": "2026-06-03",
+      "titular": "Ministra Toledo entrega sellos ambientales a más de 120 establecimientos educacionales y municipios de La Araucanía",
+      "url": "https://mma.gob.cl/ministra-toledo-entrega-sellos-ambientales-a-mas-de-120-establecimientos-educacionales-y-municipios-de-la-araucania/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Consejo Nacional de Escazú conoce resultados de la COP4 y avanza en propuesta para convocar a su primer Grupo Ampliado Público-Privado",
-      "url": "https://mma.gob.cl/consejo-nacional-de-escazu-conoce-resultados-de-la-cop4-y-avanza-en-propuesta-para-convocar-a-su-primer-grupo-ampliado-publico-privado/",
-      "fecha": "2026-06-03",
+      "titular": "Seremi del Medio Ambiente invita al Taller del Sistema de Compensación de Emisiones – Región Atacama",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-al-taller-del-sistema-de-compensacion-de-emisiones-region-atacama/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mil familias de Aysén avanzan en compostaje domiciliario para reducir sus residuos orgánicos",
-      "url": "https://mma.gob.cl/1-000-familias-de-aysen-avanzan-en-compostaje-domiciliario-para-reducir-sus-residuos-organicos/",
-      "fecha": "2026-06-03",
+      "titular": "SMA Fiscaliza comercialización de leña seca en Coyhaique para reforzar medidas del Plan de Descontaminación Atmosférica",
+      "url": "https://mma.gob.cl/sma-fiscaliza-comercializacion-de-lena-seca-en-coyhaique-para-reforzar-medidas-del-plan-de-descontaminacion-atmosferica/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Región de Coquimbo avanza en economía circular con foco en gestión de residuos",
-      "url": "https://mma.gob.cl/region-de-coquimbo-avanza-en-economia-circular-con-foco-en-gestion-de-residuos/",
-      "fecha": "2026-06-03",
+      "titular": "Autoridades regionales y comunales coordinan acciones para dar sostenibilidad a la Ruta Patrimonial Costera La Higuera – Freirina",
+      "url": "https://mma.gob.cl/autoridades-regionales-y-comunales-coordinan-acciones-para-dar-sostenibilidad-a-la-ruta-patrimonial-costera-la-higuera-freirina/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Medio Ambiente y CONAF realizan charlas de educación ambiental y prevención de incendios en escuela de Viña del Mar",
-      "url": "https://mma.gob.cl/realizan-charla-de-educacion-ambiental-en-escuela-basica-luisa-nieto-hamel/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Más escuela",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/mas-escuela/",
-      "fecha": "2026-06-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Cuidar la piel en invierno",
-      "url": "https://www.latercera.com/paula/noticia/cuidar-la-piel-en-invierno/",
-      "fecha": "2026-06-03",
+      "titular": "Día Mundial del Medio Ambiente: Conciencia, Compromiso y Acción",
+      "url": "https://mma.gob.cl/dia-mundial-del-medio-ambiente-conciencia-compromiso-y-accion/",
+      "fecha": "2026-06-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
