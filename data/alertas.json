@@ -1,65 +1,53 @@
 {
-  "fecha_generacion": "2026-06-05T10:08:22.851847-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-06-06T08:21:39.449519-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental abre proceso por demanda de habitantes de Tierra Amarilla contra el Estado y empresas mineras",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-abre-proceso-por-demanda-de-habitantes-de-tierra-amarilla-contra-el-estado-y-empresas-mineras/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «. Rol: R-32-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
       "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La acción judicial busca determinar la existencia de un eventual daño ambiental asociado a depósitos y residuos mineros emplazados en sectores cercanos a zonas habitadas de la comuna de Atacama. El Primer Tribunal Ambiental admitió a trámite una dema",
+      "extracto": "Con fecha 05 de junio de 2026, admítase a trámite la Reclamación identificada como Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental . (Rol R-32-2026). Acceda al expediente electrónico de la causa en el siguiente link: En",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Servicio de Evaluación Ambiental"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Diputados aprueban en general reforma al SEIA y gobierno busca alcanzar un acuerdo asociado a su institucionalidad",
-      "url": "https://www.terram.cl/diputados-aprueban-en-general-reforma-al-seia-y-gobierno-busca-alcanzar-un-acuerdo-asociado-a-su-institucionalidad/",
-      "fecha": "2026-06-04",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Reforma al SEIA: Comisión de la Cámara fija plazo para presentación de indicaciones",
+      "url": "https://www.mch.cl/reforma-al-seia-comision-de-la-camara-fija-plazo-para-presentacion-de-indicaciones/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Previo a lograr luz verde en un estrecho margen, la ministra del Medio Ambiente, instó a que parte del desafío que le corresponde a la comisión del ramo \"es poder definir cuál será esa institucionalidad que finalmente se va a hacer cargo de la evalua",
+      "extracto": "El texto, en segundo trámite, introduce elementos más técnicos y predecibles en el proceso de evaluación. La entrada Reforma al SEIA: Comisión de la Cámara fija plazo para presentación de indicaciones se publicó primero en Mch .",
       "keywords_detectadas": [
         "SEIA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se acoge a trámite demanda por daño ambiental presentada por habitantes de Tierra Amarilla en contra del Estado y empresas mineras de la zona",
-      "url": "https://www.1ta.cl/se-acoge-a-tramite-demanda-por-dano-ambiental-presentada-por-habitantes-de-tierra-amarilla-en-contra-del-estado-y-empresas-mineras-de-la-zona/",
-      "fecha": "2026-06-04",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Habitantes de Tierra Amarilla presentan demanda por daño ambiental contra el Estado y mineras",
+      "url": "https://www.mch.cl/habitantes-de-tierra-amarilla-presentan-demanda-por-dano-ambiental-contra-el-estado-y-mineras/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La acción judicial por daño ambiental fue interpuesta por habitantes de Tierra Amarilla, quienes afirman que la existencia de botaderos, acopios y depósitos de residuos mineros que se encuentra ubicados no solo en las cercanías, sino que también dent",
+      "extracto": "La acción judicial apunta a la existencia de depósitos de residuos mineros cercanos a la comuna, lo que habrían provocado la afectación al medio ambiente y a la población. La entrada Habitantes de Tierra Amarilla presentan demanda por daño ambiental ",
       "keywords_detectadas": [
         "daño ambiental"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental realizará capacitaciones sobre acceso a la justicia ambiental en La Serena y Copiapó",
-      "url": "https://www.1ta.cl/primer-tribunal-ambiental-realizara-capacitaciones-sobre-acceso-a-la-justicia-ambiental-en-la-serena-y-copiapo/",
-      "fecha": "2026-06-04",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Reforma al SEIA: Comisión de la Cámara aprueba en general proyecto para fortalecer la institucionalidad ambiental",
+      "url": "https://www.revistaei.cl/reforma-al-seia-comision-de-la-camara-aprueba-en-general-proyecto-para-fortalecer-la-institucionalidad-ambiental/",
+      "fecha": "2026-06-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Como parte de las acciones comprometidas para fortalecer el acceso a la justicia ambiental y contribuir a la implementación del Acuerdo de Escazú en Chile, el Primer Tribunal Ambiental desarrollará jornadas de capacitación en las regiones de Coquimbo",
+      "extracto": "El texto, en segundo trámite, introduce elementos más técnicos y predecibles en el proceso de evaluación. La entrada Reforma al SEIA: Comisión de la Cámara aprueba en general proyecto para fortalecer la institucionalidad ambiental se publicó primero ",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SMA Fiscaliza comercialización de leña seca en Coyhaique para reforzar medidas del Plan de Descontaminación Atmosférica",
-      "url": "https://mma.gob.cl/sma-fiscaliza-comercializacion-de-lena-seca-en-coyhaique-para-reforzar-medidas-del-plan-de-descontaminacion-atmosferica/",
-      "fecha": "2026-06-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con el objetivo de contribuir a una mejor calidad del aire durante el período de Gestión de Episodios Críticos (GEC), […]",
-      "keywords_detectadas": [
-        "SMA"
+        "SEIA"
       ]
     }
   ]
