@@ -1,325 +1,69 @@
 {
-  "fecha_actualizacion": "2026-06-06T08:21:39.433444-04:00",
-  "total": 40,
+  "fecha_actualizacion": "2026-06-07T08:34:58.694714-04:00",
+  "total": 8,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "La FIFA prohíbe a los aficionados llevar botellas de agua reutilizables a los estadios del Mundial",
-      "url": "https://efeverde.com/la-fifa-prohibe-a-los-aficionados-llevar-botellas-de-agua-reutilizables-a-los-estadios-del-mundial/",
-      "fecha": "2026-06-06",
+      "titular": "El desafío logístico que definirá el futuro de la energía solar. Por Marta Ruiz",
+      "url": "https://efeverde.com/el-desafio-logistico-que-definira-el-futuro-de-la-energia-solar-por-marta-ruiz/",
+      "fecha": "2026-06-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Crean el primer sistema global para detectar sequías de viento, fenómeno que lastra la producción eólica",
-      "url": "https://efeverde.com/crean-el-primer-sistema-global-para-detectar-sequias-de-viento-fenomeno-que-lastra-la-produccion-eolica/",
-      "fecha": "2026-06-06",
+      "titular": "Dr. Olea: La exposición a tóxicos es causa evitable de enfermedades cada vez más tempranas",
+      "url": "https://efeverde.com/dr-olea-la-exposicion-a-toxicos-es-causa-evitable-de-enfermedades-cada-vez-mas-tempranas/",
+      "fecha": "2026-06-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Unesco declara 14 nuevas reservas de la biosfera en el mundo",
-      "url": "https://efeverde.com/la-unesco-declara-14-nuevas-reservas-de-la-biosfera-en-el-mundo/",
+      "titular": "La «revolución del flamenco» sacude Albania contra los megaproyectos de la familia Trump",
+      "url": "https://efeverde.com/la-revolucion-del-flamenco-sacude-albania-contra-los-megaproyectos-de-la-familia-trump/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Siete libros en calve «verde» para esta Feria del Libro de Madrid",
+      "url": "https://efeverde.com/siete-libros-en-calve-verde-para-esta-feria-del-libro-de-madrid/",
       "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "MINISTRA TOLEDO ENTREGA SELLOS AMBIENTALES A MÁS DE 120 ESTABLECIMIENTOS EDUCACIONALES Y MUNICIPIOS DE LA ARAUCANÍA",
-      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-entrega-sellos-ambientales-a-mas-de-120-establecimientos-educacionales-y-municipios-de-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-entrega-sellos-ambientales-a-mas-de-120-establecimientos-educacionales-y-municipios-de-la-araucania",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "LA MEJOR TECNOLOGÍA SIGUE SIENDO EL SER HUMANO",
-      "url": "https://www.chiledesarrollosustentable.cl/la-mejor-tecnologia-sigue-siendo-el-ser-humano/?utm_source=rss&utm_medium=rss&utm_campaign=la-mejor-tecnologia-sigue-siendo-el-ser-humano",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Día Mundial del Medio Ambiente 2026: CIENCIA, DATOS E INFRAESTRUCTURA NATURAL PARA BLINDAR EL TERRITORIO",
-      "url": "https://www.chiledesarrollosustentable.cl/dia-mundial-del-medio-ambiente-2026-ciencia-datos-e-infraestructura-natural-para-blindar-el-territorio/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-del-medio-ambiente-2026-ciencia-datos-e-infraestructura-natural-para-blindar-el-territorio",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Menos papel y energía 100% renovable: BCI PONE LA ECOEFICIENCIA AL CENTRO DE SU ESTRATEGIA POR EL MEDIO AMBIENTE",
-      "url": "https://www.chiledesarrollosustentable.cl/menos-papel-y-energia-100-renovable-bci-pone-la-ecoeficiencia-al-centro-de-su-estrategia-por-el-medio-ambiente/?utm_source=rss&utm_medium=rss&utm_campaign=menos-papel-y-energia-100-renovable-bci-pone-la-ecoeficiencia-al-centro-de-su-estrategia-por-el-medio-ambiente",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Del compromiso a la acción: las universidades que están sembrando el Chile sostenible del futuro",
-      "url": "https://codexverde.cl/del-compromiso-a-la-accion-las-universidades-que-estan-sembrando-el-chile-sostenible-del-futuro/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Lanzan en Chile la primera convocatoria de Conserva Aves para financiar áreas protegidas comunitarias",
-      "url": "https://codexverde.cl/convocatoria-de-conserva-aves-para-financiar-areas-protegidas/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Opinión: Débil futuro de la institucionalidad ambiental (La Tercera)",
-      "url": "https://www.cr2.cl/opinion-debil-futuro-de-la-institucionalidad-ambiental-la-tercera/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Opinión: El futuro se decide desde los territorios",
-      "url": "https://www.cr2.cl/opinion-el-futuro-se-decide-desde-los-territorios/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Especialistas nacionales e internacionales analizaron los desafíos de la contaminación atmosférica en la región",
-      "url": "https://www.cr2.cl/especialistas-nacionales-e-internacionales-analizaron-los-desafios-de-la-contaminacion-atmosferica-en-la-region/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Relocalizaciones como premio a una industria que no respeta la ley",
-      "url": "https://www.terram.cl/relocalizaciones-como-premio-a-una-industria-que-no-respeta-la-ley/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "La inacción climática podría costar 250.000 vidas y un 4% del PIB global cada año hasta 2050",
-      "url": "https://www.terram.cl/la-inaccion-climatica-podria-costar-250-000-vidas-y-un-4-del-pib-global-cada-ano-hasta-2050/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ministerio de Medio Ambiente evita comprometer recursos al plan de contaminación del Lago Villarrica",
-      "url": "https://www.terram.cl/ministerio-de-medio-ambiente-evita-comprometer-recursos-al-plan-de-contaminacion-del-lago-villarrica/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "“Super El Niño”: los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
-      "url": "https://www.terram.cl/super-el-nino-los-graficos-que-muestran-por-que-puede-ser-el-fenomeno-mas-extremo-en-decadas-y-cuales-serian-sus-efectos/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Calentamiento global dispersa a las aves marinas y afecta la pesca",
-      "url": "https://www.terram.cl/calentamiento-global-dispersa-a-las-aves-marinas-y-afecta-la-pesca/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Huillín, pudú, picaflor de Arica y ranita de Darwin: las especies nativas de Chile que están desapareciendo",
-      "url": "https://www.terram.cl/huillin-pudu-picaflor-de-arica-y-ranita-de-darwin-las-especies-nativas-de-chile-que-estan-desapareciendo/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "El falso dilema del progreso",
-      "url": "https://www.fima.cl/2026/06/05/el-falso-dilema-del-progreso/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Dichos de la ministra del Medio Ambiente",
-      "url": "https://www.fima.cl/2026/06/05/dichos-de-la-ministra-del-medio-ambiente/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Reclamación de comunidad indígena Quechua contra aprobación de proyecto fotovoltaico es acogida a trámite",
-      "url": "https://www.1ta.cl/reclamacion-de-comunidad-indigena-quechua-contra-aprobacion-de-proyecto-fotovoltaico-es-acogida-a-tramite/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «. Rol: R-32-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "CONAF",
-      "titular": "Proyecto +Bosques ha beneficiado a más de siete mil propietarios y familias de bosque nativo en Chile",
-      "url": "https://www.conaf.cl/proyecto-bosques-ha-beneficiado-a-mas-de-siete-mil-propietarios-y-familias-de-bosque-nativo-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=proyecto-bosques-ha-beneficiado-a-mas-de-siete-mil-propietarios-y-familias-de-bosque-nativo-en-chile",
-      "fecha": "2026-06-05",
+      "titular": "CONAF lanza libro que recoge historias de conservación de los guardaparques y el trabajo junto a comunidades",
+      "url": "https://www.conaf.cl/conaf-lanza-libro-que-recoge-historias-de-conservacion-de-los-guardaparques-y-el-trabajo-junto-a-comunidades/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-lanza-libro-que-recoge-historias-de-conservacion-de-los-guardaparques-y-el-trabajo-junto-a-comunidades",
+      "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "Tres escaladores de montaña llegaron hasta la cumbre más alta del Parque Nacional Torres del Paine",
-      "url": "https://www.conaf.cl/tres-escaladores-de-montana-llegaron-hasta-la-cumbre-mas-alta-del-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=tres-escaladores-de-montana-llegaron-hasta-la-cumbre-mas-alta-del-parque-nacional-torres-del-paine",
-      "fecha": "2026-06-05",
+      "fuente": "La Tercera",
+      "titular": "Un foso en La pérgola de las flores",
+      "url": "https://www.latercera.com/opinion/noticia/un-foso-en-la-pergola-de-las-flores/",
+      "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF reabre la Reserva Nacional El Yali tras cierre preventivo por la amenaza de la influenza aviar",
-      "url": "https://www.conaf.cl/conaf-reabre-la-reserva-nacional-el-yali-tras-cierre-preventivo-por-la-amenaza-de-la-influenza-aviar/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-reabre-la-reserva-nacional-el-yali-tras-cierre-preventivo-por-la-amenaza-de-la-influenza-aviar",
-      "fecha": "2026-06-05",
+      "fuente": "La Tercera",
+      "titular": "Jefe de bancada DC señala que “no existen los méritos suficientes para adherirse” a la AC contra Grau",
+      "url": "https://www.latercera.com/politica/noticia/jefe-de-bancada-dc-senala-que-no-existen-los-meritos-suficientes-para-adherirse-a-la-ac-contra-grau/",
+      "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "DGA - MOP",
-      "titular": "DGA Biobío y SENAPRED capacitan a equipos comunales de emergencia en meteorología e hidrología aplicada",
-      "url": "https://dga.mop.gob.cl/dga-biobio-y-senapred-capacitan-a-equipos-comunales-de-emergencia-en-meteorologia-e-hidrologia-aplicada/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente llama a aumentar la acción ambiental en las escuelas, trabajos y en los barrios",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-llama-a-aumentar-la-accion-ambiental-en-las-escuelas-trabajos-y-en-los-barrios/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En el Día del Medio Ambiente: Seremi Jovanka Rendic encabeza en Coquimbo el cierre de la gira educativa “Recicla Kids”",
-      "url": "https://mma.gob.cl/en-el-dia-del-medio-ambiente-seremi-jovanka-rendic-encabeza-en-coquimbo-el-cierre-de-la-gira-educativa-recicla-kids/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En el Día Mundial del Medio Ambiente destacan proyecto de conservación liderado por estudiantes",
-      "url": "https://mma.gob.cl/en-el-dia-mundial-del-medio-ambiente-destacan-proyecto-de-conservacion-liderado-por-estudiantes/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Con reforestación de árboles nativos y charla ambiental el Consejo Consultivo Regional de Medio Ambiente celebra la semana del medio ambiente en Jardín Botánico de Viña del Mar",
-      "url": "https://mma.gob.cl/con-reforestacion-de-arboles-nativos-y-charla-ambiental-el-consejo-consultivo-regional-de-medio-ambiente-celebra-la-semana-del-medio-ambiente-en-jardin-botanico-de-vina-del-mar/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seis establecimientos educacionales de Punta Arenas recibieron la Certificación Ambiental Escolar",
-      "url": "https://mma.gob.cl/seis-establecimientos-educacionales-de-punta-arenas-recibieron-la-certificacion-ambiental-escolar/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Más de 30 mujeres se certifican en conducción de buses eléctricos en el día del Medio Ambiente en Atacama",
-      "url": "https://mma.gob.cl/mas-de-30-mujeres-se-certifican-en-conduccion-de-buses-electricos-en-el-dia-del-medio-ambiente-en-atacama/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "“Sacamos la oficina a la calle”: SEREMI del Medio Ambiente conmemoró el Día Mundial del Medio Ambiente en el centro de Concepción",
-      "url": "https://mma.gob.cl/sacamos-la-oficina-a-la-calle-seremi-del-medio-ambiente-conmemoro-el-dia-mundial-del-medio-ambiente-en-el-centro-de-concepcion/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Funcionari@s públicos y docentes fortalecen su compromiso con la conservación de especies amenazadas en seminario sobre Planes RECOGE",
-      "url": "https://mma.gob.cl/funcionaris-publicos-y-docentes-fortalecen-su-compromiso-con-la-conservacion-de-especies-amenazadas-en-seminario-sobre-planes-recoge/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Día Mundial del Medio Ambiente: inicia temporada de reforestación en Parquemet junto a niños y jóvenes forjadores ambientales",
-      "url": "https://mma.gob.cl/dia-mundial-del-medio-ambiente-inicia-temporada-de-reforestacion-en-parquemet-junto-a-ninos-y-jovenes-forjadores-ambientales/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Mayo registra récord histórico en monto de proyectos aprobados ambientalmente",
-      "url": "https://www.mch.cl/mayo-registra-record-historico-en-monto-de-proyectos-aprobados-ambientalmente/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Reforma al SEIA: Comisión de la Cámara fija plazo para presentación de indicaciones",
-      "url": "https://www.mch.cl/reforma-al-seia-comision-de-la-camara-fija-plazo-para-presentacion-de-indicaciones/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Habitantes de Tierra Amarilla presentan demanda por daño ambiental contra el Estado y mineras",
-      "url": "https://www.mch.cl/habitantes-de-tierra-amarilla-presentan-demanda-por-dano-ambiental-contra-el-estado-y-mineras/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Mayo marca récord histórico de inversión aprobada con relevante componente energético",
-      "url": "https://www.revistaei.cl/mayo-marca-record-historico-de-inversion-aprobada-con-relevante-componente-energetico/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Reforma al SEIA: Comisión de la Cámara aprueba en general proyecto para fortalecer la institucionalidad ambiental",
-      "url": "https://www.revistaei.cl/reforma-al-seia-comision-de-la-camara-aprueba-en-general-proyecto-para-fortalecer-la-institucionalidad-ambiental/",
-      "fecha": "2026-06-05",
+      "fuente": "REDIMIN",
+      "titular": "SEA informa récord histórico: mayo aprobó proyectos ambientales por US$13.962 millones",
+      "url": "https://www.redimin.cl/sea-informa-record-historico-mayo-aprobo-proyectos-ambientales-por-us13-962-millones",
+      "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

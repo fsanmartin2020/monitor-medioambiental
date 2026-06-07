@@ -1,53 +1,17 @@
 {
-  "fecha_generacion": "2026-06-06T08:21:39.449519-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-07T08:34:58.707611-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «. Rol: R-32-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
-      "fecha": "2026-06-05",
+      "fuente": "REDIMIN",
+      "titular": "SEA informa récord histórico: mayo aprobó proyectos ambientales por US$13.962 millones",
+      "url": "https://www.redimin.cl/sea-informa-record-historico-mayo-aprobo-proyectos-ambientales-por-us13-962-millones",
+      "fecha": "2026-06-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con fecha 05 de junio de 2026, admítase a trámite la Reclamación identificada como Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental . (Rol R-32-2026). Acceda al expediente electrónico de la causa en el siguiente link: En",
+      "extracto": "Mayo de 2026 registró un récord histórico en Chile con proyectos aprobados por un total de US$13.962 millones en el Sistema de Evaluación de Impacto Ambiental, superando en más del 60% el máximo anterior.",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Reforma al SEIA: Comisión de la Cámara fija plazo para presentación de indicaciones",
-      "url": "https://www.mch.cl/reforma-al-seia-comision-de-la-camara-fija-plazo-para-presentacion-de-indicaciones/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El texto, en segundo trámite, introduce elementos más técnicos y predecibles en el proceso de evaluación. La entrada Reforma al SEIA: Comisión de la Cámara fija plazo para presentación de indicaciones se publicó primero en Mch .",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Habitantes de Tierra Amarilla presentan demanda por daño ambiental contra el Estado y mineras",
-      "url": "https://www.mch.cl/habitantes-de-tierra-amarilla-presentan-demanda-por-dano-ambiental-contra-el-estado-y-mineras/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La acción judicial apunta a la existencia de depósitos de residuos mineros cercanos a la comuna, lo que habrían provocado la afectación al medio ambiente y a la población. La entrada Habitantes de Tierra Amarilla presentan demanda por daño ambiental ",
-      "keywords_detectadas": [
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Reforma al SEIA: Comisión de la Cámara aprueba en general proyecto para fortalecer la institucionalidad ambiental",
-      "url": "https://www.revistaei.cl/reforma-al-seia-comision-de-la-camara-aprueba-en-general-proyecto-para-fortalecer-la-institucionalidad-ambiental/",
-      "fecha": "2026-06-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El texto, en segundo trámite, introduce elementos más técnicos y predecibles en el proceso de evaluación. La entrada Reforma al SEIA: Comisión de la Cámara aprueba en general proyecto para fortalecer la institucionalidad ambiental se publicó primero ",
-      "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     }
   ]
