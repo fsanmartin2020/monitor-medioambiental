@@ -1,69 +1,245 @@
 {
-  "fecha_actualizacion": "2026-06-07T08:34:58.694714-04:00",
-  "total": 8,
+  "fecha_actualizacion": "2026-06-08T11:25:11.489705-04:00",
+  "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "El desafío logístico que definirá el futuro de la energía solar. Por Marta Ruiz",
-      "url": "https://efeverde.com/el-desafio-logistico-que-definira-el-futuro-de-la-energia-solar-por-marta-ruiz/",
-      "fecha": "2026-06-07",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Inteligencias para el futuro: EL VALOR DE LO HUMANO EN TIEMPOS DE IA",
+      "url": "https://www.chiledesarrollosustentable.cl/inteligencias-para-el-futuro-el-valor-de-lo-humano-en-tiempos-de-ia/?utm_source=rss&utm_medium=rss&utm_campaign=inteligencias-para-el-futuro-el-valor-de-lo-humano-en-tiempos-de-ia",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Dr. Olea: La exposición a tóxicos es causa evitable de enfermedades cada vez más tempranas",
-      "url": "https://efeverde.com/dr-olea-la-exposicion-a-toxicos-es-causa-evitable-de-enfermedades-cada-vez-mas-tempranas/",
-      "fecha": "2026-06-07",
+      "titular": "España y seis socios europeos rechazan rebajar las exigencias de CO2 para los coches",
+      "url": "https://efeverde.com/espana-y-seis-socios-europeos-rechazan-rebajar-las-exigencias-de-co2-para-los-coches/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La «revolución del flamenco» sacude Albania contra los megaproyectos de la familia Trump",
-      "url": "https://efeverde.com/la-revolucion-del-flamenco-sacude-albania-contra-los-megaproyectos-de-la-familia-trump/",
-      "fecha": "2026-06-07",
+      "titular": "La ONU cree que el calor extremo será parte de la historia del Mundial",
+      "url": "https://efeverde.com/lonu-calor-extremo-parte-mundial-futbol/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Siete libros en calve «verde» para esta Feria del Libro de Madrid",
-      "url": "https://efeverde.com/siete-libros-en-calve-verde-para-esta-feria-del-libro-de-madrid/",
-      "fecha": "2026-06-06",
+      "titular": "Un grupo de científicos de 17 países reclaman mayor protección para las praderas marinas",
+      "url": "https://efeverde.com/grupo-cientificos-17-paises-proteccion-praderas-marinas/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF lanza libro que recoge historias de conservación de los guardaparques y el trabajo junto a comunidades",
-      "url": "https://www.conaf.cl/conaf-lanza-libro-que-recoge-historias-de-conservacion-de-los-guardaparques-y-el-trabajo-junto-a-comunidades/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-lanza-libro-que-recoge-historias-de-conservacion-de-los-guardaparques-y-el-trabajo-junto-a-comunidades",
-      "fecha": "2026-06-06",
+      "fuente": "EFE Verde",
+      "titular": "Premis Ones, el espíritu socioambiental de Tarragona. Por Arturo Larena",
+      "url": "https://efeverde.com/premis-ones-el-espiritu-socioambiental-de-tarragona-por-arturo-larena/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Conferencia de Bonn arranca entre llamadas a no dar pasos atrás y avanzar «desde ya» en las negociaciones",
+      "url": "https://efeverde.com/onu-pide-no-reabrir-debates-del-pasado-lucha-cambio-climatico-bonn/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "30.000 hectáreas quemadas en España en 2026: claves para entender un incendio forestal",
+      "url": "https://efeverde.com/30-000-hectareas-quemadas-en-espana-en-2026-claves-para-entender-un-incendio-forestal/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El pasado mayo fue un mes seco y el séptimo más cálido del siglo XXI",
+      "url": "https://efeverde.com/mayo-fue-seco-septimo-mas-calido-siglo-xxi/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Reimaginar el océano desde América Latina. Por Mariamalia Rodríguez",
+      "url": "https://efeverde.com/reimaginar-el-oceano-desde-america-latina-por-mariamalia-rodriguez/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Océanos más protegidos, pero amenazados por el cambio climático",
+      "url": "https://efeverde.com/oceanos-mas-protegidos-pero-amenazados-por-el-cambio-climatico/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La fauna pirenaica alerta del impacto del cambio climático en la cordillera",
+      "url": "https://efeverde.com/la-fauna-pirenaica-alerta-del-impacto-del-cambio-climatico-en-la-cordillera/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Buzos graban por primera vez un tiburón blanco en el Mediterráneo mientras retiraban redes fantasma",
+      "url": "https://efeverde.com/buzos-graban-por-primera-vez-un-tiburon-blanco-en-el-mediterraneo-mientras-retiraban-redes-fantasma/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31 debe «amplificar las voces del Pacífico» ante el cambio climático, según experto",
+      "url": "https://efeverde.com/la-cop31-debe-amplificar-las-voces-del-pacifico-ante-el-cambio-climatico-segun-experto/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Contaminación por plásticos en los océanos: impactos, acciones y reflexiones que movilizan desde la economía hacia un cambio cultural",
+      "url": "https://www.terram.cl/contaminacion-por-plasticos-en-los-oceanos-impactos-acciones-y-reflexiones-que-movilizan-desde-la-economia-hacia-un-cambio-cultural/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "La Conferencia de Bonn arranca entre llamadas a no dar pasos atrás y avanzar «desde ya» en las negociaciones",
+      "url": "https://www.terram.cl/la-conferencia-de-bonn-arranca-entre-llamadas-a-no-dar-pasos-atras-y-avanzar-desde-ya-en-las-negociaciones/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Académica U. de Chile es una de las autoras del histórico informe de la ONU sobre el futuro de los océanos",
+      "url": "https://www.terram.cl/academica-u-de-chile-es-una-de-las-autoras-del-historico-informe-de-la-onu-sobre-el-futuro-de-los-oceanos/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Corte paraliza obras en Humedal Bahía Panguipulli tras recurso de protección",
+      "url": "https://www.terram.cl/corte-paraliza-obras-en-humedal-bahia-panguipulli-tras-recurso-de-proteccion/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Día Mundial del Medioambiente: tres investigaciones que muestran cómo la ciencia enfrenta el cambio climático",
+      "url": "https://www.terram.cl/dia-mundial-del-medioambiente-tres-investigaciones-que-muestran-como-la-ciencia-enfrenta-el-cambio-climatico/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer la Vicuña",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-la-vicuna/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Presidente Kast y ministra Toledo participan en la reforestación del Parque Metropolitano de Cerros de Renca",
+      "url": "https://mma.gob.cl/presidente-kast-y-ministra-toledo-participan-en-la-reforestacion-del-parque-metropolitano-de-cerros-de-renca/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente abre periodo de declaración del Sistema de Desempeño Ambiental Empresarial del RETC",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-periodo-de-declaracion-del-sistema-de-desempeno-ambiental-empresarial-del-retc/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "RETC",
+      "titular": "Ministerio del Medio Ambiente abre periodo de declaración del Sistema de Desempeño Ambiental Empresarial del RETC",
+      "url": "https://retc.mma.gob.cl/ministerio-del-medio-ambiente-abre-periodo-de-declaracion-del-sistema-de-desempeno-ambiental-empresarial-del-retc/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Un foso en La pérgola de las flores",
-      "url": "https://www.latercera.com/opinion/noticia/un-foso-en-la-pergola-de-las-flores/",
-      "fecha": "2026-06-06",
+      "titular": "Estudio ALTO-PUCV: el 90% de los imputados primerizos por robo en el retail que optaron por salidas alternativas no reincidieron",
+      "url": "https://www.latercera.com/nacional/noticia/estudio-alto-pucv-el-90-de-los-imputados-primerizos-por-robo-en-el-retail-que-optaron-por-salidas-alternativas-no-reincidieron/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Jefe de bancada DC señala que “no existen los méritos suficientes para adherirse” a la AC contra Grau",
-      "url": "https://www.latercera.com/politica/noticia/jefe-de-bancada-dc-senala-que-no-existen-los-meritos-suficientes-para-adherirse-a-la-ac-contra-grau/",
-      "fecha": "2026-06-06",
+      "titular": "Reforma previsional: Cecilia Cifuentes propone que cotización extra para cuenta individual sea de cargo del trabajador",
+      "url": "https://www.latercera.com/pulso/noticia/reforma-previsional-cecilia-cifuentes-propone-que-cotizacion-extra-para-cuenta-individual-sea-de-cargo-del-trabajador/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA informa récord histórico: mayo aprobó proyectos ambientales por US$13.962 millones",
-      "url": "https://www.redimin.cl/sea-informa-record-historico-mayo-aprobo-proyectos-ambientales-por-us13-962-millones",
-      "fecha": "2026-06-06",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-de-comunidad-indigena-contra-proyecto-fotovoltaico/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Palma estudia el futuro y la conservación de las fajanas creadas por el volcán Tajogaite",
+      "url": "https://efeverde.com/la-palma-estudia-el-futuro-y-la-conservacion-de-las-fajanas-creadas-por-el-volcan-tajogaite/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Tres años después del desastre de Kajovka, la naturaleza recupera el embalse ucraniano",
+      "url": "https://efeverde.com/tres-anos-despues-del-desastre-de-kajovka-la-naturaleza-recupera-el-embalse-ucraniano/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las aerolíneas admiten que están lejos de cumplir sus metas de descarbonización",
+      "url": "https://efeverde.com/las-aerolineas-admiten-que-estan-lejos-de-cumplir-sus-metas-de-descarbonizacion/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Seguridad con límites",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/seguridad-con-limites/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "León XIV congrega a 1,2 millones de personas en Madrid y llama a que la fe no sea “un museo del pasado”",
+      "url": "https://www.latercera.com/mundo/noticia/leon-xiv-congrega-a-12-millones-de-personas-en-madrid-y-llama-a-que-la-fe-no-sea-un-museo-del-pasado/",
+      "fecha": "2026-06-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

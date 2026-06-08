@@ -1,15 +1,51 @@
 {
-  "fecha_generacion": "2026-06-07T08:34:58.707611-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-06-08T11:25:11.503205-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA informa récord histórico: mayo aprobó proyectos ambientales por US$13.962 millones",
-      "url": "https://www.redimin.cl/sea-informa-record-historico-mayo-aprobo-proyectos-ambientales-por-us13-962-millones",
-      "fecha": "2026-06-06",
+      "fuente": "Terram",
+      "titular": "Corte paraliza obras en Humedal Bahía Panguipulli tras recurso de protección",
+      "url": "https://www.terram.cl/corte-paraliza-obras-en-humedal-bahia-panguipulli-tras-recurso-de-proteccion/",
+      "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Mayo de 2026 registró un récord histórico en Chile con proyectos aprobados por un total de US$13.962 millones en el Sistema de Evaluación de Impacto Ambiental, superando en más del 60% el máximo anterior.",
+      "extracto": "Organizaciones ambientales acusan trabajos sin evaluación, mientras que desde el municipio señalan que esta acción legal contradice el objetivo de cuidar el entorno. Fuente: Diario Sostenible, 6 de junio de 2026.",
+      "keywords_detectadas": [
+        "recurso de protección"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Reforma previsional: Cecilia Cifuentes propone que cotización extra para cuenta individual sea de cargo del trabajador",
+      "url": "https://www.latercera.com/pulso/noticia/reforma-previsional-cecilia-cifuentes-propone-que-cotizacion-extra-para-cuenta-individual-sea-de-cargo-del-trabajador/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La economista afirma que si bien esto afectaría el sueldo líquido de trabajadores, sería \"menos perjudicial\" que la alternativa actual, ya que \"si la cotización es de cargo del empleador, el trabajador lo paga a través de mayor informalidad y desempl",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-de-comunidad-indigena-contra-proyecto-fotovoltaico/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa solar se emplazaría en la comuna de Pozo Almonte, en la Región de Tarapacá. La entrada Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "León XIV congrega a 1,2 millones de personas en Madrid y llama a que la fe no sea “un museo del pasado”",
+      "url": "https://www.latercera.com/mundo/noticia/leon-xiv-congrega-a-12-millones-de-personas-en-madrid-y-llama-a-que-la-fe-no-sea-un-museo-del-pasado/",
+      "fecha": "2026-06-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Tras el masivo encuentro en la Plaza de Cibeles, el Papa sostuvo un encuentro con la sociedad civil en el Movistar Arena de la capital española. Junto con reivindicar la huella de la fe en Europa, rememoró a Juan Pablo II: \"No teman. ¡Aban de par en ",
       "keywords_detectadas": [
         "SEA"
       ]
