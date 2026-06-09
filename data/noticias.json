@@ -1,247 +1,359 @@
 {
-  "fecha_actualizacion": "2026-06-08T11:25:11.489705-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-06-09T09:58:49.458065-04:00",
+  "total": 44,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Pedro Rivas, de Consorcio Santa Marta, explica el nuevo rol de los rellenos sanitarios en el contexto de una gestión de residuos más avanzada",
+      "url": "https://www.paiscircular.cl/medio-ambiente/pedro-rivas-de-consorcio-santa-marta-explica-el-nuevo-rol-de-los-rellenos-sanitarios-en-el-contexto-de-una-gestion-de-residuos-mas-avanzada/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Inteligencias para el futuro: EL VALOR DE LO HUMANO EN TIEMPOS DE IA",
-      "url": "https://www.chiledesarrollosustentable.cl/inteligencias-para-el-futuro-el-valor-de-lo-humano-en-tiempos-de-ia/?utm_source=rss&utm_medium=rss&utm_campaign=inteligencias-para-el-futuro-el-valor-de-lo-humano-en-tiempos-de-ia",
+      "titular": "ENGIE Chile transformó un histórico sitio a carbón en un hub energético",
+      "url": "https://www.chiledesarrollosustentable.cl/engie-chile-transformo-un-historico-sitio-a-carbon-en-un-hub-energetico/?utm_source=rss&utm_medium=rss&utm_campaign=engie-chile-transformo-un-historico-sitio-a-carbon-en-un-hub-energetico",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El éxito de Plaza Ñuñoa Zero: plan recupera 20 toneladas de residuos orgánicos",
+      "url": "https://codexverde.cl/plan-recupera-20-toneladas-de-residuos-organicos/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Gobierno aprueba un plan de prevención y lucha contra los incendios forestales",
+      "url": "https://efeverde.com/gobierno-plan-prevencion-incendios-forestales/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La ballena jorobada Timmy será convertida en biocombustible tras su muerte",
+      "url": "https://efeverde.com/ballena-timmy-biocombustible-muerte/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cuatro años y medio de prisión para el autor del incendio de Berlanga del Bierzo (León) en 2025",
+      "url": "https://efeverde.com/prision-autor-incendio-berlanga-bierzo-leon-2025/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Investigadores descubren un nuevo género y nueve especies de escarabajo en selva de Perú",
+      "url": "https://efeverde.com/investigadores-descubren-nueve-especies-escarabajo-selva-peru/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Estudio revela que los huevos de aves silvestres recogen la huella de los contaminantes",
+      "url": "https://efeverde.com/estudio-revela-huevos-aves-silvestres-huella-contaminantes/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El valor bursátil de las empresas que emiten mucho CO2 triplica el de las bajas en carbono",
+      "url": "https://efeverde.com/valor-bursatil-empresas-emiten-mucho-co2-triplica-bajas-carbono/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Organizaciones ecologistas denuncian que los intereses políticos impiden proteger a las especies amenazadas",
+      "url": "https://efeverde.com/ecologistas-intereses-politicos-proteger-especies-amenazadas/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Casi el 70 % de los españoles cree que importar menos combustibles fósiles hace a la UE más segura",
+      "url": "https://efeverde.com/espanoles-importar-menos-combustibles-fosiles-ue-segura/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal escuchó alegatos en reclamaciones por proyecto “Modificación de biomasa de cultivo de Salmón Atlántico” en Aysén",
+      "url": "https://3ta.cl/noticias/tribunal-escucho-alegatos-en-reclamaciones-por-proyecto-modificacion-de-biomasa-de-cultivo-de-salmon-atlantico-en-aysen/",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Operativo conjunto de CONAF y Carabineros fiscalizó transporte forestal en la Ruta 5 Sur",
+      "url": "https://www.conaf.cl/operativo-conjunto-de-conaf-y-carabineros-fiscalizo-transporte-forestal-en-la-ruta-5-sur/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-conjunto-de-conaf-y-carabineros-fiscalizo-transporte-forestal-en-la-ruta-5-sur",
+      "fecha": "2026-06-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "PRESIDENTE KAST Y MINISTRA TOLEDO PARTICIPAN EN LA REFORESTACIÓN DEL PARQUE METROPOLITANO DE CERROS DE RENCA",
+      "url": "https://www.chiledesarrollosustentable.cl/presidente-kast-y-ministra-toledo-participan-en-la-reforestacion-del-parque-metropolitano-de-cerros-de-renca/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-kast-y-ministra-toledo-participan-en-la-reforestacion-del-parque-metropolitano-de-cerros-de-renca",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Investigador revela cómo la actividad humana está transformando los bosques de Aysén (El Divisadero)",
+      "url": "https://www.cr2.cl/investigador-revela-como-la-actividad-humana-esta-transformando-los-bosques-de-aysen-el-divisadero/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Alerta en el sur de Chile: Ganadería degrada de forma silenciosa los bosques nativos, incluso dentro de Parques Nacionales (Prensa Ciudadana)",
+      "url": "https://www.cr2.cl/alerta-en-el-sur-de-chile-ganaderia-degrada-de-forma-silenciosa-los-bosques-nativos-incluso-dentro-de-parques-nacionales-prensa-ciudadana/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Investigación busca avanzar en la comprensión del impacto humano en los bosques del sur y sur-austral (El Ciudadano)",
+      "url": "https://www.cr2.cl/investigacion-busca-avanzar-en-la-comprension-del-impacto-humano-en-los-bosques-del-sur-y-sur-austral-el-ciudadano/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España y seis socios europeos rechazan rebajar las exigencias de CO2 para los coches",
-      "url": "https://efeverde.com/espana-y-seis-socios-europeos-rechazan-rebajar-las-exigencias-de-co2-para-los-coches/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La ONU cree que el calor extremo será parte de la historia del Mundial",
-      "url": "https://efeverde.com/lonu-calor-extremo-parte-mundial-futbol/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un grupo de científicos de 17 países reclaman mayor protección para las praderas marinas",
-      "url": "https://efeverde.com/grupo-cientificos-17-paises-proteccion-praderas-marinas/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Premis Ones, el espíritu socioambiental de Tarragona. Por Arturo Larena",
-      "url": "https://efeverde.com/premis-ones-el-espiritu-socioambiental-de-tarragona-por-arturo-larena/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Conferencia de Bonn arranca entre llamadas a no dar pasos atrás y avanzar «desde ya» en las negociaciones",
-      "url": "https://efeverde.com/onu-pide-no-reabrir-debates-del-pasado-lucha-cambio-climatico-bonn/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "30.000 hectáreas quemadas en España en 2026: claves para entender un incendio forestal",
-      "url": "https://efeverde.com/30-000-hectareas-quemadas-en-espana-en-2026-claves-para-entender-un-incendio-forestal/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El pasado mayo fue un mes seco y el séptimo más cálido del siglo XXI",
-      "url": "https://efeverde.com/mayo-fue-seco-septimo-mas-calido-siglo-xxi/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Reimaginar el océano desde América Latina. Por Mariamalia Rodríguez",
-      "url": "https://efeverde.com/reimaginar-el-oceano-desde-america-latina-por-mariamalia-rodriguez/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Océanos más protegidos, pero amenazados por el cambio climático",
-      "url": "https://efeverde.com/oceanos-mas-protegidos-pero-amenazados-por-el-cambio-climatico/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La fauna pirenaica alerta del impacto del cambio climático en la cordillera",
-      "url": "https://efeverde.com/la-fauna-pirenaica-alerta-del-impacto-del-cambio-climatico-en-la-cordillera/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Buzos graban por primera vez un tiburón blanco en el Mediterráneo mientras retiraban redes fantasma",
-      "url": "https://efeverde.com/buzos-graban-por-primera-vez-un-tiburon-blanco-en-el-mediterraneo-mientras-retiraban-redes-fantasma/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La COP31 debe «amplificar las voces del Pacífico» ante el cambio climático, según experto",
-      "url": "https://efeverde.com/la-cop31-debe-amplificar-las-voces-del-pacifico-ante-el-cambio-climatico-segun-experto/",
+      "titular": "Una veintena de fallecidos y un centenar de heridos tras el terremoto de 7,8 en Filipinas",
+      "url": "https://efeverde.com/veintena-fallecidos-centenar-heridos-terremoto-filipinas/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Contaminación por plásticos en los océanos: impactos, acciones y reflexiones que movilizan desde la economía hacia un cambio cultural",
-      "url": "https://www.terram.cl/contaminacion-por-plasticos-en-los-oceanos-impactos-acciones-y-reflexiones-que-movilizan-desde-la-economia-hacia-un-cambio-cultural/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "La Conferencia de Bonn arranca entre llamadas a no dar pasos atrás y avanzar «desde ya» en las negociaciones",
-      "url": "https://www.terram.cl/la-conferencia-de-bonn-arranca-entre-llamadas-a-no-dar-pasos-atras-y-avanzar-desde-ya-en-las-negociaciones/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Académica U. de Chile es una de las autoras del histórico informe de la ONU sobre el futuro de los océanos",
-      "url": "https://www.terram.cl/academica-u-de-chile-es-una-de-las-autoras-del-historico-informe-de-la-onu-sobre-el-futuro-de-los-oceanos/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Corte paraliza obras en Humedal Bahía Panguipulli tras recurso de protección",
-      "url": "https://www.terram.cl/corte-paraliza-obras-en-humedal-bahia-panguipulli-tras-recurso-de-proteccion/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Día Mundial del Medioambiente: tres investigaciones que muestran cómo la ciencia enfrenta el cambio climático",
-      "url": "https://www.terram.cl/dia-mundial-del-medioambiente-tres-investigaciones-que-muestran-como-la-ciencia-enfrenta-el-cambio-climatico/",
+      "titular": "Kimal Lo Aguirre: Mega línea eléctrica para traer energía solar del norte a Santiago espera instancias clave",
+      "url": "https://www.terram.cl/kimal-lo-aguirre-mega-linea-electrica-para-traer-energia-solar-del-norte-a-santiago-espera-instancias-clave/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Te invitamos a conocer la Vicuña",
-      "url": "https://www.1ta.cl/te-invitamos-a-conocer-la-vicuna/",
+      "titular": "Te invitamos a conocer detalles de la Ley N°21.600",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-detalles-de-la-ley-n21-600/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer al Sapo Espinoso",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-detalles-de-la-ley-n21-455-2/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer detalles de la Ley N°21.455",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-detalles-de-la-ley-n21-455/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer al Corredor de Atacama",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-al-corredor-de-atacama/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer los detalles de la Ley N°20.600",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-los-detalles-de-la-ley-n20-600/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer el Guanaco",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-el-guanaco/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer detalles de la Ley N°20.417",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-detalles-de-la-ley-n20-417/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer la Gaviota Garuma",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-la-gaviota-garuma/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer los detalles de la Ley N°19.300",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-los-detalles-de-la-ley-n19-300/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer a la Vaquita de Paposo",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-a-la-vaquita-de-paposo/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer detalles del Acuerdo de París",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-al-gato-andino-2/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer al Gato Andino",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-al-gato-andino/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer detalles del Convenio de MARPOL",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-detalles-del-convenio-de-marpol/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer la Tortuga Verde",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-la-tortuga-verde/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Te invitamos a conocer más sobre la FAO",
+      "url": "https://www.1ta.cl/te-invitamos-a-conocer-la-vicuna-2/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "30/07/2026: Fija audiencia en caso de «Asociación de Transmisores de Chile A.G y otros con Ministerio del Medio Ambiente-Fisco de Chile.», Rol: R-16-2026",
+      "url": "https://3ta.cl/audiencias/30-07-2026-fija-audiencia-en-caso-de-asociacion-de-transmisores-de-chile-a-g-y-otros-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo escalafon profesional a contrata asimilado a grado 15 de la e u s para la unidad de atencion de usuarios as dr los l",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-unidad-de-atencion-de-usuarios-as-dr-los-l/",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Escuela Estrella del Sur de Pozo Almonte se certifica en programa Escuelas Preparadas para prevenir incendios forestales",
+      "url": "https://www.conaf.cl/escuela-estrella-del-sur-de-pozo-almonte-se-certifica-en-programa-escuelas-preparadas-para-prevenir-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=escuela-estrella-del-sur-de-pozo-almonte-se-certifica-en-programa-escuelas-preparadas-para-prevenir-incendios-forestales",
+      "fecha": "2026-06-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Programa de Emergencia de Empleo impulsa producción de plantas nativas y restauración ecológica en Los Ríos",
+      "url": "https://www.conaf.cl/programa-de-emergencia-de-empleo-impulsa-produccion-de-plantas-nativas-y-restauracion-ecologica-en-los-rios/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-emergencia-de-empleo-impulsa-produccion-de-plantas-nativas-y-restauracion-ecologica-en-los-rios",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presidente Kast y ministra Toledo participan en la reforestación del Parque Metropolitano de Cerros de Renca",
-      "url": "https://mma.gob.cl/presidente-kast-y-ministra-toledo-participan-en-la-reforestacion-del-parque-metropolitano-de-cerros-de-renca/",
+      "titular": "Comunidades Diaguitas de Ovalle celebran aniversario con rogativa a la Madre Tierra y llamado a proteger el territorio del Limarí",
+      "url": "https://mma.gob.cl/comunidades-diaguitas-de-ovalle-celebran-aniversario-con-rogativa-a-la-madre-tierra-y-llamado-a-proteger-el-territorio-del-limari/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente abre periodo de declaración del Sistema de Desempeño Ambiental Empresarial del RETC",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-periodo-de-declaracion-del-sistema-de-desempeno-ambiental-empresarial-del-retc/",
+      "titular": "Tarapacá fortalece la educación ambiental con la certificación de 12 establecimientos educacionales",
+      "url": "https://mma.gob.cl/tarapaca-fortalece-la-educacion-ambiental-con-la-certificacion-de-12-establecimientos-educacionales/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "RETC",
-      "titular": "Ministerio del Medio Ambiente abre periodo de declaración del Sistema de Desempeño Ambiental Empresarial del RETC",
-      "url": "https://retc.mma.gob.cl/ministerio-del-medio-ambiente-abre-periodo-de-declaracion-del-sistema-de-desempeno-ambiental-empresarial-del-retc/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Establecimientos educacionales de la red SNCAE conmemoraron el Día Mundial del Medio Ambiente",
+      "url": "https://mma.gob.cl/establecimientos-educacionales-de-la-red-sncae-conmemoraron-el-dia-mundial-del-medio-ambiente/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Estudio ALTO-PUCV: el 90% de los imputados primerizos por robo en el retail que optaron por salidas alternativas no reincidieron",
-      "url": "https://www.latercera.com/nacional/noticia/estudio-alto-pucv-el-90-de-los-imputados-primerizos-por-robo-en-el-retail-que-optaron-por-salidas-alternativas-no-reincidieron/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi de Medio Ambiente llama a los municipios a agilizar la elaboración y aprobación de sus Planes de Acción Comunal de Cambio Climático antes que finalice el plazo",
+      "url": "https://mma.gob.cl/seremi-de-medio-ambiente-llama-a-los-municipios-a-agilizar-la-elaboracion-y-aprobacion-de-sus-planes-de-adaptacion-comunal-al-cambio-climatico-antes-que-finalice-el-plazo/",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Reforma previsional: Cecilia Cifuentes propone que cotización extra para cuenta individual sea de cargo del trabajador",
-      "url": "https://www.latercera.com/pulso/noticia/reforma-previsional-cecilia-cifuentes-propone-que-cotizacion-extra-para-cuenta-individual-sea-de-cargo-del-trabajador/",
+      "fuente": "REDIMIN",
+      "titular": "Reforma al SEIA avanza en la Cámara y abre etapa de indicaciones hasta el 8 de junio",
+      "url": "https://www.redimin.cl/reforma-al-seia-avanza-en-la-camara-y-abre-etapa-de-indicaciones-hasta-el-8-de-junio",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-de-comunidad-indigena-contra-proyecto-fotovoltaico/",
+      "fuente": "Senado",
+      "titular": "Apoyan que chile sea sede de la secretaria general del tratado bbnj sobre",
+      "url": "https://www.senado.cl/comunicaciones/noticias/apoyan-que-chile-sea-sede-de-la-secretaria-general-del-tratado-bbnj-sobre",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Palma estudia el futuro y la conservación de las fajanas creadas por el volcán Tajogaite",
-      "url": "https://efeverde.com/la-palma-estudia-el-futuro-y-la-conservacion-de-las-fajanas-creadas-por-el-volcan-tajogaite/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tres años después del desastre de Kajovka, la naturaleza recupera el embalse ucraniano",
-      "url": "https://efeverde.com/tres-anos-despues-del-desastre-de-kajovka-la-naturaleza-recupera-el-embalse-ucraniano/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las aerolíneas admiten que están lejos de cumplir sus metas de descarbonización",
-      "url": "https://efeverde.com/las-aerolineas-admiten-que-estan-lejos-de-cumplir-sus-metas-de-descarbonizacion/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Seguridad con límites",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/seguridad-con-limites/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "León XIV congrega a 1,2 millones de personas en Madrid y llama a que la fe no sea “un museo del pasado”",
-      "url": "https://www.latercera.com/mundo/noticia/leon-xiv-congrega-a-12-millones-de-personas-en-madrid-y-llama-a-que-la-fe-no-sea-un-museo-del-pasado/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "sitemap"
     }
   ]
 }

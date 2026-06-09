@@ -1,51 +1,27 @@
 {
-  "fecha_generacion": "2026-06-08T11:25:11.503205-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-09T09:58:49.469821-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Corte paraliza obras en Humedal Bahía Panguipulli tras recurso de protección",
-      "url": "https://www.terram.cl/corte-paraliza-obras-en-humedal-bahia-panguipulli-tras-recurso-de-proteccion/",
+      "fuente": "REDIMIN",
+      "titular": "Reforma al SEIA avanza en la Cámara y abre etapa de indicaciones hasta el 8 de junio",
+      "url": "https://www.redimin.cl/reforma-al-seia-avanza-en-la-camara-y-abre-etapa-de-indicaciones-hasta-el-8-de-junio",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Organizaciones ambientales acusan trabajos sin evaluación, mientras que desde el municipio señalan que esta acción legal contradice el objetivo de cuidar el entorno. Fuente: Diario Sostenible, 6 de junio de 2026.",
+      "extracto": "La Comisión de Medio Ambiente aprobó en general la reforma al Sistema de Evaluación de Impacto Ambiental, un paso clave para mejorar la eficiencia en la tramitación de proyectos mineros en Chile.",
       "keywords_detectadas": [
-        "recurso de protección"
+        "SEIA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Reforma previsional: Cecilia Cifuentes propone que cotización extra para cuenta individual sea de cargo del trabajador",
-      "url": "https://www.latercera.com/pulso/noticia/reforma-previsional-cecilia-cifuentes-propone-que-cotizacion-extra-para-cuenta-individual-sea-de-cargo-del-trabajador/",
+      "fuente": "Senado",
+      "titular": "Apoyan que chile sea sede de la secretaria general del tratado bbnj sobre",
+      "url": "https://www.senado.cl/comunicaciones/noticias/apoyan-que-chile-sea-sede-de-la-secretaria-general-del-tratado-bbnj-sobre",
       "fecha": "2026-06-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La economista afirma que si bien esto afectaría el sueldo líquido de trabajadores, sería \"menos perjudicial\" que la alternativa actual, ya que \"si la cotización es de cargo del empleador, el trabajador lo paga a través de mayor informalidad y desempl",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-de-comunidad-indigena-contra-proyecto-fotovoltaico/",
-      "fecha": "2026-06-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa solar se emplazaría en la comuna de Pozo Almonte, en la Región de Tarapacá. La entrada Tribunal Ambiental admite reclamación de comunidad indígena contra proyecto fotovoltaico se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "León XIV congrega a 1,2 millones de personas en Madrid y llama a que la fe no sea “un museo del pasado”",
-      "url": "https://www.latercera.com/mundo/noticia/leon-xiv-congrega-a-12-millones-de-personas-en-madrid-y-llama-a-que-la-fe-no-sea-un-museo-del-pasado/",
-      "fecha": "2026-06-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Tras el masivo encuentro en la Plaza de Cibeles, el Papa sostuvo un encuentro con la sociedad civil en el Movistar Arena de la capital española. Junto con reivindicar la huella de la fe en Europa, rememoró a Juan Pablo II: \"No teman. ¡Aban de par en ",
+      "metodo_extraccion": "sitemap",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
       ]
