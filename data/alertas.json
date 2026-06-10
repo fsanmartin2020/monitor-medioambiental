@@ -1,29 +1,29 @@
 {
-  "fecha_generacion": "2026-06-09T09:58:49.469821-04:00",
+  "fecha_generacion": "2026-06-10T10:42:15.898972-04:00",
   "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "REDIMIN",
-      "titular": "Reforma al SEIA avanza en la Cámara y abre etapa de indicaciones hasta el 8 de junio",
-      "url": "https://www.redimin.cl/reforma-al-seia-avanza-en-la-camara-y-abre-etapa-de-indicaciones-hasta-el-8-de-junio",
-      "fecha": "2026-06-08",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Presidente Kast visita el SEA y destaca histórica aprobación ambiental de proyectos",
+      "url": "https://www.revistaei.cl/presidente-kast-visita-el-sea-y-destaca-historica-aprobacion-ambiental-de-proyectos/",
+      "fecha": "2026-06-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Comisión de Medio Ambiente aprobó en general la reforma al Sistema de Evaluación de Impacto Ambiental, un paso clave para mejorar la eficiencia en la tramitación de proyectos mineros en Chile.",
+      "extracto": "Entre el 11 de marzo y el 8 de junio se calificaron favorablemente 72 iniciativas por US$16.010 millones. La entrada Presidente Kast visita el SEA y destaca histórica aprobación ambiental de proyectos se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Senado",
-      "titular": "Apoyan que chile sea sede de la secretaria general del tratado bbnj sobre",
-      "url": "https://www.senado.cl/comunicaciones/noticias/apoyan-que-chile-sea-sede-de-la-secretaria-general-del-tratado-bbnj-sobre",
-      "fecha": "2026-06-08",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Comunidades indígenas y observantes ciudadanos presentan reclamación ante el Primer Tribunal Ambiental por proyecto minero “Champagne” en cerro Anocarire",
+      "url": "https://www.1ta.cl/comunidades-indigenas-y-observantes-ciudadanos-presentan-reclamacion-ante-el-primer-tribunal-ambiental-por-proyecto-minero-champagne-en-cerro-anocarire/",
+      "fecha": "2026-06-09",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap",
-      "extracto": "",
+      "metodo_extraccion": "rss",
+      "extracto": "La Comunidad Indígena Aymara de Umirpa, la Asociación Indígena Quechua Kawsaq Llaqta y un conjunto de personas que participaron del proceso de participación ciudadana, presentaron una reclamación en contra de la resolución de la Dirección Ejecutiva d",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     }
   ]
