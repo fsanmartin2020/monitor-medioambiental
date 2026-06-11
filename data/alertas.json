@@ -1,29 +1,54 @@
 {
-  "fecha_generacion": "2026-06-10T10:42:15.898972-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-06-11T11:06:08.155086-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Presidente Kast visita el SEA y destaca histórica aprobación ambiental de proyectos",
-      "url": "https://www.revistaei.cl/presidente-kast-visita-el-sea-y-destaca-historica-aprobacion-ambiental-de-proyectos/",
-      "fecha": "2026-06-10",
+      "fuente": "Diario Financiero",
+      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
+      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
+      "fecha": "2026-06-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El cambio se explica porque en la Cámara hay reparos a una figura unipersonal en la resolución de las reclamaciones de los diversos proyectos de inversión.",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
+      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
+      "fecha": "2026-06-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental revisa reclamo contra archivo de denuncia ambiental vinculada a proyecto Kinross-La Coipa",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-reclamo-contra-archivo-de-denuncia-ambiental-vinculada-a-proyecto-kinross-la-coipa/",
+      "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Entre el 11 de marzo y el 8 de junio se calificaron favorablemente 72 iniciativas por US$16.010 millones. La entrada Presidente Kast visita el SEA y destaca histórica aprobación ambiental de proyectos se publicó primero en Revista Electricidad .",
+      "extracto": "La Comunidad Indígena Ancestral Wara Quebrada Chañaral Alto y sus Quebradas cuestiona la decisión de la SMA de archivar una denuncia por una supuesta elusión al SEIA asociada al proyecto Kinross-La Coipa. El organismo fiscalizador y la compañía miner",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Comunidades indígenas y observantes ciudadanos presentan reclamación ante el Primer Tribunal Ambiental por proyecto minero “Champagne” en cerro Anocarire",
-      "url": "https://www.1ta.cl/comunidades-indigenas-y-observantes-ciudadanos-presentan-reclamacion-ante-el-primer-tribunal-ambiental-por-proyecto-minero-champagne-en-cerro-anocarire/",
-      "fecha": "2026-06-09",
+      "titular": "Revisan antecedentes en reclamación de comunidad indígena contra decisión de la SMA de archivar denuncia por supuesta elusión al SEIA de empresa minera",
+      "url": "https://www.1ta.cl/revisan-antecedentes-en-reclamacion-de-comunidad-indigena-contra-decision-de-la-sma-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-empresa-minera/",
+      "fecha": "2026-06-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Comunidad Indígena Aymara de Umirpa, la Asociación Indígena Quechua Kawsaq Llaqta y un conjunto de personas que participaron del proceso de participación ciudadana, presentaron una reclamación en contra de la resolución de la Dirección Ejecutiva d",
+      "extracto": "En audiencia, el Primer Tribunal Ambiental, revisó antecedentes en la reclamación presentada por la Comunidad Indígena Ancestral Wara Quebrada Chañaral Alto y sus Quebradas Copiapó-Diego de Almagro, en contra de la decisión de la Superintendencia del",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA",
+        "SEIA"
       ]
     }
   ]
