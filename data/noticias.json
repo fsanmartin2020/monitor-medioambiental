@@ -1,373 +1,205 @@
 {
-  "fecha_actualizacion": "2026-06-11T11:06:08.138688-04:00",
-  "total": 46,
+  "fecha_actualizacion": "2026-06-12T10:27:16.339333-04:00",
+  "total": 25,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "“Mundo de Lírio”, una historia que combina educación emocional y biodiversidad, ganó el Primer Lugar en Chilemonos 2026",
-      "url": "https://www.paiscircular.cl/biodiversidad/mundo-de-lirio-una-historia-que-combina-educacion-emocional-y-biodiversidad-gano-el-primer-lugar-en-chilemonos-2026/",
+      "titular": "Mejores cortes de carne para parrilla y cómo prepararlos: guía práctica para un asado bien hecho en Chile",
+      "url": "https://www.paiscircular.cl/tendencias/mejores-cortes-de-carne-para-parrilla-y-como-prepararlos-guia-practica-para-un-asado-bien-hecho-en-chile/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Biochar inoculado y ácido piroleñoso: los fertilizantes creados por la empresa Arantruf para producir sus arándanos y trufas",
+      "url": "https://www.paiscircular.cl/economia-circular/biochar/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Subsecretario José Vial destaca actualización de la norma de plomo para proteger la salud de las personas",
+      "url": "https://www.chiledesarrollosustentable.cl/subsecretario-jose-vial-destaca-actualizacion-de-la-norma-de-plomo-para-proteger-la-salud-de-las-personas/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-jose-vial-destaca-actualizacion-de-la-norma-de-plomo-para-proteger-la-salud-de-las-personas",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Empresarios de Plaza Ñuñoa impulsan modelo que ya recupera 20 toneladas de residuos orgánicos",
+      "url": "https://www.chiledesarrollosustentable.cl/de-300-kilos-a-12-toneladas-en-tres-meses-empresarios-de-plaza-nunoa-impulsan-modelo-que-ya-recupera-20-toneladas-de-residuos-organicos/?utm_source=rss&utm_medium=rss&utm_campaign=de-300-kilos-a-12-toneladas-en-tres-meses-empresarios-de-plaza-nunoa-impulsan-modelo-que-ya-recupera-20-toneladas-de-residuos-organicos",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Entrenan a una IA para distinguir salmones y otras especies y controlar sus poblaciones en el Bidasoa",
+      "url": "https://efeverde.com/entrenan-a-una-ia-para-distinguir-salmones-y-otras-especies-y-controlar-sus-poblaciones-en-el-bidasoa/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las quemas controladas reducen en un 92 % el riesgo de incendios forestales graves en California",
+      "url": "https://efeverde.com/quemas-controladas-reducen-riesgo-incendios-forestales-graves/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Edificios «vivos» que generan energía o reducen residuos, ¿realidad o ciencia ficción?",
+      "url": "https://efeverde.com/edificios-vivos-que-generan-energia-o-reducen-residuos-realidad-o-ciencia-ficcion/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Cabo de Gata toma el pulso a la posidonia, clave para la salud del Mediterráneo",
+      "url": "https://efeverde.com/el-cabo-de-gata-toma-el-pulso-a-la-posidonia/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Mapean por primera vez el gigantesco y oculto ‘sistema circulatorio’ de la Tierra",
+      "url": "https://efeverde.com/mapean-por-primera-vez-el-gigantesco-y-oculto-sistema-circulatorio-de-la-tierra/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El bulbo húmedo, la medida invisible que anticipa el riesgo real del calor extremo",
+      "url": "https://efeverde.com/bulbo-humedo-medida-invisible-anticipa-riesgo-calor-extremo/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Gobierno propone reformas al Sistema de Evaluación de Impacto Ambiental para atraer inversiones",
+      "url": "https://www.redimin.cl/gobierno-propone-reformas-al-sistema-de-evaluacion-de-impacto-ambiental-para-atraer-inversiones",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Miembros de la delegación chilena en el Zero Waste Forum en Turquía transmitieron sus exitosas experiencias “cero basura”",
+      "url": "https://www.paiscircular.cl/economia-circular/miembros-de-la-delegacion-chilena-en-el-zero-waste-forum-en-turquia-transmitieron-sus-exitosas-experiencias-cero-basura/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Colegio Saint George reporta 18 mil kilos de material reciclado desde 2025",
-      "url": "https://www.paiscircular.cl/sin-categoria/colegio-saint-george-reporta-18-mil-kilos-de-material-reciclado-desde-2025/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Consejo de Políticas de Infraestructura advierte que la Ley de Desalación deja sin resolver asuntos clave de financiamiento, gobernanza e integración social",
-      "url": "https://www.paiscircular.cl/agua/consejo-de-politicas-de-infraestructura-advierte-que-la-ley-de-desalacion-deja-sin-resolver-asuntos-clave-de-financiamiento-gobernanza-e-integracion-social/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Calefacciona mejor tus espacios: Qué considerar al elegir una estufa más eficiente para tu hogar",
-      "url": "https://www.paiscircular.cl/tendencias/calefacciona-mejor-tus-espacios-que-considerar-al-elegir-una-estufa-mas-eficiente-para-tu-hogar/",
+      "titular": "Siemens lanza la décima edición de su concurso regional de eficiencia energética",
+      "url": "https://www.paiscircular.cl/transicion-energetica/siemens-lanza-la-decima-edicion-de-su-concurso-regional-de-eficiencia-energetica/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Reporte de Sostenibilidad 2025: FALABELLA RETAIL REDUCE 38% SUS EMISIONES Y AMPLÍA INICIATIVAS DE ECONOMÍA CIRCULAR Y DESARROLLO SOCIAL",
-      "url": "https://www.chiledesarrollosustentable.cl/reporte-de-sostenibilidad-2025-falabella-retail-reduce-38-sus-emisiones-y-amplia-iniciativas-de-economia-circular-y-desarrollo-social/?utm_source=rss&utm_medium=rss&utm_campaign=reporte-de-sostenibilidad-2025-falabella-retail-reduce-38-sus-emisiones-y-amplia-iniciativas-de-economia-circular-y-desarrollo-social",
+      "titular": "Banco de Chile lanza B Startup, una nueva propuesta para impulsar el crecimiento del ecosistema emprendedorrrador automático",
+      "url": "https://www.chiledesarrollosustentable.cl/banco-de-chile-lanza-b-startup-una-nueva-propuesta-para-impulsar-el-crecimiento-del-ecosistema-emprendedorrrador-automatico/?utm_source=rss&utm_medium=rss&utm_campaign=banco-de-chile-lanza-b-startup-una-nueva-propuesta-para-impulsar-el-crecimiento-del-ecosistema-emprendedorrrador-automatico",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "De San Nicolás a Estados Unidos: ESTUDIANTES CHILENAS COMPETIRÁN EN MUNDIAL CIENTÍFICO CON INNOVADORAS GOMITAS ANTICANCERÍGENAS",
-      "url": "https://www.chiledesarrollosustentable.cl/149826-2/?utm_source=rss&utm_medium=rss&utm_campaign=149826-2",
+      "fuente": "Codex Verde",
+      "titular": "Santiago liderará cumbre internacional para acelerar la transición hacia una economía textil sostenible",
+      "url": "https://codexverde.cl/cumbre-busca-acelerar-transicion-hacia-economia-textil-sostenible/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Constatan la pérdida del 67% de especies de anfibios de la Reserva Natural La Planada (Colombia)",
-      "url": "https://efeverde.com/perdida-especies-anfibios-reserva-natural-la-planada-colombia/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Mundial caluroso. Por May",
-      "url": "https://efeverde.com/mundial-caluroso-may-humor-mundomay/",
+      "fuente": "Codex Verde",
+      "titular": "Ciencia para la conservación: monitoreo busca evaluar la salud de los bosques subantárticos de Karukinka",
+      "url": "https://codexverde.cl/ciencia-para-la-conservacion-monitoreo-busca-evaluar-la-salud-de-los-bosques-subantarticos-de-karukinka/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Abandonar los terrenos agrarios en el Campo de Cartagena eleva el riesgo ambiental para el Mar Menor, alerta un informe",
-      "url": "https://efeverde.com/abandonar-terrenos-agrarios-campo-de-cartagena-riesgo-ambiental-mar-menor/",
+      "titular": "El rey advierte de los desafíos de la gestión del agua ante el cambio climático",
+      "url": "https://efeverde.com/rey-desafios-de-gestion-del-agua-ante-cambio-climatico/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Expertos piden «medidas basadas en la naturaleza» para el calor extremo ante el Mundial",
-      "url": "https://efeverde.com/expertos-medidas-naturaleza-mundial-futbol/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El cambio climático también juega el Mundial: calor extremo y humedad, los rivales más duros",
-      "url": "https://efeverde.com/cambio-climatico-mundial-futbol-2026/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los bosques de la España peninsular utilizan un 20 % más de agua que hace treinta años",
-      "url": "https://efeverde.com/bosques-espana-peninsular-agua/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Ensayar lo inesperado frente a la desinformación climática. Por Arturo Larena",
-      "url": "https://efeverde.com/ensayar-lo-inesperado-frente-a-la-desinformacion-climatica-por-arturo-larena/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cristina evidencia la crisis por avance del mar en pueblos costeros del sur de Guatemala",
-      "url": "https://efeverde.com/cristina-evidencia-la-crisis-por-avance-del-mar-en-pueblos-costeros-del-sur-de-guatemala/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Estabilizado el incendio de Villanueva (Huelva) con más de 5.000 hectáreas afectadas",
-      "url": "https://efeverde.com/estabilizado-el-incendio-de-villanueva-huelva-con-mas-de-5-000-hectareas-afectadas/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Trasladar lobos de norte a sur, ¿la solución para la gestión de lobo? La ciencia dice que no",
-      "url": "https://efeverde.com/trasladar-lobos-de-norte-a-sur-la-solucion-para-la-gestion-de-lobo-la-ciencia-dice-que-no/",
+      "titular": "La NOAA anuncia la formación de El Niño en el Pacífico tropical con previsión de ser «muy fuerte»",
+      "url": "https://efeverde.com/noaa-el-nino-en-el-pacifico-tropical/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Vecinos y abogados ganan pulseada a salmonera sin permiso que contaminó río en localidad rural de Villarrica",
-      "url": "https://www.terram.cl/vecinos-y-abogados-ganan-pulseada-a-salmonera-sin-permiso-que-contamino-rio-en-localidad-rural-de-villarrica/",
+      "titular": "Megaproyecto de corredor bioceánico Mendoza-Los Andes toma fuerza: inversión de US$ 9.600 millones",
+      "url": "https://www.terram.cl/megaproyecto-de-corredor-bioceanico-mendoza-los-andes-toma-fuerza-inversion-de-us-9-600-millones/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Coyhaique en alerta por contaminación: Salud refuerza fiscalizaciones al uso de calefactores a leña",
-      "url": "https://www.terram.cl/coyhaique-en-alerta-por-contaminacion-salud-refuerza-fiscalizaciones-al-uso-de-calefactores-a-lena/",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Restaurante de Iquique reclama ante el Primer Tribunal Ambiental contra multa de la SMA por supuestas infracciones a norma de ruido",
+      "url": "https://www.1ta.cl/restaurant-de-iquique-reclama-ante-el-primer-tribunal-ambiental-contra-multa-de-la-sma-por-supuestas-infracciones-a-norma-de-ruido/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Argentina: Milei recorta recursos de 46 áreas protegidas y golpea a zonas afectadas por los incendios",
-      "url": "https://www.terram.cl/argentina-milei-recorta-recursos-de-46-areas-protegidas-y-golpea-a-zonas-afectadas-por-los-incendios/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Turno medidas provisionales 11/06/2026",
+      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-11-06-2026/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Unesco suma 14 nuevas reservas de la biosfera y amplía red mundial de conservación",
-      "url": "https://www.terram.cl/unesco-suma-14-nuevas-reservas-de-la-biosfera-y-amplia-red-mundial-de-conservacion/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "La inminente llegada de El Niño y la crisis del combustible presionan a los pescadores",
-      "url": "https://www.terram.cl/la-inminente-llegada-de-el-nino-y-la-crisis-del-combustible-presionan-a-los-pescadores/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo regional escalafon tecnico a contrata asimilado a grado 17 de la e u s del area de pesquerias para la oficina de licante",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-17-de-la-e-u-s-del-area-de-pesquerias-para-la-oficina-de-licante/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Ñuble impulsa proyecto para aumentar cobertura arbórea del Balneario Municipal de El Carmen",
-      "url": "https://www.conaf.cl/conaf-nuble-impulsa-proyecto-para-aumentar-cobertura-arborea-del-balneario-municipal-de-el-carmen/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-impulsa-proyecto-para-aumentar-cobertura-arborea-del-balneario-municipal-de-el-carmen",
+      "titular": "Chile presenta en Estados Unidos su modelo de gestión tecnológica en el principal encuentro de innovación aplicada a incendios forestales",
+      "url": "https://www.conaf.cl/chile-presenta-en-estados-unidos-su-modelo-de-gestion-tecnologica-en-el-principal-encuentro-de-innovacion-aplicada-a-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=chile-presenta-en-estados-unidos-su-modelo-de-gestion-tecnologica-en-el-principal-encuentro-de-innovacion-aplicada-a-incendios-forestales",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Entra en vigencia Plan Regional de Cambio Climático de Ñuble",
-      "url": "https://mma.gob.cl/entra-en-vigencia-plan-regional-de-cambio-climatico-de-nuble/",
+      "titular": "Equipo de Seremi del Medio Ambiente de Valparaíso se despliega en comunas de Quintero, Puchuncaví y Concon para informar sobre avances del Plan de Prevención y Descontaminación Atmosférica",
+      "url": "https://mma.gob.cl/equipo-de-seremi-del-medio-ambiente-de-valparaiso-se-despliega-en-comunas-de-quintero-puchuncavi-y-concon-para-informar-sobre-avances-del-pla-de-prevencion-y-descontaminacion-atmosferica/",
+      "fecha": "2026-06-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Escuela de Yungay impulsa educación ambiental y energía solar con apoyo del FPA",
+      "url": "https://mma.gob.cl/escuela-de-yungay-impulsa-educacion-ambiental-y-energia-solar-con-apoyo-del-fpa/",
       "fecha": "2026-06-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Otra vez Quiroz",
-      "url": "https://www.latercera.com/videos/noticia/otra-vez-quiroz/",
+      "titular": "Grupo de supervivientes de Epstein se opone a la nominación de Todd Blanche como fiscal general de EE.UU.",
+      "url": "https://www.latercera.com/mundo/noticia/grupo-de-supervivientes-de-epstein-se-opone-a-la-nominacion-de-todd-blanche-como-fiscal-general-de-eeuu/",
       "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
-      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
-      "fecha": "2026-06-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
-      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
-      "fecha": "2026-06-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental revisa reclamo contra archivo de denuncia ambiental vinculada a proyecto Kinross-La Coipa",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-reclamo-contra-archivo-de-denuncia-ambiental-vinculada-a-proyecto-kinross-la-coipa/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Inteligencias para el futuro: el valor de lo humano en tiempos de IA",
-      "url": "https://www.paiscircular.cl/biodiversidad/inteligencias-para-el-futuro-el-valor-de-lo-humano-en-tiempos-de-ia/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Estudio UDLA propone el uso de líquidos iónicos para eliminar residuos farmacéuticos del agua",
-      "url": "https://codexverde.cl/liquidos-ionicos-para-eliminar-residuos-farmaceuticos-del-agua/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Anticipándose al riesgo: Plataforma PRACT impulsa la adaptación climática  en la Cuenca del Aconcagua",
-      "url": "https://www.cr2.cl/anticipandose-al-riesgo-plataforma-pract-impulsa-la-adaptacion-climatica-en-la-cuenca-del-aconcagua/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calentamiento de la Tierra alcanza los 1,35 grados en 2025 y continuará en niveles elevados en el futuro",
-      "url": "https://efeverde.com/calentamiento-global-135-grados-2025-niveles-elevados/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Hallan el mayor y más profundo cementerio de ballenas con restos de 3,5 millones de años",
-      "url": "https://efeverde.com/hallan-el-mayor-y-mas-profundo-cementerio-de-ballenas/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Bruselas presenta sus primeras estrategias frente a retos de comunidades costeras e islas",
-      "url": "https://efeverde.com/bruselas-estrategias-comunidades-costeras-islas/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La imagen de dos científicos que siguen a las aves por los cielos de Jaén gana un premio de la revista Nature",
-      "url": "https://efeverde.com/imagen-cientificos-aves-jaen-premio-nature/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El biólogo español Enric Sala, galardonado por la Royal Geographic Society de Londres",
-      "url": "https://efeverde.com/biologo-enric-sala-galardonado-royal-geographic-society-londres/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La superficie del incendio de Villanueva (Huelva) supera ya las 5.000 hectáreas",
-      "url": "https://efeverde.com/incendio-villanueva-huelva-5000-hectareas/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Alerta ambiental y comercial en Chile: industriales buscan reabrir la pesca de arrastre de la jibia o pota",
-      "url": "https://www.terram.cl/alerta-ambiental-y-comercial-en-chile-industriales-buscan-reabrir-la-pesca-de-arrastre-de-la-jibia-o-pota/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Vecinos de Antofagasta alertan por expansión minera al lado de segundo sitio con más geoglifos en el mundo",
-      "url": "https://www.terram.cl/vecinos-de-antofagasta-alertan-por-expansion-minera-al-lado-de-segundo-sitio-con-mas-geoglifos-en-el-mundo/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tierras raras: Gobierno de Kast golpea a Penco-Lirquén aprobando cuestionado proyecto minero",
-      "url": "https://www.terram.cl/tierras-raras-gobierno-de-kast-golpea-a-penco-lirquen-aprobando-cuestionado-proyecto-minero/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "El Fantasma de Los Andes: buscan proteger al gato andino en Chile ante amenazas que ponen en riesgo su hábitat cordilleran",
-      "url": "https://www.terram.cl/el-fantasma-de-los-andes-buscan-proteger-al-gato-andino-en-chile-ante-amenazas-que-ponen-en-riesgo-su-habitat-cordilleran/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tercer Encuentro Nacional de Sitios Ramsar reunió en Valdivia a representantes de humedales de todo Chile",
-      "url": "https://www.terram.cl/tercer-encuentro-nacional-de-sitios-ramsar-reunio-en-valdivia-a-representantes-de-humedales-de-todo-chile/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Revisan antecedentes en reclamación de comunidad indígena contra decisión de la SMA de archivar denuncia por supuesta elusión al SEIA de empresa minera",
-      "url": "https://www.1ta.cl/revisan-antecedentes-en-reclamacion-de-comunidad-indigena-contra-decision-de-la-sma-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-empresa-minera/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Proyecto financiado por el Fondo de Protección Ambiental impulsa reciclaje y economía circular en Liceo de Monte Águila",
-      "url": "https://mma.gob.cl/proyecto-financiado-por-el-fondo-de-proteccion-ambiental-impulsa-reciclaje-y-economia-circular-en-liceo-de-monte-aguila/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Subsecretario José Vial destaca actualización de la norma de plomo para proteger la salud de las personas",
-      "url": "https://mma.gob.cl/subsecretario-jose-vial-destaca-actualizacion-de-la-norma-de-plomo-para-proteger-la-salud-de-las-personas/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Coltauco y Mostazal se suman a campaña de reciclaje de aceite usado: “Toma la Sartén por el Mango”",
-      "url": "https://mma.gob.cl/coltauco-y-mostazal-se-suman-a-campana-de-reciclaje-de-aceite-usado-toma-la-sarten-por-el-mango/",
-      "fecha": "2026-06-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

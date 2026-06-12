@@ -1,54 +1,18 @@
 {
-  "fecha_generacion": "2026-06-11T11:06:08.155086-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-12T10:27:16.355125-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Diario Financiero",
-      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
-      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Restaurante de Iquique reclama ante el Primer Tribunal Ambiental contra multa de la SMA por supuestas infracciones a norma de ruido",
+      "url": "https://www.1ta.cl/restaurant-de-iquique-reclama-ante-el-primer-tribunal-ambiental-contra-multa-de-la-sma-por-supuestas-infracciones-a-norma-de-ruido/",
       "fecha": "2026-06-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El cambio se explica porque en la Cámara hay reparos a una figura unipersonal en la resolución de las reclamaciones de los diversos proyectos de inversión.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Gobierno ingresa primeras indicaciones a la reforma al SEIA: plantea reponer Comité de Ministros con al menos 10 sesiones al año",
-      "url": "https://www.df.cl/empresas/industria/gobierno-ingresa-primeras-indicaciones-a-la-reforma-al-seia-plantea",
-      "fecha": "2026-06-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
       "extracto": "",
       "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental revisa reclamo contra archivo de denuncia ambiental vinculada a proyecto Kinross-La Coipa",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisa-reclamo-contra-archivo-de-denuncia-ambiental-vinculada-a-proyecto-kinross-la-coipa/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Comunidad Indígena Ancestral Wara Quebrada Chañaral Alto y sus Quebradas cuestiona la decisión de la SMA de archivar una denuncia por una supuesta elusión al SEIA asociada al proyecto Kinross-La Coipa. El organismo fiscalizador y la compañía miner",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Revisan antecedentes en reclamación de comunidad indígena contra decisión de la SMA de archivar denuncia por supuesta elusión al SEIA de empresa minera",
-      "url": "https://www.1ta.cl/revisan-antecedentes-en-reclamacion-de-comunidad-indigena-contra-decision-de-la-sma-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-empresa-minera/",
-      "fecha": "2026-06-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En audiencia, el Primer Tribunal Ambiental, revisó antecedentes en la reclamación presentada por la Comunidad Indígena Ancestral Wara Quebrada Chañaral Alto y sus Quebradas Copiapó-Diego de Almagro, en contra de la decisión de la Superintendencia del",
-      "keywords_detectadas": [
         "SMA",
-        "SEIA"
+        "Tribunal Ambiental"
       ]
     }
   ]
