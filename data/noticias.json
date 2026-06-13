@@ -1,205 +1,181 @@
 {
-  "fecha_actualizacion": "2026-06-12T10:27:16.339333-04:00",
-  "total": 25,
+  "fecha_actualizacion": "2026-06-13T09:01:55.451985-04:00",
+  "total": 22,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Mejores cortes de carne para parrilla y cómo prepararlos: guía práctica para un asado bien hecho en Chile",
-      "url": "https://www.paiscircular.cl/tendencias/mejores-cortes-de-carne-para-parrilla-y-como-prepararlos-guia-practica-para-un-asado-bien-hecho-en-chile/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Biochar inoculado y ácido piroleñoso: los fertilizantes creados por la empresa Arantruf para producir sus arándanos y trufas",
-      "url": "https://www.paiscircular.cl/economia-circular/biochar/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Subsecretario José Vial destaca actualización de la norma de plomo para proteger la salud de las personas",
-      "url": "https://www.chiledesarrollosustentable.cl/subsecretario-jose-vial-destaca-actualizacion-de-la-norma-de-plomo-para-proteger-la-salud-de-las-personas/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-jose-vial-destaca-actualizacion-de-la-norma-de-plomo-para-proteger-la-salud-de-las-personas",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Empresarios de Plaza Ñuñoa impulsan modelo que ya recupera 20 toneladas de residuos orgánicos",
-      "url": "https://www.chiledesarrollosustentable.cl/de-300-kilos-a-12-toneladas-en-tres-meses-empresarios-de-plaza-nunoa-impulsan-modelo-que-ya-recupera-20-toneladas-de-residuos-organicos/?utm_source=rss&utm_medium=rss&utm_campaign=de-300-kilos-a-12-toneladas-en-tres-meses-empresarios-de-plaza-nunoa-impulsan-modelo-que-ya-recupera-20-toneladas-de-residuos-organicos",
-      "fecha": "2026-06-12",
+      "fuente": "EFE Verde",
+      "titular": "Perú firma el primer acuerdo ambiental para proteger fuentes de agua en zonas altoandinas",
+      "url": "https://efeverde.com/peru-firma-el-primer-acuerdo-ambiental-para-proteger-fuentes-de-agua-en-zonas-altoandinas/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Entrenan a una IA para distinguir salmones y otras especies y controlar sus poblaciones en el Bidasoa",
-      "url": "https://efeverde.com/entrenan-a-una-ia-para-distinguir-salmones-y-otras-especies-y-controlar-sus-poblaciones-en-el-bidasoa/",
-      "fecha": "2026-06-12",
+      "titular": "Del acantilado a la iglesia: París es un nuevo refugio de los halcones ante los pesticidas",
+      "url": "https://efeverde.com/paris-nuevo-refugio-halcones-ante-pesticidas/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las quemas controladas reducen en un 92 % el riesgo de incendios forestales graves en California",
-      "url": "https://efeverde.com/quemas-controladas-reducen-riesgo-incendios-forestales-graves/",
-      "fecha": "2026-06-12",
+      "titular": "El permafrost dejará de ser un sumidero y empezará a emitir CO2 a mediados de siglo",
+      "url": "https://efeverde.com/el-permafrost-dejara-de-ser-un-sumidero-y-empezara-a-emitir-co2-a-mediados-de-siglo/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Edificios «vivos» que generan energía o reducen residuos, ¿realidad o ciencia ficción?",
-      "url": "https://efeverde.com/edificios-vivos-que-generan-energia-o-reducen-residuos-realidad-o-ciencia-ficcion/",
-      "fecha": "2026-06-12",
+      "titular": "Isla de Valdecañas: nuevo capítulo en la lucha judicial entre la Junta de Extremadura y las organizaciones ecologistas",
+      "url": "https://efeverde.com/isla-de-valdecanas-nuevo-capitulo-en-la-lucha-judicial-entre-la-junta-de-extremadura-y-las-organizaciones-ecologistas/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Cabo de Gata toma el pulso a la posidonia, clave para la salud del Mediterráneo",
-      "url": "https://efeverde.com/el-cabo-de-gata-toma-el-pulso-a-la-posidonia/",
-      "fecha": "2026-06-12",
+      "titular": "‘La odisea de la foca monje’, una «road movie científica» para evitar su extinción",
+      "url": "https://efeverde.com/la-odisea-de-la-foca-monje-una-road-movie-cientifica-para-evitar-su-extincion/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mapean por primera vez el gigantesco y oculto ‘sistema circulatorio’ de la Tierra",
-      "url": "https://efeverde.com/mapean-por-primera-vez-el-gigantesco-y-oculto-sistema-circulatorio-de-la-tierra/",
-      "fecha": "2026-06-12",
+      "titular": "Los incendios forestales aumentan la contaminación por ozono y revierten los avances en el control de emisiones",
+      "url": "https://efeverde.com/incendios-forestales-contaminacion-ozono-revierten-avances-control-emisiones/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El bulbo húmedo, la medida invisible que anticipa el riesgo real del calor extremo",
-      "url": "https://efeverde.com/bulbo-humedo-medida-invisible-anticipa-riesgo-calor-extremo/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Gobierno propone reformas al Sistema de Evaluación de Impacto Ambiental para atraer inversiones",
-      "url": "https://www.redimin.cl/gobierno-propone-reformas-al-sistema-de-evaluacion-de-impacto-ambiental-para-atraer-inversiones",
-      "fecha": "2026-06-12",
+      "titular": "No retirarlos y actuar solo en caso de peligro: qué hacer si te encuentras un polluelo en el suelo",
+      "url": "https://efeverde.com/que-hacer-cria-pajaro-suelo/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Miembros de la delegación chilena en el Zero Waste Forum en Turquía transmitieron sus exitosas experiencias “cero basura”",
-      "url": "https://www.paiscircular.cl/economia-circular/miembros-de-la-delegacion-chilena-en-el-zero-waste-forum-en-turquia-transmitieron-sus-exitosas-experiencias-cero-basura/",
-      "fecha": "2026-06-11",
+      "titular": "“Terricidio”, un relato visual del extractivismo que llega a Chiloé",
+      "url": "https://www.paiscircular.cl/medio-ambiente/terricidio-un-relato-visual-del-extractivismo-que-llega-a-chiloe/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Siemens lanza la décima edición de su concurso regional de eficiencia energética",
-      "url": "https://www.paiscircular.cl/transicion-energetica/siemens-lanza-la-decima-edicion-de-su-concurso-regional-de-eficiencia-energetica/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Banco de Chile lanza B Startup, una nueva propuesta para impulsar el crecimiento del ecosistema emprendedorrrador automático",
-      "url": "https://www.chiledesarrollosustentable.cl/banco-de-chile-lanza-b-startup-una-nueva-propuesta-para-impulsar-el-crecimiento-del-ecosistema-emprendedorrrador-automatico/?utm_source=rss&utm_medium=rss&utm_campaign=banco-de-chile-lanza-b-startup-una-nueva-propuesta-para-impulsar-el-crecimiento-del-ecosistema-emprendedorrrador-automatico",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Santiago liderará cumbre internacional para acelerar la transición hacia una economía textil sostenible",
-      "url": "https://codexverde.cl/cumbre-busca-acelerar-transicion-hacia-economia-textil-sostenible/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Ciencia para la conservación: monitoreo busca evaluar la salud de los bosques subantárticos de Karukinka",
-      "url": "https://codexverde.cl/ciencia-para-la-conservacion-monitoreo-busca-evaluar-la-salud-de-los-bosques-subantarticos-de-karukinka/",
-      "fecha": "2026-06-11",
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Análisis CR2 | Calfucurá en Boroa, Tripayngam en Puerto Varas",
+      "url": "https://www.cr2.cl/analisis-cr2-calfucura-en-boroa-tripayngam-en-puerto-varas/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El rey advierte de los desafíos de la gestión del agua ante el cambio climático",
-      "url": "https://efeverde.com/rey-desafios-de-gestion-del-agua-ante-cambio-climatico/",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La NOAA anuncia la formación de El Niño en el Pacífico tropical con previsión de ser «muy fuerte»",
-      "url": "https://efeverde.com/noaa-el-nino-en-el-pacifico-tropical/",
-      "fecha": "2026-06-11",
+      "titular": "El proyecto europeo LIFE Intemares ha contribuido a la protección del 22,5 % del área marina española",
+      "url": "https://efeverde.com/life-intemares-proteccion-area-marina-espanola/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Megaproyecto de corredor bioceánico Mendoza-Los Andes toma fuerza: inversión de US$ 9.600 millones",
-      "url": "https://www.terram.cl/megaproyecto-de-corredor-bioceanico-mendoza-los-andes-toma-fuerza-inversion-de-us-9-600-millones/",
-      "fecha": "2026-06-11",
+      "titular": "Gobierno repone Comité de Ministros en reforma al SEIA y redefine impacto acumulativo",
+      "url": "https://www.terram.cl/gobierno-repone-comite-de-ministros-en-reforma-al-seia-y-redefine-impacto-acumulativo/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Restaurante de Iquique reclama ante el Primer Tribunal Ambiental contra multa de la SMA por supuestas infracciones a norma de ruido",
-      "url": "https://www.1ta.cl/restaurant-de-iquique-reclama-ante-el-primer-tribunal-ambiental-contra-multa-de-la-sma-por-supuestas-infracciones-a-norma-de-ruido/",
-      "fecha": "2026-06-11",
+      "fuente": "Terram",
+      "titular": "Contraloría declara ilegal resolución de gobierno de Boric que permitió aumentar el registro de pesca",
+      "url": "https://www.terram.cl/contraloria-declara-ilegal-resolucion-de-gobierno-de-boric-que-permitio-aumentar-el-registro-de-pesca/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "CONDEPP apunta a crimen organizado y secreto bancario tras red de tráfico de productos marinos",
+      "url": "https://www.terram.cl/condepp-apunta-a-crimen-organizado-y-secreto-bancario-tras-red-de-trafico-de-productos-marinos/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Ministro Campos asegura que se encontró “con un déficit de $50 mil millones” en el Ministerio de Agricultura",
+      "url": "https://www.terram.cl/ministro-campos-asegura-que-se-encontro-con-un-deficit-de-50-mil-millones-en-el-ministerio-de-agricultura/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "ONU: solo diez países gastan más electricidad que la IA",
+      "url": "https://www.terram.cl/onu-solo-diez-paises-gastan-mas-electricidad-que-la-ia/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Otorgan suma urgencia a proyecto que autoriza la captura y control de perros ferales o asilvestrados",
+      "url": "https://www.terram.cl/otorgan-suma-urgencia-a-proyecto-que-autoriza-la-captura-y-control-de-perros-ferales-o-asilvestrados/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 11/06/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-11-06-2026/",
-      "fecha": "2026-06-11",
+      "titular": "Admítase a trámite «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente». Rol: R-33-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "Chile presenta en Estados Unidos su modelo de gestión tecnológica en el principal encuentro de innovación aplicada a incendios forestales",
-      "url": "https://www.conaf.cl/chile-presenta-en-estados-unidos-su-modelo-de-gestion-tecnologica-en-el-principal-encuentro-de-innovacion-aplicada-a-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=chile-presenta-en-estados-unidos-su-modelo-de-gestion-tecnologica-en-el-principal-encuentro-de-innovacion-aplicada-a-incendios-forestales",
-      "fecha": "2026-06-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Equipo de Seremi del Medio Ambiente de Valparaíso se despliega en comunas de Quintero, Puchuncaví y Concon para informar sobre avances del Plan de Prevención y Descontaminación Atmosférica",
-      "url": "https://mma.gob.cl/equipo-de-seremi-del-medio-ambiente-de-valparaiso-se-despliega-en-comunas-de-quintero-puchuncavi-y-concon-para-informar-sobre-avances-del-pla-de-prevencion-y-descontaminacion-atmosferica/",
-      "fecha": "2026-06-11",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental rechazó la reclamación contra proyecto “Central Hidroeléctrica Los Maquis” en Aysén",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-la-reclamacion-contra-proyecto-central-hidroelectrica-los-maquis-en-aysen/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Escuela de Yungay impulsa educación ambiental y energía solar con apoyo del FPA",
-      "url": "https://mma.gob.cl/escuela-de-yungay-impulsa-educacion-ambiental-y-energia-solar-con-apoyo-del-fpa/",
-      "fecha": "2026-06-11",
+      "titular": "Autoridades coordinan acciones para enfrentar la contaminación atmosférica en Aysén",
+      "url": "https://mma.gob.cl/autoridades-coordinan-acciones-para-enfrentar-la-contaminacion-atmosferica-en-aysen/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades difunden subsidio Programa Recambio de Calefactores para Talca y Maule",
+      "url": "https://mma.gob.cl/autoridades-difunden-subsidio-programa-recambio-de-calefactores-para-talca-y-maule/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Grupo de supervivientes de Epstein se opone a la nominación de Todd Blanche como fiscal general de EE.UU.",
-      "url": "https://www.latercera.com/mundo/noticia/grupo-de-supervivientes-de-epstein-se-opone-a-la-nominacion-de-todd-blanche-como-fiscal-general-de-eeuu/",
-      "fecha": "2026-06-11",
+      "titular": "“Tipología de ingreso de desaladoras”",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/tipologia-de-ingreso-de-desaladoras-2/",
+      "fecha": "2026-06-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Enap ingresa al SEIA proyecto de extracción de hidrocarburos en Magallanes con inversión de US$96 millones",
+      "url": "https://www.revistaei.cl/enap-ingresa-al-seia-proyecto-de-extraccion-de-hidrocarburos-en-magallanes-con-inversion-de-us96-millones/",
+      "fecha": "2026-06-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
