@@ -1,181 +1,53 @@
 {
-  "fecha_actualizacion": "2026-06-13T09:01:55.451985-04:00",
-  "total": 22,
+  "fecha_actualizacion": "2026-06-14T09:32:36.683251-04:00",
+  "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Perú firma el primer acuerdo ambiental para proteger fuentes de agua en zonas altoandinas",
-      "url": "https://efeverde.com/peru-firma-el-primer-acuerdo-ambiental-para-proteger-fuentes-de-agua-en-zonas-altoandinas/",
-      "fecha": "2026-06-13",
+      "titular": "Sostenibilidad y medicamentos: una nueva forma de evaluar la innovación. Por Manuel Zafra (presidente de Merck en España)",
+      "url": "https://efeverde.com/sostenibilidad-y-medicamentos-una-nueva-forma-de-evaluar-la-innovacion-por-manuel-zafra/",
+      "fecha": "2026-06-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Del acantilado a la iglesia: París es un nuevo refugio de los halcones ante los pesticidas",
-      "url": "https://efeverde.com/paris-nuevo-refugio-halcones-ante-pesticidas/",
-      "fecha": "2026-06-13",
+      "titular": "La vida se abre paso en la tubos de lava formados por el volcán Tajogaite",
+      "url": "https://efeverde.com/la-vida-se-abre-paso-en-la-tubos-de-lava-formados-por-el-volcan-tajogaite/",
+      "fecha": "2026-06-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El permafrost dejará de ser un sumidero y empezará a emitir CO2 a mediados de siglo",
-      "url": "https://efeverde.com/el-permafrost-dejara-de-ser-un-sumidero-y-empezara-a-emitir-co2-a-mediados-de-siglo/",
-      "fecha": "2026-06-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Isla de Valdecañas: nuevo capítulo en la lucha judicial entre la Junta de Extremadura y las organizaciones ecologistas",
-      "url": "https://efeverde.com/isla-de-valdecanas-nuevo-capitulo-en-la-lucha-judicial-entre-la-junta-de-extremadura-y-las-organizaciones-ecologistas/",
-      "fecha": "2026-06-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "‘La odisea de la foca monje’, una «road movie científica» para evitar su extinción",
-      "url": "https://efeverde.com/la-odisea-de-la-foca-monje-una-road-movie-cientifica-para-evitar-su-extincion/",
-      "fecha": "2026-06-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios forestales aumentan la contaminación por ozono y revierten los avances en el control de emisiones",
-      "url": "https://efeverde.com/incendios-forestales-contaminacion-ozono-revierten-avances-control-emisiones/",
-      "fecha": "2026-06-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "No retirarlos y actuar solo en caso de peligro: qué hacer si te encuentras un polluelo en el suelo",
-      "url": "https://efeverde.com/que-hacer-cria-pajaro-suelo/",
-      "fecha": "2026-06-13",
+      "titular": "Restringen el acceso al pico Curavacas en Palencia por la presencia de osas con crías",
+      "url": "https://efeverde.com/restringen-el-acceso-al-pico-curavacas-en-palencia-por-la-presencia-de-osas-con-crias/",
+      "fecha": "2026-06-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "“Terricidio”, un relato visual del extractivismo que llega a Chiloé",
-      "url": "https://www.paiscircular.cl/medio-ambiente/terricidio-un-relato-visual-del-extractivismo-que-llega-a-chiloe/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Análisis CR2 | Calfucurá en Boroa, Tripayngam en Puerto Varas",
-      "url": "https://www.cr2.cl/analisis-cr2-calfucura-en-boroa-tripayngam-en-puerto-varas/",
-      "fecha": "2026-06-12",
+      "titular": "Lanzan mesa de gobernanza público-privada para rescatar más de 15.000 toneladas de latas de aluminio que Chile entierra al año",
+      "url": "https://www.paiscircular.cl/economia-circular/lanzan-mesa-de-gobernanza-publico-privada-para-rescatar-mas-de-15-000-toneladas-de-latas-de-aluminio-que-chile-entierra-al-ano/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El proyecto europeo LIFE Intemares ha contribuido a la protección del 22,5 % del área marina española",
-      "url": "https://efeverde.com/life-intemares-proteccion-area-marina-espanola/",
-      "fecha": "2026-06-12",
+      "titular": "¿Cómo salvar los bosques de la Patagonia de los súper incendios y el cambio climático?",
+      "url": "https://efeverde.com/como-salvar-los-bosques-de-la-patagonia-de-los-super-incendios-y-el-cambio-climatico/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Gobierno repone Comité de Ministros en reforma al SEIA y redefine impacto acumulativo",
-      "url": "https://www.terram.cl/gobierno-repone-comite-de-ministros-en-reforma-al-seia-y-redefine-impacto-acumulativo/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Contraloría declara ilegal resolución de gobierno de Boric que permitió aumentar el registro de pesca",
-      "url": "https://www.terram.cl/contraloria-declara-ilegal-resolucion-de-gobierno-de-boric-que-permitio-aumentar-el-registro-de-pesca/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "CONDEPP apunta a crimen organizado y secreto bancario tras red de tráfico de productos marinos",
-      "url": "https://www.terram.cl/condepp-apunta-a-crimen-organizado-y-secreto-bancario-tras-red-de-trafico-de-productos-marinos/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ministro Campos asegura que se encontró “con un déficit de $50 mil millones” en el Ministerio de Agricultura",
-      "url": "https://www.terram.cl/ministro-campos-asegura-que-se-encontro-con-un-deficit-de-50-mil-millones-en-el-ministerio-de-agricultura/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "ONU: solo diez países gastan más electricidad que la IA",
-      "url": "https://www.terram.cl/onu-solo-diez-paises-gastan-mas-electricidad-que-la-ia/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Otorgan suma urgencia a proyecto que autoriza la captura y control de perros ferales o asilvestrados",
-      "url": "https://www.terram.cl/otorgan-suma-urgencia-a-proyecto-que-autoriza-la-captura-y-control-de-perros-ferales-o-asilvestrados/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente». Rol: R-33-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental rechazó la reclamación contra proyecto “Central Hidroeléctrica Los Maquis” en Aysén",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-la-reclamacion-contra-proyecto-central-hidroelectrica-los-maquis-en-aysen/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades coordinan acciones para enfrentar la contaminación atmosférica en Aysén",
-      "url": "https://mma.gob.cl/autoridades-coordinan-acciones-para-enfrentar-la-contaminacion-atmosferica-en-aysen/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades difunden subsidio Programa Recambio de Calefactores para Talca y Maule",
-      "url": "https://mma.gob.cl/autoridades-difunden-subsidio-programa-recambio-de-calefactores-para-talca-y-maule/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Tipología de ingreso de desaladoras”",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/tipologia-de-ingreso-de-desaladoras-2/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Enap ingresa al SEIA proyecto de extracción de hidrocarburos en Magallanes con inversión de US$96 millones",
-      "url": "https://www.revistaei.cl/enap-ingresa-al-seia-proyecto-de-extraccion-de-hidrocarburos-en-magallanes-con-inversion-de-us96-millones/",
-      "fecha": "2026-06-12",
+      "fuente": "EFE Verde",
+      "titular": "La ‘laguna de los flamencos’, ¿amenazada por la familia Trump?",
+      "url": "https://efeverde.com/la-laguna-de-los-flamencos-amenazada-por-la-familia-trump/",
+      "fecha": "2026-06-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

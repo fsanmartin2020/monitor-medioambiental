@@ -1,54 +1,5 @@
 {
-  "fecha_generacion": "2026-06-13T09:01:55.466694-04:00",
-  "total_alertas": 4,
-  "alertas": [
-    {
-      "fuente": "Terram",
-      "titular": "Gobierno repone Comité de Ministros en reforma al SEIA y redefine impacto acumulativo",
-      "url": "https://www.terram.cl/gobierno-repone-comite-de-ministros-en-reforma-al-seia-y-redefine-impacto-acumulativo/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las primeras indicaciones del gobierno a la reforma ambiental restablecen el Comité de Ministros y acotan el concepto de impacto acumulativo en proyectos. Fuente: El Desconcierto, 11 de junio de 2026.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente». Rol: R-33-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 12 de junio de 2026, admítase a trámite la Reclamación identificada como Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente. (Rol R-33-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enl",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental rechazó la reclamación contra proyecto “Central Hidroeléctrica Los Maquis” en Aysén",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-la-reclamacion-contra-proyecto-central-hidroelectrica-los-maquis-en-aysen/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La sentencia determinó que no existía desviación de fin y que el titular puede contemplar como una medida del Programa de Cumplimiento, el ingreso a evaluación ambiental. Una reclamación de ilegalidad fue presentada en contra de la Superintendencia d",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Enap ingresa al SEIA proyecto de extracción de hidrocarburos en Magallanes con inversión de US$96 millones",
-      "url": "https://www.revistaei.cl/enap-ingresa-al-seia-proyecto-de-extraccion-de-hidrocarburos-en-magallanes-con-inversion-de-us96-millones/",
-      "fecha": "2026-06-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera una vida útil proyectada de 20 años. La entrada Enap ingresa al SEIA proyecto de extracción de hidrocarburos en Magallanes con inversión de US$96 millones se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-06-14T09:32:36.696387-04:00",
+  "total_alertas": 0,
+  "alertas": []
 }
