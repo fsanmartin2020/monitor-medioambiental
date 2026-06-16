@@ -1,213 +1,301 @@
 {
-  "fecha_actualizacion": "2026-06-15T12:33:24.219547-04:00",
-  "total": 26,
+  "fecha_actualizacion": "2026-06-16T12:16:37.642328-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Hoy parten en Santiago tres días de diálogo de alto nivel con el objetivo de acelerar la transición hacia la circularidad en la industria textil",
-      "url": "https://www.paiscircular.cl/economia-circular/hoy-parten-en-santiago-tres-dias-de-dialogo-de-alto-nivel-con-el-objetivo-de-acelerar-la-transicion-hacia-la-circularidad-en-la-industria-textil/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Presidente Kast y Ministra Toledo visitan el SEA y destacan histórica aprobación ambiental de proyectos durante los primeros tres meses de gobierno",
-      "url": "https://www.chiledesarrollosustentable.cl/presidente-kast-y-ministra-toledo-visitan-el-sea-y-destacan-historica-aprobacion-ambiental-de-proyectos-durante-los-primeros-tres-meses-de-gobierno/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-kast-y-ministra-toledo-visitan-el-sea-y-destacan-historica-aprobacion-ambiental-de-proyectos-durante-los-primeros-tres-meses-de-gobierno",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Lanzan mesa de gobernanza público-privada para rescatar más de 15 mil toneladas de latas de aluminio que Chile entierra al año",
-      "url": "https://codexverde.cl/lanzan-mesa-de-gobernanza-publico-privada-para-rescatar-mas-de-15-mil-toneladas-de-latas-de-aluminio-que-chile-entierra-al-ano/",
-      "fecha": "2026-06-15",
+      "titular": "Polinizadores en peligro: POR QUÉ LAS ABEJAS SON FUNDAMENTALES",
+      "url": "https://www.chiledesarrollosustentable.cl/polinizadores-en-peligro-por-que-las-abejas-son-fundamentales/?utm_source=rss&utm_medium=rss&utm_campaign=polinizadores-en-peligro-por-que-las-abejas-son-fundamentales",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sueltan 27 tortugas bobas en Mojácar (Almería) tras un año cuidadas en cautividad",
-      "url": "https://efeverde.com/sueltan-tortugas-bobas-mojacar-almeria/",
-      "fecha": "2026-06-15",
+      "titular": "Reducir velocidad y variar rutas de navegación, claves para evitar colisiones con cetáceos",
+      "url": "https://efeverde.com/reducir-velocidad-rutas-navegacion-evitar-colisiones-cetaceos/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "SEO/BirdLife alerta del impacto del cambio climático en la Reserva de la Biosfera de Sierra Nevada, recién ampliada",
-      "url": "https://efeverde.com/seo-birdlife-impacto-del-cambio-climatico-en-reserva-de-la-biosfera-de-sierra-nevada/",
-      "fecha": "2026-06-15",
+      "titular": "Día Mundial de las Tortugas Marinas, en persecución constante. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/dia-mundial-de-las-tortugas-marinas-en-persecucion-constante-por-victor-solis/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las corrientes marinas juegan un papel fundamental en las zonas de reproducción del atún rojo",
-      "url": "https://efeverde.com/corrientes-marinas-zonas-reproduccion-atun-rojo/",
-      "fecha": "2026-06-15",
+      "titular": "España, un país para bañarse (pero mejor en la playa que en ríos y lagos)",
+      "url": "https://efeverde.com/espana-pais-banarse-playa-rios-lagos/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Aemet prevé un verano más caluroso de lo normal en Andalucía debido al cambio climático",
-      "url": "https://efeverde.com/aemet-verano-mas-caluroso-andalucia-cambio-climatico/",
-      "fecha": "2026-06-15",
+      "titular": "Aprobado un nuevo trasvase del Tajo al Segura de 120 hm3 para junio y julio",
+      "url": "https://efeverde.com/nuevo-trasvase-del-tajo-al-segura-para-junio-y-julio/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "SCRAP textil: una oportunidad de interés general para generar valor social y ambiental. Por Mª Luz Ferro",
-      "url": "https://efeverde.com/scrap-textil-una-oportunidad-de-interes-general-para-generar-valor-social-y-ambiental-por-mari-luz-ferro/",
-      "fecha": "2026-06-15",
+      "titular": "La presión humana reduce las funciones ecológicas que desempeñan los peces de arrecife",
+      "url": "https://efeverde.com/presion-humana-peces-de-arrecife/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Miles de personas salen a la calle en Galicia para protestar contra una mina y la macroplanta de Altri",
-      "url": "https://efeverde.com/miles-de-personas-salen-a-la-calle-para-protestar-contra-un-proyecto-de-mina-y-la-macroplanta-de-altri/",
-      "fecha": "2026-06-15",
+      "titular": "Implantan chips en palmeras ornamentales de Sevilla para evitar que sean robadas",
+      "url": "https://efeverde.com/implantan-chips-palmeras-sevilla/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Hallan casi 166.000 km² de arrecifes con potencial para recuperarse de los efectos del cambio climático",
+      "url": "https://efeverde.com/arrecifes-recuperarse-efectos-cambio-climatico/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El TSXG eleva al TC una cuestión de inconstitucionalidad por la desprotección de lobo",
+      "url": "https://efeverde.com/el-tsxg-eleva-una-cuestion-de-inconstitucionalidad-por-la-desproteccion-de-lobo/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "León XIV vincula la emergencia climática a una crisis socioeconómica más amplia",
+      "url": "https://efeverde.com/leon-xiv-emergencia-climatica/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Unicef: unos 58 millones de niños en Latinoamérica, expuestos a varios peligros climáticos",
+      "url": "https://efeverde.com/unicef-unos-58-millones-de-ninos-en-latinoamerica-expuestos-a-varios-peligros-climaticos/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Fiscal Medio Ambiente: La delincuencia ambiental, cada día «más organizada y preocupante»",
+      "url": "https://efeverde.com/fiscal-medio-ambiente-la-delincuencia-ambiental-cada-dia-mas-organizada-y-preocupante/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La crisis climática amenaza a casi la mitad de la infancia mundial",
+      "url": "https://efeverde.com/la-mitad-de-la-infancia-mundial-afronta-al-menos-tres-amenazas-climaticas/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de la mitad de los niños de España están expuestos, al menos, a tres amenazas climáticas",
+      "url": "https://efeverde.com/mas-de-la-mitad-de-los-ninos-de-espana-estan-expuestos-a-al-menos-tres-amenazas-climaticas/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "«Aquí nos quedaremos», pueblos indígenas firmes tras tomar planta de amoniaco en México",
+      "url": "https://efeverde.com/aqui-nos-quedaremos-pueblos-indigenas-firmes-tras-tomar-planta-de-amoniaco-en-mexico/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "El estrecho vínculo del subsecretario de Pesca con grandes industriales del sector",
-      "url": "https://www.terram.cl/el-estrecho-vinculo-del-subsecretario-de-pesca-con-grandes-industriales-del-sector/",
-      "fecha": "2026-06-15",
+      "titular": "Municipios impugnan solo 1% de los proyectos de inversión que evalúan por impacto ambiental, detecta estudio",
+      "url": "https://www.terram.cl/municipios-impugnan-solo-1-de-los-proyectos-de-inversion-que-evaluan-por-impacto-ambiental-detecta-estudio/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Multa histórica por elusión ambiental en la Región de Los Lagos: SMA sanciona a proyecto inmobiliario en el río Maullín por 3.800 millones",
-      "url": "https://www.terram.cl/multa-historica-por-elusion-ambiental-en-la-region-de-los-lagos-sma-sanciona-a-proyecto-inmobiliario-en-el-rio-maullin-por-3-800-millones/",
-      "fecha": "2026-06-15",
+      "titular": "Región Metropolitana supera los episodios ambientales críticos de últimos dos años",
+      "url": "https://www.terram.cl/region-metropolitana-supera-los-episodios-ambientales-criticos-de-ultimos-dos-anos/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Ante contaminación del aire alertan por retiro de decreto que limita las concentraciones de material particulado",
-      "url": "https://www.terram.cl/ante-contaminacion-del-aire-alertan-por-retiro-de-decreto-que-limita-las-concentraciones-de-material-particulado/",
-      "fecha": "2026-06-15",
+      "titular": "Revive polémica por ruta que cruzará bosque de alerces, hogar del árbol más viejo del mundo",
+      "url": "https://www.terram.cl/revive-polemica-por-ruta-que-cruzara-bosque-de-alerces-hogar-del-arbol-mas-viejo-del-mundo/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Tribunal Ambiental rechaza reclamación en contra del proyecto “Central Hidroeléctrica Los Maquis”",
-      "url": "https://www.terram.cl/tribunal-ambiental-rechaza-reclamacion-en-contra-del-proyecto-central-hidroelectrica-los-maquis/",
-      "fecha": "2026-06-15",
+      "titular": "Megasequía pone a prueba la supervivencia del bosque esclerófilo de Chile central",
+      "url": "https://www.terram.cl/megasequia-pone-a-prueba-la-supervivencia-del-bosque-esclerofilo-de-chile-central/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Autoridades coordinan acciones para enfrentar contaminación atmosférica en Aysén",
-      "url": "https://www.terram.cl/autoridades-coordinan-acciones-para-enfrentar-contaminacion-atmosferica-en-aysen/",
-      "fecha": "2026-06-15",
+      "titular": "Alerta por varamientos seguidos de ballenas en costas del Biobío",
+      "url": "https://www.terram.cl/alerta-por-varamientos-seguidos-de-ballenas-en-costas-del-biobio/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "¿Cómo salvar los bosques de la Patagonia de los súper incendios y el cambio climático?",
-      "url": "https://www.terram.cl/como-salvar-los-bosques-de-la-patagonia-de-los-super-incendios-y-el-cambio-climatico/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Jefe a de departamento de gestion de programas de fiscalizacion pesquera grado 5 de la e u s direccion nacional region de valparaiso del servicio nacional de pesca y acuicultura",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/jefe-a-de-departamento-de-gestion-de-programas-de-fiscalizacion-pesquera-grado-5-de-la-e-u-s-direccion-nacional-region-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "En Magallanes: Forestín celebró su medio siglo de vida",
-      "url": "https://www.conaf.cl/en-magallanes-forestin-celebro-su-medio-siglo-de-vida/?utm_source=rss&utm_medium=rss&utm_campaign=en-magallanes-forestin-celebro-su-medio-siglo-de-vida",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Forestín celebra medio siglo de vida plantando árboles nativos junto a niñas y niños en Quilpué",
-      "url": "https://www.conaf.cl/forestin-celebra-medio-siglo-de-vida-plantando-arboles-nativos-junto-a-ninas-y-ninos-en-quilpue/?utm_source=rss&utm_medium=rss&utm_campaign=forestin-celebra-medio-siglo-de-vida-plantando-arboles-nativos-junto-a-ninas-y-ninos-en-quilpue",
-      "fecha": "2026-06-15",
+      "titular": "Comunidad impulsa campaña de firmas para proteger el río San Pedro",
+      "url": "https://www.terram.cl/comunidad-impulsa-campana-de-firmas-para-proteger-el-rio-san-pedro/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ejercicio regional permitió fortalecer la preparación ante eventuales mortalidades masivas de salmones en Aysén",
-      "url": "https://mma.gob.cl/ejercicio-regional-permitio-fortalecer-la-preparacion-ante-eventuales-mortalidades-masivas-de-salmones-en-aysen/",
-      "fecha": "2026-06-15",
+      "titular": "Activan plan preventivo por calidad del aire en Andacollo: autoridades llaman a la tranquilidad",
+      "url": "https://mma.gob.cl/activan-plan-preventivo-por-calidad-del-aire-en-andacollo-autoridades-llaman-a-la-tranquilidad/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
-      "url": "https://mma.gob.cl/oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
-      "fecha": "2026-06-15",
+      "titular": "Seremi del Medio Ambiente destaca trabajo ambiental que lidera Municipalidad de Papudo en la comuna",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-destaca-trabajo-ambiental-que-lidera-municipalidad-de-papudo-en-la-comuna/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "SEA rechaza recurso contra proyecto de Dreams en Talca y despeja camino a apertura en noviembre",
-      "url": "https://www.df.cl/empresas/industria/sea-rechaza-recurso-contra-proyecto-de-dreams-en-talca-y-despeja-camino-a",
-      "fecha": "2026-06-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "RegionesEnap ingresa a SEIA Magallanes proyecto por US$ 96 millones para extracción de hidrocarburos a través de fracking",
-      "url": "https://www.df.cl/regiones/p/1",
-      "fecha": "2026-06-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fuente": "El Ciudadano",
+      "titular": "SEA deberá pronunciarse sobre validez de permiso que permitió construir Casino Dreams Talca sin evaluación ambiental",
+      "url": "https://www.elciudadano.com/medio-ambiente/sea-debera-pronunciarse-sobre-validez-de-permiso-que-permitio-construir-casino-dreams-talca-sin-evaluacion-ambiental/06/16/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Collahuasi ingresa DIA para ajustes operacionales en Faena Cordillera",
-      "url": "https://www.mch.cl/collahuasi-ingresa-dia-para-ajustes-operacionales-en-faena-cordillera/",
-      "fecha": "2026-06-15",
+      "titular": "Se califica favorablemente DIA de proyecto minero en Tarapacá",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-minero-en-tarapaca/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental rechaza reclamación contra proyecto hidroeléctrico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-rechaza-reclamacion-contra-proyecto-hidroelectrico/",
-      "fecha": "2026-06-15",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ley REP: Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
+      "url": "https://www.mch.cl/ley-rep-oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Enap ingresa al SEIA su primer proyecto de perforación horizontal con inversión de US$96 millones",
-      "url": "https://www.nuevamineria.com/revista/enap-ingresa-al-seia-su-primer-proyecto-de-perforacion-horizontal-con-inversion-de-us96-millones/",
+      "fuente": "SONAMI",
+      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las energéticas ENGIE, EniPlenitude, Shell y TotalEnergies, denunciadas ante la CE por «ecopostureo»",
+      "url": "https://efeverde.com/las-energeticas-engie-eniplenitude-shell-y-totalenergies-denunciadas-ante-la-ce-por-ecopostureo/",
       "fecha": "2026-06-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Al grito de “¡Aquí no!”, pueblos indígenas en México anuncian toma de planta de amoniaco",
-      "url": "https://efeverde.com/pueblos-indigenas-en-mexico-anuncian-toma-de-planta-de-amoniaco/",
-      "fecha": "2026-06-14",
+      "titular": "UE ve «prácticamente seguro» episodio de El Niño en 2026-2027 con una intensidad inédita",
+      "url": "https://efeverde.com/ue-ve-practicamente-seguro-episodio-de-el-nino-en-2026-2027-con-una-intensidad-inedita/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Abiertas consultas públicas para preparar la futura estrategia europea de investigación e innovación sobre océanos y agua",
+      "url": "https://efeverde.com/abiertas-consultas-publicas-para-preparar-la-futura-estrategia-europea-de-investigacion-e-innovacion-sobre-oceanos-y-agua/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Especialistas llaman a acelerar el reingreso de decretos ambientales sobre MP 2,5 y termoeléctricas ante sus impactos en la salud pública",
+      "url": "https://chilesustentable.net/2026/06/evaluacion-ambiental-100-dias-de-gobierno/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Evaluación Ambiental 100 Días de Gobierno",
+      "url": "https://chilesustentable.net/2026/06/evaluacion-ambiental-100-dias-de-gobierno/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Tras fallecimiento de montañista en el volcán Calbuco: CONAF Los Lagos reitera llamado a la precaución al visitar un área protegida",
+      "url": "https://www.conaf.cl/tras-fallecimiento-de-montanista-en-el-volcan-calbuco-conaf-los-lagos-reitera-llamado-a-la-precaucion-al-visitar-un-area-protegida/?utm_source=rss&utm_medium=rss&utm_campaign=tras-fallecimiento-de-montanista-en-el-volcan-calbuco-conaf-los-lagos-reitera-llamado-a-la-precaucion-al-visitar-un-area-protegida",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Programa de Arborización ha distribuido más de 10 mil árboles en Ñuble",
+      "url": "https://mma.gob.cl/programa-de-arborizacion-ha-distribuido-mas-de-10-mil-arboles-en-nuble/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Lanzan en O’Higgins la guía «Aprender para Proteger» en Encuentro en Torno al Mar",
+      "url": "https://mma.gob.cl/lanzan-en-ohiggins-la-guia-aprender-para-proteger-en-encuentro-en-torno-al-mar/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Camila Merino y debate por contribuciones: “Lo mejor es que haya una cierta focalización, ya sea por el costo de la casa o por ingresos”",
+      "url": "https://www.latercera.com/nacional/noticia/camila-merino-y-debate-por-contribuciones-lo-mejor-es-que-haya-una-cierta-focalizacion-ya-sea-por-el-costo-de-la-casa-o-por-ingresos/",
+      "fecha": "2026-06-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Solo le pido a Dios",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/solo-le-pido-a-dios/",
+      "fecha": "2026-06-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

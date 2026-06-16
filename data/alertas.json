@@ -1,102 +1,65 @@
 {
-  "fecha_generacion": "2026-06-15T12:33:24.233828-04:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-06-16T12:16:37.657299-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Presidente Kast y Ministra Toledo visitan el SEA y destacan histórica aprobación ambiental de proyectos durante los primeros tres meses de gobierno",
-      "url": "https://www.chiledesarrollosustentable.cl/presidente-kast-y-ministra-toledo-visitan-el-sea-y-destacan-historica-aprobacion-ambiental-de-proyectos-durante-los-primeros-tres-meses-de-gobierno/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-kast-y-ministra-toledo-visitan-el-sea-y-destacan-historica-aprobacion-ambiental-de-proyectos-durante-los-primeros-tres-meses-de-gobierno",
-      "fecha": "2026-06-15",
+      "fuente": "El Ciudadano",
+      "titular": "SEA deberá pronunciarse sobre validez de permiso que permitió construir Casino Dreams Talca sin evaluación ambiental",
+      "url": "https://www.elciudadano.com/medio-ambiente/sea-debera-pronunciarse-sobre-validez-de-permiso-que-permitio-construir-casino-dreams-talca-sin-evaluacion-ambiental/06/16/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Entre el 11 de marzo y el 8 de junio se han calificado favorablemente 72 proyectos por US$16.010 millones, cifra que podría traducirse en más de 44.700 empleos. Además, en el mismo período ingresaron al Sistema de Evaluación Ambiental 75 proyectos po",
+      "extracto": "El Ciudadano El Servicio de Evaluación Ambiental (SEA) deberá volver a pronunciarse sobre la validez del permiso que permitió al proyecto Casino Dreams Talca avanzar sin ingresar al Sistema de Evaluación de Impacto Ambiental (SEIA). A través de una r",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Multa histórica por elusión ambiental en la Región de Los Lagos: SMA sanciona a proyecto inmobiliario en el río Maullín por 3.800 millones",
-      "url": "https://www.terram.cl/multa-historica-por-elusion-ambiental-en-la-region-de-los-lagos-sma-sanciona-a-proyecto-inmobiliario-en-el-rio-maullin-por-3-800-millones/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La resolución sienta un precedente para la protección del patrimonio natural de Chile y marca un hito tras más de seis años de denuncias, procesos judiciales y revisión administrativa. Además, reconoce la relevancia del Río Maullín como un territorio",
-      "keywords_detectadas": [
-        "SMA",
-        "sanciona"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tribunal Ambiental rechaza reclamación en contra del proyecto “Central Hidroeléctrica Los Maquis”",
-      "url": "https://www.terram.cl/tribunal-ambiental-rechaza-reclamacion-en-contra-del-proyecto-central-hidroelectrica-los-maquis/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La sentencia determinó que no existió desviación de fin en la resolución de la SMA y validó que el ingreso al Sistema de Evaluación Ambiental puede ser una medida dentro de un Programa de Cumplimiento. Fuente: El Divisadero, 14 de junio de 2026.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "SEA rechaza recurso contra proyecto de Dreams en Talca y despeja camino a apertura en noviembre",
-      "url": "https://www.df.cl/empresas/industria/sea-rechaza-recurso-contra-proyecto-de-dreams-en-talca-y-despeja-camino-a",
-      "fecha": "2026-06-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "RegionesEnap ingresa a SEIA Magallanes proyecto por US$ 96 millones para extracción de hidrocarburos a través de fracking",
-      "url": "https://www.df.cl/regiones/p/1",
-      "fecha": "2026-06-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEIA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Collahuasi ingresa DIA para ajustes operacionales en Faena Cordillera",
-      "url": "https://www.mch.cl/collahuasi-ingresa-dia-para-ajustes-operacionales-en-faena-cordillera/",
-      "fecha": "2026-06-15",
+      "titular": "Se califica favorablemente DIA de proyecto minero en Tarapacá",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-minero-en-tarapaca/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con una inversión estimada de US$345 millones, la Declaración de Impacto Ambiental considera modificaciones sobre obras ya aprobadas ambientalmente. La entrada Collahuasi ingresa DIA para ajustes operacionales en Faena Cordillera se publicó primero e",
+      "extracto": "La iniciativa tiene como objetivo dar continuidad operacional a la faena. La entrada Se califica favorablemente DIA de proyecto minero en Tarapacá se publicó primero en Mch .",
       "keywords_detectadas": [
         "DIA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental rechaza reclamación contra proyecto hidroeléctrico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-rechaza-reclamacion-contra-proyecto-hidroelectrico/",
-      "fecha": "2026-06-15",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ley REP: Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
+      "url": "https://www.mch.cl/ley-rep-oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
+      "fecha": "2026-06-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La sentencia determinó que no existió desviación de fin y que el titular puede contemplar como medida dentro de su Programa de Cumplimiento el ingreso a SEIA. La entrada Tribunal Ambiental rechaza reclamación contra proyecto hidroeléctrico se publicó",
+      "extracto": "Herramienta tiene como finalidad informar el régimen en el que operarán respecto a sus residuos de productos prioritarios. La entrada Ley REP: Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales se public",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Enap ingresa al SEIA su primer proyecto de perforación horizontal con inversión de US$96 millones",
-      "url": "https://www.nuevamineria.com/revista/enap-ingresa-al-seia-su-primer-proyecto-de-perforacion-horizontal-con-inversion-de-us96-millones/",
+      "fuente": "SONAMI",
+      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
+      "fecha": "2026-06-16",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "La Sociedad Nacional de Minería (SONAMI) manifestó su preocupación ante la reciente resolución del Segundo Tribunal Ambiental, instancia que dejó…",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Camila Merino y debate por contribuciones: “Lo mejor es que haya una cierta focalización, ya sea por el costo de la casa o por ingresos”",
+      "url": "https://www.latercera.com/nacional/noticia/camila-merino-y-debate-por-contribuciones-lo-mejor-es-que-haya-una-cierta-focalizacion-ya-sea-por-el-costo-de-la-casa-o-por-ingresos/",
       "fecha": "2026-06-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera la perforación de hasta 32 pozos en Tierra del Fuego e incorpora por primera vez la combinación de perforación horizontal y fracturamiento hidráulico en las operaciones de la estatal en Magallanes. El proyecto busca desarrolla",
+      "extracto": "La alcaldesa de Vitacura sostuvo que ese fue uno de los planteamientos que se le hizo al ministro de Hacienda, Jorge Quiroz, en el marco de la exención a la primera vivienda para adultos mayores que contempla la megarreforma. Con todo, defendió el pr",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     }
   ]
