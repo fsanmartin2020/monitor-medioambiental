@@ -1,65 +1,65 @@
 {
-  "fecha_generacion": "2026-06-16T12:16:37.657299-04:00",
+  "fecha_generacion": "2026-06-17T10:47:20.179889-04:00",
   "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "El Ciudadano",
-      "titular": "SEA deberá pronunciarse sobre validez de permiso que permitió construir Casino Dreams Talca sin evaluación ambiental",
-      "url": "https://www.elciudadano.com/medio-ambiente/sea-debera-pronunciarse-sobre-validez-de-permiso-que-permitio-construir-casino-dreams-talca-sin-evaluacion-ambiental/06/16/",
-      "fecha": "2026-06-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano El Servicio de Evaluación Ambiental (SEA) deberá volver a pronunciarse sobre la validez del permiso que permitió al proyecto Casino Dreams Talca avanzar sin ingresar al Sistema de Evaluación de Impacto Ambiental (SEIA). A través de una r",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto minero en Tarapacá",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-minero-en-tarapaca/",
-      "fecha": "2026-06-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa tiene como objetivo dar continuidad operacional a la faena. La entrada Se califica favorablemente DIA de proyecto minero en Tarapacá se publicó primero en Mch .",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Ley REP: Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
-      "url": "https://www.mch.cl/ley-rep-oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
-      "fecha": "2026-06-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Herramienta tiene como finalidad informar el régimen en el que operarán respecto a sus residuos de productos prioritarios. La entrada Ley REP: Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales se public",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "SONAMI",
-      "titular": "SONAMI llama a dar certezas y señales claras al mercado tras fallo  que retrotrae RCA del proyecto de Collahuasi",
-      "url": "https://www.sonami.cl/v2/noticias/sonami-llama-a-dar-certezas-y-senales-claras-al-mercado-tras-fallo-que-retrotrae-rca-del-proyecto-de-collahuasi/",
-      "fecha": "2026-06-16",
+      "fuente": "La Segunda",
+      "titular": "SEA recomienda aprobar Alto Santorini en Reñaca tras seis años de disputa",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/06/1113895/renaca-dunas-santorini",
+      "fecha": "2026-06-17",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "La Sociedad Nacional de Minería (SONAMI) manifestó su preocupación ante la reciente resolución del Segundo Tribunal Ambiental, instancia que dejó…",
+      "extracto": "El organismo respaldó el Estudio de Impacto Ambiental de la torre de US$35 millones, cuyas obras permanecen paralizadas desde 2019 mientras la Corte Suprema resuelve el litigio sobre su futuro.",
       "keywords_detectadas": [
-        "RCA"
+        "SEA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Camila Merino y debate por contribuciones: “Lo mejor es que haya una cierta focalización, ya sea por el costo de la casa o por ingresos”",
-      "url": "https://www.latercera.com/nacional/noticia/camila-merino-y-debate-por-contribuciones-lo-mejor-es-que-haya-una-cierta-focalizacion-ya-sea-por-el-costo-de-la-casa-o-por-ingresos/",
-      "fecha": "2026-06-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La alcaldesa de Vitacura sostuvo que ese fue uno de los planteamientos que se le hizo al ministro de Hacienda, Jorge Quiroz, en el marco de la exención a la primera vivienda para adultos mayores que contempla la megarreforma. Con todo, defendió el pr",
+      "fuente": "El Mostrador",
+      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
+      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
+      "fecha": "2026-06-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El Departamento de Guerra estadounidense anunció que había vendido los aviones a un país que no se reveló. En Santiago indicaron que las compras de Defensa son reservadas, pero que “en el caso específico del F-35, nuestro país no tiene restricciones ",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "El Mostrador",
+      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
+      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
+      "fecha": "2026-06-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "El Mostrador",
+      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
+      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
+      "fecha": "2026-06-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Presentan reclamación ante Tribunal Ambiental por proyecto minero",
+      "url": "https://www.mch.cl/presentan-reclamacion-ante-tribunal-ambiental-por-proyecto-minero/",
+      "fecha": "2026-06-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Cuestionan que iniciativa ingresara como DIA, en lugar de un Estudio de Impacto Ambiental debido a los posibles efectos sobre comunidades indígenas, recursos hídricos, flora, fauna y áreas protegidas cercanas. La entrada Presentan reclamación ante Tr",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]
