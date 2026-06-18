@@ -1,63 +1,27 @@
 {
-  "fecha_generacion": "2026-06-17T10:47:20.179889-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-06-18T10:34:24.538667-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Segunda",
-      "titular": "SEA recomienda aprobar Alto Santorini en Reñaca tras seis años de disputa",
-      "url": "https://www.lasegunda.com/Noticias/Economia/2026/06/1113895/renaca-dunas-santorini",
-      "fecha": "2026-06-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El organismo respaldó el Estudio de Impacto Ambiental de la torre de US$35 millones, cuyas obras permanecen paralizadas desde 2019 mientras la Corte Suprema resuelve el litigio sobre su futuro.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Mostrador",
-      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
-      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El Departamento de Guerra estadounidense anunció que había vendido los aviones a un país que no se reveló. En Santiago indicaron que las compras de Defensa son reservadas, pero que “en el caso específico del F-35, nuestro país no tiene restricciones ",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Mostrador",
-      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
-      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Mostrador",
-      "titular": "Compra anónima de aviones F-35 a EE.UU.: Defensa no confirma ni descarta que sea Chile",
-      "url": "https://www.elmostrador.cl/unidad-de-investigacion/2026/06/17/compra-anonima-de-aviones-f-35-a-ee-uu-defensa-no-confirma-ni-descarta-que-sea-chile/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Presentan reclamación ante Tribunal Ambiental por proyecto minero",
-      "url": "https://www.mch.cl/presentan-reclamacion-ante-tribunal-ambiental-por-proyecto-minero/",
-      "fecha": "2026-06-17",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Sector público, industria tecnológica y academia revisan alcances del Decreto de Pilas y Aparatos Eléctricos y Electrónicos de la Ley REP",
+      "url": "https://mma.gob.cl/sector-publico-industria-tecnologica-y-academia-revisan-alcances-del-decreto-de-pilas-y-aparatos-electricos-y-electronicos-de-la-ley-rep/",
+      "fecha": "2026-06-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Cuestionan que iniciativa ingresara como DIA, en lugar de un Estudio de Impacto Ambiental debido a los posibles efectos sobre comunidades indígenas, recursos hídricos, flora, fauna y áreas protegidas cercanas. La entrada Presentan reclamación ante Tr",
+      "extracto": "Los residuos electrónicos son los de mayor crecimiento en el mundo y son productos que se consumen masivamente y se […]",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Comunidades indígenas llevan al Tribunal Ambiental proyecto Champagne de US$18 millones en Arica y Parinacota",
+      "url": "https://www.redimin.cl/comunidades-indigenas-llevan-al-tribunal-ambiental-proyecto-champagne-de-us18-millones-en-arica-y-parinacota",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La reclamación apunta contra la aprobación ambiental de una exploración de Andex Minerals Chile SpA en el sector de Anocarire, con 12 sondajes autorizados para cobre, oro y plata. Comunidades indígenas y observantes ciudadanos presentaron una reclama",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
