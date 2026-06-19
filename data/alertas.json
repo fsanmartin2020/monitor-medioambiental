@@ -1,29 +1,41 @@
 {
-  "fecha_generacion": "2026-06-18T10:34:24.538667-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-06-19T10:28:55.793139-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Sector público, industria tecnológica y academia revisan alcances del Decreto de Pilas y Aparatos Eléctricos y Electrónicos de la Ley REP",
-      "url": "https://mma.gob.cl/sector-publico-industria-tecnologica-y-academia-revisan-alcances-del-decreto-de-pilas-y-aparatos-electricos-y-electronicos-de-la-ley-rep/",
-      "fecha": "2026-06-18",
+      "titular": "Ministerio del Medio Ambiente da inicio a la 2ª Cumbre Municipal de Economía Circular: “10 años de la Ley REP” e invita a los municipios de todo Chile a sumarse a esta iniciativa nacional",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-da-inicio-a-la-2a-cumbre-municipal-de-economia-circular-10-anos-de-la-ley-rep-e-invita-a-los-municipios-de-todo-chile-a-sumarse-a-esta-iniciativa-nacio/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los residuos electrónicos son los de mayor crecimiento en el mundo y son productos que se consumen masivamente y se […]",
+      "extracto": "Enmarcados en el Mes del Medio Ambiente, la Oficina de Economía Circular del Ministerio del Medio Ambiente desarrollará esta instancia […]",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Comunidades indígenas llevan al Tribunal Ambiental proyecto Champagne de US$18 millones en Arica y Parinacota",
-      "url": "https://www.redimin.cl/comunidades-indigenas-llevan-al-tribunal-ambiental-proyecto-champagne-de-us18-millones-en-arica-y-parinacota",
+      "titular": "Revisión del Tribunal Ambiental sobre reclamación de comunidad indígena contra Compañía Minera Mantos de Oro",
+      "url": "https://www.redimin.cl/revision-del-tribunal-ambiental-sobre-reclamacion-de-comunidad-indigena-contra-compania-minera-mantos-de-oro",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal Ambiental evalúa la auditoría presentada por la comunidad Wara Quebrada contra la decisión de archivar denuncia sobre la mina Kinross-La Coipa.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Revisan antecedentes en reclamación contra decisión de archivar denuncia por supuesta elusión al SEIA de minera",
+      "url": "https://www.mch.cl/revisan-antecedentes-en-reclamacion-contra-decision-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-minera/",
       "fecha": "2026-06-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La reclamación apunta contra la aprobación ambiental de una exploración de Andex Minerals Chile SpA en el sector de Anocarire, con 12 sondajes autorizados para cobre, oro y plata. Comunidades indígenas y observantes ciudadanos presentaron una reclama",
+      "extracto": "Con la admisión a trámite, se da inicio al proceso de revisión judicial del acto realizado por la SMA. La entrada Revisan antecedentes en reclamación contra decisión de archivar denuncia por supuesta elusión al SEIA de minera se publicó primero en Mc",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEIA"
       ]
     }
   ]

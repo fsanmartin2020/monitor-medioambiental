@@ -1,277 +1,357 @@
 {
-  "fecha_actualizacion": "2026-06-18T10:34:24.523925-04:00",
-  "total": 34,
+  "fecha_actualizacion": "2026-06-19T10:28:55.777039-04:00",
+  "total": 44,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Rosanne Martyr, autora del IPCC: “el Acuerdo de París es vital para mitigar el cambio climático”",
-      "url": "https://www.cr2.cl/rosanne-martyr-autora-del-ipcc-el-acuerdo-de-paris-es-vital-para-mitigar-el-cambio-climatico/",
-      "fecha": "2026-06-18",
+      "fuente": "País Circular",
+      "titular": "Reutilizar no debería ser un acto heroico",
+      "url": "https://www.paiscircular.cl/opinion/reutilizar-no-deberia-ser-un-acto-heroico/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Triciclo Tech: un chileno en Europa crea modelo para extender la vida útil de los equipos de telecomunicaciones",
+      "url": "https://www.paiscircular.cl/economia-circular/triciclo/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Chile Sustentable alerta importantes retrocesos ambientales en los primeros 100 días: “Acusa una Demolición Ambiental y llama al Gobierno a no destruir lo construido durante los últimos 30 años de gobiernos democráticos”",
+      "url": "https://codexverde.cl/alertan-retrocesos-ambientales-en-primeros-100-dias-de-gobierno/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La economía circular avanza en España, pero la gestión municipal de residuos sigue lenta",
-      "url": "https://efeverde.com/economia-circular-avanza-en-espana/",
-      "fecha": "2026-06-18",
+      "titular": "La nueva normativa europea de envases genera «desconcierto» en las empresas españolas",
+      "url": "https://efeverde.com/nueva-normativa-europea-de-envases/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La amenaza de El Niño vuelve a poner en alerta al Pacífico y a regiones vulnerables de América y Asia",
-      "url": "https://efeverde.com/la-amenaza-de-el-nino-vuelve-a-poner-en-alerta-al-pacifico-y-a-regiones-vulnerables-de-america-y-asia/",
-      "fecha": "2026-06-18",
+      "titular": "Frustración entre los ecologistas ante la Conferencia de Bonn «más catastrófica de los últimos años»",
+      "url": "https://efeverde.com/frustracion-ecologistas-conferencia-bonn-catastrofica-ultimos-anos/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un final de año caliente de negociaciones ambientales: tres COP en menos de tres meses",
-      "url": "https://efeverde.com/final-ano-caliente-tres-cop-ambientales/",
-      "fecha": "2026-06-18",
+      "titular": "Una “paradoja de conservación”: declive generalizado del piruétano en Doñana pese a su estricta protección",
+      "url": "https://efeverde.com/una-paradoja-de-conservacion-declive-generalizado-del-piruetano-en-donana-pese-a-su-estricta-proteccion/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Greenpeace denuncia con cámaras termográficas las altas temperaturas en los colegios: aulas a 35 ºC y patios a 60 ºC",
-      "url": "https://efeverde.com/greenpeace-altas-temperaturas-en-colegios/",
-      "fecha": "2026-06-18",
+      "titular": "El misterio de las ballenas jorobadas del mar Arábigo: 70.000 años en una franja costera",
+      "url": "https://efeverde.com/misterio-ballenas-jorobadas-mar-arabico/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Iván Ferreiro, Dani Fernández, Marlon y Veintiuno girarán con combustibles renovables",
-      "url": "https://efeverde.com/ivan-ferreiro-dani-fernandez-marlon-y-veintiuno-giraran-con-combustibles-renovables/",
-      "fecha": "2026-06-18",
+      "titular": "Avanza según lo previsto la obra de derribo parcial de la presa de Enobieta",
+      "url": "https://efeverde.com/avanza-segun-lo-previsto-la-obra-de-derribo-parcial-de-la-presa-de-enobieta/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los fenómenos meteorológicos extremos causaron más de 3.000 muertos en África en 2025, según la OMM",
-      "url": "https://efeverde.com/fenomenos-meteorologicos-extremos-africa-2025/",
-      "fecha": "2026-06-18",
+      "titular": "Fiscal Medio Ambiente: «Me preocupa la nueva generación de incendios casi incontrolables»",
+      "url": "https://efeverde.com/fiscal-medio-ambiente-me-preocupa-la-nueva-generacion-de-incendios-casi-incontrolables/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las redes eléctricas, inversiones y políticas siguen enganchadas a los combustibles fósiles",
-      "url": "https://efeverde.com/redes-inversiones-politicas-enganchadas-combustibles-fosiles/",
-      "fecha": "2026-06-18",
+      "titular": "Greenpeace lamenta poco avance en Conferencia de Bonn para abandonar combustibles fósiles",
+      "url": "https://efeverde.com/greenpeace-lamenta-poco-avance-en-conferencia-de-bonn-para-abandonar-combustibles-fosiles/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Informe desfavorable para ampliar el puerto de Melilla por su posible impacto en una lapa en peligro de extinción",
-      "url": "https://efeverde.com/informe-desfavorable-para-ampliar-el-puerto-de-melilla-por-su-posible-impacto-en-una-lapa-en-peligro-de-extincion/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Trump destina 2.600 millones de dólares para cancelar parques eólicos marinos en EE.UU.",
-      "url": "https://efeverde.com/trump-destina-2-600-millones-de-dolares-para-cancelar-parques-eolicos-marinos-en-ee-uu/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Incendios en zonas periurbanas, una bomba de relojería que sólo se desactiva con prevención",
-      "url": "https://efeverde.com/incendios-en-zonas-periurbanas-una-bomba-de-relojeria-que-solo-se-desactiva-con-prevencion/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Dispone nominas preliminares de caducidad en el registro pesquero artesanal 2026",
-      "url": "https://www.sernapesca.cl/dispone-nominas-preliminares-de-caducidad-en-el-registro-pesquero-artesanal-2026/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente inicia proceso de actualización de Guía de Delimitación y Caracterización de Humedales Urbanos",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente de Atacama visitó proyecto de reducción de emisiones implementado en Vallenar",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-atacama-visito-proyecto-de-reduccion-de-emisiones-implementado-en-vallenar/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "«Del Mapocho al Maipo: La importancia de actuar a tiempo»",
-      "url": "https://mma.gob.cl/del-mapocho-al-maipo-la-importancia-de-actuar-a-tiempo/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Sector público, industria tecnológica y academia revisan alcances del Decreto de Pilas y Aparatos Eléctricos y Electrónicos de la Ley REP",
-      "url": "https://mma.gob.cl/sector-publico-industria-tecnologica-y-academia-revisan-alcances-del-decreto-de-pilas-y-aparatos-electricos-y-electronicos-de-la-ley-rep/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Comunidades indígenas llevan al Tribunal Ambiental proyecto Champagne de US$18 millones en Arica y Parinacota",
-      "url": "https://www.redimin.cl/comunidades-indigenas-llevan-al-tribunal-ambiental-proyecto-champagne-de-us18-millones-en-arica-y-parinacota",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Círculo perfecto: Más de 30 mil toneladas de leche al año se transportan con electricidad generada a partir de biogás",
-      "url": "https://www.chiledesarrollosustentable.cl/circulo-perfecto-mas-de-30-mil-toneladas-de-leche-al-ano-se-transportan-con-electricidad-generada-a-partir-de-biogas/?utm_source=rss&utm_medium=rss&utm_campaign=circulo-perfecto-mas-de-30-mil-toneladas-de-leche-al-ano-se-transportan-con-electricidad-generada-a-partir-de-biogas",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Operativo oftalmológico realizó 458 prestaciones especializadas y benefició a 138 pacientes de la Región de Los Lagos",
-      "url": "https://www.chiledesarrollosustentable.cl/operativo-oftalmologico-realizo-458-prestaciones-especializadas-y-beneficio-a-138-pacientes-de-la-region-de-los-lagos/?utm_source=rss&utm_medium=rss&utm_campaign=operativo-oftalmologico-realizo-458-prestaciones-especializadas-y-beneficio-a-138-pacientes-de-la-region-de-los-lagos",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El murciélago de herradura, un gran aliado contra plagas: se come hasta 264 gramos por noche",
-      "url": "https://efeverde.com/el-murcielago-de-herradura-un-gran-aliado-contra-plagas-se-come-hasta-264-gramos-por-noche/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La erosión de pastizales por la sequía y el cambio climático amenaza los sistemas alimentarios, advierte la ONU",
-      "url": "https://efeverde.com/erosion-de-pastizales-amenaza-sistemas-alimentarios/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Gobierno posterga traspaso de áreas protegidas de Conaf al SBAP tras detectar anomalías y abre sumario",
-      "url": "https://www.terram.cl/gobierno-posterga-traspaso-de-areas-protegidas-de-conaf-al-sbap-tras-detectar-anomalias-y-abre-sumario/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Carbono azul: bosques marinos capturan CO2 hasta cuatro veces más rápido que los terrestres",
-      "url": "https://www.terram.cl/carbono-azul-bosques-marinos-capturan-co2-hasta-cuatro-veces-mas-rapido-que-los-terrestres/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Pueblos de Latinoamérica impulsan una transición energética “desde abajo”",
-      "url": "https://www.terram.cl/pueblos-de-latinoamerica-impulsan-una-transicion-energetica-desde-abajo/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Realizan operativo para detectar descargas de aguas contaminadas en lago Llanquihue",
-      "url": "https://www.terram.cl/realizan-operativo-para-detectar-descargas-de-aguas-contaminadas-en-lago-llanquihue/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Entra en vigencia norma que regula las emisiones de olor del sector pesquero y beneficiará a más de 138 mil personas en 11 regiones",
-      "url": "https://www.terram.cl/entra-en-vigencia-norma-que-regula-las-emisiones-de-olor-del-sector-pesquero-y-beneficiara-a-mas-de-138-mil-personas-en-11-regiones/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "En el Día Mundial de la Lucha contra la Desertificación y la Sequía: CONAF Coquimbo destaca exitosa restauración ecológica en La Higuera",
-      "url": "https://www.terram.cl/en-el-dia-mundial-de-la-lucha-contra-la-desertificacion-y-la-sequia-conaf-coquimbo-destaca-exitosa-restauracion-ecologica-en-la-higuera/",
-      "fecha": "2026-06-17",
+      "titular": "‘Silly Little Plastic Cat’: un documental sobre la contaminación del mar a través de Garfield",
+      "url": "https://efeverde.com/documental-garfield-contaminacion-mar/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF participa en fiscalización a aserraderos de Itata para reforzar trazabilidad de madera y prevenir delitos forestales",
-      "url": "https://www.conaf.cl/conaf-participa-en-fiscalizacion-a-aserraderos-de-itata-para-reforzar-trazabilidad-de-madera-y-prevenir-delitos-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-participa-en-fiscalizacion-a-aserraderos-de-itata-para-reforzar-trazabilidad-de-madera-y-prevenir-delitos-forestales",
-      "fecha": "2026-06-17",
+      "titular": "Subsecretario de Agricultura encabeza inauguración de mejoras en vivero de CONAF que fortalecerá la restauración de bosques nativos en el Maule",
+      "url": "https://www.conaf.cl/subsecretario-de-agricultura-encabeza-inauguracion-de-mejoras-en-vivero-de-conaf-que-fortalecera-la-restauracion-de-bosques-nativos-en-el-maule/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-encabeza-inauguracion-de-mejoras-en-vivero-de-conaf-que-fortalecera-la-restauracion-de-bosques-nativos-en-el-maule",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo abordó los desafíos y oportunidades del Estado para enfrentar la carga regulatoria ambiental",
-      "url": "https://mma.gob.cl/ministra-toledo-abordo-los-desafios-y-oportunidades-del-estado-para-enfrentar-la-carga-regulatoria-ambiental/",
-      "fecha": "2026-06-17",
+      "titular": "Ministerio del Medio Ambiente da inicio a la 2ª Cumbre Municipal de Economía Circular: “10 años de la Ley REP” e invita a los municipios de todo Chile a sumarse a esta iniciativa nacional",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-da-inicio-a-la-2a-cumbre-municipal-de-economia-circular-10-anos-de-la-ley-rep-e-invita-a-los-municipios-de-todo-chile-a-sumarse-a-esta-iniciativa-nacio/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente fortalece la coordinación interinstitucional para avanzar en el REMA 2026",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-fortalece-la-coordinacion-interinstitucional-para-avanzar-en-el-rema-2026/",
-      "fecha": "2026-06-17",
+      "titular": "Seremi del Medio Ambiente entrega certificación ambiental y reconocimiento por su Plan de Acción Comunal de Cambio Climático a municipalidad de Concón",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-certificacion-ambiental-y-reconocimiento-por-su-plan-de-accion-comunal-de-cambio-climatico-a-municipalidad-de-concon/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Entra en vigencia norma que regula las emisiones de olor del sector pesquero y beneficiará a más de 138 mil personas en 11 regiones",
-      "url": "https://mma.gob.cl/entra-en-vigencia-norma-que-regula-las-emisiones-de-olor-del-sector-pesquero-y-beneficiara-a-mas-de-138-mil-personas-en-11-regiones-2/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Participación ciudadana impulsa elaboración del Plan de Acción Comunal de Cambio Climático de Chillán",
-      "url": "https://mma.gob.cl/participacion-ciudadana-impulsa-elaboracion-del-plan-de-accion-comunal-de-cambio-climatico-de-chillan/",
-      "fecha": "2026-06-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "San Carlos: Seremi del Medio Ambiente visita Estación de Monitoreo para evaluar piloto del Programa de Recambio de Calefactores",
-      "url": "https://mma.gob.cl/san-carlos-seremi-del-medio-ambiente-visita-estacion-de-monitoreo-para-evaluar-piloto-del-programa-de-recambio-de-calefactores/",
-      "fecha": "2026-06-17",
+      "titular": "Subsecretario del Medio Ambiente inaugura nuevo Centro de Educación Ambiental de Mariquina en gira por la región de Los Ríos",
+      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-inaugura-nuevo-centro-de-educacion-ambiental-de-mariquina-en-gira-por-la-region-de-los-rios/",
+      "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "”El terremoto que no vemos”",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/el-terremoto-que-no-vemos-2/",
-      "fecha": "2026-06-17",
+      "titular": "Con el amistoso ante la Roja como ejemplo: la despiadada columna en Portugal para pedir el retiro de Cristiano Ronaldo",
+      "url": "https://www.latercera.com/el-deportivo/noticia/con-el-amistoso-ante-la-roja-como-ejemplo-la-despiadada-columna-en-portugal-para-pedir-el-retiro-de-cristiano-ronaldo/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Revisión del Tribunal Ambiental sobre reclamación de comunidad indígena contra Compañía Minera Mantos de Oro",
+      "url": "https://www.redimin.cl/revision-del-tribunal-ambiental-sobre-reclamacion-de-comunidad-indigena-contra-compania-minera-mantos-de-oro",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Medir las emisiones de las empresas no solo es sostenible, también reduce gastos y genera ahorros",
+      "url": "https://www.paiscircular.cl/opinion/medir-las-emisiones-de-las-empresas-no-solo-es-sostenible-tambien-reduce-gastos-y-genera-ahorros/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ministerio del Medio Ambiente inicia proceso de actualización de Guía de Delimitación y Caracterización de Humedales Urbanos",
+      "url": "https://www.paiscircular.cl/agua/ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Entró en vigencia norma que regula las emisiones de olor del sector pesquero aplicable a empresas en once regiones",
+      "url": "https://www.paiscircular.cl/medio-ambiente/entro-en-vigencia-norma-que-regula-las-emisiones-de-olor-del-sector-pesquero-aplicable-a-empresas-en-once-regiones/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Feriantes y estudiantes unidos: El innovador proyecto de La Florida que da una segunda vida a alimentos, fomenta el ahorro y la comida saludable",
+      "url": "https://www.paiscircular.cl/ciudad/feriantes-y-estudiantes-unidos-el-innovador-proyecto-de-la-florida-que-da-una-segunda-vida-a-alimentos-fomenta-el-ahorro-y-la-comida-saludable/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "¿Tu comuna resiste una lluvia intensa? El estudio que alerta sobre las zonas más inundables de Santiago",
+      "url": "https://codexverde.cl/el-estudio-que-alerta-sobre-las-zonas-mas-inundables-de-santiago/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Del diagnóstico a los desafíos de la crisis de residuos en la Región de Valparaíso",
+      "url": "https://codexverde.cl/del-diagnostico-a-los-desafios-de-la-crisis-de-residuos-en-la-region-de-valparaiso/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "UCSC busca resolver la contaminación de aguas a través de tecnología con residuos de moluscos",
+      "url": "https://codexverde.cl/resolver-contaminacion-de-aguas-con-residuos-de-moluscos/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cómo actuar ante un oso, un insecto o una caracola: conocer la naturaleza de forma segura",
+      "url": "https://efeverde.com/conocer-la-naturaleza-de-forma-segura/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Casi el 10 % de la población española afirma haber cambiado sus hábitos de consumo cárnico",
+      "url": "https://efeverde.com/casi-el-10-de-la-poblacion-espanola-afirma-haber-cambiado-sus-habitos-de-consumo-carnico/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Conferencia de Bonn cierra con mucho por hacer en financiación",
+      "url": "https://efeverde.com/conferencia-bonn-cierra-con-mucho-hacer-financiacion/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 10% de los que más gastan causan daños ambientales de entre 1,5 y 5 billones de euros",
+      "url": "https://efeverde.com/los-que-mas-gastan-causan-danos-ambientales/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incierto futuro del ajolote. Por May",
+      "url": "https://efeverde.com/incierto-futuro-ajolote-may-mundomay/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "El dilema de las tierras raras",
+      "url": "https://www.terram.cl/el-dilema-de-las-tierras-raras/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Nuevo intento por anular humedal de Los Molles, protegido por vecinos tras años de disputa con inmobiliarias",
+      "url": "https://www.terram.cl/nuevo-intento-por-anular-humedal-de-los-molles-protegido-por-vecinos-tras-anos-de-disputa-con-inmobiliarias/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Empresa alemana pide 396 km² de fondo marino para un parque eólico frente a la única colonia de pingüino rey de Chile",
+      "url": "https://www.terram.cl/empresa-alemana-pide-396-km%c2%b2-de-fondo-marino-para-un-parque-eolico-frente-a-la-unica-colonia-de-pinguino-rey-de-chile/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Corte revisa recurso por presunta vulneración a la honra de defensores ambientales de Aysén",
+      "url": "https://www.terram.cl/corte-revisa-recurso-por-presunta-vulneracion-a-la-honra-de-defensores-ambientales-de-aysen/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Marina Otero (U. de Harvard) sobre la IA y el medio ambiente: “Un centro de datos siempre va a tener consecuencias ecológicas”",
+      "url": "https://www.terram.cl/marina-otero-u-de-harvard-sobre-la-ia-y-el-medio-ambiente-un-centro-de-datos-siempre-va-a-tener-consecuencias-ecologicas/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Día Mundial de Acción contra la Desertificación y la Sequía: una crisis silenciosa avanza desde Centroamérica hasta la Amazonía y el Chaco sudamericano",
+      "url": "https://www.terram.cl/dia-mundial-de-accion-contra-la-desertificacion-y-la-sequia-una-crisis-silenciosa-avanza-desde-centroamerica-hasta-la-amazonia-y-el-chaco-sudamericano/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "AHORA: audiencia en reclamaciones R-475-2024, acumula R-537-2025 y R-544-2025",
+      "url": "https://tribunalambiental.cl/audiencia-r-475-2024-acumula-r-537-2024-y-r-544-2025/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF inicia una nueva campaña de reforestación en el Parque Urbano Natural La Ligua",
+      "url": "https://www.conaf.cl/conaf-inicia-una-nueva-campana-de-reforestacion-en-el-parque-urbano-natural-la-ligua/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-inicia-una-nueva-campana-de-reforestacion-en-el-parque-urbano-natural-la-ligua",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF impulsa encuentro para fortalecer la cadena de valor del bosque nativo en La Araucanía y Los Ríos",
+      "url": "https://www.conaf.cl/conaf-impulsa-encuentro-para-fortalecer-la-cadena-de-valor-del-bosque-nativo-en-la-araucania-y-los-rios/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-encuentro-para-fortalecer-la-cadena-de-valor-del-bosque-nativo-en-la-araucania-y-los-rios",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Jornada comunitaria de arborización suma 100 árboles nativos al Parque Urbano de Rapel",
+      "url": "https://mma.gob.cl/jornada-comunitaria-de-arborizacion-suma-100-arboles-nativos-al-parque-urbano-de-rapel/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente encabeza encuentro informativo por futura Norma Ambiental para el Lago Vichuquén",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-encabeza-encuentro-informativo-por-futura-norma-ambiental-para-el-lago-vichuquen/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Aprueban millonaria inversión para implementar 9 puntos limpios en la región de La Araucanía",
+      "url": "https://mma.gob.cl/aprueban-millonaria-inversion-para-implementar-9-puntos-limpios-en-la-region-de-la-araucania/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Proyecto financiado por el Fondo de Protección Ambiental dicta curso gratuito a comunidades entre Coquimbo y Biobío para prevenir incendios forestales",
+      "url": "https://mma.gob.cl/proyecto-financiado-por-el-fondo-de-proteccion-ambiental-dicta-curso-gratuito-a-comunidades-entre-coquimbo-y-biobio-para-prevenir-incendios-forestales/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "RETC",
+      "titular": "Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
+      "url": "https://retc.mma.gob.cl/oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
+      "fecha": "2026-06-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Revisan antecedentes en reclamación contra decisión de archivar denuncia por supuesta elusión al SEIA de minera",
+      "url": "https://www.mch.cl/revisan-antecedentes-en-reclamacion-contra-decision-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-minera/",
+      "fecha": "2026-06-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
