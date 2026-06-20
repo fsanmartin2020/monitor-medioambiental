@@ -1,357 +1,213 @@
 {
-  "fecha_actualizacion": "2026-06-19T10:28:55.777039-04:00",
-  "total": 44,
+  "fecha_actualizacion": "2026-06-20T08:50:40.487959-04:00",
+  "total": 26,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Reutilizar no debería ser un acto heroico",
-      "url": "https://www.paiscircular.cl/opinion/reutilizar-no-deberia-ser-un-acto-heroico/",
-      "fecha": "2026-06-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Triciclo Tech: un chileno en Europa crea modelo para extender la vida útil de los equipos de telecomunicaciones",
-      "url": "https://www.paiscircular.cl/economia-circular/triciclo/",
-      "fecha": "2026-06-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Chile Sustentable alerta importantes retrocesos ambientales en los primeros 100 días: “Acusa una Demolición Ambiental y llama al Gobierno a no destruir lo construido durante los últimos 30 años de gobiernos democráticos”",
-      "url": "https://codexverde.cl/alertan-retrocesos-ambientales-en-primeros-100-dias-de-gobierno/",
-      "fecha": "2026-06-19",
+      "fuente": "EFE Verde",
+      "titular": "Muere un oso pardo joven atropellado por un turismo en la Montaña Palentina",
+      "url": "https://efeverde.com/muere-oso-pardo-joven-atropellado-montana-palentina/",
+      "fecha": "2026-06-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La nueva normativa europea de envases genera «desconcierto» en las empresas españolas",
-      "url": "https://efeverde.com/nueva-normativa-europea-de-envases/",
-      "fecha": "2026-06-19",
+      "titular": "Cae la presencia en Cataluña de la gaviota de Audouin, especie en peligro de extinción",
+      "url": "https://efeverde.com/cae-gaviota-audouin-cataluna/",
+      "fecha": "2026-06-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Frustración entre los ecologistas ante la Conferencia de Bonn «más catastrófica de los últimos años»",
-      "url": "https://efeverde.com/frustracion-ecologistas-conferencia-bonn-catastrofica-ultimos-anos/",
-      "fecha": "2026-06-19",
+      "titular": "Toneladas de basura inundan Ciudad de México tras el triunfo de la selección",
+      "url": "https://efeverde.com/basura-ciudad-de-mexico-triunfo-mundial/",
+      "fecha": "2026-06-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una “paradoja de conservación”: declive generalizado del piruétano en Doñana pese a su estricta protección",
-      "url": "https://efeverde.com/una-paradoja-de-conservacion-declive-generalizado-del-piruetano-en-donana-pese-a-su-estricta-proteccion/",
+      "titular": "Aina S. Erice: «Nuestra relación con las plantas está en el centro de la arena en la que nos jugamos el futuro»",
+      "url": "https://efeverde.com/aina-s-erice-nuestra-relacion-plantas-centro-futuro/",
+      "fecha": "2026-06-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "El plan del equipo económico para apurar la marcha de 600 proyectos de inversión por US$60 mil millones",
+      "url": "https://www.latercera.com/pulso/noticia/el-plan-del-equipo-economico-para-apurar-la-marcha-de-600-proyectos-de-inversion-por-us60-mil-millones/",
+      "fecha": "2026-06-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "Comunidad indígena lickanantay lleva a tribunales proyecto minero que pondría en riesgo fuentes de agua del salar de Tara",
+      "url": "https://interferencia.cl/articulos/comunidad-indigena-lickanantay-lleva-tribunales-proyecto-minero-que-pondria-en-riesgo",
+      "fecha": "2026-06-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Gobernanza del propósito emerge como uno de los principales desafíos ESG para las empresas chilenas",
+      "url": "https://www.chiledesarrollosustentable.cl/gobernanza-del-proposito-emerge-como-uno-de-los-principales-desafios-esg-para-las-empresas-chilenas/?utm_source=rss&utm_medium=rss&utm_campaign=gobernanza-del-proposito-emerge-como-uno-de-los-principales-desafios-esg-para-las-empresas-chilenas",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El misterio de las ballenas jorobadas del mar Arábigo: 70.000 años en una franja costera",
-      "url": "https://efeverde.com/misterio-ballenas-jorobadas-mar-arabico/",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Casaideas cierra ciclo de metas con sello de reducción de emisiones y 100% de fábricas auditadas",
+      "url": "https://www.chiledesarrollosustentable.cl/casaideas-cierra-ciclo-de-metas-con-sello-de-reduccion-de-emisiones-y-100-de-fabricas-auditadas/?utm_source=rss&utm_medium=rss&utm_campaign=casaideas-cierra-ciclo-de-metas-con-sello-de-reduccion-de-emisiones-y-100-de-fabricas-auditadas",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Avanza según lo previsto la obra de derribo parcial de la presa de Enobieta",
-      "url": "https://efeverde.com/avanza-segun-lo-previsto-la-obra-de-derribo-parcial-de-la-presa-de-enobieta/",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ministerio del Medio Ambiente inicia proceso de actualización de Guía de Delimitación y Caracterización de Humedales Urbanos",
+      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Fiscal Medio Ambiente: «Me preocupa la nueva generación de incendios casi incontrolables»",
-      "url": "https://efeverde.com/fiscal-medio-ambiente-me-preocupa-la-nueva-generacion-de-incendios-casi-incontrolables/",
+      "fuente": "Terram",
+      "titular": "El negativo balance del negocio forestal en última década: disminución de empleo, menos aserraderos y lenta forestación",
+      "url": "https://www.terram.cl/el-negativo-balance-del-negocio-forestal-en-ultima-decada-disminucion-de-empleo-menos-aserraderos-y-lenta-forestacion/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace lamenta poco avance en Conferencia de Bonn para abandonar combustibles fósiles",
-      "url": "https://efeverde.com/greenpeace-lamenta-poco-avance-en-conferencia-de-bonn-para-abandonar-combustibles-fosiles/",
+      "fuente": "Terram",
+      "titular": "Los Maquis: La larga batalla vecinal contra hidroeléctrica en cascada turística de la Carretera Austral",
+      "url": "https://www.terram.cl/los-maquis-la-larga-batalla-vecinal-contra-hidroelectrica-en-cascada-turistica-de-la-carretera-austral/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "‘Silly Little Plastic Cat’: un documental sobre la contaminación del mar a través de Garfield",
-      "url": "https://efeverde.com/documental-garfield-contaminacion-mar/",
+      "fuente": "Terram",
+      "titular": "Ordenan retiro inmediato de instalación salmonera en lobera ubicada en Puerto Gala",
+      "url": "https://www.terram.cl/ordenan-retiro-inmediato-de-instalacion-salmonera-en-lobera-ubicada-en-puerto-gala/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Se admite reclamación de comunidad Colla por aprobación del proyecto “Adecuación Operacional Faena Minera Caserones”",
+      "url": "https://www.terram.cl/se-admite-reclamacion-de-comunidad-colla-por-aprobacion-del-proyecto-adecuacion-operacional-faena-minera-caserones/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "El mecanismo narco que arrasa bosques: cómo llegaron 108 toneladas de cocaína y ketamina impregnadas en madera de Bolivia a Chile",
+      "url": "https://www.terram.cl/el-mecanismo-narco-que-arrasa-bosques-como-llegaron-108-toneladas-de-cocaina-y-ketamina-impregnadas-en-madera-de-bolivia-a-chile/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Ministerio del Medio Ambiente inicia proceso de actualización de Guía de Delimitación y Caracterización de Humedales Urbanos",
+      "url": "https://www.terram.cl/ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Estudiantes universitarios de Temuco conocieron el funcionamiento del Tercer Tribunal Ambiental",
+      "url": "https://3ta.cl/sin-categoria/estudiantes-universitarios-de-temuco-conocieron-el-funcionamiento-del-tercer-tribunal-ambiental/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Subsecretario de Agricultura encabeza inauguración de mejoras en vivero de CONAF que fortalecerá la restauración de bosques nativos en el Maule",
-      "url": "https://www.conaf.cl/subsecretario-de-agricultura-encabeza-inauguracion-de-mejoras-en-vivero-de-conaf-que-fortalecera-la-restauracion-de-bosques-nativos-en-el-maule/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-encabeza-inauguracion-de-mejoras-en-vivero-de-conaf-que-fortalecera-la-restauracion-de-bosques-nativos-en-el-maule",
+      "titular": "CONAF dona cien árboles nativos como aporte a la reforestación del Parque Natural San Carlos de Apoquindo",
+      "url": "https://www.conaf.cl/conaf-dona-cien-arboles-nativos-como-aporte-a-la-reforestacion-del-parque-natural-san-carlos-de-apoquindo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-dona-cien-arboles-nativos-como-aporte-a-la-reforestacion-del-parque-natural-san-carlos-de-apoquindo",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y Carabineros desmantelan campamento ilegal en el Parque La Campana en Hijuelas",
+      "url": "https://www.conaf.cl/conaf-y-carabineros-desmantelan-campamento-ilegal-en-el-parque-la-campana-en-hijuelas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-carabineros-desmantelan-campamento-ilegal-en-el-parque-la-campana-en-hijuelas",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y Bomberos de Ñuble anticipan coordinaciones para enfrentar temporada de incendios forestales 2026 – 2027",
+      "url": "https://www.conaf.cl/conaf-y-bomberos-de-nuble-anticipan-coordinaciones-para-enfrentar-temporada-de-incendios-forestales-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-bomberos-de-nuble-anticipan-coordinaciones-para-enfrentar-temporada-de-incendios-forestales-2026-2027",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Plataforma digital encargada por DGA a CEAZA y financiada por CORFO entrega acceso libre a información clave sobre los recursos hídricos en cuenca del río Limarí",
+      "url": "https://dga.mop.gob.cl/plataforma-digital-encargada-por-dga-a-ceaza-y-financiada-por-corfo-entrega-acceso-libre-a-informacion-clave-sobre-los-recursos-hidricos-en-cuenca-del-rio-limari/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente da inicio a la 2ª Cumbre Municipal de Economía Circular: “10 años de la Ley REP” e invita a los municipios de todo Chile a sumarse a esta iniciativa nacional",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-da-inicio-a-la-2a-cumbre-municipal-de-economia-circular-10-anos-de-la-ley-rep-e-invita-a-los-municipios-de-todo-chile-a-sumarse-a-esta-iniciativa-nacio/",
+      "titular": "Ministra Toledo da inicio a temporada de vacaciones de invierno en Buinzoo con llamado a proteger nuestro entorno natural",
+      "url": "https://mma.gob.cl/ministra-toledo-da-inicio-a-temporada-de-vacaciones-de-invierno-en-buinzoo-con-llamado-a-proteger-nuestro-entorno-natural/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente entrega certificación ambiental y reconocimiento por su Plan de Acción Comunal de Cambio Climático a municipalidad de Concón",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-certificacion-ambiental-y-reconocimiento-por-su-plan-de-accion-comunal-de-cambio-climatico-a-municipalidad-de-concon/",
+      "titular": "Jóvenes de Llico participan en encuentro por futura Norma de Calidad Ambiental Lago Vichuquén",
+      "url": "https://mma.gob.cl/jovenes-de-llico-participan-en-encuentro-por-futura-norma-de-calidad-ambiental-lago-vichuquen/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Subsecretario del Medio Ambiente inaugura nuevo Centro de Educación Ambiental de Mariquina en gira por la región de Los Ríos",
-      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-inaugura-nuevo-centro-de-educacion-ambiental-de-mariquina-en-gira-por-la-region-de-los-rios/",
+      "titular": "Autoridades hacen llamado a vecinos de las comunas de Panquehue, LlayLlay y Catemu a ser parte de encuesta para catastro de artefactos a leña",
+      "url": "https://mma.gob.cl/autoridades-hacen-llamado-a-vecinos-de-las-comunas-de-panquehue-llayllay-y-catemu-a-ser-parte-de-encuesta-para-catastro-de-artefactos-a-lena/",
+      "fecha": "2026-06-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Frente a la crisis hídrica: ciencia y comunidades se unen para frenar el avance del desierto",
+      "url": "https://mma.gob.cl/frente-a-la-crisis-hidrica-ciencia-y-comunidades-se-unen-para-frenar-el-avance-del-desierto/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Con el amistoso ante la Roja como ejemplo: la despiadada columna en Portugal para pedir el retiro de Cristiano Ronaldo",
-      "url": "https://www.latercera.com/el-deportivo/noticia/con-el-amistoso-ante-la-roja-como-ejemplo-la-despiadada-columna-en-portugal-para-pedir-el-retiro-de-cristiano-ronaldo/",
+      "titular": "El Mundial del negocio",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/el-mundial-del-negocio/",
       "fecha": "2026-06-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Revisión del Tribunal Ambiental sobre reclamación de comunidad indígena contra Compañía Minera Mantos de Oro",
-      "url": "https://www.redimin.cl/revision-del-tribunal-ambiental-sobre-reclamacion-de-comunidad-indigena-contra-compania-minera-mantos-de-oro",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental admite a trámite reclamación de comunidad indígena contra aprobación de parque fotovoltaico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-a-tramite-reclamacion-de-comunidad-indigena-contra-aprobacion-de-parque-fotovoltaico/",
       "fecha": "2026-06-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Medir las emisiones de las empresas no solo es sostenible, también reduce gastos y genera ahorros",
-      "url": "https://www.paiscircular.cl/opinion/medir-las-emisiones-de-las-empresas-no-solo-es-sostenible-tambien-reduce-gastos-y-genera-ahorros/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Ministerio del Medio Ambiente inicia proceso de actualización de Guía de Delimitación y Caracterización de Humedales Urbanos",
-      "url": "https://www.paiscircular.cl/agua/ministerio-del-medio-ambiente-inicia-proceso-de-actualizacion-de-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Entró en vigencia norma que regula las emisiones de olor del sector pesquero aplicable a empresas en once regiones",
-      "url": "https://www.paiscircular.cl/medio-ambiente/entro-en-vigencia-norma-que-regula-las-emisiones-de-olor-del-sector-pesquero-aplicable-a-empresas-en-once-regiones/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Feriantes y estudiantes unidos: El innovador proyecto de La Florida que da una segunda vida a alimentos, fomenta el ahorro y la comida saludable",
-      "url": "https://www.paiscircular.cl/ciudad/feriantes-y-estudiantes-unidos-el-innovador-proyecto-de-la-florida-que-da-una-segunda-vida-a-alimentos-fomenta-el-ahorro-y-la-comida-saludable/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "¿Tu comuna resiste una lluvia intensa? El estudio que alerta sobre las zonas más inundables de Santiago",
-      "url": "https://codexverde.cl/el-estudio-que-alerta-sobre-las-zonas-mas-inundables-de-santiago/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Del diagnóstico a los desafíos de la crisis de residuos en la Región de Valparaíso",
-      "url": "https://codexverde.cl/del-diagnostico-a-los-desafios-de-la-crisis-de-residuos-en-la-region-de-valparaiso/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "UCSC busca resolver la contaminación de aguas a través de tecnología con residuos de moluscos",
-      "url": "https://codexverde.cl/resolver-contaminacion-de-aguas-con-residuos-de-moluscos/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cómo actuar ante un oso, un insecto o una caracola: conocer la naturaleza de forma segura",
-      "url": "https://efeverde.com/conocer-la-naturaleza-de-forma-segura/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Casi el 10 % de la población española afirma haber cambiado sus hábitos de consumo cárnico",
-      "url": "https://efeverde.com/casi-el-10-de-la-poblacion-espanola-afirma-haber-cambiado-sus-habitos-de-consumo-carnico/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Conferencia de Bonn cierra con mucho por hacer en financiación",
-      "url": "https://efeverde.com/conferencia-bonn-cierra-con-mucho-hacer-financiacion/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El 10% de los que más gastan causan daños ambientales de entre 1,5 y 5 billones de euros",
-      "url": "https://efeverde.com/los-que-mas-gastan-causan-danos-ambientales/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incierto futuro del ajolote. Por May",
-      "url": "https://efeverde.com/incierto-futuro-ajolote-may-mundomay/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "El dilema de las tierras raras",
-      "url": "https://www.terram.cl/el-dilema-de-las-tierras-raras/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Nuevo intento por anular humedal de Los Molles, protegido por vecinos tras años de disputa con inmobiliarias",
-      "url": "https://www.terram.cl/nuevo-intento-por-anular-humedal-de-los-molles-protegido-por-vecinos-tras-anos-de-disputa-con-inmobiliarias/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Empresa alemana pide 396 km² de fondo marino para un parque eólico frente a la única colonia de pingüino rey de Chile",
-      "url": "https://www.terram.cl/empresa-alemana-pide-396-km%c2%b2-de-fondo-marino-para-un-parque-eolico-frente-a-la-unica-colonia-de-pinguino-rey-de-chile/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Corte revisa recurso por presunta vulneración a la honra de defensores ambientales de Aysén",
-      "url": "https://www.terram.cl/corte-revisa-recurso-por-presunta-vulneracion-a-la-honra-de-defensores-ambientales-de-aysen/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Marina Otero (U. de Harvard) sobre la IA y el medio ambiente: “Un centro de datos siempre va a tener consecuencias ecológicas”",
-      "url": "https://www.terram.cl/marina-otero-u-de-harvard-sobre-la-ia-y-el-medio-ambiente-un-centro-de-datos-siempre-va-a-tener-consecuencias-ecologicas/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Día Mundial de Acción contra la Desertificación y la Sequía: una crisis silenciosa avanza desde Centroamérica hasta la Amazonía y el Chaco sudamericano",
-      "url": "https://www.terram.cl/dia-mundial-de-accion-contra-la-desertificacion-y-la-sequia-una-crisis-silenciosa-avanza-desde-centroamerica-hasta-la-amazonia-y-el-chaco-sudamericano/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "AHORA: audiencia en reclamaciones R-475-2024, acumula R-537-2025 y R-544-2025",
-      "url": "https://tribunalambiental.cl/audiencia-r-475-2024-acumula-r-537-2024-y-r-544-2025/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF inicia una nueva campaña de reforestación en el Parque Urbano Natural La Ligua",
-      "url": "https://www.conaf.cl/conaf-inicia-una-nueva-campana-de-reforestacion-en-el-parque-urbano-natural-la-ligua/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-inicia-una-nueva-campana-de-reforestacion-en-el-parque-urbano-natural-la-ligua",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa encuentro para fortalecer la cadena de valor del bosque nativo en La Araucanía y Los Ríos",
-      "url": "https://www.conaf.cl/conaf-impulsa-encuentro-para-fortalecer-la-cadena-de-valor-del-bosque-nativo-en-la-araucania-y-los-rios/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-encuentro-para-fortalecer-la-cadena-de-valor-del-bosque-nativo-en-la-araucania-y-los-rios",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Jornada comunitaria de arborización suma 100 árboles nativos al Parque Urbano de Rapel",
-      "url": "https://mma.gob.cl/jornada-comunitaria-de-arborizacion-suma-100-arboles-nativos-al-parque-urbano-de-rapel/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente encabeza encuentro informativo por futura Norma Ambiental para el Lago Vichuquén",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-encabeza-encuentro-informativo-por-futura-norma-ambiental-para-el-lago-vichuquen/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Aprueban millonaria inversión para implementar 9 puntos limpios en la región de La Araucanía",
-      "url": "https://mma.gob.cl/aprueban-millonaria-inversion-para-implementar-9-puntos-limpios-en-la-region-de-la-araucania/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Proyecto financiado por el Fondo de Protección Ambiental dicta curso gratuito a comunidades entre Coquimbo y Biobío para prevenir incendios forestales",
-      "url": "https://mma.gob.cl/proyecto-financiado-por-el-fondo-de-proteccion-ambiental-dicta-curso-gratuito-a-comunidades-entre-coquimbo-y-biobio-para-prevenir-incendios-forestales/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "RETC",
-      "titular": "Oficina de Economía Circular habilita formulario para la declaración de Consumidores Industriales",
-      "url": "https://retc.mma.gob.cl/oficina-de-economia-circular-habilita-formulario-para-la-declaracion-de-consumidores-industriales/",
-      "fecha": "2026-06-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Revisan antecedentes en reclamación contra decisión de archivar denuncia por supuesta elusión al SEIA de minera",
-      "url": "https://www.mch.cl/revisan-antecedentes-en-reclamacion-contra-decision-de-archivar-denuncia-por-supuesta-elusion-al-seia-de-minera/",
-      "fecha": "2026-06-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
