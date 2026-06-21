@@ -1,27 +1,15 @@
 {
-  "fecha_generacion": "2026-06-20T08:50:40.502442-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-06-21T09:22:59.374411-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Estudiantes universitarios de Temuco conocieron el funcionamiento del Tercer Tribunal Ambiental",
-      "url": "https://3ta.cl/sin-categoria/estudiantes-universitarios-de-temuco-conocieron-el-funcionamiento-del-tercer-tribunal-ambiental/",
-      "fecha": "2026-06-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estudiantes de Derecho Ambiental e Ingeniería en Recursos Naturales visitaron el Tercer Tribunal Ambiental para conocer su funcionamiento y el tipo de causas que revisa en la macrozona sur. Un total de tres grupos de estudiantes de Derecho Ambiental ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental admite a trámite reclamación de comunidad indígena contra aprobación de parque fotovoltaico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-a-tramite-reclamacion-de-comunidad-indigena-contra-aprobacion-de-parque-fotovoltaico/",
-      "fecha": "2026-06-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto, que contempla una inversión aproximada de US$990 millones, se emplazaría en la Región de Tarapacá. La entrada Tribunal Ambiental admite a trámite reclamación de comunidad indígena contra aprobación de parque fotovoltaico se publicó prime",
+      "fuente": "Diario Constitucional",
+      "titular": "Comunidades indígenas recurren al Primer Tribunal Ambiental contra aprobación de proyecto minero Champagne",
+      "url": "https://www.diarioconstitucional.cl/2026/06/21/comunidades-indigenas-recurren-al-primer-tribunal-ambiental-contra-aprobacion-de-proyecto-minero-champagne/",
+      "fecha": "2026-06-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
