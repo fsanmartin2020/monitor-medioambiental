@@ -1,85 +1,157 @@
 {
-  "fecha_actualizacion": "2026-06-21T09:22:59.360570-04:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-06-22T12:09:07.946257-04:00",
+  "total": 19,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Arranca la primera ola de calor del verano en España, con temperaturas superiores a los 40 grados",
-      "url": "https://efeverde.com/arranca-primera-ola-calor-verano-espana/",
-      "fecha": "2026-06-21",
+      "fuente": "País Circular",
+      "titular": "Santiago y Concepción acogerán desde mañana la Climatech Innovation Summit, evento que busca acelerar la adopción tecnológica en industrias estratégicas",
+      "url": "https://www.paiscircular.cl/transicion-energetica/climatech-innovation-summit-2026-en-santiago-y-concepcion-sera-el-encuentro-que-busca-acelerar-la-adopcion-tecnologica-en-industrias-estrategicas/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Científicos crean sistema de alerta temprana ante aumento de oleajes extremos por cambio climático",
+      "url": "https://codexverde.cl/sistema-de-alerta-temprana-ante-aumento-de-oleajes-extremos/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las subvenciones europeas a la pesca provocan la degradación de los océanos, según un informe",
-      "url": "https://efeverde.com/subvenciones-europeas-pesca-degradan-oceanos/",
-      "fecha": "2026-06-21",
+      "titular": "El estrés térmico se intensifica en todo el mundo",
+      "url": "https://efeverde.com/el-estres-termico-se-intensifica-en-todo-el-mundo/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La transición justa gana peso en la agenda climática",
-      "url": "https://efeverde.com/transicion-justa-agenda-climatica/",
-      "fecha": "2026-06-21",
+      "titular": "El 59 % de pesticidas empleados en el café están prohibidos en la UE, según una investigación",
+      "url": "https://efeverde.com/pesticidas-empleados-en-cafe-prohibidos-en-ue/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Inteligencia del territorio: el conocimiento del subsuelo como base de la gestión del capital natural. Por Laura Blanco",
-      "url": "https://efeverde.com/inteligencia-del-territorio-el-conocimiento-del-subsuelo-como-base-de-la-gestion-del-capital-natural-por-laura-blanco/",
-      "fecha": "2026-06-21",
+      "titular": "Europa arde con temperaturas que superan los 40 grados",
+      "url": "https://efeverde.com/europa-arde-con-temperaturas-que-superan-los-40-grados/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El verano llega con la primera ola de calor en España",
-      "url": "https://efeverde.com/verano-primera-ola-de-calor-en-espana/",
-      "fecha": "2026-06-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "\"No le agrega nada y le quita mucho\": la crítica de Bielsa a las pausas de hidratación en el Mundial 2026",
-      "url": "https://www.eldinamo.cl/deportes/2026/06/20/no-le-agrega-nada-y-le-quita-mucho-la-critica-de-bielsa-a-las-pausas-de-hidratacion-en-el-mundial-2026/",
-      "fecha": "2026-06-21",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Comunidades indígenas recurren al Primer Tribunal Ambiental contra aprobación de proyecto minero Champagne",
-      "url": "https://www.diarioconstitucional.cl/2026/06/21/comunidades-indigenas-recurren-al-primer-tribunal-ambiental-contra-aprobacion-de-proyecto-minero-champagne/",
-      "fecha": "2026-06-21",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cedeño, una aldea hondureña que se resiste a desaparecer pese a que el mar le roba terreno",
-      "url": "https://efeverde.com/cedeno-aldea-hondurena-desaparecer-avance-mar/",
-      "fecha": "2026-06-20",
+      "titular": "El coral naranja del Mediterráneo espera la llegada de la luna llena de junio. Por Alexis Terrón",
+      "url": "https://efeverde.com/el-coral-naranja-del-mediterraneo-espera-la-llegada-de-la-luna-llena-de-junio-por-alexis-terron/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Islandia reanuda la caza de ballenas entre protestas tras una pausa de dos años",
-      "url": "https://efeverde.com/islandia-reanuda-caza-ballenas/",
-      "fecha": "2026-06-20",
+      "titular": "La tortuga boba «Diana» vuelve a las playas de Dénia (Alicante)",
+      "url": "https://efeverde.com/la-tortuga-boba-diana-vuelve-a-las-playas-de-denia-alicante/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los bosques tropicales luchan para evitar «puntos críticos de deterioro» en su degradación",
+      "url": "https://efeverde.com/bosques-tropicales-puntos-criticos-deterioro-degradacion/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Medidas excepcionales para evitar incendios en una noche de San Juan bajo la ola de calor",
+      "url": "https://efeverde.com/medidas-excepcionales-para-evitar-incendios-en-una-noche-de-san-juan-bajo-la-ola-de-calor/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "China prepara una ley para regular los viajes turísticos a la Antártida",
+      "url": "https://efeverde.com/china-prepara-una-ley-para-regular-los-viajes-turisticos-a-la-antartida/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Gobierno y autonomías evalúan la situación del lobo, paso determinante para abrir la mano a su caza",
+      "url": "https://efeverde.com/gobierno-y-autonomias-evaluan-la-situacion-del-lobo-paso-determinante-para-abrir-la-mano-a-su-caza/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Nuevo retiro de decreto para lago Villarrica genera alerta: MMA aclara que es parte normal de la tramitación",
+      "url": "https://www.terram.cl/nuevo-retiro-de-decreto-para-lago-villarrica-genera-alerta-mma-aclara-que-es-parte-normal-de-la-tramitacion/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Chile: comunidad indígena lickanantay lleva a tribunales proyecto minero que pondría en riesgo fuentes de agua del salar de Tara",
+      "url": "https://www.terram.cl/chile-comunidad-indigena-lickanantay-lleva-a-tribunales-proyecto-minero-que-pondria-en-riesgo-fuentes-de-agua-del-salar-de-tara/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Humedales y glaciares artificiales: Las técnicas indígenas que están recuperando ecosistemas en Chile",
+      "url": "https://www.terram.cl/humedales-y-glaciares-artificiales-las-tecnicas-indigenas-que-estan-recuperando-ecosistemas-en-chile/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Vecinos y municipio buscan anular aprobación de proyecto minero en La Ligua",
+      "url": "https://www.terram.cl/vecinos-y-municipio-buscan-anular-aprobacion-de-proyecto-minero-en-la-ligua/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Naciones Unidas se une a Chile para evitar la extinción del cactus “Chilenito”",
+      "url": "https://www.terram.cl/naciones-unidas-se-une-a-chile-para-evitar-la-extincion-del-cactus-chilenito/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Histórico hallazgo en Coquimbo: Registran por primera vez una Monjita blanca en territorio chileno",
+      "url": "https://www.terram.cl/historico-hallazgo-en-coquimbo-registran-por-primera-vez-una-monjita-blanca-en-territorio-chileno/",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Desbordes pide al gobierno preparar “plan B” por nueva cárcel: “Necesitamos más plazas, pero no en Santiago”",
-      "url": "https://www.latercera.com/nacional/noticia/desbordes-pide-al-gobierno-preparar-plan-b-por-nueva-carcel-necesitamos-mas-plazas-pero-no-en-santiago/",
-      "fecha": "2026-06-20",
+      "titular": "Von der Leyen elogia a Starmer como “estadista” que ayudó a que la seguridad de Europa sea “más fuerte”",
+      "url": "https://www.latercera.com/mundo/noticia/von-der-leyen-elogia-a-starmer-como-estadista-que-ayudo-a-que-la-seguridad-de-europa-sea-mas-fuerte/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Capstone Copper ingresa EIA de US$500 millones para extender Mantos Blancos hasta 2041",
+      "url": "https://www.redimin.cl/capstone-copper-ingresa-eia-de-us500-millones-para-extender-mantos-blancos-hasta-2041",
+      "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

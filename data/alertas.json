@@ -1,17 +1,29 @@
 {
-  "fecha_generacion": "2026-06-21T09:22:59.374411-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-06-22T12:09:07.956930-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Comunidades indígenas recurren al Primer Tribunal Ambiental contra aprobación de proyecto minero Champagne",
-      "url": "https://www.diarioconstitucional.cl/2026/06/21/comunidades-indigenas-recurren-al-primer-tribunal-ambiental-contra-aprobacion-de-proyecto-minero-champagne/",
-      "fecha": "2026-06-21",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fuente": "La Tercera",
+      "titular": "Von der Leyen elogia a Starmer como “estadista” que ayudó a que la seguridad de Europa sea “más fuerte”",
+      "url": "https://www.latercera.com/mundo/noticia/von-der-leyen-elogia-a-starmer-como-estadista-que-ayudo-a-que-la-seguridad-de-europa-sea-mas-fuerte/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "“A muchos líderes les lleva años crecer hasta convertirse en el estadista en que te has convertido en sólo dos años”, ha escrito Von der Leyen.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Capstone Copper ingresa EIA de US$500 millones para extender Mantos Blancos hasta 2041",
+      "url": "https://www.redimin.cl/capstone-copper-ingresa-eia-de-us500-millones-para-extender-mantos-blancos-hasta-2041",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Capstone Copper busca extender la vida útil de la mina Mantos Blancos hasta 2041, con una inversión de US$500 millones para aumentar la capacidad de procesamiento de sulfuros y reforzar la infraestructura de relaves.",
+      "keywords_detectadas": [
+        "EIA"
       ]
     }
   ]
