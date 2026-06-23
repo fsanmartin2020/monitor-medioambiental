@@ -1,29 +1,41 @@
 {
-  "fecha_generacion": "2026-06-22T12:09:07.956930-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-06-23T10:00:00.845262-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Von der Leyen elogia a Starmer como “estadista” que ayudó a que la seguridad de Europa sea “más fuerte”",
-      "url": "https://www.latercera.com/mundo/noticia/von-der-leyen-elogia-a-starmer-como-estadista-que-ayudo-a-que-la-seguridad-de-europa-sea-mas-fuerte/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026",
+      "url": "https://3ta.cl/audiencias/27-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-9-2026/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“A muchos líderes les lleva años crecer hasta convertirse en el estadista en que te has convertido en sólo dos años”, ha escrito Von der Leyen.",
+      "extracto": "Se fija audiencia con fecha 27/08/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026 appeared first on Terc",
       "keywords_detectadas": [
-        "SEA"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Capstone Copper ingresa EIA de US$500 millones para extender Mantos Blancos hasta 2041",
-      "url": "https://www.redimin.cl/capstone-copper-ingresa-eia-de-us500-millones-para-extender-mantos-blancos-hasta-2041",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Región de Aysén se prepara para la segunda Cumbre Municipal de Economía Circular enfocada en los desafíos de la Ley REP",
+      "url": "https://mma.gob.cl/region-de-aysen-se-prepara-para-la-segunda-cumbre-municipal-de-economia-circular-enfocada-en-los-desafios-de-la-ley-rep/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Capstone Copper busca extender la vida útil de la mina Mantos Blancos hasta 2041, con una inversión de US$500 millones para aumentar la capacidad de procesamiento de sulfuros y reforzar la infraestructura de relaves.",
+      "extracto": "Fortalecer las capacidades de los municipios y de las instituciones públicas para avanzar hacia una gestión más sostenible de los […]",
       "keywords_detectadas": [
-        "EIA"
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "A 10 años de la Ley REP: Invitan a participar en la Segunda Cumbre de Economía Circular en Ñuble",
+      "url": "https://mma.gob.cl/a-10-anos-de-la-ley-rep-invitan-a-participar-en-la-segunda-cumbre-de-economia-circular-en-nuble/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad se realizará el próximo 25 de junio en el Auditorio de la Facultad de Agronomía de la Universidad […]",
+      "keywords_detectadas": [
+        "Ley REP"
       ]
     }
   ]

@@ -1,156 +1,228 @@
 {
-  "fecha_actualizacion": "2026-06-22T12:09:07.946257-04:00",
-  "total": 19,
+  "fecha_actualizacion": "2026-06-23T10:00:00.830338-04:00",
+  "total": 28,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Santiago y Concepción acogerán desde mañana la Climatech Innovation Summit, evento que busca acelerar la adopción tecnológica en industrias estratégicas",
-      "url": "https://www.paiscircular.cl/transicion-energetica/climatech-innovation-summit-2026-en-santiago-y-concepcion-sera-el-encuentro-que-busca-acelerar-la-adopcion-tecnologica-en-industrias-estrategicas/",
+      "titular": "Minería de tierras raras en Penco: oportunidades, riesgos y el debate tras aprobación de controvertido proyecto",
+      "url": "https://www.paiscircular.cl/transicion-energetica/mineria-de-tierras-raras-en-penco-oportunidades-riesgos-y-el-debate-tras-aprobacion-de-controvertido-proyecto/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Del dato a la acción: cómo una plataforma chilena ayuda a entender la crisis hídrica y el cambio climático",
+      "url": "https://www.cr2.cl/del-dato-a-la-accion-como-una-plataforma-chilena-ayuda-a-entender-la-crisis-hidrica-y-el-cambio-climatico/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las olas de calor se adelantan en España: seis episodios en junio desde 2015",
+      "url": "https://efeverde.com/las-olas-de-calor-se-adelantan-en-espana/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Europa instaló un 48 % más de baterías en 2025, pero sigue lejos de sus necesidades",
+      "url": "https://efeverde.com/europa-instalo-mas-de-baterias-en-2025-pero-sigue-lejos-de-sus-necesidades/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Francia vive la noche más calurosa desde que comenzaron los registros en 1949",
+      "url": "https://efeverde.com/francia-noche-mas-calurosa-desde-registros/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de cien estaciones meteorológicas de Aemet superan los 40 grados en plena ola de calor",
+      "url": "https://efeverde.com/cien-estaciones-aemet-superan-40-grados-ola-de-calor/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Desciende en 10 puntos la preocupación española por el cambio climático respecto a 2023",
+      "url": "https://efeverde.com/desciende-en-10-puntos-la-preocupacion-espanola-por-el-cambio-climatico-respecto-a-2023/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 75 % de la población mundial considera el cambio climático una amenaza muy grave",
+      "url": "https://efeverde.com/el-75-de-la-poblacion-mundial-considera-el-cambio-climatico-una-amenaza-muy-grave/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Chile recibe USD 15 millones del BM por reducción de emisiones de carbono",
+      "url": "https://www.conaf.cl/chile-recibe-usd-15-millones-del-bm-por-reduccion-de-emisiones-de-carbono/?utm_source=rss&utm_medium=rss&utm_campaign=chile-recibe-usd-15-millones-del-bm-por-reduccion-de-emisiones-de-carbono",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ganadería y agroindustria circular: experiencias que están transformando Chile serán protagonistas de segundo webinar de Travesía Circular",
+      "url": "https://www.paiscircular.cl/economia-circular/ganaderia-y-agroindustria-circular-experiencias-que-estan-transformando-chile-en-webinar-travesia-circular/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "AZA presenta primer camión eléctrico y firma compromiso por la electromovilidad industrial",
+      "url": "https://www.paiscircular.cl/transicion-energetica/aza-presenta-primer-camion-electrico-y-firma-compromiso-por-la-electromovilidad-industrial/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Científicos crean sistema de alerta temprana ante aumento de oleajes extremos por cambio climático",
-      "url": "https://codexverde.cl/sistema-de-alerta-temprana-ante-aumento-de-oleajes-extremos/",
+      "titular": "Región Metropolitana concentra volumen suficiente de residuos para desarrollar nuevas plantas de valorización",
+      "url": "https://codexverde.cl/region-metropolitana-concentra-volumen-suficiente-de-residuos-para-desarrollar-nuevas-plantas-de-valorizacion/",
+      "fecha": "2026-06-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Using secondary data to engage learners in researching social issues",
+      "url": "https://www.cr2.cl/using-secondary-data-to-engage-learners-in-researching-social-issues/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El estrés térmico se intensifica en todo el mundo",
-      "url": "https://efeverde.com/el-estres-termico-se-intensifica-en-todo-el-mundo/",
+      "titular": "La mayoría de CCAA apoya que la situación del lobo es favorable, mientras el Gobierno mantiene que no",
+      "url": "https://efeverde.com/la-mayoria-de-ccaa-apoya-que-la-situacion-del-lobo-es-favorable-mientras-el-gobierno-mantiene-que-no/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El 59 % de pesticidas empleados en el café están prohibidos en la UE, según una investigación",
-      "url": "https://efeverde.com/pesticidas-empleados-en-cafe-prohibidos-en-ue/",
+      "titular": "Riesgo de incendios: sólo se aprovecha el 40 % de biomasa forestal de los montes españoles, según los selvicultores",
+      "url": "https://efeverde.com/riesgo-incendios-biomasa-forestal-montes-espanoles/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Europa arde con temperaturas que superan los 40 grados",
-      "url": "https://efeverde.com/europa-arde-con-temperaturas-que-superan-los-40-grados/",
+      "titular": "Casi 33 millones de españoles, expuestos en 2025 a unos niveles de contaminación del aire superiores a los límites de la UE",
+      "url": "https://efeverde.com/millones-de-espanoles-expuestos-a-niveles-contaminacion-aire-superiores-limites-ue/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El coral naranja del Mediterráneo espera la llegada de la luna llena de junio. Por Alexis Terrón",
-      "url": "https://efeverde.com/el-coral-naranja-del-mediterraneo-espera-la-llegada-de-la-luna-llena-de-junio-por-alexis-terron/",
+      "fuente": "FIMA",
+      "titular": "Fauna silvestre y ganado: Más allá de los perros ferales",
+      "url": "https://www.fima.cl/2026/06/22/fauna-silvestre-y-ganado-mas-alla-de-los-perros-ferales/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La tortuga boba «Diana» vuelve a las playas de Dénia (Alicante)",
-      "url": "https://efeverde.com/la-tortuga-boba-diana-vuelve-a-las-playas-de-denia-alicante/",
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "R-609-2026 agenda",
+      "url": "https://tribunalambiental.cl/r-609-2026-agenda/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los bosques tropicales luchan para evitar «puntos críticos de deterioro» en su degradación",
-      "url": "https://efeverde.com/bosques-tropicales-puntos-criticos-deterioro-degradacion/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "14/07/2026: Suspende audiencia de «Consejo de Defensa del Estado con Mowi Chile S.A», Rol: D-5-2020",
+      "url": "https://3ta.cl/audiencias/14-07-2026-suspende-audiencia-de-consejo-de-defensa-del-estado-con-mowi-chile-s-a-rol-d-5-2020/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Medidas excepcionales para evitar incendios en una noche de San Juan bajo la ola de calor",
-      "url": "https://efeverde.com/medidas-excepcionales-para-evitar-incendios-en-una-noche-de-san-juan-bajo-la-ola-de-calor/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026",
+      "url": "https://3ta.cl/audiencias/27-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-9-2026/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "China prepara una ley para regular los viajes turísticos a la Antártida",
-      "url": "https://efeverde.com/china-prepara-una-ley-para-regular-los-viajes-turisticos-a-la-antartida/",
+      "fuente": "CONAF",
+      "titular": "Cincuenta familias de Yungay son favorecidas con fondo internacional para proyecto de silvicultura preventiva",
+      "url": "https://www.conaf.cl/cincuenta-familias-de-yungay-son-favorecidas-con-fondo-internacional-para-proyecto-de-silvicultura-preventiva/?utm_source=rss&utm_medium=rss&utm_campaign=cincuenta-familias-de-yungay-son-favorecidas-con-fondo-internacional-para-proyecto-de-silvicultura-preventiva",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Gobierno y autonomías evalúan la situación del lobo, paso determinante para abrir la mano a su caza",
-      "url": "https://efeverde.com/gobierno-y-autonomias-evaluan-la-situacion-del-lobo-paso-determinante-para-abrir-la-mano-a-su-caza/",
+      "fuente": "CONAF",
+      "titular": "Subsecretario de Agricultura destaca rol de CONAF en la generación de oportunidades productivas para comunidades del Tamarugal",
+      "url": "https://www.conaf.cl/subsecretario-de-agricultura-destaca-rol-de-conaf-en-la-generacion-de-oportunidades-productivas-para-comunidades-del-tamarugal/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-destaca-rol-de-conaf-en-la-generacion-de-oportunidades-productivas-para-comunidades-del-tamarugal",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Nuevo retiro de decreto para lago Villarrica genera alerta: MMA aclara que es parte normal de la tramitación",
-      "url": "https://www.terram.cl/nuevo-retiro-de-decreto-para-lago-villarrica-genera-alerta-mma-aclara-que-es-parte-normal-de-la-tramitacion/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Chile fortalece el seguimiento de sus Planes Sectoriales de Mitigación para el Informe Bienal de Transparencia que presentará este año",
+      "url": "https://mma.gob.cl/chile-fortalece-el-seguimiento-de-sus-planes-sectoriales-de-mitigacion-para-el-informe-bienal-de-transparencia-que-presentara-este-ano/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Chile: comunidad indígena lickanantay lleva a tribunales proyecto minero que pondría en riesgo fuentes de agua del salar de Tara",
-      "url": "https://www.terram.cl/chile-comunidad-indigena-lickanantay-lleva-a-tribunales-proyecto-minero-que-pondria-en-riesgo-fuentes-de-agua-del-salar-de-tara/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Región de Aysén se prepara para la segunda Cumbre Municipal de Economía Circular enfocada en los desafíos de la Ley REP",
+      "url": "https://mma.gob.cl/region-de-aysen-se-prepara-para-la-segunda-cumbre-municipal-de-economia-circular-enfocada-en-los-desafios-de-la-ley-rep/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Humedales y glaciares artificiales: Las técnicas indígenas que están recuperando ecosistemas en Chile",
-      "url": "https://www.terram.cl/humedales-y-glaciares-artificiales-las-tecnicas-indigenas-que-estan-recuperando-ecosistemas-en-chile/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "A 10 años de la Ley REP: Invitan a participar en la Segunda Cumbre de Economía Circular en Ñuble",
+      "url": "https://mma.gob.cl/a-10-anos-de-la-ley-rep-invitan-a-participar-en-la-segunda-cumbre-de-economia-circular-en-nuble/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Vecinos y municipio buscan anular aprobación de proyecto minero en La Ligua",
-      "url": "https://www.terram.cl/vecinos-y-municipio-buscan-anular-aprobacion-de-proyecto-minero-en-la-ligua/",
-      "fecha": "2026-06-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Naciones Unidas se une a Chile para evitar la extinción del cactus “Chilenito”",
-      "url": "https://www.terram.cl/naciones-unidas-se-une-a-chile-para-evitar-la-extincion-del-cactus-chilenito/",
-      "fecha": "2026-06-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Histórico hallazgo en Coquimbo: Registran por primera vez una Monjita blanca en territorio chileno",
-      "url": "https://www.terram.cl/historico-hallazgo-en-coquimbo-registran-por-primera-vez-una-monjita-blanca-en-territorio-chileno/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Cochrane y Tortel avanzan hacia una gestión moderna de residuos con histórica inversión regional",
+      "url": "https://mma.gob.cl/cochrane-y-tortel-avanzan-hacia-una-gestion-moderna-de-residuos-con-historica-inversion-regional/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Von der Leyen elogia a Starmer como “estadista” que ayudó a que la seguridad de Europa sea “más fuerte”",
-      "url": "https://www.latercera.com/mundo/noticia/von-der-leyen-elogia-a-starmer-como-estadista-que-ayudo-a-que-la-seguridad-de-europa-sea-mas-fuerte/",
+      "titular": "Reino Unido recuerda 10 años del Brexit en medio de renuncia del primer ministro",
+      "url": "https://www.latercera.com/mundo/noticia/reino-unido-recuerda-10-anos-del-brexit-en-medio-de-renuncia-del-primer-ministro/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Capstone Copper ingresa EIA de US$500 millones para extender Mantos Blancos hasta 2041",
-      "url": "https://www.redimin.cl/capstone-copper-ingresa-eia-de-us500-millones-para-extender-mantos-blancos-hasta-2041",
+      "fuente": "La Tercera",
+      "titular": "Alcaldes aceleran negociación por contribuciones: nueva propuesta excluye de pago total a quienes ganan menos de $3 millones",
+      "url": "https://www.latercera.com/nacional/noticia/alcaldes-aceleran-negociacion-por-contribuciones-nueva-propuesta-excluye-de-pago-total-a-quienes-ganan-menos-de-3-millones/",
       "fecha": "2026-06-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
