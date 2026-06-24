@@ -1,41 +1,53 @@
 {
-  "fecha_generacion": "2026-06-23T10:00:00.845262-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-06-24T09:37:47.883591-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026",
-      "url": "https://3ta.cl/audiencias/27-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-9-2026/",
-      "fecha": "2026-06-22",
+      "fuente": "Nueva Minería",
+      "titular": "José Ignacio Vial y las prioridades del MMA: “Rapidez, predictibilidad y rigor técnico en el SEIA”",
+      "url": "https://www.nuevamineria.com/revista/jose-ignacio-vial-y-las-prioridades-del-mma-rapidez-predictibilidad-y-rigor-tecnico-en-el-seia/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 27/08/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026 appeared first on Terc",
+      "extracto": "El subsecretario del Medioambiente detalla cómo el ministerio agiliza la inversión sin ceder en estándares técnicos, y fija las prioridades de la cartera para los próximos meses. Por Horacio Acuña ______________ Hay un dato en el perfil de José Ignac",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tras reparo de la SMA: Contraloría ordena sumario en Palena por vertimiento de aguas servidas en La Culebra",
+      "url": "https://www.terram.cl/tras-reparo-de-la-sma-contraloria-ordena-sumario-en-palena-por-vertimiento-de-aguas-servidas-en-la-culebra/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Contraloría dio un plazo de 30 días a la Municipalidad de Palena para acreditar acciones contra nuevos vertimientos y cumplimiento de exigencias sanitarias. Fuente: El Desconcierto, 22 de mayo de 2026.",
+      "keywords_detectadas": [
+        "SMA"
       ]
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Región de Aysén se prepara para la segunda Cumbre Municipal de Economía Circular enfocada en los desafíos de la Ley REP",
-      "url": "https://mma.gob.cl/region-de-aysen-se-prepara-para-la-segunda-cumbre-municipal-de-economia-circular-enfocada-en-los-desafios-de-la-ley-rep/",
-      "fecha": "2026-06-22",
+      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
+      "url": "https://mma.gob.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Fortalecer las capacidades de los municipios y de las instituciones públicas para avanzar hacia una gestión más sostenible de los […]",
+      "extracto": "El encuentro liderado por el Ministerio del Medio Ambiente permitió generar un espacio de diálogo y aprendizaje dirigidos a funcionarios […]",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "A 10 años de la Ley REP: Invitan a participar en la Segunda Cumbre de Economía Circular en Ñuble",
-      "url": "https://mma.gob.cl/a-10-anos-de-la-ley-rep-invitan-a-participar-en-la-segunda-cumbre-de-economia-circular-en-nuble/",
-      "fecha": "2026-06-22",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminación",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-a-plan-de-descontaminacion/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad se realizará el próximo 25 de junio en el Auditorio de la Facultad de Agronomía de la Universidad […]",
+      "extracto": "En diciembre de 2024, la SMA aplicó una multa por tres incumplimientos relacionados con medidas de control de emisiones. La entrada Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminaci",
       "keywords_detectadas": [
-        "Ley REP"
+        "Tribunal Ambiental"
       ]
     }
   ]

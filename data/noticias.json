@@ -1,229 +1,269 @@
 {
-  "fecha_actualizacion": "2026-06-23T10:00:00.830338-04:00",
-  "total": 28,
+  "fecha_actualizacion": "2026-06-24T09:37:47.869431-04:00",
+  "total": 33,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Minería de tierras raras en Penco: oportunidades, riesgos y el debate tras aprobación de controvertido proyecto",
-      "url": "https://www.paiscircular.cl/transicion-energetica/mineria-de-tierras-raras-en-penco-oportunidades-riesgos-y-el-debate-tras-aprobacion-de-controvertido-proyecto/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Del dato a la acción: cómo una plataforma chilena ayuda a entender la crisis hídrica y el cambio climático",
-      "url": "https://www.cr2.cl/del-dato-a-la-accion-como-una-plataforma-chilena-ayuda-a-entender-la-crisis-hidrica-y-el-cambio-climatico/",
-      "fecha": "2026-06-23",
+      "titular": "Investigadores de México y España analizan las ventajas de la reutilización de envases para frenar la contaminación por plásticos",
+      "url": "https://www.paiscircular.cl/reutilizacion/investigadores-de-mexico-y-espana-analizan-las-ventajas-de-la-reutilizacion-de-envases-para-frenar-la-contaminacion-por-plasticos/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las olas de calor se adelantan en España: seis episodios en junio desde 2015",
-      "url": "https://efeverde.com/las-olas-de-calor-se-adelantan-en-espana/",
-      "fecha": "2026-06-23",
+      "titular": "La ola de calor que afecta a 24 países europeos podría prolongarse al menos las dos próximas semanas, según la OMM",
+      "url": "https://efeverde.com/ola-de-calor-24-paises-europeos-omm/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Europa instaló un 48 % más de baterías en 2025, pero sigue lejos de sus necesidades",
-      "url": "https://efeverde.com/europa-instalo-mas-de-baterias-en-2025-pero-sigue-lejos-de-sus-necesidades/",
-      "fecha": "2026-06-23",
+      "titular": "Desastres naturales mundiales: 697 millones de afectados entre 2020/2024 y la amenaza de «información dañina»",
+      "url": "https://efeverde.com/desastres-naturales-mundiales/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Francia vive la noche más calurosa desde que comenzaron los registros en 1949",
-      "url": "https://efeverde.com/francia-noche-mas-calurosa-desde-registros/",
-      "fecha": "2026-06-23",
+      "titular": "Lo que le espera a Madrid sin acción climática: máximas de más de 50°C y una caída del PIB del 19,4 %",
+      "url": "https://efeverde.com/lo-que-le-espera-a-madrid-sin-accion-climatica-maximas-de-mas-de-50c-y-una-caida-del-pib-del-194/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Más de cien estaciones meteorológicas de Aemet superan los 40 grados en plena ola de calor",
-      "url": "https://efeverde.com/cien-estaciones-aemet-superan-40-grados-ola-de-calor/",
-      "fecha": "2026-06-23",
+      "titular": "Los cachalotes del Mediterráneo han hecho evolucionar sus «dialectos»",
+      "url": "https://efeverde.com/cachalotes-mediterraneo-evolucion-dialectos/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Desciende en 10 puntos la preocupación española por el cambio climático respecto a 2023",
-      "url": "https://efeverde.com/desciende-en-10-puntos-la-preocupacion-espanola-por-el-cambio-climatico-respecto-a-2023/",
-      "fecha": "2026-06-23",
+      "titular": "La ciudad francesa de Niza proyecta usar agua del Mediterráneo como climatizador urbano",
+      "url": "https://efeverde.com/niza-agua-mediterraneo-climatizador-urbano/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El 75 % de la población mundial considera el cambio climático una amenaza muy grave",
-      "url": "https://efeverde.com/el-75-de-la-poblacion-mundial-considera-el-cambio-climatico-una-amenaza-muy-grave/",
-      "fecha": "2026-06-23",
+      "titular": "La Asociación SDDR pide definir «las reglas del juego» para poner en marcha el sistema de retorno",
+      "url": "https://efeverde.com/asociacion-sddr-sistema-retorno/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Chile recibe USD 15 millones del BM por reducción de emisiones de carbono",
-      "url": "https://www.conaf.cl/chile-recibe-usd-15-millones-del-bm-por-reduccion-de-emisiones-de-carbono/?utm_source=rss&utm_medium=rss&utm_campaign=chile-recibe-usd-15-millones-del-bm-por-reduccion-de-emisiones-de-carbono",
+      "titular": "CONAF comparte experiencias sobre gestión de rastrojos de cereales en comunas cordilleranas de Ñuble",
+      "url": "https://www.conaf.cl/conaf-comparte-experiencias-sobre-gestion-de-rastrojos-de-cereales-en-comunas-cordilleranas-de-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-comparte-experiencias-sobre-gestion-de-rastrojos-de-cereales-en-comunas-cordilleranas-de-nuble",
+      "fecha": "2026-06-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Dos recursos de vecinos y ambientalistas amenazan con judicializar megaproyecto Maratué de 14 mil viviendas en Puchuncaví",
+      "url": "https://www.df.cl/empresas/construccion/dos-recursos-de-vecinos-y-ambientalistas-amenazan-con-judicializar",
+      "fecha": "2026-06-24",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "José Ignacio Vial y las prioridades del MMA: “Rapidez, predictibilidad y rigor técnico en el SEIA”",
+      "url": "https://www.nuevamineria.com/revista/jose-ignacio-vial-y-las-prioridades-del-mma-rapidez-predictibilidad-y-rigor-tecnico-en-el-seia/",
+      "fecha": "2026-06-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ganadería y Agroindustria Circular: casos que están transformando Chile",
+      "url": "https://www.paiscircular.cl/videos/ganaderia-y-agroindustria-circular-casos-que-estan-transformando-chile/",
       "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Ganadería y agroindustria circular: experiencias que están transformando Chile serán protagonistas de segundo webinar de Travesía Circular",
-      "url": "https://www.paiscircular.cl/economia-circular/ganaderia-y-agroindustria-circular-experiencias-que-estan-transformando-chile-en-webinar-travesia-circular/",
-      "fecha": "2026-06-22",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "El costo invisible del agua: 5 CLAVES PARA QUE LAS EMPRESAS DE LA REGIÓN SEAN RENTABLES Y SOSTENIBLES EN 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/el-costo-invisible-del-agua-5-claves-para-que-las-empresas-de-la-region-sean-rentables-y-sostenibles-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-costo-invisible-del-agua-5-claves-para-que-las-empresas-de-la-region-sean-rentables-y-sostenibles-en-2026",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "AZA presenta primer camión eléctrico y firma compromiso por la electromovilidad industrial",
-      "url": "https://www.paiscircular.cl/transicion-energetica/aza-presenta-primer-camion-electrico-y-firma-compromiso-por-la-electromovilidad-industrial/",
-      "fecha": "2026-06-22",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Innovación chilena transforma colillas de cigarro en anteojos de alta gama",
+      "url": "https://www.chiledesarrollosustentable.cl/innovacion-chilena-transforma-colillas-de-cigarro-en-anteojos-de-alta-gama/?utm_source=rss&utm_medium=rss&utm_campaign=innovacion-chilena-transforma-colillas-de-cigarro-en-anteojos-de-alta-gama",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Región Metropolitana concentra volumen suficiente de residuos para desarrollar nuevas plantas de valorización",
-      "url": "https://codexverde.cl/region-metropolitana-concentra-volumen-suficiente-de-residuos-para-desarrollar-nuevas-plantas-de-valorizacion/",
-      "fecha": "2026-06-22",
+      "titular": "Electromovilidad en Chile: de la promesa a la acción",
+      "url": "https://codexverde.cl/electromovilidad-en-chile-de-la-promesa-a-la-accion/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Using secondary data to engage learners in researching social issues",
-      "url": "https://www.cr2.cl/using-secondary-data-to-engage-learners-in-researching-social-issues/",
-      "fecha": "2026-06-22",
+      "titular": "La Araucanía bajo alerta por llegada de El Niño: experto advierte que más lluvia no significa fin de la sequía (Araucanía Noticias)",
+      "url": "https://www.cr2.cl/la-araucania-bajo-alerta-por-llegada-de-el-nino-experto-advierte-que-mas-lluvia-no-significa-fin-de-la-sequia-araucania-noticias/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "El Niño no causaría grandes precipitaciones ni inundaciones durante el invierno (GDA)",
+      "url": "https://www.cr2.cl/el-nino-no-causaria-grandes-precipitaciones-ni-inundaciones-durante-el-invierno-gda/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La mayoría de CCAA apoya que la situación del lobo es favorable, mientras el Gobierno mantiene que no",
-      "url": "https://efeverde.com/la-mayoria-de-ccaa-apoya-que-la-situacion-del-lobo-es-favorable-mientras-el-gobierno-mantiene-que-no/",
-      "fecha": "2026-06-22",
+      "titular": "El aumento de las baterías en la UE permitirá limitar la generación de electricidad con gas",
+      "url": "https://efeverde.com/almacenamiento-baterias-ue-se-cuadriplicara-2030/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Riesgo de incendios: sólo se aprovecha el 40 % de biomasa forestal de los montes españoles, según los selvicultores",
-      "url": "https://efeverde.com/riesgo-incendios-biomasa-forestal-montes-espanoles/",
-      "fecha": "2026-06-22",
+      "titular": "Francia sufre lo peor de una ola de calor que asfixia a Europa",
+      "url": "https://efeverde.com/francia-sufre-lo-peor-de-una-ola-de-calor-que-asfixia-a-europa/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Casi 33 millones de españoles, expuestos en 2025 a unos niveles de contaminación del aire superiores a los límites de la UE",
-      "url": "https://efeverde.com/millones-de-espanoles-expuestos-a-niveles-contaminacion-aire-superiores-limites-ue/",
-      "fecha": "2026-06-22",
+      "titular": "El Gobierno y la Junta de Andalucía urgen al TSJA a actuar frente al bloqueo del hotel El Algarrobico",
+      "url": "https://efeverde.com/gobierno-y-junta-de-andalucia-urgen-al-tsja-actuar-frente-bloqueo-del-hotel-el-algarrobico/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "FIMA",
-      "titular": "Fauna silvestre y ganado: Más allá de los perros ferales",
-      "url": "https://www.fima.cl/2026/06/22/fauna-silvestre-y-ganado-mas-alla-de-los-perros-ferales/",
-      "fecha": "2026-06-22",
+      "fuente": "EFE Verde",
+      "titular": "Más de un millón de hectáreas forestales son sostenibles en España",
+      "url": "https://efeverde.com/mas-de-un-millon-de-hectareas-forestales-son-sostenibles-en-espana/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "R-609-2026 agenda",
-      "url": "https://tribunalambiental.cl/r-609-2026-agenda/",
-      "fecha": "2026-06-22",
+      "fuente": "Terram",
+      "titular": "Tras reparo de la SMA: Contraloría ordena sumario en Palena por vertimiento de aguas servidas en La Culebra",
+      "url": "https://www.terram.cl/tras-reparo-de-la-sma-contraloria-ordena-sumario-en-palena-por-vertimiento-de-aguas-servidas-en-la-culebra/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "14/07/2026: Suspende audiencia de «Consejo de Defensa del Estado con Mowi Chile S.A», Rol: D-5-2020",
-      "url": "https://3ta.cl/audiencias/14-07-2026-suspende-audiencia-de-consejo-de-defensa-del-estado-con-mowi-chile-s-a-rol-d-5-2020/",
-      "fecha": "2026-06-22",
+      "fuente": "Terram",
+      "titular": "Ministra Rincón y cese de centrales a carbón en Puchuncaví: “No sabemos cuándo saldrían”",
+      "url": "https://www.terram.cl/ministra-rincon-y-cese-de-centrales-a-carbon-en-puchuncavi-no-sabemos-cuando-saldrian/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "27/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-9-2026",
-      "url": "https://3ta.cl/audiencias/27-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-9-2026/",
-      "fecha": "2026-06-22",
+      "fuente": "Terram",
+      "titular": "Estudio AMUCH revela fuerte desigualdad ambiental: comunas metropolitanas invierten 24 veces más que municipios rurales",
+      "url": "https://www.terram.cl/estudio-amuch-revela-fuerte-desigualdad-ambiental-comunas-metropolitanas-invierten-24-veces-mas-que-municipios-rurales/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Habría descendido cerca de 200 metros: Preocupación por baja del lago Caburgua",
+      "url": "https://www.terram.cl/habria-descendido-cerca-de-200-metros-preocupacion-por-baja-del-lago-caburgua/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Un mapa necesario: plazos, sectores y ruta para salir de los combustibles fósiles en América Latina",
+      "url": "https://www.terram.cl/un-mapa-necesario-plazos-sectores-y-ruta-para-salir-de-los-combustibles-fosiles-en-america-latina/",
+      "fecha": "2026-06-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Científicos mapean por primera vez las redes de hongos del planeta: Abarcan mil millones de veces la distancia entre la Tierra y el Sol",
+      "url": "https://www.terram.cl/cientificos-mapean-por-primera-vez-las-redes-de-hongos-del-planeta-abarcan-mil-millones-de-veces-la-distancia-entre-la-tierra-y-el-sol/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Cincuenta familias de Yungay son favorecidas con fondo internacional para proyecto de silvicultura preventiva",
-      "url": "https://www.conaf.cl/cincuenta-familias-de-yungay-son-favorecidas-con-fondo-internacional-para-proyecto-de-silvicultura-preventiva/?utm_source=rss&utm_medium=rss&utm_campaign=cincuenta-familias-de-yungay-son-favorecidas-con-fondo-internacional-para-proyecto-de-silvicultura-preventiva",
-      "fecha": "2026-06-22",
+      "titular": "Creación y conservación de Parque Urbano en Malalhue, gracias a Programa de Emergencia de Empleo de CONAF",
+      "url": "https://www.conaf.cl/creacion-y-conservacion-de-parque-urbano-en-malalhue-gracias-a-programa-de-emergencia-de-empleo-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=creacion-y-conservacion-de-parque-urbano-en-malalhue-gracias-a-programa-de-emergencia-de-empleo-de-conaf",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Subsecretario de Agricultura destaca rol de CONAF en la generación de oportunidades productivas para comunidades del Tamarugal",
-      "url": "https://www.conaf.cl/subsecretario-de-agricultura-destaca-rol-de-conaf-en-la-generacion-de-oportunidades-productivas-para-comunidades-del-tamarugal/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-de-agricultura-destaca-rol-de-conaf-en-la-generacion-de-oportunidades-productivas-para-comunidades-del-tamarugal",
-      "fecha": "2026-06-22",
+      "titular": "Formalizan alianza entre CONAF y Carabineros para prevenir incendios forestales en comunidades escolares de la Provincia de Biobío",
+      "url": "https://www.conaf.cl/formalizan-alianza-entre-conaf-y-carabineros-para-prevenir-incendios-forestales-en-comunidades-escolares-de-la-provincia-de-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=formalizan-alianza-entre-conaf-y-carabineros-para-prevenir-incendios-forestales-en-comunidades-escolares-de-la-provincia-de-biobio",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile fortalece el seguimiento de sus Planes Sectoriales de Mitigación para el Informe Bienal de Transparencia que presentará este año",
-      "url": "https://mma.gob.cl/chile-fortalece-el-seguimiento-de-sus-planes-sectoriales-de-mitigacion-para-el-informe-bienal-de-transparencia-que-presentara-este-ano/",
-      "fecha": "2026-06-22",
+      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
+      "url": "https://mma.gob.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Región de Aysén se prepara para la segunda Cumbre Municipal de Economía Circular enfocada en los desafíos de la Ley REP",
-      "url": "https://mma.gob.cl/region-de-aysen-se-prepara-para-la-segunda-cumbre-municipal-de-economia-circular-enfocada-en-los-desafios-de-la-ley-rep/",
-      "fecha": "2026-06-22",
+      "titular": "Comité Ambiental Comunal de Cochrane lanza libro infantil para promover la tenencia responsable y el cuidado de la biodiversidad",
+      "url": "https://mma.gob.cl/comite-ambiental-comunal-de-cochrane-lanza-libro-infantil-para-promover-la-tenencia-responsable-y-el-cuidado-de-la-biodiversidad/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "A 10 años de la Ley REP: Invitan a participar en la Segunda Cumbre de Economía Circular en Ñuble",
-      "url": "https://mma.gob.cl/a-10-anos-de-la-ley-rep-invitan-a-participar-en-la-segunda-cumbre-de-economia-circular-en-nuble/",
-      "fecha": "2026-06-22",
+      "titular": "Quilpué recibe reconocimiento por la aprobación de su Plan de Acción comunal de Cambio Climático",
+      "url": "https://mma.gob.cl/quilpue-recibe-reconocimiento-por-la-aprobacion-de-su-plan-de-accion-comunal-de-cambio-climatico/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cochrane y Tortel avanzan hacia una gestión moderna de residuos con histórica inversión regional",
-      "url": "https://mma.gob.cl/cochrane-y-tortel-avanzan-hacia-una-gestion-moderna-de-residuos-con-historica-inversion-regional/",
-      "fecha": "2026-06-22",
+      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente y AIEP concluyen exitosos cursos gratuitos de capacitación en electromovilidad en todo Chile",
+      "url": "https://mma.gob.cl/proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Reino Unido recuerda 10 años del Brexit en medio de renuncia del primer ministro",
-      "url": "https://www.latercera.com/mundo/noticia/reino-unido-recuerda-10-anos-del-brexit-en-medio-de-renuncia-del-primer-ministro/",
-      "fecha": "2026-06-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Alcaldes aceleran negociación por contribuciones: nueva propuesta excluye de pago total a quienes ganan menos de $3 millones",
-      "url": "https://www.latercera.com/nacional/noticia/alcaldes-aceleran-negociacion-por-contribuciones-nueva-propuesta-excluye-de-pago-total-a-quienes-ganan-menos-de-3-millones/",
-      "fecha": "2026-06-22",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminación",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-a-plan-de-descontaminacion/",
+      "fecha": "2026-06-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
