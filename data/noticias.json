@@ -1,269 +1,205 @@
 {
-  "fecha_actualizacion": "2026-06-24T09:37:47.869431-04:00",
-  "total": 33,
+  "fecha_actualizacion": "2026-06-25T09:40:04.499395-04:00",
+  "total": 25,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Investigadores de México y España analizan las ventajas de la reutilización de envases para frenar la contaminación por plásticos",
-      "url": "https://www.paiscircular.cl/reutilizacion/investigadores-de-mexico-y-espana-analizan-las-ventajas-de-la-reutilizacion-de-envases-para-frenar-la-contaminacion-por-plasticos/",
-      "fecha": "2026-06-24",
+      "fuente": "EFE Verde",
+      "titular": "La demanda de mascotas exóticas dispara el tráfico ilegal de reptiles y aves en Latinoamérica",
+      "url": "https://efeverde.com/demanda-mascotas-exoticas-dispara-trafico-ilegal-reptiles-y-aves-en-latinoamerica/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ola de calor que afecta a 24 países europeos podría prolongarse al menos las dos próximas semanas, según la OMM",
-      "url": "https://efeverde.com/ola-de-calor-24-paises-europeos-omm/",
-      "fecha": "2026-06-24",
+      "titular": "¿Qué es un doblete sísmico? El fenómeno «poco frecuente» que ha sacudido Venezuela",
+      "url": "https://efeverde.com/dos-terremotos-39-segundos-venezuela-que-es-doblete-sismico/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Desastres naturales mundiales: 697 millones de afectados entre 2020/2024 y la amenaza de «información dañina»",
-      "url": "https://efeverde.com/desastres-naturales-mundiales/",
-      "fecha": "2026-06-24",
+      "titular": "La primera ola de calor del año deja en España 212 muertes atribuibles a las altas temperaturas",
+      "url": "https://efeverde.com/primera-ola-de-calor-espana-muertes-atribuibles-a-altas-temperaturas/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Lo que le espera a Madrid sin acción climática: máximas de más de 50°C y una caída del PIB del 19,4 %",
-      "url": "https://efeverde.com/lo-que-le-espera-a-madrid-sin-accion-climatica-maximas-de-mas-de-50c-y-una-caida-del-pib-del-194/",
-      "fecha": "2026-06-24",
+      "titular": "Asturias, Canarias, La Rioja, Murcia y Madrid, las autonomías que peor protegen su biodiversidad",
+      "url": "https://efeverde.com/asturias-canarias-la-rioja-murcia-madrid-autonomias-que-peor-protegen-su-biodiversidad/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los cachalotes del Mediterráneo han hecho evolucionar sus «dialectos»",
-      "url": "https://efeverde.com/cachalotes-mediterraneo-evolucion-dialectos/",
-      "fecha": "2026-06-24",
+      "titular": "Marruecos, entre una ley animal y denuncias por «desaparición» de perros callejeros",
+      "url": "https://efeverde.com/marruecos-entre-una-ley-animal-y-denuncias-por-desaparicion-de-perros-callejeros/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ciudad francesa de Niza proyecta usar agua del Mediterráneo como climatizador urbano",
-      "url": "https://efeverde.com/niza-agua-mediterraneo-climatizador-urbano/",
-      "fecha": "2026-06-24",
+      "titular": "Dos terremotos dejan, al menos, 164 fallecidos y más de 971 heridos en Venezuela",
+      "url": "https://efeverde.com/dos-terremotos-dejan-fallecidos-heridos-venezuela/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Asociación SDDR pide definir «las reglas del juego» para poner en marcha el sistema de retorno",
-      "url": "https://efeverde.com/asociacion-sddr-sistema-retorno/",
-      "fecha": "2026-06-24",
+      "titular": "Presas y azudes, máximos responsables de la desaparición de playas",
+      "url": "https://efeverde.com/presas-y-azudes-maximos-responsables-de-la-desaparicion-de-playas/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF comparte experiencias sobre gestión de rastrojos de cereales en comunas cordilleranas de Ñuble",
-      "url": "https://www.conaf.cl/conaf-comparte-experiencias-sobre-gestion-de-rastrojos-de-cereales-en-comunas-cordilleranas-de-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-comparte-experiencias-sobre-gestion-de-rastrojos-de-cereales-en-comunas-cordilleranas-de-nuble",
-      "fecha": "2026-06-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Dos recursos de vecinos y ambientalistas amenazan con judicializar megaproyecto Maratué de 14 mil viviendas en Puchuncaví",
-      "url": "https://www.df.cl/empresas/construccion/dos-recursos-de-vecinos-y-ambientalistas-amenazan-con-judicializar",
-      "fecha": "2026-06-24",
+      "fuente": "Cooperativa",
+      "titular": "Subsecretario Pavez: Gobierno hará lo que sea necesario para sumar más apoyos a megarreforma",
+      "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/subsecretario-pavez-gobierno-hara-lo-que-sea-necesario-para-sumar-mas/2026-06-25/075341.html",
+      "fecha": "2026-06-25",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "José Ignacio Vial y las prioridades del MMA: “Rapidez, predictibilidad y rigor técnico en el SEIA”",
-      "url": "https://www.nuevamineria.com/revista/jose-ignacio-vial-y-las-prioridades-del-mma-rapidez-predictibilidad-y-rigor-tecnico-en-el-seia/",
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental acogió parcialmente reclamación de Copec contra sanción por incumplimientos al Plan de Descontaminación de Concón, Quintero y Puchuncaví",
+      "url": "https://www.diarioconstitucional.cl/2026/06/24/segundo-tribunal-ambiental-acogio-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-al-plan-de-descontaminacion-de-concon-quintero-y-puchuncavi/",
+      "fecha": "2026-06-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
+      "url": "https://www.chiledesarrollosustentable.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/?utm_source=rss&utm_medium=rss&utm_campaign=talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep",
       "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Ganadería y Agroindustria Circular: casos que están transformando Chile",
-      "url": "https://www.paiscircular.cl/videos/ganaderia-y-agroindustria-circular-casos-que-estan-transformando-chile/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "El costo invisible del agua: 5 CLAVES PARA QUE LAS EMPRESAS DE LA REGIÓN SEAN RENTABLES Y SOSTENIBLES EN 2026",
-      "url": "https://www.chiledesarrollosustentable.cl/el-costo-invisible-del-agua-5-claves-para-que-las-empresas-de-la-region-sean-rentables-y-sostenibles-en-2026/?utm_source=rss&utm_medium=rss&utm_campaign=el-costo-invisible-del-agua-5-claves-para-que-las-empresas-de-la-region-sean-rentables-y-sostenibles-en-2026",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Innovación chilena transforma colillas de cigarro en anteojos de alta gama",
-      "url": "https://www.chiledesarrollosustentable.cl/innovacion-chilena-transforma-colillas-de-cigarro-en-anteojos-de-alta-gama/?utm_source=rss&utm_medium=rss&utm_campaign=innovacion-chilena-transforma-colillas-de-cigarro-en-anteojos-de-alta-gama",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Electromovilidad en Chile: de la promesa a la acción",
-      "url": "https://codexverde.cl/electromovilidad-en-chile-de-la-promesa-a-la-accion/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "La Araucanía bajo alerta por llegada de El Niño: experto advierte que más lluvia no significa fin de la sequía (Araucanía Noticias)",
-      "url": "https://www.cr2.cl/la-araucania-bajo-alerta-por-llegada-de-el-nino-experto-advierte-que-mas-lluvia-no-significa-fin-de-la-sequia-araucania-noticias/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "El Niño no causaría grandes precipitaciones ni inundaciones durante el invierno (GDA)",
-      "url": "https://www.cr2.cl/el-nino-no-causaria-grandes-precipitaciones-ni-inundaciones-durante-el-invierno-gda/",
-      "fecha": "2026-06-23",
+      "fuente": "EFE Verde",
+      "titular": "Las olas de calor son una creciente amenaza a la salud con 500.000 muertes anuales, según la OMS",
+      "url": "https://efeverde.com/olas-de-calor-creciente-amenaza-a-salud-oms/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El aumento de las baterías en la UE permitirá limitar la generación de electricidad con gas",
-      "url": "https://efeverde.com/almacenamiento-baterias-ue-se-cuadriplicara-2030/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Francia sufre lo peor de una ola de calor que asfixia a Europa",
-      "url": "https://efeverde.com/francia-sufre-lo-peor-de-una-ola-de-calor-que-asfixia-a-europa/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno y la Junta de Andalucía urgen al TSJA a actuar frente al bloqueo del hotel El Algarrobico",
-      "url": "https://efeverde.com/gobierno-y-junta-de-andalucia-urgen-al-tsja-actuar-frente-bloqueo-del-hotel-el-algarrobico/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más de un millón de hectáreas forestales son sostenibles en España",
-      "url": "https://efeverde.com/mas-de-un-millon-de-hectareas-forestales-son-sostenibles-en-espana/",
-      "fecha": "2026-06-23",
+      "titular": "Este lunes y martes han sido los días más cálidos para un mes de junio en España desde, al menos, 1950",
+      "url": "https://efeverde.com/este-lunes-y-martes-han-sido-los-dias-mas-calidos-para-un-mes-de-junio-en-espana-desde-al-menos-1950/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Tras reparo de la SMA: Contraloría ordena sumario en Palena por vertimiento de aguas servidas en La Culebra",
-      "url": "https://www.terram.cl/tras-reparo-de-la-sma-contraloria-ordena-sumario-en-palena-por-vertimiento-de-aguas-servidas-en-la-culebra/",
-      "fecha": "2026-06-23",
+      "titular": "Comisión aprueba dos cables submarinos de Google que conectarán Santo Domingo con Australia y Panamá",
+      "url": "https://www.terram.cl/comision-aprueba-dos-cables-submarinos-de-google-que-conectaran-santo-domingo-con-australia-y-panama/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Ministra Rincón y cese de centrales a carbón en Puchuncaví: “No sabemos cuándo saldrían”",
-      "url": "https://www.terram.cl/ministra-rincon-y-cese-de-centrales-a-carbon-en-puchuncavi-no-sabemos-cuando-saldrian/",
-      "fecha": "2026-06-23",
+      "titular": "SMA ratifica que megaproyecto inmobiliario en Algarrobo debe someterse a evaluación ambiental",
+      "url": "https://www.terram.cl/sma-ratifica-que-megaproyecto-inmobiliario-en-algarrobo-debe-someterse-a-evaluacion-ambiental/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Estudio AMUCH revela fuerte desigualdad ambiental: comunas metropolitanas invierten 24 veces más que municipios rurales",
-      "url": "https://www.terram.cl/estudio-amuch-revela-fuerte-desigualdad-ambiental-comunas-metropolitanas-invierten-24-veces-mas-que-municipios-rurales/",
-      "fecha": "2026-06-23",
+      "titular": "Comisión de Evaluación Ambiental aprueba Alto Santorini en Viña del Mar: pasó de dos edificios a uno",
+      "url": "https://www.terram.cl/comision-de-evaluacion-ambiental-aprueba-alto-santorini-en-vina-del-mar-paso-de-dos-edificios-a-uno/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Habría descendido cerca de 200 metros: Preocupación por baja del lago Caburgua",
-      "url": "https://www.terram.cl/habria-descendido-cerca-de-200-metros-preocupacion-por-baja-del-lago-caburgua/",
-      "fecha": "2026-06-23",
+      "titular": "Vecinos de Quilicura frenan operación de polémica sanitaria que no pudo descartar daño a humedal",
+      "url": "https://www.terram.cl/vecinos-de-quilicura-frenan-operacion-de-polemica-sanitaria-que-no-pudo-descartar-dano-a-humedal/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Un mapa necesario: plazos, sectores y ruta para salir de los combustibles fósiles en América Latina",
-      "url": "https://www.terram.cl/un-mapa-necesario-plazos-sectores-y-ruta-para-salir-de-los-combustibles-fosiles-en-america-latina/",
-      "fecha": "2026-06-23",
+      "titular": "ONU presenta nueva Evaluación Mundial de los Océanos y advierte brechas en el acceso a sus beneficios",
+      "url": "https://www.terram.cl/onu-presenta-nueva-evaluacion-mundial-de-los-oceanos-y-advierte-brechas-en-el-acceso-a-sus-beneficios/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Científicos mapean por primera vez las redes de hongos del planeta: Abarcan mil millones de veces la distancia entre la Tierra y el Sol",
-      "url": "https://www.terram.cl/cientificos-mapean-por-primera-vez-las-redes-de-hongos-del-planeta-abarcan-mil-millones-de-veces-la-distancia-entre-la-tierra-y-el-sol/",
-      "fecha": "2026-06-23",
+      "titular": "Coordinan medidas para resguardar el santuario Bosque Fósil Punta Pelluco",
+      "url": "https://www.terram.cl/coordinan-medidas-para-resguardar-el-santuario-bosque-fosil-punta-pelluco/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Creación y conservación de Parque Urbano en Malalhue, gracias a Programa de Emergencia de Empleo de CONAF",
-      "url": "https://www.conaf.cl/creacion-y-conservacion-de-parque-urbano-en-malalhue-gracias-a-programa-de-emergencia-de-empleo-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=creacion-y-conservacion-de-parque-urbano-en-malalhue-gracias-a-programa-de-emergencia-de-empleo-de-conaf",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Formalizan alianza entre CONAF y Carabineros para prevenir incendios forestales en comunidades escolares de la Provincia de Biobío",
-      "url": "https://www.conaf.cl/formalizan-alianza-entre-conaf-y-carabineros-para-prevenir-incendios-forestales-en-comunidades-escolares-de-la-provincia-de-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=formalizan-alianza-entre-conaf-y-carabineros-para-prevenir-incendios-forestales-en-comunidades-escolares-de-la-provincia-de-biobio",
-      "fecha": "2026-06-23",
+      "titular": "Actualización: situación del uso del fuego como quema controlada",
+      "url": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-situacion-uso-del-fuego-en-regiones",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
-      "url": "https://mma.gob.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/",
-      "fecha": "2026-06-23",
+      "titular": "Chile lideró la primera cumbre global ministerial y de la industria textil desde el Sur Global",
+      "url": "https://mma.gob.cl/chile-lidero-la-primera-cumbre-global-ministerial-y-de-la-industria-textil-desde-el-sur-global/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comité Ambiental Comunal de Cochrane lanza libro infantil para promover la tenencia responsable y el cuidado de la biodiversidad",
-      "url": "https://mma.gob.cl/comite-ambiental-comunal-de-cochrane-lanza-libro-infantil-para-promover-la-tenencia-responsable-y-el-cuidado-de-la-biodiversidad/",
-      "fecha": "2026-06-23",
+      "titular": "Comité de Consumo y Producción Sustentables (CPS) realizó su primera sesión 2026",
+      "url": "https://mma.gob.cl/comite-de-consumo-y-produccion-sustentables-cps-realizo-su-primera-sesion-2026/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Quilpué recibe reconocimiento por la aprobación de su Plan de Acción comunal de Cambio Climático",
-      "url": "https://mma.gob.cl/quilpue-recibe-reconocimiento-por-la-aprobacion-de-su-plan-de-accion-comunal-de-cambio-climatico/",
-      "fecha": "2026-06-23",
+      "titular": "Diego de Almagro: Relleno Sanitario es visitado por la Secretaría Ejecutiva de Residuos Sólidos (SER)",
+      "url": "https://mma.gob.cl/diego-de-almagro-relleno-sanitario-es-visitado-por-la-secretaria-ejecutiva-de-residuos-solidos-ser/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente y AIEP concluyen exitosos cursos gratuitos de capacitación en electromovilidad en todo Chile",
-      "url": "https://mma.gob.cl/proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile/",
-      "fecha": "2026-06-23",
+      "fuente": "La Tercera",
+      "titular": "¿Se salvan los empleados judiciales? Suprema se divide por cuadernos de remoción para funcionarios de la judicatura",
+      "url": "https://www.latercera.com/nacional/noticia/se-salvan-los-empleados-judiciales-suprema-se-divide-por-cuadernos-de-remocion-para-funcionarios-de-la-judicatura/",
+      "fecha": "2026-06-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Biministro Daniel Mas destaca acuerdo entre Codelco y Anglo American",
+      "url": "https://www.mch.cl/biministro-daniel-mas-destaca-acuerdo-entre-codelco-y-anglo-american/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminación",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-a-plan-de-descontaminacion/",
-      "fecha": "2026-06-23",
+      "titular": "SEA O´Higgins realiza capacitación sobre evaluación ambiental",
+      "url": "https://www.revistaei.cl/sea-ohiggins-realiza-capacitacion-sobre-evaluacion-ambiental/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

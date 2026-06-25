@@ -1,53 +1,65 @@
 {
-  "fecha_generacion": "2026-06-24T09:37:47.883591-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-25T09:40:04.512568-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Nueva Minería",
-      "titular": "José Ignacio Vial y las prioridades del MMA: “Rapidez, predictibilidad y rigor técnico en el SEIA”",
-      "url": "https://www.nuevamineria.com/revista/jose-ignacio-vial-y-las-prioridades-del-mma-rapidez-predictibilidad-y-rigor-tecnico-en-el-seia/",
+      "fuente": "Cooperativa",
+      "titular": "Subsecretario Pavez: Gobierno hará lo que sea necesario para sumar más apoyos a megarreforma",
+      "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/subsecretario-pavez-gobierno-hara-lo-que-sea-necesario-para-sumar-mas/2026-06-25/075341.html",
+      "fecha": "2026-06-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental acogió parcialmente reclamación de Copec contra sanción por incumplimientos al Plan de Descontaminación de Concón, Quintero y Puchuncaví",
+      "url": "https://www.diarioconstitucional.cl/2026/06/24/segundo-tribunal-ambiental-acogio-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-al-plan-de-descontaminacion-de-concon-quintero-y-puchuncavi/",
+      "fecha": "2026-06-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
+      "url": "https://www.chiledesarrollosustentable.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/?utm_source=rss&utm_medium=rss&utm_campaign=talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep",
       "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El subsecretario del Medioambiente detalla cómo el ministerio agiliza la inversión sin ceder en estándares técnicos, y fija las prioridades de la cartera para los próximos meses. Por Horacio Acuña ______________ Hay un dato en el perfil de José Ignac",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Tras reparo de la SMA: Contraloría ordena sumario en Palena por vertimiento de aguas servidas en La Culebra",
-      "url": "https://www.terram.cl/tras-reparo-de-la-sma-contraloria-ordena-sumario-en-palena-por-vertimiento-de-aguas-servidas-en-la-culebra/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Contraloría dio un plazo de 30 días a la Municipalidad de Palena para acreditar acciones contra nuevos vertimientos y cumplimiento de exigencias sanitarias. Fuente: El Desconcierto, 22 de mayo de 2026.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
-      "url": "https://mma.gob.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/",
-      "fecha": "2026-06-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El encuentro liderado por el Ministerio del Medio Ambiente permitió generar un espacio de diálogo y aprendizaje dirigidos a funcionarios […]",
+      "extracto": "El encuentro liderado por el Ministerio del Medio Ambiente permitió generar un espacio de diálogo y aprendizaje dirigidos a funcionarios municipales, para potenciar la gestión sustentable de los residuos, con el objetivo de avanzar hacia territorios ",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminación",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-a-plan-de-descontaminacion/",
-      "fecha": "2026-06-23",
+      "fuente": "Terram",
+      "titular": "SMA ratifica que megaproyecto inmobiliario en Algarrobo debe someterse a evaluación ambiental",
+      "url": "https://www.terram.cl/sma-ratifica-que-megaproyecto-inmobiliario-en-algarrobo-debe-someterse-a-evaluacion-ambiental/",
+      "fecha": "2026-06-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En diciembre de 2024, la SMA aplicó una multa por tres incumplimientos relacionados con medidas de control de emisiones. La entrada Tribunal Ambiental acoge parcialmente reclamación de Copec contra sanción por incumplimientos a Plan de Descontaminaci",
+      "extracto": "Con un cambio de dos edificios a solo uno, la creación de una reserva natural y 18 medidas de mitigación, la Comisión de Evaluación Ambiental de Valparaíso aprobó el Estudio de Impacto Ambiental del proyecto Alto Santorini en Viña del Mar. Fuente: Bi",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA O´Higgins realiza capacitación sobre evaluación ambiental",
+      "url": "https://www.revistaei.cl/sea-ohiggins-realiza-capacitacion-sobre-evaluacion-ambiental/",
+      "fecha": "2026-06-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El encuentro convocó a más de 25 personas funcionarias de diversos Organismos de administración del Estado con Competencia Ambiental. La entrada SEA O´Higgins realiza capacitación sobre evaluación ambiental se publicó primero en Revista Electricidad ",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
