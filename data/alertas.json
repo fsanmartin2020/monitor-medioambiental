@@ -1,65 +1,53 @@
 {
-  "fecha_generacion": "2026-06-25T09:40:04.512568-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-06-26T09:31:40.013686-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Cooperativa",
-      "titular": "Subsecretario Pavez: Gobierno hará lo que sea necesario para sumar más apoyos a megarreforma",
-      "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/subsecretario-pavez-gobierno-hara-lo-que-sea-necesario-para-sumar-mas/2026-06-25/075341.html",
-      "fecha": "2026-06-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental acogió parcialmente reclamación de Copec contra sanción por incumplimientos al Plan de Descontaminación de Concón, Quintero y Puchuncaví",
-      "url": "https://www.diarioconstitucional.cl/2026/06/24/segundo-tribunal-ambiental-acogio-parcialmente-reclamacion-de-copec-contra-sancion-por-incumplimientos-al-plan-de-descontaminacion-de-concon-quintero-y-puchuncavi/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Talca fue sede de la segunda Cumbre de Economía Circular por los 10 años de la Ley REP",
-      "url": "https://www.chiledesarrollosustentable.cl/talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep/?utm_source=rss&utm_medium=rss&utm_campaign=talca-fue-sede-de-la-segunda-cumbre-de-economia-circular-por-los-10-anos-de-la-ley-rep",
-      "fecha": "2026-06-24",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En Valparaíso realizan la Cumbre Municipal de Economía Circular 2026 a “10 años de la Ley REP”",
+      "url": "https://mma.gob.cl/en-valparaiso-realizan-la-cumbre-municipal-de-economia-circular-2026-a-10-anos-de-la-ley-rep/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El encuentro liderado por el Ministerio del Medio Ambiente permitió generar un espacio de diálogo y aprendizaje dirigidos a funcionarios municipales, para potenciar la gestión sustentable de los residuos, con el objetivo de avanzar hacia territorios ",
+      "extracto": "La actividad realizada en el Centro de Extensión Duoc UC Edificio Cousiño, fue encabezada por la SEREMI del Medio Ambiente, […]",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Promover la prevención y reutilización de los residuos con más educación ambiental es el próximo desafío de la Ley REP",
+      "url": "https://mma.gob.cl/promover-la-prevencion-y-reutilizacion-de-los-residuos-con-mas-educacion-ambiental-es-el-proximo-desafio-de-la-ley-rep/",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En la Segunda Cumbre Municipal de Economía Circular de la Región Metropolitana, realizada en la sede de Providencia de UDLA, […]",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "SMA ratifica que megaproyecto inmobiliario en Algarrobo debe someterse a evaluación ambiental",
-      "url": "https://www.terram.cl/sma-ratifica-que-megaproyecto-inmobiliario-en-algarrobo-debe-someterse-a-evaluacion-ambiental/",
-      "fecha": "2026-06-24",
+      "titular": "Tribunal Ambiental rebaja multa a Copec por incumplimientos en terminal marítimo de Quintero",
+      "url": "https://www.terram.cl/tribunal-ambiental-rebaja-multa-a-copec-por-incumplimientos-en-terminal-maritimo-de-quintero/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con un cambio de dos edificios a solo uno, la creación de una reserva natural y 18 medidas de mitigación, la Comisión de Evaluación Ambiental de Valparaíso aprobó el Estudio de Impacto Ambiental del proyecto Alto Santorini en Viña del Mar. Fuente: Bi",
+      "extracto": "La justicia anuló uno de los cargos graves aplicados por la SMA al terminal de Quintero, pero mantuvo la infracción por medidas provisionales tras intoxicaciones de 2022. Fuente: ADN Radio, 23 de junio de 2026.",
       "keywords_detectadas": [
-        "SMA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA O´Higgins realiza capacitación sobre evaluación ambiental",
-      "url": "https://www.revistaei.cl/sea-ohiggins-realiza-capacitacion-sobre-evaluacion-ambiental/",
-      "fecha": "2026-06-24",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
+      "url": "https://www.mch.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
+      "fecha": "2026-06-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El encuentro convocó a más de 25 personas funcionarias de diversos Organismos de administración del Estado con Competencia Ambiental. La entrada SEA O´Higgins realiza capacitación sobre evaluación ambiental se publicó primero en Revista Electricidad ",
+      "extracto": "A través de la acción judicial, los trabajadores cuestionaron la evaluación de los impactos en la calidad del aire y la salud de la población. La entrada Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     }
   ]
