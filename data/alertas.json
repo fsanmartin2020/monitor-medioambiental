@@ -1,53 +1,65 @@
 {
-  "fecha_generacion": "2026-06-26T09:31:40.013686-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-06-27T08:33:54.765802-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Valparaíso realizan la Cumbre Municipal de Economía Circular 2026 a “10 años de la Ley REP”",
-      "url": "https://mma.gob.cl/en-valparaiso-realizan-la-cumbre-municipal-de-economia-circular-2026-a-10-anos-de-la-ley-rep/",
+      "fuente": "Terram",
+      "titular": "Servicio de Evaluación Ambiental desestima que aumentos en los plazos sean responsabilidad de los servicios del Estado",
+      "url": "https://www.terram.cl/servicio-de-evaluacion-ambiental-desestima-que-aumentos-en-los-plazos-sean-responsabilidad-de-los-servicios-del-estado/",
       "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad realizada en el Centro de Extensión Duoc UC Edificio Cousiño, fue encabezada por la SEREMI del Medio Ambiente, […]",
+      "extracto": "Informe presentado en el Consejo Nacional Estratégico Público-Privado del Acuerdo de Escazú revela que la mayor parte de las extensiones en la tramitación de proyectos se origina en suspensiones solicitadas por los propios titulares. Fuente: El Divis",
       "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Promover la prevención y reutilización de los residuos con más educación ambiental es el próximo desafío de la Ley REP",
-      "url": "https://mma.gob.cl/promover-la-prevencion-y-reutilizacion-de-los-residuos-con-mas-educacion-ambiental-es-el-proximo-desafio-de-la-ley-rep/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En la Segunda Cumbre Municipal de Economía Circular de la Región Metropolitana, realizada en la sede de Providencia de UDLA, […]",
-      "keywords_detectadas": [
-        "Ley REP"
+        "Servicio de Evaluación Ambiental"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "Tribunal Ambiental rebaja multa a Copec por incumplimientos en terminal marítimo de Quintero",
-      "url": "https://www.terram.cl/tribunal-ambiental-rebaja-multa-a-copec-por-incumplimientos-en-terminal-maritimo-de-quintero/",
-      "fecha": "2026-06-25",
+      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
+      "url": "https://www.terram.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La justicia anuló uno de los cargos graves aplicados por la SMA al terminal de Quintero, pero mantuvo la infracción por medidas provisionales tras intoxicaciones de 2022. Fuente: ADN Radio, 23 de junio de 2026.",
+      "extracto": "A través de la acción judicial, los trabajadores cuestionaron la evaluación de los impactos en la calidad del aire y la salud de la población. Fuente: Minería Chilena, 26 de junio de 2026.",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
-      "url": "https://www.mch.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
-      "fecha": "2026-06-25",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Alto Maullín SPA con Superintendencia del Medio Ambiente». Rol: R-34-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-alto-maullin-spa-con-superintendencia-del-medio-ambiente-rol-r-34-2026/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "A través de la acción judicial, los trabajadores cuestionaron la evaluación de los impactos en la calidad del aire y la salud de la población. La entrada Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
+      "extracto": "Con fecha 26 de junio de 2026, admítase a trámite la Reclamación identificada como Alto Maullín SPA con Superintendencia del Medio Ambiente. (Rol R-34-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The post Admítase ",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA y OEFA Perú intercambian experiencias sobre tecnologías aplicadas a la fiscalización ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-y-oefa-peru-intercambian-experiencias-sobre-tecnologias-aplicadas-a-la-fiscalizacion-ambiental/",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Organismo de Evaluación y Fiscalización Ambiental (OEFA) de Perú visitó la Superintendencia del Medio Ambiente (SMA) entre el 21 y el 26 de junio, en el contexto de una iniciativa de cooperación orientada a intercambiar conocimientos y metodología",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Senado",
+      "titular": "Horizonte azul mas alla de lo visible conmemoran el dia mundial de los",
+      "url": "https://www.senado.cl/comunicaciones/noticias/horizonte-azul-mas-alla-de-lo-visible-conmemoran-el-dia-mundial-de-los",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap",
+      "extracto": "",
+      "keywords_detectadas": [
+        "DIA"
       ]
     }
   ]

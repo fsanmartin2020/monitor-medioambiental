@@ -1,311 +1,199 @@
 {
-  "fecha_actualizacion": "2026-06-26T09:31:39.999446-04:00",
-  "total": 38,
+  "fecha_actualizacion": "2026-06-27T08:33:54.752800-04:00",
+  "total": 24,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Bomberos, perros, drones, forenses: así ayuda la comunidad internacional a Venezuela",
-      "url": "https://efeverde.com/ayuda-comunidad-internacional-a-venezuela/",
-      "fecha": "2026-06-26",
+      "titular": "El Ministerio de Sanidad apela a usar mascarillas FFP2 adecuadas o cerrar ventanas durante un incendio forestal",
+      "url": "https://efeverde.com/ministerio-de-sanidad-apela-a-usar-mascarillas-ffp2-o-cerrar-ventanas-durante-incendio-forestal/",
+      "fecha": "2026-06-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Guaira, la zona caribeña de Venezuela que vuelve a ser golpeada por un desastre natural",
-      "url": "https://efeverde.com/la-guaira-terremotos-venezuela-desastre-natural/",
-      "fecha": "2026-06-26",
+      "titular": "El TSJA da 20 días al Ayuntamiento de Carboneras para anular la licencia de obras de El Algarrobico",
+      "url": "https://efeverde.com/tsja-da-20-dias-al-ayuntamiento-carboneras-para-anular-licencia-obras-el-algarrobico/",
+      "fecha": "2026-06-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "EEUU presiona a la Unión Europea para aplazar las reglas de metano sobre importaciones energéticas",
-      "url": "https://efeverde.com/eeuu-presiona-ue-aplazar-reglas-metano-importaciones/",
-      "fecha": "2026-06-26",
+      "fuente": "La Tercera",
+      "titular": "Vichuquén enfrenta cuenta regresiva hacia un nuevo verano",
+      "url": "https://www.latercera.com/nacional/noticia/vichuquen-enfrenta-cuenta-regresiva-hacia-un-nuevo-verano/",
+      "fecha": "2026-06-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Actualizan el protocolo de actuación con osos que busca facilitar su convivencia con humanos",
-      "url": "https://efeverde.com/actualizan-el-protocolo-de-actuacion-con-osos-que-busca-facilitar-su-convivencia-con-humanos/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Activos incendios en Huesca, Navarra y Léon que obligan a desalojos y queman miles de hectáreas",
-      "url": "https://efeverde.com/activos-incendios-en-huesca-navarra-y-leon-que-obligan-a-desalojos-y-queman-miles-de-hectareas/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Cómo deben reaccionar los destinos turísticos ante el impacto del cambio climático? Por Arturo Crosby",
-      "url": "https://efeverde.com/como-deben-reaccionar-los-destinos-ante-el-impacto-del-cambio-climatico-por-arturo-crosby/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Casi la mitad de ciudades europeas bate récords de estrés térmico durante la ola de calor",
-      "url": "https://efeverde.com/casi-la-mitad-de-ciudades-europeas-bate-records-de-estres-termico-durante-la-ola-de-calor/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los jóvenes reivindican su voz propia en la lucha contra el cambio climático",
-      "url": "https://efeverde.com/jovenes-reivindican-voz-lucha-cambio-climatico/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Valparaíso realizan la Cumbre Municipal de Economía Circular 2026 a “10 años de la Ley REP”",
-      "url": "https://mma.gob.cl/en-valparaiso-realizan-la-cumbre-municipal-de-economia-circular-2026-a-10-anos-de-la-ley-rep/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades RM destacan modelo de Economía Circular y Valorización e Energética de la Agrícola AASA de Melipilla",
-      "url": "https://mma.gob.cl/autoridades-rm-destacan-modelo-de-economia-circular-y-valorizacion-e-energetica-de-la-agricola-aasa-de-melipilla/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Promover la prevención y reutilización de los residuos con más educación ambiental es el próximo desafío de la Ley REP",
-      "url": "https://mma.gob.cl/promover-la-prevencion-y-reutilizacion-de-los-residuos-con-mas-educacion-ambiental-es-el-proximo-desafio-de-la-ley-rep/",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Schneider Electric es nombrada la empresa más sostenible del mundo por tercer año consecutivo por revista Time y Statista",
+      "url": "https://www.chiledesarrollosustentable.cl/schneider-electric-es-nombrada-la-empresa-mas-sostenible-del-mundo-por-tercer-ano-consecutivo-por-revista-time-y-statista/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-es-nombrada-la-empresa-mas-sostenible-del-mundo-por-tercer-ano-consecutivo-por-revista-time-y-statista",
       "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente y AIEP concluyen exitosos cursos gratuitos de capacitación en electromovilidad en todo Chile",
+      "url": "https://www.chiledesarrollosustentable.cl/proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile/?utm_source=rss&utm_medium=rss&utm_campaign=proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Servicio de Evaluación Ambiental desestima que aumentos en los plazos sean responsabilidad de los servicios del Estado",
+      "url": "https://www.terram.cl/servicio-de-evaluacion-ambiental-desestima-que-aumentos-en-los-plazos-sean-responsabilidad-de-los-servicios-del-estado/",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Menos de un tercio de las comunas de Chile tienen plan contra el cambio climático: Plazo venció en junio",
+      "url": "https://www.terram.cl/menos-de-un-tercio-de-las-comunas-de-chile-tienen-plan-contra-el-cambio-climatico-plazo-vencio-en-junio/",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
+      "url": "https://www.terram.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
       "titular": "Ministerio del Medio Ambiente inicia consulta pública del anteproyecto de actualización de la Estrategia Climática de Largo Plazo",
-      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-inicia-consulta-publica-del-anteproyecto-de-actualizacion-de-la-estrategia-climatica-de-largo-plazo/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-inicia-consulta-publica-del-anteproyecto-de-actualizacion-de-la-estrategia-climatica-de-largo-plazo",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Opinión: Menos de un tercio de los municipios han cumplido con sus Planes de Acción Comunal de Cambio Climático (El Desconcierto)",
-      "url": "https://www.cr2.cl/opinion-menos-de-un-tercio-de-los-municipios-han-cumplido-con-sus-planes-de-accion-comunal-de-cambio-climatico-el-desconcierto/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "El “Niño Godzilla” y Chile: qué dicen los expertos sobre su posible impacto en las lluvias (ADN radio)",
-      "url": "https://www.cr2.cl/el-nino-godzilla-y-chile-que-dicen-los-expertos-sobre-su-posible-impacto-en-las-lluvias-adn-radio/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "«Podría llover más y generar aluviones en agosto: Experto descarta «Niño Godzilla» pero enciende alarmas por precipitaciones (Radio Futuro)",
-      "url": "https://www.cr2.cl/podria-llover-mas-y-generar-aluviones-en-agosto-experto-descarta-nino-godzilla-pero-enciende-alarmas-por-precipitaciones-radio-futuro/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Economía circular para la belleza y cine ambiental para cerrar la temporada en Mangas Verdes 494",
-      "url": "https://efeverde.com/economia-circular-para-la-belleza-y-cine-ambiental-para-cerrar-la-temporada-en-mangas-verdes-494/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Una mayoría de países de la UE pide preservar la financiación del programa medioambiental LIFE",
-      "url": "https://efeverde.com/mayoria-paises-ue-pide-preservar-financiacion-programa-medioambiental-life/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El lobo en su laberinto. Por May",
-      "url": "https://efeverde.com/lobo-laberinto-may-mundomay/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "WWF: El riesgo estructural de los incendios en España “sigue igual que el año pasado”",
-      "url": "https://efeverde.com/wwf-riesgo-estructural-de-incendios-en-espana-sigue-igual/",
-      "fecha": "2026-06-25",
+      "url": "https://www.terram.cl/ministerio-del-medio-ambiente-inicia-consulta-publica-del-anteproyecto-de-actualizacion-de-la-estrategia-climatica-de-largo-plazo/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Remezón en el Servicio de Biodiversidad y Áreas Protegidas: timonel despide a cuatro directores regionales y dos jefes de división",
-      "url": "https://www.terram.cl/remezon-en-el-servicio-de-biodiversidad-y-areas-protegidas-timonel-despide-a-cuatro-directores-regionales-y-dos-jefes-de-division/",
-      "fecha": "2026-06-25",
+      "titular": "Contaminación y cambio climático: expertas alertan sobre el impacto ambiental en la salud humana",
+      "url": "https://www.terram.cl/contaminacion-y-cambio-climatico-expertas-alertan-sobre-el-impacto-ambiental-en-la-salud-humana/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Caso Australis: Tribunal anula fallo arbitral que había ordenado millonaria indemnización a favor de Joyvio",
-      "url": "https://www.terram.cl/caso-australis-tribunal-anula-fallo-arbitral-que-habia-ordenado-millonaria-indemnizacion-a-favor-de-joyvio/",
-      "fecha": "2026-06-25",
+      "titular": "Islandia reanuda la caza de ballenas tras dos años y genera rechazo ciudadano",
+      "url": "https://www.terram.cl/islandia-reanuda-la-caza-de-ballenas-tras-dos-anos-y-genera-rechazo-ciudadano/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "Tribunal Ambiental rebaja multa a Copec por incumplimientos en terminal marítimo de Quintero",
-      "url": "https://www.terram.cl/tribunal-ambiental-rebaja-multa-a-copec-por-incumplimientos-en-terminal-maritimo-de-quintero/",
-      "fecha": "2026-06-25",
+      "fuente": "Chile Sustentable",
+      "titular": "Chile Sustentable alerta importantes retrocesos ambientales en los primeros 100 días: “Acusa una Demolición Ambiental y llama al Gobierno a no destruir lo construido durante los últimos 30 años de gobiernos democráticos”",
+      "url": "https://chilesustentable.net/2026/06/el-rediseno-silencioso-de-la-politica-de-biodiversidad-el-sbap-sera-leon-o-gatito/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Terram",
-      "titular": "Por frenar pérdida de bosque nativo Chile recibe US$ 15 mill. de Banco Mundial: Serán invertidos en naturaleza",
-      "url": "https://www.terram.cl/por-frenar-perdida-de-bosque-nativo-chile-recibe-us-15-mill-de-banco-mundial-seran-invertidos-en-naturaleza/",
-      "fecha": "2026-06-25",
+      "fuente": "Chile Sustentable",
+      "titular": "El rediseño silencioso de la política de biodiversidad: ¿El SBAP será león o gatito?",
+      "url": "https://chilesustentable.net/2026/06/el-rediseno-silencioso-de-la-politica-de-biodiversidad-el-sbap-sera-leon-o-gatito/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Terram",
-      "titular": "El vampiro del bosque chileno: la planta parásita que roba agua y nutrientes de los árboles sin llegar a matarlos",
-      "url": "https://www.terram.cl/el-vampiro-del-bosque-chileno-la-planta-parasita-que-roba-agua-y-nutrientes-de-los-arboles-sin-llegar-a-matarlos/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Registran por primera vez al tordo músico en Chile tras inesperado avistamiento en Lonquimay",
-      "url": "https://www.terram.cl/registran-por-primera-vez-al-tordo-musico-en-chile-tras-inesperado-avistamiento-en-lonquimay/",
-      "fecha": "2026-06-25",
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Tribunal confirmó la aprobación ambiental de la autopista AVO II, tramo Príncipe de Gales – Los Presidentes",
+      "url": "https://tribunalambiental.cl/tribunal-confirmo-la-aprobacion-ambiental-de-la-autopista-avo-ii-tramo-principe-de-gales-los-presidentes/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "30/07/2026: Suspende audiencia de «Asociación de Transmisores de Chile A.G y otros con Ministerio del Medio Ambiente-Fisco de Chile.», Rol: R-16-2026",
-      "url": "https://3ta.cl/audiencias/30-07-2026-suspende-audiencia-de-asociacion-de-transmisores-de-chile-a-g-y-otros-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
-      "fecha": "2026-06-25",
+      "titular": "Admítase a trámite «Alto Maullín SPA con Superintendencia del Medio Ambiente». Rol: R-34-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-alto-maullin-spa-con-superintendencia-del-medio-ambiente-rol-r-34-2026/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para proveer el cargo de profesional de la subdireccion de inocuidad y certificacion escalafon profesional a contrata asimilado a grado 15 de la e u s para la direccion",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-proveer-el-cargo-de-profesional-de-la-subdireccion-de-inocuidad-y-certificacion-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-direccion/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Con plantación de abedules, CONAF realiza lanzamiento del programa “Mi pueblo, mi Árbol”",
-      "url": "https://www.conaf.cl/con-plantacion-de-abedules-conaf-realiza-lanzamiento-del-programa-mi-pueblo-mi-arbol/?utm_source=rss&utm_medium=rss&utm_campaign=con-plantacion-de-abedules-conaf-realiza-lanzamiento-del-programa-mi-pueblo-mi-arbol",
-      "fecha": "2026-06-25",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Boletín N°69 de Jurisprudencia Ambiental",
+      "url": "https://3ta.cl/noticias/boletin-n69-de-jurisprudencia-ambiental/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble informa a municipios del Canal Laja-Diguillín sobre nuevas reglas para el uso de leña y quemas",
-      "url": "https://www.conaf.cl/conaf-nuble-informa-a-municipios-del-canal-laja-diguillin-sobre-nuevas-reglas-para-el-uso-de-lena-y-quemas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-informa-a-municipios-del-canal-laja-diguillin-sobre-nuevas-reglas-para-el-uso-de-lena-y-quemas",
-      "fecha": "2026-06-25",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Turno medidas provisionales 26/06/2026",
+      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-26-06-2026/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Los Lagos junto a autoridades y comunidad escolar realizaron lanzamiento del programa “Mi Pueblo, Mi Árbol”",
-      "url": "https://www.conaf.cl/conaf-los-lagos-junto-a-autoridades-y-comunidad-escolar-realizaron-lanzamiento-del-programa-mi-pueblo-mi-arbol/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-los-lagos-junto-a-autoridades-y-comunidad-escolar-realizaron-lanzamiento-del-programa-mi-pueblo-mi-arbol",
-      "fecha": "2026-06-25",
+      "titular": "CONAF impulsa nuevo programa “Mi Pueblo, Mi Árbol” en la Región del Biobío",
+      "url": "https://www.conaf.cl/conaf-impulsa-nuevo-programa-mi-pueblo-mi-arbol-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-nuevo-programa-mi-pueblo-mi-arbol-en-la-region-del-biobio",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF y SERNAGEOMIN firman convenio que permitirá cruzar datos forestales y geológicos",
-      "url": "https://www.conaf.cl/conaf-y-sernageomin-firman-convenio-que-permitira-cruzar-datos-forestales-y-geologicos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-sernageomin-firman-convenio-que-permitira-cruzar-datos-forestales-y-geologicos",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ñuble vivió la Segunda Cumbre de Economía Circular",
-      "url": "https://mma.gob.cl/nuble-vivio-la-segunda-cumbre-de-economia-circular/",
-      "fecha": "2026-06-25",
+      "fuente": "SMA",
+      "titular": "SMA y OEFA Perú intercambian experiencias sobre tecnologías aplicadas a la fiscalización ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-y-oefa-peru-intercambian-experiencias-sobre-tecnologias-aplicadas-a-la-fiscalizacion-ambiental/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Acciones conjuntas buscan disminuir impactos sanitarios en episodios críticos de aire",
-      "url": "https://mma.gob.cl/acciones-conjuntas-buscan-disminuir-impactos-sanitarios-en-episodios-criticos-de-aire/",
-      "fecha": "2026-06-25",
+      "titular": "SEREMI del Medio Ambiente visita obras de futura planta de reciclaje en Coquimbo y destaca su aporte a la gestión regional de residuos",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-visita-obras-de-futura-planta-de-reciclaje-en-coquimbo-y-destaca-su-aporte-a-la-gestion-regional-de-residuos/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente reactiva Comité Regional de Restauración por futuro plan de recuperación del paisaje",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-reactiva-comite-regional-de-restauracion-por-futuro-plan-de-recuperacion-del-paisaje/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente y Conaf generan instancia técnica para avanzar en la descontaminación atmosférica en Ñuble",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-conaf-generan-instancia-tecnica-para-avanzar-en-la-descontaminacion-atmosferica-en-nuble/",
-      "fecha": "2026-06-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente inicia consulta pública del anteproyecto de actualización de la Estrategia Climática de Largo Plazo",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-inicia-consulta-publica-del-anteproyecto-de-actualizacion-de-la-estrategia-climatica-de-largo-plazo/",
-      "fecha": "2026-06-25",
+      "titular": "Actualización Guía Metodológica de Humedales Urbanos: esta es la información técnica que la ciudadanía puede aportar",
+      "url": "https://mma.gob.cl/actualizacion-de-guia-de-humedales-urbanos-esta-es-la-informacion-tecnica-que-la-ciudadania-puede-aportar/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Duro cruce de Marcelo Bielsa con prensa uruguaya: “Dan por sentado que este equipo no permite ninguna expectativa positiva”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/duro-cruce-de-marcelo-bielsa-con-prensa-uruguaya-dan-por-sentado-que-este-equipo-no-permite-ninguna-expectativa-positiva/",
-      "fecha": "2026-06-25",
+      "titular": "En Consejo Social UDI: gremialismo entregará a Kast propuesta con preocupaciones ciudadanas recogidas a lo largo del país",
+      "url": "https://www.latercera.com/politica/noticia/en-consejo-social-udi-gremialismo-entregara-a-kast-propuesta-con-preocupaciones-ciudadanas-recogidas-a-lo-largo-del-pais/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
-      "url": "https://www.mch.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
-      "fecha": "2026-06-25",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Chile y Perú avanzan en cooperación para fortalecer fiscalización y cumplimiento ambiental",
+      "url": "https://www.revistaei.cl/chile-y-peru-avanzan-en-cooperacion-para-fortalecer-fiscalizacion-y-cumplimiento-ambiental/",
+      "fecha": "2026-06-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Senado",
+      "titular": "Horizonte azul mas alla de lo visible conmemoran el dia mundial de los",
+      "url": "https://www.senado.cl/comunicaciones/noticias/horizonte-azul-mas-alla-de-lo-visible-conmemoran-el-dia-mundial-de-los",
+      "fecha": "2026-06-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
     }
   ]
 }
