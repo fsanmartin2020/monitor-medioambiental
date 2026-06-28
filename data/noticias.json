@@ -1,199 +1,55 @@
 {
-  "fecha_actualizacion": "2026-06-27T08:33:54.752800-04:00",
-  "total": 24,
+  "fecha_actualizacion": "2026-06-28T08:30:05.217587-04:00",
+  "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "El Ministerio de Sanidad apela a usar mascarillas FFP2 adecuadas o cerrar ventanas durante un incendio forestal",
-      "url": "https://efeverde.com/ministerio-de-sanidad-apela-a-usar-mascarillas-ffp2-o-cerrar-ventanas-durante-incendio-forestal/",
-      "fecha": "2026-06-27",
+      "titular": "Francia registra 1.000 fallecimientos más que lo habitual a causa del extremo calor",
+      "url": "https://efeverde.com/francia-fallecimientos-extremo-calor/",
+      "fecha": "2026-06-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El TSJA da 20 días al Ayuntamiento de Carboneras para anular la licencia de obras de El Algarrobico",
-      "url": "https://efeverde.com/tsja-da-20-dias-al-ayuntamiento-carboneras-para-anular-licencia-obras-el-algarrobico/",
-      "fecha": "2026-06-27",
+      "titular": "El Mundial de Fútbol pone a prueba a sedes afectadas por estrés hídrico y sequía",
+      "url": "https://efeverde.com/mundial-de-futbol-sedes-afectadas-por-estres-hidrico-y-sequia/",
+      "fecha": "2026-06-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Xavier Castellanos (Cruz Roja): «El sector no está preparado para la desinformación»",
+      "url": "https://efeverde.com/xavier-castellanos-cruz-roja-el-sector-no-esta-preparado-para-la-desinformacion/",
+      "fecha": "2026-06-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Vichuquén enfrenta cuenta regresiva hacia un nuevo verano",
-      "url": "https://www.latercera.com/nacional/noticia/vichuquen-enfrenta-cuenta-regresiva-hacia-un-nuevo-verano/",
-      "fecha": "2026-06-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Schneider Electric es nombrada la empresa más sostenible del mundo por tercer año consecutivo por revista Time y Statista",
-      "url": "https://www.chiledesarrollosustentable.cl/schneider-electric-es-nombrada-la-empresa-mas-sostenible-del-mundo-por-tercer-ano-consecutivo-por-revista-time-y-statista/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-es-nombrada-la-empresa-mas-sostenible-del-mundo-por-tercer-ano-consecutivo-por-revista-time-y-statista",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Proyecto CLETS del Ministerio de Medio Ambiente y AIEP concluyen exitosos cursos gratuitos de capacitación en electromovilidad en todo Chile",
-      "url": "https://www.chiledesarrollosustentable.cl/proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile/?utm_source=rss&utm_medium=rss&utm_campaign=proyecto-clets-del-ministerio-de-medio-ambiente-y-aiep-concluyen-exitosos-cursos-gratuitos-de-capacitacion-en-electromovilidad-en-todo-chile",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Servicio de Evaluación Ambiental desestima que aumentos en los plazos sean responsabilidad de los servicios del Estado",
-      "url": "https://www.terram.cl/servicio-de-evaluacion-ambiental-desestima-que-aumentos-en-los-plazos-sean-responsabilidad-de-los-servicios-del-estado/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Menos de un tercio de las comunas de Chile tienen plan contra el cambio climático: Plazo venció en junio",
-      "url": "https://www.terram.cl/menos-de-un-tercio-de-las-comunas-de-chile-tienen-plan-contra-el-cambio-climatico-plazo-vencio-en-junio/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Sindicatos mineros recurren al Tribunal Ambiental por aprobación de modificaciones operacionales",
-      "url": "https://www.terram.cl/sindicatos-mineros-recurren-al-tribunal-ambiental-por-aprobacion-de-modificaciones-operacionales/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ministerio del Medio Ambiente inicia consulta pública del anteproyecto de actualización de la Estrategia Climática de Largo Plazo",
-      "url": "https://www.terram.cl/ministerio-del-medio-ambiente-inicia-consulta-publica-del-anteproyecto-de-actualizacion-de-la-estrategia-climatica-de-largo-plazo/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Contaminación y cambio climático: expertas alertan sobre el impacto ambiental en la salud humana",
-      "url": "https://www.terram.cl/contaminacion-y-cambio-climatico-expertas-alertan-sobre-el-impacto-ambiental-en-la-salud-humana/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Islandia reanuda la caza de ballenas tras dos años y genera rechazo ciudadano",
-      "url": "https://www.terram.cl/islandia-reanuda-la-caza-de-ballenas-tras-dos-anos-y-genera-rechazo-ciudadano/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Chile Sustentable alerta importantes retrocesos ambientales en los primeros 100 días: “Acusa una Demolición Ambiental y llama al Gobierno a no destruir lo construido durante los últimos 30 años de gobiernos democráticos”",
-      "url": "https://chilesustentable.net/2026/06/el-rediseno-silencioso-de-la-politica-de-biodiversidad-el-sbap-sera-leon-o-gatito/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "El rediseño silencioso de la política de biodiversidad: ¿El SBAP será león o gatito?",
-      "url": "https://chilesustentable.net/2026/06/el-rediseno-silencioso-de-la-politica-de-biodiversidad-el-sbap-sera-leon-o-gatito/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Tribunal confirmó la aprobación ambiental de la autopista AVO II, tramo Príncipe de Gales – Los Presidentes",
-      "url": "https://tribunalambiental.cl/tribunal-confirmo-la-aprobacion-ambiental-de-la-autopista-avo-ii-tramo-principe-de-gales-los-presidentes/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Alto Maullín SPA con Superintendencia del Medio Ambiente». Rol: R-34-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-alto-maullin-spa-con-superintendencia-del-medio-ambiente-rol-r-34-2026/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Boletín N°69 de Jurisprudencia Ambiental",
-      "url": "https://3ta.cl/noticias/boletin-n69-de-jurisprudencia-ambiental/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 26/06/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-26-06-2026/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa nuevo programa “Mi Pueblo, Mi Árbol” en la Región del Biobío",
-      "url": "https://www.conaf.cl/conaf-impulsa-nuevo-programa-mi-pueblo-mi-arbol-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-nuevo-programa-mi-pueblo-mi-arbol-en-la-region-del-biobio",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA y OEFA Perú intercambian experiencias sobre tecnologías aplicadas a la fiscalización ambiental",
-      "url": "https://portal.sma.gob.cl/index.php/sma-y-oefa-peru-intercambian-experiencias-sobre-tecnologias-aplicadas-a-la-fiscalizacion-ambiental/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente visita obras de futura planta de reciclaje en Coquimbo y destaca su aporte a la gestión regional de residuos",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-visita-obras-de-futura-planta-de-reciclaje-en-coquimbo-y-destaca-su-aporte-a-la-gestion-regional-de-residuos/",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Actualización Guía Metodológica de Humedales Urbanos: esta es la información técnica que la ciudadanía puede aportar",
-      "url": "https://mma.gob.cl/actualizacion-de-guia-de-humedales-urbanos-esta-es-la-informacion-tecnica-que-la-ciudadania-puede-aportar/",
-      "fecha": "2026-06-26",
+      "titular": "María Paz Arzola, ministra de Educación: “No queremos hacer una contrarreforma como un objetivo en sí mismo”",
+      "url": "https://www.latercera.com/politica/noticia/maria-paz-arzola-no-queremos-hacer-una-contrarreforma-como-un-objetivo-en-si-mismo/",
+      "fecha": "2026-06-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "En Consejo Social UDI: gremialismo entregará a Kast propuesta con preocupaciones ciudadanas recogidas a lo largo del país",
-      "url": "https://www.latercera.com/politica/noticia/en-consejo-social-udi-gremialismo-entregara-a-kast-propuesta-con-preocupaciones-ciudadanas-recogidas-a-lo-largo-del-pais/",
-      "fecha": "2026-06-26",
+      "titular": "Katz advierte que Israel permanecerá de forma “prolongada” en el sur del Líbano hasta que Hezbolá se desarme",
+      "url": "https://www.latercera.com/mundo/noticia/katz-advierte-que-israel-permanecera-de-forma-prolongada-en-el-sur-del-libano-hasta-que-hezbola-se-desarme/",
+      "fecha": "2026-06-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Chile y Perú avanzan en cooperación para fortalecer fiscalización y cumplimiento ambiental",
-      "url": "https://www.revistaei.cl/chile-y-peru-avanzan-en-cooperacion-para-fortalecer-fiscalizacion-y-cumplimiento-ambiental/",
-      "fecha": "2026-06-26",
+      "fuente": "ADN Prensa",
+      "titular": "Con una masiva asistencia se realizó la II Cumbre Municipal de Economía Circular de la Región Metropolitana",
+      "url": "https://adprensa.cl/con-una-masiva-asistencia-se-realizo-la-ii-cumbre-municipal-de-economia-circular-de-la-region-metropolitana/",
+      "fecha": "2026-06-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Senado",
-      "titular": "Horizonte azul mas alla de lo visible conmemoran el dia mundial de los",
-      "url": "https://www.senado.cl/comunicaciones/noticias/horizonte-azul-mas-alla-de-lo-visible-conmemoran-el-dia-mundial-de-los",
-      "fecha": "2026-06-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
     }
   ]
 }
