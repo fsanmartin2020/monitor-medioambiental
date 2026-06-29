@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "2026-06-28T08:30:05.217587-04:00",
+  "fecha_actualizacion": "2026-06-29T11:00:52.124239-04:00",
   "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Francia registra 1.000 fallecimientos más que lo habitual a causa del extremo calor",
-      "url": "https://efeverde.com/francia-fallecimientos-extremo-calor/",
-      "fecha": "2026-06-28",
+      "titular": "ONU: La final del Mundial de Fútbol está en riesgo de calor extremo",
+      "url": "https://efeverde.com/onu-final-del-mundial-futbol-en-riesgo-de-calor-extremo/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Mundial de Fútbol pone a prueba a sedes afectadas por estrés hídrico y sequía",
-      "url": "https://efeverde.com/mundial-de-futbol-sedes-afectadas-por-estres-hidrico-y-sequia/",
-      "fecha": "2026-06-28",
+      "titular": "Día Mundial del Árbol. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/dia-mundial-del-arbol-por-victor-solis-visoor/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Xavier Castellanos (Cruz Roja): «El sector no está preparado para la desinformación»",
-      "url": "https://efeverde.com/xavier-castellanos-cruz-roja-el-sector-no-esta-preparado-para-la-desinformacion/",
-      "fecha": "2026-06-28",
+      "titular": "Descubren 4 nuevas especies de moscas hematófagas en Andalucía durante la campaña de vigilancia del virus del Nilo",
+      "url": "https://efeverde.com/nuevas-especies-moscas-hematofagas-en-andalucia/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "María Paz Arzola, ministra de Educación: “No queremos hacer una contrarreforma como un objetivo en sí mismo”",
-      "url": "https://www.latercera.com/politica/noticia/maria-paz-arzola-no-queremos-hacer-una-contrarreforma-como-un-objetivo-en-si-mismo/",
-      "fecha": "2026-06-28",
+      "fuente": "EFE Verde",
+      "titular": "La búsqueda de supervivientes continúa en Venezuela, donde los terremotos dejan ya 1.450 muertos",
+      "url": "https://efeverde.com/venezuela-terremotos-muertos-supervivientes/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Katz advierte que Israel permanecerá de forma “prolongada” en el sur del Líbano hasta que Hezbolá se desarme",
-      "url": "https://www.latercera.com/mundo/noticia/katz-advierte-que-israel-permanecera-de-forma-prolongada-en-el-sur-del-libano-hasta-que-hezbola-se-desarme/",
-      "fecha": "2026-06-27",
+      "fuente": "EFE Verde",
+      "titular": "China limita el exceso de embalaje en la paquetería para reducir su impacto ambiental y costes",
+      "url": "https://efeverde.com/china-limita-el-exceso-de-embalaje-en-la-paqueteria-para-reducir-su-impacto-ambiental-y-costes/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "ADN Prensa",
-      "titular": "Con una masiva asistencia se realizó la II Cumbre Municipal de Economía Circular de la Región Metropolitana",
-      "url": "https://adprensa.cl/con-una-masiva-asistencia-se-realizo-la-ii-cumbre-municipal-de-economia-circular-de-la-region-metropolitana/",
-      "fecha": "2026-06-27",
+      "fuente": "EFE Verde",
+      "titular": "Cambio climático y refugiados: una crisis más para quienes ya lo han perdido todo",
+      "url": "https://efeverde.com/cambio-climatico-refugiados-crisis-mas/",
+      "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
