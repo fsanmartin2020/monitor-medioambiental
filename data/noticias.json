@@ -1,52 +1,164 @@
 {
-  "fecha_actualizacion": "2026-06-29T11:00:52.124239-04:00",
-  "total": 6,
+  "fecha_actualizacion": "2026-06-30T09:23:35.573877-04:00",
+  "total": 20,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "El Reinal y Mödinger, ejemplos de innovación para un uso sostenible de los recursos naturales en la región de Los Lagos",
+      "url": "https://www.paiscircular.cl/economia-circular/el-reinal-y-modinger-ejemplos-de-innovacion-para-un-uso-sostenible-de-los-recursos-naturales-en-la-region-de-los-lagos/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Turberas de Cabo Froward almacenan hasta 3 veces más carbono que los bosques del sector",
+      "url": "https://www.chiledesarrollosustentable.cl/turberas-de-cabo-froward-almacenan-hasta-3-veces-mas-carbono-que-los-bosques-del-sector/?utm_source=rss&utm_medium=rss&utm_campaign=turberas-de-cabo-froward-almacenan-hasta-3-veces-mas-carbono-que-los-bosques-del-sector",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "CircularTec lanza la primera plataforma con IA para monitorear la economía circular en Latinoamérica",
+      "url": "https://codexverde.cl/plataforma-para-monitorear-la-economia-circular-en-latinoamerica/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "ONU: La final del Mundial de Fútbol está en riesgo de calor extremo",
-      "url": "https://efeverde.com/onu-final-del-mundial-futbol-en-riesgo-de-calor-extremo/",
+      "titular": "Ecologistas en Acción identifica 48 «puntos negros» en la costa española y propone 20 medidas de recuperación",
+      "url": "https://efeverde.com/ecologistas-en-accion-senala-48-puntos-negros-en-la-costa-espanola-y-propone-20-planes-de-recuperacion/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Asturias reanudará el control letal de poblaciones de lobos suspendida tras sentencia del Supremo",
+      "url": "https://efeverde.com/asturias-reanudara-el-control-letal-de-poblaciones-de-lobos-suspendida-tras-sentencia-del-supremo/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Embajadores del Pacto Climático Europeo llevarán a Bruselas un llamamiento para reforzar el liderazgo climático y democrático de la UE. Por Arturo Larena",
+      "url": "https://efeverde.com/embajadores-del-pacto-climatico-europeo-llevaran-a-bruselas-un-llamamiento-para-reforzar-el-liderazgo-climatico-y-democratico-de-la-ue-por-arturo-larena/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Detectan microplásticos en todas las muestras analizadas de cangrejo azul del Mar Menor",
+      "url": "https://efeverde.com/microplasticos-muestras-cangrejo-azul-mar-menor/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La pesca del salmón cierra en Cantabria con sólo 3 capturas, el peor dato desde que hay registros",
+      "url": "https://efeverde.com/la-pesca-del-salmon-cierra-en-cantabria-con-solo-3-capturas-el-peor-dato-desde-que-hay-registros/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nuevas normas europeas facilitan reparar teléfonos inteligentes",
+      "url": "https://efeverde.com/nuevas-normas-europeas-facilitan-reparar-telefonos-inteligentes/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "En la Tierra podría haber entre 14 y 20 millones de especies de insectos, tres veces más de lo que se creía",
+      "url": "https://efeverde.com/tierra-14-20-millones-especies-insectos/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "No tocarlos ni devolverlos al mar: qué hacer si te encuentras a un animal marino en la playa",
+      "url": "https://efeverde.com/que-hacer-encuentras-animal-marino-playa/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La pérdida de naturaleza y cómo puede llevarnos a una crisis financiera como la de 2008",
+      "url": "https://efeverde.com/la-perdida-de-naturaleza-y-como-puede-llevarnos-a-una-crisis-financiera-como-la-de-2008/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La esperanza y el desánimo caminan entre las ruinas en Venezuela cinco días después de los terremotos",
+      "url": "https://efeverde.com/la-esperanza-y-el-desanimo-caminan-entre-las-ruinas-en-venezuela-cinco-dias-despues-de-los-terremotos/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Tarapacá y comunidad de Pica celebraron el Día Mundial del Árbol dando inicio al programa “Mi pueblo, mi árbol” en la provincia del Tamarugal",
+      "url": "https://www.conaf.cl/conaf-tarapaca-y-comunidad-de-pica-celebraron-el-dia-mundial-del-arbol-dando-inicio-al-programa-mi-pueblo-mi-arbol-en-la-provincia-del-tamarugal/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-y-comunidad-de-pica-celebraron-el-dia-mundial-del-arbol-dando-inicio-al-programa-mi-pueblo-mi-arbol-en-la-provincia-del-tamarugal",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Xu Shicheng, experto chino en América Latina: “Cualquier gobernante, sea de izquierda o de derecha, tendrá que desarrollar sus relaciones comerciales y diplomáticas con China”",
+      "url": "https://www.latercera.com/mundo/noticia/xu-shicheng-experto-chino-en-america-latina-cualquier-gobernante-sea-de-izquierda-o-de-derecha-tendra-que-desarrollar-sus-relaciones-comerciales-y-diplomaticas-con-china/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El calor se desplaza hacia el este y deja máximos históricos de hasta 41ºC en Centroeuropa",
+      "url": "https://efeverde.com/calor-se-desplaza-hacia-el-este-maximos-historicos-en-centroeuropa/",
       "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Día Mundial del Árbol. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-mundial-del-arbol-por-victor-solis-visoor/",
+      "titular": "Las jirafas pueden realizar sumas mentales simples para elegir su alimento",
+      "url": "https://efeverde.com/jirafas-sumas-mentales-simples-para-elegir-su-alimento/",
       "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Descubren 4 nuevas especies de moscas hematófagas en Andalucía durante la campaña de vigilancia del virus del Nilo",
-      "url": "https://efeverde.com/nuevas-especies-moscas-hematofagas-en-andalucia/",
+      "titular": "Una especie invasora erradicada en España y otras cinco bajo retención controlada desde 2019",
+      "url": "https://efeverde.com/una-especie-invasora-erradicada-en-espana-y-otras-cinco-bajo-retencion-controlada/",
       "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La búsqueda de supervivientes continúa en Venezuela, donde los terremotos dejan ya 1.450 muertos",
-      "url": "https://efeverde.com/venezuela-terremotos-muertos-supervivientes/",
+      "titular": "Amplían a 7 años el plazo para prohibir el plomo en la caza en la UE",
+      "url": "https://efeverde.com/amplian-a-7-anos-el-plazo-para-prohibir-el-plomo-en-la-caza-en-la-ue/",
       "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "China limita el exceso de embalaje en la paquetería para reducir su impacto ambiental y costes",
-      "url": "https://efeverde.com/china-limita-el-exceso-de-embalaje-en-la-paqueteria-para-reducir-su-impacto-ambiental-y-costes/",
-      "fecha": "2026-06-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cambio climático y refugiados: una crisis más para quienes ya lo han perdido todo",
-      "url": "https://efeverde.com/cambio-climatico-refugiados-crisis-mas/",
+      "fuente": "La Tercera",
+      "titular": "Sebastián Mocarquer, el chileno a cargo de coordinar grupos de rescate de la ONU en Venezuela",
+      "url": "https://www.latercera.com/nacional/noticia/sebastian-mocarquer-el-chileno-a-cargo-de-coordinar-grupos-de-rescate-de-la-onu-en-venezuela/",
       "fecha": "2026-06-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"

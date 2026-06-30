@@ -1,5 +1,18 @@
 {
-  "fecha_generacion": "2026-06-29T11:00:52.136718-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-06-30T09:23:35.586023-04:00",
+  "total_alertas": 1,
+  "alertas": [
+    {
+      "fuente": "La Tercera",
+      "titular": "Xu Shicheng, experto chino en América Latina: “Cualquier gobernante, sea de izquierda o de derecha, tendrá que desarrollar sus relaciones comerciales y diplomáticas con China”",
+      "url": "https://www.latercera.com/mundo/noticia/xu-shicheng-experto-chino-en-america-latina-cualquier-gobernante-sea-de-izquierda-o-de-derecha-tendra-que-desarrollar-sus-relaciones-comerciales-y-diplomaticas-con-china/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El miembro honorario de la Academia China de Ciencias Sociales e investigador del Instituto de Estudios Latinoamericanos de la misma entidad, también dijo que “es una lástima que el actual presidente (Kast) no esté a favor” de la candidatura de Miche",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }
