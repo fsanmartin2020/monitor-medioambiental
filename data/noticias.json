@@ -1,165 +1,325 @@
 {
-  "fecha_actualizacion": "2026-06-30T09:23:35.573877-04:00",
-  "total": 20,
+  "fecha_actualizacion": "2026-07-01T09:56:24.358656-04:00",
+  "total": 40,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "El Reinal y Mödinger, ejemplos de innovación para un uso sostenible de los recursos naturales en la región de Los Lagos",
-      "url": "https://www.paiscircular.cl/economia-circular/el-reinal-y-modinger-ejemplos-de-innovacion-para-un-uso-sostenible-de-los-recursos-naturales-en-la-region-de-los-lagos/",
+      "titular": "Cristian Vargas, académico UdeC, se suma a comité internacional que creará bases ambientales para tecnologías oceánicas de captura de CO₂",
+      "url": "https://www.paiscircular.cl/medio-ambiente/cristian-vargas-academico-udec-se-suma-a-comite-internacional-que-creara-bases-ambientales-para-tecnologias-oceanicas-de-captura-de-co%e2%82%82/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
+      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España registra más de 1.000 muertes por calor en junio, máximo histórico para este mes",
+      "url": "https://efeverde.com/junio-acaba-con-1-029-muertes-achacables-al-calor-dato-historico-del-mes/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El primer semestre de 2026, récord de calor en España desde 1961",
+      "url": "https://efeverde.com/primer-semestre-de-2026-record-de-calor-en-espana-desde-1961/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Natexpo y Salon Marjolaine, donde late el mercado ecológico francés. Por Laura Clavijo",
+      "url": "https://efeverde.com/natexpo-y-salon-marjolaine-donde-late-el-mercado-ecologico-frances-por-laura-clavijo/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La temperatura global de la superficie del mar bate récords en junio, según Copernicus",
+      "url": "https://efeverde.com/la-temperatura-global-de-la-superficie-del-mar-bate-records-en-junio-indica-copernicus/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Venezuela apura las últimas horas para encontrar vida una semana después de los terremotos",
+      "url": "https://efeverde.com/venezuela-apura-las-ultimas-horas-para-encontrar-vida-una-semana-de-los-terremotos/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El gran dilema del aire acondicionado: una solución «no sostenible» pero vital ante el calor",
+      "url": "https://efeverde.com/gran-dilema-aire-acondicionado/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Programa de consumo responsable sello azul",
+      "url": "https://www.sernapesca.cl/programa-de-consumo-responsable-sello-azul/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble refuerza prevención de incendios forestales condespliegue «puerta a puerta» en Minas del Prado",
+      "url": "https://www.conaf.cl/conaf-nuble-refuerza-prevencion-de-incendios-forestales-condespliegue-puerta-a-puerta-en-minas-del-prado/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-prevencion-de-incendios-forestales-condespliegue-puerta-a-puerta-en-minas-del-prado",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF capacita a profesores de Porvenir en educación ambiental",
+      "url": "https://www.conaf.cl/conaf-capacita-a-profesores-de-porvenir-en-educacion-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-capacita-a-profesores-de-porvenir-en-educacion-ambiental",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y Municipalidad de Maule lanzan programa «Mi Pueblo, Mi Árbol» para impulsar la arborización con especies nativas",
+      "url": "https://www.conaf.cl/conaf-y-municipalidad-de-maule-lanzan-programa-mi-pueblo-mi-arbol-para-impulsar-la-arborizacion-con-especies-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-municipalidad-de-maule-lanzan-programa-mi-pueblo-mi-arbol-para-impulsar-la-arborizacion-con-especies-nativas",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Los compromisos socioambientales que blindan a flora, fauna y comunidades en la Línea Kimal-Lo Aguirre",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/06/1114175/kimal-energia-flora",
+      "fecha": "2026-07-01",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Gold Fields lleva a tribunales resolución de la SMA por programa ambiental de Salares Norte",
+      "url": "https://www.redimin.cl/gold-fields-lleva-a-tribunales-resolucion-de-la-sma-por-programa-ambiental-de-salares-norte",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Impuesto Verde: 105 establecimientos deberán pagar y presión aumenta sobre Biobío, Valparaíso y Antofagasta",
+      "url": "https://www.redimin.cl/impuesto-verde-105-establecimientos-deberan-pagar-y-presion-aumenta-sobre-biobio-valparaiso-y-antofagasta",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
+      "url": "https://www.paiscircular.cl/opinion/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Turberas de Cabo Froward almacenan hasta 3 veces más carbono que los bosques del sector",
-      "url": "https://www.chiledesarrollosustentable.cl/turberas-de-cabo-froward-almacenan-hasta-3-veces-mas-carbono-que-los-bosques-del-sector/?utm_source=rss&utm_medium=rss&utm_campaign=turberas-de-cabo-froward-almacenan-hasta-3-veces-mas-carbono-que-los-bosques-del-sector",
+      "fuente": "País Circular",
+      "titular": "Experiencias que inspiran: Chile en el Zero Waste Forum",
+      "url": "https://www.paiscircular.cl/videos/experiencias-que-inspiran-chile-en-el-zero-waste-forum/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Innovaciones Ecológicas en los Estadios de la Copa Mundial 2026",
+      "url": "https://www.paiscircular.cl/insights/innovaciones-ecologicas-en-los-estadios-de-la-copa-mundial-2026/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Un sistema tarifario justo para reducir a la mitad los residuos que van a relleno",
+      "url": "https://www.paiscircular.cl/opinion/un-sistema-tarifario-justo-para-reducir-a-la-mitad-los-residuos-que-van-a-relleno/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "CircularTec lanza la primera plataforma con IA para monitorear la economía circular en Latinoamérica",
-      "url": "https://codexverde.cl/plataforma-para-monitorear-la-economia-circular-en-latinoamerica/",
+      "titular": "¿Podría ocurrir en Chile? La explicación científica del doblete sísmico registrado en Venezuela",
+      "url": "https://codexverde.cl/podria-ocurrir-en-chile-la-explicacion-cientifica-del-doblete-sismico-registrado-en-venezuela/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Interdisciplina, internacionalización y ciencia: el sello formativo del CR2 en 2026",
+      "url": "https://www.cr2.cl/interdisciplina-internacionalizacion-y-ciencia-el-sello-formativo-del-cr2-en-2026/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ecologistas en Acción identifica 48 «puntos negros» en la costa española y propone 20 medidas de recuperación",
-      "url": "https://efeverde.com/ecologistas-en-accion-senala-48-puntos-negros-en-la-costa-espanola-y-propone-20-planes-de-recuperacion/",
+      "titular": "Estrella, la orca ibérica acusada de «atacar» embarcaciones en el estrecho de Gibraltar, ofrece atún a un barco",
+      "url": "https://efeverde.com/orca-iberica-estrecho-de-gibraltar-ofrece-atun-a-barco/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Asturias reanudará el control letal de poblaciones de lobos suspendida tras sentencia del Supremo",
-      "url": "https://efeverde.com/asturias-reanudara-el-control-letal-de-poblaciones-de-lobos-suspendida-tras-sentencia-del-supremo/",
+      "titular": "Arde Europa. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/arde-europa-por-victor-solis-visoor/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Embajadores del Pacto Climático Europeo llevarán a Bruselas un llamamiento para reforzar el liderazgo climático y democrático de la UE. Por Arturo Larena",
-      "url": "https://efeverde.com/embajadores-del-pacto-climatico-europeo-llevaran-a-bruselas-un-llamamiento-para-reforzar-el-liderazgo-climatico-y-democratico-de-la-ue-por-arturo-larena/",
+      "titular": "Animales en la playa. Por May",
+      "url": "https://efeverde.com/animales-en-la-playa-por-may/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Detectan microplásticos en todas las muestras analizadas de cangrejo azul del Mar Menor",
-      "url": "https://efeverde.com/microplasticos-muestras-cangrejo-azul-mar-menor/",
+      "titular": "Existen «ingredientes» para una campaña de incendios como la de 2025, alerta la UME",
+      "url": "https://efeverde.com/existen-ingredientes-para-una-campana-de-incendios-como-la-de-2025-alerta-la-ume/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La pesca del salmón cierra en Cantabria con sólo 3 capturas, el peor dato desde que hay registros",
-      "url": "https://efeverde.com/la-pesca-del-salmon-cierra-en-cantabria-con-solo-3-capturas-el-peor-dato-desde-que-hay-registros/",
+      "fuente": "Terram",
+      "titular": "SMA formula cargos contra Mowi por eludir SEIA en lago Llanquihue: salmonera arriesga multa de $4 mil millones",
+      "url": "https://www.terram.cl/sma-formula-cargos-contra-mowi-por-eludir-seia-en-lago-llanquihue-salmonera-arriesga-multa-de-4-mil-millones/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Nuevas normas europeas facilitan reparar teléfonos inteligentes",
-      "url": "https://efeverde.com/nuevas-normas-europeas-facilitan-reparar-telefonos-inteligentes/",
+      "fuente": "Terram",
+      "titular": "Sentencia instruye a la SMA continuar tramitando denuncias asociadas al proyecto de Saneamiento del Terreno Las Salinas",
+      "url": "https://www.terram.cl/sentencia-instruye-a-la-sma-continuar-tramitando-denuncias-asociadas-al-proyecto-de-saneamiento-del-terreno-las-salinas/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "En la Tierra podría haber entre 14 y 20 millones de especies de insectos, tres veces más de lo que se creía",
-      "url": "https://efeverde.com/tierra-14-20-millones-especies-insectos/",
+      "fuente": "Terram",
+      "titular": "Itahue Hualqui: La mega línea eléctrica que tensiona a tres regiones y que votará el Comité de Ministros",
+      "url": "https://www.terram.cl/itahue-hualqui-la-mega-linea-electrica-que-tensiona-a-tres-regiones-y-que-votara-el-comite-de-ministros/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "No tocarlos ni devolverlos al mar: qué hacer si te encuentras a un animal marino en la playa",
-      "url": "https://efeverde.com/que-hacer-encuentras-animal-marino-playa/",
+      "fuente": "Terram",
+      "titular": "Ministerio del Medio Ambiente reingresó a CGR el Plan de Descontaminación del lago Villarrica",
+      "url": "https://www.terram.cl/ministerio-del-medio-ambiente-reingreso-a-cgr-el-plan-de-descontaminacion-del-lago-villarrica/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La pérdida de naturaleza y cómo puede llevarnos a una crisis financiera como la de 2008",
-      "url": "https://efeverde.com/la-perdida-de-naturaleza-y-como-puede-llevarnos-a-una-crisis-financiera-como-la-de-2008/",
+      "fuente": "Terram",
+      "titular": "¿Qué son las tierras raras? El proyecto minero aprobado en Penco, Chile, que vuelve a ponerlas en el centro de la discusión en medio de oposición ciudadana",
+      "url": "https://www.terram.cl/que-son-las-tierras-raras-el-proyecto-minero-aprobado-en-penco-chile-que-vuelve-a-ponerlas-en-el-centro-de-la-discusion-en-medio-de-oposicion-ciudadana/",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La esperanza y el desánimo caminan entre las ruinas en Venezuela cinco días después de los terremotos",
-      "url": "https://efeverde.com/la-esperanza-y-el-desanimo-caminan-entre-las-ruinas-en-venezuela-cinco-dias-despues-de-los-terremotos/",
+      "fuente": "Terram",
+      "titular": "Intensa actividad humana amenaza al chungungo",
+      "url": "https://www.terram.cl/intensa-actividad-humana-amenaza-al-chungungo/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "13/08/2026: Fija audiencia en caso de «Asociación de Transmisores de Chile A.G y otros con Ministerio del Medio Ambiente-Fisco de Chile.», Rol: R-16-2026",
+      "url": "https://3ta.cl/audiencias/13-08-2026-fija-audiencia-en-caso-de-asociacion-de-transmisores-de-chile-a-g-y-otros-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo regional escalafon tecnico a contrata asimilado a grado 17 de la e u s del area de soporte operacional of caldera dr d",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-17-de-la-e-u-s-del-area-de-soporte-operacional-of-caldera-dr-d/",
+      "fecha": "2026-06-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Reserva Nacional China Muerta celebra 58 años protegiendo uno de los ecosistemas más emblemáticos de La Araucanía",
+      "url": "https://www.conaf.cl/reserva-nacional-china-muerta-celebra-58-anos-protegiendo-uno-de-los-ecosistemas-mas-emblematicos-de-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nacional-china-muerta-celebra-58-anos-protegiendo-uno-de-los-ecosistemas-mas-emblematicos-de-la-araucania",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Tarapacá y comunidad de Pica celebraron el Día Mundial del Árbol dando inicio al programa “Mi pueblo, mi árbol” en la provincia del Tamarugal",
-      "url": "https://www.conaf.cl/conaf-tarapaca-y-comunidad-de-pica-celebraron-el-dia-mundial-del-arbol-dando-inicio-al-programa-mi-pueblo-mi-arbol-en-la-provincia-del-tamarugal/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-y-comunidad-de-pica-celebraron-el-dia-mundial-del-arbol-dando-inicio-al-programa-mi-pueblo-mi-arbol-en-la-provincia-del-tamarugal",
+      "titular": "CONAF refuerza llamado a la prevención ante un invierno con inusuales incendios forestales",
+      "url": "https://www.conaf.cl/conaf-refuerza-llamado-a-la-prevencion-ante-un-invierno-con-inusuales-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-refuerza-llamado-a-la-prevencion-ante-un-invierno-con-inusuales-incendios-forestales",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Xu Shicheng, experto chino en América Latina: “Cualquier gobernante, sea de izquierda o de derecha, tendrá que desarrollar sus relaciones comerciales y diplomáticas con China”",
-      "url": "https://www.latercera.com/mundo/noticia/xu-shicheng-experto-chino-en-america-latina-cualquier-gobernante-sea-de-izquierda-o-de-derecha-tendra-que-desarrollar-sus-relaciones-comerciales-y-diplomaticas-con-china/",
+      "fuente": "CONAF",
+      "titular": "CONAF y Municipalidad de Lanco lanzan programa «Mi Pueblo, Mi Árbol» en Malalhue y firman convenio de cooperación para el arbolado urbano",
+      "url": "https://www.conaf.cl/conaf-y-municipalidad-de-lanco-lanzan-programa-mi-pueblo-mi-arbol-en-malalhue-y-firman-convenio-de-cooperacion-para-el-arbolado-urbano/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-municipalidad-de-lanco-lanzan-programa-mi-pueblo-mi-arbol-en-malalhue-y-firman-convenio-de-cooperacion-para-el-arbolado-urbano",
       "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El calor se desplaza hacia el este y deja máximos históricos de hasta 41ºC en Centroeuropa",
-      "url": "https://efeverde.com/calor-se-desplaza-hacia-el-este-maximos-historicos-en-centroeuropa/",
-      "fecha": "2026-06-29",
+      "fuente": "CONAF",
+      "titular": "CONAF y comunidad de Monkul impulsan restauración participativa del primer Sitio Ramsar de La Araucanía",
+      "url": "https://www.conaf.cl/conaf-y-comunidad-de-monkul-impulsan-restauracion-participativa-del-primer-sitio-ramsar-de-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-comunidad-de-monkul-impulsan-restauracion-participativa-del-primer-sitio-ramsar-de-la-araucania",
+      "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las jirafas pueden realizar sumas mentales simples para elegir su alimento",
-      "url": "https://efeverde.com/jirafas-sumas-mentales-simples-para-elegir-su-alimento/",
-      "fecha": "2026-06-29",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Aysén podrá opinar sobre la hoja de ruta que orientará las decisiones del país frente al cambio climático",
+      "url": "https://mma.gob.cl/aysen-podra-opinar-sobre-la-hoja-de-ruta-que-orientara-las-decisiones-del-pais-frente-al-cambio-climatico/",
+      "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Una especie invasora erradicada en España y otras cinco bajo retención controlada desde 2019",
-      "url": "https://efeverde.com/una-especie-invasora-erradicada-en-espana-y-otras-cinco-bajo-retencion-controlada/",
-      "fecha": "2026-06-29",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Proyectan conservación del ACMU Pitipalena-Añihué con propuesta de actualización de su Plan de Manejo",
+      "url": "https://mma.gob.cl/proyectan-conservacion-del-acmu-pitipalena-anihue-con-propuesta-de-actualizacion-de-su-plan-de-manejo/",
+      "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Amplían a 7 años el plazo para prohibir el plomo en la caza en la UE",
-      "url": "https://efeverde.com/amplian-a-7-anos-el-plazo-para-prohibir-el-plomo-en-la-caza-en-la-ue/",
-      "fecha": "2026-06-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Sebastián Mocarquer, el chileno a cargo de coordinar grupos de rescate de la ONU en Venezuela",
-      "url": "https://www.latercera.com/nacional/noticia/sebastian-mocarquer-el-chileno-a-cargo-de-coordinar-grupos-de-rescate-de-la-onu-en-venezuela/",
-      "fecha": "2026-06-29",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Minera presenta reclamación contra resolución que declara incumplido su Programa de Cumplimiento",
+      "url": "https://www.mch.cl/minera-presenta-reclamacion-contra-resolucion-que-declara-incumplido-su-programa-de-cumplimiento/",
+      "fecha": "2026-06-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
