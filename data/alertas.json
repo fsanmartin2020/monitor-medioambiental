@@ -1,66 +1,54 @@
 {
-  "fecha_generacion": "2026-07-01T09:56:24.373359-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-07-02T09:12:03.941196-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
-      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en junio 2026",
+      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-junio-2026/",
       "fecha": "2026-07-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Chile dio un paso importante cuando promulgó la Ley de Responsabilidad Extendida del Productor, la Ley REP. Con ella, el país estableció algo que parece simple pero no lo es: quienes introducen productos al mercado son responsables de lo que ocurre c",
+      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva de la entidad. La entrada SEA publica listado de Declaraciones de Impacto Ambiental presentadas en junio 2026 se publicó primero en",
       "keywords_detectadas": [
-        "Ley REP"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Sernageomin y SMA constatan avance de plan de cierre de Pascua Lama",
+      "url": "https://www.mch.cl/sernageomin-y-sma-constatan-avance-de-plan-de-cierre-de-pascua-lama/",
+      "fecha": "2026-07-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La inspección en terreno permitió verificar el cumplimiento de las medidas establecidas, sin detectar desviaciones relevantes. La entrada Sernageomin y SMA constatan avance de plan de cierre de Pascua Lama se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "SMA"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Gold Fields lleva a tribunales resolución de la SMA por programa ambiental de Salares Norte",
-      "url": "https://www.redimin.cl/gold-fields-lleva-a-tribunales-resolucion-de-la-sma-por-programa-ambiental-de-salares-norte",
+      "titular": "Comité de Ministros mantiene RCA de proyectos por US$1.510 millones y deja sin iniciativas mineras extractivas la tabla del 30 de junio",
+      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us1-510-millones-y-deja-sin-iniciativas-mineras-extractivas-la-tabla-del-30-de-junio",
       "fecha": "2026-07-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Gold Fields Salares Norte SpA impugna una resolución de la Superintendencia del Medio Ambiente que declaró incumplido su Programa de Cumplimiento para el rescate de chinchillas, reactivando un proceso sancionatorio.",
+      "extracto": "El Comité de Ministros mantuvo la calificación ambiental favorable de dos importantes proyectos en Atacama, impactando la infraestructura energética y la seguridad territorial en zonas mineras. La inversión conjunta supera los US$1.510 millones.",
       "keywords_detectadas": [
-        "SMA"
+        "RCA"
       ]
     },
     {
-      "fuente": "País Circular",
-      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
-      "url": "https://www.paiscircular.cl/opinion/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
-      "fecha": "2026-06-30",
+      "fuente": "REDIMIN",
+      "titular": "SEA publica 18 DIA de junio y abre plazo de participación ciudadana para nuevos proyectos en evaluación",
+      "url": "https://www.redimin.cl/sea-publica-18-dia-de-junio-y-abre-plazo-de-participacion-ciudadana-para-nuevos-proyectos-en-evaluacion",
+      "fecha": "2026-07-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "\"El verdadero desafío de la Ley REP en el agro no es técnico ni logístico: es cultural. Cuando un agricultor comprende que devolver un envase correctamente es proteger su propio suelo, su agua y la salud de su familia, el cumplimiento deja de ser obl",
+      "extracto": "El Servicio de Evaluación Ambiental publicó un listado de 18 proyectos ingresados en junio de 2026, destacando iniciativas mineras y energéticas en regiones clave como Tarapacá y Antofagasta.",
       "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "SMA formula cargos contra Mowi por eludir SEIA en lago Llanquihue: salmonera arriesga multa de $4 mil millones",
-      "url": "https://www.terram.cl/sma-formula-cargos-contra-mowi-por-eludir-seia-en-lago-llanquihue-salmonera-arriesga-multa-de-4-mil-millones/",
-      "fecha": "2026-06-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La SMA detectó que la salmonera multiplicó por seis su producción y duplicó su infraestructura sin pasar por el SEIA. La infracción fue calificada como grave. Fuente: El Desconcierto, 26 de junio de 2026.",
-      "keywords_detectadas": [
-        "SMA",
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Sentencia instruye a la SMA continuar tramitando denuncias asociadas al proyecto de Saneamiento del Terreno Las Salinas",
-      "url": "https://www.terram.cl/sentencia-instruye-a-la-sma-continuar-tramitando-denuncias-asociadas-al-proyecto-de-saneamiento-del-terreno-las-salinas/",
-      "fecha": "2026-06-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió parcialmente dos reclamaciones presentadas por la Municipalidad de Viña del Mar y un vecino de esa comuna, en contra de la resolución la Superintendencia del Medio Ambiente, SMA, que archivó diversas denuncias vin",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA",
+        "DIA"
       ]
     }
   ]
