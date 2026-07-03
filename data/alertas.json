@@ -1,54 +1,77 @@
 {
-  "fecha_generacion": "2026-07-02T09:12:03.941196-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-07-03T09:11:30.016535-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en junio 2026",
-      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-junio-2026/",
-      "fecha": "2026-07-01",
+      "fuente": "Codex Verde",
+      "titular": "Con foco en Ley REP y gestión orgánica: UDLA recibe la Cumbre Municipal de Economía Circular 2026",
+      "url": "https://codexverde.cl/udla-recibe-la-cumbre-municipal-de-economia-circular-2026/",
+      "fecha": "2026-07-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva de la entidad. La entrada SEA publica listado de Declaraciones de Impacto Ambiental presentadas en junio 2026 se publicó primero en",
+      "extracto": "Por segundo año consecutivo, la Universidad de Las Américas (UDLA) fue sede de la Cumbre Municipal de Economía Circular de la Región Metropolitana, cuyo lema este año 2026 fue “A 10 años de la Implementación de la Ley REP”. La instancia organizada po",
       "keywords_detectadas": [
-        "SEA"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Sernageomin y SMA constatan avance de plan de cierre de Pascua Lama",
-      "url": "https://www.mch.cl/sernageomin-y-sma-constatan-avance-de-plan-de-cierre-de-pascua-lama/",
-      "fecha": "2026-07-01",
+      "fuente": "SMA",
+      "titular": "SMA realizó seminario para promover el cumplimiento de la nueva norma lumínica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-realizo-seminario-para-promover-el-cumplimiento-de-la-nueva-norma-luminica/",
+      "fecha": "2026-07-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La inspección en terreno permitió verificar el cumplimiento de las medidas establecidas, sin detectar desviaciones relevantes. La entrada Sernageomin y SMA constatan avance de plan de cierre de Pascua Lama se publicó primero en Mch .",
+      "extracto": "La actividad tuvo como objetivo abordar los principales alcances de la Norma de Emisión de luminosidad artificial generada por alumbrados de exteriores, D.S. N°1 de 2022 del Ministerio del Medio Ambiente, entregando herramientas para comprender y cum",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de proyectos por US$1.510 millones y deja sin iniciativas mineras extractivas la tabla del 30 de junio",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us1-510-millones-y-deja-sin-iniciativas-mineras-extractivas-la-tabla-del-30-de-junio",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Comité de Ministros mantuvo la calificación ambiental favorable de dos importantes proyectos en Atacama, impactando la infraestructura energética y la seguridad territorial en zonas mineras. La inversión conjunta supera los US$1.510 millones.",
+      "fuente": "La Segunda",
+      "titular": "Proyecto resistido por alcalde Vodanovic llega a la justicia: vecina presenta recurso en tribunal ambiental",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114224/justicia-ambiental-vodanovic",
+      "fecha": "2026-07-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El proyecto Santa María, aprobado bajo el gobierno de Boric, fue impugnado ante el Segundo Tribunal Ambiental por una observante del proceso de participación ciudadana.",
       "keywords_detectadas": [
-        "RCA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA publica 18 DIA de junio y abre plazo de participación ciudadana para nuevos proyectos en evaluación",
-      "url": "https://www.redimin.cl/sea-publica-18-dia-de-junio-y-abre-plazo-de-participacion-ciudadana-para-nuevos-proyectos-en-evaluacion",
-      "fecha": "2026-07-01",
+      "fuente": "La Tercera",
+      "titular": "Experta danesa en urbanismo: “Para que una ciudad sea caminable, debe estar dividida en barrios pequeños”",
+      "url": "https://www.latercera.com/mundo/noticia/una-ciudad-de-15-minutos-donde-la-gente-camine-mas-la-receta-danesa-para-una-urbe-exitosa/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental publicó un listado de 18 proyectos ingresados en junio de 2026, destacando iniciativas mineras y energéticas en regiones clave como Tarapacá y Antofagasta.",
+      "extracto": "La arquitecta Tina Saaby señaló que una de las estrategias que se hizo en Dinamarca fue que la gente se quedara fuera de sus casas o de un inmueble un 20% más de su tiempo. Queremos que la gente camine un 20% más y queremos que el 80% de la gente est",
       "keywords_detectadas": [
-        "SEA",
-        "DIA"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental admite reclamación en contra de calificación favorable de parque fotovoltaico en Tarapacá",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-en-contra-de-calificacion-favorable-de-parque-fotovoltaico-en-tarapaca/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El proyecto consiste en la construcción, operación y cierre de una central solar de generación de energía eléctrica, complementado con un sistema BESS. La entrada Tribunal Ambiental admite reclamación en contra de calificación favorable de parque fot",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SEA autoriza nuevas rutas logísticas para exportación de concentrados de hierro de Minera Mariposa",
+      "url": "https://www.nuevamineria.com/revista/sea-autoriza-nuevas-rutas-logisticas-para-exportacion-de-concentrados-de-hierro-de-minera-mariposa/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Resolución de Calificación Ambiental favorable permitirá incorporar los puertos Las Losas y Guacolda II, en Huasco, como alternativas para el transporte y embarque de concentrados de hierro provenientes de la faena ubicada en la Región de Atacama,",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

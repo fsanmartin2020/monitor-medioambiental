@@ -1,221 +1,309 @@
 {
-  "fecha_actualizacion": "2026-07-02T09:12:03.927820-04:00",
-  "total": 27,
+  "fecha_actualizacion": "2026-07-03T09:11:30.002582-04:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Wool Pellet: el bioestimulante creado en Chiloé a partir de lana de oveja y descartes de algas",
+      "url": "https://www.paiscircular.cl/economia-circular/pellet/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Con foco en Ley REP y gestión orgánica: UDLA recibe la Cumbre Municipal de Economía Circular 2026",
+      "url": "https://codexverde.cl/udla-recibe-la-cumbre-municipal-de-economia-circular-2026/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La segunda ola de calor del verano llega este domingo con máximas de hasta 42 grados",
+      "url": "https://efeverde.com/segunda-ola-de-calor-del-verano/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El nacimiento de un babuino impulsa los esfuerzos de conservación de la fauna en Colombia",
+      "url": "https://efeverde.com/nacimiento-babuino-esfuerzos-conservacion-colombia/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Francia registró al menos 2.025 muertes más de lo habitual en la semana de la ola de calor",
+      "url": "https://efeverde.com/francia-registro-2-025-muertes-mas-habitual-ola-calor/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La OMM confirma que El Niño evolucionará rápidamente hasta convertirse en un episodio fuerte",
+      "url": "https://efeverde.com/omm-el-nino-rapidamente-episodio-fuerte/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El «timbre» para abrir compuertas a los peces en Países Bajos que engancha al mundo",
+      "url": "https://efeverde.com/el-timbre-para-abrir-compuertas-a-los-peces-en-paises-bajos-que-engancha-al-mundo/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Irán denuncia en un foro de la ONU que el medio ambiente es la primera víctima silenciosa de la guerra",
+      "url": "https://efeverde.com/iran-denuncia-en-un-foro-de-la-onu-que-el-medio-ambiente-es-la-primera-victima-silenciosa-de-la-guerra/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Fastned pide acelerar el despliegue de estaciones de recarga: «Falta voluntad política y persistencia»",
+      "url": "https://efeverde.com/inma-cima-fastned-acelerar-despliegue-puntos-recarga/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ernesto Montoya: «Estudiar el pasado nos ayuda a afrontar desafíos como el cambio climático»",
+      "url": "https://efeverde.com/ernesto-montoya-estudiar-pasado-desafios-cambio-climatico/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Tarapacá fortalece coordinación interinstitucional para prevenir incendios forestales",
+      "url": "https://www.conaf.cl/conaf-tarapaca-fortalece-coordinacion-interinstitucional-para-prevenir-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-fortalece-coordinacion-interinstitucional-para-prevenir-incendios-forestales",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA realizó seminario para promover el cumplimiento de la nueva norma lumínica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-realizo-seminario-para-promover-el-cumplimiento-de-la-nueva-norma-luminica/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Proyecto resistido por alcalde Vodanovic llega a la justicia: vecina presenta recurso en tribunal ambiental",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114224/justicia-ambiental-vodanovic",
+      "fecha": "2026-07-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Chile eliminó las bolsas plásticas. Ahora debe eliminar las mentiras verdes",
+      "url": "https://www.paiscircular.cl/opinion/chile-elimino-las-bolsas-plasticas-ahora-debe-eliminar-las-mentiras-verdes/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Tres datos sobre el agua y el cartón que pocas personas conocen.",
-      "url": "https://www.chiledesarrollosustentable.cl/tres-datos-sobre-el-agua-y-el-carton-que-pocas-personas-conocen/?utm_source=rss&utm_medium=rss&utm_campaign=tres-datos-sobre-el-agua-y-el-carton-que-pocas-personas-conocen",
+      "titular": "Más allá de la autonomía: Los desafíos de recorrer las reservas nacionales de Chile en un vehículo eléctrico",
+      "url": "https://www.chiledesarrollosustentable.cl/mas-alla-de-la-autonomia-los-desafios-de-recorrer-las-reservas-nacionales-de-chile-en-un-vehiculo-electrico/?utm_source=rss&utm_medium=rss&utm_campaign=mas-alla-de-la-autonomia-los-desafios-de-recorrer-las-reservas-nacionales-de-chile-en-un-vehiculo-electrico",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Redinter presentan guía pionera para compatibilizar líneas eléctricas con la vida silvestre",
+      "url": "https://codexverde.cl/guia-para-compatibilizar-las-lineas-electricas-con-la-vida-silvestre/",
       "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El estrés térmico está degradando y fragmentando las praderas de posidonia en el Mediterráneo",
-      "url": "https://efeverde.com/estres-termico-degradando-fragmentando-praderas-posidonia/",
+      "titular": "Sólo Baleares se libra (por ahora) de la invasión del alga asiática",
+      "url": "https://efeverde.com/solo-baleares-se-libra-por-ahora-de-la-invasion-del-alga-asiatica/",
       "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Sólo una de cada tres capitales de España cuenta con refugios climáticos, según Greenpeace",
-      "url": "https://efeverde.com/greenpeace-denuncia-que-solo-1-de-cada-3-capitales-en-espana-ofrece-refugios-climaticos/",
+      "fuente": "Terram",
+      "titular": "Cuál será la política costero marina de Chile",
+      "url": "https://www.terram.cl/cual-sera-la-politica-costero-marina-de-chile/",
       "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La sucesión de domos de calor en España dispara la temperatura del mar hasta valores récord",
-      "url": "https://efeverde.com/domos-calor-espana-dispara-temperatura-mar/",
+      "fuente": "Terram",
+      "titular": "Estudio del Observatorio Ciudadano revela que los ECMPO no paralizan la industria salmonera: la relación predominante es de coexistencia",
+      "url": "https://www.terram.cl/estudio-del-observatorio-ciudadano-revela-que-los-ecmpo-no-paralizan-la-industria-salmonera-la-relacion-predominante-es-de-coexistencia/",
       "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Observar el comportamiento animal durante los eclipses para entender cómo puede impactar la contaminación lumínica",
-      "url": "https://efeverde.com/observar-el-comportamiento-animal-durante-los-eclipses-para-entender-como-puede-impactar-la-contaminacion-luminica/",
+      "fuente": "Terram",
+      "titular": "Consejeros regionales rechazan nuevo relleno sanitario y “ponen presión” a Comité de Evaluación Ambiental",
+      "url": "https://www.terram.cl/consejeros-regionales-rechazan-nuevo-relleno-sanitario-y-ponen-presion-a-comite-de-evaluacion-ambiental/",
       "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "¡Atención startups! Últimos días para postular a programa de innovación en centros comerciales de Latinoamérica",
-      "url": "https://www.chiledesarrollosustentable.cl/atencion-startups-ultimos-dias-para-postular-a-programa-de-innovacion-en-centros-comerciales-de-latinoamerica/?utm_source=rss&utm_medium=rss&utm_campaign=atencion-startups-ultimos-dias-para-postular-a-programa-de-innovacion-en-centros-comerciales-de-latinoamerica",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "El impuesto verde se concentra en tres regiones: Formas de reducirlo con descarbonización.",
-      "url": "https://www.chiledesarrollosustentable.cl/el-impuesto-verde-se-concentra-en-tres-regiones-formas-de-reducirlo-con-descarbonizacionrador-automatico/?utm_source=rss&utm_medium=rss&utm_campaign=el-impuesto-verde-se-concentra-en-tres-regiones-formas-de-reducirlo-con-descarbonizacionrador-automatico",
-      "fecha": "2026-07-01",
+      "fuente": "Terram",
+      "titular": "Locura por tierras raras amenaza a Parque Nonguén y últimos relictos nativos en zonas campesinas de todo Hualqui",
+      "url": "https://www.terram.cl/locura-por-tierras-raras-amenaza-a-parque-nonguen-y-ultimos-relictos-nativos-en-zonas-campesinas-de-todo-hualqui/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Justicia falla a favor de ambientalistas acusados de intentar boicotear a la industria del salmón",
-      "url": "https://www.terram.cl/justicia-falla-a-favor-de-ambientalistas-acusados-de-intentar-boicotear-a-la-industria-del-salmon/",
-      "fecha": "2026-07-01",
+      "titular": "Disminuir amenazas para aves: organizaciones pueden postular a fondos de empresas transmisoras eléctricas",
+      "url": "https://www.terram.cl/disminuir-amenazas-para-aves-organizaciones-pueden-postular-a-fondos-de-empresas-transmisoras-electricas/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Comité de Ministros rechaza reclamaciones contra megaproyecto energético Línea Kimal-Lo Aguirre",
-      "url": "https://www.terram.cl/comite-de-ministros-rechaza-reclamaciones-contra-megaproyecto-energetico-linea-kimal-lo-aguirre/",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Reúso de aguas e inversión en infraestructura marcan el debate en cumbre franco-chilena",
-      "url": "https://www.terram.cl/reuso-de-aguas-e-inversion-en-infraestructura-marcan-el-debate-en-cumbre-franco-chilena/",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Impuesto Verde: 105 establecimientos deberán pagar y presión aumenta sobre Biobío, Valparaíso y Antofagasta",
-      "url": "https://www.terram.cl/impuesto-verde-105-establecimientos-deberan-pagar-y-presion-aumenta-sobre-biobio-valparaiso-y-antofagasta/",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Turberas de Cabo Froward almacenarían tres veces más carbono que los bosques nativos",
-      "url": "https://www.terram.cl/turberas-de-cabo-froward-almacenarian-tres-veces-mas-carbono-que-los-bosques-nativos/",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Chile central: la zona con más diversidad de plantas es la menos protegida y la más expuesta a incendios",
-      "url": "https://www.terram.cl/chile-central-la-zona-con-mas-diversidad-de-plantas-es-la-menos-protegida-y-la-mas-expuesta-a-incendios/",
-      "fecha": "2026-07-01",
+      "titular": "Documentan el primer registro de un puma y la reaparición del gato colocolo en Quebrada de la Plata",
+      "url": "https://www.terram.cl/documentan-el-primer-registro-de-un-puma-y-la-reaparicion-del-gato-colocolo-en-quebrada-de-la-plata/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "FIMA",
-      "titular": "Estudio internacional descarta el agua salada como principal causa de la crisis del lago Vichuquén y apunta a décadas de expansión forestal y contaminación agrícola",
-      "url": "https://www.fima.cl/2026/07/01/estudio-internacional-descarta-el-agua-salada-como-principal-causa-de-la-crisis-del-lago-vichuquen-y-apunta-a-decadas-de-expansion-forestal-y-contaminacion-agricola/",
-      "fecha": "2026-07-01",
+      "titular": "Proyectos privados y conflictos ambientales",
+      "url": "https://www.fima.cl/2026/07/02/proyectos-privados-y-conflictos-ambientales/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "03/07/2026: Fija audiencia en caso de «Estado de Chile con Forestal Arauco S.A.», Rol: D-2-2025",
-      "url": "https://3ta.cl/audiencias/03-07-2026-fija-audiencia-en-caso-de-estado-de-chile-con-forestal-arauco-s-a-rol-d-2-2025/",
-      "fecha": "2026-07-01",
+      "titular": "05/08/2026: Fija audiencia en caso de «Estado de Chile con Nova Austral S.A», Rol: D-7-2022",
+      "url": "https://3ta.cl/audiencias/05-08-2026-fija-audiencia-en-caso-de-estado-de-chile-con-nova-austral-s-a-rol-d-7-2022/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Incendios forestales: CONAF llama a la prevención frente al factor crítico del viento",
-      "url": "https://www.conaf.cl/incendios-forestales-conaf-llama-a-la-prevencion-frente-al-factor-critico-del-viento/?utm_source=rss&utm_medium=rss&utm_campaign=incendios-forestales-conaf-llama-a-la-prevencion-frente-al-factor-critico-del-viento",
-      "fecha": "2026-07-01",
+      "titular": "Temuco fortalece su vínculo con el árbol que le da nombre con plantación simbólica de un temu en el Cerro Ñielol",
+      "url": "https://www.conaf.cl/temuco-fortalece-su-vinculo-con-el-arbol-que-le-da-nombre-con-plantacion-simbolica-de-un-temu-en-el-cerro-nielol/?utm_source=rss&utm_medium=rss&utm_campaign=temuco-fortalece-su-vinculo-con-el-arbol-que-le-da-nombre-con-plantacion-simbolica-de-un-temu-en-el-cerro-nielol",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF restringe el uso del fuego en toda la Región del Biobío",
-      "url": "https://www.conaf.cl/conaf-restringe-el-uso-del-fuego-en-toda-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-restringe-el-uso-del-fuego-en-toda-la-region-del-biobio",
-      "fecha": "2026-07-01",
+      "titular": "CONAF Ñuble lanza programa “Mi Pueblo, Mi Árbol” e inicia transición al Servicio Nacional Forestal",
+      "url": "https://www.conaf.cl/conaf-nuble-lanza-programa-mi-pueblo-mi-arbol-e-inicia-transicion-al-servicio-nacional-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-lanza-programa-mi-pueblo-mi-arbol-e-inicia-transicion-al-servicio-nacional-forestal",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF fortalece la producción forrajera y recuperación vegetal en la comuna de Andacollo",
-      "url": "https://www.conaf.cl/conaf-fortalece-la-produccion-forrajera-y-recuperacion-vegetal-en-la-comuna-de-andacollo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-fortalece-la-produccion-forrajera-y-recuperacion-vegetal-en-la-comuna-de-andacollo",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Llay Llay: CONAF desarrolla programa “Comunidad Preparada frente a los Incendios Forestales” en El Porvenir",
-      "url": "https://www.conaf.cl/comunicado-comunidad-preparada-el-porvenir-de-llay-llay/?utm_source=rss&utm_medium=rss&utm_campaign=comunicado-comunidad-preparada-el-porvenir-de-llay-llay",
-      "fecha": "2026-07-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF suspende uso del fuego y cierra senderos en áreas protegidas de La Araucanía por evento de fuertes vientos",
-      "url": "https://www.conaf.cl/conaf-suspende-uso-del-fuego-y-cierra-senderos-en-areas-protegidas-de-la-araucania-por-evento-de-fuertes-vientos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-suspende-uso-del-fuego-y-cierra-senderos-en-areas-protegidas-de-la-araucania-por-evento-de-fuertes-vientos",
-      "fecha": "2026-07-01",
+      "titular": "Suspendidas quemas agrícolas y  forestales en Ñuble ante alerta por vientos fuertes",
+      "url": "https://www.conaf.cl/suspendidas-quemas-agricolas-y-forestales-en-nuble-ante-alerta-por-vientos-fuertes/?utm_source=rss&utm_medium=rss&utm_campaign=suspendidas-quemas-agricolas-y-forestales-en-nuble-ante-alerta-por-vientos-fuertes",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Maule entregan kits de eficiencia energética bajo Programa Recambio de Calefactores",
-      "url": "https://mma.gob.cl/en-maule-entregan-kits-de-eficiencia-energetica-bajo-programa-recambio-de-calefactores/",
-      "fecha": "2026-07-01",
+      "titular": "Seremi del Medio Ambiente participa en el Día Nacional del Astroturismo en Paihuano y destaca su valor ambiental y educativo",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-participa-en-el-dia-nacional-del-astroturismo-en-paihuano-y-destaca-su-valor-ambiental-y-educativo/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comité de Información Ambiental revisa avances del Reporte del Estado del Medio Ambiente 2026",
-      "url": "https://mma.gob.cl/comite-de-informacion-ambiental-revisa-avances-del-reporte-del-estado-del-medio-ambiente-2026/",
-      "fecha": "2026-07-01",
+      "titular": "Amplia convocatoria dio inicio a la elaboración del Plan Local de Restauración a Escala de Paisaje de Altos de Ninhue",
+      "url": "https://mma.gob.cl/amplia-convocatoria-dio-inicio-a-la-elaboracion-del-plan-local-de-restauracion-a-escala-de-paisaje-de-altos-de-ninhue/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Día Mundial del Árbol: Ministerio del Medio Ambiente destaca la conservación del queule y fortalece acciones de restauración en Ñuble",
-      "url": "https://mma.gob.cl/dia-mundial-del-arbol-ministerio-del-medio-ambiente-destaca-la-conservacion-del-queule-y-fortalece-acciones-de-restauracion-en-nuble/",
-      "fecha": "2026-07-01",
+      "titular": "CONAF Ñuble lanza programa “Mi Pueblo, Mi Árbol” e inicia transición al Servicio Nacional Forestal",
+      "url": "https://mma.gob.cl/conaf-nuble-lanza-programa-mi-pueblo-mi-arbol-e-inicia-transicion-al-servicio-nacional-forestal/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en junio 2026",
-      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-junio-2026/",
-      "fecha": "2026-07-01",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Municipalidades Los Andes y Calle Larga reciben reconocimiento ambiental por avanzar en su trabajo contra el cambio climático",
+      "url": "https://mma.gob.cl/municipalidades-los-andes-y-calle-larga-reciben-reconocimiento-ambiental-por-avanzar-en-su-trabajo-contra-el-cambio-climatico/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Sernageomin y SMA constatan avance de plan de cierre de Pascua Lama",
-      "url": "https://www.mch.cl/sernageomin-y-sma-constatan-avance-de-plan-de-cierre-de-pascua-lama/",
-      "fecha": "2026-07-01",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente retoma y fortalece Programa para la Recuperación Ambiental y Social de Huasco",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-retoma-y-fortalece-programa-para-la-recuperacion-ambiental-y-social-de-huasco/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Comité de Ministros mantiene RCA de proyectos por US$1.510 millones y deja sin iniciativas mineras extractivas la tabla del 30 de junio",
-      "url": "https://www.redimin.cl/comite-de-ministros-mantiene-rca-de-proyectos-por-us1-510-millones-y-deja-sin-iniciativas-mineras-extractivas-la-tabla-del-30-de-junio",
-      "fecha": "2026-07-01",
+      "fuente": "La Tercera",
+      "titular": "“No debe quedar impune”: general Araya valora extradición de presunto líder del Tren de Aragua por homicidio de carabinero",
+      "url": "https://www.latercera.com/nacional/noticia/no-debe-quedar-impune-general-araya-valora-extradicion-de-presunto-lider-del-tren-de-aragua-por-homicidio-de-carabinero/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA publica 18 DIA de junio y abre plazo de participación ciudadana para nuevos proyectos en evaluación",
-      "url": "https://www.redimin.cl/sea-publica-18-dia-de-junio-y-abre-plazo-de-participacion-ciudadana-para-nuevos-proyectos-en-evaluacion",
-      "fecha": "2026-07-01",
+      "fuente": "La Tercera",
+      "titular": "Controversia por indultos a exuniformados",
+      "url": "https://www.latercera.com/editorial/noticia/controversia-por-indultos-a-exuniformados/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Experta danesa en urbanismo: “Para que una ciudad sea caminable, debe estar dividida en barrios pequeños”",
+      "url": "https://www.latercera.com/mundo/noticia/una-ciudad-de-15-minutos-donde-la-gente-camine-mas-la-receta-danesa-para-una-urbe-exitosa/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental admite reclamación en contra de calificación favorable de parque fotovoltaico en Tarapacá",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-en-contra-de-calificacion-favorable-de-parque-fotovoltaico-en-tarapaca/",
+      "fecha": "2026-07-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SEA autoriza nuevas rutas logísticas para exportación de concentrados de hierro de Minera Mariposa",
+      "url": "https://www.nuevamineria.com/revista/sea-autoriza-nuevas-rutas-logisticas-para-exportacion-de-concentrados-de-hierro-de-minera-mariposa/",
+      "fecha": "2026-07-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
