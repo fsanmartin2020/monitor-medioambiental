@@ -1,77 +1,90 @@
 {
-  "fecha_generacion": "2026-07-03T09:11:30.016535-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-07-04T08:27:07.366603-04:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Con foco en Ley REP y gestión orgánica: UDLA recibe la Cumbre Municipal de Economía Circular 2026",
-      "url": "https://codexverde.cl/udla-recibe-la-cumbre-municipal-de-economia-circular-2026/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Rodrigo Javier Parra Pinto con Comité de Ministros del Servicio de Evaluación Ambiental». Rol: R-35-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-rodrigo-javier-parra-pinto-con-comite-de-ministros-del-servicio-de-evaluacion-ambiental-rol-r-35-2026/",
       "fecha": "2026-07-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Por segundo año consecutivo, la Universidad de Las Américas (UDLA) fue sede de la Cumbre Municipal de Economía Circular de la Región Metropolitana, cuyo lema este año 2026 fue “A 10 años de la Implementación de la Ley REP”. La instancia organizada po",
+      "extracto": "Con fecha 03 de julio de 2026, admítase a trámite la Reclamación identificada como Rodrigo Javier Parra Pinto con Comité de Ministros del Servicio de Evaluación Ambiental. (Rol R-35-2026). Acceda al expediente electrónico de la causa en el siguiente ",
       "keywords_detectadas": [
-        "Ley REP"
+        "Servicio de Evaluación Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA realizó seminario para promover el cumplimiento de la nueva norma lumínica",
-      "url": "https://portal.sma.gob.cl/index.php/sma-realizo-seminario-para-promover-el-cumplimiento-de-la-nueva-norma-luminica/",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental rechaza reclamación de generadora y confirma inicio de revisión de RCA de Central Térmica Andino",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-rechaza-reclamacion-de-generadora-y-confirma-inicio-de-revision-de-rca-de-central-termica-andino/",
       "fecha": "2026-07-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad tuvo como objetivo abordar los principales alcances de la Norma de Emisión de luminosidad artificial generada por alumbrados de exteriores, D.S. N°1 de 2022 del Ministerio del Medio Ambiente, entregando herramientas para comprender y cum",
+      "extracto": "La iniciativa consiste en la operación de una termoeléctrica y un terminal de descarga de petróleo diésel ubicado en el área industrial de Mejillones. La entrada Tribunal Ambiental rechaza reclamación de generadora y confirma inicio de revisión de RC",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA y SEC presentan herramientas para facilitar el cumplimiento de la nueva norma lumínica",
+      "url": "https://www.revistaei.cl/sma-y-sec-presentan-herramientas-para-facilitar-el-cumplimiento-de-la-nueva-norma-luminica/",
+      "fecha": "2026-07-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad permitió abordar las principales exigencias de la normativa y las herramientas disponibles para su implementación. La entrada SMA y SEC presentan herramientas para facilitar el cumplimiento de la nueva norma lumínica se publicó primero e",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "La Segunda",
-      "titular": "Proyecto resistido por alcalde Vodanovic llega a la justicia: vecina presenta recurso en tribunal ambiental",
-      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114224/justicia-ambiental-vodanovic",
+      "fuente": "REDIMIN",
+      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
+      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
       "fecha": "2026-07-03",
-      "fecha_confiable": false,
+      "fecha_confiable": true,
       "metodo_extraccion": "article-tags",
-      "extracto": "El proyecto Santa María, aprobado bajo el gobierno de Boric, fue impugnado ante el Segundo Tribunal Ambiental por una observante del proceso de participación ciudadana.",
+      "extracto": "Nova Andino Litio presenta un Estudio de Impacto Ambiental por US$3.000 millones para el proyecto Salar Futuro, que busca extender la producción de litio en el Salar de Atacama hasta 2060.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "EIA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Experta danesa en urbanismo: “Para que una ciudad sea caminable, debe estar dividida en barrios pequeños”",
-      "url": "https://www.latercera.com/mundo/noticia/una-ciudad-de-15-minutos-donde-la-gente-camine-mas-la-receta-danesa-para-una-urbe-exitosa/",
-      "fecha": "2026-07-02",
+      "fuente": "REDIMIN",
+      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
+      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
+      "fecha": "2026-07-03",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La arquitecta Tina Saaby señaló que una de las estrategias que se hizo en Dinamarca fue que la gente se quedara fuera de sus casas o de un inmueble un 20% más de su tiempo. Queremos que la gente camine un 20% más y queremos que el 80% de la gente est",
+      "metodo_extraccion": "article-tags",
+      "extracto": "BHP busca reactivar la faena de Cerro Colorado en Tarapacá con una inversión de US$1.500 millones, proyectando una producción anual de 130.000 toneladas de cátodos mediante un innovador sistema hídrico.",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental admite reclamación en contra de calificación favorable de parque fotovoltaico en Tarapacá",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-admite-reclamacion-en-contra-de-calificacion-favorable-de-parque-fotovoltaico-en-tarapaca/",
-      "fecha": "2026-07-02",
+      "fuente": "REDIMIN",
+      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
+      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
+      "fecha": "2026-07-03",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto consiste en la construcción, operación y cierre de una central solar de generación de energía eléctrica, complementado con un sistema BESS. La entrada Tribunal Ambiental admite reclamación en contra de calificación favorable de parque fot",
+      "metodo_extraccion": "article-tags",
+      "extracto": "Nova Andino Litio presenta un Estudio de Impacto Ambiental por US$3.000 millones para el proyecto Salar Futuro, que busca extender la producción de litio en el Salar de Atacama hasta 2060.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "EIA"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SEA autoriza nuevas rutas logísticas para exportación de concentrados de hierro de Minera Mariposa",
-      "url": "https://www.nuevamineria.com/revista/sea-autoriza-nuevas-rutas-logisticas-para-exportacion-de-concentrados-de-hierro-de-minera-mariposa/",
-      "fecha": "2026-07-02",
+      "fuente": "REDIMIN",
+      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
+      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
+      "fecha": "2026-07-03",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Resolución de Calificación Ambiental favorable permitirá incorporar los puertos Las Losas y Guacolda II, en Huasco, como alternativas para el transporte y embarque de concentrados de hierro provenientes de la faena ubicada en la Región de Atacama,",
+      "metodo_extraccion": "article-tags",
+      "extracto": "BHP busca reactivar la faena de Cerro Colorado en Tarapacá con una inversión de US$1.500 millones, proyectando una producción anual de 130.000 toneladas de cátodos mediante un innovador sistema hídrico.",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
       ]
     }
   ]
