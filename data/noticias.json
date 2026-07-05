@@ -1,239 +1,87 @@
 {
-  "fecha_actualizacion": "2026-07-04T08:27:07.352918-04:00",
-  "total": 29,
+  "fecha_actualizacion": "2026-07-05T08:28:57.530213-04:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "El pato Merlín, la moda del Mundial que preocupa a los animalistas en México",
-      "url": "https://efeverde.com/el-pato-merlin-la-moda-del-mundial-que-preocupa-a-los-animalistas-en-mexico/",
+      "titular": "Levantan el confinamiento por el incendio de La Bisbal, estabilizado tras quemar 2.300 hectáreas",
+      "url": "https://efeverde.com/levantan-el-confinamiento-por-el-incendio-de-la-bisbal-estabilizado-tras-quemar-2-300-hectareas/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Catorce comunidades activan avisos por altas temperaturas en el inicio de la ola de calor",
+      "url": "https://efeverde.com/catorce-comunidades-activan-avisos-por-altas-temperaturas-en-el-inicio-de-la-ola-de-calor/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Muere ‘Poderoso’, el oso que se convirtió en símbolo de la naturaleza para los niños",
+      "url": "https://efeverde.com/muere-poderoso-el-oso-que-se-convirtio-en-simbolo-de-la-naturaleza/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.latercera.com/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Rechazan inaplicabilidad promovida por el SEA en causa sobre caducidad de RCA",
+      "url": "https://www.diarioconstitucional.cl/2026/07/05/rechazan-inaplicabilidad-promovida-por-el-sea-en-causa-sobre-caducidad-de-rca/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los bomberos prevén dar esta noche por estabilizado el incendio de Les Gavarres (Girona)",
+      "url": "https://efeverde.com/los-bomberos-preven-dar-esta-noche-por-estabilizado-el-incendio-de-les-gavarres-girona/",
       "fecha": "2026-07-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Trump indulta a seis condenados por infracciones relacionadas con emisiones contaminantes",
-      "url": "https://efeverde.com/trump-indulta-a-seis-condenados-por-infracciones-relacionadas-con-emisiones-contaminantes/",
+      "titular": "Helados gigantes y zonas de agua y lluvia artificial refrescan a los animales de Bioparc",
+      "url": "https://efeverde.com/helados-gigantes-y-zonas-de-agua-y-lluvia-artificial-refrescan-a-los-animales-de-bioparc/",
       "fecha": "2026-07-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Estabilizado en un 70 % el incendio de La Bisbal, que quema una casa y una masía",
-      "url": "https://efeverde.com/estabilizado-en-un-70-el-incendio-de-la-bisbal-que-quema-una-casa-y-una-masia/",
+      "fuente": "La Tercera",
+      "titular": "Rejas en el Parque Forestal",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/rejas-en-el-parque-forestal/",
       "fecha": "2026-07-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El noroeste peninsular, en el punto de mira del fuego en un verano con los montes cargados de combustible",
-      "url": "https://efeverde.com/el-noroeste-peninsular-en-el-punto-de-mira-del-fuego-en-un-verano-con-los-montes-cargados-de-combustible/",
-      "fecha": "2026-07-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministerio del Medio Ambiente impulsa proyecto de educación ambiental en Mejillones a través del Fondo de Protección Ambiental",
-      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-impulsa-proyecto-de-educacion-ambiental-en-mejillones-a-traves-del-fondo-de-proteccion-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-impulsa-proyecto-de-educacion-ambiental-en-mejillones-a-traves-del-fondo-de-proteccion-ambiental",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Novandino Litio presentó el Estudio de Impacto Ambiental de Salar Futuro, un modelo de producción sostenible de litio en Chile.",
-      "url": "https://www.chiledesarrollosustentable.cl/novandino-litio-presento-el-estudio-de-impacto-ambiental-de-salar-futuro-un-modelo-de-produccion-sostenible-de-litio-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=novandino-litio-presento-el-estudio-de-impacto-ambiental-de-salar-futuro-un-modelo-de-produccion-sostenible-de-litio-en-chile",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Samsung Electronics publica su Informe de Sostenibilidad 2026 y expande sus esfuerzos de reposición de agua",
-      "url": "https://www.chiledesarrollosustentable.cl/samsung-electronics-publica-su-informe-de-sostenibilidad-2026-y-expande-sus-esfuerzos-de-reposicion-de-agua/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-electronics-publica-su-informe-de-sostenibilidad-2026-y-expande-sus-esfuerzos-de-reposicion-de-agua",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un incendio sin control quema 1.280 hectáreas y confina a 12.000 personas en la Costa Brava",
-      "url": "https://efeverde.com/incendio-sin-control-costa-brava/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un proyecto pionero crea una base de datos de plantas en los humedales peninsulares",
-      "url": "https://efeverde.com/proyecto-base-datos-plantas-humedales-peninsulares/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Hitos y Desafíos: Edición 200 de InduAmbiente",
-      "url": "https://www.terram.cl/hitos-y-desafios-edicion-200-de-induambiente/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Comité de Información Ambiental revisa avances del Reporte del Estado del Medio Ambiente 2026",
-      "url": "https://www.terram.cl/comite-de-informacion-ambiental-revisa-avances-del-reporte-del-estado-del-medio-ambiente-2026/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Cristian Vargas, académico UdeC, se suma a comité internacional que creará bases ambientales para tecnologías oceánicas de captura de CO₂",
-      "url": "https://www.terram.cl/cristian-vargas-academico-udec-se-suma-a-comite-internacional-que-creara-bases-ambientales-para-tecnologias-oceanicas-de-captura-de-co%e2%82%82/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Bebestibles retornables: amplían plazo para que industria masifique este formato",
-      "url": "https://www.terram.cl/bebestibles-retornables-amplian-plazo-para-que-industria-masifique-este-formato/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Reportaje devela el tráfico ilegal de ajolotes a Chile: La especie está en peligro crítico de extinción",
-      "url": "https://www.terram.cl/reportaje-devela-el-trafico-ilegal-de-ajolotes-a-chile-la-especie-esta-en-peligro-critico-de-extincion/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Close-up desde los árboles: cómo un nuevo ángulo de cámara revela los secretos de la güiña en la Patagonia",
-      "url": "https://www.terram.cl/close-up-desde-los-arboles-como-un-nuevo-angulo-de-camara-revela-los-secretos-de-la-guina-en-la-patagonia/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Rodrigo Javier Parra Pinto con Comité de Ministros del Servicio de Evaluación Ambiental». Rol: R-35-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-rodrigo-javier-parra-pinto-con-comite-de-ministros-del-servicio-de-evaluacion-ambiental-rol-r-35-2026/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF entrega 55 planes prediales a propietarios que buscan mitigar los efectos del cambio climático en la Región de Coquimbo",
-      "url": "https://www.conaf.cl/conaf-entrega-55-planes-prediales-a-propietarios-que-buscan-mitigar-los-efectos-del-cambio-climatico-en-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-entrega-55-planes-prediales-a-propietarios-que-buscan-mitigar-los-efectos-del-cambio-climatico-en-la-region-de-coquimbo",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Puchuncaví avanza en economía circular con capacitación y entrega de composteras a vecinos de Las Ventanas y La Greda",
-      "url": "https://mma.gob.cl/puchuncavi-avanza-en-economia-circular-con-capacitacion-y-entrega-de-composteras-a-vecinos-de-las-ventanas-y-la-greda/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente impulsa proyecto de educación ambiental en Mejillones a través del Fondo de Protección Ambiental",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-impulsa-proyecto-de-educacion-ambiental-en-mejillones-a-traves-del-fondo-de-proteccion-ambiental/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Adultos mayores celebraron el We Tripantu",
-      "url": "https://mma.gob.cl/adultos-mayores-celebraron-el-we-tripantu/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Avanza proyecto de parque urbano en el Humedal Laguna Pudeto – Cerro La Cruz de Punta Arenas",
-      "url": "https://mma.gob.cl/avanza-proyecto-de-parque-urbano-en-el-humedal-laguna-pudeto-cerro-la-cruz-de-punta-arenas/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Se conformó nuevo Consejo Consultivo Regional del Medio Ambiente en Magallanes",
-      "url": "https://mma.gob.cl/se-conformo-nuevo-consejo-consultivo-regional-del-medio-ambiente-en-magallanes-2/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Nación",
-      "titular": "Qué hacer en Santiago: descubre los tenedores libres que aceptan Junaeb para estudiantes",
-      "url": "https://www.lanacion.cl/que-hacer-en-santiago-descubre-los-tenedores-libres-que-aceptan-junaeb-para-estudiantes/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental rechaza reclamación de generadora y confirma inicio de revisión de RCA de Central Térmica Andino",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-rechaza-reclamacion-de-generadora-y-confirma-inicio-de-revision-de-rca-de-central-termica-andino/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA y SEC presentan herramientas para facilitar el cumplimiento de la nueva norma lumínica",
-      "url": "https://www.revistaei.cl/sma-y-sec-presentan-herramientas-para-facilitar-el-cumplimiento-de-la-nueva-norma-luminica/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
-      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
-      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
-      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
-      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
     }
   ]
 }

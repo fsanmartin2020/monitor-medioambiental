@@ -1,90 +1,54 @@
 {
-  "fecha_generacion": "2026-07-04T08:27:07.366603-04:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-07-05T08:28:57.543336-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Rodrigo Javier Parra Pinto con Comité de Ministros del Servicio de Evaluación Ambiental». Rol: R-35-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-rodrigo-javier-parra-pinto-con-comite-de-ministros-del-servicio-de-evaluacion-ambiental-rol-r-35-2026/",
-      "fecha": "2026-07-03",
+      "fuente": "La Tercera",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.latercera.com/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con fecha 03 de julio de 2026, admítase a trámite la Reclamación identificada como Rodrigo Javier Parra Pinto con Comité de Ministros del Servicio de Evaluación Ambiental. (Rol R-35-2026). Acceda al expediente electrónico de la causa en el siguiente ",
+      "extracto": "En su primera entrevista luego de ser elegido como decano de la Facultad de Economía y Negocios de la Universidad de Chile, el economista y expresidente del directorio de Codelco también muestra preocupación por el complejo momento de la economía chi",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental rechaza reclamación de generadora y confirma inicio de revisión de RCA de Central Térmica Andino",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-rechaza-reclamacion-de-generadora-y-confirma-inicio-de-revision-de-rca-de-central-termica-andino/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa consiste en la operación de una termoeléctrica y un terminal de descarga de petróleo diésel ubicado en el área industrial de Mejillones. La entrada Tribunal Ambiental rechaza reclamación de generadora y confirma inicio de revisión de RC",
+      "fuente": "Diario Constitucional",
+      "titular": "Rechazan inaplicabilidad promovida por el SEA en causa sobre caducidad de RCA",
+      "url": "https://www.diarioconstitucional.cl/2026/07/05/rechazan-inaplicabilidad-promovida-por-el-sea-en-causa-sobre-caducidad-de-rca/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
+        "SEA",
         "RCA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA y SEC presentan herramientas para facilitar el cumplimiento de la nueva norma lumínica",
-      "url": "https://www.revistaei.cl/sma-y-sec-presentan-herramientas-para-facilitar-el-cumplimiento-de-la-nueva-norma-luminica/",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La actividad permitió abordar las principales exigencias de la normativa y las herramientas disponibles para su implementación. La entrada SMA y SEC presentan herramientas para facilitar el cumplimiento de la nueva norma lumínica se publicó primero e",
+      "fuente": "Pulso",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
-      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
+      "fuente": "Pulso",
+      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
+      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
+      "fecha": "2026-07-05",
+      "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "Nova Andino Litio presenta un Estudio de Impacto Ambiental por US$3.000 millones para el proyecto Salar Futuro, que busca extender la producción de litio en el Salar de Atacama hasta 2060.",
+      "extracto": "",
       "keywords_detectadas": [
-        "EIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
-      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags",
-      "extracto": "BHP busca reactivar la faena de Cerro Colorado en Tarapacá con una inversión de US$1.500 millones, proyectando una producción anual de 130.000 toneladas de cátodos mediante un innovador sistema hídrico.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Nova Andino Litio ingresa EIA de US$3.000 millones para operar en el Salar de Atacama hasta 2060",
-      "url": "https://www.redimin.cl/nova-andino-litio-ingresa-eia-de-us3-000-millones-para-operar-en-el-salar-de-atacama-hasta-2060",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags",
-      "extracto": "Nova Andino Litio presenta un Estudio de Impacto Ambiental por US$3.000 millones para el proyecto Salar Futuro, que busca extender la producción de litio en el Salar de Atacama hasta 2060.",
-      "keywords_detectadas": [
-        "EIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "BHP ingresa al SEIA proyecto de US$1.500 millones para reabrir Cerro Colorado por 20 años",
-      "url": "https://www.redimin.cl/bhp-ingresa-al-seia-proyecto-de-us1-500-millones-para-reabrir-cerro-colorado-por-20-anos",
-      "fecha": "2026-07-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags",
-      "extracto": "BHP busca reactivar la faena de Cerro Colorado en Tarapacá con una inversión de US$1.500 millones, proyectando una producción anual de 130.000 toneladas de cátodos mediante un innovador sistema hídrico.",
-      "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     }
   ]
