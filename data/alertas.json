@@ -1,54 +1,42 @@
 {
-  "fecha_generacion": "2026-07-05T08:28:57.543336-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-07-06T10:42:38.275399-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
       "fuente": "La Tercera",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.latercera.com/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
+      "titular": "Los Cóndores se ilusionan en la World Nations Cup: “Hong Kong es un rival directo en el Mundial, hay que ganar como sea”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/los-condores-se-ilusionan-en-la-world-nations-cup-hong-kong-es-un-rival-directo-en-el-mundial-hay-que-ganar-como-sea/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En su primera entrevista luego de ser elegido como decano de la Facultad de Economía y Negocios de la Universidad de Chile, el economista y expresidente del directorio de Codelco también muestra preocupación por el complejo momento de la economía chi",
+      "extracto": "Tras debutar con el pie derecho en el torneo de preparación rumbo al Mundial 2027, la Selección Chilena de Rugby ya palpita los próximos compromisos frente a los asiáticos y Georgia, en condición de local.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Cristiano, desafiante en la previa de Portugal vs. España: “Ojalá no sea mi último partido, así me pueden seguir matando”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-desafiante-en-la-previa-de-portugal-vs-espana-ojala-no-sea-mi-ultimo-partido-asi-me-pueden-seguir-matando/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "CR7 aborda la posibilidad de disputar su último partido en una Copa del Mundo. También respondió a las críticas por su rendimiento.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Rechazan inaplicabilidad promovida por el SEA en causa sobre caducidad de RCA",
-      "url": "https://www.diarioconstitucional.cl/2026/07/05/rechazan-inaplicabilidad-promovida-por-el-sea-en-causa-sobre-caducidad-de-rca/",
-      "fecha": "2026-07-05",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
+      "url": "https://www.diarioconstitucional.cl/2026/07/06/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
+      "fecha": "2026-07-06",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "SEA",
+        "Tribunal Ambiental",
         "RCA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
       ]
     }
   ]

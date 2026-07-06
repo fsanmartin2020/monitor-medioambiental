@@ -1,85 +1,117 @@
 {
-  "fecha_actualizacion": "2026-07-05T08:28:57.530213-04:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-07-06T10:42:38.263359-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Levantan el confinamiento por el incendio de La Bisbal, estabilizado tras quemar 2.300 hectáreas",
-      "url": "https://efeverde.com/levantan-el-confinamiento-por-el-incendio-de-la-bisbal-estabilizado-tras-quemar-2-300-hectareas/",
-      "fecha": "2026-07-05",
+      "fuente": "País Circular",
+      "titular": "Crece Sostenible – Haz Crecer tu Negocio con Sostenibilidad: Ventajas y Nuevas Oportunidades",
+      "url": "https://www.paiscircular.cl/videos/crece-sostenible-haz-crecer-tu-negocio-con-sostenibilidad-ventajas-y-nuevas-oportunidades/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "¿Pisos laminados de madera o pisos plásticos? Estudio determinó diferencias relevantes en el impacto ambiental de uno y otro",
+      "url": "https://www.paiscircular.cl/medio-ambiente/laminados/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Catorce comunidades activan avisos por altas temperaturas en el inicio de la ola de calor",
-      "url": "https://efeverde.com/catorce-comunidades-activan-avisos-por-altas-temperaturas-en-el-inicio-de-la-ola-de-calor/",
-      "fecha": "2026-07-05",
+      "titular": "Un día más de lo previsto: la Aemet alarga esta segunda ola de calor del verano que finalizará el jueves",
+      "url": "https://efeverde.com/un-dia-mas-de-lo-previsto-aemet-alarga-segunda-ola-de-calor-del-verano/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Muere ‘Poderoso’, el oso que se convirtió en símbolo de la naturaleza para los niños",
-      "url": "https://efeverde.com/muere-poderoso-el-oso-que-se-convirtio-en-simbolo-de-la-naturaleza/",
-      "fecha": "2026-07-05",
+      "titular": "El calor, el viento y las negligencias, causas de los incendios forestales que arrasan el sur de Europa",
+      "url": "https://efeverde.com/calor-viento-negligencias-causas-incendios-forestales-sur-de-europa/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un Mundial bajo las lluvias. Por Judith Domínguez",
+      "url": "https://efeverde.com/un-mundial-bajo-las-lluvias-por-judith-dominguez/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Pendientes del calor y del viento para dar por controlado incendio de La Bisbal (Girona), mientras 500 personas siguen desalojadas en Castellón",
+      "url": "https://efeverde.com/pendientes-del-calor-y-del-viento-para-dar-por-controlado-incendio-de-la-bisbal-girona-mientras-500-personas-siguen-desalojadas-en-castellon/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Toda España bajo aviso por calor, con quince CCAA en nivel naranja y dos en amarillo",
+      "url": "https://efeverde.com/toda-espana-bajo-aviso-por-calor-con-quince-ccaa-en-nivel-naranja-y-dos-en-amarillo/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Limitar las especies que pueden ser mascotas, clave para garantizar su salud y la nuestra",
+      "url": "https://efeverde.com/limitar-las-especies-que-pueden-ser-mascotas-clave-para-garantizar-su-salud-y-la-nuestra/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La lucha contra el calentamiento global comienza en el barrio",
+      "url": "https://efeverde.com/lucha-contra-calentamiento-global-comienza-barrio/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Chile recupera más de 200 variedades tradicionales de porotos tras 40 años en el extranjero",
+      "url": "https://www.terram.cl/chile-recupera-mas-de-200-variedades-tradicionales-de-porotos-tras-40-anos-en-el-extranjero/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.latercera.com/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
+      "titular": "Los Cóndores se ilusionan en la World Nations Cup: “Hong Kong es un rival directo en el Mundial, hay que ganar como sea”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/los-condores-se-ilusionan-en-la-world-nations-cup-hong-kong-es-un-rival-directo-en-el-mundial-hay-que-ganar-como-sea/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Cristiano, desafiante en la previa de Portugal vs. España: “Ojalá no sea mi último partido, así me pueden seguir matando”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-desafiante-en-la-previa-de-portugal-vs-espana-ojala-no-sea-mi-ultimo-partido-asi-me-pueden-seguir-matando/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Rechazan inaplicabilidad promovida por el SEA en causa sobre caducidad de RCA",
-      "url": "https://www.diarioconstitucional.cl/2026/07/05/rechazan-inaplicabilidad-promovida-por-el-sea-en-causa-sobre-caducidad-de-rca/",
-      "fecha": "2026-07-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Oscar Landerretche, nuevo decano: “Nuestro objetivo es que la FEN sea la mejor facultad de economía y negocios de América Latina”",
-      "url": "https://www.pulso.cl/pulso/noticia/oscar-landerretche-nuevo-decano-nuestro-objetivo-es-que-la-fen-sea-la-mejor-facultad-de-economia-y-negocios-de-america-latina/",
-      "fecha": "2026-07-05",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
+      "url": "https://www.diarioconstitucional.cl/2026/07/06/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
+      "fecha": "2026-07-06",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los bomberos prevén dar esta noche por estabilizado el incendio de Les Gavarres (Girona)",
-      "url": "https://efeverde.com/los-bomberos-preven-dar-esta-noche-por-estabilizado-el-incendio-de-les-gavarres-girona/",
-      "fecha": "2026-07-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Helados gigantes y zonas de agua y lluvia artificial refrescan a los animales de Bioparc",
-      "url": "https://efeverde.com/helados-gigantes-y-zonas-de-agua-y-lluvia-artificial-refrescan-a-los-animales-de-bioparc/",
-      "fecha": "2026-07-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Rejas en el Parque Forestal",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/rejas-en-el-parque-forestal/",
-      "fecha": "2026-07-04",
+      "titular": "Los bomberos luchan por controlar el fuego de La Bisbal (Girona), con la amenaza del calor",
+      "url": "https://efeverde.com/los-bomberos-luchan-por-controlar-el-fuego-de-la-bisbal-girona-con-la-amenaza-del-calor/",
+      "fecha": "2026-07-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
