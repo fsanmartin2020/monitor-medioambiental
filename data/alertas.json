@@ -1,42 +1,42 @@
 {
-  "fecha_generacion": "2026-07-06T10:42:38.275399-04:00",
+  "fecha_generacion": "2026-07-07T09:39:01.557950-04:00",
   "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Los Cóndores se ilusionan en la World Nations Cup: “Hong Kong es un rival directo en el Mundial, hay que ganar como sea”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/los-condores-se-ilusionan-en-la-world-nations-cup-hong-kong-es-un-rival-directo-en-el-mundial-hay-que-ganar-como-sea/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Tras debutar con el pie derecho en el torneo de preparación rumbo al Mundial 2027, la Selección Chilena de Rugby ya palpita los próximos compromisos frente a los asiáticos y Georgia, en condición de local.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Cristiano, desafiante en la previa de Portugal vs. España: “Ojalá no sea mi último partido, así me pueden seguir matando”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-desafiante-en-la-previa-de-portugal-vs-espana-ojala-no-sea-mi-ultimo-partido-asi-me-pueden-seguir-matando/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "CR7 aborda la posibilidad de disputar su último partido en una Copa del Mundo. También respondió a las críticas por su rendimiento.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
-      "url": "https://www.diarioconstitucional.cl/2026/07/06/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
-      "fecha": "2026-07-06",
+      "fuente": "La Segunda",
+      "titular": "Tribunal Ambiental confirma aprobación de planta fotovoltaica en Quilicura",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114271/tribunal-ambiental-quilicura",
+      "fecha": "2026-07-07",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
+      "url": "https://www.terram.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El tribunal sostuvo que, en esta etapa inicial, la autoridad no debía acreditar de manera definitiva una variación sustantiva de las variables ambientales, sino contar con antecedentes serios y técnicamente pertinentes que hicieran plausible su revis",
+      "keywords_detectadas": [
         "Tribunal Ambiental",
         "RCA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental confirma aprobación ambiental de proyecto fotovoltaico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-aprobacion-ambiental-de-proyecto-fotovoltaico/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se descartaron las alegaciones de los reclamantes respecto de vicios en la evaluación de la iniciativa. La entrada Tribunal Ambiental confirma aprobación ambiental de proyecto fotovoltaico se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]

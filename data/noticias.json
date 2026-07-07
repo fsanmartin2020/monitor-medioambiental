@@ -1,117 +1,205 @@
 {
-  "fecha_actualizacion": "2026-07-06T10:42:38.263359-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-07-07T09:39:01.543638-04:00",
+  "total": 25,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Crece Sostenible – Haz Crecer tu Negocio con Sostenibilidad: Ventajas y Nuevas Oportunidades",
-      "url": "https://www.paiscircular.cl/videos/crece-sostenible-haz-crecer-tu-negocio-con-sostenibilidad-ventajas-y-nuevas-oportunidades/",
-      "fecha": "2026-07-06",
+      "fuente": "EFE Verde",
+      "titular": "Aemet: Junio de 2026 fue el segundo más cálido y el tercero más seco de la serie histórica",
+      "url": "https://efeverde.com/aemet-junio-2026/",
+      "fecha": "2026-07-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "¿Pisos laminados de madera o pisos plásticos? Estudio determinó diferencias relevantes en el impacto ambiental de uno y otro",
-      "url": "https://www.paiscircular.cl/medio-ambiente/laminados/",
+      "fuente": "EFE Verde",
+      "titular": "Pez globo estrellado o salmonete cinabrio, los próximos peces que invadirán el Mediterráneo desde el mar Rojo",
+      "url": "https://efeverde.com/pez-globo-estrellado-o-salmonete-cinabrio-los-proximos-peces-que-invadiran-el-mediterraneo-desde-el-mar-rojo/",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Olivos, fresnos, nísperos, plataneros y naranjos, aliados contra el calor en las ciudades",
+      "url": "https://efeverde.com/arboles-aliados-contra-calor-ciudades/",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Ayuntamiento de Carboneras anula la licencia de El Algarrobico",
+      "url": "https://efeverde.com/ayuntamiento-carboneras-anular-licencia-el-algarrobico/",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Reducir un 10 % la mortalidad del lobo ibérico mejoraría su estado de conservación",
+      "url": "https://efeverde.com/reducir-un-10-la-mortalidad-del-lobo-iberico-mejoraria-su-estado-de-conservacion/",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Programa de Emergencia de Empleo de CONAF entregó 2.800 árboles nativos y ornamentales a siete comunas de la región de O’Higgins",
+      "url": "https://www.conaf.cl/programa-de-emergencia-de-empleo-de-conaf-entrego-2-800-arboles-nativos-y-ornamentales-a-siete-comunas-de-la-region-de-ohiggins/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-emergencia-de-empleo-de-conaf-entrego-2-800-arboles-nativos-y-ornamentales-a-siete-comunas-de-la-region-de-ohiggins",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Programa +Bosques: CONAF realizará restauración ecológica en el Parque Pangal en Maullín",
+      "url": "https://www.conaf.cl/programa-bosques-conaf-realizara-restauracion-ecologica-en-el-parque-pangal-en-maullin/?utm_source=rss&utm_medium=rss&utm_campaign=programa-bosques-conaf-realizara-restauracion-ecologica-en-el-parque-pangal-en-maullin",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Escuela Rural Samuel Castillo López se consolida como referente ambiental en Freirina",
+      "url": "https://mma.gob.cl/escuela-rural-samuel-castillo-lopez-se-consolida-como-referente-ambiental-en-freirina/",
+      "fecha": "2026-07-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Tribunal Ambiental confirma aprobación de planta fotovoltaica en Quilicura",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114271/tribunal-ambiental-quilicura",
+      "fecha": "2026-07-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La quema mundial de biomasa en 2026 está en el nivel más bajo de emisiones desde que hay registros",
+      "url": "https://efeverde.com/quema-mundial-de-biomasa-2026/",
       "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un día más de lo previsto: la Aemet alarga esta segunda ola de calor del verano que finalizará el jueves",
-      "url": "https://efeverde.com/un-dia-mas-de-lo-previsto-aemet-alarga-segunda-ola-de-calor-del-verano/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calor, el viento y las negligencias, causas de los incendios forestales que arrasan el sur de Europa",
-      "url": "https://efeverde.com/calor-viento-negligencias-causas-incendios-forestales-sur-de-europa/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un Mundial bajo las lluvias. Por Judith Domínguez",
-      "url": "https://efeverde.com/un-mundial-bajo-las-lluvias-por-judith-dominguez/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Pendientes del calor y del viento para dar por controlado incendio de La Bisbal (Girona), mientras 500 personas siguen desalojadas en Castellón",
-      "url": "https://efeverde.com/pendientes-del-calor-y-del-viento-para-dar-por-controlado-incendio-de-la-bisbal-girona-mientras-500-personas-siguen-desalojadas-en-castellon/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Toda España bajo aviso por calor, con quince CCAA en nivel naranja y dos en amarillo",
-      "url": "https://efeverde.com/toda-espana-bajo-aviso-por-calor-con-quince-ccaa-en-nivel-naranja-y-dos-en-amarillo/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Limitar las especies que pueden ser mascotas, clave para garantizar su salud y la nuestra",
-      "url": "https://efeverde.com/limitar-las-especies-que-pueden-ser-mascotas-clave-para-garantizar-su-salud-y-la-nuestra/",
-      "fecha": "2026-07-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La lucha contra el calentamiento global comienza en el barrio",
-      "url": "https://efeverde.com/lucha-contra-calentamiento-global-comienza-barrio/",
+      "titular": "Una ola de calor marina podría afectar este año al 40 % de la superficie oceánica mundial, según la NOAA",
+      "url": "https://efeverde.com/ola-de-calor-marina-superficie-oceanica-mundial-segun-noaa/",
       "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Chile recupera más de 200 variedades tradicionales de porotos tras 40 años en el extranjero",
-      "url": "https://www.terram.cl/chile-recupera-mas-de-200-variedades-tradicionales-de-porotos-tras-40-anos-en-el-extranjero/",
+      "titular": "Salmones y proyecto de Ley de Reconstrucción",
+      "url": "https://www.terram.cl/salmones-y-proyecto-de-ley-de-reconstruccion/",
       "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Los Cóndores se ilusionan en la World Nations Cup: “Hong Kong es un rival directo en el Mundial, hay que ganar como sea”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/los-condores-se-ilusionan-en-la-world-nations-cup-hong-kong-es-un-rival-directo-en-el-mundial-hay-que-ganar-como-sea/",
+      "fuente": "Terram",
+      "titular": "Video revela presunto “maquillaje” de salmón en plantas clandestinas entre Calbuco y Puerto Montt",
+      "url": "https://www.terram.cl/video-revela-presunto-maquillaje-de-salmon-en-plantas-clandestinas-entre-calbuco-y-puerto-montt/",
       "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Cristiano, desafiante en la previa de Portugal vs. España: “Ojalá no sea mi último partido, así me pueden seguir matando”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-desafiante-en-la-previa-de-portugal-vs-espana-ojala-no-sea-mi-ultimo-partido-asi-me-pueden-seguir-matando/",
+      "fuente": "Terram",
+      "titular": "Presión inmobiliaria reactivada en las dunas de Concón: Aprueban tercer proyecto en lo que va del año",
+      "url": "https://www.terram.cl/presion-inmobiliaria-reactivada-en-las-dunas-de-concon-aprueban-tercer-proyecto-en-lo-que-va-del-ano/",
       "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
+      "fuente": "Terram",
       "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
-      "url": "https://www.diarioconstitucional.cl/2026/07/06/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
+      "url": "https://www.terram.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
       "fecha": "2026-07-06",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los bomberos luchan por controlar el fuego de La Bisbal (Girona), con la amenaza del calor",
-      "url": "https://efeverde.com/los-bomberos-luchan-por-controlar-el-fuego-de-la-bisbal-girona-con-la-amenaza-del-calor/",
-      "fecha": "2026-07-05",
+      "fuente": "Terram",
+      "titular": "Residuos marinos: CGR detecta retrasos en la implementación de estrategia nacional",
+      "url": "https://www.terram.cl/residuos-marinos-cgr-detecta-retrasos-en-la-implementacion-de-estrategia-nacional/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "La visita de Al Gore y la tarea pendiente",
+      "url": "https://www.fima.cl/2026/07/06/la-visita-de-al-gore-y-la-tarea-pendiente/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "15/07/2026: Fija audiencia en caso de «Estado de Chile con Forestal Arauco S.A.», Rol: D-2-2025",
+      "url": "https://3ta.cl/audiencias/15-07-2026-fija-audiencia-en-caso-de-estado-de-chile-con-forestal-arauco-s-a-rol-d-2-2025/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Consejos de la sociedad civil cosoc",
+      "url": "https://www.sernapesca.cl/participacion_ciudadana/consejos-de-la-sociedad-civil-cosoc/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Cuenta publica participativa 2026",
+      "url": "https://www.sernapesca.cl/cuenta-publica-participativa-2026/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Ministro de Agricultura fija prioridades para fortalecer el desarrollo agrícola con foco en riego y fomento forestal",
+      "url": "https://www.conaf.cl/ministro-de-agricultura-fija-prioridades-para-fortalecer-el-desarrollo-agricola-con-foco-en-riego-y-fomento-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-de-agricultura-fija-prioridades-para-fortalecer-el-desarrollo-agricola-con-foco-en-riego-y-fomento-forestal",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "DGA lidera Mesas Estratégicas de Recursos Hídricos en Vallenar y Copiapó",
+      "url": "https://dga.mop.gob.cl/dga-lidera-mesas-estrategicas-de-recursos-hidricos-en-vallenar-y-copiapo/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades impulsan plan de arborización para mejorar la calidad del aire en Andacollo",
+      "url": "https://mma.gob.cl/autoridades-impulsan-plan-de-arborizacion-para-mejorar-la-calidad-del-aire-en-andacollo/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario José Ignacio Vial participa en sexta reunión del Comité Científico Asesor de Cambio Climático",
+      "url": "https://mma.gob.cl/subsecretario-jose-ignacio-vial-participa-en-sexta-reunion-del-comite-cientifico-asesor-de-cambio-climatico/",
+      "fecha": "2026-07-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental confirma aprobación ambiental de proyecto fotovoltaico",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-aprobacion-ambiental-de-proyecto-fotovoltaico/",
+      "fecha": "2026-07-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
