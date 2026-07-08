@@ -1,42 +1,29 @@
 {
-  "fecha_generacion": "2026-07-07T09:39:01.557950-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-07-08T08:35:42.528089-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Segunda",
-      "titular": "Tribunal Ambiental confirma aprobación de planta fotovoltaica en Quilicura",
-      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114271/tribunal-ambiental-quilicura",
-      "fecha": "2026-07-07",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
       "fuente": "Terram",
-      "titular": "Primer Tribunal Ambiental rechaza reclamación de ENGIE por inicio de proceso de revisión de RCA de la Central Térmica Andino",
-      "url": "https://www.terram.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-engie-por-inicio-de-proceso-de-revision-de-rca-de-la-central-termica-andino/",
-      "fecha": "2026-07-06",
+      "titular": "SEA admite a trámite reclamación del Movimiento Defensa Humedal Paicaví por proyecto inmobiliario",
+      "url": "https://www.terram.cl/sea-admite-a-tramite-reclamacion-del-movimiento-defensa-humedal-paicavi-por-proyecto-inmobiliario/",
+      "fecha": "2026-07-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El tribunal sostuvo que, en esta etapa inicial, la autoridad no debía acreditar de manera definitiva una variación sustantiva de las variables ambientales, sino contar con antecedentes serios y técnicamente pertinentes que hicieran plausible su revis",
+      "extracto": "La Dirección Ejecutiva del SEA resolvió admitir a trámite la reclamación presentada por el Movimiento Defensa Humedal Paicaví contra el proyecto Fuentes de Aníbal Pinto II y II, mientras que declaró inadmisible el recurso interpuesto por la Municipal",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental confirma aprobación ambiental de proyecto fotovoltaico",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-confirma-aprobacion-ambiental-de-proyecto-fotovoltaico/",
-      "fecha": "2026-07-06",
+      "fuente": "SMA",
+      "titular": "SMA avanza en la implementación de norma histórica para la protección del río Valdivia",
+      "url": "https://portal.sma.gob.cl/index.php/sma-avanza-en-la-implementacion-de-norma-historica-para-la-proteccion-del-rio-valdivia/",
+      "fecha": "2026-07-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se descartaron las alegaciones de los reclamantes respecto de vicios en la evaluación de la iniciativa. La entrada Tribunal Ambiental confirma aprobación ambiental de proyecto fotovoltaico se publicó primero en Revista Electricidad .",
+      "extracto": "En este contexto, la Superintendencia del Medio Ambiente inspecciona futuros puntos de monitoreo a lo largo de toda la cuenca del río Valdivia, en coordinación con distintos servicios públicos y con trabajo en terreno. La Superintendencia del Medio A",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
       ]
     }
   ]
