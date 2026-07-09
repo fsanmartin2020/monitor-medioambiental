@@ -1,229 +1,245 @@
 {
-  "fecha_actualizacion": "2026-07-08T08:35:42.513540-04:00",
-  "total": 28,
+  "fecha_actualizacion": "2026-07-09T10:04:04.735808-04:00",
+  "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Hasta este viernes se puede participar en proceso de Información Pública para la actualización de la guía de delimitación de humedales urbanos",
-      "url": "https://www.paiscircular.cl/agua/hasta-este-viernes-se-puede-participar-en-proceso-de-informacion-publica-para-la-actualizacion-de-la-guia-de-delimitacion-de-humedales-urbanos/",
+      "titular": "Municipios de la Región Metropolitana avanzan en implementar políticas contra el cambio climático desde su rol como “primera línea de acción”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/somos-la-primera-linea-de-accion-los-avances-y-desafios-que-enfrentan-municipios-en-la-lucha-contra-el-cambio-climatico/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Vivienda y cambio climático: expertos llaman a transformar los estándares constructivos para enfrentar los desafíos del sector",
+      "url": "https://codexverde.cl/vivienda-y-cambio-climatico-expertos-llaman-a-transformar-los-estandares-constructivos-para-enfrentar-los-desafios-del-sector/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La actualización de la Lista Roja de la UICN eleva a más de 49.500 las especies amenazadas de extinción",
+      "url": "https://efeverde.com/actualizacion-lista-roja-de-uicn/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Rioja vuelve a catalogar al lobo como especie de interés cinegético, cazable como jabalíes, corzos y ciervos",
+      "url": "https://efeverde.com/la-rioja-vuelve-a-catalogar-al-lobo-como-especie-de-interes-cinegetico-cazable-como-jabalies-corzos-y-ciervos/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España aportó solo entre un 8 y un 12 % de la financiación climática que dijo destinar al Sur Global en 2024",
+      "url": "https://efeverde.com/espana-aporto-8-12-financiacion-climatica-comprometida/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La ola de calor llevó a junio a ser el más caliente en Europa occidental",
+      "url": "https://efeverde.com/ola-calor-junio-mas-caliente-europa-occidental/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Estabilizados los seis incendios forestales que permanecen activos en Cataluña",
+      "url": "https://efeverde.com/estabilizados-los-seis-incendios-forestales-que-permanecen-activos-en-cataluna/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Thyssen reivindica el papel de los museos como espacios para informar y crear conciencia",
+      "url": "https://efeverde.com/el-thyssen-reivindica-el-papel-de-los-museos-como-espacios-para-informar-y-crear-conciencia/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Felipe Alessandri: “Sobre un proyecto de coalición, hoy no están las confianzas, pero avanzaría para allá”",
+      "url": "https://www.lasegunda.com/Noticias/Conversacion/2026/07/1114325/kast-republicanos-libertarios-chile-vamos",
+      "fecha": "2026-07-09",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Transparencia y control: señales para comparar casinos online en Chile",
+      "url": "https://www.paiscircular.cl/tendencias/transparencia-y-control-senales-para-comparar-casinos-online/",
+      "fecha": "2026-07-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Comisión de Medio Ambiente del Senado despachó megarreforma tras sesión marcada por debate en torno a restitución de gastos por anulación de RCA",
+      "url": "https://www.paiscircular.cl/medio-ambiente/comision-de-medio-ambiente-despacho-megarreforma-tras-sesion-marcada-por-debate-en-torno-a-restitucion-de-gastos-por-anulacion-de-rca/",
       "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Chile eliminó las bolsas plásticas. Ahora debe eliminar las mentiras verdes.",
-      "url": "https://www.chiledesarrollosustentable.cl/chile-elimino-las-bolsas-plasticas-ahora-debe-eliminar-las-mentiras-verdes/?utm_source=rss&utm_medium=rss&utm_campaign=chile-elimino-las-bolsas-plasticas-ahora-debe-eliminar-las-mentiras-verdes",
+      "titular": "PepsiCo Chile se adhiere Acuerdo de Producción Limpia para impulsar sistemas alimentarios más sostenibles y fortalecer la economía circular",
+      "url": "https://www.chiledesarrollosustentable.cl/pepsico-chile-se-adhiere-acuerdo-de-produccion-limpia-para-impulsar-sistemas-alimentarios-mas-sostenibles-y-fortalecer-la-economia-circular/?utm_source=rss&utm_medium=rss&utm_campaign=pepsico-chile-se-adhiere-acuerdo-de-produccion-limpia-para-impulsar-sistemas-alimentarios-mas-sostenibles-y-fortalecer-la-economia-circular",
+      "fecha": "2026-07-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Subsecretario José Ignacio Vial participa en sexta reunión del Comité Científico Asesor de Cambio Climático",
+      "url": "https://www.chiledesarrollosustentable.cl/subsecretario-jose-ignacio-vial-participa-en-sexta-reunion-del-comite-cientifico-asesor-de-cambio-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-jose-ignacio-vial-participa-en-sexta-reunion-del-comite-cientifico-asesor-de-cambio-climatico",
       "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Chile lidera en cargadores para electromovilidad en América Latina",
-      "url": "https://codexverde.cl/chile-lidera-en-cargadores-para-electromovilidad-en-america-latina/",
+      "titular": "Premio Territorio Circular extiende plazo de postulación hasta el 20 de julio",
+      "url": "https://codexverde.cl/premio-territorio-circular-extiende-plazo-de-postulacion-hasta-el-20-de-julio/",
       "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calor extremo dispara el riesgo de incendios forestales: qué no hacer en el campo",
-      "url": "https://efeverde.com/calor-extremo-riesgo-de-incendios-forestales-que-no-hacer-en-el-campo/",
-      "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Pulgas y garrapatas en invierno y en verano. Por Alejandra Botto",
-      "url": "https://efeverde.com/pulgas-y-garrapatas-en-invierno-y-en-verano-por-alejandra-botto/",
-      "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calor se resiste a marcharse: 15 comunidades en aviso, Cataluña y Valencia en rojo",
-      "url": "https://efeverde.com/el-calor-se-resiste-a-marcharse-15-comunidades-en-aviso-cataluna-y-valencia-en-rojo/",
-      "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Trabajar a más de 40 grados en el campo: entre la ley y la realidad",
-      "url": "https://efeverde.com/trabajar-40-grados-campo-entre-la-ley-y-la-realidad/",
-      "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Nueva indicación del gobierno tensiona discusión de la megarreforma y provoca retiro de senadores de oposición de la comisión de Medio Ambiente",
-      "url": "https://www.latercera.com/politica/noticia/senadores-de-oposicion-abandonan-discusion-de-megarreforma-en-medio-ambiente-acusando-una-indicacion-fuerza-de-plazo-del-ejecutivo/",
-      "fecha": "2026-07-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Con un viñedo orgánico dentro de Santiago y dos terroirs únicos, Viña Aquitania inicia un nuevo ciclo liderado por su segunda generación",
-      "url": "https://www.paiscircular.cl/empresa-e-innovacion/con-un-vinedo-organico-dentro-de-santiago-y-dos-terroirs-unicos-vina-aquitania-inicia-un-nuevo-ciclo-liderado-por-su-segunda-generacion/",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Proyecto de Ley de Reconstrucción Nacional: Extenuante sesión marca antesala de la votación en Comisión de Medio Ambiente del Senado",
-      "url": "https://www.paiscircular.cl/medio-ambiente/proyecto-de-ley-de-reconstruccion-nacional-extenuante-sesion-marca-antesala-a-la-votacion-en-comision-de-medio-ambiente/",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "NESCAFÉ obtiene más del 50% de su suministro de café de agricultores que adoptan prácticas de agricultura regenerativa",
-      "url": "https://www.paiscircular.cl/biodiversidad/nescafe-obtiene-mas-del-50-de-su-suministro-de-cafe-de-agricultores-que-adoptan-practicas-de-agricultura-regenerativa/",
-      "fecha": "2026-07-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Investigadores nacionales desarrollan tecnología para reciclar membranas de plantas desalinizadoras y reducir su impacto ambiental",
-      "url": "https://codexverde.cl/investigadores-nacionales-desarrollan-tecnologia-para-reciclar-membranas-de-plantas-desalinizadoras-y-reducir-su-impacto-ambiental/",
-      "fecha": "2026-07-07",
+      "titular": "Peligro en el Mundial: olas de calor extremo amenazan a jugadores y aficionados",
+      "url": "https://codexverde.cl/olas-de-calor-extremo-amenazan-a-jugadores-y-aficionados/",
+      "fecha": "2026-07-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Banco Mundial da un giro y abandona su meta de financiamiento climático",
+      "url": "https://codexverde.cl/banco-mundial-da-un-giro-y-abandona-su-meta-de-financiamiento-climatico/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cataluña sufre un segundo día de calor intenso con incendios simultáneos y confinamientos",
-      "url": "https://efeverde.com/cataluna-incendios-simultaneos-y-confinamientos/",
-      "fecha": "2026-07-07",
+      "titular": "El «ruido de fondo» de la desinformación científica en tiempos de IA: las vacunas dan paso a la nutrición y el cambio climático",
+      "url": "https://efeverde.com/ruido-fondo-desinformacion-cientifica-ia-cambio-climatico/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La anulación de la licencia de obras acerca la demolición del hotel de El Algarrobico (Almería)",
-      "url": "https://efeverde.com/anulacion-licencia-obras-acerca-demolicion-hotel-el-algarrobico/",
-      "fecha": "2026-07-07",
+      "titular": "Los incendios forestales no dan tregua en Cataluña, con 6.000 confinados en Gavà (Barcelona)",
+      "url": "https://efeverde.com/los-incendios-forestales-no-dan-tregua-en-cataluna/",
+      "fecha": "2026-07-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La cultura y conocimientos de la Amazonía, en peligro por la pérdida de especies vegetales",
+      "url": "https://efeverde.com/conocimiento-amazonia-peligro-perdida-plantas/",
+      "fecha": "2026-07-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Viva San Fermín. Por May",
+      "url": "https://efeverde.com/viva-san-fermin-may-mundomay/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Oposición presenta 22 indicaciones por “vicios de inconstitucionalidad” ambiental en megarreforma",
-      "url": "https://www.terram.cl/oposicion-presenta-22-indicaciones-por-vicios-de-inconstitucionalidad-ambiental-en-megarreforma/",
-      "fecha": "2026-07-07",
+      "titular": "Tensión en la madrugada: Comisión de Medio Ambiente del Senadi despacha «Megarreforma de Reconstrucción» tras el abandono de la oposición",
+      "url": "https://www.terram.cl/tension-en-la-madrugada-comision-de-medio-ambiente-del-senadi-despacha-megarreforma-de-reconstruccion-tras-el-abandono-de-la-oposicion/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Estudio analiza cómo las pesquerías amenazan a las aves marinas",
-      "url": "https://www.terram.cl/estudio-analiza-como-las-pesquerias-amenazan-a-las-aves-marinas/",
-      "fecha": "2026-07-07",
+      "titular": "Alarma meteorológica en el sur: intensas lluvias provocan anegamientos, cortes de rutas y deslizamientos de material",
+      "url": "https://www.terram.cl/alarma-meteorologica-en-el-sur-intensas-lluvias-provocan-anegamientos-cortes-de-rutas-y-deslizamientos-de-material/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Corte desestima recurso municipal y ratifica la aprobación ambiental de un proyecto solar en Quilicura",
-      "url": "https://www.terram.cl/corte-desestima-recurso-municipal-y-ratifica-la-aprobacion-ambiental-de-un-proyecto-solar-en-quilicura/",
-      "fecha": "2026-07-07",
+      "titular": "Estudio U. de Chile advierte los desafíos ambientales y sociales que plantea la minería submarina",
+      "url": "https://www.terram.cl/estudio-u-de-chile-advierte-los-desafios-ambientales-y-sociales-que-plantea-la-mineria-submarina/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Contaminación en Vichuquén: Informe plantea restaurar el suelo y el bosque nativo para limpiar el lago",
-      "url": "https://www.terram.cl/contaminacion-en-vichuquen-informe-plantea-restaurar-el-suelo-y-el-bosque-nativo-para-limpiar-el-lago/",
-      "fecha": "2026-07-07",
+      "titular": "Contra la sequía: Los “mini humedales” que se construyeron para el parque Cerro Chena, hoy en disputa",
+      "url": "https://www.terram.cl/contra-la-sequia-los-mini-humedales-que-se-construyeron-para-el-parque-cerro-chena-hoy-en-disputa/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "SEA admite a trámite reclamación del Movimiento Defensa Humedal Paicaví por proyecto inmobiliario",
-      "url": "https://www.terram.cl/sea-admite-a-tramite-reclamacion-del-movimiento-defensa-humedal-paicavi-por-proyecto-inmobiliario/",
-      "fecha": "2026-07-07",
+      "titular": "Avanza la implementación de norma histórica para la protección del río Valdivia",
+      "url": "https://www.terram.cl/avanza-la-implementacion-de-norma-historica-para-la-proteccion-del-rio-valdivia/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Chile: pescadores artesanales frenan con sus refugios marinos el crecimiento descontrolado del erizo negro y reviven los bosques submarinos",
-      "url": "https://www.terram.cl/chile-pescadores-artesanales-frenan-con-sus-refugios-marinos-el-crecimiento-descontrolado-del-erizo-negro-y-reviven-los-bosques-submarinos/",
-      "fecha": "2026-07-07",
+      "titular": "Investigación rastreará cómo la basura marina transporta especies por el Pacífico",
+      "url": "https://www.terram.cl/investigacion-rastreara-como-la-basura-marina-transporta-especies-por-el-pacifico/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "FIMA",
-      "titular": "Chile está desmantelando la protección del ambiente en nombre de la recuperación económica",
-      "url": "https://www.fima.cl/2026/07/07/chile-esta-desmantelando-la-proteccion-del-ambiente-en-nombre-de-la-recuperacion-economica/",
-      "fecha": "2026-07-07",
+      "titular": "Concurso de SURGENCIA ya tiene ganadores: estas serán las obras que formarán parte de la primera edición de la revista",
+      "url": "https://www.fima.cl/2026/07/08/concurso-de-surgencia-ya-tiene-ganadores-estas-seran-las-obras-que-formaran-parte-de-la-primera-edicion-de-la-revista/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF extiende plazo para postular a los Concursos del Fondo de Conservación, Recuperación y Manejo Sustentable del bosque Nativo",
-      "url": "https://www.conaf.cl/conaf-extiende-plazo-para-postular-a-los-concursos-del-fondo-de-conservacion-recuperacion-y-manejo-sustentable-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-extiende-plazo-para-postular-a-los-concursos-del-fondo-de-conservacion-recuperacion-y-manejo-sustentable-del-bosque-nativo",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF levanta parcialmente la restricción del uso del fuego en la Región del Biobío",
-      "url": "https://www.conaf.cl/conaf-levanta-parcialmente-la-restriccion-del-uso-del-fuego-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-levanta-parcialmente-la-restriccion-del-uso-del-fuego-en-la-region-del-biobio",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA avanza en la implementación de norma histórica para la protección del río Valdivia",
-      "url": "https://portal.sma.gob.cl/index.php/sma-avanza-en-la-implementacion-de-norma-historica-para-la-proteccion-del-rio-valdivia/",
-      "fecha": "2026-07-07",
+      "titular": "CONAF realiza charlas para comunidad educativa de Cerro Guido en prevención de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-realiza-charlas-para-comunidad-educativa-de-cerro-guido-en-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realiza-charlas-para-comunidad-educativa-de-cerro-guido-en-prevencion-de-incendios-forestales",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente de Antofagasta entregó certificación ambiental a tres establecimientos educacionales de Calama",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-antofagasta-entrego-certificacion-ambiental-a-tres-establecimientos-educacionales-de-calama/",
-      "fecha": "2026-07-07",
+      "titular": "Región del Biobío inicia elaboración de Planes de Restauración Ecológica",
+      "url": "https://mma.gob.cl/region-del-biobio-inicia-elaboracion-de-planes-de-restauracion-ecologica/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seminario de «rewilding» reúne a expertos y autoridades en la Región de Aysén",
-      "url": "https://mma.gob.cl/seminario-de-rewilding-reune-a-expertos-y-autoridades-en-la-region-de-aysen/",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Uso de mascarilla y mantener solo un calefactor a leña son acciones que se deben aplicar en días de mala calidad del aire",
-      "url": "https://mma.gob.cl/uso-de-mascarilla-y-mantener-solo-un-calefactor-a-lena-son-acciones-que-se-deben-aplicar-en-dias-de-mala-calidad-del-aire/",
-      "fecha": "2026-07-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comunidades de la Reserva de Biósfera Fray Jorge definen hoja de ruta para restaurar el territorio durante la próxima década",
-      "url": "https://mma.gob.cl/comunidades-de-la-reserva-de-biosfera-fray-jorge-definen-hoja-de-ruta-para-restaurar-el-territorio-durante-la-proxima-decada/",
-      "fecha": "2026-07-07",
+      "titular": "Impulsan primer acuerdo de producción limpia para el sector gastronómico y turístico de la región",
+      "url": "https://mma.gob.cl/impulsan-primer-acuerdo-de-produccion-limpia-para-el-sector-gastronomico-y-turistico-de-la-region/",
+      "fecha": "2026-07-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
