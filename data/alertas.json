@@ -1,17 +1,29 @@
 {
-  "fecha_generacion": "2026-07-09T10:04:04.749583-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-07-10T09:25:58.758413-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Comisión de Medio Ambiente del Senado despachó megarreforma tras sesión marcada por debate en torno a restitución de gastos por anulación de RCA",
-      "url": "https://www.paiscircular.cl/medio-ambiente/comision-de-medio-ambiente-despacho-megarreforma-tras-sesion-marcada-por-debate-en-torno-a-restitucion-de-gastos-por-anulacion-de-rca/",
-      "fecha": "2026-07-08",
+      "fuente": "SMA",
+      "titular": "Superintendenta (s) lideró nueva reunión con el Consejo de la Sociedad Civil de la SMA para presentar la Cuenta Pública Participativa 2026",
+      "url": "https://portal.sma.gob.cl/index.php/superintendenta-s-lidero-nueva-reunion-con-el-consejo-de-la-sociedad-civil-de-la-sma-para-presentar-la-cuenta-publica-participativa-2026/",
+      "fecha": "2026-07-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Cerca de la medianoche de ayer, los senadores de oposición Alfonso De Urresti y Ricardo Celis abandonaron la votación de las indicaciones al proyecto de ley de Reconstrucción Nacional y Desarrollo Económico y Social, acusando al Ejecutivo de querer r",
+      "extracto": "En la reunión, la Superintendenta (s) informó sobre los principales hitos de gestión del año 2025, además de destacar el fortalecimiento del enfoque preventivo durante el año en curso, mediante sistemas de reporte y monitoreo ambiental que promueven ",
       "keywords_detectadas": [
-        "RCA"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Manuel José Ossandón (RN): “Hay que mandarle un mensaje al Presidente Kast, que sea más duro”",
+      "url": "https://www.latercera.com/politica/noticia/manuel-jose-ossandon-rn-hay-que-mandarle-un-mensaje-al-presidente-kast-que-sea-mas-duro/",
+      "fecha": "2026-07-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En el programa de streaming de La Tercera, Desde la Redacción, el senador de RN apuntó al rol que debe tener el Mandatario frente a la tensión oficialista. \"El Presidente Kast está pecando un poquito de demasiada tranquilidad, demasiado buena persona",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
