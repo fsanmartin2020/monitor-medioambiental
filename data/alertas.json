@@ -1,29 +1,65 @@
 {
-  "fecha_generacion": "2026-07-10T09:25:58.758413-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-07-11T08:08:05.986016-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "SMA",
-      "titular": "Superintendenta (s) lideró nueva reunión con el Consejo de la Sociedad Civil de la SMA para presentar la Cuenta Pública Participativa 2026",
-      "url": "https://portal.sma.gob.cl/index.php/superintendenta-s-lidero-nueva-reunion-con-el-consejo-de-la-sociedad-civil-de-la-sma-para-presentar-la-cuenta-publica-participativa-2026/",
-      "fecha": "2026-07-10",
+      "fuente": "La Tercera",
+      "titular": "Campeón con la Albiceleste en México ‘86: “Muchos quieren que Argentina sea otra vez campeón; Messi no despierta odio”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/campeon-con-la-albiceleste-en-mexico-86-muchos-quieren-que-argentina-sea-otra-vez-campeon-messi-no-despierta-odio/",
+      "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En la reunión, la Superintendenta (s) informó sobre los principales hitos de gestión del año 2025, además de destacar el fortalecimiento del enfoque preventivo durante el año en curso, mediante sistemas de reporte y monitoreo ambiental que promueven ",
+      "extracto": "El exdefensa Néstor Clausen analiza la campaña del equipo de Lionel Scaloni. “No creo que exista ayuda de la FIFA”, sostiene uno de los mejores laterales de la historia transandina.",
       "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Manuel José Ossandón (RN): “Hay que mandarle un mensaje al Presidente Kast, que sea más duro”",
-      "url": "https://www.latercera.com/politica/noticia/manuel-jose-ossandon-rn-hay-que-mandarle-un-mensaje-al-presidente-kast-que-sea-mas-duro/",
-      "fecha": "2026-07-09",
+      "fuente": "País Circular",
+      "titular": "2° Tribunal Ambiental rechazó reclamación de Embotelladora Metropolitana por multa a Planta de Residuos Industriales Líquidos",
+      "url": "https://www.paiscircular.cl/radar-legal/2-tribunal-ambiental-rechazo-reclamacion-de-embotelladora-metropolitana-por-multa-a-planta-de-residuos-industriales-liquidos-ubicada-en-colbun/",
+      "fecha": "2026-07-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En el programa de streaming de La Tercera, Desde la Redacción, el senador de RN apuntó al rol que debe tener el Mandatario frente a la tensión oficialista. \"El Presidente Kast está pecando un poquito de demasiada tranquilidad, demasiado buena persona",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la reclamación de Embotelladora Metropolitana (EMSA) en contra de la multa de 1.264 Unidades Tributarias Mensuales (UTA), unos mil millones de pesos, ordenada al proyecto “Sistema de Tratamiento de Riles para Emb",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Organizaciones de Panguipulli apelan ante Corte Suprema por intervención en humedal",
+      "url": "https://www.terram.cl/organizaciones-de-panguipulli-apelan-ante-corte-suprema-por-intervencion-en-humedal/",
+      "fecha": "2026-07-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción busca revertir el fallo que rechazó el recurso de protección presentado frente al plan de restauración que se desarrollaba en la costanera. Fuente: Diario Sostenible, 9 de julio de 2026.",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental escucha alegatos por reclamación de comunidad indígena contra aprobación ambiental de proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-escucha-alegatos-por-reclamacion-de-comunidad-indigena-contra-aprobacion-ambiental-de-proyecto-minero/",
+      "fecha": "2026-07-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Concluida la audiencia de vista de causa, la causa quedó en estudio por parte de la institución para un mayor análisis de los antecedentes. La entrada Tribunal Ambiental escucha alegatos por reclamación de comunidad indígena contra aprobación ambient",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Parque híbrido eólico, solar y BESS de US$200 millones ingresa al SEIA",
+      "url": "https://www.revistaei.cl/parque-hibrido-eolico-solar-y-bess-de-us200-millones-ingresa-al-seia/",
+      "fecha": "2026-07-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El proyecto se emplazaría entre las comunas de San Pedro, en la Región Metropolitana, y Litueche, en la Región de O'Higgins. La entrada Parque híbrido eólico, solar y BESS de US$200 millones ingresa al SEIA se publicó primero en Revista Electricidad ",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     }
   ]
