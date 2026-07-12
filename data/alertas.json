@@ -1,65 +1,30 @@
 {
-  "fecha_generacion": "2026-07-11T08:08:05.986016-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-07-12T08:11:09.980963-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Campeón con la Albiceleste en México ‘86: “Muchos quieren que Argentina sea otra vez campeón; Messi no despierta odio”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/campeon-con-la-albiceleste-en-mexico-86-muchos-quieren-que-argentina-sea-otra-vez-campeon-messi-no-despierta-odio/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental confirmó rechazo de la SMA a Programa de Cumplimiento de matadero “El Corralillo” en Chiloé",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-confirmo-rechazo-de-la-sma-a-programa-de-cumplimiento-de-matadero-el-corralillo-en-chiloe/",
       "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El exdefensa Néstor Clausen analiza la campaña del equipo de Lionel Scaloni. “No creo que exista ayuda de la FIFA”, sostiene uno de los mejores laterales de la historia transandina.",
+      "extracto": "El Tribunal confirmó que la resolución de la SMA fue dictada en el marco de sus atribuciones legales, de forma fundamentada y proporcional. La Superintendencia del Medio Ambiente (SMA) rechazó el Programa de Cumplimiento (PDC) presentado por la empre",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "2° Tribunal Ambiental rechazó reclamación de Embotelladora Metropolitana por multa a Planta de Residuos Industriales Líquidos",
-      "url": "https://www.paiscircular.cl/radar-legal/2-tribunal-ambiental-rechazo-reclamacion-de-embotelladora-metropolitana-por-multa-a-planta-de-residuos-industriales-liquidos-ubicada-en-colbun/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental rechazó la reclamación de Embotelladora Metropolitana (EMSA) en contra de la multa de 1.264 Unidades Tributarias Mensuales (UTA), unos mil millones de pesos, ordenada al proyecto “Sistema de Tratamiento de Riles para Emb",
-      "keywords_detectadas": [
+        "SMA",
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Organizaciones de Panguipulli apelan ante Corte Suprema por intervención en humedal",
-      "url": "https://www.terram.cl/organizaciones-de-panguipulli-apelan-ante-corte-suprema-por-intervencion-en-humedal/",
-      "fecha": "2026-07-10",
+      "fuente": "Senado",
+      "titular": "Como impactan las leyes en el dia dia",
+      "url": "https://www.senado.cl/comunicaciones/noticias/como-impactan-las-leyes-en-el-dia-dia",
+      "fecha": "2026-07-11",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La acción busca revertir el fallo que rechazó el recurso de protección presentado frente al plan de restauración que se desarrollaba en la costanera. Fuente: Diario Sostenible, 9 de julio de 2026.",
+      "metodo_extraccion": "sitemap",
+      "extracto": "",
       "keywords_detectadas": [
-        "Corte Suprema"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental escucha alegatos por reclamación de comunidad indígena contra aprobación ambiental de proyecto minero",
-      "url": "https://www.mch.cl/tribunal-ambiental-escucha-alegatos-por-reclamacion-de-comunidad-indigena-contra-aprobacion-ambiental-de-proyecto-minero/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Concluida la audiencia de vista de causa, la causa quedó en estudio por parte de la institución para un mayor análisis de los antecedentes. La entrada Tribunal Ambiental escucha alegatos por reclamación de comunidad indígena contra aprobación ambient",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Parque híbrido eólico, solar y BESS de US$200 millones ingresa al SEIA",
-      "url": "https://www.revistaei.cl/parque-hibrido-eolico-solar-y-bess-de-us200-millones-ingresa-al-seia/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto se emplazaría entre las comunas de San Pedro, en la Región Metropolitana, y Litueche, en la Región de O'Higgins. La entrada Parque híbrido eólico, solar y BESS de US$200 millones ingresa al SEIA se publicó primero en Revista Electricidad ",
-      "keywords_detectadas": [
-        "SEIA"
+        "DIA"
       ]
     }
   ]

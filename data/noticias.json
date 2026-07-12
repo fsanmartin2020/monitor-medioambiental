@@ -1,175 +1,55 @@
 {
-  "fecha_actualizacion": "2026-07-11T08:08:05.971948-04:00",
-  "total": 21,
+  "fecha_actualizacion": "2026-07-12T08:11:09.969186-04:00",
+  "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Ir a la playa sin salir de París: la capital se lanza al Sena para enfrentar la canícula",
-      "url": "https://efeverde.com/ir-a-la-playa-sin-salir-de-paris/",
+      "titular": "El fin del videojuego físico alerta a los ecologistas: «No evita el impacto, lo traslada»",
+      "url": "https://efeverde.com/el-fin-del-videojuego-fisico-alerta-a-los-ecologistas-no-evita-el-impacto-lo-traslada/",
+      "fecha": "2026-07-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Bomberos forestales: «En un incendio el riesgo no está solo en el frente de llamas»",
+      "url": "https://efeverde.com/bomberos-forestales-en-un-incendio-el-riesgo-no-esta-solo-en-el-frente-de-llamas/",
       "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Así cambiará la capacidad del planeta para producir alimentos por el calentamiento global",
-      "url": "https://efeverde.com/asi-cambiara-la-capacidad-del-planeta-para-producir-alimentos-por-el-calentamiento-global/",
+      "titular": "Cinco especies invasoras que ganan protagonismo en verano más allá del mosquito tigre",
+      "url": "https://efeverde.com/cinco-especies-invasoras-que-ganan-protagonismo-en-verano-mas-alla-del-mosquito-tigre/",
       "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "​​¿Refugios climáticos bajo tierra? Roma explora su subsuelo ante el calor extremo",
-      "url": "https://efeverde.com/refugios-climaticos-bajo-tierra-roma/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental confirmó rechazo de la SMA a Programa de Cumplimiento de matadero “El Corralillo” en Chiloé",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-confirmo-rechazo-de-la-sma-a-programa-de-cumplimiento-de-matadero-el-corralillo-en-chiloe/",
       "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Trump revierte la protección del hábitat de especies en peligro establecida hace 50 años",
-      "url": "https://efeverde.com/trump-revierte-la-proteccion-del-habitat-de-especies-en-peligro-establecida-hace-50-anos/",
-      "fecha": "2026-07-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Segunda",
-      "titular": "$1.000 millones deberá pagar Embotelladora Metropolitana por incumplimientos ambientales",
-      "url": "https://www.lasegunda.com/Noticias/Economia/2026/07/1114390/ambiental-multa-embotelladora",
-      "fecha": "2026-07-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Campeón con la Albiceleste en México ‘86: “Muchos quieren que Argentina sea otra vez campeón; Messi no despierta odio”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/campeon-con-la-albiceleste-en-mexico-86-muchos-quieren-que-argentina-sea-otra-vez-campeon-messi-no-despierta-odio/",
+      "titular": "El pueblo líquido",
+      "url": "https://www.latercera.com/opinion/noticia/el-pueblo-liquido/",
       "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "2° Tribunal Ambiental rechazó reclamación de Embotelladora Metropolitana por multa a Planta de Residuos Industriales Líquidos",
-      "url": "https://www.paiscircular.cl/radar-legal/2-tribunal-ambiental-rechazo-reclamacion-de-embotelladora-metropolitana-por-multa-a-planta-de-residuos-industriales-liquidos-ubicada-en-colbun/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Oceana propone extender el monitoreo satelital en la pesca artesanal para potenciar su seguridad y trazabilidad",
-      "url": "https://codexverde.cl/monitoreo-satelital-en-la-pesca-artesanal/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Xunta archiva definitivamente el proyecto para construir la polémica macroplanta de Altri en Lugo",
-      "url": "https://efeverde.com/la-xunta-archiva-definitivamente-el-proyecto-para-construir-la-polemica-macroplanta-de-altri-en-lugo/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Contaminación del aire: cómo afecta al corazón y aumenta el riesgo de infarto y ACV",
-      "url": "https://www.terram.cl/contaminacion-del-aire-como-afecta-al-corazon-y-aumenta-el-riesgo-de-infarto-y-acv/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Gremio de pescadores artesanales rechaza proyecto de ley que reactivaría el arrastre industrial de la jibia en Biobío",
-      "url": "https://www.terram.cl/gremio-de-pescadores-artesanales-rechaza-proyecto-de-ley-que-reactivaria-el-arrastre-industrial-de-la-jibia-en-biobio/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Organizaciones de Panguipulli apelan ante Corte Suprema por intervención en humedal",
-      "url": "https://www.terram.cl/organizaciones-de-panguipulli-apelan-ante-corte-suprema-por-intervencion-en-humedal/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Reforestación y reinserción social: El modelo de vecinos de Chiloé para recuperar su agua",
-      "url": "https://www.terram.cl/reforestacion-y-reinsercion-social-el-modelo-de-vecinos-de-chiloe-para-recuperar-su-agua/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Adiós a Guillermo Egli, el maestro que nos enseñó a escuchar a las aves chilenas",
-      "url": "https://www.terram.cl/adios-a-guillermo-egli-el-maestro-que-nos-enseno-a-escuchar-a-las-aves-chilenas/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Cobre para la transición energética: nuevos proyectos se expanden entre ecosistemas sensibles y tierras comunitarias de Colombia y Argentina",
-      "url": "https://www.terram.cl/cobre-para-la-transicion-energetica-nuevos-proyectos-se-expanden-entre-ecosistemas-sensibles-y-tierras-comunitarias-de-colombia-y-argentina/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Actas de evaluacion emitidas por las comisiones evaluadoras de licitaciones",
-      "url": "https://www.sernapesca.cl/actas-de-evaluacion-emitidas-por-las-comisiones-evaluadoras-de-licitaciones/",
-      "fecha": "2026-07-10",
+      "fuente": "Senado",
+      "titular": "Como impactan las leyes en el dia dia",
+      "url": "https://www.senado.cl/comunicaciones/noticias/como-impactan-las-leyes-en-el-dia-dia",
+      "fecha": "2026-07-11",
       "fecha_confiable": true,
       "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Con “aplastatón” de envases: autoridades dan el vamos nacional al programa “Interescolar del Reciclaje”",
-      "url": "https://mma.gob.cl/con-aplastaton-de-envases-autoridades-dan-el-vamos-nacional-al-programa-interescolar-del-reciclaje/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ruido en Santiago baja en hasta 54% durante vacaciones de invierno",
-      "url": "https://mma.gob.cl/ruido-en-santiago-baja-en-hasta-54-durante-vacaciones-de-invierno/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Compensación ambiental",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/compensacion-ambiental/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental escucha alegatos por reclamación de comunidad indígena contra aprobación ambiental de proyecto minero",
-      "url": "https://www.mch.cl/tribunal-ambiental-escucha-alegatos-por-reclamacion-de-comunidad-indigena-contra-aprobacion-ambiental-de-proyecto-minero/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Parque híbrido eólico, solar y BESS de US$200 millones ingresa al SEIA",
-      "url": "https://www.revistaei.cl/parque-hibrido-eolico-solar-y-bess-de-us200-millones-ingresa-al-seia/",
-      "fecha": "2026-07-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
     }
   ]
 }
