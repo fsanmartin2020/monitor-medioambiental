@@ -1,30 +1,53 @@
 {
-  "fecha_generacion": "2026-07-12T08:11:09.980963-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-07-14T08:25:10.553017-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental confirmó rechazo de la SMA a Programa de Cumplimiento de matadero “El Corralillo” en Chiloé",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-confirmo-rechazo-de-la-sma-a-programa-de-cumplimiento-de-matadero-el-corralillo-en-chiloe/",
-      "fecha": "2026-07-11",
+      "fuente": "Emol",
+      "titular": "Comité de Ministros mantiene RCA favorable de tres proyectos: Uno es Instituto del Cáncer",
+      "url": "https://www.emol.com/noticias/Economia/2026/07/13/1205558/comite-ministros-rca-favorable.html",
+      "fecha": "2026-07-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "19:48 |La instancia sesionó por octava vez durante era Kast.",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Segundo Tribunal Ambiental confirmó multa de cerca de $1.000 millones a planta de Riles de Embotelladora Metropolitana en Colbún",
+      "url": "https://codexverde.cl/segundo-tribunal-ambiental-confirmo-multa-de-cerca-de-1-000-millones-a-planta-de-riles-de-embotelladora-metropolitana-en-colbun/",
+      "fecha": "2026-07-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tribunal confirmó que la resolución de la SMA fue dictada en el marco de sus atribuciones legales, de forma fundamentada y proporcional. La Superintendencia del Medio Ambiente (SMA) rechazó el Programa de Cumplimiento (PDC) presentado por la empre",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la reclamación presentada por Embotelladora Metropolitana S.A. (EMSA) y confirmó la multa de 1.264 Unidades Tributarias Anuales (UTA) —cerca de $1.000 millones— aplicada por la Superintendencia del Medio Ambiente",
       "keywords_detectadas": [
-        "SMA",
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Senado",
-      "titular": "Como impactan las leyes en el dia dia",
-      "url": "https://www.senado.cl/comunicaciones/noticias/como-impactan-las-leyes-en-el-dia-dia",
-      "fecha": "2026-07-11",
+      "fuente": "Terram",
+      "titular": "MAULE: SMA aplica multa de más de $1.090 millones a Embotelladora Metropolitana por incumplimientos asociados a residuos líquidos",
+      "url": "https://www.terram.cl/maule-sma-aplica-multa-de-mas-de-1-090-millones-a-embotelladora-metropolitana-por-incumplimientos-asociados-a-residuos-liquidos/",
+      "fecha": "2026-07-13",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap",
-      "extracto": "",
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la reclamación de Embotelladora Metropolitana (EMSA) en contra de la multa de 1.264 Unidades Tributarias Mensuales (UTA), unos mil millones de pesos, ordenada al proyecto “Sistema de Tratamiento de Riles para Emb",
       "keywords_detectadas": [
-        "DIA"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Comité de Ministros mantiene RCA favorable de proyecto minero",
+      "url": "https://www.mch.cl/comite-de-ministros-mantiene-rca-favorable-de-proyectos-mineros/",
+      "fecha": "2026-07-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La instancia sesionó por octava vez durante la administración del Presidente Kast. La entrada Comité de Ministros mantiene RCA favorable de proyecto minero se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "RCA"
       ]
     }
   ]
