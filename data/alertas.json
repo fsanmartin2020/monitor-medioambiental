@@ -1,17 +1,77 @@
 {
-  "fecha_generacion": "2026-07-15T08:29:50.848941-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-07-16T08:34:48.913585-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Seremi de Medio Ambiente de O’Higgins visita El Teniente para conocer avances en Ley REP",
-      "url": "https://www.mch.cl/seremi-de-medio-ambiente-de-ohiggins-visita-el-teniente-para-conocer-avances-en-ley-rep/",
-      "fecha": "2026-07-14",
+      "fuente": "BioBioChile",
+      "titular": "Senado aprueba norma de la megarreforma que establece indemnización en caso de revocación de RCA",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/senado-aprueba-norma-de-la-megarreforma-que-establece-indemnizacion-en-caso-de-revocacion-de-rca.shtml",
+      "fecha": "2026-07-16",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Despido injustificado: licencia médica justifica la ausencia aunque no sea comunicada oportunamente",
+      "url": "https://www.diarioconstitucional.cl/2026/07/16/despido-injustificado-licencia-medica-justifica-la-ausencia-aunque-no-sea-comunicada-oportunamente/",
+      "fecha": "2026-07-16",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas preventivas ante amenaza meteorológica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-preventivas-ante-amenaza-metereologica/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En un recorrido por el Centro de Manejo de Residuos Industriales Sólidos de la minera, la autoridad conoció iniciativas de valorización de residuos, innovación y cumplimiento de la normativa. La entrada Seremi de Medio Ambiente de O’Higgins visita El",
+      "extracto": "Ante el sistema frontal y alertas meteorológicas vigentes, el Ministerio del Interior declaró emergencia preventiva en 10 regiones de nuestro país, desde la Región de Atacama hasta la Región de los Ríos, entre el 13 y 21 de julio. En ese contexto, la",
       "keywords_detectadas": [
-        "Ley REP"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Los Lagos: SMA ordena medidas provisionales contra Bar Botanic por superación de la norma de ruido",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-sma-ordena-medidas-provisionales-contra-bar-botanic-por-superacion-de-la-norma-de-ruido/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Durante la fiscalización se constató que las emisiones de ruido del establecimiento superaban en 18 decibeles el límite máximo permitido por la normativa vigente, por lo que se ordenó la adopción de medidas provisionales. La Superintendencia del Medi",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "CIPER Chile",
+      "titular": "Reforma al SEIA: las indicaciones del gobierno que arriesgan judicializar los proyectos",
+      "url": "https://www.ciperchile.cl/2026/07/15/reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La entrada Reforma al SEIA: las indicaciones del gobierno que arriesgan judicializar los proyectos se publicó primero en CIPER Chile .",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas ante amenaza meteorológica",
+      "url": "https://www.revistaei.cl/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-ante-amenaza-meteorologica/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "A raíz del sistema frontal, el Ministerio del Interior declaró emergencia preventiva en 10 regiones del país. La entrada SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas ante amenaza meteorológica se publicó primero en ",
+      "keywords_detectadas": [
+        "SMA"
       ]
     }
   ]

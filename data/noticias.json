@@ -1,293 +1,277 @@
 {
-  "fecha_actualizacion": "2026-07-15T08:29:50.834639-04:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-07-16T08:34:48.899251-04:00",
+  "total": 34,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Abogados especialistas en derecho ambiental evalúan normas de la megarreforma que hoy se vota en la Sala del Senado",
-      "url": "https://www.paiscircular.cl/medio-ambiente/abogados-especialistas-en-derecho-ambiental-evaluan-normas-de-la-megarreforma-que-hoy-se-vota-en-la-sala-del-senado/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Calculan en más de 30 mil nuevos empleos los que se generarán por proyectos aprobados durante primeros meses de gobierno.",
-      "url": "https://www.chiledesarrollosustentable.cl/calculan-en-mas-de-30-mil-nuevos-empleos-los-que-se-generaran-por-proyectos-aprobados-durante-primeros-meses-de-gobierno/?utm_source=rss&utm_medium=rss&utm_campaign=calculan-en-mas-de-30-mil-nuevos-empleos-los-que-se-generaran-por-proyectos-aprobados-durante-primeros-meses-de-gobierno",
-      "fecha": "2026-07-15",
+      "fuente": "EFE Verde",
+      "titular": "Conejo ibérico. Por May",
+      "url": "https://efeverde.com/conejo-iberico-may-mundomay/",
+      "fecha": "2026-07-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bruselas expedienta a España por no adoptar la ley de crímenes medioambientales",
-      "url": "https://efeverde.com/bruselas-expedienta-a-espana-por-no-adoptar-la-ley-de-crimenes-medioambientales/",
-      "fecha": "2026-07-15",
+      "titular": "Los pájaros carpinteros ayudan a medir el estado de conservación de las Lagunas de Ruidera",
+      "url": "https://efeverde.com/pajaros-carpinteros-estado-conservacion-lagunas-de-ruidera/",
+      "fecha": "2026-07-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calentamiento global y las olas de calor debilitan las brisas marinas en el Mediterráneo",
-      "url": "https://efeverde.com/calentamiento-global-y-olas-de-calor-debilitan-brisas-marinas-en-mediterraneo/",
-      "fecha": "2026-07-15",
+      "titular": "China lidera el almacenamiento en baterías, pero aún infrautiliza su red",
+      "url": "https://efeverde.com/china-lidera-el-almacenamiento-en-baterias-pero-aun-infrautiliza-su-red-segun-oenege/",
+      "fecha": "2026-07-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Fondo Verde para el Clima eleva en 4.280 millones de dólares su capacidad de invertir tras mejorar su gestión",
-      "url": "https://efeverde.com/el-fondo-verde-para-el-clima-eleva-en-4-280-millones-de-dolares-su-capacidad-de-invertir-tras-mejorar-su-gestion/",
-      "fecha": "2026-07-15",
+      "titular": "Ecuador impulsará la conservación de bosques con incentivos por 1,5 millones de dólares",
+      "url": "https://efeverde.com/ecuador-impulsara-la-conservacion-de-bosques-con-incentivos-por-15-millones-de-dolares/",
+      "fecha": "2026-07-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los elefantes usan el oído interno para comunicarse a larga distancia con ondas sísmicas",
-      "url": "https://efeverde.com/elefantes-oido-interno-para-comunicarse-a-larga-distancia/",
-      "fecha": "2026-07-15",
+      "titular": "Pescadores piden prohibir la pesca de salmón en Asturias, donde las capturas caen a mínimos históricos",
+      "url": "https://efeverde.com/pescadores-piden-prohibir-la-pesca-de-salmon-en-asturias-donde-las-capturas-caen-a-minimos-historicos/",
+      "fecha": "2026-07-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El cambio climático nos quita literalmente el sueño",
-      "url": "https://efeverde.com/el-cambio-climatico-nos-quita-literalmente-el-sueno/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "BioBioChile",
+      "titular": "Senado aprueba norma de la megarreforma que establece indemnización en caso de revocación de RCA",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/senado-aprueba-norma-de-la-megarreforma-que-establece-indemnizacion-en-caso-de-revocacion-de-rca.shtml",
+      "fecha": "2026-07-16",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La mayoría de los españoles considera la biodiversidad como parte de la riqueza de un país",
-      "url": "https://efeverde.com/la-mayoria-de-los-espanoles-considera-la-biodiversidad-como-parte-de-la-riqueza-de-un-pais/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Allianz impulsa un sistema de detección temprana de incendios que monitorizará 50 millones de hectáreas",
-      "url": "https://efeverde.com/allianz-impulsa-un-sistema-de-deteccion-temprana-de-incendios-que-monitorizara-50-millones-de-hectareas/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Exxacon demanda a la Municipalidad de Peñalolén por US$ 4,5 millones tras cuatro rechazos a dos edificios terminados",
-      "url": "https://www.df.cl/empresas/construccion/exxacon-demanda-a-la-municipalidad-de-penalolen-por-us-4-5-millones-tras",
-      "fecha": "2026-07-15",
+      "fuente": "Diario Constitucional",
+      "titular": "Despido injustificado: licencia médica justifica la ausencia aunque no sea comunicada oportunamente",
+      "url": "https://www.diarioconstitucional.cl/2026/07/16/despido-injustificado-licencia-medica-justifica-la-ausencia-aunque-no-sea-comunicada-oportunamente/",
+      "fecha": "2026-07-16",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "País Circular",
-      "titular": "Alianza impulsará nuevos empleos y competencias para acelerar la economía circular en Chile",
-      "url": "https://www.paiscircular.cl/economia-circular/alianza-impulsara-nuevos-empleos-y-competencias-para-acelerar-la-economia-circular-en-chile/",
-      "fecha": "2026-07-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Con “aplastatón” de envases: autoridades dan el vamos nacional al programa “Interescolar del Reciclaje”",
-      "url": "https://www.paiscircular.cl/economia-circular/con-aplastaton-de-envases-autoridades-dan-el-vamos-nacional-al-programa-interescolar-del-reciclaje/",
-      "fecha": "2026-07-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Mercados voluntarios de carbono: nuevas oportunidades de inversión sostenible",
-      "url": "https://www.paiscircular.cl/videos/mercados-voluntarios-de-carbono-nuevas-oportunidades-de-inversion-sostenible/",
-      "fecha": "2026-07-14",
+      "titular": "Declaración Pública: Organizaciones rechazan la flexibilización de estándares ambientales para la industria salmonera en Chile",
+      "url": "https://www.paiscircular.cl/medio-ambiente/declaracion-publica-organizaciones-rechazan-la-flexibilizacion-de-estandares-ambientales-para-la-industria-salmonera-en-chile/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Estudio revela una baja de hasta 54% en el ruido matutino durante el receso escolar",
-      "url": "https://codexverde.cl/baja-de-hasta-54-en-el-ruido-matutino-durante-el-receso-escolar/",
-      "fecha": "2026-07-14",
+      "titular": "Chile invertirá USD 39 millones para impulsar la agricultura y ganadería regenerativa",
+      "url": "https://codexverde.cl/chile-invertira-usd-39-millones-para-impulsar-la-agricultura-y-ganaderia-regenerativa/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Sistema frontal: Centro UC Observatorio de la Costa advierte riesgos por combinación de lluvias extremas y marejadas anormales en el litoral",
+      "url": "https://codexverde.cl/riesgos-por-combinacion-de-lluvias-extremas-y-marejadas/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "CR2 fue aliado estratégico en la cumbre The Climate Reality Project",
+      "url": "https://www.cr2.cl/cr2-fue-aliado-estrategico-en-la-cumbre-the-climate-reality-project/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Climatólogo por «tren» de sistemas frontales: “150 mm en Santiago es la mitad de un año normal, el riesgo de aluviones es real” (Radio Futuro)",
+      "url": "https://www.cr2.cl/climatologo-por-tren-de-sistemas-frontales-150-mm-en-santiago-es-la-mitad-de-un-ano-normal-el-riesgo-de-aluviones-es-real-radio-futuro/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Evolución favorable de los incendios forestales en España, pero el riesgo se mantiene «muy alto o extremo»",
-      "url": "https://efeverde.com/evolucion-favorable-de-los-incendios-forestales-en-espana/",
-      "fecha": "2026-07-14",
+      "titular": "El Gobierno propone nuevas viviendas sin garajes subterráneos ni sótanos en zonas inundables",
+      "url": "https://efeverde.com/gobierno-propone-nuevas-viviendas-sin-garajes-subterraneos-ni-sotanos-en-zonas-inundables/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Dos de cada tres nidos de tortuga boba detectados en España están en la costa murciana",
-      "url": "https://efeverde.com/nidos-de-tortuga-boba-costa-murciana/",
-      "fecha": "2026-07-14",
+      "titular": "Las llamas de Los Gallardos asolan una reserva vital para la tortuga mora en Almería",
+      "url": "https://efeverde.com/llamas-de-los-gallardos-asolan-reserva-vital-para-tortuga-mora-en-almeria/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Europa respira un aire cada vez más cargado de polvo del desierto, un riesgo para la salud y la energía solar",
+      "url": "https://efeverde.com/europa-respira-un-aire-cada-vez-mas-cargado-de-polvo-del-desierto-un-riesgo-para-la-salud-y-la-energia-solar/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "12 salmoneras registran 435.546 toneladas de producción al margen de la ley por eludir la evaluación ambiental",
-      "url": "https://www.terram.cl/12-salmoneras-registran-435-546-toneladas-de-produccion-al-margen-de-la-ley-por-eludir-la-evaluacion-ambiental/",
-      "fecha": "2026-07-14",
+      "titular": "Industria salmonera: diagnósticos errados y soluciones inconsistentes",
+      "url": "https://www.terram.cl/industria-salmonera-diagnosticos-errados-y-soluciones-inconsistentes/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Alerta por el futuro de los vertederos: capacidad disponible disminuye mientras aumentan los residuos",
-      "url": "https://www.terram.cl/alerta-por-el-futuro-de-los-vertederos-capacidad-disponible-disminuye-mientras-aumentan-los-residuos/",
-      "fecha": "2026-07-14",
+      "titular": "Abogados especialistas en derecho ambiental evalúan normas de la megarreforma que hoy se vota en la Sala del Senado",
+      "url": "https://www.terram.cl/abogados-especialistas-en-derecho-ambiental-evaluan-normas-de-la-megarreforma-que-hoy-se-vota-en-la-sala-del-senado/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Boom de concesiones de minería en Biobío se toma gran parte de Isla Santa María en Coronel: Vecinos en alerta",
-      "url": "https://www.terram.cl/boom-de-concesiones-de-mineria-en-biobio-se-toma-gran-parte-de-isla-santa-maria-en-coronel-vecinos-en-alerta/",
-      "fecha": "2026-07-14",
+      "titular": "Humedales construidos: La apuesta ecotecnológica para restaurar ecosistemas degradados",
+      "url": "https://www.terram.cl/humedales-construidos-la-apuesta-ecotecnologica-para-restaurar-ecosistemas-degradados/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Al Gore: Chile es un ejemplo en lidiar con los efectos de la crisis climática",
-      "url": "https://www.terram.cl/al-gore-chile-es-un-ejemplo-en-lidiar-con-los-efectos-de-la-crisis-climatica/",
-      "fecha": "2026-07-14",
+      "titular": "¿Qué significa la Emergencia Preventiva decretada por el Gobierno y qué regiones afecta?",
+      "url": "https://www.terram.cl/que-significa-la-emergencia-preventiva-decretada-por-el-gobierno-y-que-regiones-afecta/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Investigadora magallánica es premiada por la UNESCO por estudiar la biodiversidad marina en Cabo de Hornos",
-      "url": "https://www.terram.cl/investigadora-magallanica-es-premiada-por-la-unesco-por-estudiar-la-biodiversidad-marina-en-cabo-de-hornos/",
-      "fecha": "2026-07-14",
+      "titular": "Visores desarrollados por U. de Chile permiten identificar principales puntos críticos del invierno",
+      "url": "https://www.terram.cl/visores-desarrollados-por-u-de-chile-permiten-identificar-principales-puntos-criticos-del-invierno/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Argentina: incendios forestales afectan la calidad del agua en la Patagonia y expertas alertan sobre el consumo humano | ESTUDIO",
-      "url": "https://www.terram.cl/argentina-incendios-forestales-afectan-la-calidad-del-agua-en-la-patagonia-y-expertas-alertan-sobre-el-consumo-humano-estudio/",
-      "fecha": "2026-07-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Poder ciudadano en materia ambiental",
-      "url": "https://www.fima.cl/2026/07/14/poder-ciudadano-en-materia-ambiental/",
-      "fecha": "2026-07-14",
+      "titular": "El deshielo de icebergs en el Pacífico puede frenar una corriente clave del Atlántico",
+      "url": "https://www.terram.cl/el-deshielo-de-icebergs-en-el-pacifico-puede-frenar-una-corriente-clave-del-atlantico/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Parques Nacionales Nonguén y Laguna del Laja cerrarán preventivamente por sistema frontal",
-      "url": "https://www.conaf.cl/parques-nacionales-nonguen-y-laguna-del-laja-cerraran-preventivamente-por-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=parques-nacionales-nonguen-y-laguna-del-laja-cerraran-preventivamente-por-sistema-frontal",
-      "fecha": "2026-07-14",
+      "titular": "Ministro Campos: “Es necesario y urgente reformar la legislación forestal actual”",
+      "url": "https://www.conaf.cl/ministro-campos-es-necesario-y-urgente-reformar-la-legislacion-forestal-actual/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-campos-es-necesario-y-urgente-reformar-la-legislacion-forestal-actual",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF realiza primer Encuentro de Mujeres en el Parque Nacional Alerce Costero con vecinas de Corral",
-      "url": "https://www.conaf.cl/conaf-realiza-primer-encuentro-de-mujeres-en-el-parque-nacional-alerce-costero-con-vecinas-de-corral/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realiza-primer-encuentro-de-mujeres-en-el-parque-nacional-alerce-costero-con-vecinas-de-corral",
-      "fecha": "2026-07-14",
+      "titular": "Tecnología satelital fortalece la protección del bosque nativo en La Araucanía",
+      "url": "https://www.conaf.cl/tecnologia-satelital-fortalece-la-proteccion-del-bosque-nativo-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=tecnologia-satelital-fortalece-la-proteccion-del-bosque-nativo-en-la-araucania",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Vecinos de Pinto conmemoran “Día del Árbol” con plantación comunitaria y adopción de especies nativas",
-      "url": "https://www.conaf.cl/vecinos-de-pinto-conmemoran-dia-del-arbol-con-plantacion-comunitaria-y-adopcion-de-especies-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-de-pinto-conmemoran-dia-del-arbol-con-plantacion-comunitaria-y-adopcion-de-especies-nativas",
-      "fecha": "2026-07-14",
+      "titular": "Cuenta Pública Participativa CONAF 2026, Gestión 2025",
+      "url": "https://www.conaf.cl/cuenta-publica-participativa-conaf-2026-gestion-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuenta-publica-participativa-conaf-2026-gestion-2025",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas preventivas ante amenaza meteorológica",
+      "url": "https://portal.sma.gob.cl/index.php/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-preventivas-ante-amenaza-metereologica/",
+      "fecha": "2026-07-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Los Lagos: SMA ordena medidas provisionales contra Bar Botanic por superación de la norma de ruido",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-sma-ordena-medidas-provisionales-contra-bar-botanic-por-superacion-de-la-norma-de-ruido/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Alianza impulsará nuevos empleos y competencias para acelerar la economía circular en Chile",
-      "url": "https://mma.gob.cl/alianza-impulsara-nuevos-empleos-y-competencias-para-acelerar-la-economia-circular-en-chile/",
-      "fecha": "2026-07-14",
+      "titular": "Organizaciones sindicales y empresariales podrán postular para integrar el Consejo Consultivo Regional del Medio Ambiente de Aysén",
+      "url": "https://mma.gob.cl/organizaciones-sindicales-y-empresariales-podran-postular-para-integrar-el-consejo-consultivo-regional-del-medio-ambiente-de-aysen/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Calculan en más de 30 mil nuevos empleos los que se generarán por proyectos aprobados durante primeros meses de gobierno",
-      "url": "https://mma.gob.cl/calculan-en-mas-de-30-mil-nuevos-empleos-los-que-se-generaran-por-proyectos-aprobados-durante-primeros-meses-de-gobierno/",
-      "fecha": "2026-07-14",
+      "titular": "Seremi del Medio Ambiente de Valparaíso llama a la prevención y coordinación ante precipitaciones y marejadas",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-llama-a-la-prevencion-y-coordinacion-ante-precipitaciones-y-marejadas/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi de Medio Ambiente entrega recomendaciones a la comunidad ante pronóstico de intensas lluvias en la Región de Coquimbo",
-      "url": "https://mma.gob.cl/seremi-de-medio-ambiente-entrega-recomendaciones-a-la-comunidad-ante-pronostico-de-intensas-lluvias-en-la-region-de-coquimbo/",
-      "fecha": "2026-07-14",
+      "titular": "Más gestión, más comunidad: Chile Chico avanza en su compromiso ambiental",
+      "url": "https://mma.gob.cl/mas-gestion-mas-comunidad-chile-chico-avanza-en-su-compromiso-ambiental/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comité Operativo para proteger el Lago Vichuquén concluye con éxito su primera sesión",
-      "url": "https://mma.gob.cl/comite-operativo-para-proteger-el-lago-vichuquen-concluye-con-exito-su-primera-sesion/",
-      "fecha": "2026-07-14",
+      "fuente": "La Tercera",
+      "titular": "Megarreforma: Senado zanja rebaja de impuestos e invariabilidad tributaria en maratónica sesión",
+      "url": "https://www.latercera.com/politica/noticia/megarreforma-senado-busca-zanjar-rebaja-tributaria-en-maratonica-sesion-hasta-total-despacho/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente de Atacama firma convenios para ejecutar proyectos del FPA",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-atacama-firma-convenios-para-ejecutar-proyectos-del-fpa/",
-      "fecha": "2026-07-14",
+      "fuente": "La Tercera",
+      "titular": "Agenda de reformas en la salud pública",
+      "url": "https://www.latercera.com/editorial/noticia/agenda-de-reformas-en-la-salud-publica/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente realizó en Biobío el primer taller de consulta pública de la Estrategia Climática de Largo Plazo",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-realizo-en-biobio-el-primer-taller-de-consulta-publica-de-la-estrategia-climatica-de-largo-plazo/",
-      "fecha": "2026-07-14",
+      "fuente": "La Tercera",
+      "titular": "Chilena Consorcio Austral ingresa a tramitación ambiental el proyecto no minero de mayor inversión en lo que va de año",
+      "url": "https://www.latercera.com/pulso/noticia/chilena-consorcio-austral-ingresa-a-tramitacion-ambiental-el-proyecto-no-minero-de-mayor-inversion-en-lo-que-va-de-ano/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Seremi de Medio Ambiente de O’Higgins visita El Teniente para conocer avances en Ley REP",
-      "url": "https://www.mch.cl/seremi-de-medio-ambiente-de-ohiggins-visita-el-teniente-para-conocer-avances-en-ley-rep/",
-      "fecha": "2026-07-14",
+      "fuente": "CIPER Chile",
+      "titular": "Reforma al SEIA: las indicaciones del gobierno que arriesgan judicializar los proyectos",
+      "url": "https://www.ciperchile.cl/2026/07/15/reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Presidente y gerente general de Enap recorren Tierra del Fuego en el marco de nuevos proyectos por US$648 millones",
-      "url": "https://www.revistaei.cl/presidente-y-gerente-general-de-enap-recorren-tierra-del-fuego-en-el-marco-de-nuevos-proyectos-por-us648-millones/",
-      "fecha": "2026-07-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Libro propone una metodología para fortalecer la evaluación ambiental en Chile",
-      "url": "https://www.nuevamineria.com/revista/libro-propone-una-metodologia-para-fortalecer-la-evaluacion-ambiental-en-chile/",
-      "fecha": "2026-07-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Presidente y gerente general de Enap recorren operaciones en Tierra del Fuego",
-      "url": "https://www.nuevamineria.com/revista/presidente-y-gerente-general-de-enap-recorren-operaciones-en-tierra-del-fuego/",
-      "fecha": "2026-07-14",
+      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas ante amenaza meteorológica",
+      "url": "https://www.revistaei.cl/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-ante-amenaza-meteorologica/",
+      "fecha": "2026-07-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
