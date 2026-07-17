@@ -1,77 +1,29 @@
 {
-  "fecha_generacion": "2026-07-16T08:34:48.913585-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-07-17T08:22:17.657460-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "BioBioChile",
-      "titular": "Senado aprueba norma de la megarreforma que establece indemnización en caso de revocación de RCA",
-      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/senado-aprueba-norma-de-la-megarreforma-que-establece-indemnizacion-en-caso-de-revocacion-de-rca.shtml",
-      "fecha": "2026-07-16",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Despido injustificado: licencia médica justifica la ausencia aunque no sea comunicada oportunamente",
-      "url": "https://www.diarioconstitucional.cl/2026/07/16/despido-injustificado-licencia-medica-justifica-la-ausencia-aunque-no-sea-comunicada-oportunamente/",
-      "fecha": "2026-07-16",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fuente": "La Tercera",
+      "titular": "El recado de los defensas de Argentina a Gary Neville: “Espero que cuando me retire no sea tan estúpido”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/el-recado-de-los-defensas-de-argentina-a-gary-neville-espero-que-cuando-me-retire-no-sea-tan-estupido/",
+      "fecha": "2026-07-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Cuti Romero y Lisandro Martínez salieron al paso de las críticas que les realizó el emblemático jugador del Manchester United tras superar a Inglaterra y clasificar a la final del Mundial.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas preventivas ante amenaza meteorológica",
-      "url": "https://portal.sma.gob.cl/index.php/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-preventivas-ante-amenaza-metereologica/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Ante el sistema frontal y alertas meteorológicas vigentes, el Ministerio del Interior declaró emergencia preventiva en 10 regiones de nuestro país, desde la Región de Atacama hasta la Región de los Ríos, entre el 13 y 21 de julio. En ese contexto, la",
+      "fuente": "El Dínamo",
+      "titular": "Reino Unido a Messi y compañía: \"Puede que el Mundial no sea nuestro, pero las islas Malvinas sin duda lo son\"",
+      "url": "https://www.eldinamo.cl/deportes/2026/07/16/reino-unido-a-messi-y-compania-puede-que-el-mundial-no-sea-nuestro-pero-las-islas-malvinas-sin-duda-lo-son/",
+      "fecha": "2026-07-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "Desde la oficina del primer ministro dejaron en claro que desea \"mucha suerte a Argentina y España en la final, especialmente a España\".",
       "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Los Lagos: SMA ordena medidas provisionales contra Bar Botanic por superación de la norma de ruido",
-      "url": "https://portal.sma.gob.cl/index.php/los-lagos-sma-ordena-medidas-provisionales-contra-bar-botanic-por-superacion-de-la-norma-de-ruido/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Durante la fiscalización se constató que las emisiones de ruido del establecimiento superaban en 18 decibeles el límite máximo permitido por la normativa vigente, por lo que se ordenó la adopción de medidas provisionales. La Superintendencia del Medi",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "CIPER Chile",
-      "titular": "Reforma al SEIA: las indicaciones del gobierno que arriesgan judicializar los proyectos",
-      "url": "https://www.ciperchile.cl/2026/07/15/reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-al-seia-las-indicaciones-del-gobierno-que-arriesgan-judicializar-los-proyectos",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La entrada Reforma al SEIA: las indicaciones del gobierno que arriesgan judicializar los proyectos se publicó primero en CIPER Chile .",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas ante amenaza meteorológica",
-      "url": "https://www.revistaei.cl/sma-llama-a-titulares-de-proyectos-entre-atacama-y-los-lagos-a-reforzar-medidas-ante-amenaza-meteorologica/",
-      "fecha": "2026-07-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "A raíz del sistema frontal, el Ministerio del Interior declaró emergencia preventiva en 10 regiones del país. La entrada SMA llama a titulares de proyectos entre Atacama y Los Lagos a reforzar medidas ante amenaza meteorológica se publicó primero en ",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     }
   ]
