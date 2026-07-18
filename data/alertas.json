@@ -1,30 +1,5 @@
 {
-  "fecha_generacion": "2026-07-17T08:22:17.657460-04:00",
-  "total_alertas": 2,
-  "alertas": [
-    {
-      "fuente": "La Tercera",
-      "titular": "El recado de los defensas de Argentina a Gary Neville: “Espero que cuando me retire no sea tan estúpido”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/el-recado-de-los-defensas-de-argentina-a-gary-neville-espero-que-cuando-me-retire-no-sea-tan-estupido/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Cuti Romero y Lisandro Martínez salieron al paso de las críticas que les realizó el emblemático jugador del Manchester United tras superar a Inglaterra y clasificar a la final del Mundial.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "Reino Unido a Messi y compañía: \"Puede que el Mundial no sea nuestro, pero las islas Malvinas sin duda lo son\"",
-      "url": "https://www.eldinamo.cl/deportes/2026/07/16/reino-unido-a-messi-y-compania-puede-que-el-mundial-no-sea-nuestro-pero-las-islas-malvinas-sin-duda-lo-son/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "Desde la oficina del primer ministro dejaron en claro que desea \"mucha suerte a Argentina y España en la final, especialmente a España\".",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-07-18T08:07:25.922838-04:00",
+  "total_alertas": 0,
+  "alertas": []
 }
