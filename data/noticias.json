@@ -1,213 +1,101 @@
 {
-  "fecha_actualizacion": "2026-07-18T08:07:25.907813-04:00",
-  "total": 26,
+  "fecha_actualizacion": "2026-07-19T08:09:53.157319-04:00",
+  "total": 12,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Okefenokee, santuario prehistórico de agua dulce en EEUU, aspira ser tesoro de la Unesco",
-      "url": "https://efeverde.com/okefenokee-santuario-agua-dulce-eeuu-aspira-unesco/",
+      "titular": "La Unesco evalúa en Corea del Sur potenciales patrimonios en España, Brasil y Palestina",
+      "url": "https://efeverde.com/claves-examen-unesco-potenciales-patrimonios/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Islandia y su vuelta a la caza de ballenas, unos cetáceos en la Lista Roja de la UICN",
+      "url": "https://efeverde.com/islandia-caza-ballenas-lista-roja-uicn/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Entra en vigor la ley de la UE que limita la destrucción de prendas no vendidas",
+      "url": "https://efeverde.com/entra-vigor-ley-ue-limita-destruccion-ropa/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los osos pardos cantábricos exageran su tamaño para impresionar a rivales y hembras",
+      "url": "https://efeverde.com/osos-pardos-cantabricos-exageran-su-tamano/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio de Onés (Zaragoza) deja de avanzar mientras que el de Guadalajara afecta ya a 13.000 hectáreas",
+      "url": "https://efeverde.com/incendios-forestales-ones-zaragoza-sierra-guadalajara/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Gestión de flotas: Todo va sobre ruedas, también la sostenibilidad. Por Almudena García García",
+      "url": "https://efeverde.com/gestion-de-flotas-todo-va-sobre-ruedas-tambien-la-sostenibilidad-por-almudena-garcia-garcia/",
+      "fecha": "2026-07-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Biodomo de Granada, un viaje a la biodiversidad del mundo que blinda flora y fauna",
+      "url": "https://efeverde.com/biodomo-granada-viaje-biodiversidad/",
       "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Del humo a la evacuación: cómo actuar con las mascotas en caso de incendio",
-      "url": "https://efeverde.com/como-actuar-mascotas-caso-incendio-forestal/",
+      "titular": "Greenpeace denuncia desproporción policial tras la detención de nueve activistas en Madrid",
+      "url": "https://efeverde.com/greenpeace-denuncia-desproporcion-policial-detencion-activistas-madrid/",
       "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calor extremo dejará a España una factura multimillonaria que irá aumentando hasta 2030",
-      "url": "https://efeverde.com/calor-extremo-espana-factura-multimillonaria/",
+      "titular": "El doble reto de la Ribeira Sacra, candidatura de España a Patrimonio Mundial de la Unesco",
+      "url": "https://efeverde.com/ribeira-sacra-candidatura-espana-patrimonio-mundial-unesco/",
       "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nueva York empieza a despejarse de contaminación atmosférica a 48 horas de la final",
-      "url": "https://efeverde.com/nueva-york-final-mundial-futbol-aire/",
+      "titular": "La lluvia podría mejora la calidad del aire para la final del Mundial en Nueva Jersey",
+      "url": "https://efeverde.com/calidad-aire-final-mundial-futbol/",
       "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios forestales de Orés y La Mierla queman más de 20.000 hectáreas y obligan a desalojar a 1.600 personas",
-      "url": "https://efeverde.com/incendios-forestales-ores-la-mierla-20-000-hectareas/",
+      "titular": "La Aemet avisa de una nueva ola de calor a partir del martes, con temperaturas de hasta 45 grados",
+      "url": "https://efeverde.com/aemet-nueva-ola-de-calor-martes-temperaturas-hasta-45-grados/",
       "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El sol que riega Saná: la revolución silenciosa que salva al Yemen de la oscuridad",
-      "url": "https://efeverde.com/sol-riega-sana-yemen/",
+      "fuente": "La Tercera",
+      "titular": "Eusebio Sacristán, histórico de España: “Ha habido situaciones que dan a pensar que se beneficia a Argentina”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/eusebio-sacristan-historico-de-espana-ha-habido-situaciones-que-dan-a-pensar-que-se-beneficia-a-argentina/",
       "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cómo pasar del compromiso ESG a resultados medibles. Por Carlos Cerdán",
-      "url": "https://efeverde.com/como-pasar-del-compromiso-esg-a-resultados-medibles-por-carlos-cerdan/",
-      "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "De lo local a la ruta migratoria: Casos de estudio muestran cómo fortalecer la conservación de las aves playeras en diversas escalas",
-      "url": "https://www.paiscircular.cl/biodiversidad/de-lo-local-a-la-ruta-migratoria-casos-de-estudio-muestran-como-fortalecer-la-conservacion-de-las-aves-playeras-en-diversas-escalas/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Sistema frontal: la razón por la que algunos ríos crecen en minutos y otros tardan días",
-      "url": "https://codexverde.cl/sistema-frontal-la-razon-por-la-que-algunos-rios-crecen-en-minutos-y-otros-tardan-dias/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Chile conmemora el Día Internacional del Defensor Ambiental con un aumento del 148% en las agresiones contra quienes defienden la naturaleza",
-      "url": "https://codexverde.cl/chile-conmemora-el-dia-internacional-del-defensor-ambiental-con-un-aumento-del-148-en-las-agresiones-contra-quienes-defienden-la-naturaleza/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Teleférico Alto Hospicio-Iquique obtiene certificación internacional que refuerza su estándar de sostenibilidad",
-      "url": "https://codexverde.cl/teleferico-alto-hospicio-iquique-obtiene-certificacion-internacional-que-refuerza-su-estandar-de-sostenibilidad/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La cineasta Nuria Ibáñez lleva a la pantalla el tráfico de totoaba, la «cocaína del mar»",
-      "url": "https://efeverde.com/la-cineasta-nuria-ibanez-lleva-a-la-pantalla-el-trafico-de-totoaba-la-cocaina-del-mar/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "México cancela la alerta de tsunami tras el terremoto de magnitud 7,4 que sacudió el país",
-      "url": "https://efeverde.com/alerta-tsunami-costa-mexico-guatemala-terremoto/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las mariposas de Timanfaya, termómetros de la salud del ecosistema volcánico del parque",
-      "url": "https://efeverde.com/las-mariposas-de-timanfaya-termometros-de-la-salud-del-ecosistema-volcanico-del-parque/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Se triplican los grandes incendios y la superficie afectada por el fuego en España en lo que va de año",
-      "url": "https://efeverde.com/se-triplican-los-grandes-incendios-y-la-superficie-afectada-por-el-fuego-en-lo-que-va-de-ano/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La CNMC propone que las comercializadoras eléctricas refuercen garantías para dar servicio",
-      "url": "https://efeverde.com/cnmc-comercializadoras-electricas-refuercen-servicio/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un estudio internacional plantea reinundar el mar de Aral para reducir emisiones",
-      "url": "https://efeverde.com/estudio-plantea-reinundar-mar-aral-reducir-emisiones/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Lo que debes saber: Megarreforma vuelve a la Cámara con ajustes clave y reservas de constitucionalidad",
-      "url": "https://www.terram.cl/lo-que-debes-saber-megarreforma-vuelve-a-la-camara-con-ajustes-clave-y-reservas-de-constitucionalidad/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Industria del salmón: micro-relocalización, un cambio mayor disfrazado de menor",
-      "url": "https://www.terram.cl/industria-del-salmon-micro-relocalizacion-un-cambio-mayor-disfrazado-de-menor/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "DECLARACIÓN | Organizaciones manifiestan rechazo por flexibilización de estándares ambientales para salmoneras en Chile",
-      "url": "https://www.terram.cl/declaracion-organizaciones-manifiestan-rechazo-por-flexibilizacion-de-estandares-ambientales-para-salmoneras-en-chile/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Lluvias, marejadas y vientos extremos: tres fallecidos y miles de afectados por sistema frontal",
-      "url": "https://www.terram.cl/lluvias-marejadas-y-vientos-extremos-tres-fallecidos-y-miles-de-afectados-por-sistema-frontal/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Lanzan programa de US$ 39 millones para masificar la agroecología y ganadería regenerativa en Chile",
-      "url": "https://www.terram.cl/lanzan-programa-de-us-39-millones-para-masificar-la-agroecologia-y-ganaderia-regenerativa-en-chile/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Bruselas suaviza el sistema que penaliza las emisiones de CO₂ tras la presión de una decena de gobiernos",
-      "url": "https://www.terram.cl/bruselas-suaviza-el-sistema-que-penaliza-las-emisiones-de-co%e2%82%82-tras-la-presion-de-una-decena-de-gobiernos/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades ambientales y expertos descartan intervención artificial en humedales de Tongoy y llaman a la tranquilidad ante sistema frontal",
-      "url": "https://mma.gob.cl/autoridades-ambientales-y-expertos-descartan-intervencion-artificial-en-humedales-de-tongoy-y-llaman-a-la-tranquilidad-ante-sistema-frontal/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Actualización de la Guía de Delimitación y Caracterización de Humedales Urbanos: proceso de información pública se amplía hasta el 31 de julio",
-      "url": "https://mma.gob.cl/actualizacion-de-la-guia-de-delimitacion-y-caracterizacion-de-humedales-urbanos-proceso-de-informacion-publica-se-amplia-hasta-el-31-de-julio/",
-      "fecha": "2026-07-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Comunidad Indígena diaguita presenta reclamación por aprobación de prospección minera",
-      "url": "https://www.mch.cl/comunidad-indigena-diaguita-presenta-reclamacion-por-aprobacion-de-prospeccion-minera/",
-      "fecha": "2026-07-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
