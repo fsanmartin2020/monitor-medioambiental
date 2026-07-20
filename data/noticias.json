@@ -1,101 +1,85 @@
 {
-  "fecha_actualizacion": "2026-07-19T08:09:53.157319-04:00",
-  "total": 12,
+  "fecha_actualizacion": "2026-07-20T09:18:51.803823-04:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Leyes REP, PUSU y Chao Bolsas Plásticas: Expertos analizan normativa chilena contra la contaminación por plásticos",
+      "url": "https://www.paiscircular.cl/medio-ambiente/leyes-rep-pusu-y-chao-bolsas-plasticas-expertos-analizan-normativa-chilena-contra-la-contaminacion-por-plasticos/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "La Unesco evalúa en Corea del Sur potenciales patrimonios en España, Brasil y Palestina",
-      "url": "https://efeverde.com/claves-examen-unesco-potenciales-patrimonios/",
+      "titular": "España tembló con la Roja: así recogieron los sismómetros del CSIC el gol de Ferrán",
+      "url": "https://efeverde.com/espana-temblo-final-mundial-futbol/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La tercera ola de calor llega este martes, con 45 grados previstos en Murcia",
+      "url": "https://efeverde.com/tercera-ola-de-calor-desde-este-martes/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio de Guadalajara ya ha arrasado 26.000 hectáreas y desplaza a 1.200 personas",
+      "url": "https://efeverde.com/incendio-guadalajara-arrasa-26-000-hectareas/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema descarta caducidad de RCA de proyecto ya iniciado y rechaza reclamo ambiental",
+      "url": "https://www.diarioconstitucional.cl/2026/07/20/corte-suprema-descarta-caducidad-de-rca-de-proyecto-ya-iniciado-y-rechaza-reclamo-ambiental/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental revisará aprobación ambiental del proyecto de prospección El Alto de Barrick",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisara-aprobacion-ambiental-del-proyecto-de-prospeccion-el-alto-de-barrick/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Amenazados por los golpes de calor, los perros intentan sobrellevar la temperatura extrema",
+      "url": "https://efeverde.com/golpes-calor-perros-temperatura-extrema/",
       "fecha": "2026-07-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Islandia y su vuelta a la caza de ballenas, unos cetáceos en la Lista Roja de la UICN",
-      "url": "https://efeverde.com/islandia-caza-ballenas-lista-roja-uicn/",
+      "titular": "Piscinas, toldos y árboles: así protegen los refugios a los animales ante el calor extremo",
+      "url": "https://efeverde.com/asi-protegen-refugios-animales-calor-extremo/",
       "fecha": "2026-07-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Entra en vigor la ley de la UE que limita la destrucción de prendas no vendidas",
-      "url": "https://efeverde.com/entra-vigor-ley-ue-limita-destruccion-ropa/",
+      "titular": "Al menos 6 fallecidos y decenas de heridos tras terremoto en el centro de Perú",
+      "url": "https://efeverde.com/fallecidos-heridos-terremoto-centro-peru/",
       "fecha": "2026-07-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los osos pardos cantábricos exageran su tamaño para impresionar a rivales y hembras",
-      "url": "https://efeverde.com/osos-pardos-cantabricos-exageran-su-tamano/",
-      "fecha": "2026-07-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio de Onés (Zaragoza) deja de avanzar mientras que el de Guadalajara afecta ya a 13.000 hectáreas",
-      "url": "https://efeverde.com/incendios-forestales-ones-zaragoza-sierra-guadalajara/",
-      "fecha": "2026-07-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Gestión de flotas: Todo va sobre ruedas, también la sostenibilidad. Por Almudena García García",
-      "url": "https://efeverde.com/gestion-de-flotas-todo-va-sobre-ruedas-tambien-la-sostenibilidad-por-almudena-garcia-garcia/",
-      "fecha": "2026-07-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Biodomo de Granada, un viaje a la biodiversidad del mundo que blinda flora y fauna",
-      "url": "https://efeverde.com/biodomo-granada-viaje-biodiversidad/",
-      "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace denuncia desproporción policial tras la detención de nueve activistas en Madrid",
-      "url": "https://efeverde.com/greenpeace-denuncia-desproporcion-policial-detencion-activistas-madrid/",
-      "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El doble reto de la Ribeira Sacra, candidatura de España a Patrimonio Mundial de la Unesco",
-      "url": "https://efeverde.com/ribeira-sacra-candidatura-espana-patrimonio-mundial-unesco/",
-      "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La lluvia podría mejora la calidad del aire para la final del Mundial en Nueva Jersey",
-      "url": "https://efeverde.com/calidad-aire-final-mundial-futbol/",
-      "fecha": "2026-07-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Aemet avisa de una nueva ola de calor a partir del martes, con temperaturas de hasta 45 grados",
-      "url": "https://efeverde.com/aemet-nueva-ola-de-calor-martes-temperaturas-hasta-45-grados/",
-      "fecha": "2026-07-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Eusebio Sacristán, histórico de España: “Ha habido situaciones que dan a pensar que se beneficia a Argentina”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/eusebio-sacristan-historico-de-espana-ha-habido-situaciones-que-dan-a-pensar-que-se-beneficia-a-argentina/",
-      "fecha": "2026-07-18",
+      "titular": "”Abnegación constitucional”",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/abnegacion-constitucional-2/",
+      "fecha": "2026-07-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
