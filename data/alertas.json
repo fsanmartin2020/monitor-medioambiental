@@ -1,28 +1,51 @@
 {
-  "fecha_generacion": "2026-07-20T09:18:51.816847-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-07-21T08:38:07.565267-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema descarta caducidad de RCA de proyecto ya iniciado y rechaza reclamo ambiental",
-      "url": "https://www.diarioconstitucional.cl/2026/07/20/corte-suprema-descarta-caducidad-de-rca-de-proyecto-ya-iniciado-y-rechaza-reclamo-ambiental/",
-      "fecha": "2026-07-20",
+      "fuente": "BioBioChile",
+      "titular": "Periodista argentino ataca a FIFA y pide que Balón de Oro a Rodri sea de Messi: \"Fue más determinante\"",
+      "url": "https://www.biobiochile.cl/especial/mundial2026/noticias/2026/07/20/periodista-argentino-pide-que-balon-oro-mundial-2026-sea-para-lionel-messi-y-no-rodri.shtml",
+      "fecha": "2026-07-21",
       "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
+      "metodo_extraccion": "links-genericos",
       "extracto": "",
       "keywords_detectadas": [
-        "Corte Suprema",
-        "RCA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental revisará aprobación ambiental del proyecto de prospección El Alto de Barrick",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-revisara-aprobacion-ambiental-del-proyecto-de-prospeccion-el-alto-de-barrick/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
       "fecha": "2026-07-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Comunidad Indígena Diaguita Alta Cordillera cuestionó la aprobación ambiental del proyecto de prospección El Alto, de Compañía Minera Nevada SpA, filial de Barrick Gold. El Primer Tribunal Ambiental acogió a trámite la reclamación y solicitó al Se",
+      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ley REP: el período de declaración 2026 para productores de productos prioritarios será a partir del último trimestre",
+      "url": "https://mma.gob.cl/ley-rep-el-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios-sera-a-partir-del-ultimo-trimestre/",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Ministerio del Medio Ambiente informa que el período de declaración 2026 para los productores sujetos a la Ley de […]",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Primer Tribunal Ambiental admite a trámite reclamación contra aprobación de prospección minera El Alto",
+      "url": "https://www.portalminero.com/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto",
+      "fecha": "2026-07-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción fue presentada por la Comunidad Indígena Diaguita Alta Cordillera contra la resolución del SEA que confirmó la calificación ambiental favorable del proyecto. El tribunal también analiza una solicitud de suspensión de los efectos de la RCA m",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
