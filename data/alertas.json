@@ -1,53 +1,53 @@
 {
-  "fecha_generacion": "2026-07-21T08:38:07.565267-04:00",
+  "fecha_generacion": "2026-07-22T08:40:00.067835-04:00",
   "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "BioBioChile",
-      "titular": "Periodista argentino ataca a FIFA y pide que Balón de Oro a Rodri sea de Messi: \"Fue más determinante\"",
-      "url": "https://www.biobiochile.cl/especial/mundial2026/noticias/2026/07/20/periodista-argentino-pide-que-balon-oro-mundial-2026-sea-para-lionel-messi-y-no-rodri.shtml",
-      "fecha": "2026-07-21",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ley REP: el período de declaración 2026 para productores de productos prioritarios será a partir del último trimestre",
-      "url": "https://mma.gob.cl/ley-rep-el-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios-sera-a-partir-del-ultimo-trimestre/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ministerio del Medio Ambiente informa que el período de declaración 2026 para los productores sujetos a la Ley de […]",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
+      "fuente": "Terram",
       "titular": "Primer Tribunal Ambiental admite a trámite reclamación contra aprobación de prospección minera El Alto",
-      "url": "https://www.portalminero.com/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto",
-      "fecha": "2026-07-20",
+      "url": "https://www.terram.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "La acción fue presentada por la Comunidad Indígena Diaguita Alta Cordillera contra la resolución del SEA que confirmó la calificación ambiental favorable del proyecto. El tribunal también analiza una solicitud de suspensión de los efectos de la RCA m",
       "keywords_detectadas": [
         "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA participó en reunión de la Alianza Anticorrupción de la ONU que busca fortalecer la integridad pública",
+      "url": "https://portal.sma.gob.cl/index.php/sma-participo-en-reunion-de-la-alianza-anticorrupcion-de-la-onu-que-busca-fortalecer-la-integridad-publica/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En la sede del PNUD se realizó un nuevo encuentro de la Alianza Anticorrupción de Naciones Unidas (UNCAC), instancia de la que es parte la Superintendencia del Medio Ambiente (SMA) desde junio de 2024, y que tiene como objetivo combatir la corrupción",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental acoge reclamación de comunidades contra aprobación de sistema de almacenamiento de energía",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-reclamacion-de-comunidades-contra-aprobacion-de-sistema-de-almacenamiento-de-energia/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Según se consigna en la acción judicial, las observaciones ciudadanas de los reclamantes no habrían sido debidamente consideradas para la calificación favorable del proyecto. La entrada Tribunal Ambiental acoge reclamación de comunidades contra aprob",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ley REP: MMA anuncia fecha de inicio del Período de declaración 2026 para productores de productos prioritarios",
+      "url": "https://www.revistaei.cl/ley-rep-mma-anuncia-fecha-de-inicio-del-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se informó que se trata de un proceso de actualización general de las plataformas informáticas asociadas a la implementación de la normativa que actualmente desarrolla el Ministerio. La entrada Ley REP: MMA anuncia fecha de inicio del Período de decl",
+      "keywords_detectadas": [
+        "Ley REP"
       ]
     }
   ]

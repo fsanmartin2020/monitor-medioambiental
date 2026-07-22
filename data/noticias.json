@@ -1,205 +1,285 @@
 {
-  "fecha_actualizacion": "2026-07-21T08:38:07.551913-04:00",
-  "total": 25,
+  "fecha_actualizacion": "2026-07-22T08:40:00.053888-04:00",
+  "total": 35,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "El cambio en los hábitos de consumo en Latinoamérica enfrenta algunas resistencias",
-      "url": "https://www.paiscircular.cl/tendencias/el-cambio-en-los-habitos-de-consumo-en-latinoamerica-enfrenta-algunas-resistencias/",
-      "fecha": "2026-07-21",
+      "titular": "Ante sistema frontal que no da tregua, especialistas advierten que no basta para revertir la megasequía",
+      "url": "https://www.paiscircular.cl/agua/ante-sistema-frontal-que-no-da-tregua-especialistas-advierten-que-no-basta-para-revertir-megasequia-en-chile/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "El impacto ambiental de la IA y la preocupación en Sudamérica",
-      "url": "https://www.paiscircular.cl/tendencias/el-impacto-ambiental-de-la-ia-y-la-preocupacion-en-sudamerica/",
-      "fecha": "2026-07-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Vino en lata: una tendencia innovadora con múltiples atributos de sostenibilidad",
-      "url": "https://www.paiscircular.cl/empresa-e-innovacion/vino-en-lata-una-tendencia-innovadora-con-multiples-atributos-de-sostenibilidad/",
-      "fecha": "2026-07-21",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "La verdadera crisis energética: El límite de la refinación",
+      "url": "https://www.chiledesarrollosustentable.cl/la-verdadera-crisis-energetica-el-limite-de-la-refinacion/?utm_source=rss&utm_medium=rss&utm_campaign=la-verdadera-crisis-energetica-el-limite-de-la-refinacion",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El incendio de Guadalajara empieza «a ver la luz» tras quemar 29.000 hectáreas",
-      "url": "https://efeverde.com/incendio-guadalajara-empieza-ver-luz/",
-      "fecha": "2026-07-21",
+      "titular": "¿Sobra ropa en el mercado? Por May",
+      "url": "https://efeverde.com/ropa-mercado-mundomay-may/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La contaminación atmosférica en la infancia se asocia a más riesgo de síndrome metabólico",
-      "url": "https://efeverde.com/contaminacion-atmosferica-infancia-sindrome-metabolico/",
-      "fecha": "2026-07-21",
+      "titular": "El incendio de la Sierra Norte de Guadalajara dispara la superficie quemada hasta las casi 120.000 hectáreas",
+      "url": "https://efeverde.com/incendio-superficie-quemada/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Petro advierte que Colombia afrontará un «meganiño» en diciembre y pide preparar al país",
-      "url": "https://efeverde.com/petro-advierte-que-colombia-afrontara-un-meganino-en-diciembre-y-pide-preparar-al-pais/",
-      "fecha": "2026-07-21",
+      "titular": "El incendio de la Sierra Norte de Guadalajara es ya el segundo por superficie quemada",
+      "url": "https://efeverde.com/el-incendio-de-la-sierra-norte-de-guadalajara-es-ya-el-segundo-por-superficie-quemada/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Adiós ‘pausa’: el hielo invernal del Ártico vuelve a disminuir drásticamente",
-      "url": "https://efeverde.com/adios-pausa-el-hielo-invernal-del-artico-vuelve-a-disminuir-drasticamente/",
-      "fecha": "2026-07-21",
+      "titular": "El meloncillo amplía su área de distribución ayudado por el aumento de temperaturas y el abandono rural",
+      "url": "https://efeverde.com/el-meloncillo-amplia-su-area-de-distribucion-ayudado-por-el-aumento-de-temperaturas-y-el-abandono-rural/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "BioBioChile",
-      "titular": "Periodista argentino ataca a FIFA y pide que Balón de Oro a Rodri sea de Messi: \"Fue más determinante\"",
-      "url": "https://www.biobiochile.cl/especial/mundial2026/noticias/2026/07/20/periodista-argentino-pide-que-balon-oro-mundial-2026-sea-para-lionel-messi-y-no-rodri.shtml",
-      "fecha": "2026-07-21",
+      "fuente": "La Segunda",
+      "titular": "Giorgio Boccardo: “Antes que discutir sobre cuál sector incide más, es fundamental que tengamos unidad”",
+      "url": "https://www.lasegunda.com/Noticias/Conversacion/2026/07/1114537/giorgio-boccardo-frente-amplio-iaquierda",
+      "fecha": "2026-07-22",
       "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Ciudades más resilientes frente a las lluvias requieren áreas verdes mejor planificadas",
-      "url": "https://codexverde.cl/ciudades-mas-resilientes-frente-a-las-lluvias-requieren-areas-verdes-mejor-planificadas/",
-      "fecha": "2026-07-20",
+      "fuente": "País Circular",
+      "titular": "Nueva serie documental “Travesía Circular” visibiliza los casos que posicionan a Los Lagos como líder en economía circular",
+      "url": "https://www.paiscircular.cl/economia-circular/nueva-serie-documental-travesia-circular-visibiliza-los-casos-que-posicionan-a-los-lagos-como-lider-en-economia-circular/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Humedales y desastres naturales: Claves para ciudades más resilientes",
+      "url": "https://www.paiscircular.cl/opinion/humedales-y-desastres-naturales-claves-para-ciudades-mas-resilientes/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Más de 30 empresas completan ciclo de formación en innovación y tecnología para el reciclaje metálico",
+      "url": "https://www.paiscircular.cl/economia-circular/mas-de-30-empresas-completan-ciclo-de-formacion-en-innovacion-y-tecnologia-para-el-reciclaje-metalico/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Nespresso impulsa el reciclaje de cápsulas en Chile, invitando a dar una segunda vida a cada taza de café",
+      "url": "https://www.chiledesarrollosustentable.cl/nespresso-impulsa-el-reciclaje-de-capsulas-en-chile-invitando-a-dar-una-segunda-vida-a-cada-taza-de-cafe/?utm_source=rss&utm_medium=rss&utm_campaign=nespresso-impulsa-el-reciclaje-de-capsulas-en-chile-invitando-a-dar-una-segunda-vida-a-cada-taza-de-cafe",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Proyecto internacional estudiará fósiles chilenos para comprender la evolución del tiburón blanco",
-      "url": "https://codexverde.cl/estudian-fosiles-chilenos-sobre-la-evolucion-del-tiburon-blanco/",
-      "fecha": "2026-07-20",
+      "titular": "Nuevo Índice de Resiliencia Comunal revela brechas en la preparación de los municipios frente a emergencias",
+      "url": "https://codexverde.cl/nuevo-indice-de-resiliencia-comunal-revela-brechas-en-la-preparacion-de-los-municipios-frente-a-emergencias/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Pequeño roedor de Los Andes: ¿Cómo vive un mamífero a 6.700 metros de altura?",
+      "url": "https://codexverde.cl/como-vive-un-mamifero-a-6-700-metros-de-altura/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bruselas pide suspender hasta 2030 las multas por incumplir la ley de metano",
-      "url": "https://efeverde.com/bruselas-pide-suspender-2030-multas-ley-metano/",
-      "fecha": "2026-07-20",
+      "titular": "Asturias prohibirá en 2027 la pesca del salmón, pero preservará la tradición del ‘campanu’",
+      "url": "https://efeverde.com/asturias-prohibira-en-2027-la-pesca-del-salmon-pero-preservara-la-tradicion-del-campanu/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Más de 2.000 peces muertos por un vertido ganadero en el río Pisueña (Cantabria)",
-      "url": "https://efeverde.com/peces-muertos-vertido-ganadero-rio-pisuena/",
-      "fecha": "2026-07-20",
+      "titular": "Doñana ha recibido 659 litros de agua en este año hidrológico, 100 más que su media histórica",
+      "url": "https://efeverde.com/donana-agua/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 57 % de aves cinegéticas presenta un declive poblacional en España, según SEO/BirdLife",
+      "url": "https://efeverde.com/aves-cinegeticas-declive-poblacional-en-espana/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Amazonía brasileña registró en 2025 la menor superficie quemada en 41 años",
+      "url": "https://efeverde.com/amazonia-brasilena-en-2025-menor-superficie-quemada/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Aemet tilda de «nada habitual» este verano: casi 50 días seguidos «sin respiro al calor»",
+      "url": "https://efeverde.com/aemet-verano-casi-50-dias-seguidos-sin-respiro-calor/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Gobierno decreta zona de catástrofe en la región de Coquimbo y en la provincia del Huasco en Atacama",
-      "url": "https://www.terram.cl/gobierno-decreta-zona-de-catastrofe-en-la-region-de-coquimbo-y-en-la-provincia-del-huasco-en-atacama/",
-      "fecha": "2026-07-20",
+      "titular": "Denuncian que ballena jorobada varó totalmente enmallada en Hornitos: “Es una pérdida irreparable”",
+      "url": "https://www.terram.cl/denuncian-que-ballena-jorobada-varo-totalmente-enmallada-en-hornitos-es-una-perdida-irreparable/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Chile: “Un Ministerio de Hacienda todopoderoso, sin contrapeso, no es un buen escenario para regulaciones de protección ambiental” | ENTREVISTA",
-      "url": "https://www.terram.cl/chile-un-ministerio-de-hacienda-todopoderoso-sin-contrapeso-no-es-un-buen-escenario-para-regulaciones-de-proteccion-ambiental-entrevista/",
-      "fecha": "2026-07-20",
+      "titular": "China apuesta por el oro en Chile: empresa minera compró cientos de hectáreas para explotar en pequeña localidad de la Región de Los Ríos",
+      "url": "https://www.terram.cl/china-apuesta-por-el-oro-en-chile-empresa-minera-compro-cientos-de-hectareas-para-explotar-en-pequena-localidad-de-la-region-de-los-rios/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "‘Lo que antes absorbía el humedal (ahora) termina inundando las calles’",
-      "url": "https://www.terram.cl/lo-que-antes-absorbia-el-humedal-ahora-termina-inundando-las-calles/",
-      "fecha": "2026-07-20",
+      "titular": "Pesca artesanal advierte falta de protección social y de estudios climáticos tras el retiro de la Ley de Pesca",
+      "url": "https://www.terram.cl/pesca-artesanal-advierte-falta-de-proteccion-social-y-de-estudios-climaticos-tras-el-retiro-de-la-ley-de-pesca/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Bajo el hielo: minería, glaciares y las grietas de la transición verde en Yerba Loca",
-      "url": "https://www.terram.cl/bajo-el-hielo-mineria-glaciares-y-las-grietas-de-la-transicion-verde-en-yerba-loca/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Proyecto chileno logra reducir en más de un 50% las pérdidas de agua con IA aplicada al riego",
-      "url": "https://www.terram.cl/proyecto-chileno-logra-reducir-en-mas-de-un-50-las-perdidas-de-agua-con-ia-aplicada-al-riego/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "En un año: Glaciar Universidad perdió el equivalente al consumo anual de agua de una ciudad de 580 mil habitantes",
-      "url": "https://www.terram.cl/en-un-ano-glaciar-universidad-perdio-el-equivalente-al-consumo-anual-de-agua-de-una-ciudad-de-580-mil-habitantes/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Boletín 2TA. N°6, abril – junio 2026",
-      "url": "https://tribunalambiental.cl/boletin-2ta-n6-abril-junio-2026/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble mantiene monitoreo de reservas nacionales y  prohibición de ingreso por cierre invernal",
-      "url": "https://www.conaf.cl/conaf-nuble-mantiene-monitoreo-de-reservas-nacionales-y-prohibicion-de-ingreso-por-cierre-invernal/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-mantiene-monitoreo-de-reservas-nacionales-y-prohibicion-de-ingreso-por-cierre-invernal",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble y Municipalidad de Quirihue firman convenio para fortalecer el uso seguro del fuego y prevenir incendios forestales",
-      "url": "https://www.conaf.cl/conaf-nuble-y-municipalidad-de-quirihue-firman-convenio-para-fortalecer-el-uso-seguro-del-fuego-y-prevenir-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-y-municipalidad-de-quirihue-firman-convenio-para-fortalecer-el-uso-seguro-del-fuego-y-prevenir-incendios-forestales",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ante nuevo sistema frontal: autoridades llaman a proteger los humedales urbanos como primera barrera frente a inundaciones",
-      "url": "https://mma.gob.cl/ante-nuevo-sistema-frontal-autoridades-llaman-a-proteger-los-humedales-urbanos-como-primera-barrera-frente-a-inundaciones/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ley REP: el período de declaración 2026 para productores de productos prioritarios será a partir del último trimestre",
-      "url": "https://mma.gob.cl/ley-rep-el-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios-sera-a-partir-del-ultimo-trimestre/",
-      "fecha": "2026-07-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
       "titular": "Primer Tribunal Ambiental admite a trámite reclamación contra aprobación de prospección minera El Alto",
-      "url": "https://www.portalminero.com/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto",
-      "fecha": "2026-07-20",
+      "url": "https://www.terram.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Denuncian vertimiento ilegal en Chaca Norte",
+      "url": "https://www.terram.cl/denuncian-vertimiento-ilegal-en-chaca-norte/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Sistema frontal: la razón por la que algunos ríos crecen en minutos y otros tardan días",
+      "url": "https://www.terram.cl/sistema-frontal-la-razon-por-la-que-algunos-rios-crecen-en-minutos-y-otros-tardan-dias/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF extiende el cierre preventivo de las áreas protegidas de la región hasta el 27 de julio",
+      "url": "https://www.conaf.cl/conaf-extiende-el-cierre-preventivo-de-las-areas-protegidas-de-la-region-hasta-el-27-de-julio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-extiende-el-cierre-preventivo-de-las-areas-protegidas-de-la-region-hasta-el-27-de-julio",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA participó en reunión de la Alianza Anticorrupción de la ONU que busca fortalecer la integridad pública",
+      "url": "https://portal.sma.gob.cl/index.php/sma-participo-en-reunion-de-la-alianza-anticorrupcion-de-la-onu-que-busca-fortalecer-la-integridad-publica/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades ambientales refuerzan despliegue preventivo con inspección técnica a proyecto HidroÑuble en San Fabián",
+      "url": "https://mma.gob.cl/autoridades-ambientales-refuerzan-despliegue-preventivo-con-inspeccion-tecnica-a-proyecto-hidronuble-en-san-fabian/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades de Medio Ambiente y Deporte recorren sectores más afectados por temporal de Concón, Quintero y Puchuncaví",
+      "url": "https://mma.gob.cl/autoridades-de-medio-ambiente-y-deporte-recorren-sectores-mas-afectados-por-temporal-de-concon-quintero-y-puchuncavi/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Megarreforma: Quiroz va por su revancha y oficialismo acelera trámite de comisión mixta para este miércoles",
+      "url": "https://www.latercera.com/politica/noticia/megarreforma-quiroz-va-por-su-revancha-y-oficialismo-acelera-tramite-de-comision-mixta-para-este-miercoles/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Gobierno desiste de mecanismo para juzgar menores como adultos e ingresa indicaciones para modificar ley de responsabilidad adolescente",
+      "url": "https://www.latercera.com/nacional/noticia/gobierno-desiste-de-mecanismo-para-juzgar-menores-como-adultos-e-ingresa-indicaciones-para-modificar-ley-de-responsabilidad-adolescente/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Minsal refuerza vacunación contra la hepatitis A en zonas de riesgo y amplía la de influenza para toda la población",
+      "url": "https://www.latercera.com/nacional/noticia/minsal-refuerza-vacunacion-contra-la-hepatitis-a-en-zonas-de-riesgo-y-amplia-la-de-influenza-para-toda-la-poblacion/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "El análisis de Moody’s sobre los efectos en Enap de las modificaciones al Mepco y los factores de su futura clasificación",
+      "url": "https://www.latercera.com/pulso/noticia/el-analisis-de-moodys-sobre-los-efectos-en-enap-tras-las-modificaciones-al-mepco-y-los-factores-de-su-futura-clasificacion/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Proyecto de Reconstrucción: Cámara aprueba casi la totalidad de modificaciones efectuadas por el Senado",
+      "url": "https://www.mch.cl/proyecto-de-reconstruccion-camara-aprueba-casi-la-totalidad-de-modificaciones-efectuadas-por-el-senado/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Tribunal Ambiental acoge reclamación de comunidades contra aprobación de sistema de almacenamiento de energía",
+      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-reclamacion-de-comunidades-contra-aprobacion-de-sistema-de-almacenamiento-de-energia/",
+      "fecha": "2026-07-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ley REP: MMA anuncia fecha de inicio del Período de declaración 2026 para productores de productos prioritarios",
+      "url": "https://www.revistaei.cl/ley-rep-mma-anuncia-fecha-de-inicio-del-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios/",
+      "fecha": "2026-07-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
