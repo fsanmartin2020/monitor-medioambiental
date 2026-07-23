@@ -1,53 +1,77 @@
 {
-  "fecha_generacion": "2026-07-22T08:40:00.067835-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-07-23T08:40:20.006854-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "Primer Tribunal Ambiental admite a trámite reclamación contra aprobación de prospección minera El Alto",
-      "url": "https://www.terram.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-contra-aprobacion-de-prospeccion-minera-el-alto/",
-      "fecha": "2026-07-21",
+      "fuente": "BioBioChile",
+      "titular": "\"El que sea su asistente que le suba el sueldo\": Kel Calderón acompañó a Raquel Argandoña en FdB",
+      "url": "https://www.biobiochile.cl/noticias/dopamina/2026/07/23/el-que-sea-su-asistente-que-le-suba-el-sueldo-kel-calderon-acompano-a-raquel-argandona-en-fdb.shtml",
+      "fecha": "2026-07-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
+      "url": "https://www.nuevamineria.com/revista/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La acción fue presentada por la Comunidad Indígena Diaguita Alta Cordillera contra la resolución del SEA que confirmó la calificación ambiental favorable del proyecto. El tribunal también analiza una solicitud de suspensión de los efectos de la RCA m",
+      "extracto": "El organismo fiscalizador abrió una investigación para determinar el cumplimiento de la normativa ambiental luego de que la compañía reportara la activación de su sistema de evacuación de aguas debido a un deslizamiento provocado por el sistema front",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Derrame de relaves mineros a metros de casas en Cabildo tras las lluvias despierta alerta en vecinos",
+      "url": "https://www.terram.cl/derrame-de-relaves-mineros-a-metros-de-casas-en-cabildo-tras-las-lluvias-despierta-alerta-en-vecinos/",
+      "fecha": "2026-07-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Agua gris y espesa con relaves tóxicos de un tranque minero corrieron a metros de las casas de una localidad rural en Cabildo por segunda vez desde 2024. Fuente: El Desconcierto, 22 de julio de 2026.",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SEIA evalúa parque eólico de USD $150M por impacto en aves del Maule",
+      "url": "https://www.terram.cl/seia-evalua-parque-eolico-de-usd-150m-por-impacto-en-aves-del-maule/",
+      "fecha": "2026-07-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa contempla instalar 22 aerogeneradores en Constitución y Chanco. Ante la preocupación de las comunidades, la empresa propone un sistema con inteligencia artificial para evitar la colisión de especies en estado de conservación. Fuente: Po",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     },
     {
       "fuente": "SMA",
-      "titular": "SMA participó en reunión de la Alianza Anticorrupción de la ONU que busca fortalecer la integridad pública",
-      "url": "https://portal.sma.gob.cl/index.php/sma-participo-en-reunion-de-la-alianza-anticorrupcion-de-la-onu-que-busca-fortalecer-la-integridad-publica/",
-      "fecha": "2026-07-21",
+      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
+      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En la sede del PNUD se realizó un nuevo encuentro de la Alianza Anticorrupción de Naciones Unidas (UNCAC), instancia de la que es parte la Superintendencia del Medio Ambiente (SMA) desde junio de 2024, y que tiene como objetivo combatir la corrupción",
+      "extracto": "La Superintendencia del Medio Ambiente (SMA), ante la contingencia ocurrida en Minera Los Pelambres, inició una investigación con el objetivo de levantar todos los antecedentes y resguardar el debido cumplimiento de la normativa ambiental vigente. De",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental acoge reclamación de comunidades contra aprobación de sistema de almacenamiento de energía",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-acoge-reclamacion-de-comunidades-contra-aprobacion-de-sistema-de-almacenamiento-de-energia/",
-      "fecha": "2026-07-21",
+      "titular": "Superintendencia del Medio Ambiente participa en reunión de alianza anticorrupción de la ONU",
+      "url": "https://www.revistaei.cl/superintendencia-del-medio-ambiente-participa-en-reunion-de-alianza-anticorrupcion-de-la-onu/",
+      "fecha": "2026-07-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Según se consigna en la acción judicial, las observaciones ciudadanas de los reclamantes no habrían sido debidamente consideradas para la calificación favorable del proyecto. La entrada Tribunal Ambiental acoge reclamación de comunidades contra aprob",
+      "extracto": "El encuentro tuvo la finalidad de dar a conocer el trabajo desarrollado durante 2025, con foco en los avances de los grupos que constituyen la iniciativa. La entrada Superintendencia del Medio Ambiente participa en reunión de alianza anticorrupción d",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Ley REP: MMA anuncia fecha de inicio del Período de declaración 2026 para productores de productos prioritarios",
-      "url": "https://www.revistaei.cl/ley-rep-mma-anuncia-fecha-de-inicio-del-periodo-de-declaracion-2026-para-productores-de-productos-prioritarios/",
-      "fecha": "2026-07-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se informó que se trata de un proceso de actualización general de las plataformas informáticas asociadas a la implementación de la normativa que actualmente desarrolla el Ministerio. La entrada Ley REP: MMA anuncia fecha de inicio del Período de decl",
-      "keywords_detectadas": [
-        "Ley REP"
+        "Superintendencia del Medio Ambiente"
       ]
     }
   ]
