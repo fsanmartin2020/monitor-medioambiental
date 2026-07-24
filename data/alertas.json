@@ -1,77 +1,53 @@
 {
-  "fecha_generacion": "2026-07-23T08:40:20.006854-04:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-07-24T08:33:18.329196-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "BioBioChile",
-      "titular": "\"El que sea su asistente que le suba el sueldo\": Kel Calderón acompañó a Raquel Argandoña en FdB",
-      "url": "https://www.biobiochile.cl/noticias/dopamina/2026/07/23/el-que-sea-su-asistente-que-le-suba-el-sueldo-kel-calderon-acompano-a-raquel-argandona-en-fdb.shtml",
-      "fecha": "2026-07-23",
+      "fuente": "SMA",
+      "titular": "SMA expande uso del Gestor de Obligaciones en el SISAT a los Planes de Descontaminación del Gran Concepción y Los Ángeles",
+      "url": "https://portal.sma.gob.cl/index.php/sma-expande-uso-del-gestor-de-obligaciones-en-el-sisat-a-los-planes-de-descontaminacion-del-gran-concepcion-y-los-angeles/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La herramienta del Sistema de Seguimiento Atmosférico (SISAT) permite a los titulares de más de 700 fuentes catastradas conocer con claridad sus exigencias de muestreo/medición, optimizar sus reportes en plazo y fortalecer la fiscalización ambiental ",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Presidenta de ONG chilena que denunció al país ante EEUU: “Nuestro objetivo no es que Chile sea sancionado”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-de-ong-chilena-que-denuncio-al-pais-ante-eeuu-nuestro-objetivo-no-es-que-chile-sea-sancionado/",
+      "fecha": "2026-07-24",
       "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
+      "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
-      "url": "https://www.nuevamineria.com/revista/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
+      "fuente": "La Tercera",
+      "titular": "SMA investiga deslizamiento de material en Los Pelambres y AMSA descarta impacto en operaciones",
+      "url": "https://www.latercera.com/pulso/noticia/sma-inicia-investigacion-por-deslizamiento-de-material-en-minera-los-pelambres-y-empresa-descarta-impacto/",
       "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El organismo fiscalizador abrió una investigación para determinar el cumplimiento de la normativa ambiental luego de que la compañía reportara la activación de su sistema de evacuación de aguas debido a un deslizamiento provocado por el sistema front",
+      "extracto": "\"La información que entregan las dos estaciones de monitoreo del estero, que se encuentran en línea con la Dirección General de Aguas (DGA), muestran que este vertimiento controlado prácticamente no generó cambios en la calidad ni cantidad de sus agu",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Derrame de relaves mineros a metros de casas en Cabildo tras las lluvias despierta alerta en vecinos",
-      "url": "https://www.terram.cl/derrame-de-relaves-mineros-a-metros-de-casas-en-cabildo-tras-las-lluvias-despierta-alerta-en-vecinos/",
-      "fecha": "2026-07-22",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente EIA de proyecto de División Andina de Codelco",
+      "url": "https://www.mch.cl/se-califica-favorablemente-eia-de-proyecto-de-division-andina-de-codelco/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Agua gris y espesa con relaves tóxicos de un tranque minero corrieron a metros de las casas de una localidad rural en Cabildo por segunda vez desde 2024. Fuente: El Desconcierto, 22 de julio de 2026.",
+      "extracto": "Iniciativa tiene por objetivo construir y operar infraestructura para conducir aguas para uso industrial. La entrada Se califica favorablemente EIA de proyecto de División Andina de Codelco se publicó primero en Mch .",
       "keywords_detectadas": [
-        "derrame"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "SEIA evalúa parque eólico de USD $150M por impacto en aves del Maule",
-      "url": "https://www.terram.cl/seia-evalua-parque-eolico-de-usd-150m-por-impacto-en-aves-del-maule/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa contempla instalar 22 aerogeneradores en Constitución y Chanco. Ante la preocupación de las comunidades, la empresa propone un sistema con inteligencia artificial para evitar la colisión de especies en estado de conservación. Fuente: Po",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
-      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente (SMA), ante la contingencia ocurrida en Minera Los Pelambres, inició una investigación con el objetivo de levantar todos los antecedentes y resguardar el debido cumplimiento de la normativa ambiental vigente. De",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Superintendencia del Medio Ambiente participa en reunión de alianza anticorrupción de la ONU",
-      "url": "https://www.revistaei.cl/superintendencia-del-medio-ambiente-participa-en-reunion-de-alianza-anticorrupcion-de-la-onu/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El encuentro tuvo la finalidad de dar a conocer el trabajo desarrollado durante 2025, con foco en los avances de los grupos que constituyen la iniciativa. La entrada Superintendencia del Medio Ambiente participa en reunión de alianza anticorrupción d",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "EIA"
       ]
     }
   ]

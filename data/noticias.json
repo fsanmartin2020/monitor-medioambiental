@@ -1,253 +1,325 @@
 {
-  "fecha_actualizacion": "2026-07-23T08:40:19.990766-04:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-07-24T08:33:18.314564-04:00",
+  "total": 40,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Residuos de la construcción y demolición: proyecto Red ECC desarrolla un modelo para aumentar su valorización con un impulso local",
-      "url": "https://www.paiscircular.cl/ciudad/residuos-de-la-construccion-y-demolicion-proyecto-red-ecc-desarrolla-un-modelo-para-aumentar-su-valorizacion-con-un-impulso-local/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La lucha contra el fuego continúa en Guadalajara, Toledo y otros puntos críticos",
-      "url": "https://efeverde.com/lucha-contra-incendios-forestales-guadalajara-toledo/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace avisa de «fragilidad sin precedentes» del litoral, con casi 200 puntos críticos",
-      "url": "https://efeverde.com/greenpeace-fragilidad-costas/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Detectados más de 550 eventos sísmicos en Tenerife sin aumentar el peligro de erupción",
-      "url": "https://efeverde.com/eventos-sismicos-tenerife-sin-peligro-erupcion/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calor extremo agrava la sequía en Europa al evaporar las reservas de agua y resecar los suelo",
-      "url": "https://efeverde.com/calor-extremo-agrava-sequia-europa/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El cambio climático (y no El Niño), principal responsable del blanqueamiento global de los corales",
-      "url": "https://efeverde.com/cambio-climatico-responsable-blanqueamiento-corales/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“No se puede amarrar a futuras legislaturas”: Domingo Lovera detalla argumentos del requerimiento de la oposición ante el TC por megarreforma",
-      "url": "https://www.latercera.com/nacional/noticia/no-se-puede-amarrar-a-futuras-legislaturas-domingo-lovera-detalla-argumentos-del-requerimiento-de-la-oposicion-ante-el-tc-por-megarreforma/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "\"El que sea su asistente que le suba el sueldo\": Kel Calderón acompañó a Raquel Argandoña en FdB",
-      "url": "https://www.biobiochile.cl/noticias/dopamina/2026/07/23/el-que-sea-su-asistente-que-le-suba-el-sueldo-kel-calderon-acompano-a-raquel-argandona-en-fdb.shtml",
-      "fecha": "2026-07-23",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
-      "url": "https://www.nuevamineria.com/revista/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
-      "fecha": "2026-07-23",
+      "titular": "Errores al activar promociones en casinos con bonos",
+      "url": "https://www.paiscircular.cl/tendencias/errores-al-activar-promociones-en-casinos-con-bonos/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "La alerta de El Niño para los sistemas eléctricos",
-      "url": "https://www.paiscircular.cl/opinion/la-alerta-de-el-nino-para-los-sistemas-electricos/",
-      "fecha": "2026-07-22",
+      "titular": "Curso de Buzo Mariscador con Énfasis en Sostenibilidad incentiva el recambio generacional en las caletas de pescadores",
+      "url": "https://www.paiscircular.cl/biodiversidad/curso/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Sudor, Rimas Y Ascenso: El Recorrido De Kaiser Hasta La Cima",
-      "url": "https://www.paiscircular.cl/insights/sudor-rimas-y-ascenso-el-recorrido-de-kaiser-hasta-la-cima/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Cómo elegir el refrigerador ideal según tus necesidades y espacio",
-      "url": "https://www.paiscircular.cl/tendencias/como-elegir-el-refrigerador-ideal-segun-tus-necesidades-y-espacio/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Asado bien pensado: Cómo calcular porciones y aprovechar cada corte, para evitar el desperdicio de comida",
-      "url": "https://www.paiscircular.cl/tendencias/asado-bien-pensado-como-calcular-porciones-y-aprovechar-cada-corte-para-evitar-el-desperdicio-de-comida/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "De lo local a la ruta migratoria: Casos de estudio muestran cómo fortalecer la conservación de las aves playeras en diversas escalas",
-      "url": "https://codexverde.cl/de-lo-local-a-la-ruta-migratoria-casos-de-estudio-muestran-como-fortalecer-la-conservacion-de-las-aves-playeras-en-diversas-escalas/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Inundaciones en Coquimbo: especialistas señalan que falta de ordenamiento territorial agravó el impacto del sistema frontal",
-      "url": "https://codexverde.cl/falta-de-ordenamiento-territorial-agravo-impacto-del-sistema-frontal/",
-      "fecha": "2026-07-22",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Anthropic elige a Chile para una nueva edición de su programa global Claude Impact Lab, con la longevidad como desafío país",
+      "url": "https://www.chiledesarrollosustentable.cl/anthropic-elige-a-chile-para-una-nueva-edicion-de-su-programa-global-claude-impact-lab-con-la-longevidad-como-desafio-pais/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-elige-a-chile-para-una-nueva-edicion-de-su-programa-global-claude-impact-lab-con-la-longevidad-como-desafio-pais",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España es el país de la UE con mayor superficie forestal quemada en lo que va de año",
-      "url": "https://efeverde.com/espana-pais-d-ue-con-mayor-superficie-forestal-quemada/",
-      "fecha": "2026-07-22",
+      "titular": "La tercera ola de calor en España deja 151 muertes atribuibles a las altas temperaturas",
+      "url": "https://efeverde.com/tercera-ola-de-calor-espana-muertes/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Francia registró 5.764 muertes más de lo normal durante la ola de calor de final de junio",
-      "url": "https://efeverde.com/francia-muertes-ola-de-calor-de-final-de-junio/",
-      "fecha": "2026-07-22",
+      "titular": "El fuego arrasa en Ávila el hábitat de una de las mayores colonias de buitre negro de Europa",
+      "url": "https://efeverde.com/incendio-avila-buitre-negro/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La despoblación y el envejecimiento agravan los grandes incendios en España y Portugal",
-      "url": "https://efeverde.com/despoblacion-envejecimiento-agravan-incendios-forestales/",
-      "fecha": "2026-07-22",
+      "titular": "Turismo degenerativo: ¿Quién es el culpable? ¿El turismo o los turistas? Por Arturo Crosby",
+      "url": "https://efeverde.com/turismo-degenerativo-quien-es-el-culpable-el-turismo-o-los-turistas/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sánchez considera «imperativo» llegar a un pacto de Estado por la emergencia climática",
-      "url": "https://efeverde.com/sanchez-llegar-pacto-estado-emergencia-climatica/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Megarreforma pasó a comisión mixta con reserva de constitucionalidad en materia ambiental",
-      "url": "https://www.terram.cl/megarreforma-paso-a-comision-mixta-con-reserva-de-constitucionalidad-en-materia-ambiental/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Temporal casi triplica el agua almacenada en los embalses de la Región de Coquimbo",
-      "url": "https://www.terram.cl/temporal-casi-triplica-el-agua-almacenada-en-los-embalses-de-la-region-de-coquimbo/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Derrame de relaves mineros a metros de casas en Cabildo tras las lluvias despierta alerta en vecinos",
-      "url": "https://www.terram.cl/derrame-de-relaves-mineros-a-metros-de-casas-en-cabildo-tras-las-lluvias-despierta-alerta-en-vecinos/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "SEIA evalúa parque eólico de USD $150M por impacto en aves del Maule",
-      "url": "https://www.terram.cl/seia-evalua-parque-eolico-de-usd-150m-por-impacto-en-aves-del-maule/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "El océano que protegía a Chile está perdiendo su capacidad de hacerlo",
-      "url": "https://www.terram.cl/el-oceano-que-protegia-a-chile-esta-perdiendo-su-capacidad-de-hacerlo/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "La playa donde Chile recibe el verano amaneció cubierta de basura: el desafío ambiental que deja el temporal en La Serena y Coquimbo",
-      "url": "https://www.terram.cl/la-playa-donde-chile-recibe-el-verano-amanecio-cubierta-de-basura-el-desafio-ambiental-que-deja-el-temporal-en-la-serena-y-coquimbo/",
-      "fecha": "2026-07-22",
+      "titular": "El Gobierno declara la emergencia nacional en Madrid y Ávila por los graves incendios",
+      "url": "https://efeverde.com/el-gobierno-declara-la-emergencia-nacional-en-madrid-y-avila-por-los-graves-incendios/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SMA",
-      "titular": "SMA inicia investigación tras contingencia en Minera Los Pelambres",
-      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-investigacion-tras-contingencia-en-minera-los-pelambres/",
-      "fecha": "2026-07-22",
+      "titular": "SMA expande uso del Gestor de Obligaciones en el SISAT a los Planes de Descontaminación del Gran Concepción y Los Ángeles",
+      "url": "https://portal.sma.gob.cl/index.php/sma-expande-uso-del-gestor-de-obligaciones-en-el-sisat-a-los-planes-de-descontaminacion-del-gran-concepcion-y-los-angeles/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Presidenta de ONG chilena que denunció al país ante EEUU: “Nuestro objetivo no es que Chile sea sancionado”",
+      "url": "https://www.pulso.cl/pulso/noticia/presidenta-de-ong-chilena-que-denuncio-al-pais-ante-eeuu-nuestro-objetivo-no-es-que-chile-sea-sancionado/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Red ECC realizará ciclo de webinars sobre financiamiento e innovación para la economía circular en construcción",
+      "url": "https://www.paiscircular.cl/ciudad/red-ecc-realizara-ciclo-de-webinars-sobre-financiamiento-e-innovacion-para-la-economia-circular-en-construccion/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La memoria del agua",
+      "url": "https://www.paiscircular.cl/opinion/la-memoria-del-agua/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Estudio “Impacto inversión en La Ruta de los Parques”: Por cada dólar invertido en los parques nacionales de la Patagonia, seis retornan a la economía local",
+      "url": "https://www.paiscircular.cl/biodiversidad/estudio-impacto-inversion-en-la-ruta-de-los-parques-por-cada-dolar-invertido-en-los-parques-nacionales-de-la-patagonia-seis-retornan-a-la-economia-local/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Estudio «Impacto inversión en La Ruta de los Parques»: Por cada dólar invertido en los parques nacionales de la Patagonia, seis retornan a la economía local",
+      "url": "https://www.chiledesarrollosustentable.cl/estudio-impacto-inversion-en-la-ruta-de-los-parques-por-cada-dolar-invertido-en-los-parques-nacionales-de-la-patagonia-seis-retornan-a-la-economia-local/?utm_source=rss&utm_medium=rss&utm_campaign=estudio-impacto-inversion-en-la-ruta-de-los-parques-por-cada-dolar-invertido-en-los-parques-nacionales-de-la-patagonia-seis-retornan-a-la-economia-local",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Marejadas en Chile: La urgencia de adaptar las costas frente a un entorno cada vez más desafiante",
+      "url": "https://www.chiledesarrollosustentable.cl/marejadas-en-chile-la-urgencia-de-adaptar-las-costas-frente-a-un-entorno-cada-vez-mas-desafiante/?utm_source=rss&utm_medium=rss&utm_campaign=marejadas-en-chile-la-urgencia-de-adaptar-las-costas-frente-a-un-entorno-cada-vez-mas-desafiante",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Colegio Médico alerta al Gobierno y exige reponer normas ambientales clave por su impacto en la salud de la población",
+      "url": "https://codexverde.cl/colegio-medico-alerta-al-gobierno-y-exige-reponer-normas-ambientales-clave-por-su-impacto-en-la-salud-de-la-poblacion/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Análisis CR2 | El evento extremo 15-20 de julio 2026 en el marco de El Niño en desarrollo",
+      "url": "https://www.cr2.cl/el-evento-extremo-15-20-de-julio-2026-en-el-marco-de-el-nino-en-desarrollo/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Polémico traslado a Málaga de ocho delfines procedentes de un parque acuático francés",
+      "url": "https://efeverde.com/polemico-traslado-a-malaga-de-ocho-delfines-procedentes-de-un-parque-acuatico-frances/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El número de crías de pingüinos en la isla Coulman (Antártida) disminuyó un 69 % en 2025",
+      "url": "https://efeverde.com/crias-de-pinguinos-en-la-isla-coulman-antartida/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Día Mundial de las Ballenas y los Delfines. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/dia-mundial-de-las-ballenas-y-los-delfines-por-victor-solis-visoor/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los montes quemados no vuelven a ser iguales: un estudio revela secuelas que duran décadas",
+      "url": "https://efeverde.com/montes-quemados-incendios-forestales-secuelas/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Megarreforma tropieza en la última valla: Gobierno retira urgencia y aplaza su despacho hasta agosto",
+      "url": "https://www.terram.cl/megarreforma-tropieza-en-la-ultima-valla-gobierno-retira-urgencia-y-aplaza-su-despacho-hasta-agosto/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Pueblos rurales de La Ligua y Los Vilos cortan agua potable por derrames de relaves mineros tras las lluvias",
+      "url": "https://www.terram.cl/pueblos-rurales-de-la-ligua-y-los-vilos-cortan-agua-potable-por-derrames-de-relaves-mineros-tras-las-lluvias/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Lago Peñuelas llega a 32% de capacidad tras intensas lluvias",
+      "url": "https://www.terram.cl/lago-penuelas-llega-a-32-de-capacidad-tras-intensas-lluvias/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Enfermedades de animales domésticos acorralan al gato colocolo en Chile",
+      "url": "https://www.terram.cl/enfermedades-de-animales-domesticos-acorralan-al-gato-colocolo-en-chile/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Lautarinos en pie de guerra: absoluto rechazo al proyecto del relleno sanitario Pintamahuida",
+      "url": "https://www.terram.cl/lautarinos-en-pie-de-guerra-absoluto-rechazo-al-proyecto-del-relleno-sanitario-pintamahuida/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Investigan por primera vez cómo la contaminación lumínica y el calentamiento global afectan la Antártica",
+      "url": "https://www.terram.cl/investigan-por-primera-vez-como-la-contaminacion-luminica-y-el-calentamiento-global-afectan-la-antartica/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo escalafon profesional a contrata asimilado a grado 15 de la e u s para la unidad de atencion de usuarios as dr los l",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-unidad-de-atencion-de-usuarios-as-dr-los-l/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo de la unidad de inocuidad y certificacion escalafon profesional a contrata asimilado a grado 15 de la e u s para la o",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-de-la-unidad-de-inocuidad-y-certificacion-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-o/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF dispone el cierre preventivo del Parque Nacional Nonguén por sistema frontal",
+      "url": "https://www.conaf.cl/conaf-dispone-el-cierre-preventivo-del-parque-nacional-nonguen-por-sistema-frontal/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-dispone-el-cierre-preventivo-del-parque-nacional-nonguen-por-sistema-frontal",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Espejo de agua de la Reserva Nacional Lago Peñuelas alcanza 540 hectáreas tras sistemas frontales",
+      "url": "https://www.conaf.cl/espejo-de-agua-de-la-reserva-nacional-lago-penuelas-alcanza-540-hectareas-tras-sistemas-frontales/?utm_source=rss&utm_medium=rss&utm_campaign=espejo-de-agua-de-la-reserva-nacional-lago-penuelas-alcanza-540-hectareas-tras-sistemas-frontales",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF busca repatriar 216 cactáceas que se encuentran bajo custodia en Tacna",
+      "url": "https://www.conaf.cl/conaf-busca-repatriar-216-cactaceas-que-se-encuentran-bajo-custodia-en-tacna/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-busca-repatriar-216-cactaceas-que-se-encuentran-bajo-custodia-en-tacna",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble aborda desafíos para la reactivación del sector forestal junto a municipios del Canal Laja-Diguillín",
+      "url": "https://www.conaf.cl/conaf-nuble-aborda-desafios-para-la-reactivacion-del-sector-forestal-junto-a-municipios-del-canal-laja-diguillin/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-aborda-desafios-para-la-reactivacion-del-sector-forestal-junto-a-municipios-del-canal-laja-diguillin",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "DGA INFORMA DE MANERA PERMANENTE A AUTORIDADES DATOS DE ESTACIONES DE MONITOREO DURANTE SISTEMA FRONTAL",
+      "url": "https://dga.mop.gob.cl/dga-informa-de-manera-permanente-a-autoridades-datos-de-estaciones-de-monitoreo-durante-sistema-frontal/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente de Coquimbo hace un llamado para la limpieza segura y sustentable del borde costero tras temporales",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-coquimbo-hace-un-llamado-para-la-limpieza-segura-y-sustentable-del-borde-costero-tras-temporales/",
-      "fecha": "2026-07-22",
+      "titular": "Visita inspectiva responde a preocupación ciudadana por humedal de Chillán Viejo",
+      "url": "https://mma.gob.cl/visita-inspectiva-responde-a-preocupacion-ciudadana-por-humedal-de-chillan-viejo/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Despliegue de gobierno: continúa levantamiento de información en sectores críticos de las comunas de Quintero y Puchuncaví",
-      "url": "https://mma.gob.cl/despliegue-de-gobierno-continua-levantamiento-de-informacion-en-sectores-criticos-de-las-comunas-de-quintero-y-puchuncavi/",
-      "fecha": "2026-07-22",
+      "titular": "Equipos sectoriales mejoran identificación de necesidades climáticas de cara al próximo Informe Bienal de Transparencia de Chile ante el Acuerdo de París",
+      "url": "https://mma.gob.cl/equipos-sectoriales-mejoran-identificacion-de-necesidades-climaticas-de-cara-al-proximo-informe-bienal-de-transparencia-de-chile-ante-el-acuerdo-de-paris/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Anuncian plan intersectorial «Aysén Genera y Respira Limpio»",
+      "url": "https://mma.gob.cl/anuncian-plan-intersectorial-aysen-genera-y-respira-limpio/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente realizó en Biobío el primer taller de consulta pública de la Estrategia Climática de Largo Plazo",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-realizo-en-biobio-el-primer-taller-de-consulta-publica-de-la-estrategia-climatica-de-largo-plazo-2/",
+      "fecha": "2026-07-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comisión de Evaluación Ambiental aprueba por unanimidad proyecto fotovoltaico de 400 millones de dólares para Pemuco",
+      "url": "https://mma.gob.cl/comision-de-evaluacion-ambiental-aprueba-por-unanimidad-proyecto-fotovoltaico-de-400-millones-de-dolares-para-pemuco/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Megarreforma: Cámara aprueba informe de comisión mixta que compensa a municipios por exención de contribuciones a adultos mayores",
-      "url": "https://www.latercera.com/nacional/noticia/camara-aprueba-informe-de-comision-mixta-que-compensa-a-municipios-por-exencion-de-contribuciones-a-adultos-mayores/",
-      "fecha": "2026-07-22",
+      "titular": "SMA investiga deslizamiento de material en Los Pelambres y AMSA descarta impacto en operaciones",
+      "url": "https://www.latercera.com/pulso/noticia/sma-inicia-investigacion-por-deslizamiento-de-material-en-minera-los-pelambres-y-empresa-descarta-impacto/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Sistema frontal: Autoridades refuerzan despliegue preventivo con inspección a proyecto hidroeléctrico en Ñuble",
-      "url": "https://www.revistaei.cl/sistema-frontal-autoridades-refuerzan-despliegue-preventivo-con-inspeccion-a-proyecto-hidroelectrico-en-nuble/",
-      "fecha": "2026-07-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Superintendencia del Medio Ambiente participa en reunión de alianza anticorrupción de la ONU",
-      "url": "https://www.revistaei.cl/superintendencia-del-medio-ambiente-participa-en-reunion-de-alianza-anticorrupcion-de-la-onu/",
-      "fecha": "2026-07-22",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente EIA de proyecto de División Andina de Codelco",
+      "url": "https://www.mch.cl/se-califica-favorablemente-eia-de-proyecto-de-division-andina-de-codelco/",
+      "fecha": "2026-07-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
