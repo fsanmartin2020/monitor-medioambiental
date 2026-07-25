@@ -1,53 +1,65 @@
 {
-  "fecha_generacion": "2026-07-24T08:33:18.329196-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-07-25T08:18:10.294944-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
+      "fuente": "Terram",
+      "titular": "Corte Suprema fija multa de 3.150 UTM a salmonera por residuos en concesión del Lago Llanquihue",
+      "url": "https://www.terram.cl/corte-suprema-fija-multa-de-3-150-utm-a-salmonera-por-residuos-en-concesion-del-lago-llanquihue/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se declaró inadmisible el recurso de la salmonera Multiexport Pacific Farms SA, por lo que quedó firme la sentencia que acogió la denuncia de Sernapesca. Fuente: El Desconcierto, 23 de julio de 2026.",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Participa en el Encuentro por Escazú «Balances y desafíos para la democracia ambiental en Chile»",
+      "url": "https://www.fima.cl/2026/07/24/participa-en-el-encuentro-por-escazu-balances-y-desafios-para-la-democracia-ambiental-en-chile/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Con paneles sobre la implementación del Acuerdo de Escazú, la acción climática y la protección de las personas defensoras, la jornada realizada en Santiago de Chile, reunirá a representantes de organismos internacionales, instituciones públicas y org",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal rechazó excepción de imposibilidad de cumplimiento y demandado deberá reparar el daño ambiental causado en Humedal Angachilla",
+      "url": "https://3ta.cl/noticias/tribunal-rechazo-excepcion-de-imposibilidad-de-cumplimiento-y-demandado-debera-reparar-el-dano-ambiental-causado-en-humedal-angachilla/",
+      "fecha": "2026-07-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental concluyó que el Demandado debe cumplir con la obligación de reparar el daño ambiental causado al humedal. El año 2023, el Tercer Tribunal Ambiental acogió la demanda de la causa caratulada “Ilustre Municipalidad de Valdiv",
+      "keywords_detectadas": [
+        "daño ambiental"
+      ]
+    },
+    {
       "fuente": "SMA",
-      "titular": "SMA expande uso del Gestor de Obligaciones en el SISAT a los Planes de Descontaminación del Gran Concepción y Los Ángeles",
-      "url": "https://portal.sma.gob.cl/index.php/sma-expande-uso-del-gestor-de-obligaciones-en-el-sisat-a-los-planes-de-descontaminacion-del-gran-concepcion-y-los-angeles/",
+      "titular": "Contingencia en Minera Las Cenizas: SMA abrió investigación y coordina fiscalizaciones en el lugar",
+      "url": "https://portal.sma.gob.cl/index.php/contingencia-en-minera-las-cenizas-sma-abrio-investigacion-y-coordina-fiscalizaciones-en-el-lugar/",
       "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La herramienta del Sistema de Seguimiento Atmosférico (SISAT) permite a los titulares de más de 700 fuentes catastradas conocer con claridad sus exigencias de muestreo/medición, optimizar sus reportes en plazo y fortalecer la fiscalización ambiental ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Presidenta de ONG chilena que denunció al país ante EEUU: “Nuestro objetivo no es que Chile sea sancionado”",
-      "url": "https://www.pulso.cl/pulso/noticia/presidenta-de-ong-chilena-que-denuncio-al-pais-ante-eeuu-nuestro-objetivo-no-es-que-chile-sea-sancionado/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "SMA investiga deslizamiento de material en Los Pelambres y AMSA descarta impacto en operaciones",
-      "url": "https://www.latercera.com/pulso/noticia/sma-inicia-investigacion-por-deslizamiento-de-material-en-minera-los-pelambres-y-empresa-descarta-impacto/",
-      "fecha": "2026-07-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "\"La información que entregan las dos estaciones de monitoreo del estero, que se encuentran en línea con la Dirección General de Aguas (DGA), muestran que este vertimiento controlado prácticamente no generó cambios en la calidad ni cantidad de sus agu",
+      "extracto": "La Superintendencia del Medio Ambiente (SMA) inició una investigación a comienzos de esta semana, tras la contingencia reportada por Minera Las Cenizas, ubicada en la Región de Valparaíso, en el contexto del sistema frontal en distintas zonas del paí",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente EIA de proyecto de División Andina de Codelco",
-      "url": "https://www.mch.cl/se-califica-favorablemente-eia-de-proyecto-de-division-andina-de-codelco/",
-      "fecha": "2026-07-23",
+      "titular": "SMA abre investigación por efectos del sistema frontal en minera y coordina fiscalizaciones en el lugar",
+      "url": "https://www.mch.cl/sma-abre-investigacion-por-efectos-del-sistema-frontal-en-minera-y-coordina-fiscalizaciones-en-el-lugar/",
+      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Iniciativa tiene por objetivo construir y operar infraestructura para conducir aguas para uso industrial. La entrada Se califica favorablemente EIA de proyecto de División Andina de Codelco se publicó primero en Mch .",
+      "extracto": "La Superintendencia comunicó que evaluará de manera permanente la adopción de las acciones que resulten necesarias. La entrada SMA abre investigación por efectos del sistema frontal en minera y coordina fiscalizaciones en el lugar se publicó primero ",
       "keywords_detectadas": [
-        "EIA"
+        "SMA"
       ]
     }
   ]
