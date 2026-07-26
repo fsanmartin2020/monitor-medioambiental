@@ -1,245 +1,117 @@
 {
-  "fecha_actualizacion": "2026-07-25T08:18:10.278868-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-07-26T08:15:28.198743-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios forestales queman en España 126.000 hectáreas desde enero",
-      "url": "https://efeverde.com/incendios-forestales-en-espana-hectareas/",
+      "titular": "Los incendios en Ávila, Madrid y Toledo queman ya 77.000 hectáreas, según Protección Civil",
+      "url": "https://efeverde.com/los-incendios-en-avila-madrid-y-toledo-queman-ya-77000-hectareas/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Se elevan a 39 los municipios evacuados por el fuego en Ávila, Madrid y Toledo",
+      "url": "https://efeverde.com/municipios-evacuados-por-el-fuego-en-avila-madrid-y-toledo/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La situación de los incendios en Francia sigue «muy desfavorable» con 220.000 evacuados",
+      "url": "https://efeverde.com/situacion-incendios-en-francia-sigue-muy-desfavorable/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La noche ha sido «larga» en la Vall d’Uixò que ha visto acercarse el fuego al casco urbano",
+      "url": "https://efeverde.com/la-noche-ha-sido-larga-en-la-vall-duixo/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Pedro Sánchez destaca la evolución en el control de los fuegos con algunos focos consolidados",
+      "url": "https://efeverde.com/pedro-sanchez-evolucion-control-fuegos/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Incendios de sexta generación: el fuego que desborda la extinción y altera la atmósfera",
+      "url": "https://efeverde.com/incendios-de-sexta-generacion-el-fuego-que-desborda-la-extincion-y-altera-la-atmosfera/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios forestales han arrasado más de 152.000 hectáreas en España, seis veces más que en 2025",
+      "url": "https://efeverde.com/los-incendios-forestales-han-arrasado-mas-de-152000-hectareas-en-espana/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Economía circular, infraestructuras y valorización energética: claves para cumplir los objetivos europeos en España. Por Joaquín Pérez Viota",
+      "url": "https://efeverde.com/economia-circular-infraestructuras-y-valorizacion-energetica-claves-para-cumplir-los-objetivos-europeos-en-espana-por-joaquin-perez-viota/",
+      "fecha": "2026-07-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Gobierno amplía la emergencia nacional por los incendios a la provincia de Toledo",
+      "url": "https://efeverde.com/gobierno-amplia-emergencia-nacional-por-incendios-a-toledo/",
       "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios de Madrid y Ávila siguen activos con menor intensidad durante la pasada noche",
-      "url": "https://efeverde.com/incendios-de-madrid-y-avila-siguen-activos/",
+      "titular": "Los incendios de Madrid y Ávila suman 200 kilómetros de perímetro y afectan a 45.000 hectáreas",
+      "url": "https://efeverde.com/incendios-de-madrid-avila-suman-200-kilometros-de-perimetro/",
       "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Aferrada a un peluche, una cría de lémur lucha por sobrevivir en el suroeste de Colombia",
-      "url": "https://efeverde.com/peluche-cria-de-lemur-colombia/",
+      "titular": "Desalojan las poblaciones de Vilavella y Artana por el incendio de Vall d’Uixò (Castellón)",
+      "url": "https://efeverde.com/desalojan-poblaciones-de-vilavella-y-artana-por-incendio/",
       "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Pedro Sánchez anuncia que los incendios de Madrid y Ávila pasan a tratarse como uno solo",
-      "url": "https://efeverde.com/pedro-sanchez-incendios-madrid-y-avila/",
+      "titular": "Los incendios forestales alcanzan cifras inéditas en Francia, con 200.000 evacuados en el suroeste",
+      "url": "https://efeverde.com/incendios-forestales-alcanzan-cifras-ineditas-en-francia/",
       "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "“Está que quema”. La nueva narrativa climática… que todos deberíamos conocer. Por Arturo Larena",
-      "url": "https://efeverde.com/esta-que-quema-la-nueva-narrativa-climatica-que-todos-deberiamos-conocer-por-arturo-larena/",
+      "titular": "Más de 88.500 evacuados y confinados por los incendios en Ávila y Madrid",
+      "url": "https://efeverde.com/evacuados-y-confinados-por-incendios-en-avila-y-madrid/",
       "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Qué es el mar de ardora? El fenómeno que hace brillar las aguas de Galicia",
-      "url": "https://efeverde.com/que-es-el-mar-de-ardora-el-fenomeno-que-hace-brillar-las-aguas-de-galicia/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Hacia una estrategia de recursos hídricos que dure 100 años",
-      "url": "https://www.paiscircular.cl/opinion/hacia-una-estrategia-de-recursos-hidricos-que-dure-100-anos/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Conforman comité en Biobío para impulsar el manejo sustentable del bosque nativo",
-      "url": "https://codexverde.cl/biobio-impulsa-manejo-sustentable-del-bosque-nativo/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Guardia Civil detiene a una persona e investiga a otra por causar el incendio de Burgohondo (Ávila)",
-      "url": "https://efeverde.com/guardia-civil-detiene-una-persona-e-investiga-a-otra-incendio-de-burgohondo-avila/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "«España se quema», la campaña que reúne a gran velocidad miles de firmas para exigir acción contra los incendios",
-      "url": "https://efeverde.com/espana-se-quema-la-campana-que-reune-a-gran-velocidad-miles-de-firmas-para-exigir-accion-contra-los-incendios/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "De las competencias a las fases operativas: claves para entender la emergencia nacional por incendios",
-      "url": "https://efeverde.com/claves-cuando-activa-emergencia-interes-nacional-incendios-forestales/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Corte Suprema fija multa de 3.150 UTM a salmonera por residuos en concesión del Lago Llanquihue",
-      "url": "https://www.terram.cl/corte-suprema-fija-multa-de-3-150-utm-a-salmonera-por-residuos-en-concesion-del-lago-llanquihue/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ministra Toledo defiende polémica norma ambiental de megarreforma y descarta privilegio a empresas",
-      "url": "https://www.terram.cl/ministra-toledo-defiende-polemica-norma-ambiental-de-megarreforma-y-descarta-privilegio-a-empresas/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Por cada dólar invertido en los parques de la Patagonia, seis vuelven a las comunidades locales",
-      "url": "https://www.terram.cl/por-cada-dolar-invertido-en-los-parques-de-la-patagonia-seis-vuelven-a-las-comunidades-locales/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Colegio Médico alerta al Gobierno y exige reponer normas ambientales clave por su impacto en la salud de la población",
-      "url": "https://www.terram.cl/colegio-medico-alerta-al-gobierno-y-exige-reponer-normas-ambientales-clave-por-su-impacto-en-la-salud-de-la-poblacion/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Privados en picada contra propuesta de plan regulador de Quilicura que protege humedales y áreas verdes",
-      "url": "https://www.terram.cl/privados-en-picada-contra-propuesta-de-plan-regulador-de-quilicura-que-protege-humedales-y-areas-verdes/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Chile: El corredor biológico con casi la mitad de las especies de ballenas del mundo",
-      "url": "https://www.terram.cl/chile-el-corredor-biologico-con-casi-la-mitad-de-las-especies-de-ballenas-del-mundo/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Participa en el Encuentro por Escazú «Balances y desafíos para la democracia ambiental en Chile»",
-      "url": "https://www.fima.cl/2026/07/24/participa-en-el-encuentro-por-escazu-balances-y-desafios-para-la-democracia-ambiental-en-chile/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal rechazó excepción de imposibilidad de cumplimiento y demandado deberá reparar el daño ambiental causado en Humedal Angachilla",
-      "url": "https://3ta.cl/noticias/tribunal-rechazo-excepcion-de-imposibilidad-de-cumplimiento-y-demandado-debera-reparar-el-dano-ambiental-causado-en-humedal-angachilla/",
-      "fecha": "2026-07-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Exitosa reproducción de flamencos en humedales altoandinos de Atacama",
-      "url": "https://www.conaf.cl/exitosa-reproduccion-de-flamencos-en-humedales-altoandinos-de-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=exitosa-reproduccion-de-flamencos-en-humedales-altoandinos-de-atacama",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Contingencia en Minera Las Cenizas: SMA abrió investigación y coordina fiscalizaciones en el lugar",
-      "url": "https://portal.sma.gob.cl/index.php/contingencia-en-minera-las-cenizas-sma-abrio-investigacion-y-coordina-fiscalizaciones-en-el-lugar/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Director de Aguas de Antofagasta participa en seminario de municipios locales sobre gestión hídrica",
-      "url": "https://dga.mop.gob.cl/director-de-aguas-de-antofagasta-participa-en-seminario-de-municipios-locales-sobre-gestion-hidrica/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente entrega presentación a Consejo Consultivo previo a la Cuenta Pública Regional 2026",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-presentacion-a-consejo-consultivo-previo-a-la-cuenta-publica-regional-2026/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades destacan positivo desempeño de Obras de Conservación de Aguas y Suelos construidas en Cerro Colorado de Renca tras intensas lluvias",
-      "url": "https://mma.gob.cl/autoridades-destacan-positivo-desempeno-de-obras-de-conservacion-de-aguas-y-suelos-construidas-en-cerro-colorado-de-renca-tras-intensas-lluvias/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente de Atacama entrega instrucciones para el manejo sanitario de residuos tras sistema frontal",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-atacama-entrega-instrucciones-para-el-manejo-sanitario-de-residuos-tras-sistema-frontal/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades entregan kits de eficiencia energética por Programa Piloto de Recambio de Calefactores en Parral",
-      "url": "https://mma.gob.cl/autoridades-entregan-kits-de-eficiencia-energetica-por-programa-piloto-de-recambio-de-calefactores-en-parral/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Acción política contraria a la evidencia",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/accion-politica-contraria-a-la-evidencia/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Nación",
-      "titular": "Qué hacer en Viña del Mar: descubre las mejores cafeterías para refugiarte del frío y la lluvia",
-      "url": "https://www.lanacion.cl/que-hacer-en-vina-del-mar-descubre-las-mejores-cafeterias-para-refugiarte-del-frio-y-la-lluvia/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Grupo de agricultores presenta recurso para impugnar aprobación ambiental de proyecto minero",
-      "url": "https://www.mch.cl/agricultores-buscan-impugnar-aprobacion-ambiental-de-proyecto-minero/",
-      "fecha": "2026-07-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA abre investigación por efectos del sistema frontal en minera y coordina fiscalizaciones en el lugar",
-      "url": "https://www.mch.cl/sma-abre-investigacion-por-efectos-del-sistema-frontal-en-minera-y-coordina-fiscalizaciones-en-el-lugar/",
-      "fecha": "2026-07-24",
+      "titular": "Consejo de Política Forestal conoce avances de la nueva institucionalidad forestal y de la agenda legislativa",
+      "url": "https://www.conaf.cl/consejo-de-politica-forestal-conoce-avances-de-la-nueva-institucionalidad-forestal-y-de-la-agenda-legislativa/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-de-politica-forestal-conoce-avances-de-la-nueva-institucionalidad-forestal-y-de-la-agenda-legislativa",
+      "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
