@@ -1,5 +1,18 @@
 {
-  "fecha_generacion": "2026-07-26T08:15:28.211722-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-07-27T09:54:29.406551-04:00",
+  "total_alertas": 1,
+  "alertas": [
+    {
+      "fuente": "País Circular",
+      "titular": "Gestores de regiones alejadas del centro del país describen las brechas, avances y oportunidades para el reciclaje en el marco de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/gestores-de-regiones-alejadas-del-centro-del-pais-describen-las-brechas-avances-y-oportunidades-para-el-reciclaje-en-el-marco-de-la-ley-rep/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Aumentar la infraestructura, diseñar rutas eficientes, potenciar capacitaciones y fortalecer la educación ciudadana, destacan entre los principales desafíos que enfrenta el reciclaje en regiones como Arica, Magallanes, Antofagasta, Atacama, Temuco y ",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    }
+  ]
 }

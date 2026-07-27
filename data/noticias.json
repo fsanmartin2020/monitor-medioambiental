@@ -1,117 +1,117 @@
 {
-  "fecha_actualizacion": "2026-07-26T08:15:28.198743-04:00",
+  "fecha_actualizacion": "2026-07-27T09:54:29.392847-04:00",
   "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Gestores de regiones alejadas del centro del país describen las brechas, avances y oportunidades para el reciclaje en el marco de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/gestores-de-regiones-alejadas-del-centro-del-pais-describen-las-brechas-avances-y-oportunidades-para-el-reciclaje-en-el-marco-de-la-ley-rep/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "Los incendios en Ávila, Madrid y Toledo queman ya 77.000 hectáreas, según Protección Civil",
-      "url": "https://efeverde.com/los-incendios-en-avila-madrid-y-toledo-queman-ya-77000-hectareas/",
+      "titular": "De los pirocúmulos a los reventones: cuando los incendios crean su propio clima",
+      "url": "https://efeverde.com/cuando-incendios-crean-propio-clima/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "«Cierto optimismo» sobre el incendio de Ávila, pero sigue sin estar controlado",
+      "url": "https://efeverde.com/cierto-optimismo-sobre-incendio-de-avila-pero-sigue-sin-estar-controlado/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio de la Vall d’Uixó (Castellón) quema 7.200 hectáreas y sigue sin control",
+      "url": "https://efeverde.com/incendio-de-la-vall-duixo-castellon-sin-control/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios forestales queman casi 20.000 hectáreas en un solo día en España",
+      "url": "https://efeverde.com/incendios-forestales-queman-20-000-hectaras-solo-dia/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El hambre en el mundo está disminuyendo. Sabemos cómo mantener esta tendencia. Por Máximo Torero (FAO)",
+      "url": "https://efeverde.com/el-hambre-en-el-mundo-esta-disminuyendo-sabemos-como-mantener-esta-tendencia-por-maximo-torero-fao/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Aagesen pide precaución ante fuegos y la posible llegada mañana de la cuarta ola de calor",
+      "url": "https://efeverde.com/aagesen-pide-precaucion-ante-fuegos-y-la-posible-llegada-manana-de-la-cuarta-ola-de-calor/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios de España evolucionan de manera «positiva», pero sigue la situación compleja",
+      "url": "https://efeverde.com/los-incendios-de-espana-evolucionan-de-manera-positiva-pero-sigue-la-situacion-compleja/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La erosión costera por el cambio climático afecta a todos los continentes",
+      "url": "https://efeverde.com/la-erosion-costera-por-el-cambio-climatico-afecta-a-todos-los-continentes-segun-informe/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Estudio sobre Acuífero 23 alerta que en diez años volverá a la situación crítica de 1995",
+      "url": "https://efeverde.com/estudio-sobre-acuifero-23-alerta-que-en-diez-anos-volvera-a-la-situacion-critica-de-1995/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Adultos mayores impugnan en el TC norma de ley de arriendo que impide apelar",
+      "url": "https://www.diarioconstitucional.cl/2026/07/27/adultos-mayores-impugnan-en-el-tc-norma-de-ley-de-arriendo-que-impide-apelar/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio de Gironda (Francia) permanece «impredecible» con 42.000 hectáreas arrasadas y 220.000 evacuados",
+      "url": "https://efeverde.com/el-incendio-de-gironda-francia-permanece-impredecible/",
       "fecha": "2026-07-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Se elevan a 39 los municipios evacuados por el fuego en Ávila, Madrid y Toledo",
-      "url": "https://efeverde.com/municipios-evacuados-por-el-fuego-en-avila-madrid-y-toledo/",
+      "titular": "El incendio de la Vall d’Uixó (Castellón) avanza descontrolado tras quemar 4.300 hectáreas",
+      "url": "https://efeverde.com/el-incendio-de-la-vall-duixo-castellon-avanza-descontrolado/",
       "fecha": "2026-07-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La situación de los incendios en Francia sigue «muy desfavorable» con 220.000 evacuados",
-      "url": "https://efeverde.com/situacion-incendios-en-francia-sigue-muy-desfavorable/",
+      "titular": "El incendio de Burgohondo (Ávila), que ha quemado ya 50.000 hectáreas, se convierte en el mayor fuego de la historia de España",
+      "url": "https://efeverde.com/incendio-de-burgohondo-avila-mayor-fuego-de-la-historia-de-espana/",
       "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La noche ha sido «larga» en la Vall d’Uixò que ha visto acercarse el fuego al casco urbano",
-      "url": "https://efeverde.com/la-noche-ha-sido-larga-en-la-vall-duixo/",
-      "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Pedro Sánchez destaca la evolución en el control de los fuegos con algunos focos consolidados",
-      "url": "https://efeverde.com/pedro-sanchez-evolucion-control-fuegos/",
-      "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Incendios de sexta generación: el fuego que desborda la extinción y altera la atmósfera",
-      "url": "https://efeverde.com/incendios-de-sexta-generacion-el-fuego-que-desborda-la-extincion-y-altera-la-atmosfera/",
-      "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios forestales han arrasado más de 152.000 hectáreas en España, seis veces más que en 2025",
-      "url": "https://efeverde.com/los-incendios-forestales-han-arrasado-mas-de-152000-hectareas-en-espana/",
-      "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Economía circular, infraestructuras y valorización energética: claves para cumplir los objetivos europeos en España. Por Joaquín Pérez Viota",
-      "url": "https://efeverde.com/economia-circular-infraestructuras-y-valorizacion-energetica-claves-para-cumplir-los-objetivos-europeos-en-espana-por-joaquin-perez-viota/",
-      "fecha": "2026-07-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno amplía la emergencia nacional por los incendios a la provincia de Toledo",
-      "url": "https://efeverde.com/gobierno-amplia-emergencia-nacional-por-incendios-a-toledo/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios de Madrid y Ávila suman 200 kilómetros de perímetro y afectan a 45.000 hectáreas",
-      "url": "https://efeverde.com/incendios-de-madrid-avila-suman-200-kilometros-de-perimetro/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Desalojan las poblaciones de Vilavella y Artana por el incendio de Vall d’Uixò (Castellón)",
-      "url": "https://efeverde.com/desalojan-poblaciones-de-vilavella-y-artana-por-incendio/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios forestales alcanzan cifras inéditas en Francia, con 200.000 evacuados en el suroeste",
-      "url": "https://efeverde.com/incendios-forestales-alcanzan-cifras-ineditas-en-francia/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más de 88.500 evacuados y confinados por los incendios en Ávila y Madrid",
-      "url": "https://efeverde.com/evacuados-y-confinados-por-incendios-en-avila-y-madrid/",
-      "fecha": "2026-07-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Consejo de Política Forestal conoce avances de la nueva institucionalidad forestal y de la agenda legislativa",
-      "url": "https://www.conaf.cl/consejo-de-politica-forestal-conoce-avances-de-la-nueva-institucionalidad-forestal-y-de-la-agenda-legislativa/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-de-politica-forestal-conoce-avances-de-la-nueva-institucionalidad-forestal-y-de-la-agenda-legislativa",
-      "fecha": "2026-07-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
