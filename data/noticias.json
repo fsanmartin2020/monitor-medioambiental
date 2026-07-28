@@ -1,117 +1,309 @@
 {
-  "fecha_actualizacion": "2026-07-27T09:54:29.392847-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-07-28T09:10:08.113669-04:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Gestores de regiones alejadas del centro del país describen las brechas, avances y oportunidades para el reciclaje en el marco de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/gestores-de-regiones-alejadas-del-centro-del-pais-describen-las-brechas-avances-y-oportunidades-para-el-reciclaje-en-el-marco-de-la-ley-rep/",
-      "fecha": "2026-07-27",
+      "titular": "Sistema de gestión en formación TRAEE suma a cuatro grandes empresas con vistas a la implementación de la Ley REP para aparatos eléctricos y electrónicos",
+      "url": "https://www.paiscircular.cl/economia-circular/sistema-de-gestion-en-formacion-traee-suma-a-cuatro-grandes-empresas-con-vistas-a-la-implementacion-de-la-ley-rep-para-aparatos-electricos-y-electronicos/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Comité de Ministros confirma RCA favorable de Sitio Costanera de Puerto Valparaíso",
+      "url": "https://www.chiledesarrollosustentable.cl/comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "De los pirocúmulos a los reventones: cuando los incendios crean su propio clima",
-      "url": "https://efeverde.com/cuando-incendios-crean-propio-clima/",
-      "fecha": "2026-07-27",
+      "titular": "El Gobierno declara 211 zonas afectadas por emergencias catastróficas en catorce comunidades autónomas",
+      "url": "https://efeverde.com/el-gobierno-zonas-afectadas-por-emergencias-catastroficas/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "«Cierto optimismo» sobre el incendio de Ávila, pero sigue sin estar controlado",
-      "url": "https://efeverde.com/cierto-optimismo-sobre-incendio-de-avila-pero-sigue-sin-estar-controlado/",
-      "fecha": "2026-07-27",
+      "titular": "Los parientes de los humanos hace 1,4 millones de años, más grandes de lo que se pensaba",
+      "url": "https://efeverde.com/parientes-humanos-mas-grandes-pensaba/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El incendio de la Vall d’Uixó (Castellón) quema 7.200 hectáreas y sigue sin control",
-      "url": "https://efeverde.com/incendio-de-la-vall-duixo-castellon-sin-control/",
-      "fecha": "2026-07-27",
+      "titular": "Un terremoto de magnitud 7,1 deja varios heridos en Japón, que retira la alerta por tsunami",
+      "url": "https://efeverde.com/fuerte-terremoto-71-sacude-sur-japon-alerta-tsunami/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios forestales queman casi 20.000 hectáreas en un solo día en España",
-      "url": "https://efeverde.com/incendios-forestales-queman-20-000-hectaras-solo-dia/",
-      "fecha": "2026-07-27",
+      "titular": "El deshielo convierte la Antártida en un foco de contaminación por mercurio",
+      "url": "https://efeverde.com/deshielo-convierte-antartida-contaminacion-mercurio/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El hambre en el mundo está disminuyendo. Sabemos cómo mantener esta tendencia. Por Máximo Torero (FAO)",
-      "url": "https://efeverde.com/el-hambre-en-el-mundo-esta-disminuyendo-sabemos-como-mantener-esta-tendencia-por-maximo-torero-fao/",
-      "fecha": "2026-07-27",
+      "titular": "La sostenibilidad también se juega en la grada. Por Rafael Muela (Fundación Real Betis Balompié)",
+      "url": "https://efeverde.com/la-sostenibilidad-tambien-se-juega-en-la-grada-por-rafael-muela/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Aagesen pide precaución ante fuegos y la posible llegada mañana de la cuarta ola de calor",
-      "url": "https://efeverde.com/aagesen-pide-precaucion-ante-fuegos-y-la-posible-llegada-manana-de-la-cuarta-ola-de-calor/",
-      "fecha": "2026-07-27",
+      "titular": "El Gobierno afirma que ha elevado un 34 por ciento el gasto en extinción de incendios entre 2024 y 2026",
+      "url": "https://efeverde.com/el-gobierno-eleva-un-34-por-ciento-el-gasto-en-extincion-de-incendios-entre-2024-y-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios de España evolucionan de manera «positiva», pero sigue la situación compleja",
-      "url": "https://efeverde.com/los-incendios-de-espana-evolucionan-de-manera-positiva-pero-sigue-la-situacion-compleja/",
-      "fecha": "2026-07-27",
+      "titular": "Incendios en España: tras el breve respiro de ayer, una nueva ola de calor puede complicar la situación",
+      "url": "https://efeverde.com/incendios-en-espana-tras-el-breve-respiro-de-ayer-una-nueva-ola-de-calor-puede-complicar-la-situacion/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La erosión costera por el cambio climático afecta a todos los continentes",
-      "url": "https://efeverde.com/la-erosion-costera-por-el-cambio-climatico-afecta-a-todos-los-continentes-segun-informe/",
-      "fecha": "2026-07-27",
+      "titular": "Benito Muros (creador de la bombilla «eterna»): el sistema sigue pensado para comprar una y otra vez las mismas cosas",
+      "url": "https://efeverde.com/benito-muros-creador-de-la-bombilla-eterna-el-sistema-sigue-pensado-para-comprar-una-y-otra-vez-las-mismas-cosas/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Estudio sobre Acuífero 23 alerta que en diez años volverá a la situación crítica de 1995",
-      "url": "https://efeverde.com/estudio-sobre-acuifero-23-alerta-que-en-diez-anos-volvera-a-la-situacion-critica-de-1995/",
-      "fecha": "2026-07-27",
+      "fuente": "CONAF",
+      "titular": "Reserva Magallanes reabre al público y Cueva del Milodón se mantendrá cerrada",
+      "url": "https://www.conaf.cl/reserva-magallanes-reabre-al-publico-y-cueva-del-milodon-se-mantendra-cerrada/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-magallanes-reabre-al-publico-y-cueva-del-milodon-se-mantendra-cerrada",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Adultos mayores impugnan en el TC norma de ley de arriendo que impide apelar",
-      "url": "https://www.diarioconstitucional.cl/2026/07/27/adultos-mayores-impugnan-en-el-tc-norma-de-ley-de-arriendo-que-impide-apelar/",
-      "fecha": "2026-07-27",
+      "fuente": "La Segunda",
+      "titular": "Gael Yeomans (FA): “No vemos en el PS a un adversario”",
+      "url": "https://www.lasegunda.com/Noticias/Conversacion/2026/07/1114673/gael-yeomans-frente-amplio-elecciones",
+      "fecha": "2026-07-28",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El incendio de Gironda (Francia) permanece «impredecible» con 42.000 hectáreas arrasadas y 220.000 evacuados",
-      "url": "https://efeverde.com/el-incendio-de-gironda-francia-permanece-impredecible/",
-      "fecha": "2026-07-26",
+      "fuente": "País Circular",
+      "titular": "El valor de nuestros humedales frente a las lluvias del sur",
+      "url": "https://www.paiscircular.cl/opinion/el-valor-de-nuestros-humedales-frente-a-las-lluvias-del-sur/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Cuando la economía circular entra en la geopolítica",
+      "url": "https://www.paiscircular.cl/opinion/cuando-la-economia-circular-entra-en-la-geopolitica/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Casinos online con Webpay en Chile: ranking de 10 opciones en 2026",
+      "url": "https://www.paiscircular.cl/pulse/casinos-online-webpay/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Comisión de Evaluación Ambiental aprueba por unanimidad proyecto fotovoltaico de 400 millones de dólares para Pemuco",
+      "url": "https://www.chiledesarrollosustentable.cl/comision-de-evaluacion-ambiental-aprueba-por-unanimidad-proyecto-fotovoltaico-de-400-millones-de-dolares-para-pemuco/?utm_source=rss&utm_medium=rss&utm_campaign=comision-de-evaluacion-ambiental-aprueba-por-unanimidad-proyecto-fotovoltaico-de-400-millones-de-dolares-para-pemuco",
+      "fecha": "2026-07-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El incendio de la Vall d’Uixó (Castellón) avanza descontrolado tras quemar 4.300 hectáreas",
-      "url": "https://efeverde.com/el-incendio-de-la-vall-duixo-castellon-avanza-descontrolado/",
-      "fecha": "2026-07-26",
+      "titular": "La Sierra de Espadán (Castellón), un espacio de gran biodiversidad amenazado por el fuego",
+      "url": "https://efeverde.com/sierra-espadan-castellon-amenazado-incendio/",
+      "fecha": "2026-07-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El incendio de Burgohondo (Ávila), que ha quemado ya 50.000 hectáreas, se convierte en el mayor fuego de la historia de España",
-      "url": "https://efeverde.com/incendio-de-burgohondo-avila-mayor-fuego-de-la-historia-de-espana/",
-      "fecha": "2026-07-26",
+      "titular": "El incendio de Vall d’Uixò afecta ya a 7.500 hectáreas y afronta la noche con unas condiciones meteorológicas favorables",
+      "url": "https://efeverde.com/incendio-de-vall-duixo-noche-con-unas-condiciones-meteorologicas-favorables/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Signus gestionó cerca de 231.000 toneladas de neumáticos usados en 2025",
+      "url": "https://efeverde.com/signus-toneladas-de-neumaticos-usados-en-2025/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Llega la cuarta ola de calor de este verano que aumentará el peligro de incendios forestales",
+      "url": "https://efeverde.com/cuarta-ola-de-calor-peligro-de-incendios-forestales/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Atacama: La exitosa recuperación del flamenco andino en salares que convive bajo presiones de minería del litio",
+      "url": "https://www.terram.cl/atacama-la-exitosa-recuperacion-del-flamenco-andino-en-salares-que-convive-bajo-presiones-de-mineria-del-litio/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Funcionarios del Medio Ambiente exigen estabilidad laboral y claridad presupuestaria en reunión con el ministerio",
+      "url": "https://www.terram.cl/funcionarios-del-medio-ambiente-exigen-estabilidad-laboral-y-claridad-presupuestaria-en-reunion-con-el-ministerio/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Tormenta mortal en Chile interrumpe las operaciones de las minas de cobre y genera preocupación por el suministro de IA",
+      "url": "https://www.terram.cl/tormenta-mortal-en-chile-interrumpe-las-operaciones-de-las-minas-de-cobre-y-genera-preocupacion-por-el-suministro-de-ia/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Consulta del SAG para regular venta de semillas despierta desconfianza en organizaciones campesinas",
+      "url": "https://www.terram.cl/consulta-del-sag-para-regular-venta-de-semillas-despierta-desconfianza-en-organizaciones-campesinas/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Monitoreo del canquén colorado en Magallanes descarta al visón pero confirma amenaza de perros en sus sitios de reproducción",
+      "url": "https://www.terram.cl/monitoreo-del-canquen-colorado-en-magallanes-descarta-al-vison-pero-confirma-amenaza-de-perros-en-sus-sitios-de-reproduccion/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Los arquitectos del desierto costero: El proyecto que busca conservar y restaurar los cactus nativos de Punta de Lobos",
+      "url": "https://www.terram.cl/los-arquitectos-del-desierto-costero-el-proyecto-que-busca-conservar-y-restaurar-los-cactus-nativos-de-punta-de-lobos/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/09/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
+      "url": "https://3ta.cl/audiencias/10-09-2026-fija-audiencia-en-caso-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Se acogió parcialmente la reclamación de Inmobiliaria Pocuro Sur contra la SMA por proyecto «Loteo Llacolén” en Coronel",
+      "url": "https://3ta.cl/noticias/se-acogio-parcialmente-la-reclamacion-de-inmobiliaria-pocuro-sur-contra-la-sma-por-proyecto-loteo-llacolen-en-coronel/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional del maule del servicio nacional de pesca y acuicultura adp 34096",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-del-maule-del-servicio-nacional-de-pesca-y-acuicultura-adp-34096/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional de valparaiso del servicio nacional de pesca y acuicultura adp 34496",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura-adp-34496/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional de coquimbo del servicio nacional de pesca y acuicultura adp 35088",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-de-coquimbo-del-servicio-nacional-de-pesca-y-acuicultura-adp-35088/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Tarapacá: SMA formula cargo grave contra Pub Azotea Baquedano por reiterados incumplimientos a la norma de ruidos",
+      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-formula-cargo-grave-contra-pub-azotea-baquedano-por-reiterados-incumplimientos-a-la-norma-de-ruidos/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente y SMA refuerzan fiscalización en Ñuble ante sistema frontal: región suma 105 inspecciones y 220 denuncias ambientales",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-sma-refuerzan-fiscalizacion-en-nuble-ante-sistema-frontal-region-suma-105-inspecciones-y-220-denuncias-ambientales/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades coordinan plan de limpieza del borde costero de La Serena con énfasis en la protección de la biodiversidad",
+      "url": "https://mma.gob.cl/autoridades-coordinan-plan-de-limpieza-del-borde-costero-de-la-serena-con-enfasis-en-la-proteccion-de-la-biodiversidad/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Gobernador Regional y Seremi del Medio Ambiente priorizarán la gestión de residuos en Magallanes",
+      "url": "https://mma.gob.cl/gobernador-regional-y-seremi-del-medio-ambiente-priorizaran-la-gestion-de-residuos-en-magallanes/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CIPER Chile",
+      "titular": "Examen de ADN confirma que Bernarda Vera está viva; Kast propone que test de drogas a autoridades sea obligatorio, y fiscalía culpa a dos exfuncionarios de Conaf por alerta tardía en megaincendio que dejó 138 muertos",
+      "url": "https://www.ciperchile.cl/2026/07/27/radar-27-07-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-27-07-2026",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de prospección minera en Atacama",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-atacama/",
+      "fecha": "2026-07-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

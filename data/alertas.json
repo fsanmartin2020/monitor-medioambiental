@@ -1,17 +1,113 @@
 {
-  "fecha_generacion": "2026-07-27T09:54:29.406551-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-07-28T09:10:08.130740-04:00",
+  "total_alertas": 9,
   "alertas": [
     {
       "fuente": "País Circular",
-      "titular": "Gestores de regiones alejadas del centro del país describen las brechas, avances y oportunidades para el reciclaje en el marco de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/gestores-de-regiones-alejadas-del-centro-del-pais-describen-las-brechas-avances-y-oportunidades-para-el-reciclaje-en-el-marco-de-la-ley-rep/",
+      "titular": "Sistema de gestión en formación TRAEE suma a cuatro grandes empresas con vistas a la implementación de la Ley REP para aparatos eléctricos y electrónicos",
+      "url": "https://www.paiscircular.cl/economia-circular/sistema-de-gestion-en-formacion-traee-suma-a-cuatro-grandes-empresas-con-vistas-a-la-implementacion-de-la-ley-rep-para-aparatos-electricos-y-electronicos/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Cencosud, Duracell, Falabella y Tottus se incorporaron a TRAEE, iniciativa impulsada por la Cámara de Comercio de Santiago (CCS), que trabaja en la conformación del primer Gran Sistema de Gestión Colectivo (GRANSIC) para residuos de aparatos eléctric",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Comité de Ministros confirma RCA favorable de Sitio Costanera de Puerto Valparaíso",
+      "url": "https://www.chiledesarrollosustentable.cl/comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa forma parte de la ampliación portuaria y agregará 300 mil TEUS de capacidad de transferencia de carga a Puerto Valparaíso. Un nuevo paso para la ampliación portuaria de Valparaíso se concretó este lunes, luego de que el Comité de Minist",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/09/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
+      "url": "https://3ta.cl/audiencias/10-09-2026-fija-audiencia-en-caso-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
       "fecha": "2026-07-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Aumentar la infraestructura, diseñar rutas eficientes, potenciar capacitaciones y fortalecer la educación ciudadana, destacan entre los principales desafíos que enfrenta el reciclaje en regiones como Arica, Magallanes, Antofagasta, Atacama, Temuco y ",
+      "extracto": "Se fija audiencia con fecha 10/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 10/09/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026 ",
       "keywords_detectadas": [
-        "Ley REP"
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 20/08/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Se acogió parcialmente la reclamación de Inmobiliaria Pocuro Sur contra la SMA por proyecto «Loteo Llacolén” en Coronel",
+      "url": "https://3ta.cl/noticias/se-acogio-parcialmente-la-reclamacion-de-inmobiliaria-pocuro-sur-contra-la-sma-por-proyecto-loteo-llacolen-en-coronel/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La sentencia del Tercer Tribunal Ambiental indica que la Superintendencia del Medio Ambiente deberá alzar las medidas cautelares dictadas y pronunciarse nuevamente sobre el procedimiento administrativo. La inmobiliaria presentó un recurso de reclamac",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Tarapacá: SMA formula cargo grave contra Pub Azotea Baquedano por reiterados incumplimientos a la norma de ruidos",
+      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-formula-cargo-grave-contra-pub-azotea-baquedano-por-reiterados-incumplimientos-a-la-norma-de-ruidos/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El establecimiento registraba dos sanciones previas por infracciones a la norma de emisión de ruidos y había sido advertido por la SMA antes de la constatación del nuevo incumplimiento. La Superintendencia del Medio Ambiente (SMA) formuló un cargo gr",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente y SMA refuerzan fiscalización en Ñuble ante sistema frontal: región suma 105 inspecciones y 220 denuncias ambientales",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-sma-refuerzan-fiscalizacion-en-nuble-ante-sistema-frontal-region-suma-105-inspecciones-y-220-denuncias-ambientales/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Autoridades realizaron un balance del despliegue en terreno, destacando las visitas a HidroÑuble y al Humedal Maipú de O’Higgins de […]",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "CIPER Chile",
+      "titular": "Examen de ADN confirma que Bernarda Vera está viva; Kast propone que test de drogas a autoridades sea obligatorio, y fiscalía culpa a dos exfuncionarios de Conaf por alerta tardía en megaincendio que dejó 138 muertos",
+      "url": "https://www.ciperchile.cl/2026/07/27/radar-27-07-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-27-07-2026",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La entrada Examen de ADN confirma que Bernarda Vera está viva; Kast propone que test de drogas a autoridades sea obligatorio, y fiscalía culpa a dos exfuncionarios de Conaf por alerta tardía en megaincendio que dejó 138 muertos se publicó primero en ",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de prospección minera en Atacama",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-atacama/",
+      "fecha": "2026-07-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Iniciativa apunta a minimizar las incertidumbres geológicas por medio de la realización de sondajes. La entrada Se califica favorablemente DIA de prospección minera en Atacama se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "DIA"
       ]
     }
   ]
