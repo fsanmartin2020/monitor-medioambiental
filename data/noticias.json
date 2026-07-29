@@ -1,309 +1,389 @@
 {
-  "fecha_actualizacion": "2026-07-28T09:10:08.113669-04:00",
-  "total": 38,
+  "fecha_actualizacion": "2026-07-29T09:14:37.368766-04:00",
+  "total": 48,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Sistema de gestión en formación TRAEE suma a cuatro grandes empresas con vistas a la implementación de la Ley REP para aparatos eléctricos y electrónicos",
-      "url": "https://www.paiscircular.cl/economia-circular/sistema-de-gestion-en-formacion-traee-suma-a-cuatro-grandes-empresas-con-vistas-a-la-implementacion-de-la-ley-rep-para-aparatos-electricos-y-electronicos/",
-      "fecha": "2026-07-28",
+      "titular": "Programas de Corfo sistematizan en una guía lo que La Reina y La Araucanía ya están demostrando: la simbiosis industrial funciona",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/primera-guia-de-barrios-industriales-sostenibles/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Comité de Ministros confirma RCA favorable de Sitio Costanera de Puerto Valparaíso",
-      "url": "https://www.chiledesarrollosustentable.cl/comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=comite-de-ministros-confirma-rca-favorable-de-sitio-costanera-de-puerto-valparaiso",
-      "fecha": "2026-07-28",
+      "fuente": "Codex Verde",
+      "titular": "Rewilding Chile, Universidad Andrés Bello y ONG Ranita de Darwin se unen para proteger los anfibios de la Patagonia",
+      "url": "https://codexverde.cl/rewilding-chile-universidad-andres-bello-y-ong-ranita-de-darwin-se-unen-para-proteger-los-anfibios-de-la-patagonia/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno declara 211 zonas afectadas por emergencias catastróficas en catorce comunidades autónomas",
-      "url": "https://efeverde.com/el-gobierno-zonas-afectadas-por-emergencias-catastroficas/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los parientes de los humanos hace 1,4 millones de años, más grandes de lo que se pensaba",
-      "url": "https://efeverde.com/parientes-humanos-mas-grandes-pensaba/",
-      "fecha": "2026-07-28",
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Investigadores del CR2 fortalecen la colaboración científica regional en la reunión anual de ANDEX 2026",
+      "url": "https://www.cr2.cl/investigadores-del-cr2-fortalecen-la-colaboracion-cientifica-regional-en-la-reunion-anual-de-andex-2026/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un terremoto de magnitud 7,1 deja varios heridos en Japón, que retira la alerta por tsunami",
-      "url": "https://efeverde.com/fuerte-terremoto-71-sacude-sur-japon-alerta-tsunami/",
-      "fecha": "2026-07-28",
+      "titular": "Greenpeace denuncia el crecimiento de la deforestación en la Amazonía colombiana por la ganadería",
+      "url": "https://efeverde.com/greenpeace-crecimiento-deforestacion-amazonia-colombiana-ganaderia/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El deshielo convierte la Antártida en un foco de contaminación por mercurio",
-      "url": "https://efeverde.com/deshielo-convierte-antartida-contaminacion-mercurio/",
-      "fecha": "2026-07-28",
+      "titular": "El ECDC advierte de que las olas de calor aumentan el riesgo de enfermedades infecciosas",
+      "url": "https://efeverde.com/ecdc-olas-calor-aumentan-riesgo-enfermedades-infecciosas/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La sostenibilidad también se juega en la grada. Por Rafael Muela (Fundación Real Betis Balompié)",
-      "url": "https://efeverde.com/la-sostenibilidad-tambien-se-juega-en-la-grada-por-rafael-muela/",
-      "fecha": "2026-07-28",
+      "titular": "La humanidad alcanzará el Día de la Sobrecapacidad de la Tierra el jueves 30 de julio",
+      "url": "https://efeverde.com/humanidad-alcanzara-dia-sobrecapacidad-tierra-jueves-30-julio/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Gobierno afirma que ha elevado un 34 por ciento el gasto en extinción de incendios entre 2024 y 2026",
-      "url": "https://efeverde.com/el-gobierno-eleva-un-34-por-ciento-el-gasto-en-extincion-de-incendios-entre-2024-y-2026/",
-      "fecha": "2026-07-28",
+      "titular": "Un pacto de Estado para comunicar el monte antes de que vuelva a arder. Por Arturo Larena",
+      "url": "https://efeverde.com/un-pacto-de-estado-para-comunicar-el-monte-antes-de-que-vuelva-a-arder-por-arturo-larena/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Incendios en España: tras el breve respiro de ayer, una nueva ola de calor puede complicar la situación",
-      "url": "https://efeverde.com/incendios-en-espana-tras-el-breve-respiro-de-ayer-una-nueva-ola-de-calor-puede-complicar-la-situacion/",
-      "fecha": "2026-07-28",
+      "titular": "Buitre negros sobrevuelan su «hogar» destruido en el Valle de Iruelas en «vuelos caóticos»",
+      "url": "https://efeverde.com/buitre-negros-sobrevuelan-su-hogar-destruido-en-el-valle-de-iruelas-en-vuelos-caoticos/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Benito Muros (creador de la bombilla «eterna»): el sistema sigue pensado para comprar una y otra vez las mismas cosas",
-      "url": "https://efeverde.com/benito-muros-creador-de-la-bombilla-eterna-el-sistema-sigue-pensado-para-comprar-una-y-otra-vez-las-mismas-cosas/",
-      "fecha": "2026-07-28",
+      "titular": "Aagesen ve «esperanza» ante evolución de fuegos pero pide mucha prudencia por ola de calor",
+      "url": "https://efeverde.com/aagesen-ve-esperanza-ante-evolucion-de-fuegos-pero-pide-mucha-prudencia-por-ola-de-calor/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Reserva Magallanes reabre al público y Cueva del Milodón se mantendrá cerrada",
-      "url": "https://www.conaf.cl/reserva-magallanes-reabre-al-publico-y-cueva-del-milodon-se-mantendra-cerrada/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-magallanes-reabre-al-publico-y-cueva-del-milodon-se-mantendra-cerrada",
-      "fecha": "2026-07-28",
+      "titular": "CONAF y Municipalidad de Loncoche impulsan establecimiento de bosquetes multipropósito",
+      "url": "https://www.conaf.cl/conaf-y-municipalidad-de-loncoche-impulsan-establecimiento-de-bosquetes-multiproposito/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-municipalidad-de-loncoche-impulsan-establecimiento-de-bosquetes-multiproposito",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Segunda",
-      "titular": "Gael Yeomans (FA): “No vemos en el PS a un adversario”",
-      "url": "https://www.lasegunda.com/Noticias/Conversacion/2026/07/1114673/gael-yeomans-frente-amplio-elecciones",
-      "fecha": "2026-07-28",
+      "fuente": "CONAF",
+      "titular": "CONAF extiende hasta el viernes el cierre preventivo de tres áreas protegidas de la Región de Valparaíso",
+      "url": "https://www.conaf.cl/conaf-extiende-hasta-el-viernes-el-cierre-preventivo-de-tres-areas-protegidas-de-la-region-de-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-extiende-hasta-el-viernes-el-cierre-preventivo-de-tres-areas-protegidas-de-la-region-de-valparaiso",
+      "fecha": "2026-07-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "Osorno: Poduje confirma que esperado proyecto habitacional se redujo a un tercio y depende del SEA",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/07/29/osorno-poduje-confirma-que-esperado-proyecto-habitacional-se-redujo-a-un-tercio-y-depende-del-sea.shtml",
+      "fecha": "2026-07-29",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "El Mercurio Legal",
+      "titular": "Que sea admisible, respuestas del Presidente y alegatos: los pasos para un fallo del TC por ley de ReconstrucciÃ³n",
+      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/07/27/916484/tc-ley-reconstruccion.aspx",
+      "fecha": "2026-07-29",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "El Mercurio Legal",
+      "titular": "Que sea admisible, respuestas del Presidente y alegatos: los pasos para un fallo del TC por ley de ReconstrucciÃ³n",
+      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/07/27/916484/tc-ley-reconstruccion.aspx",
+      "fecha": "2026-07-29",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "País Circular",
-      "titular": "El valor de nuestros humedales frente a las lluvias del sur",
-      "url": "https://www.paiscircular.cl/opinion/el-valor-de-nuestros-humedales-frente-a-las-lluvias-del-sur/",
-      "fecha": "2026-07-27",
+      "titular": "Cuenta Pública MMA: Ministra Toledo establece desafíos y pilares de gestión al 2030",
+      "url": "https://www.paiscircular.cl/medio-ambiente/cuenta-publica-mma-ministra-toledo-establece-desafios-y-pilares-de-gestion-al-2030/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Cuando la economía circular entra en la geopolítica",
-      "url": "https://www.paiscircular.cl/opinion/cuando-la-economia-circular-entra-en-la-geopolitica/",
-      "fecha": "2026-07-27",
+      "titular": "¿Cómo elegir un casino online en Chile? Lo que debes saber antes de registrarte",
+      "url": "https://www.paiscircular.cl/tendencias/como-elegir-un-casino-online-en-chile-lo-que-debes-saber-antes-de-registrarte/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Casinos online con Webpay en Chile: ranking de 10 opciones en 2026",
-      "url": "https://www.paiscircular.cl/pulse/casinos-online-webpay/",
-      "fecha": "2026-07-27",
+      "titular": "Servicio de Biodiversidad y Áreas Protegidas y Sindicato Nacional de Guardaparques de CONAF firman protocolo de acuerdo para el traspaso institucional",
+      "url": "https://www.paiscircular.cl/biodiversidad/servicio-de-biodiversidad-y-areas-protegidas-y-sindicato-nacional-de-guardaparques-de-conaf-firman-protocolo-de-acuerdo-para-el-traspaso-institucional/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Comisión de Evaluación Ambiental aprueba por unanimidad proyecto fotovoltaico de 400 millones de dólares para Pemuco",
-      "url": "https://www.chiledesarrollosustentable.cl/comision-de-evaluacion-ambiental-aprueba-por-unanimidad-proyecto-fotovoltaico-de-400-millones-de-dolares-para-pemuco/?utm_source=rss&utm_medium=rss&utm_campaign=comision-de-evaluacion-ambiental-aprueba-por-unanimidad-proyecto-fotovoltaico-de-400-millones-de-dolares-para-pemuco",
-      "fecha": "2026-07-27",
+      "fuente": "Codex Verde",
+      "titular": "TRAEE suma cuatro nuevas empresas en una etapa clave para la implementación de la Ley REP",
+      "url": "https://codexverde.cl/traee-suma-cuatro-nuevas-empresas-en-una-etapa-clave-para-la-implementacion-de-la-ley-rep/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El nuevo ADN corporativo: del freno regulatorio al motor sostenible",
+      "url": "https://codexverde.cl/el-nuevo-adn-corporativo-del-freno-regulatorio-al-motor-sostenible/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "De residuo a recurso: investigación de Duoc UC busca convertir textiles descartados en hormigón sustentable",
+      "url": "https://codexverde.cl/de-residuo-a-recurso-investigacion-de-duoc-uc-busca-convertir-textiles-descartados-en-hormigon-sustentable/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El planeta entra en Sobregiro Ecológico mientras crecen los eventos climáticos extremos",
+      "url": "https://codexverde.cl/el-planeta-entra-en-sobregiro-ecologico-2026/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Experto detalla el fenómeno que dejó hasta voladura de techos en Ñuble (TVN)",
+      "url": "https://www.cr2.cl/experto-detalla-el-fenomeno-que-dejo-hasta-voladura-de-techos-en-nuble-tvn/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "13 agosto | Eventos extremos en Chile: desafíos para un Chile resiliente",
+      "url": "https://www.cr2.cl/13-agosto-eventos-extremos-en-chile-desafios-para-un-chile-resiliente/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "CR2 es convocado a mesa de alto nivel por los recientes temporales (FCFM)",
+      "url": "https://www.cr2.cl/cr2-es-convocado-a-mesa-de-alto-nivel-por-los-recientes-temporales/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Sierra de Espadán (Castellón), un espacio de gran biodiversidad amenazado por el fuego",
-      "url": "https://efeverde.com/sierra-espadan-castellon-amenazado-incendio/",
-      "fecha": "2026-07-27",
+      "titular": "Incendios en España: muere una mujer herida en el incendio de Almería, crece el de Castellón y mejora el del centro",
+      "url": "https://efeverde.com/incendios-en-espana-muere-una-mujer-por-el-incendio-de-almeria-crece-el-de-castellon-y-mejora-el-del-centro/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El incendio de Vall d’Uixò afecta ya a 7.500 hectáreas y afronta la noche con unas condiciones meteorológicas favorables",
-      "url": "https://efeverde.com/incendio-de-vall-duixo-noche-con-unas-condiciones-meteorologicas-favorables/",
-      "fecha": "2026-07-27",
+      "titular": "El meloncillo del veranillo. Por May",
+      "url": "https://efeverde.com/meloncillo-veranillo-mundomay-may/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Signus gestionó cerca de 231.000 toneladas de neumáticos usados en 2025",
-      "url": "https://efeverde.com/signus-toneladas-de-neumaticos-usados-en-2025/",
-      "fecha": "2026-07-27",
+      "titular": "Al menos un muerto, decenas de heridos y atrapados en Japón tras un terremoto de magnitud 7,1",
+      "url": "https://efeverde.com/japon-terremoto-derrumbe-centro-comercial/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Llega la cuarta ola de calor de este verano que aumentará el peligro de incendios forestales",
-      "url": "https://efeverde.com/cuarta-ola-de-calor-peligro-de-incendios-forestales/",
-      "fecha": "2026-07-27",
+      "titular": "El calentamiento del mar en Italia llega a 40 metros de profundidad, según Greenpeace",
+      "url": "https://efeverde.com/calentamiento-del-mar-en-italia/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Incendios forestales en España. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/incendios-forestales-en-espana-por-victor-solis-visoor/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Atacama: La exitosa recuperación del flamenco andino en salares que convive bajo presiones de minería del litio",
-      "url": "https://www.terram.cl/atacama-la-exitosa-recuperacion-del-flamenco-andino-en-salares-que-convive-bajo-presiones-de-mineria-del-litio/",
-      "fecha": "2026-07-27",
+      "titular": "Cabildo: Indagan descarga de aguas contactadas hacia quebrada",
+      "url": "https://www.terram.cl/cabildo-indagan-descarga-de-aguas-contactadas-hacia-quebrada/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Funcionarios del Medio Ambiente exigen estabilidad laboral y claridad presupuestaria en reunión con el ministerio",
-      "url": "https://www.terram.cl/funcionarios-del-medio-ambiente-exigen-estabilidad-laboral-y-claridad-presupuestaria-en-reunion-con-el-ministerio/",
-      "fecha": "2026-07-27",
+      "titular": "Chile: los montes submarinos de Juan Fernández no se recuperan de la pesca de arrastre 20 años después de su prohibición",
+      "url": "https://www.terram.cl/chile-los-montes-submarinos-de-juan-fernandez-no-se-recuperan-de-la-pesca-de-arrastre-20-anos-despues-de-su-prohibicion/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Tormenta mortal en Chile interrumpe las operaciones de las minas de cobre y genera preocupación por el suministro de IA",
-      "url": "https://www.terram.cl/tormenta-mortal-en-chile-interrumpe-las-operaciones-de-las-minas-de-cobre-y-genera-preocupacion-por-el-suministro-de-ia/",
-      "fecha": "2026-07-27",
+      "titular": "Corte confirma que hombre que rellenó parte del humedal Angachilla en Valdivia deberá restaurar el ecosistema",
+      "url": "https://www.terram.cl/corte-confirma-que-hombre-que-relleno-parte-del-humedal-angachilla-en-valdivia-debera-restaurar-el-ecosistema/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Consulta del SAG para regular venta de semillas despierta desconfianza en organizaciones campesinas",
-      "url": "https://www.terram.cl/consulta-del-sag-para-regular-venta-de-semillas-despierta-desconfianza-en-organizaciones-campesinas/",
-      "fecha": "2026-07-27",
+      "titular": "Organizaciones de Diego de Almagro recurren al Primer Tribunal Ambiental para impugnar aprobación de proyecto BESS Pueblo Hundido",
+      "url": "https://www.terram.cl/organizaciones-de-diego-de-almagro-recurren-al-primer-tribunal-ambiental-para-impugnar-aprobacion-de-proyecto-bess-pueblo-hundido/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Monitoreo del canquén colorado en Magallanes descarta al visón pero confirma amenaza de perros en sus sitios de reproducción",
-      "url": "https://www.terram.cl/monitoreo-del-canquen-colorado-en-magallanes-descarta-al-vison-pero-confirma-amenaza-de-perros-en-sus-sitios-de-reproduccion/",
-      "fecha": "2026-07-27",
+      "titular": "El deshielo convierte la Antártida en un foco de contaminación por mercurio",
+      "url": "https://www.terram.cl/el-deshielo-convierte-la-antartida-en-un-foco-de-contaminacion-por-mercurio/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Los arquitectos del desierto costero: El proyecto que busca conservar y restaurar los cactus nativos de Punta de Lobos",
-      "url": "https://www.terram.cl/los-arquitectos-del-desierto-costero-el-proyecto-que-busca-conservar-y-restaurar-los-cactus-nativos-de-punta-de-lobos/",
-      "fecha": "2026-07-27",
+      "titular": "Por primera vez, documentan poblaciones de vizcacha austral en La Araucanía: registro extiende el límite norte de su distribución en más de 140 km",
+      "url": "https://www.terram.cl/por-primera-vez-documentan-poblaciones-de-vizcacha-austral-en-la-araucania-registro-extiende-el-limite-norte-de-su-distribucion-en-mas-de-140-km/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Nuevo informe advierte retrasos en la implementación de la Ley SBAP y alerta por la postergación de reglamentos",
+      "url": "https://chilesustentable.net/2026/07/chile-sustentable-participa-en-la-primera-sesion-del-consejo-asesor-de-medio-ambiente-y-accion-climatica-del-gobierno-de-santiago/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Chile Sustentable participa en la primera sesión del Consejo Asesor de Medio Ambiente y Acción Climática del Gobierno de Santiago",
+      "url": "https://chilesustentable.net/2026/07/chile-sustentable-participa-en-la-primera-sesion-del-consejo-asesor-de-medio-ambiente-y-accion-climatica-del-gobierno-de-santiago/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "10/09/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
-      "url": "https://3ta.cl/audiencias/10-09-2026-fija-audiencia-en-caso-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
-      "fecha": "2026-07-27",
+      "titular": "18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
-      "url": "https://3ta.cl/audiencias/20-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
-      "fecha": "2026-07-27",
+      "titular": "11/08/2026: Fija audiencia en caso de «Jaime Antonio Llanos Agurto y Otros con Eólica Monte Redondo», Rol: D-33-2017",
+      "url": "https://3ta.cl/audiencias/11-08-2026-fija-audiencia-en-caso-de-jaime-antonio-llanos-agurto-y-otros-con-eolica-monte-redondo-rol-d-33-2017/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Se acogió parcialmente la reclamación de Inmobiliaria Pocuro Sur contra la SMA por proyecto «Loteo Llacolén” en Coronel",
-      "url": "https://3ta.cl/noticias/se-acogio-parcialmente-la-reclamacion-de-inmobiliaria-pocuro-sur-contra-la-sma-por-proyecto-loteo-llacolen-en-coronel/",
-      "fecha": "2026-07-27",
+      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-41-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-41-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional del maule del servicio nacional de pesca y acuicultura adp 34096",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-del-maule-del-servicio-nacional-de-pesca-y-acuicultura-adp-34096/",
-      "fecha": "2026-07-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional de valparaiso del servicio nacional de pesca y acuicultura adp 34496",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura-adp-34496/",
-      "fecha": "2026-07-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Concurso de alta direccion publica para la provision del cargo de director a regional de coquimbo del servicio nacional de pesca y acuicultura adp 35088",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/concurso-de-alta-direccion-publica-para-la-provision-del-cargo-de-director-a-regional-de-coquimbo-del-servicio-nacional-de-pesca-y-acuicultura-adp-35088/",
-      "fecha": "2026-07-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Tarapacá: SMA formula cargo grave contra Pub Azotea Baquedano por reiterados incumplimientos a la norma de ruidos",
-      "url": "https://portal.sma.gob.cl/index.php/tarapaca-sma-formula-cargo-grave-contra-pub-azotea-baquedano-por-reiterados-incumplimientos-a-la-norma-de-ruidos/",
-      "fecha": "2026-07-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-42-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-42-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente y SMA refuerzan fiscalización en Ñuble ante sistema frontal: región suma 105 inspecciones y 220 denuncias ambientales",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-sma-refuerzan-fiscalizacion-en-nuble-ante-sistema-frontal-region-suma-105-inspecciones-y-220-denuncias-ambientales/",
-      "fecha": "2026-07-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-37-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-37-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades coordinan plan de limpieza del borde costero de La Serena con énfasis en la protección de la biodiversidad",
-      "url": "https://mma.gob.cl/autoridades-coordinan-plan-de-limpieza-del-borde-costero-de-la-serena-con-enfasis-en-la-proteccion-de-la-biodiversidad/",
-      "fecha": "2026-07-27",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental «. Rol: R-36-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-patricio-segura-ortiz-y-otros-con-servicio-de-evaluacion-ambiental-rol-r-36-2026/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Agrupación Sociocultural y de Protección del  Medio Ambiente y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-39-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-agrupacion-sociocultural-y-de-proteccion-del-medio-ambiente-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-39-2026/",
+      "fecha": "2026-07-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-40-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-40-2026/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Gobernador Regional y Seremi del Medio Ambiente priorizarán la gestión de residuos en Magallanes",
-      "url": "https://mma.gob.cl/gobernador-regional-y-seremi-del-medio-ambiente-priorizaran-la-gestion-de-residuos-en-magallanes/",
-      "fecha": "2026-07-27",
+      "titular": "Cuenta Pública MMA: Ministra Toledo establece desafíos y pilares de gestión al 2030",
+      "url": "https://mma.gob.cl/cuenta-publica-mma-ministra-toledo-establece-desafios-y-pilares-de-gestion-al-2030/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CIPER Chile",
-      "titular": "Examen de ADN confirma que Bernarda Vera está viva; Kast propone que test de drogas a autoridades sea obligatorio, y fiscalía culpa a dos exfuncionarios de Conaf por alerta tardía en megaincendio que dejó 138 muertos",
-      "url": "https://www.ciperchile.cl/2026/07/27/radar-27-07-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-27-07-2026",
-      "fecha": "2026-07-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de prospección minera en Atacama",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-atacama/",
-      "fecha": "2026-07-27",
+      "fuente": "Nueva Minería",
+      "titular": "Enap ingresa al SEIA proyecto por US$690 millones para desarrollar 115 nuevos pozos de hidrocarburos en Magallanes",
+      "url": "https://www.nuevamineria.com/revista/enap-ingresa-al-seia-proyecto-por-us690-millones-para-desarrollar-115-nuevos-pozos-de-hidrocarburos-en-magallanes/",
+      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
