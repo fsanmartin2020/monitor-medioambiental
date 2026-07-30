@@ -1,173 +1,41 @@
 {
-  "fecha_generacion": "2026-07-29T09:14:37.383468-04:00",
-  "total_alertas": 14,
+  "fecha_generacion": "2026-07-30T08:48:48.530290-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "BioBioChile",
-      "titular": "Osorno: Poduje confirma que esperado proyecto habitacional se redujo a un tercio y depende del SEA",
-      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/07/29/osorno-poduje-confirma-que-esperado-proyecto-habitacional-se-redujo-a-un-tercio-y-depende-del-sea.shtml",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
       "fecha": "2026-07-29",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Mercurio Legal",
-      "titular": "Que sea admisible, respuestas del Presidente y alegatos: los pasos para un fallo del TC por ley de ReconstrucciÃ³n",
-      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/07/27/916484/tc-ley-reconstruccion.aspx",
-      "fecha": "2026-07-29",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Mercurio Legal",
-      "titular": "Que sea admisible, respuestas del Presidente y alegatos: los pasos para un fallo del TC por ley de ReconstrucciÃ³n",
-      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/07/27/916484/tc-ley-reconstruccion.aspx",
-      "fecha": "2026-07-29",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "TRAEE suma cuatro nuevas empresas en una etapa clave para la implementación de la Ley REP",
-      "url": "https://codexverde.cl/traee-suma-cuatro-nuevas-empresas-en-una-etapa-clave-para-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-07-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Chile generó más de 220 mil toneladas de residuos de aparatos eléctricos y electrónicos (RAEE) en 2025, convirtiéndose en el mayor generador de este tipo de residuos en América Latina. Sin embargo, menos de un 5% se recicla formalmente, lo que plante",
+      "extracto": "Se fija audiencia con fecha 20/08/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026 appeared first on Ter",
       "keywords_detectadas": [
-        "Ley REP"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "Organizaciones de Diego de Almagro recurren al Primer Tribunal Ambiental para impugnar aprobación de proyecto BESS Pueblo Hundido",
-      "url": "https://www.terram.cl/organizaciones-de-diego-de-almagro-recurren-al-primer-tribunal-ambiental-para-impugnar-aprobacion-de-proyecto-bess-pueblo-hundido/",
-      "fecha": "2026-07-28",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
+      "url": "https://3ta.cl/destacadas/tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Comunidades y organizaciones vecinales cuestionan que el Servicio de Evaluación Ambiental no habría considerado adecuadamente sus observaciones sobre los riesgos para la salud, el medio ambiente y la ubicación del proyecto en una zona afectada por el",
+      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
-      "url": "https://3ta.cl/audiencias/18-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
-      "fecha": "2026-07-28",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Presentan reclamación ante Tribunal Ambiental contra aprobación de proyecto fotovoltaico en Pozo Almonte",
+      "url": "https://www.revistaei.cl/presentan-reclamacion-ante-tribunal-ambiental-contra-aprobacion-de-proyecto-fotovoltaico-en-pozo-almonte/",
+      "fecha": "2026-07-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 18/08/2026 a las 11:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026 appeared first on Ter",
+      "extracto": "En la instancia se solicitó, además, una medida cautelar destinada a suspender los efectos de la resolución impugnada y de la calificación favorable de la iniciativa mientras se tramita la causa. La entrada Presentan reclamación ante Tribunal Ambient",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
-      "url": "https://3ta.cl/audiencias/18-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 18/08/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 18/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026 appeared first on Ter",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-41-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-41-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Australis Mar S.A con Superintendencia del Medio Ambiente. (Rol R-41-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The post Admítase",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-42-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-42-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Australis Mar S.A con Superintendencia del Medio Ambiente. (Rol R-42-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The post Admítase",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-37-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-37-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Australis Mar S.A con Superintendencia del Medio Ambiente. (Rol R-37-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The post Admítase",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental «. Rol: R-36-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-patricio-segura-ortiz-y-otros-con-servicio-de-evaluacion-ambiental-rol-r-36-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental . (Rol R-36-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The pos",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Agrupación Sociocultural y de Protección del  Medio Ambiente y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-39-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-agrupacion-sociocultural-y-de-proteccion-del-medio-ambiente-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-39-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Agrupación Sociocultural y de Protección del Medio Ambiente y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental. (Rol R-39-2026). Acceda al expediente",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Australis Mar S.A con Superintendencia del Medio Ambiente». Rol: R-40-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-40-2026/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 28 de julio de 2026, admítase a trámite la Reclamación identificada como Australis Mar S.A con Superintendencia del Medio Ambiente. (Rol R-40-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace The post Admítase",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Enap ingresa al SEIA proyecto por US$690 millones para desarrollar 115 nuevos pozos de hidrocarburos en Magallanes",
-      "url": "https://www.nuevamineria.com/revista/enap-ingresa-al-seia-proyecto-por-us690-millones-para-desarrollar-115-nuevos-pozos-de-hidrocarburos-en-magallanes/",
-      "fecha": "2026-07-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa contempla la perforación y fractura hidráulica de nuevos pozos en la comuna de San Gregorio y forma parte del Plan Enap 2040. El proyecto busca fortalecer la producción de gas natural y petróleo en la principal cuenca productora del paí",
-      "keywords_detectadas": [
-        "SEIA"
+        "Tribunal Ambiental"
       ]
     }
   ]
