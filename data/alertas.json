@@ -1,41 +1,53 @@
 {
-  "fecha_generacion": "2026-07-30T08:48:48.530290-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-07-31T09:33:39.861983-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
-      "url": "https://3ta.cl/audiencias/20-08-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
-      "fecha": "2026-07-29",
+      "fuente": "SMA",
+      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
+      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
+      "fecha": "2026-07-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 20/08/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 20/08/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026 appeared first on Ter",
+      "extracto": "A través de una mesa de trabajo con titulares del sector, la Superintendencia del Medio Ambiente presentó el plan piloto en la plataforma SISAT para el reporte digital de muestreos de material particulado, optimizando la fiscalización y la trazabilid",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "SMA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
-      "url": "https://3ta.cl/destacadas/tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
-      "fecha": "2026-07-29",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyectos en evaluación ambiental",
+      "url": "https://www.mch.cl/cuenta-publica-del-sea-hay-cerca-de-us100-mil-millones-en-proyectos-en-evaluacion-ambiental/",
+      "fecha": "2026-07-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
+      "extracto": "Durante la presentación, el director ejecutivo, Arturo Farías, dio a conocer los principales hitos de la institución durante 2025 y presentó los avances y desafíos de 2026. La entrada Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyec",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Presentan reclamación ante Tribunal Ambiental contra aprobación de proyecto fotovoltaico en Pozo Almonte",
-      "url": "https://www.revistaei.cl/presentan-reclamacion-ante-tribunal-ambiental-contra-aprobacion-de-proyecto-fotovoltaico-en-pozo-almonte/",
-      "fecha": "2026-07-29",
+      "titular": "Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyectos en evaluación ambiental",
+      "url": "https://www.revistaei.cl/cuenta-publica-del-sea-hay-cerca-de-us100-mil-millones-en-proyectos-en-evaluacion-ambiental/",
+      "fecha": "2026-07-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En la instancia se solicitó, además, una medida cautelar destinada a suspender los efectos de la resolución impugnada y de la calificación favorable de la iniciativa mientras se tramita la causa. La entrada Presentan reclamación ante Tribunal Ambient",
+      "extracto": "Durante la presentación, el director ejecutivo, Arturo Farías, dio a conocer los principales hitos de la institución durante 2025 y presentó los avances y desafíos de 2026. La entrada Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyec",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SEA mantiene avance de proyectos estratégicos y El Soldado entra en una nueva etapa ambiental",
+      "url": "https://www.nuevamineria.com/revista/sea-mantiene-avance-de-proyectos-estrategicos-y-el-soldado-entra-en-una-nueva-etapa-ambiental/",
+      "fecha": "2026-07-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Tras la reciente aprobación de la Continuidad Operacional Fase V, Anglo American avanza ahora con la evaluación ambiental del Proyecto Desarrollo El Soldado (PDES), iniciativa que busca extender la vida útil de la faena hasta 2045 mediante nuevas fas",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
