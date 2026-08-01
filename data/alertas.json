@@ -1,53 +1,41 @@
 {
-  "fecha_generacion": "2026-07-31T09:33:39.861983-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-08-01T08:16:48.668644-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "SMA",
-      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
-      "url": "https://portal.sma.gob.cl/index.php/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente abre convocatoria al primer Grupo Ampliado Público-Privado de Escazú",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-convocatoria-al-primer-grupo-ampliado-publico-privado-de-escazu/",
       "fecha": "2026-07-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "A través de una mesa de trabajo con titulares del sector, la Superintendencia del Medio Ambiente presentó el plan piloto en la plataforma SISAT para el reporte digital de muestreos de material particulado, optimizando la fiscalización y la trazabilid",
+      "extracto": "La instancia se realizará el 21 de agosto, en modalidad virtual, y busca informar avances del Plan Nacional de Implementación […]",
       "keywords_detectadas": [
-        "SMA"
+        "Escazú"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyectos en evaluación ambiental",
-      "url": "https://www.mch.cl/cuenta-publica-del-sea-hay-cerca-de-us100-mil-millones-en-proyectos-en-evaluacion-ambiental/",
-      "fecha": "2026-07-30",
+      "titular": "Se califica favorablemente DIA de prospección minera en Taltal",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-taltal/",
+      "fecha": "2026-07-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante la presentación, el director ejecutivo, Arturo Farías, dio a conocer los principales hitos de la institución durante 2025 y presentó los avances y desafíos de 2026. La entrada Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyec",
+      "extracto": "La iniciativa tiene por objetivo minimizar la incertidumbre geológica asociada a las concentraciones de sustancias minerales de interés económico que se han detectado en el área. La entrada Se califica favorablemente DIA de prospección minera en Talt",
       "keywords_detectadas": [
-        "SEA"
+        "DIA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyectos en evaluación ambiental",
-      "url": "https://www.revistaei.cl/cuenta-publica-del-sea-hay-cerca-de-us100-mil-millones-en-proyectos-en-evaluacion-ambiental/",
-      "fecha": "2026-07-30",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
+      "url": "https://www.mch.cl/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
+      "fecha": "2026-07-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante la presentación, el director ejecutivo, Arturo Farías, dio a conocer los principales hitos de la institución durante 2025 y presentó los avances y desafíos de 2026. La entrada Cuenta Pública del SEA: Hay cerca de US$100 mil millones en proyec",
+      "extracto": "La Superintendencia presentó el plan piloto en la plataforma SISAT para el reporte de muestreos de material particulado, optimizando la fiscalización y la trazabilidad de la información ambiental. La entrada SMA inicia marcha blanca de herramienta di",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SEA mantiene avance de proyectos estratégicos y El Soldado entra en una nueva etapa ambiental",
-      "url": "https://www.nuevamineria.com/revista/sea-mantiene-avance-de-proyectos-estrategicos-y-el-soldado-entra-en-una-nueva-etapa-ambiental/",
-      "fecha": "2026-07-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Tras la reciente aprobación de la Continuidad Operacional Fase V, Anglo American avanza ahora con la evaluación ambiental del Proyecto Desarrollo El Soldado (PDES), iniciativa que busca extender la vida útil de la faena hasta 2045 mediante nuevas fas",
-      "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
