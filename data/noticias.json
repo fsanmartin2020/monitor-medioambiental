@@ -1,253 +1,117 @@
 {
-  "fecha_actualizacion": "2026-08-01T08:16:48.654766-04:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-08-02T08:14:38.407025-04:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Los bomberos refrescan la zona quemada en el incendio de Vall d’Uixó (Castellón)",
-      "url": "https://efeverde.com/bomberos-zona-quemada-incendio-vall-duixo-castellon/",
+      "titular": "Murcia registra un terremoto de 4,1 grados que se ha sentido también en Alicante y Albacete",
+      "url": "https://efeverde.com/murcia-terremoto-41-grados/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego",
+      "url": "https://efeverde.com/usar-biomasa-forestal-climatizar-edificios-incendios/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El eclipse del 12 de agosto, el primero en la península en un siglo y en España desde 1959",
+      "url": "https://efeverde.com/eclipse-12-agosto-primero-peninsula-un-siglo/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El incendio de Fermoselle (Zamora) es ya el quinto mayor del verano con 11.134 hectáreas",
+      "url": "https://efeverde.com/incendio-fermoselle-zamora-quinto-mayor-verano/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Tomás, el ciervo que recorrió 50 kilómetros para volver a su pueblo en Zamora",
+      "url": "https://efeverde.com/tomas-ciervo-recorrio-50-kilometros-volver-pueblo-zamora/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España cuenta con casi 4.000 burros: del arado a prevenir fuegos y ayudar en terapias",
+      "url": "https://efeverde.com/espana-burros-arado-prevenir-fuegos-ayudar-terapias/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Esferas blancas de 5 a 20 milímetros: descubren un nuevo parásito de la sardina común",
+      "url": "https://efeverde.com/descubren-nuevo-parasito-sardina-comun/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El pinar de La Palma exhibe su capacidad de rebrote diez años después del gran incendio",
+      "url": "https://efeverde.com/pinar-la-palma-diez-anos-gran-incendio/",
+      "fecha": "2026-08-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Tsunami migratorio hacia Ceuta. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/tsunami-migratorio-hacia-ceuta-por-victor-solis-visoor/",
       "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La triada de eclipses ibéricos, ¿un fenómeno casual?",
-      "url": "https://efeverde.com/triada-eclipses-sol-ibericos-rareza/",
+      "titular": "Las comunidades del PP rechazan el Pacto de Emergencia climática y proponen un Acuerdo Nacional",
+      "url": "https://efeverde.com/ccaa-pp-rechazan-pacto-emergencia-climatica/",
       "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las playas españolas, en situación «preocupante», pero con margen para salvar la arena",
-      "url": "https://efeverde.com/playas-situacion-preocupante-margen-salvar-arena/",
+      "titular": "Un dron graba el momento exacto en el que una ballena jorobada da a luz a su cría",
+      "url": "https://efeverde.com/ballena-jorobada-da-luz-cria-video/",
       "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Perros con un peso saludable. Por Alejandra Botto",
-      "url": "https://efeverde.com/perros-con-un-peso-saludable-por-alejandra-botto/",
+      "titular": "Preocupa el fuego en el Bierzo (León) por el viento, mientras se refresca el de Castellón",
+      "url": "https://efeverde.com/resumen-incendios-forestales-activos-espana-sabado-1-agosto/",
       "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Santiago se asoma al eclipse del 12 de agosto a través del universo inmersivo de Galiverso",
-      "url": "https://efeverde.com/santiago-eclipse-12-de-agosto-universo-inmersivo/",
+      "titular": "Alimentar la fauna: la tarea del día después del incendio de Fermoselle (Zamora)",
+      "url": "https://efeverde.com/alimentar-fauna-incendio-fermoselle-zamora/",
       "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Emol",
-      "titular": "Canciller e idea de un perfil político para nuevo cónsul en Venezuela: \"La verdad que el trabajo es operativo\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/07/31/1207296/canciller-consul-chile-venezuela-politico.html",
+      "fuente": "EFE Verde",
+      "titular": "Julio deja un balance provisional de 2.036 muertes atribuibles a las altas temperaturas",
+      "url": "https://efeverde.com/julio-2036-muertes-atribuibles-calor/",
       "fecha": "2026-08-01",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Ecomondo 2026: invitan a empresas chilenas a participar en feria internacional especializada en áreas clave para la transición ecológica",
-      "url": "https://www.paiscircular.cl/empresa-e-innovacion/ecomondo-2026-invitan-a-empresas-chilenas-a-participar-en-feria-internacional-especializada-en-areas-clave-para-la-transicion-ecologica/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Casinos con giros gratis por registro en Chile: top 10 de 2026",
-      "url": "https://www.paiscircular.cl/pulse/casinos-con-giros-gratis/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Niño se intensificará en agosto, con temperaturas superiores a la media a nivel global",
-      "url": "https://efeverde.com/el-nino-se-intensificara-en-agosto/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un estudio internacional revela que las plantas invasoras pueden adaptarse a nuevos climas",
-      "url": "https://efeverde.com/plantas-invasoras-nuevos-climas/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Grecia y Portugal combaten el fuego, mientras Francia apaga los últimos grandes focos",
-      "url": "https://efeverde.com/grecia-portugal-francia-fuego/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio de Castellón está ya estabilizado y la situación es favorable en Zamora",
-      "url": "https://efeverde.com/incendio-castellon-sigue-sin-ser-estabilizado-y-situacion-es-favorable-en-zamora/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Decreto de Kast simplifica control del Estado sobre seguridad minera y deja responsabilidad en propias empresas",
-      "url": "https://www.terram.cl/decreto-de-kast-simplifica-control-del-estado-sobre-seguridad-minera-y-deja-responsabilidad-en-propias-empresas/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Madesal anuncia que devolverá concesiones mineras de Isla Santa María",
-      "url": "https://www.terram.cl/madesal-anuncia-que-devolvera-concesiones-mineras-de-isla-santa-maria/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Gobierno Regional de Los Ríos destinará millonaria inversión para investigar delitos ambientales",
-      "url": "https://www.terram.cl/gobierno-regional-de-los-rios-destinara-millonaria-inversion-para-investigar-delitos-ambientales/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Proyecto clausurado, denuncias pendientes: Comunidad indígena recurre a la Corte de Copiapó por Pascua Lama",
-      "url": "https://www.terram.cl/proyecto-clausurado-denuncias-pendientes-comunidad-indigena-recurre-a-la-corte-de-copiapo-por-pascua-lama/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Estudio Ipsos revela que solo la mitad de los chilenos comprende qué es la sostenibilidad",
-      "url": "https://www.terram.cl/estudio-ipsos-revela-que-solo-la-mitad-de-los-chilenos-comprende-que-es-la-sostenibilidad/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "Ballenas sei en Argentina: el tercer animal más grande regresó a la Patagonia y las rastrean satelitalmente para protegerlas",
-      "url": "https://www.terram.cl/ballenas-sei-en-argentina-el-tercer-animal-mas-grande-regreso-a-la-patagonia-y-las-rastrean-satelitalmente-para-protegerlas/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF fortalece prevención de incendios forestales en comunidades de Temuco y Galvarino",
-      "url": "https://www.conaf.cl/conaf-fortalece-prevencion-de-incendios-forestales-en-comunidades-de-temuco-y-galvarino/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-fortalece-prevencion-de-incendios-forestales-en-comunidades-de-temuco-y-galvarino",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "El Tabo: Santuario Laguna El Peral celebra 51 años con significativa recuperación de su espejo de agua",
-      "url": "https://www.conaf.cl/el-tabo-santuario-laguna-el-peral-celebra-51-anos-con-significativa-recuperacion-de-su-espejo-de-agua/?utm_source=rss&utm_medium=rss&utm_campaign=el-tabo-santuario-laguna-el-peral-celebra-51-anos-con-significativa-recuperacion-de-su-espejo-de-agua",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Contraloría toma razón del primer plan de descontaminación hídrica del país para el Lago Villarrica",
-      "url": "https://mma.gob.cl/contraloria-toma-razon-del-primer-plan-de-descontaminacion-hidrica-del-pais-para-el-lago-villarrica/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Universidad de Chile inició jornadas de capacitación para prevenir incendios forestales y proteger la biodiversidad, gracias al FPA",
-      "url": "https://mma.gob.cl/universidad-de-chile-inicio-jornadas-de-capacitacion-para-prevenir-incendios-forestales-y-proteger-la-biodiversidad-gracias-al-fpa/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente capacita a profesionales del Programa Servicio País en la formulación de proyectos ambientales",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-capacita-a-profesionales-del-programa-servicio-pais-en-la-formulacion-de-proyectos-ambientales/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Inician programa de alfabetización digital dirigido a recitadores de base en Viña del Mar",
-      "url": "https://mma.gob.cl/inician-programa-de-alfabetizacion-digital-dirigido-a-recitadores-de-base-en-vina-del-mar/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente abre convocatoria al primer Grupo Ampliado Público-Privado de Escazú",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-convocatoria-al-primer-grupo-ampliado-publico-privado-de-escazu/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Impulsan la restauración de la ribera del río Paicaví con especies nativas",
-      "url": "https://mma.gob.cl/impulsan-la-restauracion-de-la-ribera-del-rio-paicavi-con-especies-nativas/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades regionales coordinan el traspaso de áreas protegidas desde CONAF al SBAP",
-      "url": "https://mma.gob.cl/autoridades-regionales-coordinan-el-traspaso-de-areas-protegidas-desde-conaf-al-sbap/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Gobierno despliega operativo de emergencia en la alta cordillera de Tierra Amarilla para apoyar a familias crianceras",
-      "url": "https://mma.gob.cl/gobierno-despliega-operativo-de-emergencia-en-la-alta-cordillera-de-tierra-amarilla-para-apoyar-a-familias-crianceras/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Innovación de la UCM impulsa histórica transferencia tecnológica que beneficia a ladrilleros del Maule",
-      "url": "https://adprensa.cl/innovacion-de-la-ucm-impulsa-historica-transferencia-tecnologica-que-beneficia-a-ladrilleros-del-maule/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de prospección minera en Taltal",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-taltal/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
-      "url": "https://www.mch.cl/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
-      "fecha": "2026-07-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

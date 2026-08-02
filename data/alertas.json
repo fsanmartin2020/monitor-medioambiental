@@ -1,42 +1,5 @@
 {
-  "fecha_generacion": "2026-08-01T08:16:48.668644-04:00",
-  "total_alertas": 3,
-  "alertas": [
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente abre convocatoria al primer Grupo Ampliado Público-Privado de Escazú",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-convocatoria-al-primer-grupo-ampliado-publico-privado-de-escazu/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La instancia se realizará el 21 de agosto, en modalidad virtual, y busca informar avances del Plan Nacional de Implementación […]",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de prospección minera en Taltal",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-prospeccion-minera-en-taltal/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa tiene por objetivo minimizar la incertidumbre geológica asociada a las concentraciones de sustancias minerales de interés económico que se han detectado en el área. La entrada Se califica favorablemente DIA de prospección minera en Talt",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
-      "url": "https://www.mch.cl/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
-      "fecha": "2026-07-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia presentó el plan piloto en la plataforma SISAT para el reporte de muestreos de material particulado, optimizando la fiscalización y la trazabilidad de la información ambiental. La entrada SMA inicia marcha blanca de herramienta di",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-08-02T08:14:38.420425-04:00",
+  "total_alertas": 0,
+  "alertas": []
 }
