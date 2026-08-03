@@ -1,117 +1,109 @@
 {
-  "fecha_actualizacion": "2026-08-02T08:14:38.407025-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-08-03T09:54:42.816211-04:00",
+  "total": 13,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "La fuerza de la colaboración para impulsar a los proveedores de la salmonicultura",
+      "url": "https://www.paiscircular.cl/opinion/la-fuerza-de-la-colaboracion-para-impulsar-a-los-proveedores-de-la-salmonicultura/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Proyecto definirá de qué manera el coprocesamiento puede contribuir a reducir las emisiones del sector cemento y al cumplimiento de la Ley REP para NFU",
+      "url": "https://www.paiscircular.cl/economia-circular/proyecto-definira-de-que-manera-el-coprocesamiento-puede-contribuir-a-reducir-las-emisiones-del-sector-cemento-y-ayudar-al-cumplimiento-de-la-ley-rep/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Enap y CR2 se reunieron para abordar los posibles impactos del cambio climático en el sector productivo",
+      "url": "https://www.cr2.cl/enap-y-cr2-se-reunieron-para-abordar-los-posibles-impactos-del-cambio-climatico-en-el-sector-productivo/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "Murcia registra un terremoto de 4,1 grados que se ha sentido también en Alicante y Albacete",
-      "url": "https://efeverde.com/murcia-terremoto-41-grados/",
+      "titular": "Más de 120.000 evacuados por las fuertes lluvias en el centro de China",
+      "url": "https://efeverde.com/evacuados-por-fuertes-lluvias-en-centro-de-china/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La baja implantación de la PAC compromete la conservación de las aves esteparias en España",
+      "url": "https://efeverde.com/baja-implantacion-de-pac-conservacion-de-aves-esteparias-en-espana/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Controlado el incendio de La Mierla (Guadalajara), que ha afectado a 32.000 hectáreas",
+      "url": "https://efeverde.com/controlado-el-incendio-de-la-mierla-guadalajara/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Alianza Verde pide prohibir la caza en las zonas afectadas por los incendios",
+      "url": "https://efeverde.com/alianza-verde-pide-prohibir-caza-incendios/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Dónde ver el eclipse solar del 12 de agosto, cómo y otras claves para disfrutarlo",
+      "url": "https://efeverde.com/claves-eclipse-solar-del-12-de-agosto/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un terremoto poco profundo de magnitud 5,6 sacude El Cairo sin provocar víctimas",
+      "url": "https://efeverde.com/terremoto56-sacude-el-cairo-sin-victimas/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Rescatando animales de los incendios: la experiencia de Salvando Peludos",
+      "url": "https://efeverde.com/rescatando-animales-incendios-salvando-peludos/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y el Municipio de Pinto rinden homenaje a guardaparques de la Reserva Nacional Ñuble",
+      "url": "https://www.conaf.cl/conaf-y-el-municipio-de-pinto-rinden-homenaje-a-guardaparques-de-la-reserva-nacional-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-el-municipio-de-pinto-rinden-homenaje-a-guardaparques-de-la-reserva-nacional-nuble",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA inicia digitalización del monitoreo de emisiones en las principales fundiciones de cobre",
+      "url": "https://www.nuevamineria.com/revista/sma-inicia-digitalizacion-del-monitoreo-de-emisiones-en-las-principales-fundiciones-de-cobre/",
+      "fecha": "2026-08-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
+      "url": "https://www.portalminero.com/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre",
       "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Usar biomasa forestal para climatizar edificios, un escudo preventivo contra el fuego",
-      "url": "https://efeverde.com/usar-biomasa-forestal-climatizar-edificios-incendios/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El eclipse del 12 de agosto, el primero en la península en un siglo y en España desde 1959",
-      "url": "https://efeverde.com/eclipse-12-agosto-primero-peninsula-un-siglo/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio de Fermoselle (Zamora) es ya el quinto mayor del verano con 11.134 hectáreas",
-      "url": "https://efeverde.com/incendio-fermoselle-zamora-quinto-mayor-verano/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tomás, el ciervo que recorrió 50 kilómetros para volver a su pueblo en Zamora",
-      "url": "https://efeverde.com/tomas-ciervo-recorrio-50-kilometros-volver-pueblo-zamora/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "España cuenta con casi 4.000 burros: del arado a prevenir fuegos y ayudar en terapias",
-      "url": "https://efeverde.com/espana-burros-arado-prevenir-fuegos-ayudar-terapias/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Esferas blancas de 5 a 20 milímetros: descubren un nuevo parásito de la sardina común",
-      "url": "https://efeverde.com/descubren-nuevo-parasito-sardina-comun/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El pinar de La Palma exhibe su capacidad de rebrote diez años después del gran incendio",
-      "url": "https://efeverde.com/pinar-la-palma-diez-anos-gran-incendio/",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tsunami migratorio hacia Ceuta. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/tsunami-migratorio-hacia-ceuta-por-victor-solis-visoor/",
-      "fecha": "2026-08-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las comunidades del PP rechazan el Pacto de Emergencia climática y proponen un Acuerdo Nacional",
-      "url": "https://efeverde.com/ccaa-pp-rechazan-pacto-emergencia-climatica/",
-      "fecha": "2026-08-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un dron graba el momento exacto en el que una ballena jorobada da a luz a su cría",
-      "url": "https://efeverde.com/ballena-jorobada-da-luz-cria-video/",
-      "fecha": "2026-08-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Preocupa el fuego en el Bierzo (León) por el viento, mientras se refresca el de Castellón",
-      "url": "https://efeverde.com/resumen-incendios-forestales-activos-espana-sabado-1-agosto/",
-      "fecha": "2026-08-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Alimentar la fauna: la tarea del día después del incendio de Fermoselle (Zamora)",
-      "url": "https://efeverde.com/alimentar-fauna-incendio-fermoselle-zamora/",
-      "fecha": "2026-08-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Julio deja un balance provisional de 2.036 muertes atribuibles a las altas temperaturas",
-      "url": "https://efeverde.com/julio-2036-muertes-atribuibles-calor/",
-      "fecha": "2026-08-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
