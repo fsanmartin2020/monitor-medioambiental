@@ -1,41 +1,18 @@
 {
-  "fecha_generacion": "2026-08-03T09:54:42.828626-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-08-04T09:15:39.478545-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Proyecto definirá de qué manera el coprocesamiento puede contribuir a reducir las emisiones del sector cemento y al cumplimiento de la Ley REP para NFU",
-      "url": "https://www.paiscircular.cl/economia-circular/proyecto-definira-de-que-manera-el-coprocesamiento-puede-contribuir-a-reducir-las-emisiones-del-sector-cemento-y-ayudar-al-cumplimiento-de-la-ley-rep/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa “Descarbonización del Sector Cemento” contempla una serie de estudios para cuantificar el aporte del uso de combustibles alternativos en reemplazo de los combustibles fósiles en hornos cementeros. En ese marco, se evaluará particularmen",
+      "fuente": "Diario Constitucional",
+      "titular": "TC rechaza inaplicabilidad del SEA y deja a la Corte Suprema definir la admisibilidad de recursos de casación en causa ambiental",
+      "url": "https://www.diarioconstitucional.cl/2026/08/04/tc-rechaza-inaplicabilidad-del-sea-y-deja-a-la-corte-suprema-definir-la-admisibilidad-de-recursos-de-casacion-en-causa-ambiental/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA inicia digitalización del monitoreo de emisiones en las principales fundiciones de cobre",
-      "url": "https://www.nuevamineria.com/revista/sma-inicia-digitalizacion-del-monitoreo-de-emisiones-en-las-principales-fundiciones-de-cobre/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente comenzó una marcha blanca para que cinco fundiciones del país reporten digitalmente sus mediciones de material particulado. La iniciativa busca fortalecer la trazabilidad, automatizar el control ambiental y avan",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
-      "url": "https://www.portalminero.com/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre",
-      "fecha": "2026-08-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "A través de una mesa de trabajo con titulares del sector, la Superintendencia del Medio Ambiente presentó el plan piloto en la plataforma SISAT para el reporte digital de muestreos de material particulado, optimizando la fiscalización y la trazabilid",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA",
+        "Corte Suprema"
       ]
     }
   ]
