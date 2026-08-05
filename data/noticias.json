@@ -1,245 +1,301 @@
 {
-  "fecha_actualizacion": "2026-08-04T09:15:39.464259-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-08-05T09:06:58.571441-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "“¿Estoy regulado?, ¿qué debo cumplir?, ¿desde cuándo?: navegador DS 22/2025 responde dudas sobre el decreto REP de pilas y electrónicos",
-      "url": "https://www.paiscircular.cl/economia-circular/estoy-regulado-que-debo-cumplir-desde-cuando-navegador-ds-22-2025-responde-dudas-sobre-el-decreto-rep-de-pilas-y-electronicos/",
-      "fecha": "2026-08-04",
+      "titular": "KYC en casinos online: qué revisar antes de enviar tus documentos",
+      "url": "https://www.paiscircular.cl/pulse/kyc-casinos-online/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Novandino Litio inaugura flota de camiones que operará la ruta eléctrica para transporte de carga más extensa de Chile",
-      "url": "https://www.chiledesarrollosustentable.cl/novandino-litio-inaugura-flota-de-camiones-que-operara-la-ruta-electrica-para-transporte-de-carga-mas-extensa-de-chile/?utm_source=rss&utm_medium=rss&utm_campaign=novandino-litio-inaugura-flota-de-camiones-que-operara-la-ruta-electrica-para-transporte-de-carga-mas-extensa-de-chile",
-      "fecha": "2026-08-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Muerte de elefantes en Kenia. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/muerte-de-elefantes-en-kenia-por-victor-solis/",
-      "fecha": "2026-08-04",
+      "fuente": "País Circular",
+      "titular": "De escéptico a defensor: un glaciólogo chileno advierte sobre el futuro de la Antártida",
+      "url": "https://www.paiscircular.cl/medio-ambiente/de-esceptico-a-defensor-un-glaciologo-chileno-advierte-sobre-el-futuro-de-la-antartida/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El uso de radioemisores GPS en Castilla La Mancha mejora la conservación de especies amenazadas",
-      "url": "https://efeverde.com/uso-gps-en-castilla-la-mancha-conservacion-de-especies-amenazadas/",
-      "fecha": "2026-08-04",
+      "titular": "España roza las 200.000 hectáreas quemadas tras una evolución «muy favorable» en los últimos días",
+      "url": "https://efeverde.com/espana-roza-200-000-hectareas-quemadas-evolucion-muy-favorable/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El verano de 2026 se sitúa, a falta del mes de agosto, como el más cálido en España desde 1961",
-      "url": "https://efeverde.com/verano-de-2026-se-situa-a-falta-de-agosto-como-el-mas-calido-en-espana/",
-      "fecha": "2026-08-04",
+      "titular": "El 80% de las especies de mariposas se ha movido en busca de ‘refugio climático’",
+      "url": "https://efeverde.com/mariposas-en-busca-de-refugio-climatico/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El volcán de Fuego intensifica su actividad y obliga a evacuar dos aldeas en Guatemala",
-      "url": "https://efeverde.com/volcan-fuego-actividad-evacuaciones/",
-      "fecha": "2026-08-04",
+      "titular": "Las consecuencias de El Niño pueden agravar la inseguridad alimentaria en Latinoamérica",
+      "url": "https://efeverde.com/consecuencias-de-el-nino-inseguridad-alimentaria-en-latinoamerica/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La muerte de tres leonas en un zoo de Japón en medio de altas temperaturas desata críticas",
-      "url": "https://efeverde.com/muerte-tres-leonas-zoo-japon-altas-temperaturas/",
-      "fecha": "2026-08-04",
+      "titular": "Bajo control el incendio que ha asolado 14.400 hectáreas en siete días en Grecia",
+      "url": "https://efeverde.com/bajo-control-incendio-grecia/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Detectan 48 cachalotes en una campaña científica al norte de Menorca, con un 20 % de crías",
-      "url": "https://efeverde.com/cachalotes-al-norte-de-menorca/",
-      "fecha": "2026-08-04",
+      "titular": "Un terremoto de magnitud 6,3 sacude las aguas al norte de Nueva Zelanda",
+      "url": "https://efeverde.com/terremoto-aguas-norte-de-nueva-zelanda/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El pasado julio ha sido el más seco en Inglaterra y Gales desde hace 190 años",
-      "url": "https://efeverde.com/julio-mas-seco-inglaterra-gales-190-anos/",
-      "fecha": "2026-08-04",
+      "titular": "Descubren los primeros arrecifes fósiles horizontales de hace 6,5 millones de años",
+      "url": "https://efeverde.com/descubren-primeros-arrecifes-fosiles-horizontales-65-millones-anos/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La sequía y el calor ponen a Europa Central en alerta energética y económica",
-      "url": "https://efeverde.com/sequia-calor-ponen-europa-central-alerta/",
-      "fecha": "2026-08-04",
+      "titular": "Descubren en un yacimiento estadounidense de la Edad de Hielo un sapo extinto",
+      "url": "https://efeverde.com/descubren-sapo-extinto-edad-hielo-yacimiento-eeuu/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un océano de contaminantes emergentes: conocer dónde están, clave para proteger «lo que nos mantiene vivos»",
-      "url": "https://efeverde.com/oceano-contaminantes-emergentes-conocer-donde-estan-clave/",
-      "fecha": "2026-08-04",
+      "titular": "DiCaprio y un fondo de Jeff Bezos destinan 200 millones de dólares a rescatar 100 especies",
+      "url": "https://efeverde.com/dicaprio-fondo-jeff-bezos-destinan-200-millones-rescatar-100-especies/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "TC rechaza inaplicabilidad del SEA y deja a la Corte Suprema definir la admisibilidad de recursos de casación en causa ambiental",
-      "url": "https://www.diarioconstitucional.cl/2026/08/04/tc-rechaza-inaplicabilidad-del-sea-y-deja-a-la-corte-suprema-definir-la-admisibilidad-de-recursos-de-casacion-en-causa-ambiental/",
-      "fecha": "2026-08-04",
+      "fuente": "EFE Verde",
+      "titular": "Cómo fotografiar el eclipse solar del próximo 12 de agosto sin dañar tu móvil: la clave está en el filtro",
+      "url": "https://efeverde.com/como-fotografiar-eclipse-solar-sin-danar-movil/",
+      "fecha": "2026-08-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un terremoto de magnitud 6,3 sacude la isla filipina de Mindanao",
+      "url": "https://efeverde.com/terremoto-magnitud-63-sacude-isla-filipina-mindanao/",
+      "fecha": "2026-08-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Galápagos, caimanes, tarántulas o serpientes: juguetes vivos que terminan abandonados",
+      "url": "https://efeverde.com/galapagos-caimanes-tarantulas-o-serpientes-juguetes-vivos-que-terminan-abandonados/",
+      "fecha": "2026-08-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Mostrador",
+      "titular": "La mala percepción de la justicia en Chile",
+      "url": "https://www.elmostrador.cl/noticias/opinion/editorial/2026/08/05/la-mala-percepcion-de-la-justicia-en-chile/",
+      "fecha": "2026-08-05",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Ministerio del Medio Ambiente informó el inicio de un procedimiento de invalidación de consulta indígena de 2025 asociada a la implementación del SBAP",
-      "url": "https://www.paiscircular.cl/biodiversidad/ministerio-del-medio-ambiente-informo-el-inicio-de-un-procedimiento-de-invalidacion-de-consulta-indigena-de-2025-asociada-a-la-implementacion-del-sbap/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "El Mostrador",
+      "titular": "La mala percepción de la justicia en Chile",
+      "url": "https://www.elmostrador.cl/noticias/opinion/editorial/2026/08/05/la-mala-percepcion-de-la-justicia-en-chile/",
+      "fecha": "2026-08-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Contraloría da luz verde al primer plan de descontaminación hídrica del país para el Lago Villarrica",
-      "url": "https://codexverde.cl/contraloria-da-luz-verde-al-primer-plan-de-descontaminacion-hidrica-del-pais-para-el-lago-villarrica/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Cambio climático: la factura de dos siglos de progreso",
-      "url": "https://codexverde.cl/cambio-climatico-la-factura-de-dos-siglos-de-progreso/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Cuando el mar llega hasta la puerta: sistemas frontales en Arauco vuelven a poner en alerta la fragilidad de la costa",
-      "url": "https://codexverde.cl/sistemas-frontales-en-arauco-ponen-en-alerta-fragilidad-de-la-costa/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Lobo marino sorprende al aparecer en el río Andalién: ¿es posible que estos animales ingresen a aguas dulces?",
-      "url": "https://codexverde.cl/lobo-marino-sorprende-al-aparecer-en-el-rio-andalien-es-posible-que-estos-animales-ingresen-a-aguas-dulces/",
-      "fecha": "2026-08-03",
+      "titular": "Contaminación lumínica en la Antártica: la amenaza silenciosa que investiga la ciencia chilena",
+      "url": "https://codexverde.cl/la-amenaza-de-la-contaminacion-luminica-en-la-antartica/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Etiopía busca plantar 800 millones de árboles en un solo día frente al cambio climático",
-      "url": "https://efeverde.com/etiopia-busca-plantar-800-millones-de-arboles-en-un-solo-dia/",
-      "fecha": "2026-08-03",
+      "titular": "La Comunidad de Madrid da por controlados y en fase de extinción los incendios de la Sierra Oeste",
+      "url": "https://efeverde.com/controlados-y-en-fase-de-extincion-los-incendios-de-la-sierra-oeste/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Liberan 55 peces pipa en el mar en Baleares en un proyecto de conservación",
-      "url": "https://efeverde.com/liberan-peces-pipa-en-baleares/",
-      "fecha": "2026-08-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más de 65.000 evacuados y 700 casas arrasadas por graves incendios en el noroeste de Estados Unidos",
-      "url": "https://efeverde.com/evacuados-casas-arrasadas-graves-incendios-estados-unidos/",
-      "fecha": "2026-08-03",
+      "titular": "El eclipse plantea desafíos ambientales por la afluencia de visitantes, según Greenpeace",
+      "url": "https://efeverde.com/eclipse-desafios-ambientales-por-afluencia-visitantes/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Colegio Médico pide a Toledo reingresar normas retiradas contra contaminación del aire por riesgo para salud",
-      "url": "https://www.terram.cl/el-desconcierto-colegio-medico-pide-a-toledo-reingresar-normas-retiradas-contra-contaminacion-del-aire-por-riesgo-para-salud/",
-      "fecha": "2026-08-03",
+      "titular": "[El Desconcierto] SEA autoriza primer data center sin evaluación ambiental en Alto Jahuel, a metros de la casa de Kast",
+      "url": "https://www.terram.cl/el-desconcierto-sea-autoriza-primer-data-center-sin-evaluacion-ambiental-en-alto-jahuel-a-metros-de-la-casa-de-kast/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[CodexVerde] Pescadores artesanales de Aysén y Los Lagos se unen para exigir plan de recuperación de la merluza austral",
-      "url": "https://www.terram.cl/codexverde-pescadores-artesanales-de-aysen-y-los-lagos-se-unen-para-exigir-plan-de-recuperacion-de-la-merluza-austral/",
-      "fecha": "2026-08-03",
+      "titular": "[Aqua] Gobierno presenta reforma al SEIA para agilizar evaluación ambiental y reclamaciones",
+      "url": "https://www.terram.cl/aqua-gobierno-presenta-reforma-al-seia-para-agilizar-evaluacion-ambiental-y-reclamaciones/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[La Prensa Austral] Día Internacional del Guardaparques: el trabajo que protege uno de los territorios más prístinos de la Patagonia Austral",
-      "url": "https://www.terram.cl/dia-internacional-del-guardaparques-el-trabajo-que-protege-uno-de-los-territorios-mas-pristinos-de-la-patagonia-austral/",
-      "fecha": "2026-08-03",
+      "titular": "[SMA] SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
+      "url": "https://www.terram.cl/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario Sostenible] Invitan a la ciudadanía a sumarse a la campaña “100 Años, 100 Acciones por la Naturaleza”",
-      "url": "https://www.terram.cl/diario-sostenible-invitan-a-la-ciudadania-a-sumarse-a-la-campana-100-anos-100-acciones-por-la-naturaleza/",
-      "fecha": "2026-08-03",
+      "titular": "[Araucanía  Noticias] Pucón celebra la aprobación del Plan de Descontaminación del Lago Villarrica",
+      "url": "https://www.terram.cl/pucon-celebra-la-aprobacion-del-plan-de-descontaminacion-del-lago-villarrica/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Austerra] El plan que busca recuperar al queule, uno de los árboles endémicos más amenazados de Chile",
-      "url": "https://www.terram.cl/austerra-el-plan-que-busca-recuperar-al-queule-uno-de-los-arboles-endemicos-mas-amenazados-de-chile/",
-      "fecha": "2026-08-03",
+      "titular": "[El Desconcierto] Prohibir o regular: los proyectos cruzados sobre carreras de perros que la Cámara nuevamente aplazó",
+      "url": "https://www.terram.cl/el-desconcierto-prohibir-o-regular-los-proyectos-cruzados-sobre-carreras-de-perros-que-la-camara-nuevamente-aplazo/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Ladera Sur] ¡Emocionante avistamiento en Iquique! Registran a ballena franca austral junto a su cría en Caleta Los Verdes",
-      "url": "https://www.terram.cl/ladera-sur-emocionante-avistamiento-en-iquique-registran-a-ballena-franca-austral-junto-a-su-cria-en-caleta-los-verdes/",
-      "fecha": "2026-08-03",
+      "titular": "[Ladera Sur] Los volcanes ocultos del Pacífico: la investigación chilena que revela nuevas pistas sobre la evolución de la Tierra",
+      "url": "https://www.terram.cl/ladera-sur-los-volcanes-ocultos-del-pacifico-la-investigacion-chilena-que-revela-nuevas-pistas-sobre-la-evolucion-de-la-tierra/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "El secuestro de la salud ambiental",
+      "url": "https://www.fima.cl/2026/08/04/el-secuestro-de-la-salud-ambiental/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Encuentro por el Guanaco reúne a actores clave para abordar el futuro de la especie en la Región Metropolitana",
+      "url": "https://chilesustentable.net/2026/08/encuentro-por-el-guanaco-reune-a-actores-clave-para-abordar-el-futuro-de-la-especie-en-la-region-metropolitana/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Chile Sustentable",
+      "titular": "Encuentro por el Guanaco reúne a actores clave para abordar el futuro de la especie en la Región Metropolitana",
+      "url": "https://chilesustentable.net/2026/08/encuentro-por-el-guanaco-reune-a-actores-clave-para-abordar-el-futuro-de-la-especie-en-la-region-metropolitana/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "15/10/2026: Fija audiencia en caso de «Ángeles Saavedra Milojevic y otros con Comisión de Evaluación Ambiental de la Región del Ñuble», Rol: R-8-2026",
+      "url": "https://3ta.cl/audiencias/15-10-2026-fija-audiencia-en-caso-de-angeles-saavedra-milojevic-y-otros-con-comision-de-evaluacion-ambiental-de-la-region-del-nuble-rol-r-8-2026/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Equipo directivo del Proyecto +Bosques visita la región de La Araucanía para conocer avances",
+      "url": "https://www.conaf.cl/equipo-directivo-del-proyecto-bosques-visita-la-region-de-la-la-araucania-para-conocer-avances/?utm_source=rss&utm_medium=rss&utm_campaign=equipo-directivo-del-proyecto-bosques-visita-la-region-de-la-la-araucania-para-conocer-avances",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Actualización: situación del uso del fuego como quema controlada",
+      "url": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-situacion-uso-del-fuego-en-regiones",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF eliminó permiso excepcional para realizar sendero de montaña “W”",
+      "url": "https://www.conaf.cl/conaf-elimino-permiso-excepcional-para-realizar-sendero-de-montana-w/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-elimino-permiso-excepcional-para-realizar-sendero-de-montana-w",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente entrega balance de la Gestión de Episodios Críticos de julio y aborda situación regional por sistema frontal",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-balance-de-la-gestion-de-episodios-criticos-de-julio-y-aborda-situacion-regional-por-sistema-frontal/",
-      "fecha": "2026-08-03",
+      "titular": "Ley REP: se extiende el plazo para la elaboración del Decreto Supremo de Baterías",
+      "url": "https://mma.gob.cl/ley-rep-se-extiende-el-plazo-para-la-elaboracion-del-decreto-supremo-de-baterias/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente fomentó iniciativa de vermicompostaje domiciliario en Pelluhue",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-fomento-iniciativa-de-vermicompostaje-domiciliario-en-pelluhue/",
-      "fecha": "2026-08-03",
+      "titular": "Seremi del Medio Ambiente invita a la comunidad de Aysén participar en curso gratuito de calidad del aire",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-la-comunidad-de-aysen-participar-en-curso-gratuito-de-calidad-del-aire/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Con enfoque en cambio climático: Seremi del Medio Ambiente realiza conversatorio de educación ambiental en Calama",
-      "url": "https://mma.gob.cl/con-enfoque-en-cambio-climatico-seremi-del-medio-ambiente-realiza-conversatorio-de-educacion-ambiental-en-calama/",
-      "fecha": "2026-08-03",
+      "titular": "Familias pintaron sus bolsas reutilizables en Zona Franca de Punta Arenas",
+      "url": "https://mma.gob.cl/familias-pintaron-sus-bolsas-reutilizables-en-zona-franca-de-punta-arenas/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Progresividad municipal en riesgo",
-      "url": "https://www.latercera.com/opinion/noticia/progresividad-municipal-en-riesgo/",
-      "fecha": "2026-08-03",
+      "titular": "Orrego triunfa en la Suprema y consigue que aseguradora pague por fallido convenio con ProCultura en programa Quédate",
+      "url": "https://www.latercera.com/nacional/noticia/orrego-triunfa-en-la-suprema-y-consigue-que-aseguradora-pague-por-fallido-convenio-con-procultura-en-programa-quedate/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Garmin: entrena con la tecnología que te ayuda a ir más lejos",
+      "url": "https://www.latercera.com/lt-beneficios/noticia/garmin-entrena-con-la-tecnologia-que-te-ayuda-a-ir-mas-lejos/",
+      "fecha": "2026-08-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en julio 2026",
+      "url": "https://www.revistaei.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-julio-2026/",
+      "fecha": "2026-08-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
