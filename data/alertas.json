@@ -1,65 +1,17 @@
 {
-  "fecha_generacion": "2026-08-05T09:06:58.587107-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-08-06T09:09:03.477725-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] SEA autoriza primer data center sin evaluación ambiental en Alto Jahuel, a metros de la casa de Kast",
-      "url": "https://www.terram.cl/el-desconcierto-sea-autoriza-primer-data-center-sin-evaluacion-ambiental-en-alto-jahuel-a-metros-de-la-casa-de-kast/",
-      "fecha": "2026-08-04",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Ley REP: MMA extiende plazo para elaboración del Decreto Supremo de Baterías",
+      "url": "https://www.revistaei.cl/ley-rep-mma-extiende-plazo-para-elaboracion-del-decreto-supremo-de-baterias/",
+      "fecha": "2026-08-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "DC Terranova SPA obtuvo el primer pronunciamiento del SEA que exime a un data center del SEIA. Ligado a los Fleischmann y a Yurasczeck. Fuente: El Desconcierto, 3 de agosto de 2026.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Aqua] Gobierno presenta reforma al SEIA para agilizar evaluación ambiental y reclamaciones",
-      "url": "https://www.terram.cl/aqua-gobierno-presenta-reforma-al-seia-para-agilizar-evaluacion-ambiental-y-reclamaciones/",
-      "fecha": "2026-08-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La propuesta busca fortalecer el componente técnico del Sistema de Evaluación de Impacto Ambiental, establecer plazos obligatorios y entregar mayor certeza jurídica a la tramitación de proyectos. Fuente: Aqua, 4 de agosto de 2026.",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[SMA] SMA inicia marcha blanca de herramienta digital para el control de emisiones en fundiciones de cobre",
-      "url": "https://www.terram.cl/sma-inicia-marcha-blanca-de-herramienta-digital-para-el-control-de-emisiones-en-fundiciones-de-cobre/",
-      "fecha": "2026-08-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "A través de una mesa de trabajo con titulares del sector, la Superintendencia del Medio Ambiente presentó el plan piloto en la plataforma SISAT para el reporte digital de muestreos de material particulado, optimizando la fiscalización y la trazabilid",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ley REP: se extiende el plazo para la elaboración del Decreto Supremo de Baterías",
-      "url": "https://mma.gob.cl/ley-rep-se-extiende-el-plazo-para-la-elaboracion-del-decreto-supremo-de-baterias/",
-      "fecha": "2026-08-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ministerio del Medio Ambiente, mediante la Resolución Exenta N.º 4225/2026, amplió en seis meses el plazo para la elaboración […]",
+      "extracto": "Desde la Ministerio se destacó que la consulta ciudadana suscitó un alto interés público y recibió un importante volumen de aportes, comentarios y observaciones. La entrada Ley REP: MMA extiende plazo para elaboración del Decreto Supremo de Baterías ",
       "keywords_detectadas": [
         "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en julio 2026",
-      "url": "https://www.revistaei.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-julio-2026/",
-      "fecha": "2026-08-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva de la institución, y su publicación oficial se realizó a través del Diario Oficial. La entrada SEA publica listado de Declaraciones",
-      "keywords_detectadas": [
-        "SEA"
       ]
     }
   ]
