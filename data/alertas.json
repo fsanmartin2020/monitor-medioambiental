@@ -1,17 +1,65 @@
 {
-  "fecha_generacion": "2026-08-06T09:09:03.477725-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-08-07T07:59:15.080881-04:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Ley REP: MMA extiende plazo para elaboración del Decreto Supremo de Baterías",
-      "url": "https://www.revistaei.cl/ley-rep-mma-extiende-plazo-para-elaboracion-del-decreto-supremo-de-baterias/",
-      "fecha": "2026-08-05",
+      "fuente": "La Tercera",
+      "titular": "En Italia revelan las condiciones para que Darío Osorio sea comprado por el Milan",
+      "url": "https://www.latercera.com/el-deportivo/noticia/en-italia-revelan-las-condiciones-para-que-dario-osorio-sea-comprado-por-el-milan/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Desde la Ministerio se destacó que la consulta ciudadana suscitó un alto interés público y recibió un importante volumen de aportes, comentarios y observaciones. La entrada Ley REP: MMA extiende plazo para elaboración del Decreto Supremo de Baterías ",
+      "extracto": "El volante chileno está en la órbita del conjunto rossoneri, pero su llegada depende de otro movimiento de mercado. La operación podría concretarse en los próximos días.",
       "keywords_detectadas": [
-        "Ley REP"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "\"Me provoca dolor que sea tan clasista\": La dura respuesta de JC Rodríguez a Nicolás Larraín",
+      "url": "https://www.biobiochile.cl/noticias/dopamina/2026/08/07/me-provoca-dolor-que-sea-tan-clasista-la-dura-respuesta-de-jc-rodriguez-a-nicolas-larrain.shtml",
+      "fecha": "2026-08-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Suprema rechaza recursos de constructora contra sentencia que mantuvo sanción de la SMA",
+      "url": "https://www.diarioconstitucional.cl/2026/08/06/suprema-rechaza-recursos-de-constructora-contra-sentencia-que-mantuvo-sancion-de-la-sma/",
+      "fecha": "2026-08-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal acogió parcialmente la reclamación de “Agrícola y Ganadera Chillán Viejo” y SMA deberá ajustar la multa",
+      "url": "https://3ta.cl/noticias/tribunal-acogio-parcialmente-la-reclamacion-de-agricola-y-ganadera-chillan-viejo-y-sma-debera-ajustar-la-multa/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal rechazó las alegaciones de la empresa, excepto aquellas referidas a dos infracciones cursadas por emisiones atmosféricas y de olores, las que deberán considerarse como una sola infracción. De manera parcial acogió el Tercer Tribunal Ambie",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "PerProMin 2026: SEA fija meta de reducir en 30% los tiempos de evaluación ambiental",
+      "url": "https://www.mch.cl/perpromin-2026-sea-fija-meta-de-reducir-en-30-los-tiempos-de-evaluacion-ambiental/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Arturo Farías, director del Servicio de Evaluación Ambiental, expuso los principales lineamientos que marcarán la gestión del organismo entre 2026 y 2030. La entrada PerProMin 2026: SEA fija meta de reducir en 30% los tiempos de evaluación ambiental ",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

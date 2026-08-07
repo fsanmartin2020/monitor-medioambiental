@@ -1,261 +1,301 @@
 {
-  "fecha_actualizacion": "2026-08-06T09:09:03.463104-04:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-08-07T07:59:15.065290-04:00",
+  "total": 37,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Greenpeace ve insuficiente que la UE reduzca un 5 % los envases de plástico para 2030",
-      "url": "https://efeverde.com/greenpeace-envases-de-plastico/",
-      "fecha": "2026-08-06",
+      "fuente": "País Circular",
+      "titular": "Al ritmo del tucúquere: el proyecto que integra música en vivo, reciclaje y educación ambiental",
+      "url": "https://www.paiscircular.cl/biodiversidad/tucuquere/",
+      "fecha": "2026-08-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Subsecretario Vial lanza campaña “100 años, 100 acciones por la naturaleza” en la Región del Biobío",
+      "url": "https://www.chiledesarrollosustentable.cl/subsecretario-vial-lanza-campana-100-anos-100-acciones-por-la-naturaleza-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=subsecretario-vial-lanza-campana-100-anos-100-acciones-por-la-naturaleza-en-la-region-del-biobio",
+      "fecha": "2026-08-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Banco de Chile y Desafío Levantemos Chile lanzan plan para recuperar el borde costero y reactivar emprendimientos en la Región de Coquimbo",
+      "url": "https://www.chiledesarrollosustentable.cl/banco-de-chile-y-desafio-levantemos-chile-lanzan-plan-para-recuperar-el-borde-costero-y-reactivar-emprendimientos-en-la-region-de-coquimbo/?utm_source=rss&utm_medium=rss&utm_campaign=banco-de-chile-y-desafio-levantemos-chile-lanzan-plan-para-recuperar-el-borde-costero-y-reactivar-emprendimientos-en-la-region-de-coquimbo",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Estabilizado el incendio de Burgohondo (Ávila) quince días después de su inicio",
-      "url": "https://efeverde.com/estabilizado-incendio-burgohondo-avila/",
-      "fecha": "2026-08-06",
+      "titular": "La carabela portuguesa, un visitante cada vez más habitual en las costas españolas por el calentamiento global",
+      "url": "https://efeverde.com/carabela-portuguesa-mas-habitual-costas/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ola de calor de finales de junio causó 9.600 muertes en Alemania",
-      "url": "https://efeverde.com/ola-de-calor-de-finales-de-junio-muertes-alemania/",
-      "fecha": "2026-08-06",
+      "titular": "Un proyecto de ciencia ciudadana estudiará el comportamiento animal durante los eclipses",
+      "url": "https://efeverde.com/ciencia-ciudadana-estudiara-comportamiento-animales-eclipses/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las Lagunas de Ruidera recuperan el humedal de Las Azadillas tras su restauración",
-      "url": "https://efeverde.com/lagunas-ruidera-recuperan-humedal-azadillas/",
-      "fecha": "2026-08-06",
+      "titular": "Terremoto de magnitud 4,9 sacude la provincia china de Sichuan tras tres seísmos recientes",
+      "url": "https://efeverde.com/terremoto-magnitud-49-sacude-provincia-china-sichuan/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Tres detenidos por la muerte de un lince ibérico en la provincia de Cuenca",
-      "url": "https://efeverde.com/tres-detenidos-por-muerte-lince-iberico-en-provincia-de-cuenca/",
-      "fecha": "2026-08-06",
+      "titular": "La historia de los incendios que asolaron Castilla y León en 2025 se repite un año después",
+      "url": "https://efeverde.com/incendios-castilla-y-leon-2025-se-repite-2026/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Extinguido el incendio forestal de Almorox (Toledo)",
-      "url": "https://efeverde.com/extinguido-el-incendio-forestal-de-almorox-toledo/",
-      "fecha": "2026-08-06",
+      "titular": "Sustituir un vehículo de combustión por un eléctrico beneficia al clima, aunque esté nuevo",
+      "url": "https://efeverde.com/sustituir-vehiculo-combustion-electrico-beneficia-clima/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El monzón deja al menos 133 muertos en India entre inundaciones, rayos y lluvias extremas",
-      "url": "https://efeverde.com/monzon-deja-133-muertos-india/",
-      "fecha": "2026-08-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El riesgo de incendios podría ser extremo el día del eclipse: qué hacer para prevenirlos",
-      "url": "https://efeverde.com/que-hacer-prevenir-incendios-eclipse-solar-12-agosto/",
-      "fecha": "2026-08-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La sequía en Europa afecta a las cosechas, reduce caudales y amenaza a las nucleares",
-      "url": "https://efeverde.com/sequia-europa-afecta-cosechas-caudales-nucleares/",
-      "fecha": "2026-08-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La aviación eléctrica se acerca a 2030, pero reclama inversión y cambios normativos",
-      "url": "https://efeverde.com/aviacion-electrica-2030-reclama-inversion/",
-      "fecha": "2026-08-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Proteger los huevos de tortuga, la estrategia en El Salvador para conservar especies",
-      "url": "https://efeverde.com/proteger-huevos-de-tortuga-el-salvador/",
-      "fecha": "2026-08-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[BioBioChile] Hay 839 relaves en Chile: experta advierte peligro silencioso que crece con lluvias intensas",
-      "url": "https://www.terram.cl/hay-839-relaves-en-chile-experta-advierte-peligro-silencioso-que-crece-con-lluvias-intensas/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Gobierno de Chile inicia invalidación de consulta indígena del SBAP tras pérdida de firmas",
-      "url": "https://www.terram.cl/ladera-sur-gobierno-de-chile-inicia-invalidacion-de-consulta-indigena-del-sbap-tras-perdida-de-firmas/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Ley de Reconstrucción Nacional: ¿Cómo la megarreforma puede impactar a ciudades del sur de Chile?",
-      "url": "https://www.terram.cl/ley-de-reconstruccion-nacional-como-la-megarreforma-puede-impactar-a-ciudades-del-sur-de-chile/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Tercera] Captura de jurel cae 47% en el primer semestre, aunque industria observa mayor disponibilidad en julio",
-      "url": "https://www.terram.cl/la-tercera-captura-de-jurel-cae-47-en-el-primer-semestre-aunque-industria-observa-mayor-disponibilidad-en-julio/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Alertan que cazar lobos marinos puede afectar aún más la pesca al dejar depredadores sin control",
-      "url": "https://www.terram.cl/el-desconcierto-alertan-que-cazar-lobos-marinos-puede-afectar-aun-mas-la-pesca-al-dejar-depredadores-sin-control/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Austerra] Comunidad de Villarrica restaura un humedal clave para proteger las aguas del lago",
-      "url": "https://www.terram.cl/austerra-comunidad-de-villarrica-restaura-un-humedal-clave-para-proteger-las-aguas-del-lago/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Sociedad Agrícola Cocule Limitada con Fisco de Chile – Ministerio del Medio Ambiente». Rol: D-2-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-sociedad-agricola-cocule-limitada-con-fisco-de-chile-ministerio-del-medio-ambiente-rol-d-2-2026/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "En el Día Internacional del Huemul, CONAF recordó hitos en su labor de conservación de la especie en Magallanes",
-      "url": "https://www.conaf.cl/en-el-dia-internacional-del-huemul-conaf-recordo-hitos-en-su-labor-de-conservacion-de-la-especie-en-magallanes/?utm_source=rss&utm_medium=rss&utm_campaign=en-el-dia-internacional-del-huemul-conaf-recordo-hitos-en-su-labor-de-conservacion-de-la-especie-en-magallanes",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF arborizará en la comuna de Dalcahue",
-      "url": "https://www.conaf.cl/conaf-arborizara-en-la-comuna-de-dalcahue/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-arborizara-en-la-comuna-de-dalcahue",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Capacitan 130 carabineros de la región en fiscalización de quemas agrícolas y forestales",
-      "url": "https://www.conaf.cl/capacitan-130-carabineros-de-la-region-en-fiscalizacion-de-quemas-agricolas-y-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=capacitan-130-carabineros-de-la-region-en-fiscalizacion-de-quemas-agricolas-y-forestales",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble aporta la visión de las áreas protegidas en la construcción de la Política Pública Regional de Turismo",
-      "url": "https://www.conaf.cl/conaf-nuble-aporta-la-vision-de-las-areas-protegidas-en-la-construccion-de-la-politica-publica-regional-de-turismo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-aporta-la-vision-de-las-areas-protegidas-en-la-construccion-de-la-politica-publica-regional-de-turismo",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Por seguridad, CONAF Coquimbo mantiene el cierre de las áreas protegidas en la región",
-      "url": "https://www.conaf.cl/por-seguridad-conaf-coquimbo-mantiene-el-cierre-de-las-areas-protegidas-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=por-seguridad-conaf-coquimbo-mantiene-el-cierre-de-las-areas-protegidas-en-la-region",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Celebran los 100 años del Parque Nacional Vicente Pérez Rosales con cicletada familiar",
-      "url": "https://www.conaf.cl/celebran-los-100-anos-del-parque-nacional-vicente-perez-rosales-con-cicletada-familiar/?utm_source=rss&utm_medium=rss&utm_campaign=celebran-los-100-anos-del-parque-nacional-vicente-perez-rosales-con-cicletada-familiar",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF y Fiscalía fortalecen coordinación para potenciar investigación de incendios forestales en La Araucanía",
-      "url": "https://www.conaf.cl/conaf-y-fiscalia-fortalecen-coordinacion-para-potenciar-investigacion-de-incendios-forestales-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-fiscalia-fortalecen-coordinacion-para-potenciar-investigacion-de-incendios-forestales-en-la-araucania",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Director de Aguas de Los Lagos realiza visita técnica a comuna de San Pablo en Osorno en el marco de la alerta roja por emergencia climática",
-      "url": "https://dga.mop.gob.cl/director-de-aguas-de-los-lagos-realiza-visita-tecnica-a-comuna-de-san-pablo-en-osorno-en-el-marco-de-la-alerta-roja-por-emergencia-climatica/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Jornada de capacitación fortalece coordinación institucional para la implementación del SBAP en Ñuble",
-      "url": "https://mma.gob.cl/jornada-de-capacitacion-fortalece-coordinacion-institucional-para-la-implementacion-del-sbap-en-nuble/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "100 acciones por la naturaleza: Comunidades educativas de Coyhaique aprendieron sobre el Huemul",
-      "url": "https://mma.gob.cl/100-acciones-por-la-naturaleza-comunidades-educativas-de-coyhaique-aprendieron-sobre-el-huemul/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo conmemora Día Internacional del Huemul en inauguración de Centro de Rescate de Fauna Silvestre en Huilo Huilo",
-      "url": "https://mma.gob.cl/ministra-toledo-conmemora-dia-internacional-del-huemul-en-inauguracion-de-centro-de-rescate-de-fauna-silvestre-en-huilo-huilo/",
-      "fecha": "2026-08-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Se encuentra abierta la convocatoria para el II Curso Internacional sobre Educación Ambiental Comunitaria que se desarrollará en nuestro país",
-      "url": "https://mma.gob.cl/se-encuentra-abierta-la-convocatoria-para-el-ii-curso-internacional-sobre-educacion-ambiental-comunitaria-que-se-desarrollara-en-nuestro-pais/",
-      "fecha": "2026-08-05",
+      "titular": "Drones y ADN del soplo: claves para estudiar a los rorcuales del Mediterráneo",
+      "url": "https://efeverde.com/claves-estudiar-rorcuales-mediterraneo/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Minsal alerta por baja percepción del riesgo de los vapeadores: uno de cada tres adolescentes en Chile los ha probado",
-      "url": "https://www.latercera.com/nacional/noticia/minsal-alerta-por-baja-percepcion-del-riesgo-de-los-vapeadores-uno-de-cada-tres-adolescentes-en-chile-los-ha-probado/",
-      "fecha": "2026-08-05",
+      "titular": "En Italia revelan las condiciones para que Darío Osorio sea comprado por el Milan",
+      "url": "https://www.latercera.com/el-deportivo/noticia/en-italia-revelan-las-condiciones-para-que-dario-osorio-sea-comprado-por-el-milan/",
+      "fecha": "2026-08-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Ley REP: MMA extiende plazo para elaboración del Decreto Supremo de Baterías",
-      "url": "https://www.revistaei.cl/ley-rep-mma-extiende-plazo-para-elaboracion-del-decreto-supremo-de-baterias/",
-      "fecha": "2026-08-05",
+      "fuente": "BioBioChile",
+      "titular": "\"Me provoca dolor que sea tan clasista\": La dura respuesta de JC Rodríguez a Nicolás Larraín",
+      "url": "https://www.biobiochile.cl/noticias/dopamina/2026/08/07/me-provoca-dolor-que-sea-tan-clasista-la-dura-respuesta-de-jc-rodriguez-a-nicolas-larrain.shtml",
+      "fecha": "2026-08-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "NTV: Lo público también se construye en la pantalla",
+      "url": "https://www.eldinamo.cl/opinion/2026/08/06/ntv-lo-publico-tambien-se-construye-en-la-pantalla/",
+      "fecha": "2026-08-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Suprema rechaza recursos de constructora contra sentencia que mantuvo sanción de la SMA",
+      "url": "https://www.diarioconstitucional.cl/2026/08/06/suprema-rechaza-recursos-de-constructora-contra-sentencia-que-mantuvo-sancion-de-la-sma/",
+      "fecha": "2026-08-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Turismo Circular en la Región de Los Lagos",
+      "url": "https://www.paiscircular.cl/videos/turismo-circular-en-la-region-de-los-lagos/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Miel y datos: por qué tecnificar la apicultura es también proteger la economía familiar campesina",
+      "url": "https://www.paiscircular.cl/opinion/miel-y-datos-por-que-tecnificar-la-apicultura-es-tambien-proteger-la-economia-familiar-campesina/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Servicio de Biodiversidad y Áreas Protegidas concreta histórica alianza junto a organizaciones de la sociedad civil y la academia",
+      "url": "https://www.paiscircular.cl/biodiversidad/servicio-de-biodiversidad-y-areas-protegidas-concreta-historica-alianza-junto-a-organizaciones-de-la-sociedad-civil-y-la-academia/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ministra Toledo conmemora Día Internacional del Huemul en inauguración de Centro de Rescate de Fauna Silvestre en Huilo Huilo",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-conmemora-dia-internacional-del-huemul-en-inauguracion-de-centro-de-rescate-de-fauna-silvestre-en-huilo-huilo/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-conmemora-dia-internacional-del-huemul-en-inauguracion-de-centro-de-rescate-de-fauna-silvestre-en-huilo-huilo",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Más de 20 instituciones firman declaración para proteger al guanaco en la Región Metropolitana",
+      "url": "https://codexverde.cl/firman-declaracion-para-proteger-al-guanaco-en-la-rm/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Más de 25 años después: estudio revela que daños de pesca de arrastre aún persisten en montes submarinos de Juan Fernández",
+      "url": "https://codexverde.cl/mas-de-25-anos-despues-estudio-revela-que-danos-de-pesca-de-arrastre-aun-persisten-en-montes-submarinos-de-juan-fernandez/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "CEET-G: la apuesta de UDLA por conectar investigación, innovación y soluciones ambientales",
+      "url": "https://codexverde.cl/g-ecta-la-apuesta-de-la-udla-por-conectar-investigacion-innovacion-y-soluciones-ambientales/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "El CR2 se integra al Comité Directivo de la Plataforma Internacional sobre Métricas de Adaptación",
+      "url": "https://www.cr2.cl/el-cr2-se-integra-al-comite-directivo-de-la-plataforma-internacional-sobre-metricas-de-adaptacion/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La superficie quemada en España se cuadruplica en un mes y quintuplica ya la registrada hace un año",
+      "url": "https://efeverde.com/superficie-quemada-en-espana/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Redacción.cl] Relaves en Chile: el riesgo ante una fiscalización insuficiente y el automonitoreo de las mineras",
+      "url": "https://www.terram.cl/relaves-en-chile-el-riesgo-ante-una-fiscalizacion-insuficiente-y-el-automonitoreo-de-las-mineras/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Portal Innova] Toxicólogo advierte por riesgos sanitarios y ambientales tras incendio químico en Quilicura",
+      "url": "https://www.terram.cl/toxicologo-advierte-por-riesgos-sanitarios-y-ambientales-tras-incendio-quimico-en-quilicura/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[BioBioChile] CORE de Los Ríos analizará proyecto de piscicultura en río San Pedro para emitir postura institucional",
+      "url": "https://www.terram.cl/core-de-los-rios-analizara-proyecto-de-piscicultura-en-rio-san-pedro-para-emitir-postura-institucional/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Resumen.cl] Tierras raras: director financiero de Aclara confirma que contratistas militares figuran entre sus usuarios finales",
+      "url": "https://www.terram.cl/tierras-raras-director-financiero-de-aclara-confirma-que-contratistas-militares-figuran-entre-sus-usuarios-finales/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Nueva plataforma permite a vecinos monitorear fugas de metano en vertederos de Chile con información satelital",
+      "url": "https://www.terram.cl/nueva-plataforma-permite-a-vecinos-monitorear-fugas-de-metano-en-vertederos-de-chile-con-informacion-satelital/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] Estudio internacional encontró contaminantes prohibidos hace décadas en plumas del cóndor andino",
+      "url": "https://www.terram.cl/estudio-internacional-encontro-contaminantes-prohibidos-hace-decadas-en-plumas-del-condor-andino/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Pub ubicado en Las Condes reclama contra multa de $10 millones cursada por ruidos molestos",
+      "url": "https://tribunalambiental.cl/audiencia-r-574-2025-geo-pub-sma-multa-ruido",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal acogió parcialmente la reclamación de “Agrícola y Ganadera Chillán Viejo” y SMA deberá ajustar la multa",
+      "url": "https://3ta.cl/noticias/tribunal-acogio-parcialmente-la-reclamacion-de-agricola-y-ganadera-chillan-viejo-y-sma-debera-ajustar-la-multa/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF, CORMA y Bomberos se coordinan para prevenir y responder a incendios forestales",
+      "url": "https://www.conaf.cl/conaf-corma-y-bomberos-se-coordinan-para-prevenir-y-responder-a-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-corma-y-bomberos-se-coordinan-para-prevenir-y-responder-a-incendios-forestales",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Avanzan mesas y planes estratégicos de recursos hídricos liderados por la DGA",
+      "url": "https://dga.mop.gob.cl/avanzan-mesas-y-planes-estrategicos-de-recursos-hidricos-liderados-por-la-dga/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario Vial lanza campaña “100 años, 100 acciones por la naturaleza” en la Región del Biobío",
+      "url": "https://mma.gob.cl/subsecretario-vial-lanza-campana-100-anos-100-acciones-por-la-naturaleza-en-la-region-del-biobio/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Presentan plan de trabajo para integración de áreas protegidas a nueva institucionalidad en Valparaíso",
+      "url": "https://mma.gob.cl/presentan-plan-de-trabajo-para-integracion-de-areas-protegidas-a-nueva-institucionalidad-en-valparaiso/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Plan de protección del canquén colorado completa dos años de monitoreo y educación ambiental en Magallanes",
+      "url": "https://mma.gob.cl/plan-de-proteccion-del-canquen-colorado-completa-dos-anos-de-monitoreo-y-educacion-ambiental-en-magallanes/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente invita a Ñuble a sumarse a la campaña nacional “100 Años-100 Acciones por la Naturaleza”",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-nuble-a-sumarse-a-la-campana-nacional-100-anos-100-acciones-por-la-naturaleza/",
+      "fecha": "2026-08-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "PerProMin 2026: SEA fija meta de reducir en 30% los tiempos de evaluación ambiental",
+      "url": "https://www.mch.cl/perpromin-2026-sea-fija-meta-de-reducir-en-30-los-tiempos-de-evaluacion-ambiental/",
+      "fecha": "2026-08-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
