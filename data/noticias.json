@@ -1,53 +1,125 @@
 {
-  "fecha_actualizacion": "2026-08-09T07:39:53.458607-04:00",
-  "total": 6,
+  "fecha_actualizacion": "2026-08-10T08:02:22.008669-04:00",
+  "total": 15,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Emprendedores marcan la ruta en ascenso del turismo circular en la Región de Los Lagos",
+      "url": "https://www.paiscircular.cl/economia-circular/emprendedores-marcan-la-ruta-en-ascenso-del-turismo-circular-en-la-region-de-los-lagos/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "El cambio climático apuntala un calor que revela la vulnerabilidad de la cosecha europea",
-      "url": "https://efeverde.com/cambio-climatico-calor-vulnerabilidad-de-cosecha-europea/",
+      "titular": "El incendio de Niebla (Huelva) supera las 20.000 hectáreas y continúa «fuera de capacidad de extinción»",
+      "url": "https://efeverde.com/incendios-espana-niebla-huelva/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Banco de Germoplasma: El ‘arca de Noé’ que custodia el futuro de la flora silvestre andaluza",
+      "url": "https://efeverde.com/banco-germoplasma-flora-silvestre-andaluza/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las barreras vegetales reducen la erosión en climas áridos, según un estudio",
+      "url": "https://efeverde.com/barreras-vegetales-reducen-erosion-climas-aridos/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Doce muertos y ocho desaparecidos tras lluvias monzónicas y dos ciclones en Filipinas",
+      "url": "https://efeverde.com/muertos-desaparecidos-lluvias-monzonicas-filipinas/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Eclipses totales de Sol: cinco curiosidades y aspectos fascinantes",
+      "url": "https://efeverde.com/eclipses-totales-sol-cinco-curiosidades-y-aspectos-fascinantes/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Samoa inicia estudio de sus nuevas reservas marinas tras proteger el 30 % de sus océanos",
+      "url": "https://efeverde.com/samoa-estudio-reservas-marinas-proteccion-oceanos/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de 5.000 indígenas marchan por la paz y la defensa de sus territorios en sur de México",
+      "url": "https://efeverde.com/indigenas-marchan-paz-defensa-territorios-mexico/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El tifón Dolphin deja lluvias récord y más de 1,6 millones de evacuados en China",
+      "url": "https://efeverde.com/tifon-dolphin-lluvias-record-china/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El mar bate récord de temperatura en julio, mientras el calor y la sequía intensifican los incendios en Europa",
+      "url": "https://efeverde.com/mar-record-temperatura-julio-calor-sequia-intensifican-incendios/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El deterioro de 3.000 hectáreas de pinos fuerza un cambio urgente en la gestión forestal cantábrica",
+      "url": "https://efeverde.com/deterioro-pinos-fuerza-cambio-gestion-forestal-cantabrica/",
+      "fecha": "2026-08-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Alza en ingreso de causas preocupa al Primer Tribunal Ambiental por falta de ministros",
+      "url": "https://www.emol.com/noticias/Economia/2026/08/09/1208030/alza-ingreso-causas-tribunal-ambiental.html",
+      "fecha": "2026-08-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Sara Aagesen pide «máxima precaución» en los espacios naturales ante el eclipse solar",
+      "url": "https://efeverde.com/sara-aagesen-pide-maxima-precaucion-en-espacios-naturales-ante-eclipse-solar/",
       "fecha": "2026-08-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La situación del incendio de Niebla (Huelva) «sigue siendo complicada», mientras en Castellón se trabaja en dos frentes",
-      "url": "https://efeverde.com/situacion-incendio-niebla-castellon/",
+      "titular": "El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas",
+      "url": "https://efeverde.com/incendio-de-niebla-huelva-perimetro/",
       "fecha": "2026-08-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "¿El más grande del siglo?: Cómo se vivirá realmente el fenómeno de El Niño en Chile (La Tercera)",
-      "url": "https://www.cr2.cl/el-mas-grande-del-siglo-como-se-vivira-realmente-el-fenomeno-de-el-nino-en-chile-la-tercera/",
-      "fecha": "2026-08-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "EFE Verde",
-      "titular": "El incendio de Niebla (Huelva) ha arrasado ya 4.000 hectáreas, mientras en Castellón se intensifican los trabajos de extinción en Tírig",
-      "url": "https://efeverde.com/incendios-niebla-huelva-y-castellon/",
-      "fecha": "2026-08-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El eclipse solar abre una ventana única para estudiar sus efectos en plantas y animales",
-      "url": "https://efeverde.com/eclipse-solar-estudiar-sus-efectos-en-plantas-y-animales/",
-      "fecha": "2026-08-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Las Diablas anticipan el debut tras primer amistoso de cara al Mundial: “Nos vamos a plantar de cara con quien sea”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/las-diablas-anticipan-el-debut-tras-primer-amistoso-de-cara-al-mundial-nos-vamos-a-plantar-de-cara-con-quien-sea/",
-      "fecha": "2026-08-08",
+      "titular": "El este de China, en alerta máxima ante la llegada del tifón Dolphin",
+      "url": "https://efeverde.com/este-de-china-en-alerta-maxima-ante-llegada-del-tifon-dolphin/",
+      "fecha": "2026-08-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

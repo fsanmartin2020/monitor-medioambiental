@@ -1,17 +1,17 @@
 {
-  "fecha_generacion": "2026-08-09T07:39:53.471174-04:00",
+  "fecha_generacion": "2026-08-10T08:02:22.020791-04:00",
   "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Las Diablas anticipan el debut tras primer amistoso de cara al Mundial: “Nos vamos a plantar de cara con quien sea”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/las-diablas-anticipan-el-debut-tras-primer-amistoso-de-cara-al-mundial-nos-vamos-a-plantar-de-cara-con-quien-sea/",
-      "fecha": "2026-08-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Tras aterrizar en Países Bajos, la selección chilena de Hockey Césped cayó ante China, en su primer compromiso de preparación. Eso sí, la mente está puesta en el estreno, justamente contra las locales.",
+      "fuente": "Emol",
+      "titular": "Alza en ingreso de causas preocupa al Primer Tribunal Ambiental por falta de ministros",
+      "url": "https://www.emol.com/noticias/Economia/2026/08/09/1208030/alza-ingreso-causas-tribunal-ambiental.html",
+      "fecha": "2026-08-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "07:22 |Las presentadas hasta fines de julio ya superaron a las de 2025.",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     }
   ]
