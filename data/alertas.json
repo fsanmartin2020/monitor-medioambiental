@@ -1,116 +1,29 @@
 {
-  "fecha_generacion": "2026-08-11T08:02:31.787523-04:00",
-  "total_alertas": 9,
+  "fecha_generacion": "2026-08-12T07:58:36.285147-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Un derrame de petróleo frente a las costas de Omán abarca unos 390 kilómetros cuadrados",
-      "url": "https://efeverde.com/derrame-petroleo-costas-oman-390-kilometros-cuadrados/",
+      "fuente": "País Circular",
+      "titular": "2° Tribunal Ambiental acogió reclamación de Interchile por rechazo al Programa de Cumplimiento presentado en procedimiento sancionatorio contra proyecto Cardones-Polpaico",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-acogio-reclamacion-de-interchile-por-rechazo-al-programa-de-cumplimiento-presentado-en-procedimiento-sancionatorio-contra-proyecto-cardones-polpaico/",
       "fecha": "2026-08-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Cairo.- Un derrame de petróleo cubre unos 390 kilómetros cuadrados frente a las costas del sur de Omán, en el mar Arábigo, después de que se detectara una fuga en el buque cisterna Caroline Bezengi, con bandera de Camerún y varado cerca de las isl",
+      "extracto": "La judicatura especializada determinó que la Superintendencia del Medio Ambiente (SMA) no fundamentó adecuadamente su decisión de rechazar el Programa de cumplimiento (PdC). The post 2° Tribunal Ambiental acogió reclamación de Interchile por rechazo ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Aysén: confirman derrame de 4 mil litros de combustible en emblemático río Baker en Caleta Tortel",
+      "url": "https://www.terram.cl/el-desconcierto-aysen-confirman-derrame-de-4-mil-litros-de-combustible-en-emblematico-rio-baker-en-caleta-tortel/",
+      "fecha": "2026-08-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El río Baker, vital para la Región de Aysén y la Patagonia, sufre una severa contaminación tras un derrame de combustible de 4 mil litros. La situación, confirmada por autoridades locales, se originó en la planta Central Norte, y se investiga el impa",
       "keywords_detectadas": [
         "derrame"
-      ]
-    },
-    {
-      "fuente": "SONAMI",
-      "titular": "SONAMI valora que anteproyecto del SEIA incorpore propuesta del gremio para  fortalecer la competitividad de la pequeña minería",
-      "url": "https://www.sonami.cl/v2/noticias/sonami-valora-que-anteproyecto-del-seia-incorpore-propuesta-del-gremio-para-fortalecer-la-competitividad-de-la-pequena-mineria/",
-      "fecha": "2026-08-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El gremio sostuvo que la modificación constituye un avance hacia una regulación más proporcional para este sector y enfatiza que…",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Ley REP: Tribunal Ambiental anuló decreto que fija metas de recolección y valorización de aceites lubricantes",
-      "url": "https://codexverde.cl/ley-rep-tribunal-ambiental-anulo-decreto-que-fija-metas-de-recoleccion-y-valorizacion-de-aceites-lubricantes/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió dos de las tres reclamaciones presentadas en contra del Decreto Supremo N° 47/2023, que fija metas de recolección y valorización de aceites lubricantes, dictado por el Ministerio del Medio Ambiente en el marco de ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Municipio de Coyhaique deberá reparar daño ambiental causado por planta de tratamiento de aguas servidas",
-      "url": "https://www.terram.cl/diario-sostenible-municipio-de-coyhaique-debera-reparar-dano-ambiental-causado-por-planta-de-tratamiento-de-aguas-servidas/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las aguas contaminadas afectaron el suelo y los recursos de un predio familiar en Valle Simpson. Conoce los detalles de la sentencia en la nota. Fuente: Diario Sostenible, 7 de agosto de 2026.",
-      "keywords_detectadas": [
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CodexVerde] Ley REP: Tribunal Ambiental anuló decreto que fija metas de recolección y valorización de aceites lubricantes",
-      "url": "https://www.terram.cl/codexverde-ley-rep-tribunal-ambiental-anulo-decreto-que-fija-metas-de-recoleccion-y-valorizacion-de-aceites-lubricantes/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental acogió dos de las tres reclamaciones presentadas en contra del Decreto Supremo N° 47/2023, que fija metas de recolección y valorización de aceites lubricantes, dictado por el Ministerio del Medio Ambiente en el marco de ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Capacitan a recicladores de base y gestores de residuos en nuevas exigencias de la Ley REP y economía circular",
-      "url": "https://mma.gob.cl/capacitan-a-recicladores-de-base-y-gestores-de-residuos-en-nuevas-exigencias-de-la-ley-rep-y-economia-circular/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Dos jornadas de capacitación dirigidas a recicladores de base y gestores de residuos de la Región de Coquimbo, se realizaron […]",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "SEA suspende sesión clave de proyecto eléctrico en cordillera del Maule en medio de controversia por ranita del Pehuenche",
-      "url": "https://www.latercera.com/nacional/noticia/sea-suspende-sesion-clave-de-proyecto-electrico-en-cordillera-del-maule-en-medio-de-controversia-por-ranita-del-pehuenche/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La instancia, programada para este lunes en modalidad telemática, debía abordar el Estudio de Impacto Ambiental de la iniciativa de Enel Generación Chile en San Clemente, en medio de cuestionamientos por sus eventuales efectos sobre el ecosistema del",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA Antofagasta realiza visita técnica sobre EIA de proyecto minero en el Salar de Atacama",
-      "url": "https://www.mch.cl/sea-antofagasta-realiza-visita-tecnica-sobre-eia-de-proyecto-minero-en-el-salar-de-atacama/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Delegación recorrió el área de emplazamiento de las nuevas obras, el sector de la planta de producción existente, los puntos de monitoreo hidrológico y la zona de monitoreo ambiental asociado a la quebrada de Camar. La entrada SEA Antofagasta realiza",
-      "keywords_detectadas": [
-        "SEA",
-        "EIA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Sonami valora propuesta que elevaría el umbral de ingreso de proyectos mineros al SEIA",
-      "url": "https://www.nuevamineria.com/revista/sonami-valora-propuesta-que-elevaria-el-umbral-de-ingreso-de-proyectos-mineros-al-seia/",
-      "fecha": "2026-08-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La modificación reglamentaria sometida a consulta pública propone aumentar de 5.000 a 40.000 toneladas mensuales el límite que determina el ingreso de proyectos mineros al sistema ambiental. El gremio afirmó que la medida favorecería especialmente a ",
-      "keywords_detectadas": [
-        "SEIA"
       ]
     }
   ]
