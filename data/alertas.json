@@ -1,29 +1,53 @@
 {
-  "fecha_generacion": "2026-08-12T07:58:36.285147-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-08-13T07:58:48.668458-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "2° Tribunal Ambiental acogió reclamación de Interchile por rechazo al Programa de Cumplimiento presentado en procedimiento sancionatorio contra proyecto Cardones-Polpaico",
-      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-acogio-reclamacion-de-interchile-por-rechazo-al-programa-de-cumplimiento-presentado-en-procedimiento-sancionatorio-contra-proyecto-cardones-polpaico/",
-      "fecha": "2026-08-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La judicatura especializada determinó que la Superintendencia del Medio Ambiente (SMA) no fundamentó adecuadamente su decisión de rechazar el Programa de cumplimiento (PdC). The post 2° Tribunal Ambiental acogió reclamación de Interchile por rechazo ",
+      "fuente": "BioBioChile",
+      "titular": "RCA anuladas: el \"seguro para inversionistas\" que crea la megarreforma y terminaría pagando el fisco",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/13/rca-anuladas-el-seguro-para-inversionistas-que-crea-la-megarreforma-y-terminaria-pagando-el-fisco.shtml",
+      "fecha": "2026-08-13",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "RCA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Aysén: confirman derrame de 4 mil litros de combustible en emblemático río Baker en Caleta Tortel",
-      "url": "https://www.terram.cl/el-desconcierto-aysen-confirman-derrame-de-4-mil-litros-de-combustible-en-emblematico-rio-baker-en-caleta-tortel/",
-      "fecha": "2026-08-11",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SMA fiscaliza incidente registrado en faena minera",
+      "url": "https://www.mch.cl/sma-fiscaliza-incidente-registrado-en-faena-minera/",
+      "fecha": "2026-08-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El río Baker, vital para la Región de Aysén y la Patagonia, sufre una severa contaminación tras un derrame de combustible de 4 mil litros. La situación, confirmada por autoridades locales, se originó en la planta Central Norte, y se investiga el impa",
+      "extracto": "La autoridad ambiental abrió de oficio un expediente de fiscalización tras la rotura de una tubería que transportaba relaves. La entrada SMA fiscaliza incidente registrado en faena minera se publicó primero en Mch .",
       "keywords_detectadas": [
-        "derrame"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
+      "url": "https://www.mch.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
+      "fecha": "2026-08-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La autoridad sostuvo un encuentro con autoridades locales y expuso ante el Consejo Regional Minero. La entrada Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
+      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
+      "fecha": "2026-08-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Entre las iniciativas que han ingresado al Sistema de Evaluación de Impacto Ambiental (SEIA), se encuentran 9 iniciativas de energía. La entrada Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coqu",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

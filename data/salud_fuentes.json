@@ -1,8 +1,8 @@
 {
-  "fecha_generacion": "2026-08-12T07:58:36.282905-04:00",
+  "fecha_generacion": "2026-08-13T07:58:48.665721-04:00",
   "total_fuentes": 69,
-  "fuentes_ok": 36,
-  "fuentes_vacias": 33,
+  "fuentes_ok": 34,
+  "fuentes_vacias": 35,
   "fuentes_error": 0,
   "registros": [
     {
@@ -11,7 +11,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 21,
-      "duracion_ms": 8586,
+      "duracion_ms": 5705,
       "error": null
     },
     {
@@ -20,7 +20,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 17,
-      "duracion_ms": 10209,
+      "duracion_ms": 13765,
       "error": null
     },
     {
@@ -28,8 +28,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 97,
-      "duracion_ms": 1077,
+      "n_articulos": 98,
+      "duracion_ms": 1248,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 584,
+      "duracion_ms": 809,
       "error": null
     },
     {
@@ -46,8 +46,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 12,
-      "duracion_ms": 3614,
+      "n_articulos": 13,
+      "duracion_ms": 4131,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 20,
-      "duracion_ms": 4325,
+      "duracion_ms": 5605,
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 19,
-      "duracion_ms": 3771,
+      "n_articulos": 20,
+      "duracion_ms": 3550,
       "error": null
     },
     {
@@ -73,8 +73,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 4003,
+      "n_articulos": 11,
+      "duracion_ms": 3851,
       "error": null
     },
     {
@@ -83,7 +83,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 3648,
+      "duracion_ms": 1267,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 4754,
+      "duracion_ms": 4278,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 11,
-      "duracion_ms": 2454,
+      "duracion_ms": 1465,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 9,
-      "duracion_ms": 2830,
+      "duracion_ms": 3838,
       "error": null
     },
     {
@@ -119,7 +119,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 5601,
+      "duracion_ms": 5714,
       "error": null
     },
     {
@@ -128,7 +128,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 2,
-      "duracion_ms": 5482,
+      "duracion_ms": 17198,
       "error": null
     },
     {
@@ -137,7 +137,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 29,
-      "duracion_ms": 679,
+      "duracion_ms": 405,
       "error": null
     },
     {
@@ -146,7 +146,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 147,
+      "duracion_ms": 239,
       "error": null
     },
     {
@@ -155,7 +155,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 3557,
+      "duracion_ms": 4480,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 2152,
+      "duracion_ms": 2427,
       "error": null
     },
     {
@@ -173,7 +173,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1438,
+      "duracion_ms": 1193,
       "error": null
     },
     {
@@ -181,8 +181,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 2756,
+      "n_articulos": 8,
+      "duracion_ms": 2285,
       "error": null
     },
     {
@@ -191,7 +191,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 12,
-      "duracion_ms": 4974,
+      "duracion_ms": 3484,
       "error": null
     },
     {
@@ -200,7 +200,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2620,
+      "duracion_ms": 2239,
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 2,
-      "duracion_ms": 1048,
+      "duracion_ms": 609,
       "error": null
     },
     {
@@ -218,7 +218,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2776,
+      "duracion_ms": 1709,
       "error": null
     },
     {
@@ -227,7 +227,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2689,
+      "duracion_ms": 1415,
       "error": null
     },
     {
@@ -235,8 +235,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 12,
-      "duracion_ms": 2373,
+      "n_articulos": 11,
+      "duracion_ms": 2400,
       "error": null
     },
     {
@@ -244,8 +244,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 933,
+      "n_articulos": 1,
+      "duracion_ms": 781,
       "error": null
     },
     {
@@ -254,16 +254,16 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4628,
+      "duracion_ms": 5454,
       "error": null
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "vacio",
-      "n_articulos": 0,
-      "duracion_ms": 504,
+      "estado": "ok",
+      "n_articulos": 1,
+      "duracion_ms": 310,
       "error": null
     },
     {
@@ -271,17 +271,17 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 4821,
+      "n_articulos": 1,
+      "duracion_ms": 4954,
       "error": null
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 5063,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 4420,
       "error": null
     },
     {
@@ -289,8 +289,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 1412,
+      "n_articulos": 9,
+      "duracion_ms": 609,
       "error": null
     },
     {
@@ -299,7 +299,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1640,
+      "duracion_ms": 1233,
       "error": null
     },
     {
@@ -307,8 +307,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 6,
-      "duracion_ms": 4271,
+      "n_articulos": 7,
+      "duracion_ms": 3735,
       "error": null
     },
     {
@@ -317,7 +317,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 916,
+      "duracion_ms": 442,
       "error": null
     },
     {
@@ -326,7 +326,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2706,
+      "duracion_ms": 2264,
       "error": null
     },
     {
@@ -335,7 +335,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1305,
+      "duracion_ms": 765,
       "error": null
     },
     {
@@ -344,7 +344,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2514,
+      "duracion_ms": 3102,
       "error": null
     },
     {
@@ -353,7 +353,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 17,
-      "duracion_ms": 3062,
+      "duracion_ms": 2332,
       "error": null
     },
     {
@@ -362,7 +362,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 260,
+      "duracion_ms": 248,
       "error": null
     },
     {
@@ -371,7 +371,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 8536,
+      "duracion_ms": 8149,
       "error": null
     },
     {
@@ -380,7 +380,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 5719,
+      "duracion_ms": 5542,
       "error": null
     },
     {
@@ -389,7 +389,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 131,
+      "duracion_ms": 290,
       "error": null
     },
     {
@@ -397,8 +397,8 @@
       "metodo_configurado": "sitemap",
       "metodo_usado": "sitemap",
       "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 7982,
+      "n_articulos": 5,
+      "duracion_ms": 6663,
       "error": null
     },
     {
@@ -407,7 +407,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20316,
+      "duracion_ms": 20387,
       "error": null
     },
     {
@@ -416,7 +416,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 1,
-      "duracion_ms": 2748,
+      "duracion_ms": 2322,
       "error": null
     },
     {
@@ -425,7 +425,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1055,
+      "duracion_ms": 853,
       "error": null
     },
     {
@@ -434,16 +434,16 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 7211,
+      "duracion_ms": 10872,
       "error": null
     },
     {
       "fuente": "MINSAL",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 1798,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 2027,
       "error": null
     },
     {
@@ -452,7 +452,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 291971,
+      "duracion_ms": 289343,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20307,
+      "duracion_ms": 20250,
       "error": null
     },
     {
@@ -470,7 +470,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 721,
+      "duracion_ms": 455,
       "error": null
     },
     {
@@ -478,8 +478,8 @@
       "metodo_configurado": "sitemap",
       "metodo_usado": "sitemap",
       "estado": "ok",
-      "n_articulos": 4,
-      "duracion_ms": 3780,
+      "n_articulos": 1,
+      "duracion_ms": 3680,
       "error": null
     },
     {
@@ -488,7 +488,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 111,
+      "duracion_ms": 200,
       "error": null
     },
     {
@@ -497,7 +497,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 981,
+      "duracion_ms": 480,
       "error": null
     },
     {
@@ -505,8 +505,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 2097,
+      "n_articulos": 3,
+      "duracion_ms": 2093,
       "error": null
     },
     {
@@ -515,7 +515,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 4,
-      "duracion_ms": 1017,
+      "duracion_ms": 1216,
       "error": null
     },
     {
@@ -524,7 +524,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4355,
+      "duracion_ms": 4024,
       "error": null
     },
     {
@@ -532,8 +532,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 5755,
+      "n_articulos": 2,
+      "duracion_ms": 16706,
       "error": null
     },
     {
@@ -542,7 +542,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 978,
+      "duracion_ms": 1020,
       "error": null
     },
     {
@@ -551,7 +551,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 7164,
+      "duracion_ms": 2697,
       "error": null
     },
     {
@@ -560,7 +560,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 380,
+      "duracion_ms": 486,
       "error": null
     },
     {
@@ -569,7 +569,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1371,
+      "duracion_ms": 1303,
       "error": null
     },
     {
@@ -578,7 +578,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2425,
+      "duracion_ms": 2555,
       "error": null
     },
     {
@@ -587,15 +587,15 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1600,
+      "duracion_ms": 1509,
       "error": null
     },
     {
       "fuente": "DGA - MOP",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
+      "estado": "vacio",
+      "n_articulos": 0,
       "duracion_ms": 3267,
       "error": null
     },
@@ -604,8 +604,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 4515,
+      "n_articulos": 5,
+      "duracion_ms": 4387,
       "error": null
     },
     {
@@ -614,7 +614,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 3391,
+      "duracion_ms": 3976,
       "error": null
     },
     {
@@ -623,7 +623,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 7858,
+      "duracion_ms": 6985,
       "error": null
     }
   ]
