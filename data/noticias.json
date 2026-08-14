@@ -1,293 +1,413 @@
 {
-  "fecha_actualizacion": "2026-08-13T07:58:48.652874-04:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-08-14T08:02:03.929658-04:00",
+  "total": 51,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Organizaciones ambientales expusieron ante el Tribunal Constitucional los efectos de la “megarreforma” sobre el acceso a la justicia y la protección de los ecosistemas",
-      "url": "https://www.paiscircular.cl/medio-ambiente/organizaciones-ambientales-expusieron-ante-el-tribunal-constitucional-los-efectos-de-la-megarreforma-sobre-el-acceso-a-la-justicia-y-la-proteccion-de-los-ecosistemas/",
-      "fecha": "2026-08-13",
+      "titular": "MacBio: una empresa de biotecnología circular al servicio de la agricultura sostenible",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/biomac/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministra Toledo: «La economía circular también comienza en nuestros lugares de trabajo»",
-      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-la-economia-circular-tambien-comienza-en-nuestros-lugares-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-la-economia-circular-tambien-comienza-en-nuestros-lugares-de-trabajo",
-      "fecha": "2026-08-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La UE comienza a aplicar la nueva normativa de circularidad y reciclaje para vehículos",
-      "url": "https://efeverde.com/ue-nueva-normativa-circularidad-reciclaje-vehiculos/",
-      "fecha": "2026-08-13",
+      "fuente": "Codex Verde",
+      "titular": "Chile frente a una nueva frontera climática",
+      "url": "https://codexverde.cl/chile-frente-a-una-nueva-frontera-climatica/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La energía solar ayuda a la red eléctrica a soportar el aumento de la demanda durante las olas de calor",
-      "url": "https://efeverde.com/energia-solar-ayuda-red-electrica-soportar-aumento-demanda-olas-calor/",
-      "fecha": "2026-08-13",
+      "titular": "La fruta atrae a los osos pardos cantábricos hacia los pueblos en verano",
+      "url": "https://efeverde.com/fruta-atrae-osos-pardos-cantabricos-pueblos/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las olas de calor costarán a Francia entre 10.000 y 15.000 millones este año",
-      "url": "https://efeverde.com/olas-calor-costar-francia-millones-euros/",
-      "fecha": "2026-08-13",
+      "titular": "Los incendios causan 14 heridos en Croacia y obligan a desalojos en Alemania, Grecia e Italia",
+      "url": "https://efeverde.com/incendios-forestales-europa-heridos-croacia-desalojados-alemania-grecia/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Detectan heridas compatibles con perdigones en una orca ibérica en el Estrecho",
-      "url": "https://efeverde.com/orca-iberica-heridas-compatibles-perdigones-estrecho/",
-      "fecha": "2026-08-13",
+      "titular": "El incendio en Huesca obliga a nuevos desalojos mientras los bomberos acorralan el fuego en Huelva",
+      "url": "https://efeverde.com/incendios-forestales-espana-viernes-14-agosto-2026/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un eclipse se acaba y otros dos esperan a España en 2027 y 2028",
-      "url": "https://efeverde.com/un-eclipse-se-acaba-otros-dos-esperan-espana-en-2027-2028/",
-      "fecha": "2026-08-13",
+      "titular": "El Gobierno autoriza la prórroga de la central nuclear de Almaraz hasta junio de 2030",
+      "url": "https://efeverde.com/gobierno-autoriza-prorroga-central-nuclear-almaraz-2030/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El fuego avanza en Huesca mientras los primeros vecinos de Huelva vuelven a casa tras una noche positiva",
-      "url": "https://efeverde.com/incendio-niebla-activo-obliga-dalejamientos/",
-      "fecha": "2026-08-13",
+      "titular": "La velocidad de propagación de los incendios extremos amenaza con alterar la vegetación a largo plazo",
+      "url": "https://efeverde.com/velocidad-propagacion-incendios-extremos-amenaza-vegetacion-largo-plazo/",
+      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las Tablas de Daimiel registran uno de sus mejores años de reproducción de aves acuáticas",
-      "url": "https://efeverde.com/tablas-daimiel-mejores-anos-reproduccion-aves-acuaticas/",
-      "fecha": "2026-08-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Exsubsecretario Ramos (FA) cuestiona reforma constitucional en seguridad del gobierno de Kast: “Es un camino equivocado”",
-      "url": "https://www.latercera.com/nacional/noticia/exsubsecretario-ramos-fa-cuestiona-reforma-constitucional-en-seguridad-del-gobierno-de-kast-es-un-camino-equivocado/",
-      "fecha": "2026-08-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "RCA anuladas: el \"seguro para inversionistas\" que crea la megarreforma y terminaría pagando el fisco",
-      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/13/rca-anuladas-el-seguro-para-inversionistas-que-crea-la-megarreforma-y-terminaria-pagando-el-fisco.shtml",
-      "fecha": "2026-08-13",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "TC español refuerza garantías de pacientes internados por trastorno mental",
-      "url": "https://www.diarioconstitucional.cl/2026/08/13/tc-espanol-refuerza-garantias-de-pacientes-internados-por-trastorno-mental/",
-      "fecha": "2026-08-13",
+      "fuente": "Emol",
+      "titular": "\"Moderado optimismo\": La sensación que deja en el gran empresariado el fallo del TC",
+      "url": "https://www.emol.com/noticias/Economia/2026/08/14/1208476/cpc-tc-optimismo.html",
+      "fecha": "2026-08-14",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
+      "fuente": "BioBioChile",
+      "titular": "TC acoge parcialmente requerimientos de oposición y declara inconstitucional compensación por RCA",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/13/tc-acoge-parcialmente-requerimientos-de-oposicion-y-declara-inconstitucional-compensacion-por-rca.shtml",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Igor Lichnovsky: Más allá que sea de la U, a Marcelo Díaz hay que valorarlo como jugador chileno",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/igor-lichnovsky-mas-alla-que-sea-de-la-u-a-marcelo-diaz-hay-que/2026-08-13/205517.html",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Plan de Descontaminación del Lago Villarrica entra en vigencia: autoridades y vecinos reafirman compromiso con su recuperación",
+      "url": "https://www.paiscircular.cl/agua/plan-de-descontaminacion-del-lago-villarrica-entra-en-vigencia-autoridades-y-vecinos-reafirman-compromiso-con-su-recuperacion/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Walmart Chile y Virutex convierten colgadores en desuso en nuevos productos de limpieza",
+      "url": "https://www.paiscircular.cl/economia-circular/walmart-chile-y-virutex-convierten-colgadores-en-desuso-en-nuevos-productos-de-limpieza/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Chile Carbon Forum lanza su tercera edición con foco en estándares globales, financiamiento y adaptación climática",
+      "url": "https://www.paiscircular.cl/transicion-energetica/chile-carbon-forum-lanza-su-tercera-edicion-con-foco-en-estandares-globales-financiamiento-y-adaptacion-climatica/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Fórmula 1 acelera su camino hacia una competición más sostenible",
+      "url": "https://www.paiscircular.cl/tendencias/formula-1-acelera-su-camino-hacia-una-competicion-mas-sostenible/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Arriendo de casa en Valdivia: vivir en la ciudad de los ríos del sur de Chile",
+      "url": "https://www.paiscircular.cl/tendencias/arriendo-de-casa-en-valdivia-vivir-en-la-ciudad-de-los-rios-del-sur-de-chile/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Chile frente a una nueva frontera climática",
+      "url": "https://www.paiscircular.cl/opinion/chile-frente-a-una-nueva-frontera-climatica/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Expertos llaman a poner al capital humano en el centro de la construcción sostenible",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/expertos-llaman-a-poner-al-capital-humano-en-el-centro-de-la-construccion-sostenible/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Sebastián Ferrada, especialista de la U. de Chile, explica el consumo de agua de la Inteligencia Artificial y su riesgo",
+      "url": "https://www.paiscircular.cl/agua/sebastian-ferrada-especialista-de-la-u-de-chile-explica-el-consumo-de-agua-de-la-inteligencia-artificial-y-su-riesgo/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ministra Toledo: “La economía circular también comienza en nuestros lugares de trabajo”",
+      "url": "https://www.paiscircular.cl/economia-circular/ministra-toledo-la-economia-circular-tambien-comienza-en-nuestros-lugares-de-trabajo/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "Codex Verde",
-      "titular": "Una línea única en Latinoamérica busca abrir camino al reciclaje industrial de madera en Chile",
-      "url": "https://codexverde.cl/una-linea-unica-en-latinoamerica-busca-abrir-camino-al-reciclaje-industrial-de-madera-en-chile/",
-      "fecha": "2026-08-12",
+      "titular": "El suelo: una infraestructura natural que debemos cuidar",
+      "url": "https://codexverde.cl/el-suelo-una-infraestructura-natural-que-debemos-cuidar/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Análisis CR2 | Temperaturas extremas en la costa de Tarapacá, Chile",
+      "url": "https://www.cr2.cl/analisis-cr2-temperaturas-extremas-en-la-costa-de-tarapaca-chile/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El eclipse solar total trae un anochecer anticipado y pasajero a parte de España",
-      "url": "https://efeverde.com/eclipse-solar-total-espana-anochecer-anticipado/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El monzón eleva al menos a 146 los muertos en la India tras un deslizamiento en Bombay",
-      "url": "https://efeverde.com/el-monzon-146-muertos-india-deslizamiento/",
-      "fecha": "2026-08-12",
+      "titular": "Desde intentos de cópula hasta irse a dormir: así reaccionaron los animales al eclipse solar",
+      "url": "https://efeverde.com/asi-reaccionaron-animales-eclipse-solar/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Transparencia en el sector extractivo en Chile en el marco del Estándar EITI",
-      "url": "https://www.terram.cl/transparencia-en-el-sector-extractivo-en-chile-en-el-marco-del-estandar-eiti/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Facilidad para proyectos contaminantes y frenos para reclamar: Los artículos de la megarreforma que verá el TC",
-      "url": "https://www.terram.cl/el-desconcierto-facilidad-para-proyectos-contaminantes-y-frenos-para-reclamar-los-articulos-de-la-megarreforma-que-vera-el-tc/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Fiscalizan a minera de Aysén por rotura de tubería de relaves",
-      "url": "https://www.terram.cl/diario-sostenible-fiscalizan-a-minera-de-aysen-por-rotura-de-tuberia-de-relaves/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mirada Sur] Medio Ambiente aprueba hoja de ruta para reforzar transparencia climática en Chile",
-      "url": "https://www.terram.cl/mirada-sur-medio-ambiente-aprueba-hoja-de-ruta-para-reforzar-transparencia-climatica-en-chile/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Científicos advierten que pingüinos de Humboldt están abandonando sus nidos en Chile y Perú",
-      "url": "https://www.terram.cl/ladera-sur-cientificos-advierten-que-pinguinos-de-humboldt-estan-abandonando-sus-nidos-en-chile-y-peru/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Meteored] El Súper El Niño está a punto de alcanzar una intensidad muy fuerte y la NOAA eleva la escala a 8 °C",
-      "url": "https://www.terram.cl/meteored-el-super-el-nino-esta-a-punto-de-alcanzar-una-intensidad-muy-fuerte-y-la-noaa-eleva-la-escala-a-8-c/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] Pedido de facultades legislativas de presidenta Fujimori enciende alertas en sector ambiental de Perú",
-      "url": "https://www.terram.cl/mongabay-pedido-de-facultades-legislativas-de-presidenta-fujimori-enciende-alertas-en-sector-ambiental-de-peru/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion interno externo para proveer el cargo de profesional de apoyo del area juridica escalafon profesional a contrata asimilado a grado 15 de la e u s oficina de constitucion",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-profesional-de-apoyo-del-area-juridica-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-oficina-de-constitucion/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Parque Nacional Laguna del Laja celebra 68 años de conservación y protección de la biodiversidad",
-      "url": "https://www.conaf.cl/parque-nacional-laguna-del-laja-celebra-68-anos-de-conservacion-y-proteccion-de-la-biodiversidad/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-laguna-del-laja-celebra-68-anos-de-conservacion-y-proteccion-de-la-biodiversidad",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Guardaparques de CONAF Antofagasta, los primeros del país en certificar sus competencias",
-      "url": "https://www.conaf.cl/guardaparques-de-conaf-antofagasta-los-primeros-del-pais-en-certificar-sus-competencias/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-de-conaf-antofagasta-los-primeros-del-pais-en-certificar-sus-competencias",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF informa que puente del Parque Nacional Torres del Paine queda inhabilitado tras presentar daños en su estructura",
-      "url": "https://www.conaf.cl/conaf-informa-que-puente-del-parque-nacional-torres-del-paine-queda-inhabilitado-tras-presentar-danos-en-su-estructura/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-informa-que-puente-del-parque-nacional-torres-del-paine-queda-inhabilitado-tras-presentar-danos-en-su-estructura",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cuenta Pública 2026: Seremi del Medio Ambiente presentó avances y desafíos para este periodo en la Región de Antofagasta",
-      "url": "https://mma.gob.cl/cuenta-publica-2026-seremi-del-medio-ambiente-presento-avances-y-desafios-para-este-periodo-en-la-region-de-antofagasta/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Medio Ambiente revisa norma: motos con escape modificado pueden generar hasta 1.000% más ruido",
-      "url": "https://mma.gob.cl/medio-ambiente-revisa-norma-motos-con-escape-modificado-pueden-generar-hasta-1-000-mas-ruido/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo: «La economía circular también comienza en nuestros lugares de trabajo»",
-      "url": "https://mma.gob.cl/la-economia-circular-tambien-comienza-en-nuestros-lugares-de-trabajo/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente y Campus Patagonia UACh proyectan colaboración para fortalecer la investigación ambiental en Aysén",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-campus-patagonia-uach-proyectan-colaboracion-para-fortalecer-la-investigacion-ambiental-en-aysen/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comunidades indígenas de Lanco inician ejecución de proyectos financiados por el Fondo de Protección Ambiental",
-      "url": "https://mma.gob.cl/comunidades-indigenas-de-lanco-inician-ejecucion-de-proyectos-financiados-por-el-fondo-de-proteccion-ambiental/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Isidora Gold: nuevo proyecto de oro por US$ 500 millones ingresará a evaluación ambiental en 2027",
-      "url": "https://www.latercera.com/pulso/noticia/isidora-gold-nuevo-proyecto-de-oro-ingresara-a-evaluacion-ambiental-en-2027-por-us-500-millones/",
-      "fecha": "2026-08-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
       "titular": "Organizaciones medioambientalistas exponen ante el TC contra la megarreforma: “Entrega un regalo regulatorio a empresas”",
-      "url": "https://www.latercera.com/nacional/noticia/organizaciones-medioambientalistas-exponen-ante-el-tc-contra-la-megarreforma-entrega-un-regalo-regulatorio-a-empresas/",
-      "fecha": "2026-08-12",
+      "url": "https://www.terram.cl/organizaciones-medioambientalistas-exponen-ante-el-tc-contra-la-megarreforma-entrega-un-regalo-regulatorio-a-empresas/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA fiscaliza incidente registrado en faena minera",
-      "url": "https://www.mch.cl/sma-fiscaliza-incidente-registrado-en-faena-minera/",
-      "fecha": "2026-08-12",
+      "fuente": "Terram",
+      "titular": "SMA inicia proceso de sanción contra Aquachile por 14.300 toneladas de salmón producidas ilegalmente en un parque nacional",
+      "url": "https://www.terram.cl/sma-inicia-proceso-de-sancion-contra-aquachile-por-14-300-toneladas-de-salmon-producidas-ilegalmente-en-un-parque-nacional/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
-      "url": "https://www.mch.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
-      "fecha": "2026-08-12",
+      "fuente": "Terram",
+      "titular": "[Diario Constitucional] Contraloría permite construir viviendas en parcelas de preservación ecológica",
+      "url": "https://www.terram.cl/diario-constitucional-contraloria-permite-construir-viviendas-en-parcelas-de-preservacion-ecologica/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
-      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
-      "fecha": "2026-08-12",
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Coordinan medidas y acciones tras derrame de combustible en Tortel",
+      "url": "https://www.terram.cl/diario-sostenible-coordinan-medidas-y-acciones-tras-derrame-de-combustible-en-tortel/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] Del desierto a glaciares: la extraordinaria diversidad de paisajes que resguardan los parques nacionales de Chile",
+      "url": "https://www.terram.cl/ladera-sur-del-desierto-a-glaciares-la-extraordinaria-diversidad-de-paisajes-que-resguardan-los-parques-nacionales-de-chile/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Organizaciones ambientales exponen ante el TC los efectos de la “megarreforma” sobre el acceso a la justicia y la protección de los ecosistemas",
+      "url": "https://www.fima.cl/2026/08/13/organizaciones-ambientales-exponen-ante-el-tc-los-efectos-de-la-megarreforma-sobre-el-acceso-a-la-justicia-y-la-proteccion-de-los-ecosistemas/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "24/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/24-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/03-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente». Rol: R-45-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-inversiones-e-inmobiliaria-pilolcura-ltda-con-superintendencia-del-medio-ambiente-rol-r-45-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
+      "url": "https://3ta.cl/audiencias/03-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Estudiantes del liceo Darío Salas impulsan la prevención de incendios forestales con coloridos dibujos",
+      "url": "https://www.conaf.cl/estudiantes-del-liceo-dario-salas-impulsan-la-prevencion-de-incendios-forestales-con-coloridos-dibujos/?utm_source=rss&utm_medium=rss&utm_campaign=estudiantes-del-liceo-dario-salas-impulsan-la-prevencion-de-incendios-forestales-con-coloridos-dibujos",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble y MINVU fortalecen trabajo conjunto para impulsar arborización urbana y prevención de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-nuble-y-minvu-fortalecen-trabajo-conjunto-para-impulsar-arborizacion-urbana-y-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-y-minvu-fortalecen-trabajo-conjunto-para-impulsar-arborizacion-urbana-y-prevencion-de-incendios-forestales",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Con jornadas macrozonales CONAF fortalece el desarrollo del Consejo de Política Forestal",
+      "url": "https://www.conaf.cl/con-jornadas-macrozonales-conaf-fortalece-el-desarrollo-del-consejo-de-politica-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=con-jornadas-macrozonales-conaf-fortalece-el-desarrollo-del-consejo-de-politica-forestal",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF invita a exponer en seminario sobre cámaras trampa en Magallanes",
+      "url": "https://www.conaf.cl/conaf-invita-a-exponer-en-seminario-sobre-camaras-trampa-en-magallanes/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-invita-a-exponer-en-seminario-sobre-camaras-trampa-en-magallanes",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Funcionarios de CONAF Coquimbo apoyan catastro y entrega de alimento para ganado a afectados por la catástrofe",
+      "url": "https://www.conaf.cl/funcionarios-de-conaf-coquimbo-apoyan-catastro-y-entrega-de-alimento-para-ganado-a-afectados-por-la-catastrofe/?utm_source=rss&utm_medium=rss&utm_campaign=funcionarios-de-conaf-coquimbo-apoyan-catastro-y-entrega-de-alimento-para-ganado-a-afectados-por-la-catastrofe",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF lanza libro sobre la flora nativa del Parque Nacional Archipiélago Juan Fernández",
+      "url": "https://www.conaf.cl/conaf-lanza-libro-sobre-la-flora-nativa-del-parque-nacional-archipielago-juan-fernandez/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-lanza-libro-sobre-la-flora-nativa-del-parque-nacional-archipielago-juan-fernandez",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Tarapacá celebra 100 años de conservación en Chile con muestra fotográfica en Geoglifos de Pintados",
+      "url": "https://www.conaf.cl/conaf-tarapaca-celebra-100-anos-de-conservacion-en-chile-con-muestra-fotografica-en-geoglifos-de-pintados/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-celebra-100-anos-de-conservacion-en-chile-con-muestra-fotografica-en-geoglifos-de-pintados",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Plan de Descontaminación del Lago Villarrica entra en vigencia: autoridades y vecinos reafirman compromiso con su recuperación",
+      "url": "https://mma.gob.cl/plan-de-descontaminacion-del-lago-villarica-entra-en-vigencia-autoridades-y-vecinos-reafirman-compromiso-con-su-recuperacion/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Oposición triunfa parcialmente: TC acota la invariabilidad tributaria e impugna toda la compensación por RCA",
+      "url": "https://www.latercera.com/nacional/noticia/oposicion-triunfa-parcialmente-en-el-tc-acota-invariabilidad-tributaria-e-impugna-toda-la-compensacion-por-rca/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Tribunal Constitucional acoge parcialmente requerimientos presentados por la oposición por la megarreforma",
+      "url": "https://www.latercera.com/nacional/noticia/tribunal-constitucional-acoge-parcialmente-requerimientos-presentados-por-la-oposicion-por-la-megarreforma/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

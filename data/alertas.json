@@ -1,12 +1,12 @@
 {
-  "fecha_generacion": "2026-08-13T07:58:48.668458-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-08-14T08:02:03.944899-04:00",
+  "total_alertas": 18,
   "alertas": [
     {
       "fuente": "BioBioChile",
-      "titular": "RCA anuladas: el \"seguro para inversionistas\" que crea la megarreforma y terminaría pagando el fisco",
-      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/13/rca-anuladas-el-seguro-para-inversionistas-que-crea-la-megarreforma-y-terminaria-pagando-el-fisco.shtml",
-      "fecha": "2026-08-13",
+      "titular": "TC acoge parcialmente requerimientos de oposición y declara inconstitucional compensación por RCA",
+      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/13/tc-acoge-parcialmente-requerimientos-de-oposicion-y-declara-inconstitucional-compensacion-por-rca.shtml",
+      "fecha": "2026-08-14",
       "fecha_confiable": false,
       "metodo_extraccion": "links-genericos",
       "extracto": "",
@@ -15,39 +15,207 @@
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA fiscaliza incidente registrado en faena minera",
-      "url": "https://www.mch.cl/sma-fiscaliza-incidente-registrado-en-faena-minera/",
-      "fecha": "2026-08-12",
+      "fuente": "Cooperativa",
+      "titular": "Igor Lichnovsky: Más allá que sea de la U, a Marcelo Díaz hay que valorarlo como jugador chileno",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/igor-lichnovsky-mas-alla-que-sea-de-la-u-a-marcelo-diaz-hay-que/2026-08-13/205517.html",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "“Triunfo ambiental” en el TC: Oposición valora decisión de declarar inconstitucional la restitución por RCA anulada",
+      "url": "https://interferencia.cl/articulos/triunfo-ambiental-en-el-tc-oposicion-valora-decision-de-declarar-inconstitucional-la",
+      "fecha": "2026-08-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "SMA inicia proceso de sanción contra Aquachile por 14.300 toneladas de salmón producidas ilegalmente en un parque nacional",
+      "url": "https://www.terram.cl/sma-inicia-proceso-de-sancion-contra-aquachile-por-14-300-toneladas-de-salmon-producidas-ilegalmente-en-un-parque-nacional/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La autoridad ambiental abrió de oficio un expediente de fiscalización tras la rotura de una tubería que transportaba relaves. La entrada SMA fiscaliza incidente registrado en faena minera se publicó primero en Mch .",
+      "extracto": "Tras una investigación de Fundación Terram, luego de dos años la Superintendencia del Medio Ambiente inició un proceso de sanción contra la mayor salmonera del país por registrar más de 14 mil toneladas producidas entre 2012 y 2023 dentro de un parqu",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
-      "url": "https://www.mch.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
-      "fecha": "2026-08-12",
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Coordinan medidas y acciones tras derrame de combustible en Tortel",
+      "url": "https://www.terram.cl/diario-sostenible-coordinan-medidas-y-acciones-tras-derrame-de-combustible-en-tortel/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La autoridad sostuvo un encuentro con autoridades locales y expuso ante el Consejo Regional Minero. La entrada Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo se publicó primero en Mch .",
+      "extracto": "Se han retirado materiales contaminados para evitar la afectación del río Baker. Revisa más antecedentes en la nota. Fuente: Diario Sostenible, 12 de agosto de 2026.",
       "keywords_detectadas": [
-        "SEA"
+        "derrame"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coquimbo",
-      "url": "https://www.revistaei.cl/director-ejecutivo-del-sea-destaca-evaluacion-de-proyectos-por-mas-de-us3-mil-millones-en-region-de-coquimbo/",
-      "fecha": "2026-08-12",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Entre las iniciativas que han ingresado al Sistema de Evaluación de Impacto Ambiental (SEIA), se encuentran 9 iniciativas de energía. La entrada Director ejecutivo del SEA destaca evaluación de proyectos por más de US$3 mil millones en Región de Coqu",
+      "extracto": "Supendida audiencia de fecha 18/08/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026 appeared first on T",
       "keywords_detectadas": [
-        "SEA"
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 01/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "24/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/24-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 24/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 24/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 20/08/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026 appeared first on T",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/03-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 03/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente». Rol: R-45-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-inversiones-e-inmobiliaria-pilolcura-ltda-con-superintendencia-del-medio-ambiente-rol-r-45-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Con fecha 13 de agosto de 2026, admítase a trámite la Reclamación identificada como Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente. (Rol R-45-2026). Acceda al expediente electrónico de la causa en el siguiente link:",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/18-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 18/08/2026 y hora 11:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 18/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026 appeared first on T",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 01/09/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 01/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
+      "url": "https://3ta.cl/audiencias/20-08-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 20/08/2026 y hora 11:30 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 20/08/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026 appeared first on T",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026",
+      "url": "https://3ta.cl/audiencias/03-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-14-2026/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 03/09/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 03/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-14-2026 appeared first on Ter",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Oposición triunfa parcialmente: TC acota la invariabilidad tributaria e impugna toda la compensación por RCA",
+      "url": "https://www.latercera.com/nacional/noticia/oposicion-triunfa-parcialmente-en-el-tc-acota-invariabilidad-tributaria-e-impugna-toda-la-compensacion-por-rca/",
+      "fecha": "2026-08-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los senadores y diputados de izquierda quedaron conforme con el resultado. Los detalles de la sentencia, los argumentos y las votaciones de los ministros se dará a conocer en las próximas semanas cuando se despache el fallo.",
+      "keywords_detectadas": [
+        "RCA"
       ]
     }
   ]
