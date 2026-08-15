@@ -1,8 +1,8 @@
 {
-  "fecha_generacion": "2026-08-14T08:02:03.941879-04:00",
+  "fecha_generacion": "2026-08-15T07:33:32.920097-04:00",
   "total_fuentes": 69,
-  "fuentes_ok": 38,
-  "fuentes_vacias": 31,
+  "fuentes_ok": 33,
+  "fuentes_vacias": 36,
   "fuentes_error": 0,
   "registros": [
     {
@@ -10,8 +10,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 20,
-      "duracion_ms": 6832,
+      "n_articulos": 17,
+      "duracion_ms": 9246,
       "error": null
     },
     {
@@ -20,7 +20,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 16,
-      "duracion_ms": 12032,
+      "duracion_ms": 13990,
       "error": null
     },
     {
@@ -28,8 +28,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 99,
-      "duracion_ms": 1717,
+      "n_articulos": 98,
+      "duracion_ms": 1798,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 836,
+      "duracion_ms": 654,
       "error": null
     },
     {
@@ -47,7 +47,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 13,
-      "duracion_ms": 3474,
+      "duracion_ms": 4052,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 20,
-      "duracion_ms": 4270,
+      "duracion_ms": 4912,
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 19,
-      "duracion_ms": 3656,
+      "n_articulos": 24,
+      "duracion_ms": 3386,
       "error": null
     },
     {
@@ -73,8 +73,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 12,
-      "duracion_ms": 3973,
+      "n_articulos": 10,
+      "duracion_ms": 3918,
       "error": null
     },
     {
@@ -83,7 +83,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 1893,
+      "duracion_ms": 1497,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 4609,
+      "duracion_ms": 4746,
       "error": null
     },
     {
@@ -101,7 +101,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 12,
-      "duracion_ms": 1940,
+      "duracion_ms": 1745,
       "error": null
     },
     {
@@ -109,8 +109,8 @@
       "metodo_configurado": "scraping",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 9,
-      "duracion_ms": 2204,
+      "n_articulos": 10,
+      "duracion_ms": 2359,
       "error": null
     },
     {
@@ -119,7 +119,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 5101,
+      "duracion_ms": 4633,
       "error": null
     },
     {
@@ -127,8 +127,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 4486,
+      "n_articulos": 1,
+      "duracion_ms": 5349,
       "error": null
     },
     {
@@ -137,7 +137,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 29,
-      "duracion_ms": 766,
+      "duracion_ms": 878,
       "error": null
     },
     {
@@ -146,16 +146,16 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 335,
+      "duracion_ms": 385,
       "error": null
     },
     {
       "fuente": "ADN Prensa",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 3416,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 1570,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 2522,
+      "duracion_ms": 2527,
       "error": null
     },
     {
@@ -173,7 +173,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1725,
+      "duracion_ms": 1746,
       "error": null
     },
     {
@@ -181,8 +181,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 2688,
+      "n_articulos": 7,
+      "duracion_ms": 2416,
       "error": null
     },
     {
@@ -191,16 +191,16 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 12,
-      "duracion_ms": 1005,
+      "duracion_ms": 8536,
       "error": null
     },
     {
       "fuente": "Portal Minero",
       "metodo_configurado": "rss",
-      "metodo_usado": "rss",
+      "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 5,
-      "duracion_ms": 3187,
+      "n_articulos": 9,
+      "duracion_ms": 8629,
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 2,
-      "duracion_ms": 660,
+      "duracion_ms": 863,
       "error": null
     },
     {
@@ -218,7 +218,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1531,
+      "duracion_ms": 1938,
       "error": null
     },
     {
@@ -227,7 +227,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2661,
+      "duracion_ms": 2562,
       "error": null
     },
     {
@@ -235,17 +235,17 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 4,
-      "duracion_ms": 2456,
+      "n_articulos": 9,
+      "duracion_ms": 2095,
       "error": null
     },
     {
       "fuente": "País Circular",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 913,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 1185,
       "error": null
     },
     {
@@ -254,7 +254,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4509,
+      "duracion_ms": 4847,
       "error": null
     },
     {
@@ -263,25 +263,25 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2124,
+      "duracion_ms": 395,
       "error": null
     },
     {
       "fuente": "Codex Verde",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 4254,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 676,
       "error": null
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 4636,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 4637,
       "error": null
     },
     {
@@ -289,8 +289,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 6,
-      "duracion_ms": 1625,
+      "n_articulos": 4,
+      "duracion_ms": 607,
       "error": null
     },
     {
@@ -299,7 +299,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1491,
+      "duracion_ms": 986,
       "error": null
     },
     {
@@ -307,8 +307,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 5,
-      "duracion_ms": 4509,
+      "n_articulos": 6,
+      "duracion_ms": 4615,
       "error": null
     },
     {
@@ -317,16 +317,16 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 1,
-      "duracion_ms": 892,
+      "duracion_ms": 3877,
       "error": null
     },
     {
       "fuente": "Chile Sustentable",
       "metodo_configurado": "rss",
-      "metodo_usado": "rss",
-      "estado": "vacio",
-      "n_articulos": 0,
-      "duracion_ms": 289002,
+      "metodo_usado": "article-tags",
+      "estado": "ok",
+      "n_articulos": 2,
+      "duracion_ms": 2332,
       "error": null
     },
     {
@@ -335,7 +335,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 720,
+      "duracion_ms": 601,
       "error": null
     },
     {
@@ -344,7 +344,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2695,
+      "duracion_ms": 2233,
       "error": null
     },
     {
@@ -353,7 +353,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 17,
-      "duracion_ms": 11322,
+      "duracion_ms": 6536,
       "error": null
     },
     {
@@ -362,7 +362,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 388,
+      "duracion_ms": 295,
       "error": null
     },
     {
@@ -371,7 +371,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 8651,
+      "duracion_ms": 9354,
       "error": null
     },
     {
@@ -379,8 +379,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 5328,
+      "n_articulos": 1,
+      "duracion_ms": 5540,
       "error": null
     },
     {
@@ -389,7 +389,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 175,
+      "duracion_ms": 280,
       "error": null
     },
     {
@@ -397,8 +397,8 @@
       "metodo_configurado": "sitemap",
       "metodo_usado": "sitemap",
       "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 7151,
+      "n_articulos": 5,
+      "duracion_ms": 7154,
       "error": null
     },
     {
@@ -407,7 +407,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20623,
+      "duracion_ms": 20583,
       "error": null
     },
     {
@@ -416,7 +416,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 1,
-      "duracion_ms": 3331,
+      "duracion_ms": 3321,
       "error": null
     },
     {
@@ -425,16 +425,16 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 711,
+      "duracion_ms": 1010,
       "error": null
     },
     {
       "fuente": "Bienes Nacionales",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 6950,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 7663,
       "error": null
     },
     {
@@ -442,8 +442,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 2071,
+      "n_articulos": 1,
+      "duracion_ms": 2131,
       "error": null
     },
     {
@@ -452,7 +452,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 291516,
+      "duracion_ms": 291031,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20568,
+      "duracion_ms": 20566,
       "error": null
     },
     {
@@ -470,7 +470,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 720,
+      "duracion_ms": 672,
       "error": null
     },
     {
@@ -479,7 +479,7 @@
       "metodo_usado": "sitemap",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4284,
+      "duracion_ms": 4267,
       "error": null
     },
     {
@@ -488,7 +488,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 135,
+      "duracion_ms": 812,
       "error": null
     },
     {
@@ -497,25 +497,25 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 695,
+      "duracion_ms": 797,
       "error": null
     },
     {
       "fuente": "CONAF",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 7,
-      "duracion_ms": 2451,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 5417,
       "error": null
     },
     {
       "fuente": "Ministerio de Energía",
       "metodo_configurado": "scraping",
-      "metodo_usado": "article-tags",
-      "estado": "ok",
-      "n_articulos": 4,
-      "duracion_ms": 1077,
+      "metodo_usado": "scraping",
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 400,
       "error": null
     },
     {
@@ -524,7 +524,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4900,
+      "duracion_ms": 5086,
       "error": null
     },
     {
@@ -532,8 +532,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 6271,
+      "n_articulos": 3,
+      "duracion_ms": 5636,
       "error": null
     },
     {
@@ -542,7 +542,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1051,
+      "duracion_ms": 1045,
       "error": null
     },
     {
@@ -551,7 +551,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 3050,
+      "duracion_ms": 3077,
       "error": null
     },
     {
@@ -560,7 +560,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 655,
+      "duracion_ms": 427,
       "error": null
     },
     {
@@ -569,7 +569,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1772,
+      "duracion_ms": 1225,
       "error": null
     },
     {
@@ -578,7 +578,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4383,
+      "duracion_ms": 2544,
       "error": null
     },
     {
@@ -587,16 +587,16 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1661,
+      "duracion_ms": 1698,
       "error": null
     },
     {
       "fuente": "DGA - MOP",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "vacio",
-      "n_articulos": 0,
-      "duracion_ms": 3238,
+      "estado": "ok",
+      "n_articulos": 1,
+      "duracion_ms": 2967,
       "error": null
     },
     {
@@ -604,8 +604,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 4557,
+      "n_articulos": 5,
+      "duracion_ms": 8681,
       "error": null
     },
     {
@@ -614,7 +614,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 3252,
+      "duracion_ms": 4492,
       "error": null
     },
     {
@@ -623,7 +623,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 7403,
+      "duracion_ms": 7866,
       "error": null
     }
   ]
