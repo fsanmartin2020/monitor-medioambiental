@@ -1,213 +1,85 @@
 {
-  "fecha_actualizacion": "2026-08-15T07:33:32.908191-04:00",
-  "total": 26,
+  "fecha_actualizacion": "2026-08-16T07:31:08.314553-04:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "La Charca de Pegalajar (Jaén) recupera la vida tras años de sequía",
-      "url": "https://efeverde.com/charca-pegalajar-jaen-recupera-vida-anos-sequia/",
+      "titular": "La COP de desertificación da el pistoletazo de salida a un fin de año de negociaciones ambientales",
+      "url": "https://efeverde.com/cop-desertificacion-negociaciones-ambientales/",
+      "fecha": "2026-08-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Controlado tres semanas después el incendio de Burgohondo (Ávila), el mayor de España",
+      "url": "https://efeverde.com/controlado-incendio-burgohondo-avila-mayor-espana/",
       "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un terremoto de magnitud 5 sacude Granada y causa daños materiales",
-      "url": "https://efeverde.com/terremoto-de-magnitud-5-sacude-granada-danos-materiales/",
+      "titular": "Trasladan a 30 grandes felinos desde Argentina a santuarios en Estados Unidos y Sudáfrica",
+      "url": "https://efeverde.com/trasladan-grandes-felinos-santuarios-estados-unidos-sudafrica/",
       "fecha": "2026-08-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "¿Qué tan factible es que Rusia entregue a Bashar al Assad para que sea ejecutado en Siria?",
-      "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/08/15/que-tan-factible-es-que-rusia-entregue-a-bashar-al-asad-para-que-sea-ejecutado-en-siria.shtml",
-      "fecha": "2026-08-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Empresariado pide analizar mecanismos para compensar las anulaciones de norma RCA",
-      "url": "https://www.df.cl/senal-df/el-deal/empresariado-pide-analizar-mecanismos-para-compensar-las-anulaciones-de-rca",
-      "fecha": "2026-08-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El eucalipto, factor clave en la virulencia y propagación del incendio de Niebla (Huelva)",
-      "url": "https://efeverde.com/eucalipto-factor-clave-incendio-niebla-huelva/",
-      "fecha": "2026-08-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La España altamente presionada. Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
-      "url": "https://efeverde.com/la-espana-altamente-presionada-maria-galvez-del-castillo-luna/",
-      "fecha": "2026-08-14",
+      "titular": "Castilla y León, Galicia y Extremadura recuerdan con inquietud los fuegos de hace un año",
+      "url": "https://efeverde.com/castilla-leon-galicia-extremadura-recuerdan-incendios-2025/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Triunfo ambiental contra megarreforma: TC rechaza retribución a proyectos dañinos y salmoneras sin evaluación",
-      "url": "https://www.terram.cl/el-desconcierto-triunfo-ambiental-contra-megarreforma-tc-rechaza-retribucion-a-proyectos-daninos-y-salmoneras-sin-evaluacion/",
-      "fecha": "2026-08-14",
+      "fuente": "EFE Verde",
+      "titular": "¿Sabes qué hacer en caso de terremoto?",
+      "url": "https://efeverde.com/sabes-que-hacer-en-caso-de-terremoto/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[Mongabay] Descartes ilegales: cámaras revelan operaciones prohibidas en la pesca industrial chilena",
-      "url": "https://www.terram.cl/mongabay-descartes-ilegales-camaras-revelan-operaciones-prohibidas-en-la-pesca-industrial-chilena/",
-      "fecha": "2026-08-14",
+      "fuente": "EFE Verde",
+      "titular": "El fuego en Riglos (Huesca) supera las 15.000 hectáreas mientras frenan el avance en Niebla (Huelva)",
+      "url": "https://efeverde.com/incendios-forestales-espana-sabado-15-agosto-2026/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[InduAmbiente] Plan de descontaminación del Lago Villarrica entró en vigencia: reducir el fósforo es su objetivo central",
-      "url": "https://www.terram.cl/induambiente-plan-de-descontaminacion-del-lago-villarrica-entro-en-vigencia-reducir-el-fosforo-es-su-objetivo-central/",
-      "fecha": "2026-08-14",
+      "fuente": "EFE Verde",
+      "titular": "El terremoto de Granada actúa como una serie sísmica e irá decreciendo, según experta",
+      "url": "https://efeverde.com/terremoto-granada-actua-serie-sismica-ira-decreciendo/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Quehadecierto] El hallazgo en el desierto de Atacama que podría ayudar a degradar uno de los plásticos más usados",
-      "url": "https://www.terram.cl/el-quehadecierto-el-hallazgo-en-el-desierto-de-atacama-que-podria-ayudar-a-degradar-uno-de-los-plasticos-mas-usados/",
-      "fecha": "2026-08-14",
+      "fuente": "CONAF",
+      "titular": "Parque Nacional Vicente Pérez Rosales conmemora 100 años como símbolo de la conservación en Chile",
+      "url": "https://www.conaf.cl/parque-nacional-vicente-perez-rosales-conmemora-100-anos-como-simbolo-de-la-conservacion-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-vicente-perez-rosales-conmemora-100-anos-como-simbolo-de-la-conservacion-en-chile",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Martunino] CONAF revela el tesoro natural de Juan Fernández: libro rescata 50 años de conservación de su flora única",
-      "url": "https://www.terram.cl/el-martunino-conaf-revela-el-tesoro-natural-de-juan-fernandez-libro-rescata-50-anos-de-conservacion-de-su-flora-unica/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Nombrada en honor al niño que la encontró: describen nueva especie de tarántula endémica en la Región de Valparaíso",
-      "url": "https://www.terram.cl/ladera-sur-nombrada-en-honor-al-nino-que-la-encontro-describen-nueva-especie-de-tarantula-endemica-en-la-region-de-valparaiso/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Amicus curiae elabora argumentos cuestionando indemnizaciones, acceso a la justicia y medidas relacionadas con la salmonicultura",
-      "url": "https://www.fima.cl/2026/08/14/amicus-curiae-elabora-argumentos-cuestionando-indemnizaciones-acceso-a-la-justicia-y-medidas-relacionadas-con-la-salmonicultura/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Tribunal Constitucional acoge parcialmente requerimientos contra la megarreforma y declara inconstitucionales normas que debilitaban la protección ambiental",
-      "url": "https://chilesustentable.net/2026/08/tribunal-constitucional-acoge-parcialmente-requerimientos-contra-la-megarreforma-y-declara-inconstitucionales-normas-que-debilitaban-la-proteccion-ambiental/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Chile Sustentable",
-      "titular": "Tribunal Constitucional acoge parcialmente requerimientos contra la megarreforma y declara inconstitucionales normas que debilitaban la protección ambiental",
-      "url": "https://chilesustentable.net/2026/08/tribunal-constitucional-acoge-parcialmente-requerimientos-contra-la-megarreforma-y-declara-inconstitucionales-normas-que-debilitaban-la-proteccion-ambiental/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 13/08/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-14-08-2026/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA, DOH y CNR realizan catastro de canales afectados por frentes de mal tiempo",
-      "url": "https://dga.mop.gob.cl/dga-doh-y-cnr-realizan-catastro-de-canales-afectados-por-frentes-de-mal-tiempo/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "“Granja Educativa”: promueven educación ambiental y economía circular en Antofagasta con proyecto financiado por el FPA",
-      "url": "https://mma.gob.cl/granja-educativa-promueven-educacion-ambiental-y-economia-circular-en-antofagasta-con-proyecto-financiado-por-el-fpa/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi de Salud y Medio Ambiente lanzan plan de acción para gestión de riesgos en el lago Vichuquén",
-      "url": "https://mma.gob.cl/seremi-de-salud-y-medio-ambiente-lanzan-plan-de-accion-para-gestion-de-riesgos-en-el-lago-vichuquen/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente de Ñuble realizó su Cuenta Pública Participativa 2026",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-de-nuble-realizo-su-cuenta-publica-participativa-2025/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cuenta Pública de Medio Ambiente trazó una hoja de ruta para proteger Aysén y promover su desarrollo sostenible",
-      "url": "https://mma.gob.cl/cuenta-publica-de-medio-ambiente-trazo-una-hoja-de-ruta-para-proteger-aysen-y-promover-su-desarrollo-sostenible/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente realizó cuenta pública participativa en la comuna de San Javier",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-realizo-cuenta-publica-participativa-en-la-comuna-de-san-javier/",
-      "fecha": "2026-08-14",
+      "fuente": "La Tercera",
+      "titular": "Elecciones FA: Yeomans refuerza ideas de su candidatura y apunta a construir un partido que sea una alternativa a Kast",
+      "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "El Ciudadano",
-      "titular": "(VIDEO) Comunidades de Maipú y Pudahuel cuestionan aprobación de la Ruta 68/78 ante el Segundo Tribunal Ambiental",
-      "url": "https://www.elciudadano.com/reels/video-comunidades-de-maipu-y-pudahuel-cuestionan-aprobacion-de-la-ruta-68-78-ante-el-segundo-tribunal-ambiental/08/14/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Agricultores presentan reclamación contra la SMA por cumplimiento de sanción de clausura de proyecto minero",
-      "url": "https://www.mch.cl/agricultores-presentan-reclamacion-contra-la-sma-por-cumplimiento-de-sancion-de-clausura-de-proyecto-minero/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Megarreforma: TC declara inconstitucional indemnización por anulación de RCA",
-      "url": "https://www.revistaei.cl/megarreforma-tc-declara-inconstitucional-indemnizacion-por-anulacion-de-rca/",
-      "fecha": "2026-08-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA investiga rotura de tubería de relaves en la mina El Toqui",
-      "url": "https://www.nuevamineria.com/revista/sma-investiga-rotura-de-tuberia-de-relaves-en-la-mina-el-toqui/",
-      "fecha": "2026-08-14",
+      "titular": "¿Quién se hace responsable?: Denuncian que el Estado no cumple condena por daño ambiental de vertederos ilegales de ropa en Alto Hospicio",
+      "url": "https://www.elciudadano.com/actualidad/quien-se-hace-responsable-denuncian-que-el-estado-no-cumple-condena-por-dano-ambiental-de-vertederos-ilegales-de-ropa-en-alto-hospicio/08/15/",
+      "fecha": "2026-08-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
