@@ -1,29 +1,30 @@
 {
-  "fecha_generacion": "2026-08-16T07:31:08.327698-04:00",
+  "fecha_generacion": "2026-08-17T07:36:42.061358-04:00",
   "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Elecciones FA: Yeomans refuerza ideas de su candidatura y apunta a construir un partido que sea una alternativa a Kast",
-      "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
-      "fecha": "2026-08-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La diputada, que encabezada la lista Unidad para Avanzar, también destacó las reflexiones recientes del expresidente Boric. Además de la directiva nacional, este sábado y domingo los militantes de la colectividad elegirán al comité central y a las di",
+      "fuente": "Diario Constitucional",
+      "titular": "Planta de áridos debe ingresar íntegramente al SEIA por conexión entre sus actividades, resuelve Corte Suprema",
+      "url": "https://www.diarioconstitucional.cl/2026/08/17/planta-de-aridos-debe-ingresar-integramente-al-seia-por-conexion-entre-sus-actividades-resuelve-corte-suprema/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "SEA"
+        "Corte Suprema",
+        "SEIA"
       ]
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "¿Quién se hace responsable?: Denuncian que el Estado no cumple condena por daño ambiental de vertederos ilegales de ropa en Alto Hospicio",
-      "url": "https://www.elciudadano.com/actualidad/quien-se-hace-responsable-denuncian-que-el-estado-no-cumple-condena-por-dano-ambiental-de-vertederos-ilegales-de-ropa-en-alto-hospicio/08/15/",
-      "fecha": "2026-08-15",
+      "fuente": "La Tercera",
+      "titular": "Cristiano Ronaldo: “Este probablemente sea mi último año en el fútbol”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-ronaldo-este-probablemente-sea-mi-ultimo-ano-en-el-futbol/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano Alto Hospicio: a un año de la REP textil y con una condena al Estado, ¿quién se hace responsable? Dos procesos que avanzan en paralelo definen hoy quién asume el costo ambiental, social y sanitario que recibe la Región de Tarapacá por el",
+      "extracto": "Cristiano Ronaldo le puso fecha a su retiro y aseguró que podría colgar los botines cuando finalice la actual temporada. \"Tengo mi futuro totalmente planeado\", indicó.",
       "keywords_detectadas": [
-        "daño ambiental"
+        "SEA"
       ]
     }
   ]

@@ -1,85 +1,125 @@
 {
-  "fecha_actualizacion": "2026-08-16T07:31:08.314553-04:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-08-17T07:36:42.047811-04:00",
+  "total": 15,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Felipe Massardo, Seremi del Medio Ambiente del Maule: “Hay que cambiar la forma en que nos relacionamos con el lago Vichuquén”",
+      "url": "https://www.paiscircular.cl/agua/felipe-massardo-seremi-del-medio-ambiente-del-maule-hay-que-cambiar-la-forma-en-que-nos-relacionamos-con-el-lago-vichuquen/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "La COP de desertificación da el pistoletazo de salida a un fin de año de negociaciones ambientales",
-      "url": "https://efeverde.com/cop-desertificacion-negociaciones-ambientales/",
+      "titular": "Desde Países Bajos a Daimiel: reconstruyen el viaje de una espátula gracias al radiomarcaje",
+      "url": "https://efeverde.com/paises-bajos-daimiel-reconstruyen-viaje-espatula/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Desarrollan una IA capaz de predecir los incendios más peligrosos con hasta 16 días de antelación",
+      "url": "https://efeverde.com/desarrollan-una-ia-capaz-de-predecir-los-incendios-mas-peligrosos-con-hasta-16-dias-de-antelacion/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Mongolia inaugura la COP17 de desertificación y pide pasar «de las palabras a la acción»",
+      "url": "https://efeverde.com/mongolia-inaugura-cop17-desertificacion/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El fuego de Peñas de Riglos (Huesca) sigue activo tras una semana. Deja un efectivo de la UME muerto y 17.500 hectáreas quemadas",
+      "url": "https://efeverde.com/el-fuego-de-penas-de-riglos-huesca-sigue-activo-tras-una-semana-deja-un-efectivo-de-la-ume-muerto-y-17-500-hectareas-quemadas/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Natalia Rodríguez, la voz de los cetáceos contra el ruido de los barcos en el Estrecho: «Es bastante perjudicial»",
+      "url": "https://efeverde.com/natalia-rodriguez-cetaceos-ruido-barcos-estrecho/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Planta de áridos debe ingresar íntegramente al SEIA por conexión entre sus actividades, resuelve Corte Suprema",
+      "url": "https://www.diarioconstitucional.cl/2026/08/17/planta-de-aridos-debe-ingresar-integramente-al-seia-por-conexion-entre-sus-actividades-resuelve-corte-suprema/",
+      "fecha": "2026-08-17",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Rehabilitar la vivienda, un modo sostenible de ahorrar energía y aumentar el parque total",
+      "url": "https://efeverde.com/rehabilitar-vivienda-ahorrar-energia-aumentar-parque-total/",
       "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Controlado tres semanas después el incendio de Burgohondo (Ávila), el mayor de España",
-      "url": "https://efeverde.com/controlado-incendio-burgohondo-avila-mayor-espana/",
-      "fecha": "2026-08-15",
+      "titular": "Ecologistas Extremadura recurre la orden de prórroga de la Central Nuclear de Almaraz",
+      "url": "https://efeverde.com/ecologistas-extremadura-recurre-prorroga-central-nuclear-almaraz/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Trasladan a 30 grandes felinos desde Argentina a santuarios en Estados Unidos y Sudáfrica",
-      "url": "https://efeverde.com/trasladan-grandes-felinos-santuarios-estados-unidos-sudafrica/",
-      "fecha": "2026-08-15",
+      "titular": "Evolución favorable del incendio de Riglos (Huesca) que sumará mil efectivos, con cien bomberos franceses",
+      "url": "https://efeverde.com/evolucion-favorable-incendio-riglos-huesca/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Castilla y León, Galicia y Extremadura recuerdan con inquietud los fuegos de hace un año",
-      "url": "https://efeverde.com/castilla-leon-galicia-extremadura-recuerdan-incendios-2025/",
-      "fecha": "2026-08-15",
+      "titular": "Los vecinos de Manzanedo (León) limpian sus calles tras la riada: «El año pasado el fuego, ahora esto»",
+      "url": "https://efeverde.com/vecinos-manzanedo-leon-riada-muerte-dos-personas/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Sabes qué hacer en caso de terremoto?",
-      "url": "https://efeverde.com/sabes-que-hacer-en-caso-de-terremoto/",
-      "fecha": "2026-08-15",
+      "titular": "Granada siente las réplicas del terremoto, que pueden durar días, mientras revisa viviendas",
+      "url": "https://efeverde.com/granada-siente-replicas-terremoto-revisa-viviendas/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El fuego en Riglos (Huesca) supera las 15.000 hectáreas mientras frenan el avance en Niebla (Huelva)",
-      "url": "https://efeverde.com/incendios-forestales-espana-sabado-15-agosto-2026/",
-      "fecha": "2026-08-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El terremoto de Granada actúa como una serie sísmica e irá decreciendo, según experta",
-      "url": "https://efeverde.com/terremoto-granada-actua-serie-sismica-ira-decreciendo/",
-      "fecha": "2026-08-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Parque Nacional Vicente Pérez Rosales conmemora 100 años como símbolo de la conservación en Chile",
-      "url": "https://www.conaf.cl/parque-nacional-vicente-perez-rosales-conmemora-100-anos-como-simbolo-de-la-conservacion-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-vicente-perez-rosales-conmemora-100-anos-como-simbolo-de-la-conservacion-en-chile",
-      "fecha": "2026-08-15",
+      "titular": "Estabilizado el incendio de Niebla (Huelva) tras nueve días y 38.000 hectáreas afectadas",
+      "url": "https://efeverde.com/estabilizado-incendio-niebla-huelva/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Elecciones FA: Yeomans refuerza ideas de su candidatura y apunta a construir un partido que sea una alternativa a Kast",
-      "url": "https://www.latercera.com/politica/noticia/elecciones-fa-yeomans-refuerza-ideas-de-su-candidatura-y-apunta-a-construir-un-partido-que-sea-una-alternativa-a-kast/",
-      "fecha": "2026-08-15",
+      "titular": "Congreso votará este martes proyecto que busca prohibir las carreras de perros",
+      "url": "https://www.latercera.com/politica/noticia/congreso-votara-este-martes-proyecto-que-busca-prohibir-las-carreras-de-perros/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "¿Quién se hace responsable?: Denuncian que el Estado no cumple condena por daño ambiental de vertederos ilegales de ropa en Alto Hospicio",
-      "url": "https://www.elciudadano.com/actualidad/quien-se-hace-responsable-denuncian-que-el-estado-no-cumple-condena-por-dano-ambiental-de-vertederos-ilegales-de-ropa-en-alto-hospicio/08/15/",
-      "fecha": "2026-08-15",
+      "fuente": "La Tercera",
+      "titular": "Cristiano Ronaldo: “Este probablemente sea mi último año en el fútbol”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-ronaldo-este-probablemente-sea-mi-ultimo-ano-en-el-futbol/",
+      "fecha": "2026-08-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
