@@ -1,30 +1,29 @@
 {
-  "fecha_generacion": "2026-08-17T07:36:42.061358-04:00",
+  "fecha_generacion": "2026-08-18T07:37:12.259709-04:00",
   "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Planta de áridos debe ingresar íntegramente al SEIA por conexión entre sus actividades, resuelve Corte Suprema",
-      "url": "https://www.diarioconstitucional.cl/2026/08/17/planta-de-aridos-debe-ingresar-integramente-al-seia-por-conexion-entre-sus-actividades-resuelve-corte-suprema/",
+      "fuente": "Codex Verde",
+      "titular": "Residuos textiles: startup chilena desarrolla plataforma para digitalizar el cumplimiento de la Ley REP",
+      "url": "https://codexverde.cl/residuos-textiles-startup-chilena-desarrolla-plataforma-para-digitalizar-el-cumplimiento-de-la-ley-rep/",
       "fecha": "2026-08-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Chile genera más de 572 mil toneladas de residuos textiles al año, equivalentes al 7% de los residuos sólidos urbanos del país. A esto se suma un consumo promedio de 32 kilos de ropa por persona, mientras el país se posiciona entre los principales im",
       "keywords_detectadas": [
-        "Corte Suprema",
-        "SEIA"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Cristiano Ronaldo: “Este probablemente sea mi último año en el fútbol”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/cristiano-ronaldo-este-probablemente-sea-mi-ultimo-ano-en-el-futbol/",
-      "fecha": "2026-08-16",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "AustriaEnergy ingresa al SEIA proyecto eólico con almacenamiento BESS en la Región de Los Lagos",
+      "url": "https://www.revistaei.cl/austriaenergy-ingresa-al-seia-proyecto-eolico-con-almacenamiento-bess-en-la-region-de-los-lagos/",
+      "fecha": "2026-08-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Cristiano Ronaldo le puso fecha a su retiro y aseguró que podría colgar los botines cuando finalice la actual temporada. \"Tengo mi futuro totalmente planeado\", indicó.",
+      "extracto": "La iniciativa contempla una inversión estimada de US$150 millones y una vida útil de 37 años. La entrada AustriaEnergy ingresa al SEIA proyecto eólico con almacenamiento BESS en la Región de Los Lagos se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
       ]
     }
   ]
