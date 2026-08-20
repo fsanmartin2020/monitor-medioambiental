@@ -1,29 +1,41 @@
 {
-  "fecha_generacion": "2026-08-19T07:42:27.052788-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-08-20T07:42:37.723748-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Junta de Vecinos Torobayo con Director Ejecutivo del Servicio de Evaluación Ambiental». Rol: R-38-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-junta-de-vecinos-torobayo-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-38-2026/",
-      "fecha": "2026-08-18",
+      "fuente": "País Circular",
+      "titular": "La ruta de la ropa usada en Chile: Importación, comercialización y desafíos en el marco de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/la-ruta-de-la-ropa-usada-en-chile-importacion-comercializacion-y-desafios-en-el-marco-de-la-ley-rep/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con fecha 18 de agosto de 2026, admítase a trámite la Reclamación identificada como Junta de Vecinos Torobayo con Director Ejecutivo del Servicio de Evaluación Ambiental. (Rol R-38-2026). Acceda al expediente electrónico de la causa en el siguiente l",
+      "extracto": "El comercio de los textiles de segunda mano va en creciente aumento, duplicando su volumen desde el 2006 hasta el 2023. Esta es una de las conclusiones del informe “Chile en el circuito global de la ropa usada: Importación y comercialización del text",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «María Isabel Castro Guerra y otro con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-47-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-maria-isabel-castro-guerra-y-otro-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-47-2026/",
-      "fecha": "2026-08-18",
+      "fuente": "BioBioChile",
+      "titular": "SEA recomienda aprobar proyecto inmobiliario ligado a familia Piñera a orillas de Lago Ranco",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/08/20/sea-recomienda-aprobar-proyecto-inmobiliario-ligado-a-familia-pinera-a-orillas-de-lago-ranco.shtml",
+      "fecha": "2026-08-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Reacciones a la aprobación del proyecto que prohíbe y sanciona carreras de galgos: «Explotación disfrazada de espectáculo”",
+      "url": "https://codexverde.cl/reacciones-a-la-aprobacion-del-proyecto-que-prohibe-y-sanciona-carreras-de-galgos-explotacion-disfrazada-de-espectaculo/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con fecha 18 de agosto de 2026, admítase a trámite la Reclamación identificada como María Isabel Castro Guerra y otro con Dirección Ejecutiva del Servicio de Evaluación Ambiental. (Rol R-47-2026). Acceda al expediente electrónico de la causa en el si",
+      "extracto": "La Cámara de Diputados aprobó esta tarde en general, por 80 votos a favor, 41 en contra y 7 abstenciones, el proyecto de ley que prohíbe las carreras de galgos en todo el país, con el fin de proteger a los perros de esta raza de los abusos a los que ",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "sanciona"
       ]
     }
   ]

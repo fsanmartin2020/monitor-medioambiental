@@ -1,277 +1,309 @@
 {
-  "fecha_actualizacion": "2026-08-19T07:42:27.037630-04:00",
-  "total": 34,
+  "fecha_actualizacion": "2026-08-20T07:42:37.709489-04:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "10 mejores casinos online en Chile con CuentaRUT para 2026",
-      "url": "https://www.paiscircular.cl/pulse/casino-online-chile-cuenta-rut/",
-      "fecha": "2026-08-19",
+      "titular": "La ruta de la ropa usada en Chile: Importación, comercialización y desafíos en el marco de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/la-ruta-de-la-ropa-usada-en-chile-importacion-comercializacion-y-desafios-en-el-marco-de-la-ley-rep/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Beneficio-costo pasó de 1,2 a 0,64: ¿qué miden (y qué dejan fuera) los análisis económicos del decreto de pilas y aparatos eléctricos y electrónicos?",
-      "url": "https://www.paiscircular.cl/economia-circular/beneficio-costo-paso-de-12-a-064-que-miden-y-que-dejan-fuera-los-analisis-economicos-del-decreto-de-pilas-y-aparatos-electricos-y-electronicos/",
-      "fecha": "2026-08-19",
+      "titular": "Pago rechazado con CuentaRUT: cómo identificar dónde falló",
+      "url": "https://www.paiscircular.cl/pulse/pago-rechazado-cuentarut-casino-online/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Consejo de Ministros aprueba reforzar protección de la palma chilena y otras especies amenazadas contra el comercio internacional",
-      "url": "https://www.chiledesarrollosustentable.cl/consejo-de-ministros-aprueba-reforzar-proteccion-de-la-palma-chilena-y-otras-especies-amenazadas-contra-el-comercio-internacional/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-de-ministros-aprueba-reforzar-proteccion-de-la-palma-chilena-y-otras-especies-amenazadas-contra-el-comercio-internacional",
+      "titular": "Parque Industrial de Lautaro lidera Acuerdo de Producción Limpia para promover la simbiosis industrial",
+      "url": "https://www.chiledesarrollosustentable.cl/parque-industrial-de-lautaro-lidera-acuerdo-de-produccion-limpia-para-promover-la-simbiosis-industrial/?utm_source=rss&utm_medium=rss&utm_campaign=parque-industrial-de-lautaro-lidera-acuerdo-de-produccion-limpia-para-promover-la-simbiosis-industrial",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La pérdida de manglares se revierte con una ganancia neta de superficie del 0,33 % en 40 años",
+      "url": "https://efeverde.com/la-perdida-de-manglares-se-revierte-con-una-ganancia-neta-de-superficie-del-033-en-40-anos/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Asturias autoriza la caza de 67 lobos en su territorio para el control de poblaciones",
+      "url": "https://efeverde.com/asturias-autoriza-la-caza-de-67-lobos-en-su-territorio-para-el-control-de-poblaciones/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las mascotas, otras supervivientes del terremoto de Colombia que buscan volver a casa",
+      "url": "https://efeverde.com/mascotas-supervivientes-terremoto-colombia/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Fiscalía investiga a ediles de Carboneras (Almería) por el bloqueo de El Algarrobico",
+      "url": "https://efeverde.com/fiscalia-investiga-ediles-carboneras-bloqueo-el-algarrobico/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Controlado el incendio de Niebla (Huelva) y estabilizado el de Riglos (Huesca)",
+      "url": "https://efeverde.com/controlado-incendio-niebla-huelva-estabilizado-riglos-huesca/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios quemarán a finales de siglo en Europa hasta el triple de superficie actual sin acción climática y gestión",
+      "url": "https://efeverde.com/incendios-quemaran-finales-siglo-europa-hasta-triple-superficie-actual-sin-accion-climatica-gestion/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Avistan una nutria en el río Bronx, en  Nueva York, por primera  vez en casi un siglo",
+      "url": "https://efeverde.com/avistan-una-nutria-en-el-rio-bronx-en-nueva-york-por-primera-vez-en-casi-un-siglo/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Seis terremotos, uno de intensidad 3,4, vuelven a hacer temblar la madrugada en Granada",
+      "url": "https://efeverde.com/seis-terremotos-uno-de-intensidad-34-vuelven-a-hacer-temblar-la-madrugada-en-granada/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "SEA recomienda aprobar proyecto inmobiliario ligado a familia Piñera a orillas de Lago Ranco",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/08/20/sea-recomienda-aprobar-proyecto-inmobiliario-ligado-a-familia-pinera-a-orillas-de-lago-ranco.shtml",
+      "fecha": "2026-08-20",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Gobierno designa al abogado Emanuel Ibarra como nuevo Superintendente del Medio Ambiente",
+      "url": "https://www.paiscircular.cl/medio-ambiente/gobierno-designa-al-abogado-emanuel-ibarra-como-nuevo-superintendente-del-medio-ambiente/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Julio cierra sin episodios críticos de contaminación por primera vez en la RM",
+      "url": "https://codexverde.cl/julio-cierra-sin-episodios-criticos-de-contaminacion-por-primera-vez-en-la-rm/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Reacciones a la aprobación del proyecto que prohíbe y sanciona carreras de galgos: «Explotación disfrazada de espectáculo”",
+      "url": "https://codexverde.cl/reacciones-a-la-aprobacion-del-proyecto-que-prohibe-y-sanciona-carreras-de-galgos-explotacion-disfrazada-de-espectaculo/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "El Niño: tormentas, olas de frío y efectos en especies marinas ya se sienten en Chile, Perú, Argentina y Ecuador (Mongabay)",
+      "url": "https://www.cr2.cl/el-nino-tormentas-olas-de-frio-y-efectos-en-especies-marinas-ya-se-sienten-en-chile-peru-argentina-y-ecuador-mongabay/",
       "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nuevos frentes en Extremadura y Galicia, mientras mejoran los fuegos de Huesca y Huelva",
-      "url": "https://efeverde.com/frentes-activos-en-extremadura-y-galicia-mientras-mejoran-los-fuegos-de-huesca-y-huelva/",
+      "titular": "Buscan a un león en la sierra de Toledo con un helicóptero y drones tras recibir un aviso",
+      "url": "https://efeverde.com/buscan-leon-sierra-toledo/",
       "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las fotolineras despegan en España para aprovechar el potencial renovable en las recargas",
-      "url": "https://efeverde.com/fotolineras-despegan-espana-renovables-coche-electrico/",
+      "titular": "Francia registró 1.243 muertes más de lo normal durante la ola de calor del 3 al 22 de julio",
+      "url": "https://efeverde.com/francia-muertos-ola-calor-julio/",
       "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El calentamiento del agua impulsa la expansión de la ostra invasora «Pictada radiata» en el Mediterráneo occidental",
-      "url": "https://efeverde.com/el-calentamiento-del-agua-impulsa-la-expansion-de-la-ostra-invasora-pictada-radiata-en-el-mediterraneo-occidental/",
+      "titular": "Bomba de tiempo. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/bomba-de-tiempo-por-victor-solis-visoor/",
       "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los pueblos amazónicos alertan sobre graves problemas derivados del extractivismo",
-      "url": "https://efeverde.com/pueblos-amazonicos-alertan-extractivismo/",
+      "titular": "Las larvas de atún rojo, vulnerables al calentamiento del Mediterráneo",
+      "url": "https://efeverde.com/larvas-atun-rojo-vulnerables-calentamiento-mediterraneo/",
       "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Europa, ante un nuevo enemigo: la sequía no será una extraña en próximos veranos",
-      "url": "https://efeverde.com/europa-ante-nuevo-enemigo-sequia-verano/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Frontera Verde y Azul: Mejor la naturaleza que las alambradas. Por Leopoldo Lindo (think tank The World in 2050)",
-      "url": "https://efeverde.com/frontera-mejor-naturaleza-alambradas-leopoldo-lindo/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio en Pinofranqueado (Cáceres) deja ya 1.600 hectáreas afectadas y unos 700 evacuados",
-      "url": "https://efeverde.com/el-incendio-en-pinofranqueado-caceres-deja-ya-1-600-hectareas-afectadas-y-unos-700-evacuados/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Pensilvania impone «límites estrictos» a los centros de datos de IA ante elevado consumo de elecricidad y agua",
-      "url": "https://efeverde.com/pensilvania-impone-limites-estrictos-a-los-centros-de-datos-de-ia-ante-elevado-consumo-de-elecricidad-y-agua/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Granada sigue temblando. Registra seis nuevos terremotos",
-      "url": "https://efeverde.com/granada-sigue-temblando-registra-seis-nuevos-terremotos/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los bosques del Líbano también sufren el fuego israelí",
-      "url": "https://efeverde.com/los-bosques-del-libano-tambien-sufren-el-fuego-israeli/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La costa española, expuesta a unas olas de calor marinas cada vez más habituales por el cambio climático",
-      "url": "https://efeverde.com/costa-espanola-expuesta-olas-calor-marinas-cambio-climatico/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Fuera de la CSRD, pero no fuera del mercado: el nuevo examen ESG de las pymes. Por Rut Ballesteros (socia fundadora de Cavala)",
-      "url": "https://efeverde.com/fuera-csrd-nuevo-examen-esg-pymes-rut-ballesteros-socia-fundadora-de-cavala/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Retrasan los realojos en Huesca pese a la evolución favorable del incendio de Riglos",
-      "url": "https://efeverde.com/retrasan-realojos-incendio-huesca/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Una expedición investiga residuos radiactivos vertidos al mar cerca de Galicia en los años 40",
-      "url": "https://efeverde.com/residuos-radiactivos-vertidos-mar-cerca-galicia/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Granada, una provincia acostumbrada a temblar: ¿por qué hay tanta actividad sísmica en esta zona de España?",
-      "url": "https://efeverde.com/por-que-hay-tanta-actividad-sismica-en-granada/",
-      "fecha": "2026-08-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Proyecto eléctrico que amenazaba la Ranita del Pehuenche se rechaza: Leonardo DiCaprio había levantado las alertas",
-      "url": "https://www.terram.cl/el-desconcierto-proyecto-electrico-que-amenazaba-la-ranita-del-pehuenche-se-rechaza-leonardo-dicaprio-habia-levantado-las-alertas/",
-      "fecha": "2026-08-18",
+      "titular": "[MMA] Chile avanza en transparencia del sector extractivo y abre diálogo sobre desafíos socioambientales",
+      "url": "https://www.terram.cl/mma-chile-avanza-en-transparencia-del-sector-extractivo-y-abre-dialogo-sobre-desafios-socioambientales/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Induambiente] Gobierno espera obtener US$10 millones de cooperación internacional para reforzar las áreas protegidas",
-      "url": "https://www.terram.cl/induambiente-gobierno-espera-obtener-us10-millones-de-cooperacion-internacional-para-reforzar-las-areas-protegidas/",
-      "fecha": "2026-08-18",
+      "titular": "[Mongabay] Cumbre mundial clave sobre desertificación: Latinoamérica llega a la COP17 entre sequías, El Niño y presión por producir alimentos",
+      "url": "https://www.terram.cl/mongabay-cumbre-mundial-clave-sobre-desertificacion-latinoamerica-llega-a-la-cop17-entre-sequias-el-nino-y-presion-por-producir-alimentos/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Mostrador] Ministerio del Medio Ambiente inicia proceso de revisión de la norma de calidad del aire para MP10",
-      "url": "https://www.terram.cl/el-mostrador-ministerio-del-medio-ambiente-inicia-proceso-de-revision-de-la-norma-de-calidad-del-aire-para-mp10/",
-      "fecha": "2026-08-18",
+      "titular": "[Pescare] La fiebre del Omega-3 agota en tiempo récord la cuota histórica de krill en la Antártida",
+      "url": "https://www.terram.cl/pescare-la-fiebre-del-omega-3-agota-en-tiempo-record-la-cuota-historica-de-krill-en-la-antartida/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[La Ligua Noticias] Denuncian afectación de bosque nativo en Cerro La Higuera: CONAF había constatado corta a tala rasa",
-      "url": "https://www.terram.cl/la-ligua-noticias-denuncian-afectacion-de-bosque-nativo-en-cerro-la-higuera-conaf-habia-constatado-corta-a-tala-rasa/",
-      "fecha": "2026-08-18",
+      "titular": "[Resumen.cl] Alerta en la pesca artesanal: Senado avanza en proyecto que reabre el arrastre para la Jibia en Biobío y Ñuble",
+      "url": "https://www.terram.cl/resumen-cl-alerta-en-la-pesca-artesanal-senado-avanza-en-proyecto-que-reabre-el-arrastre-para-la-jibia-en-biobio-y-nuble/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[MeteoRed] El Súper El Niño quebrará todos los récords este 2026: 95% de probabilidad de ocurrencia durante la primavera chilena",
-      "url": "https://www.terram.cl/el-super-el-nino-quebrara-todos-los-records-este-2026-95-de-probabilidad-de-ocurrencia-durante-la-primavera-chilena/",
-      "fecha": "2026-08-18",
+      "titular": "[El Mostrador] La científica chilena que llevará los cañones submarinos de Humboldt a National Geographic",
+      "url": "https://www.terram.cl/el-mostrador-la-cientifica-chilena-que-llevara-los-canones-submarinos-de-humboldt-a-national-geographic/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Cooperativa] Con apoyo de National Geographic: Fundación Fungi busca otorgar derechos legales al hongo Loyo",
-      "url": "https://www.terram.cl/cooperativa-con-apoyo-de-national-geographic-fundacion-fungi-busca-otorgar-derechos-legales-al-hongo-loyo/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Defender la defensa: Guía para prevenir y actuar frente a Acciones Judiciales Abusivas contra la Participación Pública (SLAPP)",
-      "url": "https://www.fima.cl/2026/08/18/defender-la-defensa-guia-para-prevenir-y-actuar-frente-a-acciones-judiciales-abusivas-contra-la-participacion-publica-slapp/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Junta de Vecinos Torobayo con Director Ejecutivo del Servicio de Evaluación Ambiental». Rol: R-38-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-junta-de-vecinos-torobayo-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-38-2026/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «María Isabel Castro Guerra y otro con Dirección Ejecutiva del Servicio de Evaluación Ambiental». Rol: R-47-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-maria-isabel-castro-guerra-y-otro-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-47-2026/",
-      "fecha": "2026-08-18",
+      "titular": "[Dialogue Earth] El bosque que nadie ve: el trabajo por salvar el esclerófilo chileno",
+      "url": "https://www.terram.cl/dialogue-earth-el-bosque-que-nadie-ve-el-trabajo-por-salvar-el-esclerofilo-chileno/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion interno externo para proveer el cargo de profesional con funciones de encargadoa del area del departamento de las personas a contrata asimilado a grado 14 de la e u s d",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-profesional-con-funciones-de-encargadoa-del-area-del-departamento-de-las-personas-a-contrata-asimilado-a-grado-14-de-la-e-u-s-d/",
-      "fecha": "2026-08-18",
+      "titular": "Cuenta publica participativa 2026",
+      "url": "https://www.sernapesca.cl/cuenta-publica-participativa-2026/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion interno externo para proveer el cargo de tecnico de apoyo administrativo al departamento de las personas regional escalafon tecnico a contrata asimilado a grado 18 e u s",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-tecnico-de-apoyo-administrativo-al-departamento-de-las-personas-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-18-e-u-s/",
-      "fecha": "2026-08-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Jefe a de departamento de gestion de programas de fiscalizacion pesquera grado 5 de la e u s direccion nacional region de valparaiso del servicio nacional de pesca y acuicultura",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/jefe-a-de-departamento-de-gestion-de-programas-de-fiscalizacion-pesquera-grado-5-de-la-e-u-s-direccion-nacional-region-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura/",
-      "fecha": "2026-08-18",
+      "titular": "Parques y reservas marinas",
+      "url": "https://www.sernapesca.cl/area-trabajo/parques-y-reservas-marinas/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "CONAF",
-      "titular": "Buscan mejorar el almacenamiento de semillas recalcitrantes para asegurar la restauración del bosque nativo",
-      "url": "https://www.conaf.cl/buscan-mejorar-el-almacenamiento-de-semillas-recalcitrantes-para-asegurar-la-restauracion-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=buscan-mejorar-el-almacenamiento-de-semillas-recalcitrantes-para-asegurar-la-restauracion-del-bosque-nativo",
-      "fecha": "2026-08-18",
+      "titular": "CONAF Ñuble inicia postulaciones de 197 brigadistas para temporada de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-nuble-inicia-postulaciones-de-197-brigadistas-para-temporada-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-inicia-postulaciones-de-197-brigadistas-para-temporada-de-incendios-forestales",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF y LABOCAR refuerzan trabajo técnico para enfrentar temporada de incendios forestales en Ñuble",
-      "url": "https://www.conaf.cl/conaf-y-labocar-refuerzan-trabajo-tecnico-para-enfrentar-temporada-de-incendios-forestales-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-labocar-refuerzan-trabajo-tecnico-para-enfrentar-temporada-de-incendios-forestales-en-nuble",
-      "fecha": "2026-08-18",
+      "fuente": "SMA",
+      "titular": "Presidente de la República nombra a Emanuel Ibarra Soto como nuevo Superintendente del Medio Ambiente",
+      "url": "https://portal.sma.gob.cl/index.php/presidente-de-la-republica-nombra-a-emanuel-ibarra-soto-como-nuevo-superintendente-del-medio-ambiente/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Dirección General de Aguas, Ministerio de Medio Ambiente y FAO lanzan Kit de Acción Climática Municipal por el Agua",
+      "url": "https://dga.mop.gob.cl/direccion-general-de-aguas-ministerio-de-medio-ambiente-y-fao-lanzan-kit-de-accion-climatica-municipal-por-el-agua/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile avanza en transparencia del sector extractivo y abre diálogo sobre desafíos socioambientales",
-      "url": "https://mma.gob.cl/chile-avanza-en-transparencia-del-sector-extractivo-y-abre-dialogo-sobre-desafios-socioambientales/",
-      "fecha": "2026-08-18",
+      "titular": "Presidente de la República nombra a Emanuel Ibarra Soto como nuevo Superintendente del Medio Ambiente",
+      "url": "https://mma.gob.cl/presidente-de-la-republica-nombra-a-emanuel-ibarra-soto-como-nuevo-superintendente-del-medio-ambiente/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Inicia nuevo proceso de postulación al Programa Recambio de Calefactores 2026",
-      "url": "https://mma.gob.cl/inicia-nuevo-proceso-de-postulacion-al-programa-recambio-de-calefactores-2026/",
-      "fecha": "2026-08-18",
+      "titular": "Cambio climático: Punitaqui prepara 18 medidas para proteger su territorio y comunidades",
+      "url": "https://mma.gob.cl/cambio-climatico-punitaqui-prepara-18-medidas-para-proteger-su-territorio-y-comunidades/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Kit de Acción Climática por el Agua: lanzan herramienta para que municipios fortalezcan la adaptación hídrica frente al cambio climático",
+      "url": "https://mma.gob.cl/kit-de-accion-climatica-por-el-agua-lanzan-herramienta-para-que-municipios-fortalezcan-la-adaptacion-hidrica-frente-al-cambio-climatico/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Invitan a integrar el Consejo Consultivo Ambiental de la Región Metropolitana",
+      "url": "https://mma.gob.cl/invitan-a-integrar-el-consejo-consultivo-ambiental-de-la-region-metropolitana/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Por primera vez desde que existen registros: Julio cierra sin episodios críticos de contaminación del aire en la Región Metropolitana",
+      "url": "https://mma.gob.cl/por-primera-vez-desde-que-existen-registros-julio-cierra-sin-episodios-criticos-de-contaminacion-del-aire-en-la-region-metropolitana/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Realizan seminario para analizar los desafíos sobre la calidad del aire en La Unión",
+      "url": "https://mma.gob.cl/realizan-seminario-para-analizar-los-desafios-sobre-la-calidad-del-aire-en-la-union/",
+      "fecha": "2026-08-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "FPA fortalece a actores locales para prevenir incendios forestales y proteger la biodiversidad",
+      "url": "https://mma.gob.cl/fpa-fortalece-a-actores-locales-para-prevenir-incendios-forestales-y-proteger-la-biodiversidad/",
+      "fecha": "2026-08-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
