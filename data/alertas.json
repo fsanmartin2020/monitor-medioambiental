@@ -1,41 +1,17 @@
 {
-  "fecha_generacion": "2026-08-20T07:42:37.723748-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-08-21T07:38:08.063857-04:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "La ruta de la ropa usada en Chile: Importación, comercialización y desafíos en el marco de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/la-ruta-de-la-ropa-usada-en-chile-importacion-comercializacion-y-desafios-en-el-marco-de-la-ley-rep/",
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Corte Suprema absuelve a ejecutivos de salmonera acusados de contaminar el mar y tapar el daño con arena",
+      "url": "https://www.terram.cl/el-desconcierto-corte-suprema-absuelve-a-ejecutivos-de-salmonera-acusados-de-contaminar-el-mar-y-tapar-el-dano-con-arena/",
       "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El comercio de los textiles de segunda mano va en creciente aumento, duplicando su volumen desde el 2006 hasta el 2023. Esta es una de las conclusiones del informe “Chile en el circuito global de la ropa usada: Importación y comercialización del text",
+      "extracto": "El fallo absuelve a los directivos de la salmonera, que fue multada por la SMA por dejar sin oxígeno y sepultar el fondo marino dentro de un parque nacional. Fuente: El Desconcierto, 20 de agosto de 2026.",
       "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "SEA recomienda aprobar proyecto inmobiliario ligado a familia Piñera a orillas de Lago Ranco",
-      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/08/20/sea-recomienda-aprobar-proyecto-inmobiliario-ligado-a-familia-pinera-a-orillas-de-lago-ranco.shtml",
-      "fecha": "2026-08-20",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Reacciones a la aprobación del proyecto que prohíbe y sanciona carreras de galgos: «Explotación disfrazada de espectáculo”",
-      "url": "https://codexverde.cl/reacciones-a-la-aprobacion-del-proyecto-que-prohibe-y-sanciona-carreras-de-galgos-explotacion-disfrazada-de-espectaculo/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Cámara de Diputados aprobó esta tarde en general, por 80 votos a favor, 41 en contra y 7 abstenciones, el proyecto de ley que prohíbe las carreras de galgos en todo el país, con el fin de proteger a los perros de esta raza de los abusos a los que ",
-      "keywords_detectadas": [
-        "sanciona"
+        "Corte Suprema"
       ]
     }
   ]

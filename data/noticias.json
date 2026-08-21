@@ -1,309 +1,245 @@
 {
-  "fecha_actualizacion": "2026-08-20T07:42:37.709489-04:00",
-  "total": 38,
+  "fecha_actualizacion": "2026-08-21T07:38:08.049850-04:00",
+  "total": 30,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "La ruta de la ropa usada en Chile: Importación, comercialización y desafíos en el marco de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/la-ruta-de-la-ropa-usada-en-chile-importacion-comercializacion-y-desafios-en-el-marco-de-la-ley-rep/",
+      "titular": "MAO: la joyería ética y sustentable que certifica la trazabilidad de sus materiales",
+      "url": "https://www.paiscircular.cl/medio-ambiente/mao-la-joyeria-etica-y-sustentable-que-certifica-la-trazabilidad-de-sus-materiales/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Descubren dos nuevas especies de murciélagos en los bosques tropicales de Camerún",
+      "url": "https://efeverde.com/descubren-nuevas-especies-murcielagos-bosques-tropicales-camerun/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La lucha de un apicultor gazatí para salvar a sus abejas: «Se fueron; no hay árboles»",
+      "url": "https://efeverde.com/lucha-apicultor-gazati-salvar-abejas/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Registran 69 especies de pequeños mamíferos no voladores en zona protegida de Ecuador",
+      "url": "https://efeverde.com/registran-pequenos-mamiferos-zona-protegida-ecuador/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El calentamiento del Ártico atrae nuevas ballenas a Groenlandia y transforma su ecosistema",
+      "url": "https://efeverde.com/calentamiento-artico-atrae-nuevas-ballenas-groenlandia/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Terremoto de 7,2 sacude los Andes de Perú y deja tres heridos y daños en infraestructuras",
+      "url": "https://efeverde.com/terremoto-de-72-sacude-los-andes-de-peru-y-deja-tres-heridos-y-danos-en-infraestructuras/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La planta nuclear búlgara de Kozloduy reduce su potencia por el bajo nivel del Danubio",
+      "url": "https://efeverde.com/la-planta-nuclear-bulgara-de-kozloduy-reduce-su-potencia-por-el-bajo-nivel-del-danubio/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Canal de Panamá reducirá el tránsito de embarcaciones debido a la sequía provocada por El Niño",
+      "url": "https://efeverde.com/el-canal-de-panama-reducira-el-transito-de-embarcaciones-debido-a-la-sequia-provocada-por-el-nino/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Vivero de La Manga, un antiguo pulmón del Mar Menor amenazado por residuos mineros",
+      "url": "https://efeverde.com/el-vivero-de-la-manga-un-antiguo-pulmon-del-mar-menor-amenazado-por-residuos-mineros/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Seminario reunirá a científicos, parlamentarios y organizaciones sociales para abordar los riesgos de las sustancias tóxicas presentes en los plásticos",
+      "url": "https://www.paiscircular.cl/medio-ambiente/seminario-reunira-a-cientificos-parlamentarios-y-organizaciones-sociales-para-abordar-los-riesgos-de-las-sustancias-toxicas-presentes-en-los-plasticos/",
       "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Pago rechazado con CuentaRUT: cómo identificar dónde falló",
-      "url": "https://www.paiscircular.cl/pulse/pago-rechazado-cuentarut-casino-online/",
+      "titular": "Cuando el viento se lleva algo más que palabras",
+      "url": "https://www.paiscircular.cl/opinion/cuando-el-viento-se-lleva-algo-mas-que-palabras/",
       "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Parque Industrial de Lautaro lidera Acuerdo de Producción Limpia para promover la simbiosis industrial",
-      "url": "https://www.chiledesarrollosustentable.cl/parque-industrial-de-lautaro-lidera-acuerdo-de-produccion-limpia-para-promover-la-simbiosis-industrial/?utm_source=rss&utm_medium=rss&utm_campaign=parque-industrial-de-lautaro-lidera-acuerdo-de-produccion-limpia-para-promover-la-simbiosis-industrial",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La pérdida de manglares se revierte con una ganancia neta de superficie del 0,33 % en 40 años",
-      "url": "https://efeverde.com/la-perdida-de-manglares-se-revierte-con-una-ganancia-neta-de-superficie-del-033-en-40-anos/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Asturias autoriza la caza de 67 lobos en su territorio para el control de poblaciones",
-      "url": "https://efeverde.com/asturias-autoriza-la-caza-de-67-lobos-en-su-territorio-para-el-control-de-poblaciones/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las mascotas, otras supervivientes del terremoto de Colombia que buscan volver a casa",
-      "url": "https://efeverde.com/mascotas-supervivientes-terremoto-colombia/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Fiscalía investiga a ediles de Carboneras (Almería) por el bloqueo de El Algarrobico",
-      "url": "https://efeverde.com/fiscalia-investiga-ediles-carboneras-bloqueo-el-algarrobico/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Controlado el incendio de Niebla (Huelva) y estabilizado el de Riglos (Huesca)",
-      "url": "https://efeverde.com/controlado-incendio-niebla-huelva-estabilizado-riglos-huesca/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los incendios quemarán a finales de siglo en Europa hasta el triple de superficie actual sin acción climática y gestión",
-      "url": "https://efeverde.com/incendios-quemaran-finales-siglo-europa-hasta-triple-superficie-actual-sin-accion-climatica-gestion/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Avistan una nutria en el río Bronx, en  Nueva York, por primera  vez en casi un siglo",
-      "url": "https://efeverde.com/avistan-una-nutria-en-el-rio-bronx-en-nueva-york-por-primera-vez-en-casi-un-siglo/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Seis terremotos, uno de intensidad 3,4, vuelven a hacer temblar la madrugada en Granada",
-      "url": "https://efeverde.com/seis-terremotos-uno-de-intensidad-34-vuelven-a-hacer-temblar-la-madrugada-en-granada/",
-      "fecha": "2026-08-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "BioBioChile",
-      "titular": "SEA recomienda aprobar proyecto inmobiliario ligado a familia Piñera a orillas de Lago Ranco",
-      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/08/20/sea-recomienda-aprobar-proyecto-inmobiliario-ligado-a-familia-pinera-a-orillas-de-lago-ranco.shtml",
-      "fecha": "2026-08-20",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos"
     },
     {
       "fuente": "País Circular",
-      "titular": "Gobierno designa al abogado Emanuel Ibarra como nuevo Superintendente del Medio Ambiente",
-      "url": "https://www.paiscircular.cl/medio-ambiente/gobierno-designa-al-abogado-emanuel-ibarra-como-nuevo-superintendente-del-medio-ambiente/",
-      "fecha": "2026-08-19",
+      "titular": "US$1.000 millones impulsan la fusión como energía de bajas emisiones",
+      "url": "https://www.paiscircular.cl/tendencias/us1-000-millones-impulsan-la-fusion-como-energia-de-bajas-emisiones/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Julio cierra sin episodios críticos de contaminación por primera vez en la RM",
-      "url": "https://codexverde.cl/julio-cierra-sin-episodios-criticos-de-contaminacion-por-primera-vez-en-la-rm/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Reacciones a la aprobación del proyecto que prohíbe y sanciona carreras de galgos: «Explotación disfrazada de espectáculo”",
-      "url": "https://codexverde.cl/reacciones-a-la-aprobacion-del-proyecto-que-prohibe-y-sanciona-carreras-de-galgos-explotacion-disfrazada-de-espectaculo/",
-      "fecha": "2026-08-19",
+      "titular": "ACERA advierte que Chile aún no aprovecha todo su potencial de energías renovables",
+      "url": "https://codexverde.cl/acera-advierte-que-chile-aun-no-aprovecha-todo-su-potencial-de-energias-renovables/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "El Niño: tormentas, olas de frío y efectos en especies marinas ya se sienten en Chile, Perú, Argentina y Ecuador (Mongabay)",
-      "url": "https://www.cr2.cl/el-nino-tormentas-olas-de-frio-y-efectos-en-especies-marinas-ya-se-sienten-en-chile-peru-argentina-y-ecuador-mongabay/",
-      "fecha": "2026-08-19",
+      "titular": "Susana Ferreira: “El cambio climático es un gigantesco fallo de mercado”",
+      "url": "https://www.cr2.cl/susana-ferreira-el-cambio-climatico-es-un-gigantesco-fallo-de-mercado/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Buscan a un león en la sierra de Toledo con un helicóptero y drones tras recibir un aviso",
-      "url": "https://efeverde.com/buscan-leon-sierra-toledo/",
-      "fecha": "2026-08-19",
+      "titular": "¿Veneno o enfermedad? Una polémica envuelve la misteriosa muerte de 18 elefantes en Kenia",
+      "url": "https://efeverde.com/polemica-envuelve-misteriosa-muerte-elefantes-kenia/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Francia registró 1.243 muertes más de lo normal durante la ola de calor del 3 al 22 de julio",
-      "url": "https://efeverde.com/francia-muertos-ola-calor-julio/",
-      "fecha": "2026-08-19",
+      "titular": "Pueblos amazónicos buscan un plan para avanzar hacia territorios libres de extractivismo",
+      "url": "https://efeverde.com/pueblos-amazonicos-plan-avanzar-territorios-libres-extractivismo/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bomba de tiempo. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/bomba-de-tiempo-por-victor-solis-visoor/",
-      "fecha": "2026-08-19",
+      "titular": "Suspenden la búsqueda del supuesto león avistado en la Sierra de San Vicente (Toledo)",
+      "url": "https://efeverde.com/suspenden-busqueda-leon-avistado-sierra-toledo/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las larvas de atún rojo, vulnerables al calentamiento del Mediterráneo",
-      "url": "https://efeverde.com/larvas-atun-rojo-vulnerables-calentamiento-mediterraneo/",
-      "fecha": "2026-08-19",
+      "titular": "Mejora general de la situación de los incendios en Cáceres, Madrid, Huesca y Huelva",
+      "url": "https://efeverde.com/mejora-general-incendios-espana/",
+      "fecha": "2026-08-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Alemania estima que ya se han producido 14.000 muertes por calor este verano",
+      "url": "https://efeverde.com/alemania-14-000-muertes-calor-verano/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[MMA] Chile avanza en transparencia del sector extractivo y abre diálogo sobre desafíos socioambientales",
-      "url": "https://www.terram.cl/mma-chile-avanza-en-transparencia-del-sector-extractivo-y-abre-dialogo-sobre-desafios-socioambientales/",
-      "fecha": "2026-08-19",
+      "titular": "[El Desconcierto] Corte Suprema absuelve a ejecutivos de salmonera acusados de contaminar el mar y tapar el daño con arena",
+      "url": "https://www.terram.cl/el-desconcierto-corte-suprema-absuelve-a-ejecutivos-de-salmonera-acusados-de-contaminar-el-mar-y-tapar-el-dano-con-arena/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Mongabay] Cumbre mundial clave sobre desertificación: Latinoamérica llega a la COP17 entre sequías, El Niño y presión por producir alimentos",
-      "url": "https://www.terram.cl/mongabay-cumbre-mundial-clave-sobre-desertificacion-latinoamerica-llega-a-la-cop17-entre-sequias-el-nino-y-presion-por-producir-alimentos/",
-      "fecha": "2026-08-19",
+      "titular": "[El Mostrador] Contraloría alerta “insuficiente gobernanza ambiental” en crisis del Lago Vichuquén",
+      "url": "https://www.terram.cl/el-mostrador-contraloria-alerta-insuficiente-gobernanza-ambiental-en-crisis-del-lago-vichuquen/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Pescare] La fiebre del Omega-3 agota en tiempo récord la cuota histórica de krill en la Antártida",
-      "url": "https://www.terram.cl/pescare-la-fiebre-del-omega-3-agota-en-tiempo-record-la-cuota-historica-de-krill-en-la-antartida/",
-      "fecha": "2026-08-19",
+      "titular": "[InduAmbiente] Lanzan herramienta para que municipios fortalezcan la adaptación hídrica frente al cambio climático",
+      "url": "https://www.terram.cl/induambiente-lanzan-herramienta-para-que-municipios-fortalezcan-la-adaptacion-hidrica-frente-al-cambio-climatico/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Resumen.cl] Alerta en la pesca artesanal: Senado avanza en proyecto que reabre el arrastre para la Jibia en Biobío y Ñuble",
-      "url": "https://www.terram.cl/resumen-cl-alerta-en-la-pesca-artesanal-senado-avanza-en-proyecto-que-reabre-el-arrastre-para-la-jibia-en-biobio-y-nuble/",
-      "fecha": "2026-08-19",
+      "titular": "[BiobioChile] Confirman contaminación con aguas servidas en cinco pozos en el sector Santa Laura de Máfil",
+      "url": "https://www.terram.cl/biobiochile-confirman-contaminacion-con-aguas-servidas-en-cinco-pozos-en-el-sector-santa-laura-de-mafil/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Mostrador] La científica chilena que llevará los cañones submarinos de Humboldt a National Geographic",
-      "url": "https://www.terram.cl/el-mostrador-la-cientifica-chilena-que-llevara-los-canones-submarinos-de-humboldt-a-national-geographic/",
-      "fecha": "2026-08-19",
+      "titular": "[Mongabay] Intensas lluvias en Chile provocan aluviones, derrumbes y evacuaciones en el norte del país",
+      "url": "https://www.terram.cl/mongabay-intensas-lluvias-en-chile-provocan-aluviones-derrumbes-y-evacuaciones-en-el-norte-del-pais/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Dialogue Earth] El bosque que nadie ve: el trabajo por salvar el esclerófilo chileno",
-      "url": "https://www.terram.cl/dialogue-earth-el-bosque-que-nadie-ve-el-trabajo-por-salvar-el-esclerofilo-chileno/",
-      "fecha": "2026-08-19",
+      "titular": "[Diario Sostenible] Chile y Argentina fortalecen alianza para salvar a las ranitas de Darwin de la extinción",
+      "url": "https://www.terram.cl/diario-sostenible-chile-y-argentina-fortalecen-alianza-para-salvar-a-las-ranitas-de-darwin-de-la-extincion/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Cuenta publica participativa 2026",
-      "url": "https://www.sernapesca.cl/cuenta-publica-participativa-2026/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Parques y reservas marinas",
-      "url": "https://www.sernapesca.cl/area-trabajo/parques-y-reservas-marinas/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Ñuble inicia postulaciones de 197 brigadistas para temporada de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-nuble-inicia-postulaciones-de-197-brigadistas-para-temporada-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-inicia-postulaciones-de-197-brigadistas-para-temporada-de-incendios-forestales",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Presidente de la República nombra a Emanuel Ibarra Soto como nuevo Superintendente del Medio Ambiente",
-      "url": "https://portal.sma.gob.cl/index.php/presidente-de-la-republica-nombra-a-emanuel-ibarra-soto-como-nuevo-superintendente-del-medio-ambiente/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Dirección General de Aguas, Ministerio de Medio Ambiente y FAO lanzan Kit de Acción Climática Municipal por el Agua",
-      "url": "https://dga.mop.gob.cl/direccion-general-de-aguas-ministerio-de-medio-ambiente-y-fao-lanzan-kit-de-accion-climatica-municipal-por-el-agua/",
-      "fecha": "2026-08-19",
+      "titular": "La Araucanía constituye su primera Mesa Forestal Regional para impulsar la reactivación del sector",
+      "url": "https://www.conaf.cl/la-araucania-constituye-su-primera-mesa-forestal-regional-para-impulsar-la-reactivacion-del-sector/?utm_source=rss&utm_medium=rss&utm_campaign=la-araucania-constituye-su-primera-mesa-forestal-regional-para-impulsar-la-reactivacion-del-sector",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presidente de la República nombra a Emanuel Ibarra Soto como nuevo Superintendente del Medio Ambiente",
-      "url": "https://mma.gob.cl/presidente-de-la-republica-nombra-a-emanuel-ibarra-soto-como-nuevo-superintendente-del-medio-ambiente/",
-      "fecha": "2026-08-19",
+      "titular": "Medio Ambiente abre dos procesos para perfeccionar la implementación de la norma lumínica a petición de los municipios",
+      "url": "https://mma.gob.cl/medio-ambiente-abre-dos-procesos-para-perfeccionar-la-implementacion-de-la-norma-luminica-a-peticion-de-los-municipios/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cambio climático: Punitaqui prepara 18 medidas para proteger su territorio y comunidades",
-      "url": "https://mma.gob.cl/cambio-climatico-punitaqui-prepara-18-medidas-para-proteger-su-territorio-y-comunidades/",
-      "fecha": "2026-08-19",
+      "titular": "Ministerio del Medio Ambiente y SBAP coordinan trabajo para fortalecer la información cartográfica sobre biodiversidad",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-y-sbap-coordinan-trabajo-para-fortalecer-la-informacion-cartografica-sobre-biodiversidad/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Kit de Acción Climática por el Agua: lanzan herramienta para que municipios fortalezcan la adaptación hídrica frente al cambio climático",
-      "url": "https://mma.gob.cl/kit-de-accion-climatica-por-el-agua-lanzan-herramienta-para-que-municipios-fortalezcan-la-adaptacion-hidrica-frente-al-cambio-climatico/",
-      "fecha": "2026-08-19",
+      "titular": "Gobierno articula más de $23.826 millones para enfrentar emergencias climáticas en Atacama",
+      "url": "https://mma.gob.cl/gobierno-articula-mas-de-23-826-millones-para-enfrentar-emergencias-climaticas-en-atacama/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Invitan a integrar el Consejo Consultivo Ambiental de la Región Metropolitana",
-      "url": "https://mma.gob.cl/invitan-a-integrar-el-consejo-consultivo-ambiental-de-la-region-metropolitana/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Por primera vez desde que existen registros: Julio cierra sin episodios críticos de contaminación del aire en la Región Metropolitana",
-      "url": "https://mma.gob.cl/por-primera-vez-desde-que-existen-registros-julio-cierra-sin-episodios-criticos-de-contaminacion-del-aire-en-la-region-metropolitana/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Realizan seminario para analizar los desafíos sobre la calidad del aire en La Unión",
-      "url": "https://mma.gob.cl/realizan-seminario-para-analizar-los-desafios-sobre-la-calidad-del-aire-en-la-union/",
-      "fecha": "2026-08-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "FPA fortalece a actores locales para prevenir incendios forestales y proteger la biodiversidad",
-      "url": "https://mma.gob.cl/fpa-fortalece-a-actores-locales-para-prevenir-incendios-forestales-y-proteger-la-biodiversidad/",
-      "fecha": "2026-08-19",
+      "fuente": "Nueva Minería",
+      "titular": "Del reporte a la validación: cómo está cambiando la fiscalización ambiental",
+      "url": "https://www.nuevamineria.com/revista/del-reporte-a-la-validacion-como-esta-cambiando-la-fiscalizacion-ambiental/",
+      "fecha": "2026-08-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
