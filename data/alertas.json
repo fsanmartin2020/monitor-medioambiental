@@ -1,17 +1,42 @@
 {
-  "fecha_generacion": "2026-08-21T07:38:08.063857-04:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-08-22T07:33:45.643730-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Corte Suprema absuelve a ejecutivos de salmonera acusados de contaminar el mar y tapar el daño con arena",
-      "url": "https://www.terram.cl/el-desconcierto-corte-suprema-absuelve-a-ejecutivos-de-salmonera-acusados-de-contaminar-el-mar-y-tapar-el-dano-con-arena/",
-      "fecha": "2026-08-20",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Ilustre Municipalidad de Hualpén con Dirección Regional Servicio de Evaluación Ambiental del Bíobio». Rol: R-46-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-hualpen-con-direccion-regional-servicio-de-evaluacion-ambiental-del-biobio-rol-r-46-2026/",
+      "fecha": "2026-08-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El fallo absuelve a los directivos de la salmonera, que fue multada por la SMA por dejar sin oxígeno y sepultar el fondo marino dentro de un parque nacional. Fuente: El Desconcierto, 20 de agosto de 2026.",
+      "extracto": "Con fecha 21 de agosto de 2026, admítase a trámite la Reclamación identificada como Ilustre Municipalidad de Hualpén con Dirección Regional Servicio de Evaluación Ambiental del Bíobio. (Rol R-46-2026). Acceda al expediente electrónico de la causa en ",
       "keywords_detectadas": [
-        "Corte Suprema"
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA Tarapacá suspende evaluación de tres proyectos mineros por emergencia meteorológica en la región",
+      "url": "https://www.mch.cl/sea-tarapaca-suspende-evaluacion-de-tres-proyectos-mineros-por-emergencia-meteorologica-en-la-region/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La medida tendrá efecto hasta el primero de septiembre. La entrada SEA Tarapacá suspende evaluación de tres proyectos mineros por emergencia meteorológica en la región se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA Coquimbo realiza visita técnica sobre DIA para proyecto de modificación de parque híbrido",
+      "url": "https://www.revistaei.cl/sea-coquimbo-realiza-visita-tecnica-sobre-dia-para-proyecto-de-modificacion-de-parque-hibrido/",
+      "fecha": "2026-08-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En la actividad participó el director regional, Erwin Gajardo, representantes del titular y miembros de la comunidad. La entrada SEA Coquimbo realiza visita técnica sobre DIA para proyecto de modificación de parque híbrido se publicó primero en Revis",
+      "keywords_detectadas": [
+        "SEA",
+        "DIA"
       ]
     }
   ]
