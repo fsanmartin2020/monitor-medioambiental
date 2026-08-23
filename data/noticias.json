@@ -1,245 +1,93 @@
 {
-  "fecha_actualizacion": "2026-08-22T07:33:45.626078-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-08-23T07:32:36.699527-04:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Presidente Kast arremete nuevamente contra los humedales: «¿Vamos a tener uno de 1.500 hectáreas que nadie usa?»",
-      "url": "https://codexverde.cl/presidente-kast-arremete-nuevamente-contra-los-humedales-vamos-a-tener-uno-de-1-500-hectareas-que-nadie-usa/",
+      "fuente": "EFE Verde",
+      "titular": "Desarrollan una aplicación para que los ciudadanos alerten de la presencia de alga asiática invasora",
+      "url": "https://efeverde.com/desarrollan-un-aplicacion-para-que-los-ciudadanos-alerten-de-la-presencia-de-alga-asiatica-invasora/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Mata do Bussaco, el primer «bosque terapéutico» de la península ibérica está en Portugal",
+      "url": "https://efeverde.com/mata-do-bussaco-el-primer-bosque-terapeutico-de-la-peninsula-iberica-esta-en-portugal/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los 1.400 desguaces españoles se preparan para dar una segunda vida al plástico automotriz",
+      "url": "https://efeverde.com/los-1-400-desguaces-espanoles-se-preparan-para-dar-una-segunda-vida-al-plastico-automotriz/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un Cantábrico cada vez más ‘mediterráneo’ vive un verano de temperaturas récord",
+      "url": "https://efeverde.com/un-cantabrico-cada-vez-mas-mediterraneo-vive-un-verano-de-temperaturas-record/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un terremoto de magnitud 5,9 en el este de Japón sacude Tokio y deja múltiples heridos leves",
+      "url": "https://efeverde.com/un-terremoto-de-magnitud-59-en-el-este-de-japon-sacude-tokio-y-deja-multiples-heridos-leves/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Estabilizado el incendio forestal de Segorbe (Castellón) tras quemar 630 hectáreas",
+      "url": "https://efeverde.com/estabilizado-el-incendio-forestal-de-segorbe-castellon-tras-quemar-630-hectareas/",
+      "fecha": "2026-08-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Día Mundial del Agua 2026: donde fluye el agua, crece la igualdad",
+      "url": "https://www.chiledesarrollosustentable.cl/dia-mundial-del-agua-2026-donde-fluye-el-agua-crece-la-igualdad/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-del-agua-2026-donde-fluye-el-agua-crece-la-igualdad",
       "fecha": "2026-08-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Antonio Turiel: no hay transición energética, hay una «guerra» por los últimos recursos del planeta",
-      "url": "https://efeverde.com/antonio-turiel-no-hay-transicion-energetica-hay-una-guerra-por-los-ultimos-recursos-del-planeta/",
+      "titular": "Las lluvias torrenciales inundan calles y cámpins en Tarragona y dejan dos heridos graves",
+      "url": "https://efeverde.com/las-lluvias-torrenciales-inundan-calles-y-campins-en-tarragona-y-dejan-dos-heridos-graves/",
       "fecha": "2026-08-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Burnham enfrenta un dilema existencial con la exploración petrolera en el mar del Norte",
-      "url": "https://efeverde.com/burnham-enfrenta-un-dilema-existencial-con-la-exploracion-petrolera-en-el-mar-del-norte/",
+      "titular": "Cárcel para el administrador de una empresa por vertidos al Mar Menor",
+      "url": "https://efeverde.com/carcel-para-el-administrador-de-una-empresa-por-vertidos-al-mar-menor/",
       "fecha": "2026-08-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Extinguido el incendio de Niebla (Huelva) tras 15 días y 33.000 hectáreas quemadas",
-      "url": "https://efeverde.com/extinguido-el-incendio-de-niebla-huelva-tras-15-dias-y-33-000-hectareas-quemadas/",
+      "fuente": "La Tercera",
+      "titular": "Frente Amplio oficia a Contraloría y otros tres organismos por eventuales conflictos de interés de Jorge Quiroz",
+      "url": "https://www.latercera.com/politica/noticia/frente-amplio-oficia-a-contraloria-y-otros-tres-organismos-por-eventuales-conflictos-de-interes-de-jorge-quiroz/",
       "fecha": "2026-08-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Que los ganaderos participen en el diseño de las medidas de gestión y dar más ayudas, la receta para una convivencia sostenible con el lobo",
-      "url": "https://efeverde.com/sumar-a-los-ganaderos-en-el-diseno-de-las-medidas-de-gestion-y-mas-ayudas-la-receta-para-una-convivencia-sostenible-con-el-lobo/",
+      "fuente": "ADN Prensa",
+      "titular": "Bancadas de oposición anuncian Comisión Investigadora para fiscalizar conflictos de interés del ministro de Hacienda",
+      "url": "https://adprensa.cl/bancadas-de-oposicion-anuncian-comision-investigadora-para-fiscalizar-conflictos-de-interes-del-ministro-de-hacienda-2/",
       "fecha": "2026-08-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Entre calles y quebradas, los cocodrilos desafían el avance de Ciudad en Panamá",
-      "url": "https://efeverde.com/cocodrilos-desafian-avance-ciudad-panama/",
-      "fecha": "2026-08-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "De fiscal a superintendente: la carrera de Emanuel Ibarra en la institucionalidad ambiental",
-      "url": "https://codexverde.cl/de-fiscal-a-superintendente-la-carrera-de-emanuel-ibarra-en-la-institucionalidad-ambiental/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El ambiente y la especie de mosquito determinan la circulación de la malaria aviar",
-      "url": "https://efeverde.com/ambiente-especie-mosquito-determinan-circulacion-malaria-aviar/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Vuelven los evacuados de Huesca y Cáceres, mientras preocupa el incendio en Castellón",
-      "url": "https://efeverde.com/incendios-forestales-espana-21-agosto-2026/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Vallados virtuales en Galicia: tecnología GPS en el ganado contra los incendios forestales",
-      "url": "https://efeverde.com/tecnologia-gps-ganado-contra-incendios-forestales/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Revista NME] Enap investiga irregularidades en reportes ambientales de Refinería Aconcagua",
-      "url": "https://www.terram.cl/enap-investiga-irregularidades-en-reportes-ambientales-de-refineria-aconcagua/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] COP17: excluyen de la agenda temas de sociedad civil, pueblos indígenas y género en las negociaciones sobre desertificación y sequía a pedido de EE.UU",
-      "url": "https://www.terram.cl/mongabay-cop17-excluyen-de-la-agenda-temas-de-sociedad-civil-pueblos-indigenas-y-genero-en-las-negociaciones-sobre-desertificacion-y-sequia-a-pedido-de-ee-uu/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[InduAmbiente] Coordinan trabajo para fortalecer la información cartográfica sobre biodiversidad",
-      "url": "https://www.terram.cl/induambiente-coordinan-trabajo-para-fortalecer-la-informacion-cartografica-sobre-biodiversidad/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Valdivia lidera iniciativa pionera para proteger el santuario Llancahue",
-      "url": "https://www.terram.cl/valdivia-lidera-iniciativa-pionera-para-proteger-el-santuario-llancahue/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] El clavelito antártico revela nuevas pistas sobre cómo la vida resiste en condiciones extremas",
-      "url": "https://www.terram.cl/mongabay-el-clavelito-antartico-revela-nuevas-pistas-sobre-como-la-vida-resiste-en-condiciones-extremas/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Bautizada en honor al herpetólogo chileno Andy Charrier: descubren nueva lagartija endémica del Cordón de Cantillana",
-      "url": "https://www.terram.cl/ladera-sur-bautizada-en-honor-al-herpetologo-chileno-andy-charrier-descubren-nueva-lagartija-endemica-del-cordon-de-cantillana/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Ilustre Municipalidad de Hualpén con Dirección Regional Servicio de Evaluación Ambiental del Bíobio». Rol: R-46-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-hualpen-con-direccion-regional-servicio-de-evaluacion-ambiental-del-biobio-rol-r-46-2026/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Gobierno Regional renovó concesión a CONAF de terreno  en San Juan donde se construirá una base de brigada y centro de información",
-      "url": "https://www.conaf.cl/gobierno-regional-renovo-concesion-a-conaf-de-terreno-en-san-juan-donde-se-construira-una-base-de-brigada-y-centro-de-informacion/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-regional-renovo-concesion-a-conaf-de-terreno-en-san-juan-donde-se-construira-una-base-de-brigada-y-centro-de-informacion",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Chile comparte en Bolivia su experiencia de conservación efectiva y avances en la Lista Verde de la UICN",
-      "url": "https://www.conaf.cl/chile-comparte-en-bolivia-su-experiencia-de-conservacion-efectiva-y-avances-en-la-lista-verde-de-la-uicn/?utm_source=rss&utm_medium=rss&utm_campaign=chile-comparte-en-bolivia-su-experiencia-de-conservacion-efectiva-y-avances-en-la-lista-verde-de-la-uicn",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Comenzó la restauración ecológica del Parque Nacional Nonguén",
-      "url": "https://www.conaf.cl/comenzo-la-restauracion-ecologica-del-parque-nacional-nonguen/?utm_source=rss&utm_medium=rss&utm_campaign=comenzo-la-restauracion-ecologica-del-parque-nacional-nonguen",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Valparaíso abre 596 cupos para integrar sus brigadas de combate de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-valparaiso-abre-596-cupos-para-integrar-sus-brigadas-de-combate-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-valparaiso-abre-596-cupos-para-integrar-sus-brigadas-de-combate-de-incendios-forestales",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA ejecutará programa de monitoreo y obras de infraestructura en glaciar Exploradores en Aysén",
-      "url": "https://dga.mop.gob.cl/dga-ejecutara-programa-de-monitoreo-y-obras-de-infraestructura-en-glaciar-exploradores-en-aysen/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente inicia muestreos para evaluación ambiental de relave abandonado Petronila Díaz en la comuna de Petorca",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-inicia-muestreos-para-evaluacion-ambiental-de-relave-abandonado-petronila-diaz-en-la-comuna-de-petorca/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes y comunidad impulsan restauración ecológica en Comunidad Agrícola Valdivia de Punilla",
-      "url": "https://mma.gob.cl/estudiantes-y-comunidad-impulsan-restauracion-ecologica-en-comunidad-agricola-valdivia-de-punilla/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Hogar de Ancianos Jesús de Nazareth inicia proyecto FPA para incorporar energía solar en Pinto",
-      "url": "https://mma.gob.cl/hogar-de-ancianos-jesus-de-nazareth-inicia-proyecto-fpa-para-incorporar-energia-solar-en-pinto/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Municipalidad de Santa María recibe reconocimiento por su Plan de Acción Comunal de Cambio Climático",
-      "url": "https://mma.gob.cl/municipalidad-de-santa-maria-recibe-reconocimiento-por-su-plan-de-accion-comunal-de-cambio-climatico/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Proyecto financiado por el Fondo de Protección Ambiental dictó curso gratuito en Concepción para prevenir incendios forestales",
-      "url": "https://mma.gob.cl/proyecto-financiado-por-el-fondo-de-proteccion-ambiental-dicto-curso-gratuito-en-concepcion-para-prevenir-incendios-forestales/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Liceo Polivalente Las Salinas de Talcahuano ejecutó proyecto de Forjadores Ambientales",
-      "url": "https://mma.gob.cl/liceo-polivalente-las-salinas-de-talcahuano-ejecuto-proyecto-de-forjadores-ambientales/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA Tarapacá suspende evaluación de tres proyectos mineros por emergencia meteorológica en la región",
-      "url": "https://www.mch.cl/sea-tarapaca-suspende-evaluacion-de-tres-proyectos-mineros-por-emergencia-meteorologica-en-la-region/",
-      "fecha": "2026-08-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA Coquimbo realiza visita técnica sobre DIA para proyecto de modificación de parque híbrido",
-      "url": "https://www.revistaei.cl/sea-coquimbo-realiza-visita-tecnica-sobre-dia-para-proyecto-de-modificacion-de-parque-hibrido/",
-      "fecha": "2026-08-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
