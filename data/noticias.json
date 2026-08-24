@@ -1,93 +1,93 @@
 {
-  "fecha_actualizacion": "2026-08-23T07:32:36.699527-04:00",
+  "fecha_actualizacion": "2026-08-24T07:43:22.723550-04:00",
   "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Trajes de baño para mujer: guía de looks para las vacaciones de verano",
+      "url": "https://www.paiscircular.cl/tendencias/trajes-de-bano-para-mujer-guia-de-looks-para-las-vacaciones-de-verano/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Hub Andes Solar, el complejo de energía renovable con capacidad para abastecer al equivalente de toda la región de Valparaíso",
+      "url": "https://www.paiscircular.cl/transicion-energetica/hub-andes-solar-el-complejo-de-energia-renovable-con-capacidad-para-abastecer-al-equivalente-de-toda-la-region-de-valparaiso/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "Desarrollan una aplicación para que los ciudadanos alerten de la presencia de alga asiática invasora",
-      "url": "https://efeverde.com/desarrollan-un-aplicacion-para-que-los-ciudadanos-alerten-de-la-presencia-de-alga-asiatica-invasora/",
+      "titular": "Cuando la sequía tuvo, hace medio siglo, su propio Ministerio en el Reino Unido",
+      "url": "https://efeverde.com/sequia-tuvo-su-propio-ministerio-reino-unido/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cada dólar que se invierte en restaurar pastizales genera un retorno de entre cuatro y seis",
+      "url": "https://efeverde.com/inversion-restaurar-pastizales-retorno-seis-dolares/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Yasmine Fouad (ONU): si las empresas no invierten en suelo y agua, sus negocios no existirán en 10 o 15 años",
+      "url": "https://efeverde.com/yasmine-fouad-onu-si-las-empresas-no-invierten-en-suelo-y-agua-sus-negocios-no-existiran-en-10-o-15-anos/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Controlado el incendio de Pinofranqueado, con 3.765 hectáreas asoladas provisionalmente",
+      "url": "https://efeverde.com/controlado-el-incendio-de-pinofranqueado-con-3-765-hectareas-asoladas-provisionalmente/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Financiación, sequía y restauración de pastizales centran las negociaciones de alto nivel de la  cumbre de la ONU de Desertificación (COP17)",
+      "url": "https://efeverde.com/financiacion-sequia-y-restauracion-de-pastizales-centran-las-negociaciones-de-alto-nivel-de-la-cumbre-de-la-onu-de-desertificacion-cop17/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La crisis de los grandes embalses de EE.UU. amenaza a las pueblos indígenas y seca México",
+      "url": "https://efeverde.com/la-crisis-de-los-grandes-embalses-de-ee-uu-amenaza-a-las-pueblos-indigenas-y-seca-mexico/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Economías sin papel: cómo los pagos digitales reducen residuos en el ocio moderno",
+      "url": "https://www.paiscircular.cl/tendencias/economias-sin-papel-como-los-pagos-digitales-reducen-residuos-en-el-ocio-moderno/",
       "fecha": "2026-08-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mata do Bussaco, el primer «bosque terapéutico» de la península ibérica está en Portugal",
-      "url": "https://efeverde.com/mata-do-bussaco-el-primer-bosque-terapeutico-de-la-peninsula-iberica-esta-en-portugal/",
+      "titular": "Miles de personas reclaman en Jaca responsabilidades y más medios para prevenir el fuego",
+      "url": "https://efeverde.com/miles-de-personas-reclaman-en-jaca-responsabilidades-y-mas-medios-para-prevenir-el-fuego/",
       "fecha": "2026-08-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los 1.400 desguaces españoles se preparan para dar una segunda vida al plástico automotriz",
-      "url": "https://efeverde.com/los-1-400-desguaces-espanoles-se-preparan-para-dar-una-segunda-vida-al-plastico-automotriz/",
-      "fecha": "2026-08-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un Cantábrico cada vez más ‘mediterráneo’ vive un verano de temperaturas récord",
-      "url": "https://efeverde.com/un-cantabrico-cada-vez-mas-mediterraneo-vive-un-verano-de-temperaturas-record/",
-      "fecha": "2026-08-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un terremoto de magnitud 5,9 en el este de Japón sacude Tokio y deja múltiples heridos leves",
-      "url": "https://efeverde.com/un-terremoto-de-magnitud-59-en-el-este-de-japon-sacude-tokio-y-deja-multiples-heridos-leves/",
-      "fecha": "2026-08-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Estabilizado el incendio forestal de Segorbe (Castellón) tras quemar 630 hectáreas",
-      "url": "https://efeverde.com/estabilizado-el-incendio-forestal-de-segorbe-castellon-tras-quemar-630-hectareas/",
-      "fecha": "2026-08-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Día Mundial del Agua 2026: donde fluye el agua, crece la igualdad",
-      "url": "https://www.chiledesarrollosustentable.cl/dia-mundial-del-agua-2026-donde-fluye-el-agua-crece-la-igualdad/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-del-agua-2026-donde-fluye-el-agua-crece-la-igualdad",
-      "fecha": "2026-08-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las lluvias torrenciales inundan calles y cámpins en Tarragona y dejan dos heridos graves",
-      "url": "https://efeverde.com/las-lluvias-torrenciales-inundan-calles-y-campins-en-tarragona-y-dejan-dos-heridos-graves/",
-      "fecha": "2026-08-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cárcel para el administrador de una empresa por vertidos al Mar Menor",
-      "url": "https://efeverde.com/carcel-para-el-administrador-de-una-empresa-por-vertidos-al-mar-menor/",
-      "fecha": "2026-08-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Frente Amplio oficia a Contraloría y otros tres organismos por eventuales conflictos de interés de Jorge Quiroz",
-      "url": "https://www.latercera.com/politica/noticia/frente-amplio-oficia-a-contraloria-y-otros-tres-organismos-por-eventuales-conflictos-de-interes-de-jorge-quiroz/",
-      "fecha": "2026-08-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Bancadas de oposición anuncian Comisión Investigadora para fiscalizar conflictos de interés del ministro de Hacienda",
-      "url": "https://adprensa.cl/bancadas-de-oposicion-anuncian-comision-investigadora-para-fiscalizar-conflictos-de-interes-del-ministro-de-hacienda-2/",
-      "fecha": "2026-08-22",
+      "titular": "Defensoría Penal Pública aprueba nuevo Código Deontológico y refuerza compromiso con la ética y la probidad",
+      "url": "https://www.latercera.com/nacional/noticia/defensoria-penal-publica-aprueba-nuevo-codigo-etica-y-refuerza-compromiso-con-la-probidad/",
+      "fecha": "2026-08-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
