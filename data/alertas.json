@@ -1,5 +1,138 @@
 {
-  "fecha_generacion": "2026-08-24T07:43:22.735569-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-08-25T07:40:34.609228-04:00",
+  "total_alertas": 11,
+  "alertas": [
+    {
+      "fuente": "El Mercurio Legal",
+      "titular": "Â¿CÃ³mo participar en el concurso de comentarios de sentencias del Tercer Tribunal Ambiental?",
+      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/08/24/916590/concurso-sentencia-tercer-tribunal-ambiental.aspx",
+      "fecha": "2026-08-25",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Tribunal Ambiental] Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
+      "url": "https://www.terram.cl/tribunal-ambiental-tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA y Ministerio de Energía realizaron seminario sobre hallazgos de biodiversidad en proyectos del sector",
+      "url": "https://portal.sma.gob.cl/index.php/sma-y-ministerio-de-energia-realizaron-seminario-sobre-hallazgos-de-biodiversidad-en-proyectos-del-sector/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad reunió a 86 representantes de empresas y profesionales del rubro energético y permitió abordar los principales hallazgos identificados por la Superintendencia del Medio Ambiente en fiscalizaciones vinculadas al componente biodiversidad. ",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Chile fortalece la implementación del Acuerdo de Escazú gracias al primer encuentro del Grupo Ampliado y presenta Reporte Anual 2025",
+      "url": "https://mma.gob.cl/chile-fortalece-la-implementacion-del-acuerdo-de-escazu-gracias-al-primer-encuentro-del-grupo-ampliado-y-presenta-reporte-anual-2025/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En una jornada online que convocó a cerca de 180 personas, se efectuó el primer encuentro del Grupo Ampliado Público-Privado […]",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Alvarado descarta que opinión de Barros sobre Convenio 169 de la OIT sea “traspasable” a posición del gobierno",
+      "url": "https://www.latercera.com/politica/noticia/alvarado-descarta-que-opinion-de-barros-sobre-convenio-169-de-la-oit-sea-traspasable-a-posicion-del-gobierno/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El biministro aseguró que \"como gobierno tenemos la responsabilidad de respetar lo que nuestro país ha firmado”.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Chile fortalece implementación del Acuerdo de Escazú",
+      "url": "https://www.mch.cl/chile-fortalece-implementacion-del-acuerdo-de-escazu/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En una jornada online que convocó a cerca de 180 personas, se efectuó el primer encuentro del Grupo Ampliado Público-Privado. La entrada Chile fortalece implementación del Acuerdo de Escazú se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA y Ministerio de Energía realizan seminario sobre hallazgos de biodiversidad en proyectos del sector",
+      "url": "https://www.revistaei.cl/sma-y-ministerio-de-energia-realizan-seminario-sobre-hallazgos-de-biodiversidad-en-proyectos-del-sector/",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad reunió a 86 representantes de empresas y profesionales del rubro energético. La entrada SMA y Ministerio de Energía realizan seminario sobre hallazgos de biodiversidad en proyectos del sector se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA Tarapacá suspende por 10 días evaluación ambiental de proyectos de Collahuasi, Cerro Colorado y Punta de Lobos",
+      "url": "https://www.redimin.cl/sea-tarapaca-suspende-por-10-dias-evaluacion-ambiental-de-proyectos-de-collahuasi-cerro-colorado-y-punta-de-lobos",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental de Tarapacá suspendió por 10 días la evaluación de tres importantes proyectos mineros debido a daños en infraestructura y problemas de conectividad tras un evento m",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA Coquimbo revisa en terreno modificación del sistema de transmisión del Parque Híbrido Amolanas",
+      "url": "https://www.redimin.cl/sea-coquimbo-revisa-en-terreno-modificacion-del-sistema-de-transmision-del-parque-hibrido-amolanas",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental de Coquimbo inspecciona el Parque Híbrido Amolanas, donde Pacific Hydro busca modificar su sistema de transmisión para mejorar la evacuación de energía renovable.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Minera Rosario ingresa DIA por cierre de pozo lastrero y continuidad de planta de áridos en Puente Alto",
+      "url": "https://www.redimin.cl/minera-rosario-ingresa-dia-por-cierre-de-pozo-lastrero-y-continuidad-de-planta-de-aridos-en-puente-alto",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Minera Rosario ha presentado una Declaración de Impacto Ambiental para cerrar un pozo lastrero y asegurar la continuidad de su planta de áridos en Puente Alto, con una inversión de US$500.000.",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA admite a trámite proyecto solar y BESS Versalles II por US$110 millones en Puchuncaví",
+      "url": "https://www.redimin.cl/sea-admite-a-tramite-proyecto-solar-y-bess-versalles-ii-por-us-110-millones-en-puchuncavi",
+      "fecha": "2026-08-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental ha dado luz verde al proyecto Versalles II en Puchuncaví, que combinará energía solar y almacenamiento en baterías, con una inversión de US$110 millones.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }
