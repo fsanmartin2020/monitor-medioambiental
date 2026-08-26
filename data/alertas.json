@@ -1,135 +1,75 @@
 {
-  "fecha_generacion": "2026-08-25T07:40:34.609228-04:00",
-  "total_alertas": 11,
+  "fecha_generacion": "2026-08-26T07:52:18.518693-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "El Mercurio Legal",
-      "titular": "Â¿CÃ³mo participar en el concurso de comentarios de sentencias del Tercer Tribunal Ambiental?",
-      "url": "https://www.elmercurio.com/Legal/Noticias/Noticias-y-reportajes/2026/08/24/916590/concurso-sentencia-tercer-tribunal-ambiental.aspx",
-      "fecha": "2026-08-25",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
       "fuente": "Terram",
-      "titular": "[Tribunal Ambiental] Tribunal Ambiental abre convocatoria para una nueva versión del Concurso de Comentarios de Sentencias",
-      "url": "https://www.terram.cl/tribunal-ambiental-tribunal-ambiental-abre-convocatoria-para-una-nueva-version-del-concurso-de-comentarios-de-sentencias/",
-      "fecha": "2026-08-24",
+      "titular": "[El Desconcierto] Derrame en relave de ENAMI tensiona relación con vecinos de Ovalle que buscan ser reubicados",
+      "url": "https://www.terram.cl/el-desconcierto-derrame-en-relave-de-enami-tensiona-relacion-con-vecinos-de-ovalle-que-buscan-ser-reubicados/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Invitamos a la comunidad universitaria de todo el país a participar en una nueva edición del Concurso Nacional de Comentarios de Sentencias. Esta iniciativa busca distinguir y reconocer a estudiantes de pregrado y postgrado que realicen un análisis j",
+      "extracto": "Vecinos de un depósito de relaves de la minera estatal denuncian contaminación por derrames y solicitan la compra de los lotes para reubicarse. Fuente: El Desconcierto, 25 de agosto de 2026.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "derrame"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA y Ministerio de Energía realizaron seminario sobre hallazgos de biodiversidad en proyectos del sector",
-      "url": "https://portal.sma.gob.cl/index.php/sma-y-ministerio-de-energia-realizaron-seminario-sobre-hallazgos-de-biodiversidad-en-proyectos-del-sector/",
-      "fecha": "2026-08-24",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad reunió a 86 representantes de empresas y profesionales del rubro energético y permitió abordar los principales hallazgos identificados por la Superintendencia del Medio Ambiente en fiscalizaciones vinculadas al componente biodiversidad. ",
+      "extracto": "Supendida audiencia de fecha 01/09/2026 y hora 11:30 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026 appeared first on T",
       "keywords_detectadas": [
-        "SMA"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile fortalece la implementación del Acuerdo de Escazú gracias al primer encuentro del Grupo Ampliado y presenta Reporte Anual 2025",
-      "url": "https://mma.gob.cl/chile-fortalece-la-implementacion-del-acuerdo-de-escazu-gracias-al-primer-encuentro-del-grupo-ampliado-y-presenta-reporte-anual-2025/",
-      "fecha": "2026-08-24",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
+      "url": "https://3ta.cl/audiencias/22-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En una jornada online que convocó a cerca de 180 personas, se efectuó el primer encuentro del Grupo Ampliado Público-Privado […]",
+      "extracto": "Se fija audiencia con fecha 22/09/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026 appeared first on Ter",
       "keywords_detectadas": [
-        "Escazú"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Alvarado descarta que opinión de Barros sobre Convenio 169 de la OIT sea “traspasable” a posición del gobierno",
-      "url": "https://www.latercera.com/politica/noticia/alvarado-descarta-que-opinion-de-barros-sobre-convenio-169-de-la-oit-sea-traspasable-a-posicion-del-gobierno/",
-      "fecha": "2026-08-24",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/01-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El biministro aseguró que \"como gobierno tenemos la responsabilidad de respetar lo que nuestro país ha firmado”.",
+      "extracto": "Supendida audiencia de fecha 01/09/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026 appeared first on T",
       "keywords_detectadas": [
-        "SEA"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Chile fortalece implementación del Acuerdo de Escazú",
-      "url": "https://www.mch.cl/chile-fortalece-implementacion-del-acuerdo-de-escazu/",
-      "fecha": "2026-08-24",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
+      "url": "https://3ta.cl/audiencias/22-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En una jornada online que convocó a cerca de 180 personas, se efectuó el primer encuentro del Grupo Ampliado Público-Privado. La entrada Chile fortalece implementación del Acuerdo de Escazú se publicó primero en Mch .",
+      "extracto": "Se fija audiencia con fecha 22/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026 appeared first on Ter",
       "keywords_detectadas": [
-        "Escazú"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA y Ministerio de Energía realizan seminario sobre hallazgos de biodiversidad en proyectos del sector",
-      "url": "https://www.revistaei.cl/sma-y-ministerio-de-energia-realizan-seminario-sobre-hallazgos-de-biodiversidad-en-proyectos-del-sector/",
-      "fecha": "2026-08-24",
+      "titular": "Región de Valparaíso: SEA informa aprobación de proyectos por más de US$5.200 millones y otros US$3.000 en evaluación",
+      "url": "https://www.revistaei.cl/region-de-valparaiso-sea-informa-aprobacion-de-proyectos-por-mas-de-us5-200-millones-y-otros-us3-000-en-evaluacion/",
+      "fecha": "2026-08-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad reunió a 86 representantes de empresas y profesionales del rubro energético. La entrada SMA y Ministerio de Energía realizan seminario sobre hallazgos de biodiversidad en proyectos del sector se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA Tarapacá suspende por 10 días evaluación ambiental de proyectos de Collahuasi, Cerro Colorado y Punta de Lobos",
-      "url": "https://www.redimin.cl/sea-tarapaca-suspende-por-10-dias-evaluacion-ambiental-de-proyectos-de-collahuasi-cerro-colorado-y-punta-de-lobos",
-      "fecha": "2026-08-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental de Tarapacá suspendió por 10 días la evaluación de tres importantes proyectos mineros debido a daños en infraestructura y problemas de conectividad tras un evento m",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA Coquimbo revisa en terreno modificación del sistema de transmisión del Parque Híbrido Amolanas",
-      "url": "https://www.redimin.cl/sea-coquimbo-revisa-en-terreno-modificacion-del-sistema-de-transmision-del-parque-hibrido-amolanas",
-      "fecha": "2026-08-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental de Coquimbo inspecciona el Parque Híbrido Amolanas, donde Pacific Hydro busca modificar su sistema de transmisión para mejorar la evacuación de energía renovable.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Minera Rosario ingresa DIA por cierre de pozo lastrero y continuidad de planta de áridos en Puente Alto",
-      "url": "https://www.redimin.cl/minera-rosario-ingresa-dia-por-cierre-de-pozo-lastrero-y-continuidad-de-planta-de-aridos-en-puente-alto",
-      "fecha": "2026-08-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Minera Rosario ha presentado una Declaración de Impacto Ambiental para cerrar un pozo lastrero y asegurar la continuidad de su planta de áridos en Puente Alto, con una inversión de US$500.000.",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA admite a trámite proyecto solar y BESS Versalles II por US$110 millones en Puchuncaví",
-      "url": "https://www.redimin.cl/sea-admite-a-tramite-proyecto-solar-y-bess-versalles-ii-por-us-110-millones-en-puchuncavi",
-      "fecha": "2026-08-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental ha dado luz verde al proyecto Versalles II en Puchuncaví, que combinará energía solar y almacenamiento en baterías, con una inversión de US$110 millones.",
+      "extracto": "En la instancia, el director ejecutivo, Arturo Farías, presentó a la nueva directora regional (s) del organismo. La entrada Región de Valparaíso: SEA informa aprobación de proyectos por más de US$5.200 millones y otros US$3.000 en evaluación se publi",
       "keywords_detectadas": [
         "SEA"
       ]
