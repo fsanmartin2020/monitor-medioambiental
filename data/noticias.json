@@ -1,301 +1,269 @@
 {
-  "fecha_actualizacion": "2026-08-26T07:52:18.503042-04:00",
-  "total": 37,
+  "fecha_actualizacion": "2026-08-27T17:10:56.713593-04:00",
+  "total": 33,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Desde la mirada sanitaria, ambiental y empresarial: Cómo avanzar hacia el reúso de envases para productos de cuidado personal",
-      "url": "https://www.paiscircular.cl/reutilizacion/desde-la-mirada-sanitaria-ambiental-y-empresarial-como-avanzar-hacia-el-reuso-de-envases-de-productos-de-cuidado-personal/",
-      "fecha": "2026-08-26",
+      "titular": "Nueva herramienta ciudadana permite registrar varamientos de fauna marina y fortalecer su protección en Chile",
+      "url": "https://www.paiscircular.cl/biodiversidad/nueva-herramienta-ciudadana-permite-registrar-varamientos-de-fauna-marina-y-fortalecer-su-proteccion-en-chile/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Plataforma de Economía Circular de ChileCompra ha permitido ahorrar más de mil millones de pesos al Estado en poco más de un año",
+      "url": "https://www.paiscircular.cl/reutilizacion/plataforma-de-economia-circular-de-chilecompra-ha-permitido-ahorrar-mas-de-mil-millones-de-pesos-al-estado-en-poco-mas-de-un-ano/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Una línea única en Latinoamérica busca abrir camino al reciclaje industrial de madera en Chile",
-      "url": "https://www.chiledesarrollosustentable.cl/una-linea-unica-en-latinoamerica-busca-abrir-camino-al-reciclaje-industrial-de-madera-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=una-linea-unica-en-latinoamerica-busca-abrir-camino-al-reciclaje-industrial-de-madera-en-chile",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Niño activa las alertas en América Latina y Asia por sequía, lluvias y tifones",
-      "url": "https://efeverde.com/el-nino-activa-las-alertas-en-america-latina-y-asia-por-sequia-lluvias-y-tifones/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las islas del Pacífico reclaman que el océano pase al centro de la agenda climática en la COP31",
-      "url": "https://efeverde.com/las-islas-del-pacifico-reclaman-que-el-oceano-pase-al-centro-de-la-agenda-climatica-en-la-cop31/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tras las llamas, la prioridad debe ser proteger y recuperar el suelo para asegurar la vida",
-      "url": "https://efeverde.com/tras-las-llamas-la-prioridad-debe-ser-proteger-y-recuperar-el-suelo-para-asegurar-la-vida/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "El valor de una lata después de consumirla",
-      "url": "https://www.paiscircular.cl/opinion/el-valor-de-una-lata-despues-de-consumirla/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Última semana para participar en encuesta regional sobre consumo y certificación vegana",
-      "url": "https://www.paiscircular.cl/medio-ambiente/ultima-semana-para-participar-en-encuesta-regional-sobre-consumo-y-certificacion-vegana/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "La descarbonización ya está en marcha: la seguridad ambiental como clave de competitividad",
-      "url": "https://www.paiscircular.cl/opinion/la-descarbonizacion-ya-esta-en-marcha-la-seguridad-ambiental-como-clave-de-competitividad/",
-      "fecha": "2026-08-25",
+      "titular": "Con apoyo satelital de la FACh: Ministerio del Medio Ambiente reforzará detección de vertederos ilegales",
+      "url": "https://www.chiledesarrollosustentable.cl/con-apoyo-satelital-de-la-fach-ministerio-del-medio-ambiente-reforzara-deteccion-de-vertederos-ilegales/?utm_source=rss&utm_medium=rss&utm_campaign=con-apoyo-satelital-de-la-fach-ministerio-del-medio-ambiente-reforzara-deteccion-de-vertederos-ilegales",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Normas de calidad del aire podrían evitar 1.466 muertes al año: organizaciones piden reactivar su tramitación",
-      "url": "https://codexverde.cl/normas-de-calidad-del-aire-podrian-evitar-1-466-muertes-al-ano-organizaciones-piden-reactivar-su-tramitacion/",
-      "fecha": "2026-08-25",
+      "titular": "Conversatorio de Codexverde y UDLA analizará efectos de la Megarreforma en la institucionalidad ambiental",
+      "url": "https://codexverde.cl/conversatorio-de-codexverde-y-udla-analizara-efectos-de-la-megarreforma-en-la-institucionalidad-ambiental/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Directora Centro de Investigación en Ciencias Biológicas y Químicas UDLA: “Buscamos conectar el conocimiento científico con necesidades reales”",
-      "url": "https://codexverde.cl/la-apuesta-estrategica-del-cicbq-de-la-udla/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Proyecto inmobiliario Alto Santorini: experta advierte que fragilidad de las dunas de Concón “no es compatible con niveles de urbanización que alteren significativamente sus condiciones naturales”",
-      "url": "https://codexverde.cl/proyecto-inmobiliario-alto-santorini-experta-advierte-que-la-fragilidad-de-las-dunas-de-concon-no-es-compatible-con-niveles-de-urbanizacion-que-alteren-significativamente-sus-condiciones-nat/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Campaña alerta sobre debilitamiento de estándares ambientales y exige reactivar 35 decretos",
-      "url": "https://codexverde.cl/campana-alerta-sobre-debilitamiento-de-estandares-ambientales-y-exige-reactivar-35-decretos/",
-      "fecha": "2026-08-25",
+      "titular": "Conservar después del decreto",
+      "url": "https://codexverde.cl/conservar-despues-del-decreto/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Análisis CR2 | Temporal del 15 al 20 de julio de 2026 en Chile: ¿por qué la duración de la lluvia fue más excepcional que su intensidad?",
-      "url": "https://www.cr2.cl/analisis-cr2-temporal-del-15-al-20-de-julio-de-2026-en-chile-por-que-la-duracion-de-la-lluvia-fue-mas-excepcional-que-su-intensidad/",
-      "fecha": "2026-08-25",
+      "titular": "Opinión: Después de las lluvias: el desafío de las negociaciones sobre la desertificación persiste",
+      "url": "https://www.cr2.cl/opinion-despues-de-las-lluvias-el-desafio-de-las-negociaciones-sobre-la-desertificacion-persiste/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mesoamérica busca proteger el 30 % de su territorio y mares para 2030",
-      "url": "https://efeverde.com/mesoamerica-busca-proteger-30-territorio-mares-para-2030/",
-      "fecha": "2026-08-25",
+      "titular": "Un incendio obliga a evacuar el pueblo y los cámpins de El Saler (Valencia)",
+      "url": "https://efeverde.com/incendio-obliga-evacuar-pueblo-campins-el-saler-valencia/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Greenpeace pide actuar para que las cenizas de los incendios no lleguen a los ríos",
-      "url": "https://efeverde.com/greenpeace-pide-actuar-cenizas-incendios-rios/",
-      "fecha": "2026-08-25",
+      "titular": "Avances científicos impulsan un nuevo plan de ordenación para el atún en la CIAT",
+      "url": "https://efeverde.com/avances-cientificos-impulsan-plan-ordenacion-atun-ciat/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España supera las 5.000 muertes por calor extremo este verano, el más mortífero desde que hay registros",
-      "url": "https://efeverde.com/espana-5-000-muertes-calor-extremo-verano/",
-      "fecha": "2026-08-25",
+      "titular": "El geólogo Jerónimo López: «Hay un ritmo creciente de deterioro. Nepal es especialmente sensible al calentamiento»",
+      "url": "https://efeverde.com/geologo-jeronimo-lopez-nepal-riada-montanas/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Fracasa el plan para devolver a Francia a los ocho delfines de Marineland que están acogidos en España",
-      "url": "https://efeverde.com/fracasa-plan-devolver-francia-delfines-acogidos-espana/",
-      "fecha": "2026-08-25",
+      "titular": "En vuelo desde Canadá: trasladan a Valencia dos belugas y cuatro delfines que iban a ser sacrificados",
+      "url": "https://efeverde.com/dos-belugas-cuatro-delfines-iban-a-ser-sacrificados-llegan-valencia/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los espacios protegidos suponen el 30 % de la superficie quemada por los incendios en 2026",
+      "url": "https://efeverde.com/espacios-protegidos-30-superficie-quemada-incendios-2026/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más avalanchas, deslizamientos o inundaciones: el riesgo del calentamiento global en la alta montaña",
+      "url": "https://efeverde.com/avalanchas-deslizamientos-o-inundaciones-riesgo-calentamiento-global-alta-montana/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "África avanza hacia un tercer año consecutivo de récord en instalación de paneles solares",
+      "url": "https://efeverde.com/africa-avanza-hacia-un-tercer-ano-consecutivo-de-record-en-instalacion-de-paneles-solares/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los centros de datos deberán consumir al menos un 80 % de energía renovable de nueva instalación",
+      "url": "https://efeverde.com/los-centros-de-datos-deberan-consumir-al-menos-un-80-de-energia-renovable-de-nueva-instalacion/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "15 grados de desigualdad, la brecha térmica que separa al lujo de las favelas brasileñas",
+      "url": "https://efeverde.com/15-grados-de-desigualdad-la-brecha-termica-que-separa-al-lujo-de-las-favelas-brasilenas/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Al menos 392 muertos en China y Nepal por una riada que puede volver a repetirse",
+      "url": "https://efeverde.com/al-menos-168-muertos-y-1-384-desaparecidos-en-china-y-nepal-por-una-riada-que-puede-volver-a-repetirse/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Drones, IA y la experiencia aborigen: así se prepara Australia para la etapa de incendios",
+      "url": "https://efeverde.com/asi-se-prepara-australia-para-incendios-forestales/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Derrame en relave de ENAMI tensiona relación con vecinos de Ovalle que buscan ser reubicados",
-      "url": "https://www.terram.cl/el-desconcierto-derrame-en-relave-de-enami-tensiona-relacion-con-vecinos-de-ovalle-que-buscan-ser-reubicados/",
-      "fecha": "2026-08-25",
+      "titular": "[La Nueva Mirada] Sistema Nacional de Áreas Protegidas, los desafíos de un sistema público",
+      "url": "https://www.terram.cl/la-nueva-mirada-sistema-nacional-de-areas-protegidas-los-desafios-de-un-sistema-publico/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Soy Antofagasta] Tocopilla: Diputado Araya pide fiscalizar posible escurrimientos de cenizas de las termoeléctricas al mar",
-      "url": "https://www.terram.cl/soy-antofagasta-tocopilla-diputado-araya-pide-fiscalizar-posible-escurrimientos-de-cenizas-de-las-termoelectricas-al-mar/",
-      "fecha": "2026-08-25",
+      "titular": "[El Desconcierto] Coeva aprueba mega proyecto de amoníaco verde en Magallanes pese a alertas de organizaciones ambientales",
+      "url": "https://www.terram.cl/el-desconcierto-coeva-aprueba-mega-proyecto-de-amoniaco-verde-en-magallanes-pese-a-alertas-de-organizaciones-ambientales/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Reportan tala ilegal de bosque nativo en predio del Ejército en Puerto Varas avaluada en mil millones",
-      "url": "https://www.terram.cl/el-desconcierto-reportan-tala-ilegal-de-bosque-nativo-en-predio-del-ejercito-en-puerto-varas-avaluada-en-mil-millones/",
-      "fecha": "2026-08-25",
+      "titular": "[CodexVerde] Normas de calidad del aire podrían evitar 1.466 muertes al año: organizaciones piden reactivar su tramitación",
+      "url": "https://www.terram.cl/codexverde-normas-de-calidad-del-aire-podrian-evitar-1-466-muertes-al-ano-organizaciones-piden-reactivar-su-tramitacion/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario La Región] Nueva mancha oleosa vuelve a encender alertas en La Herradura",
-      "url": "https://www.terram.cl/diario-la-region-nueva-mancha-oleosa-vuelve-a-encender-alertas-en-la-herradura/",
-      "fecha": "2026-08-25",
+      "titular": "[El Desconcierto] Día Mundial de los Lagos: la ONU alerta que las especies de agua dulce disminuyeron 85% en los últimos 50 años",
+      "url": "https://www.terram.cl/el-desconcierto-dia-mundial-de-los-lagos-la-onu-alerta-que-las-especies-de-agua-dulce-disminuyeron-85-en-los-ultimos-50-anos/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Contaminación por metales pesados reduce hasta tres veces la actividad microbiana en los suelos",
-      "url": "https://www.terram.cl/cooperativa-ciencia-contaminacion-por-metales-pesados-reduce-hasta-tres-veces-la-actividad-microbiana-en-los-suelos/",
-      "fecha": "2026-08-25",
+      "titular": "[Ladera Sur] Dos especies de pepinos de mar de Chile y Perú entran a la Lista Roja como En Peligro Crítico",
+      "url": "https://www.terram.cl/ladera-sur-dos-especies-de-pepinos-de-mar-de-chile-y-peru-entran-a-la-lista-roja-como-en-peligro-critico/",
+      "fecha": "2026-08-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Canal 9] Humedal Rocuant-Andalién: expertos cuestionan visión de “terreno sin uso” y llaman a compatibilizar conservación e inversión",
-      "url": "https://www.terram.cl/canal-9-humedal-rocuant-andalien-expertos-cuestionan-vision-de-terreno-sin-uso-y-llaman-a-compatibilizar-conservacion-e-inversion/",
-      "fecha": "2026-08-25",
+      "titular": "[InduAmbiente] Estudio revela impacto desigual de las políticas públicas sobre el uso de biomasa en Chile",
+      "url": "https://www.terram.cl/induambiente-estudio-revela-impacto-desigual-de-las-politicas-publicas-sobre-el-uso-de-biomasa-en-chile/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario del Medio Ambiente entrega reconocimiento a Municipalidad de Santo Domingo por aprobación de su Plan de Acción Comunal de Cambio Climático (PACCC)",
+      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-entrega-reconocimiento-a-municipalidad-de-santo-domingo-por-aprobacion-de-su-plan-de-accion-comunal-de-cambio-climatico-paccc/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seminario de Institucionalidad Ambiental de Ñuble acercó a la ciudadanía el rol de los organismos ambientales",
+      "url": "https://mma.gob.cl/seminario-de-institucionalidad-ambiental-de-nuble-acerco-a-la-ciudadania-el-rol-de-los-organismos-ambientales/",
+      "fecha": "2026-08-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Una ley REP para la próxima década",
+      "url": "https://www.paiscircular.cl/opinion/una-ley-rep-para-la-proxima-decada/",
+      "fecha": "2026-08-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Usocioambiental de ONG FIMA cierra su octava edición con charla sobre el avance del autoritarismo frente a la crisis climática",
+      "url": "https://codexverde.cl/usocioambiental-de-ong-fima-cierra-su-octava-edicion-con-charla-sobre-el-avance-del-autoritarismo-frente-a-la-crisis-climatica/",
+      "fecha": "2026-08-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Usocioambiental cierra su octava edición con charla sobre el avance del autoritarismo frente a la crisis climática",
+      "url": "https://www.fima.cl/2026/08/26/usocioambiental-cierra-su-octava-edicion-con-charla-sobre-el-avance-del-autoritarismo-frente-a-la-crisis-climatica/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
-      "url": "https://3ta.cl/audiencias/01-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
-      "fecha": "2026-08-25",
+      "titular": "03/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/03-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-12-2026",
-      "url": "https://3ta.cl/audiencias/22-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-12-2026/",
-      "fecha": "2026-08-25",
+      "titular": "29/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
+      "url": "https://3ta.cl/audiencias/29-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "01/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
-      "url": "https://3ta.cl/audiencias/01-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
-      "fecha": "2026-08-25",
+      "titular": "Admítase a trámite «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente». Rol: R-48-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "22/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-11-2026",
-      "url": "https://3ta.cl/audiencias/22-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-11-2026/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF decreta cierre preventivo de Parque Nacional Morro Moreno y Reserva Nacional La Chimba por daños meteorológicos",
-      "url": "https://www.conaf.cl/conaf-decreta-cierre-preventivo-de-parque-nacional-morro-moreno-y-reserva-nacional-la-chimba-por-danos-meteorologicos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-decreta-cierre-preventivo-de-parque-nacional-morro-moreno-y-reserva-nacional-la-chimba-por-danos-meteorologicos",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "40 toneladas de neumáticos serán valorizadas tras exitosa campaña de reciclaje en cuatro comunas de O’Higgins",
-      "url": "https://mma.gob.cl/40-toneladas-de-neumaticos-seran-valorizadas-tras-exitosa-campana-de-reciclaje-en-cuatro-comunas-de-ohiggins/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente destacó la labor que realiza el Centro de Desarrollo Urbano Sustentable de la Universidad Católica, en la generación de conocimiento para ciudades verdes",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-destaco-la-labor-que-realiza-el-centro-de-desarrollo-urbano-sustentable-de-la-universidad-catolica-en-la-generacion-de-conocimiento-para-ciudades-verdes/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Coyhaique avanza en la eliminación de fuentes de humo e invita a comunidad a postular al recambio de calefactores",
-      "url": "https://mma.gob.cl/coyhaique-avanza-en-la-eliminacion-de-fuentes-de-humo-e-invita-a-comunidad-a-postular-al-recambio-de-calefactores/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Municipalidad de El Quisco recibe reconocimientos ambientales por importantes logros en la materia",
-      "url": "https://mma.gob.cl/municipalidad-de-el-quisco-recibe-reconocimientos-ambientales-por-importantes-logros-en-la-materia/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente elaborará nuevo decreto de aceites lubricantes",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-elaborara-nuevo-decreto-de-aceites-lubricantes/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades ambientales invitan a participar de seminario sobre institucionalidad ambiental en Ñuble",
-      "url": "https://mma.gob.cl/autoridades-ambientales-invitan-a-participar-de-seminario-sobre-institucionalidad-ambiental-en-nuble/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Arturo Squella y nuevo estado de excepción: “Al contenido le falta mucho todavía por desarrollar y para eso es el trámite legislativo”",
-      "url": "https://www.latercera.com/politica/noticia/arturo-squella-y-nuevo-estado-de-excepcion-al-contenido-le-falta-mucho-todavia-por-desarrollar-y-para-eso-es-el-tramite-legislativo/",
-      "fecha": "2026-08-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "«Espero que no se apruebe»: Exministra Vallejo advirtió «pretensiones autoritarias» en reforma de seguridad de Kast",
-      "url": "https://www.elciudadano.com/chile/espero-que-no-se-apruebe-exministra-vallejo-advirtio-pretensiones-autoritarias-en-reforma-de-seguridad-de-kast/08/25/",
-      "fecha": "2026-08-25",
+      "titular": "29/10/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
+      "url": "https://3ta.cl/audiencias/29-10-2026-fija-audiencia-en-caso-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Región de Valparaíso: SEA informa aprobación de proyectos por más de US$5.200 millones y otros US$3.000 en evaluación",
-      "url": "https://www.revistaei.cl/region-de-valparaiso-sea-informa-aprobacion-de-proyectos-por-mas-de-us5-200-millones-y-otros-us3-000-en-evaluacion/",
-      "fecha": "2026-08-25",
+      "titular": "Aprueban por unanimidad megaproyecto de amoníaco verde por US$11 mil millones en Magallanes",
+      "url": "https://www.revistaei.cl/aprueban-por-unanimidad-megaproyecto-de-amoniaco-verde-por-us11-mil-millones-en-magallanes/",
+      "fecha": "2026-08-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
