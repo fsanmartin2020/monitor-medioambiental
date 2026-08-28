@@ -1,65 +1,29 @@
 {
-  "fecha_generacion": "2026-08-27T17:10:56.726414-04:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-08-28T17:35:29.048806-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Una ley REP para la próxima década",
-      "url": "https://www.paiscircular.cl/opinion/una-ley-rep-para-la-proxima-decada/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "\"La experiencia acumulada permite también identificar con mayor claridad dónde están los desafíos. Las metas deben conversar con la capacidad instalada y el desarrollo efectivo del mercado del reciclaje\". The post Una ley REP para la próxima década a",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "03/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
-      "url": "https://3ta.cl/audiencias/03-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
-      "fecha": "2026-08-26",
+      "titular": "Superintendencia del Medio Ambiente deberá revisar sanción a Sociedad Comercializadora de Carbón en Coronel",
+      "url": "https://3ta.cl/sin-categoria/superintendencia-del-medio-ambiente-debera-revisar-sancion-a-sociedad-comercializadora-de-carbon-en-coronel/",
+      "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Supendida audiencia de fecha 03/09/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 03/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026 appeared first on T",
+      "extracto": "El Tercer Tribunal Ambiental acogió parcialmente la reclamación de la empresa, por lo que la Superintendencia del Medio Ambiente deberá revisar la sanción de 68 UTA impuesta y pronunciarse nuevamente. La controversia tuvo su origen en la Resolución d",
       "keywords_detectadas": [
         "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "29/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026",
-      "url": "https://3ta.cl/audiencias/29-09-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-13-2026/",
-      "fecha": "2026-08-26",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Grenergy ingresa al SEIA proyecto fotovoltaico en María Elena por US$593 millones",
+      "url": "https://www.revistaei.cl/grenergy-ingresa-al-seia-proyecto-fotovoltaico-en-maria-elena-por-us593-millones/",
+      "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 29/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 29/09/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-13-2026 appeared first on Ter",
+      "extracto": "La iniciativa considera una potencia instalada de 516,92 MWp y una potencia nominal de 430 MW. La entrada Grenergy ingresa al SEIA proyecto fotovoltaico en María Elena por US$593 millones se publicó primero en Revista Electricidad .",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente». Rol: R-48-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 26 de agosto de 2026, admítase a trámite la Reclamación identificada como Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente. (Rol R-48-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "29/10/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
-      "url": "https://3ta.cl/audiencias/29-10-2026-fija-audiencia-en-caso-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
-      "fecha": "2026-08-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 29/10/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 29/10/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Ro",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
+        "SEIA"
       ]
     }
   ]
