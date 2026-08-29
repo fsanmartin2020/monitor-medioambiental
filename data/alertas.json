@@ -1,29 +1,41 @@
 {
-  "fecha_generacion": "2026-08-28T17:35:29.048806-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-08-29T11:46:58.998277-04:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Superintendencia del Medio Ambiente deberá revisar sanción a Sociedad Comercializadora de Carbón en Coronel",
-      "url": "https://3ta.cl/sin-categoria/superintendencia-del-medio-ambiente-debera-revisar-sancion-a-sociedad-comercializadora-de-carbon-en-coronel/",
+      "fuente": "La Tercera",
+      "titular": "Una ley REP para la próxima década",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/una-ley-rep-para-la-proxima-decada/",
       "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental acogió parcialmente la reclamación de la empresa, por lo que la Superintendencia del Medio Ambiente deberá revisar la sanción de 68 UTA impuesta y pronunciarse nuevamente. La controversia tuvo su origen en la Resolución d",
+      "extracto": "SEÑOR DIRECTOR: A diez años de la promulgación de la Ley REP y en la antesala de un nuevo aniversario de su implementación, Chile tiene la oportunidad de abrir una nueva etapa para esta política pública. La experiencia acumulada permite identificar c",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Grenergy ingresa al SEIA proyecto fotovoltaico en María Elena por US$593 millones",
-      "url": "https://www.revistaei.cl/grenergy-ingresa-al-seia-proyecto-fotovoltaico-en-maria-elena-por-us593-millones/",
+      "fuente": "REDIMIN",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Comunidad Indígena Wara Quebrada Chañaral Alto",
+      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-comunidad-indigena-wara-quebrada-chanaral-alto",
       "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera una potencia instalada de 516,92 MWp y una potencia nominal de 430 MW. La entrada Grenergy ingresa al SEIA proyecto fotovoltaico en María Elena por US$593 millones se publicó primero en Revista Electricidad .",
+      "extracto": "La sentencia valida el archivo de una denuncia relacionada con la faena Kinross-La Coipa, destacando la estabilidad en la calidad del agua en la región.",
       "keywords_detectadas": [
-        "SEIA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Primer Tribunal Ambiental admite cuatro reclamaciones contra el proyecto CopiaPort-E",
+      "url": "https://www.redimin.cl/primer-tribunal-ambiental-admite-cuatro-reclamaciones-contra-el-proyecto-copiaport-e",
+      "fecha": "2026-08-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las reclamaciones cuestionan la Resolución de Calificación Ambiental del complejo portuario, que implica una inversión de US$450 millones en la región de Atacama.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]

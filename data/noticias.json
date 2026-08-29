@@ -1,317 +1,77 @@
 {
-  "fecha_actualizacion": "2026-08-28T17:35:29.033623-04:00",
-  "total": 39,
+  "fecha_actualizacion": "2026-08-29T11:46:58.985581-04:00",
+  "total": 9,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Lo que la feria botó, Cerro Minga lo convirtió en trabajo digno",
-      "url": "https://www.paiscircular.cl/opinion/lo-que-la-feria-boto-cerro-minga-lo-convirtio-en-trabajo-digno/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Prottecor: el “cemento verde” que asoma como solución para los caminos sin pavimentar en Chile",
-      "url": "https://www.paiscircular.cl/reutilizacion/prottecor/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Nueva herramienta ciudadana permite registrar varamientos de fauna marina y ya suma 976 observaciones en Chile",
-      "url": "https://codexverde.cl/nueva-herramienta-ciudadana-permite-registrar-varamientos-de-fauna-marina-y-ya-suma-976-observaciones-en-chile/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Desierto de Atacama cubierto de blanco: Imágenes de la NASA captan impacto de nevadas en el norte  (EMOL)",
-      "url": "https://www.cr2.cl/desierto-de-atacama-cubierto-de-blanco-imagenes-de-la-nasa-captan-impacto-de-nevadas-en-el-norte-emol/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Rare, Widespread Snow in the Atacama Desert (NASA)",
-      "url": "https://www.cr2.cl/rare-widespread-snow-in-the-atacama-desert-nasa/",
-      "fecha": "2026-08-28",
+      "fuente": "EFE Verde",
+      "titular": "La tortuga Kalu vuelve al mar tras cinco meses de recuperación en el Aquarium donostiarra",
+      "url": "https://efeverde.com/tortuga-kalu-vuelve-mar-tras-meses-recuperacion/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Localizan una zona de gran acumulación de magma bajo Tenerife: coincide con la sismicidad anómala",
-      "url": "https://efeverde.com/localizan-gran-acumulacion-magma-bajo-tenerife-sismicidad-anomala/",
-      "fecha": "2026-08-28",
+      "titular": "El verano de 2026, el más cálido de la serie histórica en la España peninsular",
+      "url": "https://efeverde.com/verano-2026-mas-calido-serie-historica-espana-peninsular/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Tragedia en Nepal. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/tragedia-en-nepal-por-victor-solis-visoor/",
-      "fecha": "2026-08-28",
+      "titular": "El lamento de los agricultores salvadoreños debido a las pérdidas por la sequía de El Niño",
+      "url": "https://efeverde.com/lamento-agricultores-salvadorenos-perdidas-sequia-el-nino/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La COP17 de desertificación cierra sin pacto de sequía, pero moviliza 1.300 millones de dólares en financiación",
-      "url": "https://efeverde.com/cop17-desertificacion-cierra-sin-pacto-sequia-moviliza-1-300-millones/",
-      "fecha": "2026-08-28",
+      "titular": "Descubren una lagartija endémica de Perú que habita a más de 4.000 metros de altitud",
+      "url": "https://efeverde.com/descubren-lagartija-endemica-de-peru/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Francia revisa a la baja el crecimiento del PIB tras un verano marcado por calor, incendios y tormentas",
-      "url": "https://efeverde.com/francia-revisa-a-la-baja-el-crecimiento-del-pib-tras-un-verano-marcado-por-calor-incendios-y-tormentas/",
-      "fecha": "2026-08-28",
+      "titular": "Nepal y China elevan a 633 los muertos y a casi 3.000 los desaparecidos tras la riada",
+      "url": "https://efeverde.com/nepal-china-elevan-633-muertos-casi-3-000-desaparecidos-riada/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Dos nidos, un mismo instante: 143 tortugas nacen simultáneamente en Denia (Alicante)",
-      "url": "https://efeverde.com/ctortugas-nacen-simultaneamente-dos-nidos-distintos-denia/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Doñana, un refugio también para las abejas, alberga casi un tercio de las especies conocidas en la península ibérica",
-      "url": "https://efeverde.com/donana-un-refugio-tambien-para-las-abejas-alberga-casi-un-tercio-de-las-especies-conocidas-en-la-peninsula-iberica/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más pequeños y menos hábiles para escapar de depredadores, así afecta el ruido de barcos a los peces",
-      "url": "https://efeverde.com/mas-pequenos-y-menos-habiles-para-escapar-de-depredadores-asi-afecta-el-ruido-de-barcos-a-los-peces/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Día Mundial de los Lagos. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-mundial-de-los-lagos-por-victor-solis-visoor/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El agua del futuro no viene en botella: la asignatura pendiente del consumo sostenible en España. Por Magnus Jern (cofundador de Tappwater)",
-      "url": "https://efeverde.com/agua-del-futuro-no-viene-en-botella-consumo-sostenible-magnus-jern-cofundador-tappwater/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El crédito público premia a los grandes productores en la Amazonía e ignora la bioeconomía",
-      "url": "https://efeverde.com/el-credito-publico-premia-a-los-grandes-productores-en-la-amazonia-e-ignora-la-bioeconomia/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Niño se ha intensificado un 37 % debido al cambio climático",
-      "url": "https://efeverde.com/el-nino-se-ha-intensificado-un-37-debido-al-cambio-climatico/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Estabilizado el incendio intencionado de El Saler (València) y los evacuados pueden volver",
-      "url": "https://efeverde.com/los-medios-logran-contener-el-perimetro-del-incendio-forestal-de-el-saler-valencia/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Alerta en Nepal y China ante el riesgo de desbordamiento de un lago creado tras la riada que deja unos 543 muertos y 1.900 desaparecidos",
-      "url": "https://efeverde.com/alerta-en-nepal-y-china-ante-el-riesgo-de-desbordamiento-de-un-lago-creado-tras-la-riada-que-deja-unos-470-muertos-y-1-500-desaparecidos/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Sucesivos derrames de petróleo en La Herradura amenazan pesca y granjas marinas de ostión y piure",
-      "url": "https://www.terram.cl/el-desconcierto-sucesivos-derrames-de-petroleo-en-la-herradura-amenazan-pesca-y-granjas-marinas-de-ostion-y-piure/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Resumen.cl] Tierras raras en Cobquecura: crece oposición ante el avance de concesiones mineras",
-      "url": "https://www.terram.cl/resumen-cl-tierras-raras-en-cobquecura-crece-oposicion-ante-el-avance-de-concesiones-mineras/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[BiobioChile] Tragedia de Nepal se puede repetir en Chile según geólogos: “Es un riesgo real”, pero en otra magnitud",
-      "url": "https://www.terram.cl/tragedia-de-nepal-se-puede-repetir-en-chile-segun-geologos-es-un-riesgo-real-pero-en-otra-magnitud/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Austerra] Estudio documenta más de 200 especies asociadas a los bosques de huiro en el Estrecho de Magallanes",
-      "url": "https://www.terram.cl/austerra-estudio-documenta-mas-de-200-especies-asociadas-a-los-bosques-de-huiro-en-el-estrecho-de-magallanes/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Mostrador] Nueva plataforma busca identificar y monitorear varamientos de fauna marina en Chile",
-      "url": "https://www.terram.cl/nueva-plataforma-busca-identificar-y-monitorear-varamientos-de-fauna-marina-en-chile/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Concurso invita a retratar cómo las áreas protegidas contribuyen al bienestar de las personas",
-      "url": "https://www.terram.cl/diario-sostenible-concurso-invita-a-retratar-como-las-areas-protegidas-contribuyen-al-bienestar-de-las-personas/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Superintendencia del Medio Ambiente deberá revisar sanción a Sociedad Comercializadora de Carbón en Coronel",
-      "url": "https://3ta.cl/sin-categoria/superintendencia-del-medio-ambiente-debera-revisar-sancion-a-sociedad-comercializadora-de-carbon-en-coronel/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo regional escalafon tecnico a contrata asimilado a grado 17 de la e u s del area de soporte operacional of caldera dr d",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-17-de-la-e-u-s-del-area-de-soporte-operacional-of-caldera-dr-d/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Por condiciones climáticas y estado de los senderos CONAF extiende la exigencia de guía obligatorio hasta el 15 de septiembre",
-      "url": "https://www.conaf.cl/por-condiciones-climaticas-y-estado-de-los-senderos-conaf-extiende-la-exigencia-de-guia-obligatorio-hasta-el-15-de-septiembre/?utm_source=rss&utm_medium=rss&utm_campaign=por-condiciones-climaticas-y-estado-de-los-senderos-conaf-extiende-la-exigencia-de-guia-obligatorio-hasta-el-15-de-septiembre",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Los Ríos y La Araucanía avanzan en agenda conjunta para fortalecer el manejo sostenible y valor agregado del bosque nativo",
-      "url": "https://www.conaf.cl/los-rios-y-la-araucania-avanzan-en-agenda-conjunta-para-fortalecer-el-manejo-sostenible-y-valor-agregado-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=los-rios-y-la-araucania-avanzan-en-agenda-conjunta-para-fortalecer-el-manejo-sostenible-y-valor-agregado-del-bosque-nativo",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cuenta Pública Participativa: SEREMI del Medio Ambiente proyecta desafíos para fortalecer la gestión ambiental en la región del Biobío",
-      "url": "https://mma.gob.cl/cuenta-publica-participativa-seremi-del-medio-ambiente-proyecta-desafios-para-fortalecer-la-gestion-ambiental-en-la-region-del-biobio/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente abre postulaciones del Fondo de Protección Ambiental 2027",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-postulaciones-del-fondo-de-proteccion-ambiental-2027/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Firman Acuerdo de Producción Limpia para impulsar la sustentabilidad del sector gastronómico de La Serena y Coquimbo",
-      "url": "https://mma.gob.cl/firman-acuerdo-de-produccion-limpia-para-impulsar-la-sustentabilidad-del-sector-gastronomico-de-la-serena-y-coquimbo/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del medio ambiente detalla los desafíos y proyectos estratégicos en su Cuenta Pública participativa para el periodo 2025-2026",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-detalla-los-desafios-y-proyectos-estrategicos-en-su-cuenta-publica-participativa-para-el-periodo-2025-2026/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes y familias participan en jornada de educación ambiental en Alto Hospicio",
-      "url": "https://mma.gob.cl/estudiantes-y-familias-participan-en-jornada-de-educacion-ambiental-en-alto-hospicio/",
-      "fecha": "2026-08-28",
+      "titular": "Finales de agosto. Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
+      "url": "https://efeverde.com/finales-de-agosto-por-maria-galvez-del-castillo-luna-ceo-de-smart-blue-lab/",
+      "fecha": "2026-08-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Presidente del Midtjylland aborda las ofertas por Darío Osorio: “El precio no ha sido el correcto; es un jugador muy talentoso”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/presidente-del-midtjylland-aborda-las-ofertas-por-dario-osorio-el-precio-no-ha-sido-el-correcto-es-un-jugador-muy-talentoso/",
+      "titular": "Una ley REP para la próxima década",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/una-ley-rep-para-la-proxima-decada/",
       "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Grenergy ingresa al SEIA proyecto fotovoltaico en María Elena por US$593 millones",
-      "url": "https://www.revistaei.cl/grenergy-ingresa-al-seia-proyecto-fotovoltaico-en-maria-elena-por-us593-millones/",
+      "fuente": "REDIMIN",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Comunidad Indígena Wara Quebrada Chañaral Alto",
+      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-comunidad-indigena-wara-quebrada-chanaral-alto",
       "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Abecedario bilingüe permitirá conocer biodiversidad fueguina y lengua Selk’nam",
-      "url": "https://www.paiscircular.cl/biodiversidad/abecedario/",
-      "fecha": "2026-08-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "15.000 paneles solares para una planta cementera: el proyecto de autogeneración que opera en Tiltil",
-      "url": "https://codexverde.cl/15-000-paneles-solares-para-una-planta-cementera-el-proyecto-de-autogeneracion-que-opera-en-tiltil/",
-      "fecha": "2026-08-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Cuenta Pública: Directora ejecutiva de CONAF traza hoja de ruta para el nuevo Servicio Nacional Forestal",
-      "url": "https://www.conaf.cl/cuenta-publica-directora-ejecutiva-de-conaf-traza-hoja-de-ruta-para-el-nuevo-servicio-nacional-forestal/?utm_source=rss&utm_medium=rss&utm_campaign=cuenta-publica-directora-ejecutiva-de-conaf-traza-hoja-de-ruta-para-el-nuevo-servicio-nacional-forestal",
-      "fecha": "2026-08-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Coquimbo conmemora el X Aniversario de la Certificación de Pesquerías Sustentables de Chile",
-      "url": "https://mma.gob.cl/coquimbo-conmemora-el-x-aniversario-de-la-certificacion-de-pesquerias-sustentables-de-chile/",
-      "fecha": "2026-08-27",
+      "fuente": "REDIMIN",
+      "titular": "Primer Tribunal Ambiental admite cuatro reclamaciones contra el proyecto CopiaPort-E",
+      "url": "https://www.redimin.cl/primer-tribunal-ambiental-admite-cuatro-reclamaciones-contra-el-proyecto-copiaport-e",
+      "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
