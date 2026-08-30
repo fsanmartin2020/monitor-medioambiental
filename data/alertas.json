@@ -1,42 +1,5 @@
 {
-  "fecha_generacion": "2026-08-29T11:46:58.998277-04:00",
-  "total_alertas": 3,
-  "alertas": [
-    {
-      "fuente": "La Tercera",
-      "titular": "Una ley REP para la próxima década",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/una-ley-rep-para-la-proxima-decada/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "SEÑOR DIRECTOR: A diez años de la promulgación de la Ley REP y en la antesala de un nuevo aniversario de su implementación, Chile tiene la oportunidad de abrir una nueva etapa para esta política pública. La experiencia acumulada permite identificar c",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Comunidad Indígena Wara Quebrada Chañaral Alto",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-comunidad-indigena-wara-quebrada-chanaral-alto",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La sentencia valida el archivo de una denuncia relacionada con la faena Kinross-La Coipa, destacando la estabilidad en la calidad del agua en la región.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental admite cuatro reclamaciones contra el proyecto CopiaPort-E",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-admite-cuatro-reclamaciones-contra-el-proyecto-copiaport-e",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las reclamaciones cuestionan la Resolución de Calificación Ambiental del complejo portuario, que implica una inversión de US$450 millones en la región de Atacama.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-08-30T11:24:09.836311-04:00",
+  "total_alertas": 0,
+  "alertas": []
 }

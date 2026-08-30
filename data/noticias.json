@@ -1,77 +1,45 @@
 {
-  "fecha_actualizacion": "2026-08-29T11:46:58.985581-04:00",
-  "total": 9,
+  "fecha_actualizacion": "2026-08-30T11:24:09.823587-04:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "La tortuga Kalu vuelve al mar tras cinco meses de recuperación en el Aquarium donostiarra",
-      "url": "https://efeverde.com/tortuga-kalu-vuelve-mar-tras-meses-recuperacion/",
-      "fecha": "2026-08-29",
+      "titular": "Austria registra entre junio y julio un récord de 646 muertes por calor extremo",
+      "url": "https://efeverde.com/austria-registra-junio-julio-record-646-muertes-calor-extremo/",
+      "fecha": "2026-08-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El verano de 2026, el más cálido de la serie histórica en la España peninsular",
-      "url": "https://efeverde.com/verano-2026-mas-calido-serie-historica-espana-peninsular/",
-      "fecha": "2026-08-29",
+      "titular": "La policía de Ecuador incauta 32 iguanas marinas a una mujer que intentaba sacarlas del país",
+      "url": "https://efeverde.com/policia-ecuador-incauta-32-iguanas-marinas-trafico-especies/",
+      "fecha": "2026-08-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El lamento de los agricultores salvadoreños debido a las pérdidas por la sequía de El Niño",
-      "url": "https://efeverde.com/lamento-agricultores-salvadorenos-perdidas-sequia-el-nino/",
-      "fecha": "2026-08-29",
+      "titular": "Ecologistas denuncian otro vertido de hidrocarburos en la bahía de Algeciras",
+      "url": "https://efeverde.com/ecologistas-denuncian-vertido-algeciras/",
+      "fecha": "2026-08-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Descubren una lagartija endémica de Perú que habita a más de 4.000 metros de altitud",
-      "url": "https://efeverde.com/descubren-lagartija-endemica-de-peru/",
-      "fecha": "2026-08-29",
+      "titular": "China atribuye al colapso de un glaciar la devastadora riada en Nepal, que deja ya 768 muertos",
+      "url": "https://efeverde.com/ccolapso-glaciar-devastadora-riada-nepal-768-muertos/",
+      "fecha": "2026-08-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nepal y China elevan a 633 los muertos y a casi 3.000 los desaparecidos tras la riada",
-      "url": "https://efeverde.com/nepal-china-elevan-633-muertos-casi-3-000-desaparecidos-riada/",
+      "titular": "La tragedia en Nepal reactiva los reclamos en Argentina ante la desprotección de los glaciares",
+      "url": "https://efeverde.com/tragedia-nepal-reactiva-reclamos-argentina-glaciares/",
       "fecha": "2026-08-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Finales de agosto. Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
-      "url": "https://efeverde.com/finales-de-agosto-por-maria-galvez-del-castillo-luna-ceo-de-smart-blue-lab/",
-      "fecha": "2026-08-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Una ley REP para la próxima década",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/una-ley-rep-para-la-proxima-decada/",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Comunidad Indígena Wara Quebrada Chañaral Alto",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-comunidad-indigena-wara-quebrada-chanaral-alto",
-      "fecha": "2026-08-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental admite cuatro reclamaciones contra el proyecto CopiaPort-E",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-admite-cuatro-reclamaciones-contra-el-proyecto-copiaport-e",
-      "fecha": "2026-08-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
