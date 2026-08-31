@@ -1,5 +1,31 @@
 {
-  "fecha_generacion": "2026-08-30T11:24:09.836311-04:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-08-31T14:02:51.395213-04:00",
+  "total_alertas": 2,
+  "alertas": [
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Después de la RCA: la nueva incertidumbre que enfrentan los grandes proyectos de inversión",
+      "url": "https://www.mch.cl/despues-de-la-rca-la-nueva-incertidumbre-que-enfrentan-los-grandes-proyectos-de-inversion/",
+      "fecha": "2026-08-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "“Pretender que el poder judicial se convierta en una nueva evaluación ambiental es desconocer el valor del trabajo técnico desarrollado durante años”, sostuvo el abogado Cristóbal Correa. La entrada Después de la RCA: la nueva incertidumbre que enfre",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental ordena a la SMA revisar multa contra procesadora de carbón en Coronel",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-ordena-a-la-sma-revisar-multa-contra-procesadora-de-carbon-en-coronel/",
+      "fecha": "2026-08-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental acogió parcialmente la reclamación de Sociedad Comercializadora de Carbón SpA y ordenó al organismo fiscalizador pronunciarse nuevamente sobre la sanción de 68 UTA aplicada por superar la Norma de Emisión de Ruido en un r",
+      "keywords_detectadas": [
+        "SMA",
+        "Tribunal Ambiental"
+      ]
+    }
+  ]
 }
