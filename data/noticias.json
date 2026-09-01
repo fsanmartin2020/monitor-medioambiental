@@ -1,244 +1,196 @@
 {
-  "fecha_actualizacion": "2026-08-31T14:02:51.380164-04:00",
-  "total": 30,
+  "fecha_actualizacion": "2026-09-01T11:38:04.545439-04:00",
+  "total": 24,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Casinos en vivo 2026: Mejores juegos y bonos exclusivos",
-      "url": "https://www.paiscircular.cl/pulse/mejores-casinos-en-vivo/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "5ª Encuesta Reciclando-Ando: El reciclaje se estabiliza en 53%, mientras el reúso de envases y la compra a granel se mantiene en 69% de la ciudadanía",
-      "url": "https://www.paiscircular.cl/reutilizacion/5a-encuesta-reciclando-ando-el-reciclaje-se-estabiliza-en-53-mientras-el-uso-de-reutilizables-y-la-compra-a-granel-se-mantiene-en-69-de-la-ciudadania/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "La COP17 contra la desertificación moviliza 1.300 millones, pero vuelve a aplazar el gran pacto mundial contra la sequía",
-      "url": "https://www.chiledesarrollosustentable.cl/la-cop17-contra-la-desertificacion-moviliza-1-300-millones-pero-vuelve-a-aplazar-el-gran-pacto-mundial-contra-la-sequia/?utm_source=rss&utm_medium=rss&utm_campaign=la-cop17-contra-la-desertificacion-moviliza-1-300-millones-pero-vuelve-a-aplazar-el-gran-pacto-mundial-contra-la-sequia",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "La confianza será el principal desafío para la adopción de la IA autónoma, NTT DATA",
-      "url": "https://www.chiledesarrollosustentable.cl/la-confianza-sera-el-principal-desafio-para-la-adopcion-de-la-ia-autonoma-ntt-data/?utm_source=rss&utm_medium=rss&utm_campaign=la-confianza-sera-el-principal-desafio-para-la-adopcion-de-la-ia-autonoma-ntt-data",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Estudio revela que bosques de huiro en Cabo Froward albergan al menos 238 grupos de especies",
-      "url": "https://codexverde.cl/estudio-revela-que-bosques-de-huiro-en-cabo-froward-albergan-al-menos-238-grupos-de-especies/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "La cuenca del Maipo recupera su reserva de agua: el déficit cae de 92% a 10%",
-      "url": "https://codexverde.cl/la-cuenca-del-maipo-recupera-su-reserva-de-agua-el-deficit-cae-de-92-a-10/",
-      "fecha": "2026-08-31",
+      "fuente": "EFE Verde",
+      "titular": "El papa León XIV pide rezar por el agua, «un derecho sin fronteras» convertido en mercancía",
+      "url": "https://efeverde.com/papa-leon-xiv-pide-rezar-agua/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "En el sur de Honduras claman por lluvias en septiembre para salvar última cosecha del año",
-      "url": "https://efeverde.com/honduras-claman-lluvias-salvar-ultima-cosecha/",
-      "fecha": "2026-08-31",
+      "titular": "El Gobierno aprueba extender el Abono Único a la red de transporte autonómico y local",
+      "url": "https://efeverde.com/gobierno-aprueba-extender-abono-unico-transporte-autonomico-local/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un muerto y unos 15 desaparecidos tras una inundación repentina en el Gran Cañón en Arizona",
-      "url": "https://efeverde.com/muerto-desaparecidos-inundacion-repentina-gran-canon-arizona/",
-      "fecha": "2026-08-31",
+      "titular": "El calentamiento del Mediterráneo pone en riesgo la aviación en el continente",
+      "url": "https://efeverde.com/calentamiento-mediterraneo-riesgo-aviacion/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios han afectado en 2026 a 264.656 hectáreas, 80.000 menos que el año pasado",
-      "url": "https://efeverde.com/hectareas-afectadas-2026-espana-264-656/",
-      "fecha": "2026-08-31",
+      "titular": "Nepal solicita ayuda urgente del fondo de pérdidas y daños por el cambio climático tras la mortal riada",
+      "url": "https://efeverde.com/nepal-fondo-de-perdidas-y-danos-cambio-climatico-mortal-riada/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las estrellas de mar adaptan su genoma a la región donde viven, según estudio científico",
-      "url": "https://efeverde.com/estrellas-mar-adaptan-genoma-region-viven/",
-      "fecha": "2026-08-31",
+      "titular": "Detectan 81 contaminantes en cuatro especies de peces habituales en la dieta mediterránea",
+      "url": "https://efeverde.com/detectan-contaminantes-peces-habituales-dieta-mediterranea/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Reorganización y capacidad de adaptación: claves de la supervivencia del atún rojo del sur en un océano más cálido",
-      "url": "https://efeverde.com/claves-supervivencia-atun-rojo-sur-oceano-mas-calido/",
-      "fecha": "2026-08-31",
+      "titular": "España remite a Bruselas su plan para restaurar la naturaleza y los ecosistemas degradados",
+      "url": "https://efeverde.com/espana-remite-bruselas-plan-restaurar-naturaleza-ecosistemas-degradados/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "De Adam a Walter: así se llamarán las borrascas y danas de gran impacto de la temporada 2026-2027",
-      "url": "https://efeverde.com/lista-nombres-borrascas-danas-gran-impacto-temporada-2026-2027/",
-      "fecha": "2026-08-31",
+      "titular": "La temporada de incendios en Europa pone a prueba al centro de respuesta coordinada de la UE",
+      "url": "https://efeverde.com/temporada-incendios-europa-centro-respuesta-coordinada-ue/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nepal eleva a 903 los muertos y a 4.247 los desaparecidos por la violenta riada",
-      "url": "https://efeverde.com/nepal-eleva-903-muertos-desaparecidos-riada/",
-      "fecha": "2026-08-31",
+      "titular": "El comercio atraviesa el Ártico. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/el-comercio-atraviesa-el-artico-por-victor-solis-visoor/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El volcán Sinabung erupciona en Indonesia y expulsa una columna de ceniza de 3.500 metros",
-      "url": "https://efeverde.com/erupciona-indonesia-volcan-sinabung/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cuatro lagunas volcánicas de Ciudad Real resisten el calor como refugio de aves acuáticas",
-      "url": "https://efeverde.com/cuatro-lagunas-volcanicas-ciudad-real-refugio-aves-acuaticas/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los arrecifes aún pueden regenerarse si se controla la subida de la temperatura del mar",
-      "url": "https://efeverde.com/arrecifes-aun-pueden-regenerarse-subida-temperatura-del-mar/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Vallados virtuales, la vía para el relevo generacional ganadero, evitar incendios y gestionar al lobo",
-      "url": "https://efeverde.com/vallados-virtuales-la-via-para-el-relevo-generacional-ganadero-evitar-incendios-y-gestionar-al-lobo/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Recircular, el «Tinder industrial» para que las empresas den una segunda vida a lo que no necesitan",
-      "url": "https://efeverde.com/recircular-empresas-industria-segunda-vida-materiales/",
-      "fecha": "2026-08-31",
+      "titular": "La energía solar supera por primera vez al carbón en capacidad instalada en China",
+      "url": "https://efeverde.com/energia-solar-supera-primera-vez-carbon-china/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desoncierto] Desmienten aprobación de proyecto Dominga tras video de Andes Iron donde celebran inicio de su construcción",
-      "url": "https://www.terram.cl/desmienten-aprobacion-de-proyecto-dominga-tras-video-de-andes-iron-donde-celebran-inicio-de-su-construccion/",
-      "fecha": "2026-08-31",
+      "titular": "33 organizaciones sociales anuncian el Festival Ciudadano UNE, encabezado por Cristóbal Briceño y el Coro Ciudadano Ochagavía, dirigido por Nicole",
+      "url": "https://www.terram.cl/33-organizaciones-sociales-anuncian-el-festival-ciudadano-une-encabezado-por-cristobal-briceno-y-el-coro-ciudadano-ochagavia-dirigido-por-nicole/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Nuevas narrativas para la minería en Chile: 8 prioridades desde la sociedad civil⁠",
-      "url": "https://www.terram.cl/nuevas-narrativas-para-la-mineria-en-chile-8-prioridades-desde-la-sociedad-civil%e2%81%a0/",
-      "fecha": "2026-08-31",
+      "titular": "[Resumen] Tomé: las cinco empresas que concentran miles de hectáreas en concesiones mineras en la comuna",
+      "url": "https://www.terram.cl/resumen-tome-las-cinco-empresas-que-concentran-miles-de-hectareas-en-concesiones-mineras-en-la-comuna/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Interferencia] Caso Jilguero: Corte revoca sobreseimiento de minera del grupo Luksic por diligencias pendientes",
-      "url": "https://www.terram.cl/caso-jilguero-corte-revoca-sobreseimiento-de-minera-del-grupo-luksic-por-diligencias-pendientes/",
-      "fecha": "2026-08-31",
+      "titular": "[Codex Verde] Rocuant-Andalién: el humedal cuestionado por Presidente Kast que alberga más de 120 especies y protege a Talcahuano",
+      "url": "https://www.terram.cl/codex-verde-rocuant-andalien-el-humedal-cuestionado-por-presidente-kast-que-alberga-mas-de-120-especies-y-protege-a-talcahuano/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Mongabay] COP17: el mundo no logra un acuerdo contra la sequía y posterga la agenda de sociedad civil en la restauración de la tierra",
-      "url": "https://www.terram.cl/cop17-el-mundo-no-logra-un-acuerdo-contra-la-sequia-y-posterga-la-agenda-de-sociedad-civil-en-la-restauracion-de-la-tierra/",
-      "fecha": "2026-08-31",
+      "titular": "[El Desconcierto] Islas de Atacama y Coquimbo viven explosión de biodiversidad nativa tras erradicar plagas de ratas y conejos",
+      "url": "https://www.terram.cl/el-desconcierto-islas-de-atacama-y-coquimbo-viven-explosion-de-biodiversidad-nativa-tras-erradicar-plagas-de-ratas-y-conejos/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Nortero] Apagar no es cerrar: Denuncian qué pasó con las termoeléctricas a carbón en Tocopilla",
-      "url": "https://www.terram.cl/apagar-no-es-cerrar-denuncian-que-paso-con-las-termoelectricas-a-carbon-en-tocopilla/",
-      "fecha": "2026-08-31",
+      "titular": "[Diario Sostenible] Buscan reunir 250 mil firmas en todo el mundo para proteger el río Pilmaiquén",
+      "url": "https://www.terram.cl/diario-sostenible-buscan-reunir-250-mil-firmas-en-todo-el-mundo-para-proteger-el-rio-pilmaiquen/",
+      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[InduAmbiente] El reciclaje se estabiliza en 53% en la ciudadanía, con el plástico como el material más reciclado",
-      "url": "https://www.terram.cl/el-reciclaje-se-estabiliza-en-53-en-la-ciudadania-con-el-plastico-como-el-material-mas-reciclado/",
+      "titular": "[Biobio.cl] Ballena jorobada fue encontrada varada en costas de Coquimbo",
+      "url": "https://www.terram.cl/biobio-cl-ballena-jorobada-fue-encontrada-varada-en-costas-de-coquimbo/",
+      "fecha": "2026-09-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Turno medidas provisionales 31/08/2026",
+      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-30-08-2026/",
+      "fecha": "2026-09-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Lanzan mesa de turismo y patrimonio cultural del Parque Nacional Alerce Costero y la Reserva Costera Valdiviana",
+      "url": "https://www.conaf.cl/lanzan-mesa-de-turismo-y-patrimonio-cultural-del-parque-nacional-alerce-costero-y-la-reserva-costera-valdiviana/?utm_source=rss&utm_medium=rss&utm_campaign=lanzan-mesa-de-turismo-y-patrimonio-cultural-del-parque-nacional-alerce-costero-y-la-reserva-costera-valdiviana",
+      "fecha": "2026-09-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Comité de Ministros mantiene RCA de Aguas Marítimas, proyecto desalinizador por US$5.000 millones",
+      "url": "https://www.nuevamineria.com/revista/comite-de-ministros-mantiene-rca-de-aguas-maritimas-proyecto-desalinizador-por-us5-000-millones/",
+      "fecha": "2026-09-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Oferta Laboral: ONG FIMA busca profesional de investigación y análisis ambiental",
+      "url": "https://www.fima.cl/2026/08/31/oferta-laboral-ong-fima-busca-profesional-de-investigacion-y-analisis-ambiental/",
       "fecha": "2026-08-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Boletín N°71 de Jurisprudencia Ambiental",
-      "url": "https://3ta.cl/noticias/boletin-n71-de-jurisprudencia-ambiental/",
+      "titular": "15/09/2026: Fija audiencia en caso de «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-18-2026",
+      "url": "https://3ta.cl/audiencias/15-09-2026-fija-audiencia-en-caso-de-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
       "fecha": "2026-08-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "200 personas rindieron evaluaciones físicas y psicológicas para integrar brigadas de CONAF",
-      "url": "https://www.conaf.cl/200-personas-rindieron-evaluaciones-fisicas-y-psicologicas-para-integrar-brigadas-de-conaf/?utm_source=rss&utm_medium=rss&utm_campaign=200-personas-rindieron-evaluaciones-fisicas-y-psicologicas-para-integrar-brigadas-de-conaf",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comité de Ministros mantiene calificación favorable de proyectos por US$5.811 millones",
+      "url": "https://mma.gob.cl/comite-de-ministros-mantiene-calificacion-favorable-de-proyectos-por-us5-811-millones/",
       "fecha": "2026-08-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "DGA - MOP",
-      "titular": "Estudiantes de Caldera representaron a Chile en Premio Junior del Agua en Estocolmo",
-      "url": "https://dga.mop.gob.cl/estudiantes-de-caldera-representaron-a-chile-en-premio-junior-del-agua-en-estocolmo/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Campaña «100 Años, 100 Acciones» cierra con un exitoso balance de participación ciudadana",
+      "url": "https://mma.gob.cl/campana-100-anos-100-acciones-cierra-con-un-exitoso-balance-de-participacion-ciudadana/",
+      "fecha": "2026-08-31",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente anuncia apertura de fondos FPA destinados a financiar soluciones ambientales con mirada local",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-anuncia-apertura-de-fondos-fpa-destinados-a-financiar-soluciones-ambientales-con-mirada-local/",
       "fecha": "2026-08-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Dorothy Perez detalla que Steinert desistió en su solicitud de reconsiderar dictamen que establecía que excedió sus atribuciones",
-      "url": "https://www.latercera.com/nacional/noticia/dorothy-perez-detalla-que-steinert-desistio-en-su-solicitud-de-reconsiderar-dictamen-que-establecia-que-excedio-sus-atribuciones/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Después de la RCA: la nueva incertidumbre que enfrentan los grandes proyectos de inversión",
-      "url": "https://www.mch.cl/despues-de-la-rca-la-nueva-incertidumbre-que-enfrentan-los-grandes-proyectos-de-inversion/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental ordena a la SMA revisar multa contra procesadora de carbón en Coronel",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-ordena-a-la-sma-revisar-multa-contra-procesadora-de-carbon-en-coronel/",
+      "titular": "Stephan Schubert y sesión de Comisión de RR.EE. con el canciller: “Para poder conversar con total libertad, creo que se justifica que sea secreta”",
+      "url": "https://www.latercera.com/politica/noticia/stephan-schubert-y-sesion-de-comision-de-rree-con-el-canciller-para-poder-conversar-con-total-libertad-creo-que-se-justifica-que-sea-secreta/",
       "fecha": "2026-08-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
