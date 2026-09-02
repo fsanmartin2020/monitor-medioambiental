@@ -1,41 +1,53 @@
 {
-  "fecha_generacion": "2026-09-01T11:38:04.560031-04:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-09-02T11:09:48.062281-04:00",
+  "total_alertas": 4,
   "alertas": [
     {
+      "fuente": "Terram",
+      "titular": "[SMA] Emanuel Ibarra asume como Superintendente del Medio Ambiente y aborda agenda institucional y legislativa en su primer día de gestión",
+      "url": "https://www.terram.cl/sma-emanuel-ibarra-asume-como-superintendente-del-medio-ambiente-y-aborda-agenda-institucional-y-legislativa-en-su-primer-dia-de-gestion/",
+      "fecha": "2026-09-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La autoridad inició sus funciones con reuniones junto a la Ministra Francisca Toledo, el Subsecretario José Vial y los equipos de la SMA, para luego asistir a la Comisión de Medio Ambiente del Senado por el proyecto de ley que modifica la LOSMA. Fuen",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
       "fuente": "Nueva Minería",
-      "titular": "Comité de Ministros mantiene RCA de Aguas Marítimas, proyecto desalinizador por US$5.000 millones",
-      "url": "https://www.nuevamineria.com/revista/comite-de-ministros-mantiene-rca-de-aguas-maritimas-proyecto-desalinizador-por-us5-000-millones/",
+      "titular": "Emanuel Ibarra inicia gestión en la SMA con foco en fiscalización estratégica y reforma institucional",
+      "url": "https://www.nuevamineria.com/revista/emanuel-ibarra-inicia-gestion-en-la-sma-con-foco-en-fiscalizacion-estrategica-y-reforma-institucional/",
+      "fecha": "2026-09-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El nuevo superintendente del Medio Ambiente planteó como prioridades avanzar hacia respuestas más oportunas y fortalecer la vinculación territorial del organismo. En su primera jornada participó en la discusión legislativa que busca ampliar las facul",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA publica proyectos ingresados en agosto y abre plazo para solicitar participación ciudadana",
+      "url": "https://www.redimin.cl/sea-publica-proyectos-ingresados-en-agosto-y-abre-plazo-para-solicitar-participacion-ciudadana",
       "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa de CRAMSA contempla una planta de ósmosis inversa con capacidad de hasta 700.000 m³ diarios y una red de distribución cercana a 480 kilómetros entre Antofagasta y Calama. El sistema apunta a abastecer consumo humano y actividades indust",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "15/09/2026: Fija audiencia en caso de «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-18-2026",
-      "url": "https://3ta.cl/audiencias/15-09-2026-fija-audiencia-en-caso-de-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 15/09/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 15/09/2026: Fija audiencia en caso de «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-18-2026 ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Stephan Schubert y sesión de Comisión de RR.EE. con el canciller: “Para poder conversar con total libertad, creo que se justifica que sea secreta”",
-      "url": "https://www.latercera.com/politica/noticia/stephan-schubert-y-sesion-de-comision-de-rree-con-el-canciller-para-poder-conversar-con-total-libertad-creo-que-se-justifica-que-sea-secreta/",
-      "fecha": "2026-08-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el programa de streaming de La Tercera, Desde la Redacción, el presidente de esa instancia y diputado del Partido Republicano relató que en la sesión de este martes con el ministro de Relaciones Exteriores, Francisco Pérez Mackenna, abordarán la r",
+      "extracto": "El Servicio de Evaluación Ambiental de Chile ha publicado el listado de proyectos ingresados en agosto, abriendo la posibilidad para que las comunidades afectadas soliciten participación ciudadana.",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Primer Tribunal Ambiental rechaza invalidación del proyecto de recuperación de minerales de CMP",
+      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-invalidacion-del-proyecto-de-recuperacion-de-minerales-de-cmp",
+      "fecha": "2026-09-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La decisión se basa en que no es necesario acreditar dominio sobre el terreno para evaluar el impacto ambiental del proyecto en la Región de Atacama.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]
