@@ -1,53 +1,29 @@
 {
-  "fecha_generacion": "2026-09-02T11:09:48.062281-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-09-03T11:02:58.174091-04:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[SMA] Emanuel Ibarra asume como Superintendente del Medio Ambiente y aborda agenda institucional y legislativa en su primer día de gestión",
-      "url": "https://www.terram.cl/sma-emanuel-ibarra-asume-como-superintendente-del-medio-ambiente-y-aborda-agenda-institucional-y-legislativa-en-su-primer-dia-de-gestion/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La autoridad inició sus funciones con reuniones junto a la Ministra Francisca Toledo, el Subsecretario José Vial y los equipos de la SMA, para luego asistir a la Comisión de Medio Ambiente del Senado por el proyecto de ley que modifica la LOSMA. Fuen",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Emanuel Ibarra inicia gestión en la SMA con foco en fiscalización estratégica y reforma institucional",
-      "url": "https://www.nuevamineria.com/revista/emanuel-ibarra-inicia-gestion-en-la-sma-con-foco-en-fiscalizacion-estrategica-y-reforma-institucional/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El nuevo superintendente del Medio Ambiente planteó como prioridades avanzar hacia respuestas más oportunas y fortalecer la vinculación territorial del organismo. En su primera jornada participó en la discusión legislativa que busca ampliar las facul",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA publica proyectos ingresados en agosto y abre plazo para solicitar participación ciudadana",
-      "url": "https://www.redimin.cl/sea-publica-proyectos-ingresados-en-agosto-y-abre-plazo-para-solicitar-participacion-ciudadana",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental de Chile ha publicado el listado de proyectos ingresados en agosto, abriendo la posibilidad para que las comunidades afectadas soliciten participación ciudadana.",
+      "fuente": "Emol",
+      "titular": "Arrau valora fallo que revoca traslado del Clan Chen a cárcel de Alto Hospicio: \"Esperemos esta sea la tónica\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/03/1210383/arrau-traslado-clan-chen-carcel.html",
+      "fecha": "2026-09-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "08:29 |\"Va en la línea de lo que ha tratado de hacer el Gobierno\", dijo.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental rechaza invalidación del proyecto de recuperación de minerales de CMP",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-invalidacion-del-proyecto-de-recuperacion-de-minerales-de-cmp",
-      "fecha": "2026-09-01",
+      "fuente": "La Tercera",
+      "titular": "Arrau ante revocación de fallo que bloqueó traslado del clan Chen: “Esperemos que esto sea la tónica de aquí para adelante”",
+      "url": "https://www.latercera.com/nacional/noticia/arrau-ante-revocacion-del-traslado-del-clan-chen-esperemos-que-esto-sea-la-tonica-de-aqui-para-adelante/",
+      "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La decisión se basa en que no es necesario acreditar dominio sobre el terreno para evaluar el impacto ambiental del proyecto en la Región de Atacama.",
+      "extracto": "El ministro de Seguridad destacó además el trabajo por parte de Gendarmería de Chile y el hecho de que estos fallos vayan en la línea de lo que ha tratado de hacer el gobierno en cuanto a segmentación penal.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     }
   ]

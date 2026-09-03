@@ -1,277 +1,221 @@
 {
-  "fecha_actualizacion": "2026-09-02T11:09:48.047429-04:00",
-  "total": 34,
+  "fecha_actualizacion": "2026-09-03T11:02:58.159002-04:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Casinos online con Webpay en Chile: 10 sitios verificados en 2026",
-      "url": "https://www.paiscircular.cl/pulse/casinos-online-webpay/",
-      "fecha": "2026-09-02",
+      "fuente": "Codex Verde",
+      "titular": "Chile lidera: América Latina y el Caribe duplica su capacidad de almacenamiento en baterías en menos de un año",
+      "url": "https://codexverde.cl/chile-lidera-america-latina-y-el-caribe-duplica-su-capacidad-de-almacenamiento-en-baterias-en-menos-de-un-ano/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "HuellaChile marca hito de 3.000 sellos entregados con reconocimiento a Casaideas por su gestión de emisiones",
-      "url": "https://www.paiscircular.cl/medio-ambiente/huellachile-marca-hito-de-3-000-sellos-entregados-con-reconocimiento-a-casaideas-por-su-gestion-de-emisiones/",
-      "fecha": "2026-09-02",
+      "fuente": "EFE Verde",
+      "titular": "Francia vive su verano más caluroso desde que hay registros, con un récord de 53 días en olas de calor",
+      "url": "https://efeverde.com/francia-mas-caluroso-registros-record-olas-calor/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Análisis CR2 | El Niño de 1877-1878: ¿por qué la intensidad del fenómeno no explica por sí sola sus impactos?",
-      "url": "https://www.cr2.cl/analisis-cr2-el-nino-de-1877-1878-por-que-la-intensidad-del-fenomeno-no-explica-por-si-sola-sus-impactos/",
+      "fuente": "EFE Verde",
+      "titular": "Un estudio alerta del declive persistente de los pájaros y mariposas en Europa",
+      "url": "https://efeverde.com/estudio-alerta-declive-persistente-pajaros-mariposas-europa/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El fuego arrasó 647.375 hectáreas en la UE hasta septiembre, un 35 % menos que en 2025",
+      "url": "https://efeverde.com/fuego-arraso-647-375-hectareas-ue-septiembre/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La contaminación del embalse de As Conchas llega a Portugal y los vecinos piden a la Justicia que se cumpla la sentencia",
+      "url": "https://efeverde.com/contaminacion-embalse-as-conchas-portugal-justicia-cumpla-sentencia/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La desigualdad frente al calor: refrigerar la vivienda está directamente vinculado con el nivel de ingresos",
+      "url": "https://efeverde.com/desigualdad-calor-refrigerar-vivienda-vinculado-nivel-ingresos/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ornitología, reacondicionamiento y valorización energética para abrir la temporada en Mangas Verdes 495",
+      "url": "https://efeverde.com/ornitologia-reacondicionamiento-valorizacion-energetica-temporada-mangas-verdes-495/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Océanos más cálidos: la OMM alerta de cambios irreversibles",
+      "url": "https://efeverde.com/oceano-mas-calido-la-omm-alerta-de-cambios-irreversibles/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Niño se intensificará hasta ser muy fuerte, alerta la mayor autoridad sobre el clima",
+      "url": "https://efeverde.com/el-nino-se-intensificara-hasta-ser-muy-fuerte-alerta-la-mayor-autoridad-sobre-el-clima/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Retraso en norma secundaria de protección de ríos Rahue y Damas preocupa a organizaciones ambientales",
+      "url": "https://www.terram.cl/retraso-en-norma-secundaria-de-proteccion-de-rios-rahue-y-damas-preocupa-a-organizaciones-ambientales/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "Estudio advierte que los bosques de araucaria entrarían en Peligro Crítico hacia 2060",
+      "url": "https://www.terram.cl/estudio-advierte-que-los-bosques-de-araucaria-entrarian-en-peligro-critico-hacia-2060/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Arrau valora fallo que revoca traslado del Clan Chen a cárcel de Alto Hospicio: \"Esperemos esta sea la tónica\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/03/1210383/arrau-traslado-clan-chen-carcel.html",
+      "fecha": "2026-09-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "Cámara vota comisión por caso Cerimedo en la antesala del Foro Madrid en el que Kast participará este jueves",
+      "url": "https://interferencia.cl/articulos/camara-vota-comision-por-caso-cerimedo-en-la-antesala-del-foro-madrid-en-el-que-kast",
+      "fecha": "2026-09-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Codelco proyecta invertir US$16 millones en la recuperación de antiguo terreno industrial en Antofagasta",
+      "url": "https://www.nuevamineria.com/revista/codelco-proyecta-invertir-us16-millones-en-la-recuperacion-de-antiguo-terreno-industrial-en-antofagasta/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Caso de malaria en Talcahuano: académica explica el riesgo de los mosquitos “polizones”",
+      "url": "https://codexverde.cl/caso-de-malaria-en-talcahuano-academica-explica-el-riesgo-de-los-mosquitos-polizones/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Parlamento nepalí declara el cambio climático amenaza de seguridad nacional tras riada",
-      "url": "https://efeverde.com/parlamento-nepali-cambio-climatico-seguridad-nacional-riada/",
+      "titular": "Los pinos exóticos del hemisferio sur crecen más rápido y son más resistentes a la sequía",
+      "url": "https://efeverde.com/pinos-exoticos-hemisferio-sur-crecen-mas-rapido-resistentes-sequia/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El CSN certifica el correcto funcionamiento de las instalaciones nucleares españolas",
-      "url": "https://efeverde.com/el-csn-certifica-el-correcto-funcionamiento-de-las-instalaciones-nucleares-espanolas/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Peces intoxicados. Por May",
-      "url": "https://efeverde.com/peces-intoxicados-may-mundomay/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La justicia europea rechaza un recurso ecologista contra el reparto de emisiones de la UE para 2023-2030",
-      "url": "https://efeverde.com/justicia-europea-rechaza-recurso-ong-reparto-emisiones-ue/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno traslada a la Fiscalía de Medio Ambiente el balance de investigación de la orca Toñi",
-      "url": "https://efeverde.com/gobierno-traslada-a-fiscalia-de-medio-ambiente-el-balance-de-investigacion-de-la-orca-toni/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La ONU asume que se van a superar los 1,5 grados de calentamiento, pero cree que todavía es reversible",
-      "url": "https://efeverde.com/onu-superar-15-grados-calentamiento-global-reversible/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[ El Desconcierto] Termina la veda de merluza austral y pescadores piden extenderla tras 10 años de sobreexplotación",
-      "url": "https://www.terram.cl/el-desconcierto-termina-la-veda-de-merluza-austral-y-pescadores-piden-extenderla-tras-10-anos-de-sobreexplotacion/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Abren fondo nacional para financiar soluciones ambientales con mirada territorial",
-      "url": "https://www.terram.cl/diario-sostenible-abren-fondo-nacional-para-financiar-soluciones-ambientales-con-mirada-territorial/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[SMA] Emanuel Ibarra asume como Superintendente del Medio Ambiente y aborda agenda institucional y legislativa en su primer día de gestión",
-      "url": "https://www.terram.cl/sma-emanuel-ibarra-asume-como-superintendente-del-medio-ambiente-y-aborda-agenda-institucional-y-legislativa-en-su-primer-dia-de-gestion/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Acusan a motoqueros de destruir nidos y aplastar polluelos tras ingreso a humedal Río Elqui",
-      "url": "https://www.terram.cl/el-desconcierto-acusan-a-motoqueros-de-destruir-nidos-y-aplastar-polluelos-tras-ingreso-a-humedal-rio-elqui/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Codex Verde] Cuenca del Maipo recupera su reserva de agua: el déficit cae de 92% a 10%",
-      "url": "https://www.terram.cl/codex-verde-cuenca-del-maipo-recupera-su-reserva-de-agua-el-deficit-cae-de-92-a-10/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] ¡Los cachalotes están llegando a Chañaral de Aceituno! La huella de los cetáceos en una de las caletas más icónicas del norte chileno",
-      "url": "https://www.terram.cl/ladera-sur-los-cachalotes-estan-llegando-a-chanaral-de-aceituno-la-huella-de-los-cetaceos-en-una-de-las-caletas-mas-iconicas-del-norte-chileno/",
+      "titular": "SIGAUS gestionó 137.557 toneladas de aceite usado en 2025, un 4 % más que el año anterior",
+      "url": "https://efeverde.com/sigaus-gestiono-toneladas-aceite-usado-2025/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF, CORMA y Bomberos analizan lecciones de la última temporada incendios forestales",
-      "url": "https://www.conaf.cl/conaf-corma-y-bomberos-analizan-lecciones-de-la-ultima-temporada-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-corma-y-bomberos-analizan-lecciones-de-la-ultima-temporada-incendios-forestales",
+      "titular": "Consejo Consultivo de la Reserva Ñuble elige nueva directiva para el trienio 2026-2028",
+      "url": "https://www.conaf.cl/consejo-consultivo-de-la-reserva-nuble-elige-nueva-directiva-para-el-trienio-2026-2028/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-consultivo-de-la-reserva-nuble-elige-nueva-directiva-para-el-trienio-2026-2028",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF y CORMA fortalecen a pequeños propietarios forestales con donación de 18 mil plantas en Ñuble",
-      "url": "https://www.conaf.cl/conaf-y-corma-fortalecen-a-pequenos-propietarios-forestales-con-donacion-de-18-mil-plantas-en-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-corma-fortalecen-a-pequenos-propietarios-forestales-con-donacion-de-18-mil-plantas-en-nuble",
+      "titular": "CONAF entrega mapas de riesgo a las 32 comunas y avanza en planes de prevención de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-entrega-mapas-de-riesgo-a-las-32-comunas-y-avanza-en-planes-de-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-entrega-mapas-de-riesgo-a-las-32-comunas-y-avanza-en-planes-de-prevencion-de-incendios-forestales",
+      "fecha": "2026-09-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "INDAP y CONAF capacitan a familias de Panguipulli en plantación de avellano chileno como alternativa productiva sustentable",
+      "url": "https://www.conaf.cl/indap-y-conaf-capacitan-a-familias-de-panguipulli-en-plantacion-de-avellano-chileno-como-alternativa-productiva-sustentable/?utm_source=rss&utm_medium=rss&utm_campaign=indap-y-conaf-capacitan-a-familias-de-panguipulli-en-plantacion-de-avellano-chileno-como-alternativa-productiva-sustentable",
+      "fecha": "2026-09-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Santiago registra su tercer mejor invierno en Calidad del Aire desde que existe el Plan de Descontaminación",
+      "url": "https://portal.sma.gob.cl/index.php/santiago-registra-su-tercer-mejor-invierno-en-calidad-del-aire-desde-que-existe-el-plan-de-descontaminacion/",
+      "fecha": "2026-09-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "DGA participó en primera Exposición de Montaña y Antártica en la Escuela Militar",
+      "url": "https://dga.mop.gob.cl/dga-participo-en-primera-exposicion-de-montana-y-antartica-en-la-escuela-militar/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Santiago registra su tercer mejor invierno en calidad del aire desde que existe el Plan de Descontaminación",
-      "url": "https://mma.gob.cl/santiago-registra-su-tercer-mejor-invierno-en-calidad-del-aire-desde-que-existe-el-plan-de-descontaminacion/",
+      "titular": "Ministerio del Medio Ambiente invita a la ciudadanía de Ñuble a registrar fauna marina a través de iNaturalist Chile",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-invita-a-la-ciudadania-de-nuble-a-registrar-fauna-marina-a-traves-de-inaturalist-chile/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente abre las postulaciones al Fondo de Protección Ambiental 2027",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-abre-las-postulaciones-al-fondo-de-proteccion-ambiental-2027/",
+      "titular": "FPA 2027 abre postulaciones con financiamiento de $6 millones para proyectos ambientales",
+      "url": "https://mma.gob.cl/fpa-2027-abre-postulaciones-con-financiamiento-de-6-millones-para-proyectos-ambientales/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Nuevo superintendente del Medio Ambiente aborda agenda institucional y legislativa en inicio de su gestión",
-      "url": "https://www.mch.cl/nuevo-superintendente-del-medio-ambiente-aborda-agenda-institucional-y-legislativa-en-inicio-de-su-gestion/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Calidad del aire en Chillán y Chillán Viejo registra menor concentración de MP2,5 durante agosto respecto de 2025",
+      "url": "https://mma.gob.cl/calidad-del-aire-en-chillan-y-chillan-viejo-registra-menor-concentracion-de-mp25-durante-agosto-respecto-de-2025/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Nuevo superintendente del Medio Ambiente aborda agenda institucional y legislativa en inicio de su gestión",
-      "url": "https://www.revistaei.cl/nuevo-superintendente-del-medio-ambiente-aborda-agenda-institucional-y-legislativa-en-inicio-de-su-gestion/",
+      "fuente": "La Tercera",
+      "titular": "Arrau ante revocación de fallo que bloqueó traslado del clan Chen: “Esperemos que esto sea la tónica de aquí para adelante”",
+      "url": "https://www.latercera.com/nacional/noticia/arrau-ante-revocacion-del-traslado-del-clan-chen-esperemos-que-esto-sea-la-tonica-de-aqui-para-adelante/",
       "fecha": "2026-09-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Nueva Minería",
-      "titular": "Emanuel Ibarra inicia gestión en la SMA con foco en fiscalización estratégica y reforma institucional",
-      "url": "https://www.nuevamineria.com/revista/emanuel-ibarra-inicia-gestion-en-la-sma-con-foco-en-fiscalizacion-estrategica-y-reforma-institucional/",
+      "titular": "Experto advierte brecha entre producción proyectada y extracción de salmuera en Salar Futuro",
+      "url": "https://www.nuevamineria.com/revista/experto-advierte-brecha-entre-produccion-proyectada-y-extraccion-de-salmuera-en-salar-futuro/",
       "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Playa Mata Oscura, hábitat crítico de tortugas que merece la «máxima protección» en Panamá",
-      "url": "https://efeverde.com/playa-mata-oscura-habitat-critico-tortugas-marinas/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "En Chile, a pesar del gobierno, el medio ambiente es prioridad",
-      "url": "https://www.fima.cl/2026/09/01/en-chile-a-pesar-del-gobierno-el-medio-ambiente-es-prioridad/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "El eco de la aceleración: nadie espera un tsunami en la montaña",
-      "url": "https://www.fima.cl/2026/09/01/el-eco-de-la-aceleracion-nadie-espera-un-tsunami-en-la-montana/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "APL del bosque nativo en Coyhaique avanza en el manejo sostenible de más de 3.700 hectáreas",
-      "url": "https://www.conaf.cl/apl-del-bosque-nativo-en-coyhaique-avanza-en-el-manejo-sostenible-de-mas-de-3-700-hectareas/?utm_source=rss&utm_medium=rss&utm_campaign=apl-del-bosque-nativo-en-coyhaique-avanza-en-el-manejo-sostenible-de-mas-de-3-700-hectareas",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Emanuel Ibarra asume como Superintendente del Medio Ambiente y aborda agenda institucional y legislativa en su primer día de gestión",
-      "url": "https://portal.sma.gob.cl/index.php/emanuel-ibarra-asume-como-superintendente-del-medio-ambiente-y-aborda-agenda-institucional-y-legislativa-en-su-primer-dia-de-gestion/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Organizaciones podrán acceder a $6 millones para impulsar proyectos ambientales",
-      "url": "https://mma.gob.cl/organizaciones-podran-acceder-a-6-millones-para-impulsar-proyectos-ambientales/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Emanuel Ibarra asume como Superintendente del Medio Ambiente y aborda agenda institucional y legislativa en su primer día de gestión",
-      "url": "https://mma.gob.cl/emanuel-ibarra-asume-como-superintendente-del-medio-ambiente-y-aborda-agenda-institucional-y-legislativa-en-su-primer-dia-de-gestion/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente reitera prohibición de tránsito vehicular en el borde costero e insta a proteger el proceso de nidificación en el Humedal Río Elqui",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-reitera-prohibicion-de-transito-vehicular-en-el-borde-costero-e-insta-a-proteger-el-proceso-de-nidificacion-en-el-humedal-rio-elqui/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "HuellaChile marca hito de 3.000 sellos entregados con reconocimiento a Casaideas por su gestión de emisiones",
-      "url": "https://mma.gob.cl/huellachile-marca-hito-de-3-000-sellos-entregados-con-reconocimiento-a-casaideas-por-su-gestion-de-emisiones/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Nogales avanza en acción climática: Autoridades reconocen aprobación de su Plan de Acción Comunal de Cambio Climático",
-      "url": "https://mma.gob.cl/nogales-avanza-en-accion-climatica-autoridades-reconocen-aprobacion-de-su-plan-de-accion-comunal-de-cambio-climatico/",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA publica proyectos ingresados en agosto y abre plazo para solicitar participación ciudadana",
-      "url": "https://www.redimin.cl/sea-publica-proyectos-ingresados-en-agosto-y-abre-plazo-para-solicitar-participacion-ciudadana",
-      "fecha": "2026-09-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Primer Tribunal Ambiental rechaza invalidación del proyecto de recuperación de minerales de CMP",
-      "url": "https://www.redimin.cl/primer-tribunal-ambiental-rechaza-invalidacion-del-proyecto-de-recuperacion-de-minerales-de-cmp",
-      "fecha": "2026-09-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
