@@ -1,29 +1,78 @@
 {
-  "fecha_generacion": "2026-09-03T11:02:58.174091-04:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-09-04T11:02:34.504448-04:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "Emol",
-      "titular": "Arrau valora fallo que revoca traslado del Clan Chen a cárcel de Alto Hospicio: \"Esperemos esta sea la tónica\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/03/1210383/arrau-traslado-clan-chen-carcel.html",
-      "fecha": "2026-09-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "08:29 |\"Va en la línea de lo que ha tratado de hacer el Gobierno\", dijo.",
+      "fuente": "País Circular",
+      "titular": "Mesas público-privadas entregan a ministra Toledo recomendaciones para mejorar la implementación de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/mesas-mep-entregan-a-ministra-toledo-recomendaciones-para-la-ley-rep/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El trabajo, impulsado junto a CORFO, reunió a representantes públicos y privados para identificar trabas regulatorias en Envases y Embalajes y Neumáticos Fuera de Uso, y proponer soluciones que fortalezcan ambos decretos de metas. También, el Ministe",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA y Patrimonio Cultural coordinan criterios para evaluar impactos de proyectos",
+      "url": "https://www.redimin.cl/sea-y-patrimonio-cultural-coordinan-criterios-para-evaluar-impactos-de-proyectos",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental y la Subsecretaría del Patrimonio Cultural se unen para mejorar la revisión de proyectos que impactan el patrimonio cultural en Chile.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Arrau ante revocación de fallo que bloqueó traslado del clan Chen: “Esperemos que esto sea la tónica de aquí para adelante”",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-ante-revocacion-del-traslado-del-clan-chen-esperemos-que-esto-sea-la-tonica-de-aqui-para-adelante/",
-      "fecha": "2026-09-02",
+      "fuente": "Terram",
+      "titular": "[Diario Constitucional] Monitoreo satelital constituye plena prueba de faenas de pesca en zona prohibida, resuelve Corte Suprema",
+      "url": "https://www.terram.cl/monitoreo-satelital-constituye-plena-prueba-de-faenas-de-pesca-en-zona-prohibida-resuelve-corte-suprema/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El ministro de Seguridad destacó además el trabajo por parte de Gendarmería de Chile y el hecho de que estos fallos vayan en la línea de lo que ha tratado de hacer el gobierno en cuanto a segmentación penal.",
+      "extracto": "Concluyó que los antecedentes certificados no podían ser tratados como un simple registro de navegación, pues la ley les reconoce fuerza suficiente para acreditar la operación pesquera en un área determinada. Fuente: Diario Constitucional, 1 de septi",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA difunde actualización de instructivo del SAG para el manejo de carcasas de avifauna en proyectos con RCA",
+      "url": "https://portal.sma.gob.cl/index.php/sma-difunde-actualizacion-de-instructivo-del-sag-para-el-manejo-de-carcasas-de-avifauna-en-proyectos-con-rca/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El documento (Versión 2.0) establece exigencias de bioseguridad y procedimientos zoosanitarios para el retiro, transporte y disposición final de aves muertas por colisión o electrocución, en el marco de la emergencia por Influenza Aviar de Alta Patog",
+      "keywords_detectadas": [
+        "SMA",
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA y CMN fortalecen evaluación ambiental con foco en patrimonio cultural",
+      "url": "https://www.mch.cl/sea-y-cmn-fortalecen-evaluacion-ambiental-con-foco-en-patrimonio-cultural/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La capacitación apuntó a mejorar la articulación entre los organismos del Estado y fortalecer las capacidades técnicas para abordar proyectos susceptibles de generar impactos patrimoniales. La entrada SEA y CMN fortalecen evaluación ambiental con foc",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Universidad San Sebastián y Segundo Tribunal Ambiental crean sala virtual para formación en Derecho Ambiental",
+      "url": "https://www.redimin.cl/universidad-san-sebastian-y-segundo-tribunal-ambiental-crean-sala-virtual-para-formacion-en-derecho-ambiental",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La nueva herramienta busca acercar a los estudiantes a la dinámica de los juicios ambientales a través de una recreación de la Sala de Audiencias del tribunal.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     }
   ]

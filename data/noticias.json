@@ -1,221 +1,261 @@
 {
-  "fecha_actualizacion": "2026-09-03T11:02:58.159002-04:00",
-  "total": 27,
+  "fecha_actualizacion": "2026-09-04T11:02:34.489085-04:00",
+  "total": 32,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Mesas público-privadas entregan a ministra Toledo recomendaciones para mejorar la implementación de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/mesas-mep-entregan-a-ministra-toledo-recomendaciones-para-la-ley-rep/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Bosqua: el agua mineral premium que innova con sus envases de aluminio",
+      "url": "https://www.paiscircular.cl/reutilizacion/bosqua/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Casinos con giros gratis por registro en Chile: top 10 de 2026",
+      "url": "https://www.paiscircular.cl/pulse/casinos-con-giros-gratis/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "Codex Verde",
-      "titular": "Chile lidera: América Latina y el Caribe duplica su capacidad de almacenamiento en baterías en menos de un año",
-      "url": "https://codexverde.cl/chile-lidera-america-latina-y-el-caribe-duplica-su-capacidad-de-almacenamiento-en-baterias-en-menos-de-un-ano/",
+      "titular": "Muerte de huemul en Coyhaique reaviva alerta por perros sin supervisión",
+      "url": "https://codexverde.cl/muerte-de-huemul-en-coyhaique-reaviva-alerta-por-perros-sin-supervision/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cómo se rehabilita un osezno huérfano influye en su actitud tras volver a la naturaleza",
+      "url": "https://efeverde.com/como-se-rehabilita-oso-huerfano-influye-su-actitud/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El cambio climático está extinguiendo la vegetación en las cumbres de las montañas",
+      "url": "https://efeverde.com/cambio-climatico-extinguiendo-vegetacion-cumbres-montanas/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España propone a Bruselas un impuesto sobre los beneficios de las petroleras para costear medidas climáticas",
+      "url": "https://efeverde.com/espana-propone-impuesto-beneficios-petroleras-medidas-climaticas/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España afronta un riesgo estructural de desertificación agravado por el calor y la presión sobre el agua",
+      "url": "https://efeverde.com/espana-afronta-un-riesgo-estructural-de-desertificacion-agravado-por-el-calor-y-la-presion-sobre-el-agua/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un verano de calor extremo y lluvias escasas pone a prueba la resiliencia hídrica española",
+      "url": "https://efeverde.com/un-verano-de-calor-extremo-y-lluvias-escasas-pone-a-prueba-la-resiliencia-hidrica-espanola/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un juez permite avanzar con el plan para erradicar los ciervos de una isla de California",
+      "url": "https://efeverde.com/un-juez-permite-avanzar-con-el-plan-para-erradicar-los-ciervos-de-una-isla-de-california/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Mostrador] Advierten que residuos de plaguicidas en alimentos requieren más ciencia, vigilancia y transparencia",
+      "url": "https://www.terram.cl/advierten-que-residuos-de-plaguicidas-en-alimentos-requieren-mas-ciencia-vigilancia-y-transparencia/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] Científicos lideran la elaboración de fichas de clasificación para las orquídeas de Chile",
+      "url": "https://www.terram.cl/cooperativa-ciencia-cientificos-lideran-la-elaboracion-de-fichas-de-clasificacion-para-las-orquideas-de-chile/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Capacitan por la Ley de Plásticos de un solo uso para celebrar Fiestas Patrias sustentables",
+      "url": "https://mma.gob.cl/capacitan-por-la-ley-de-plasticos-de-un-solo-uso-para-celebrar-fiestas-patrias-sustentables/",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA y Patrimonio Cultural coordinan criterios para evaluar impactos de proyectos",
+      "url": "https://www.redimin.cl/sea-y-patrimonio-cultural-coordinan-criterios-para-evaluar-impactos-de-proyectos",
+      "fecha": "2026-09-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Cómo elegir outfits cómodos para oficina y sentirte más productiva cada día",
+      "url": "https://www.paiscircular.cl/tendencias/como-elegir-outfits-comodos-para-oficina-y-sentirte-mas-productiva-cada-dia/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Nuevas narrativas para la minería en Chile: La plataforma ciudadana “Más Que Minería” presenta 8 prioridades desde la sociedad civil",
+      "url": "https://www.paiscircular.cl/videos/nuevas-narrativas-para-la-mineria-en-chile-la-plataforma-ciudadana-mas-que-mineria-presenta-8-prioridades-desde-la-sociedad-civil/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Humedales costeros: refugios esenciales para las aves playeras",
+      "url": "https://codexverde.cl/humedales-costeros-refugios-esenciales-para-las-aves-playeras/",
+      "fecha": "2026-09-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Opinión: Climas extremos en Chile: de la reacción a la infraestructura del futuro (Cooperativa)",
+      "url": "https://www.cr2.cl/opinion-climas-extremos-en-chile-de-la-reaccion-a-la-infraestructura-del-futuro-cooperativa/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Francia vive su verano más caluroso desde que hay registros, con un récord de 53 días en olas de calor",
-      "url": "https://efeverde.com/francia-mas-caluroso-registros-record-olas-calor/",
+      "titular": "Indonesia lucha contra cientos de incendios, cuyo humo ahoga a países vecinos",
+      "url": "https://efeverde.com/indonesia-lucha-cientos-incendios/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un estudio alerta del declive persistente de los pájaros y mariposas en Europa",
-      "url": "https://efeverde.com/estudio-alerta-declive-persistente-pajaros-mariposas-europa/",
+      "titular": "Miguel Ángel Oliver urge a convertir «compromisos» climáticos en «soluciones concretas»",
+      "url": "https://efeverde.com/miguel-angel-oliver-compromisos-climaticos-soluciones-concretas/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El fuego arrasó 647.375 hectáreas en la UE hasta septiembre, un 35 % menos que en 2025",
-      "url": "https://efeverde.com/fuego-arraso-647-375-hectareas-ue-septiembre/",
-      "fecha": "2026-09-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La contaminación del embalse de As Conchas llega a Portugal y los vecinos piden a la Justicia que se cumpla la sentencia",
-      "url": "https://efeverde.com/contaminacion-embalse-as-conchas-portugal-justicia-cumpla-sentencia/",
-      "fecha": "2026-09-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La desigualdad frente al calor: refrigerar la vivienda está directamente vinculado con el nivel de ingresos",
-      "url": "https://efeverde.com/desigualdad-calor-refrigerar-vivienda-vinculado-nivel-ingresos/",
-      "fecha": "2026-09-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Ornitología, reacondicionamiento y valorización energética para abrir la temporada en Mangas Verdes 495",
-      "url": "https://efeverde.com/ornitologia-reacondicionamiento-valorizacion-energetica-temporada-mangas-verdes-495/",
-      "fecha": "2026-09-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Océanos más cálidos: la OMM alerta de cambios irreversibles",
-      "url": "https://efeverde.com/oceano-mas-calido-la-omm-alerta-de-cambios-irreversibles/",
-      "fecha": "2026-09-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Niño se intensificará hasta ser muy fuerte, alerta la mayor autoridad sobre el clima",
-      "url": "https://efeverde.com/el-nino-se-intensificara-hasta-ser-muy-fuerte-alerta-la-mayor-autoridad-sobre-el-clima/",
+      "titular": "El Canal de Panamá aplica la primera restricción de tránsito por la sequía provocada por El Niño",
+      "url": "https://efeverde.com/canal-panama-restriccion-transito-sequia-el-nino/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Retraso en norma secundaria de protección de ríos Rahue y Damas preocupa a organizaciones ambientales",
-      "url": "https://www.terram.cl/retraso-en-norma-secundaria-de-proteccion-de-rios-rahue-y-damas-preocupa-a-organizaciones-ambientales/",
+      "titular": "[Induambiente] Santiago registró su tercer mejor invierno en calidad del aire desde que existe plan de descontaminación",
+      "url": "https://www.terram.cl/santiago-registro-su-tercer-mejor-invierno-en-calidad-del-aire-desde-que-existe-plan-de-descontaminacion/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Estudio advierte que los bosques de araucaria entrarían en Peligro Crítico hacia 2060",
-      "url": "https://www.terram.cl/estudio-advierte-que-los-bosques-de-araucaria-entrarian-en-peligro-critico-hacia-2060/",
+      "titular": "[Mongabay] Antártida: cierran la pesquería de kril por sobrepesca y crece la alerta por sus impactos",
+      "url": "https://www.terram.cl/antartida-cierran-la-pesqueria-de-kril-por-sobrepesca-y-crece-la-alerta-por-sus-impactos/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Emol",
-      "titular": "Arrau valora fallo que revoca traslado del Clan Chen a cárcel de Alto Hospicio: \"Esperemos esta sea la tónica\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/03/1210383/arrau-traslado-clan-chen-carcel.html",
-      "fecha": "2026-09-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Interferencia",
-      "titular": "Cámara vota comisión por caso Cerimedo en la antesala del Foro Madrid en el que Kast participará este jueves",
-      "url": "https://interferencia.cl/articulos/camara-vota-comision-por-caso-cerimedo-en-la-antesala-del-foro-madrid-en-el-que-kast",
-      "fecha": "2026-09-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Codelco proyecta invertir US$16 millones en la recuperación de antiguo terreno industrial en Antofagasta",
-      "url": "https://www.nuevamineria.com/revista/codelco-proyecta-invertir-us16-millones-en-la-recuperacion-de-antiguo-terreno-industrial-en-antofagasta/",
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] Nuevo estudio advierte: tres de cada cuatro ambientes clave para los microorganismos del suelo están desprotegidos en el mundo",
+      "url": "https://www.terram.cl/nuevo-estudio-advierte-tres-de-cada-cuatro-ambientes-clave-para-los-microorganismos-del-suelo-estan-desprotegidos-en-el-mundo/",
       "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Caso de malaria en Talcahuano: académica explica el riesgo de los mosquitos “polizones”",
-      "url": "https://codexverde.cl/caso-de-malaria-en-talcahuano-academica-explica-el-riesgo-de-los-mosquitos-polizones/",
-      "fecha": "2026-09-02",
+      "fuente": "Terram",
+      "titular": "[Diario Constitucional] Monitoreo satelital constituye plena prueba de faenas de pesca en zona prohibida, resuelve Corte Suprema",
+      "url": "https://www.terram.cl/monitoreo-satelital-constituye-plena-prueba-de-faenas-de-pesca-en-zona-prohibida-resuelve-corte-suprema/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los pinos exóticos del hemisferio sur crecen más rápido y son más resistentes a la sequía",
-      "url": "https://efeverde.com/pinos-exoticos-hemisferio-sur-crecen-mas-rapido-resistentes-sequia/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "SIGAUS gestionó 137.557 toneladas de aceite usado en 2025, un 4 % más que el año anterior",
-      "url": "https://efeverde.com/sigaus-gestiono-toneladas-aceite-usado-2025/",
-      "fecha": "2026-09-02",
+      "fuente": "FIMA",
+      "titular": "33 organizaciones sociales anuncian el Festival Ciudadano UNE, encabezado por Cristóbal Briceño y el Coro Ciudadano Ochagavía, dirigido por Nicole",
+      "url": "https://www.fima.cl/2026/09/03/33-organizaciones-sociales-anuncian-el-festival-ciudadano-une-encabezado-por-cristobal-briceno-y-el-coro-ciudadano-ochagavia-dirigido-por-nicole/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Consejo Consultivo de la Reserva Ñuble elige nueva directiva para el trienio 2026-2028",
-      "url": "https://www.conaf.cl/consejo-consultivo-de-la-reserva-nuble-elige-nueva-directiva-para-el-trienio-2026-2028/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-consultivo-de-la-reserva-nuble-elige-nueva-directiva-para-el-trienio-2026-2028",
-      "fecha": "2026-09-02",
+      "titular": "Director de CONAF Ñuble y Fiscal Regional refuerzan lazos estratégicos para proteger el patrimonio natural",
+      "url": "https://www.conaf.cl/director-de-conaf-nuble-y-fiscal-regional-refuerzan-lazos-estrategicos-para-proteger-el-patrimonio-natural/?utm_source=rss&utm_medium=rss&utm_campaign=director-de-conaf-nuble-y-fiscal-regional-refuerzan-lazos-estrategicos-para-proteger-el-patrimonio-natural",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF entrega mapas de riesgo a las 32 comunas y avanza en planes de prevención de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-entrega-mapas-de-riesgo-a-las-32-comunas-y-avanza-en-planes-de-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-entrega-mapas-de-riesgo-a-las-32-comunas-y-avanza-en-planes-de-prevencion-de-incendios-forestales",
-      "fecha": "2026-09-02",
+      "titular": "CONAF Biobío presentó denuncia por tala ilegal de árbol nativo en el Parque Nacional Nonguén",
+      "url": "https://www.conaf.cl/conaf-biobio-presento-denuncia-por-tala-ilegal-de-arbol-nativo-en-el-parque-nacional-nonguen/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-biobio-presento-denuncia-por-tala-ilegal-de-arbol-nativo-en-el-parque-nacional-nonguen",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "INDAP y CONAF capacitan a familias de Panguipulli en plantación de avellano chileno como alternativa productiva sustentable",
-      "url": "https://www.conaf.cl/indap-y-conaf-capacitan-a-familias-de-panguipulli-en-plantacion-de-avellano-chileno-como-alternativa-productiva-sustentable/?utm_source=rss&utm_medium=rss&utm_campaign=indap-y-conaf-capacitan-a-familias-de-panguipulli-en-plantacion-de-avellano-chileno-como-alternativa-productiva-sustentable",
-      "fecha": "2026-09-02",
+      "titular": "Asume nueva directora de CONAF en la Región de Valparaíso",
+      "url": "https://www.conaf.cl/asume-nueva-directora-de-conaf-en-la-region-de-valparaiso/?utm_source=rss&utm_medium=rss&utm_campaign=asume-nueva-directora-de-conaf-en-la-region-de-valparaiso",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SMA",
-      "titular": "Santiago registra su tercer mejor invierno en Calidad del Aire desde que existe el Plan de Descontaminación",
-      "url": "https://portal.sma.gob.cl/index.php/santiago-registra-su-tercer-mejor-invierno-en-calidad-del-aire-desde-que-existe-el-plan-de-descontaminacion/",
-      "fecha": "2026-09-02",
+      "titular": "SMA difunde actualización de instructivo del SAG para el manejo de carcasas de avifauna en proyectos con RCA",
+      "url": "https://portal.sma.gob.cl/index.php/sma-difunde-actualizacion-de-instructivo-del-sag-para-el-manejo-de-carcasas-de-avifauna-en-proyectos-con-rca/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "DGA - MOP",
-      "titular": "DGA participó en primera Exposición de Montaña y Antártica en la Escuela Militar",
-      "url": "https://dga.mop.gob.cl/dga-participo-en-primera-exposicion-de-montana-y-antartica-en-la-escuela-militar/",
-      "fecha": "2026-09-02",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA y CMN fortalecen evaluación ambiental con foco en patrimonio cultural",
+      "url": "https://www.mch.cl/sea-y-cmn-fortalecen-evaluacion-ambiental-con-foco-en-patrimonio-cultural/",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente invita a la ciudadanía de Ñuble a registrar fauna marina a través de iNaturalist Chile",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-invita-a-la-ciudadania-de-nuble-a-registrar-fauna-marina-a-traves-de-inaturalist-chile/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "FPA 2027 abre postulaciones con financiamiento de $6 millones para proyectos ambientales",
-      "url": "https://mma.gob.cl/fpa-2027-abre-postulaciones-con-financiamiento-de-6-millones-para-proyectos-ambientales/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Calidad del aire en Chillán y Chillán Viejo registra menor concentración de MP2,5 durante agosto respecto de 2025",
-      "url": "https://mma.gob.cl/calidad-del-aire-en-chillan-y-chillan-viejo-registra-menor-concentracion-de-mp25-durante-agosto-respecto-de-2025/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Arrau ante revocación de fallo que bloqueó traslado del clan Chen: “Esperemos que esto sea la tónica de aquí para adelante”",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-ante-revocacion-del-traslado-del-clan-chen-esperemos-que-esto-sea-la-tonica-de-aqui-para-adelante/",
-      "fecha": "2026-09-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Experto advierte brecha entre producción proyectada y extracción de salmuera en Salar Futuro",
-      "url": "https://www.nuevamineria.com/revista/experto-advierte-brecha-entre-produccion-proyectada-y-extraccion-de-salmuera-en-salar-futuro/",
-      "fecha": "2026-09-02",
+      "fuente": "REDIMIN",
+      "titular": "Universidad San Sebastián y Segundo Tribunal Ambiental crean sala virtual para formación en Derecho Ambiental",
+      "url": "https://www.redimin.cl/universidad-san-sebastian-y-segundo-tribunal-ambiental-crean-sala-virtual-para-formacion-en-derecho-ambiental",
+      "fecha": "2026-09-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
