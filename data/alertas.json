@@ -1,53 +1,17 @@
 {
-  "fecha_generacion": "2026-09-05T09:50:04.070050-04:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-09-06T11:08:40.705058-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Tribunal Ambiental] Buscan anular la declaración de interés nacional de obras de la Central Hidroeléctrica Rucalhue en Biobío",
-      "url": "https://www.terram.cl/buscan-anular-la-declaracion-de-interes-nacional-de-obras-de-la-central-hidroelectrica-rucalhue-en-biobio/",
-      "fecha": "2026-09-04",
+      "fuente": "La Tercera",
+      "titular": "Sea Lion, el proyecto petrolero en medio de la reivindicación de Milei sobre las Malvinas",
+      "url": "https://www.latercera.com/mundo/noticia/sea-lion-el-proyecto-petrolero-en-medio-de-la-reivindicacion-de-milei-sobre-las-malvinas/",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental llevó a cabo la audiencia reclamación presentada por un grupo de personas naturales en contra de la decisión de la Conaf de declarar de interés nacional las obras y actividades asociadas del proyecto “Central Hidroeléctr",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mesa público-privada entrega a ministra Toledo recomendaciones para mejorar la implementación de la Ley REP",
-      "url": "https://mma.gob.cl/mesa-publico-privada-entrega-a-ministra-toledo-recomendaciones-para-mejorar-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El trabajo, impulsado junto a CORFO, reunió a representantes públicos y privados para identificar trabas regulatorias en Envases y Embalajes […]",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA aprueba Declaración de Impacto Ambiental para Parque Fotovoltaico Antofagasta 1",
-      "url": "https://www.redimin.cl/sea-aprueba-declaracion-de-impacto-ambiental-para-parque-fotovoltaico-antofagasta-1",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa de Solar Antofagasta, con una inversión de US$ 593 millones, busca generar 516,92 MWp y mejorar la flexibilidad del Sistema Eléctrico Nacional.",
+      "extracto": "El presidente argentino dijo que sancionaría a las empresas que trabajan frente a las costas de las islas. Esto, en una clara referencia a un proyecto de petróleo y gas en alta mar ubicado en la cuenca norte de las islas, que está siendo desarrollado",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Inversión minera ingresada al SEIA se cuadruplica y llega a US$4.505 millones en julio",
-      "url": "https://www.redimin.cl/inversion-minera-ingresada-al-seia-se-cuadruplica-y-llega-a-us-4-505-millones-en-julio",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La inversión en proyectos mineros en Chile se disparó un 361,6% en julio, alcanzando los US$4.505 millones, a pesar de una reducción en el número de iniciativas presentadas.",
-      "keywords_detectadas": [
-        "SEIA"
       ]
     }
   ]

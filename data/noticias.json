@@ -1,117 +1,45 @@
 {
-  "fecha_actualizacion": "2026-09-05T09:50:04.055816-04:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-09-06T11:08:40.692782-03:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Brasil autoriza la perforación de tres pozos petroleros más frente a la costa amazónica",
-      "url": "https://efeverde.com/brasil-autoriza-la-perforacion-de-tres-pozos-petroleros-mas-frente-a-la-costa-amazonica/",
-      "fecha": "2026-09-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Ciclo de Conferencias Libres da inicio al Spring Iyaleta (2026)",
-      "url": "https://www.cr2.cl/ciclo-de-conferencias-libres-da-inicio-al-spring-iyaleta-2026/",
-      "fecha": "2026-09-04",
+      "titular": "La apertura de la ruta ártica avanza entre promesas logísticas y crecientes riesgos para el medio ambiente",
+      "url": "https://efeverde.com/la-apertura-de-la-ruta-artica-avanza-entre-promesas-logisticas-y-crecientes-riesgos-para-el-medio-ambiente/",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El presidente de la COP31 urge a los líderes a cerrar la brecha de financiación climática",
-      "url": "https://efeverde.com/presidente-cop31-urge-cerrar-brecha-financiacion-climatica/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Induambiente] 100 años de parques nacionales",
-      "url": "https://www.terram.cl/100-anos-de-parques-nacionales/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Tercera] Organizaciones exigen reactivar normas ambientales al Gobierno y advierten sus efectos en la salud",
-      "url": "https://www.terram.cl/la-tercera-organizaciones-exigen-reactivar-normas-ambientales-al-gobierno-y-advierten-sus-efectos-en-la-salud/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Tribunal Ambiental] Buscan anular la declaración de interés nacional de obras de la Central Hidroeléctrica Rucalhue en Biobío",
-      "url": "https://www.terram.cl/buscan-anular-la-declaracion-de-interes-nacional-de-obras-de-la-central-hidroelectrica-rucalhue-en-biobio/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Megaproyecto de amoníaco verde en Magallanes: las objeciones que llegan al Comité de Ministros tras aprobación",
-      "url": "https://www.terram.cl/el-desconcierto-megaproyecto-de-amoniaco-verde-en-magallanes-las-objeciones-que-llegan-al-comite-de-ministros-tras-aprobacion/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "17/09/2026: Suspende audiencia de «Asociación de Transmisores de Chile A.G y otros con Ministerio del Medio Ambiente-Fisco de Chile.», Rol: R-16-2026",
-      "url": "https://3ta.cl/audiencias/17-09-2026-suspende-audiencia-de-asociacion-de-transmisores-de-chile-a-g-y-otros-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "05/11/2026: Fija audiencia en caso de «Asociación de Transmisores de Chile A.G y otros con Ministerio del Medio Ambiente-Fisco de Chile.», Rol: R-16-2026",
-      "url": "https://3ta.cl/audiencias/05-11-2026-fija-audiencia-en-caso-de-asociacion-de-transmisores-de-chile-a-g-y-otros-con-ministerio-del-medio-ambiente-fisco-de-chile-rol-r-16-2026/",
-      "fecha": "2026-09-04",
+      "titular": "Más del 80 % de la población española respira aire contaminado",
+      "url": "https://efeverde.com/mas-del-80-de-la-poblacion-espanola-respira-aire-contaminado/",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Ñuble refuerza estrategia preventiva y coordinación de cara a la temporada de incendios forestales 2026-2027",
-      "url": "https://www.conaf.cl/nuble-refuerza-estrategia-preventiva-y-coordinacion-de-cara-a-la-temporada-de-incendios-forestales-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=nuble-refuerza-estrategia-preventiva-y-coordinacion-de-cara-a-la-temporada-de-incendios-forestales-2026-2027",
-      "fecha": "2026-09-04",
+      "titular": "Día Mundial de las Aves Playeras: CONAF llama a proteger sus hábitats, especialmente en áreas protegidas",
+      "url": "https://www.conaf.cl/dia-mundial-de-las-aves-playeras-conaf-llama-a-proteger-sus-habitats-especialmente-en-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-de-las-aves-playeras-conaf-llama-a-proteger-sus-habitats-especialmente-en-areas-protegidas",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ñuble abre postulaciones para integrar el Consejo Consultivo Regional del Medio Ambiente",
-      "url": "https://mma.gob.cl/nuble-abre-postulaciones-para-integrar-el-consejo-consultivo-regional-del-medio-ambiente/",
-      "fecha": "2026-09-04",
+      "fuente": "La Tercera",
+      "titular": "Sea Lion, el proyecto petrolero en medio de la reivindicación de Milei sobre las Malvinas",
+      "url": "https://www.latercera.com/mundo/noticia/sea-lion-el-proyecto-petrolero-en-medio-de-la-reivindicacion-de-milei-sobre-las-malvinas/",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mesa público-privada entrega a ministra Toledo recomendaciones para mejorar la implementación de la Ley REP",
-      "url": "https://mma.gob.cl/mesa-publico-privada-entrega-a-ministra-toledo-recomendaciones-para-mejorar-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA aprueba Declaración de Impacto Ambiental para Parque Fotovoltaico Antofagasta 1",
-      "url": "https://www.redimin.cl/sea-aprueba-declaracion-de-impacto-ambiental-para-parque-fotovoltaico-antofagasta-1",
-      "fecha": "2026-09-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Inversión minera ingresada al SEIA se cuadruplica y llega a US$4.505 millones en julio",
-      "url": "https://www.redimin.cl/inversion-minera-ingresada-al-seia-se-cuadruplica-y-llega-a-us-4-505-millones-en-julio",
-      "fecha": "2026-09-04",
+      "fuente": "EFE Verde",
+      "titular": "Una nueva certificación garantiza reacondicionamiento integral de objetos de segunda mano",
+      "url": "https://efeverde.com/una-nueva-certificacion-garantiza-reacondicionamiento-integral-de-objetos-de-segunda-mano/",
+      "fecha": "2026-09-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
