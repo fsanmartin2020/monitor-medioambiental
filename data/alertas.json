@@ -1,17 +1,101 @@
 {
-  "fecha_generacion": "2026-09-06T11:08:40.705058-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-09-07T13:27:36.962284-03:00",
+  "total_alertas": 8,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Sea Lion, el proyecto petrolero en medio de la reivindicación de Milei sobre las Malvinas",
-      "url": "https://www.latercera.com/mundo/noticia/sea-lion-el-proyecto-petrolero-en-medio-de-la-reivindicacion-de-milei-sobre-las-malvinas/",
-      "fecha": "2026-09-06",
+      "fuente": "País Circular",
+      "titular": "Simplificar el nombramiento de los ministros y extender la duración del cargo destacan entre las propuestas para reformar los Tribunales Ambientales",
+      "url": "https://www.paiscircular.cl/medio-ambiente/simplificar-el-nombramiento-de-los-ministros-y-extender-la-duracion-del-cargo-destacan-entre-las-propuestas-para-reformar-los-tribunales-ambientales/",
+      "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El presidente argentino dijo que sancionaría a las empresas que trabajan frente a las costas de las islas. Esto, en una clara referencia a un proyecto de petróleo y gas en alta mar ubicado en la cuenca norte de las islas, que está siendo desarrollado",
+      "extracto": "“Cuidar nuestra institución no significa dejarla inmóvil”, afirmó Francisca Toledo, ministra del Medio Ambiente, en el marco de un conversatorio que ahondó en la necesidad de revisar el funcionamiento de los Tribunales Ambientales, a más de 13 años d",
+      "keywords_detectadas": [
+        "Tribunales Ambientales"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Gobierno evalúa actualizar decretos de la Ley REP tras detectar trabas en su implementación",
+      "url": "https://codexverde.cl/gobierno-evalua-actualizar-decretos-de-la-ley-rep-tras-detectar-trabas-en-su-implementacion/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Representantes de las Mesas Ejecutivas para la Productividad (MEP) de la Ley REP, desarrolladas en los ámbitos de Envases y Embalajes (EyE) y Neumáticos Fuera de Uso (NFU), entregaron a la ministra del Medio Ambiente, Francisca Toledo, los principale",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Récord de inversión en el SEIA: en casi seis meses de Kast se registran US$ 33 mil millones aprobados y triplica gobiernos previos",
+      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-en-casi-seis-meses-de-kast-se-registran-us-33-mil-millones-aprobados-y-triplica-gobiernos-previos/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La inversión aprobada ambientalmente desde que asumió el gobierno en marzo y hasta el cierre de agosto, es el mayor monto registrado para los primeros casi seis meses de un gobierno, al menos en las últimas dos décadas. De hecho, las administraciones",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Como fecha preliminar, la multigremial tiene previsto que la elección sea el 17 de diciembre y las inscripciones de candidaturas se cierren a comienzos de ese mes. Richard von Appen abrió los fuegos para la próxima elección al lanzar oficialmente su candidatura.",
+      "url": "https://www.pulso.cl/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental revisa reclamaciones contra aprobación de proyecto de exploración minera",
+      "url": "https://www.mch.cl/tribunal-ambiental-revisa-reclamaciones-contra-aprobacion-de-proyecto-de-exploracion-minera/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones cuestionan la decisión del SEA que revirtió el rechazo ambiental de la iniciativa y apuntan a la falta de antecedentes para descartar una eventual afectación de aguas subterráneas. La entrada Tribunal Ambiental revisa reclamaciones contr",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SONAMI",
+      "titular": "SONAMI valora que anteproyecto del SEIA incorpore propuesta del gremio para  fortalecer la competitividad de la pequeña minería",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-valora-que-anteproyecto-del-seia-incorpore-propuesta-del-gremio-para-fortalecer-la-competitividad-de-la-pequena-mineria/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El gremio sostuvo que la modificación constituye un avance hacia una regulación más proporcional para este sector y enfatiza que…",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEIA registra récord de US$32.923 millones en proyectos aprobados en casi seis meses de Kast",
+      "url": "https://www.redimin.cl/seia-registra-record-de-us-32-923-millones-en-proyectos-aprobados-en-casi-seis-meses-de-kast",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En los primeros seis meses del gobierno de José Antonio Kast, se aprobaron proyectos por US$32.923 millones, superando ampliamente las cifras de administraciones anteriores.",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SEIA registra récord de inversión aprobada con proyectos por US$32.923 millones",
+      "url": "https://www.nuevamineria.com/revista/seia-registra-record-de-inversion-aprobada-con-proyectos-por-us32-923-millones/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La cifra supera ampliamente los montos registrados al comienzo de administraciones anteriores y estuvo impulsada por grandes iniciativas de energía, infraestructura hídrica e hidrógeno verde. Actualmente permanecen en evaluación otros 361 proyectos q",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     }
   ]

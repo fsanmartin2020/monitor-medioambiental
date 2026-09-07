@@ -1,45 +1,229 @@
 {
-  "fecha_actualizacion": "2026-09-06T11:08:40.692782-03:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-09-07T13:27:36.950925-03:00",
+  "total": 28,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "La apertura de la ruta ártica avanza entre promesas logísticas y crecientes riesgos para el medio ambiente",
-      "url": "https://efeverde.com/la-apertura-de-la-ruta-artica-avanza-entre-promesas-logisticas-y-crecientes-riesgos-para-el-medio-ambiente/",
-      "fecha": "2026-09-06",
+      "fuente": "País Circular",
+      "titular": "Simplificar el nombramiento de los ministros y extender la duración del cargo destacan entre las propuestas para reformar los Tribunales Ambientales",
+      "url": "https://www.paiscircular.cl/medio-ambiente/simplificar-el-nombramiento-de-los-ministros-y-extender-la-duracion-del-cargo-destacan-entre-las-propuestas-para-reformar-los-tribunales-ambientales/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Después de la velocidad viene el desgaste: Qué le pasa al cuerpo de un piloto de rally",
+      "url": "https://www.chiledesarrollosustentable.cl/despues-de-la-velocidad-viene-el-desgaste-que-le-pasa-al-cuerpo-de-un-piloto-de-rally/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-la-velocidad-viene-el-desgaste-que-le-pasa-al-cuerpo-de-un-piloto-de-rally",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Corfo abre 254 becas para formar profesionales en bioeconomía y fortalecer el desarrollo productivo",
+      "url": "https://www.chiledesarrollosustentable.cl/corfo-abre-254-becas-para-formar-profesionales-en-bioeconomia-y-fortalecer-el-desarrollo-productivo/?utm_source=rss&utm_medium=rss&utm_campaign=corfo-abre-254-becas-para-formar-profesionales-en-bioeconomia-y-fortalecer-el-desarrollo-productivo",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Recuperación de ecosistemas degradados: publican importante investigación de revegetación para zonas áridas",
+      "url": "https://codexverde.cl/recuperacion-de-ecosistemas-degradados-publican-importante-investigacion-de-revegetacion-para-zonas-aridas/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Gobierno evalúa actualizar decretos de la Ley REP tras detectar trabas en su implementación",
+      "url": "https://codexverde.cl/gobierno-evalua-actualizar-decretos-de-la-ley-rep-tras-detectar-trabas-en-su-implementacion/",
+      "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Más del 80 % de la población española respira aire contaminado",
-      "url": "https://efeverde.com/mas-del-80-de-la-poblacion-espanola-respira-aire-contaminado/",
-      "fecha": "2026-09-06",
+      "titular": "Italia registra en 2026 su verano más cálido desde 1950",
+      "url": "https://efeverde.com/italia-registra-2026-verano-mas-calido-1950/",
+      "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "Día Mundial de las Aves Playeras: CONAF llama a proteger sus hábitats, especialmente en áreas protegidas",
-      "url": "https://www.conaf.cl/dia-mundial-de-las-aves-playeras-conaf-llama-a-proteger-sus-habitats-especialmente-en-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=dia-mundial-de-las-aves-playeras-conaf-llama-a-proteger-sus-habitats-especialmente-en-areas-protegidas",
-      "fecha": "2026-09-06",
+      "fuente": "EFE Verde",
+      "titular": "La ciencia de las aves también necesita buenas historias. Por Arturo Larena, embajador del Pacto Climático de la UE",
+      "url": "https://efeverde.com/la-ciencia-de-las-aves-tambien-necesita-buenas-historias/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Muere atropellado un cachorro de lince ibérico en la provincia de Ciudad Real",
+      "url": "https://efeverde.com/muere-atropellado-cachorro-lince-iberico-ciudad-real/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "ONU: Cada dólar invertido a favor del clima y el aire limpio puede generar 15 de beneficio",
+      "url": "https://efeverde.com/onu-cada-dolar-invertido-a-favor-del-clima-y-el-aire-limpio-puede-generar-15-de-beneficio/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Incendios y olas de calor son ahora factores de riesgo mayor de contaminación del aire",
+      "url": "https://efeverde.com/incendios-y-olas-de-calor-son-ahora-factores-de-riesgo-mayor-de-contaminacion-del-aire/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 80 % de los móviles incumple normas de la UE sobre reparación",
+      "url": "https://efeverde.com/el-80-de-los-moviles-incumple-normas-de-la-ue-sobre-reparacion/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El coste oculto del cambio climático: un verano extremo pasa factura a la economía de Europa",
+      "url": "https://efeverde.com/verano-cambio-climatico-coste-economia-europa/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Codex Verde] Humedales costeros: refugios esenciales para las aves playeras",
+      "url": "https://www.terram.cl/codex-verde-humedales-costeros-refugios-esenciales-para-las-aves-playeras/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] Tragedia en la Patagonia: Muere huemul tras violento ataque de perros en la región de Aysén",
+      "url": "https://www.terram.cl/cooperativa-ciencia-tragedia-en-la-patagonia-muere-huemul-tras-violento-ataque-de-perros-en-la-region-de-aysen/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Proyecto de extracción de áridos en Curacautín genera rechazo en comunidad mapuche y organizaciones",
+      "url": "https://www.terram.cl/biobiochile-cl-proyecto-de-extraccion-de-aridos-en-curacautin-genera-rechazo-en-comunidad-mapuche-y-organizaciones/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Detectan contaminación con metales tóxicos en Arica por basura minera importada de Suecia hace 40 años",
+      "url": "https://www.terram.cl/el-desconcierto-detectan-contaminacion-con-metales-toxicos-en-arica-por-basura-minera-importada-de-suecia-hace-40-anos/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Financiero] Más de 45 proyectos que están en evaluación ambiental podrían acogerse a invariabilidad tributaria por 20 años",
+      "url": "https://www.terram.cl/diario-financiero-mas-de-45-proyectos-que-estan-en-evaluacion-ambiental-podrian-acogerse-a-invariabilidad-tributaria-por-20-anos/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Prensa Austral] Dos islas de Tierra del Fuego entre los 17 inmuebles fiscales que Bienes Nacionales licitará en Magallanes antes de fin de año",
+      "url": "https://www.terram.cl/la-prensa-austral-dos-islas-de-tierra-del-fuego-entre-los-17-inmuebles-fiscales-que-bienes-nacionales-licitara-en-magallanes-antes-de-fin-de-ano/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "DGA encabezó cuarta sesión de Mesa Estratégica de Recursos Hídricos (MERH) de cuenca del Elqui",
+      "url": "https://dga.mop.gob.cl/dga-encabezo-cuarta-sesion-de-mesa-estrategica-de-recursos-hidricos-merh-de-cuenca-del-elqui/",
+      "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Sea Lion, el proyecto petrolero en medio de la reivindicación de Milei sobre las Malvinas",
-      "url": "https://www.latercera.com/mundo/noticia/sea-lion-el-proyecto-petrolero-en-medio-de-la-reivindicacion-de-milei-sobre-las-malvinas/",
-      "fecha": "2026-09-06",
+      "titular": "El cronograma que se diseña para las próximas elecciones de la CPC",
+      "url": "https://www.latercera.com/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Récord de inversión en el SEIA: en casi seis meses de Kast se registran US$ 33 mil millones aprobados y triplica gobiernos previos",
+      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-en-casi-seis-meses-de-kast-se-registran-us-33-mil-millones-aprobados-y-triplica-gobiernos-previos/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Como fecha preliminar, la multigremial tiene previsto que la elección sea el 17 de diciembre y las inscripciones de candidaturas se cierren a comienzos de ese mes. Richard von Appen abrió los fuegos para la próxima elección al lanzar oficialmente su candidatura.",
+      "url": "https://www.pulso.cl/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental revisa reclamaciones contra aprobación de proyecto de exploración minera",
+      "url": "https://www.mch.cl/tribunal-ambiental-revisa-reclamaciones-contra-aprobacion-de-proyecto-de-exploracion-minera/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SONAMI",
+      "titular": "SONAMI valora que anteproyecto del SEIA incorpore propuesta del gremio para  fortalecer la competitividad de la pequeña minería",
+      "url": "https://www.sonami.cl/v2/noticias/sonami-valora-que-anteproyecto-del-seia-incorpore-propuesta-del-gremio-para-fortalecer-la-competitividad-de-la-pequena-mineria/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEIA registra récord de US$32.923 millones en proyectos aprobados en casi seis meses de Kast",
+      "url": "https://www.redimin.cl/seia-registra-record-de-us-32-923-millones-en-proyectos-aprobados-en-casi-seis-meses-de-kast",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SEIA registra récord de inversión aprobada con proyectos por US$32.923 millones",
+      "url": "https://www.nuevamineria.com/revista/seia-registra-record-de-inversion-aprobada-con-proyectos-por-us32-923-millones/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Dominga inicia obras habilitantes mientras avanza en permisos y busca un socio estratégico",
+      "url": "https://www.nuevamineria.com/revista/dominga-inicia-obras-habilitantes-mientras-avanza-en-permisos-y-busca-un-socio-estrategico/",
+      "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una nueva certificación garantiza reacondicionamiento integral de objetos de segunda mano",
-      "url": "https://efeverde.com/una-nueva-certificacion-garantiza-reacondicionamiento-integral-de-objetos-de-segunda-mano/",
-      "fecha": "2026-09-05",
+      "titular": "Bruselas prepara un nuevo marco de resiliencia climática en el que España propone gravar a petroleras y gasísticas",
+      "url": "https://efeverde.com/bruselas-prepara-un-nuevo-marco-de-resiliencia-climatica-en-el-que-espana-propone-gravar-a-petroleras-y-gasisticas/",
+      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
