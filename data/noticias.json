@@ -1,229 +1,317 @@
 {
-  "fecha_actualizacion": "2026-09-07T13:27:36.950925-03:00",
-  "total": 28,
+  "fecha_actualizacion": "2026-09-08T12:03:19.114840-03:00",
+  "total": 39,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Simplificar el nombramiento de los ministros y extender la duración del cargo destacan entre las propuestas para reformar los Tribunales Ambientales",
-      "url": "https://www.paiscircular.cl/medio-ambiente/simplificar-el-nombramiento-de-los-ministros-y-extender-la-duracion-del-cargo-destacan-entre-las-propuestas-para-reformar-los-tribunales-ambientales/",
-      "fecha": "2026-09-07",
+      "titular": "Plataforma ciudadana llama a reabrir un debate amplio sobre la minería en Chile con propuestas y diálogo democrático",
+      "url": "https://www.paiscircular.cl/transicion-energetica/plataforma-ciudadana-llama-a-reabrir-el-debate-sobre-la-mineria-en-chile-con-propuestas-y-dialogo-democratico/",
+      "fecha": "2026-09-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Después de la velocidad viene el desgaste: Qué le pasa al cuerpo de un piloto de rally",
-      "url": "https://www.chiledesarrollosustentable.cl/despues-de-la-velocidad-viene-el-desgaste-que-le-pasa-al-cuerpo-de-un-piloto-de-rally/?utm_source=rss&utm_medium=rss&utm_campaign=despues-de-la-velocidad-viene-el-desgaste-que-le-pasa-al-cuerpo-de-un-piloto-de-rally",
-      "fecha": "2026-09-07",
+      "titular": "Ministerio de Ciencia anuncia primera participación de Chile a CES, la plataforma más grande de innovación y tecnología del mundo",
+      "url": "https://www.chiledesarrollosustentable.cl/ministerio-de-ciencia-anuncia-primera-participacion-de-chile-a-ces-la-plataforma-mas-grande-de-innovacion-y-tecnologia-del-mundo/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-ciencia-anuncia-primera-participacion-de-chile-a-ces-la-plataforma-mas-grande-de-innovacion-y-tecnologia-del-mundo",
+      "fecha": "2026-09-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Corfo abre 254 becas para formar profesionales en bioeconomía y fortalecer el desarrollo productivo",
-      "url": "https://www.chiledesarrollosustentable.cl/corfo-abre-254-becas-para-formar-profesionales-en-bioeconomia-y-fortalecer-el-desarrollo-productivo/?utm_source=rss&utm_medium=rss&utm_campaign=corfo-abre-254-becas-para-formar-profesionales-en-bioeconomia-y-fortalecer-el-desarrollo-productivo",
+      "titular": "Ministra Toledo inicia septiembre promoviendo la economía circular de cara a las Fiestas Patrias",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-inicia-septiembre-promoviendo-la-economia-circular-de-cara-a-las-fiestas-patrias/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-inicia-septiembre-promoviendo-la-economia-circular-de-cara-a-las-fiestas-patrias",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "La sabiduría del desaprender: de la universalidad homogénea a la riqueza de lo diverso",
+      "url": "https://codexverde.cl/la-sabiduria-del-desaprender-de-la-universalidad-homogenea-a-la-riqueza-de-lo-diverso/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Sombra, suelo claro y árboles: fórmula urbana para bajar la temperatura dentro de casa",
+      "url": "https://efeverde.com/formula-urbana-para-bajar-temperatura-casas-calor/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nueve de los diez agostos más cálidos en España se han registrado durante este siglo",
+      "url": "https://efeverde.com/agostos-mas-calidos-espana-durante-este-siglo/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Fondeos ilegales: cuando los datos se transforman en acción . Por Inma Saranova, directora de Ibiza & Formentera Preservation",
+      "url": "https://efeverde.com/fondeos-ilegales-cuando-los-datos-se-transforman-en-accion-por-inma-saranova-directora-de-ibiza-formentera-preservation/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El calentamiento global podría disparar las consecuencias de los terremotos en el Ártico",
+      "url": "https://efeverde.com/el-calentamiento-global-podria-disparar-las-consecuencias-de-los-terremotos-en-el-artico/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Asamblea de Murcia reabre el choque político sobre el Mar Menor con tres reformas enfrentadas",
+      "url": "https://efeverde.com/la-asamblea-de-murcia-reabre-el-choque-politico-sobre-el-mar-menor-con-tres-reformas-enfrentadas/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Conservar la Patagonia: dos historias, la misma convicción",
+      "url": "https://www.terram.cl/el-desconcierto-conservar-la-patagonia-dos-historias-la-misma-conviccion/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Austerra] CONAF constata destrucción de vegetación nativa sin autorización en faenas de Dominga, incluida flora del desierto florido",
+      "url": "https://www.terram.cl/austerra-conaf-constata-destruccion-de-vegetacion-nativa-sin-autorizacion-en-faenas-de-dominga-incluida-flora-del-desierto-florido/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Tribunal Ambiental] Tribunal aprobó avenimiento que considera la ejecución de un plan de reparación de casi US$ 20 millones en humedales altoandinos de la región de Atacama",
+      "url": "https://www.terram.cl/tribunal-aprobo-avenimiento-que-considera-la-ejecucion-de-un-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Financiero] Inmobiliaria recurre a la Suprema para invalidar nuevo PRC de Ripamonti que restringió desarrollo urbano en dunas de Reñaca",
+      "url": "https://www.terram.cl/diario-financiero-inmobiliaria-recurre-a-la-suprema-para-invalidar-nuevo-prc-de-ripamonti-que-restringio-desarrollo-urbano-en-dunas-de-renaca/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Mongabay] Científicos investigan cómo prevenir un desastre de origen glaciar en Perú, Chile y Argentina",
+      "url": "https://www.terram.cl/mongabay-cientificos-investigan-como-prevenir-un-desastre-de-origen-glaciar-en-peru-chile-y-argentina/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[T13] Trump busca retirar la protección de especies en peligro de extinción al lobo gris y al lobo mexicano en EE.UU.",
+      "url": "https://www.terram.cl/t13-trump-busca-retirar-la-proteccion-de-especies-en-peligro-de-extincion-al-lobo-gris-y-al-lobo-mexicano-en-ee-uu/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Consejos de la sociedad civil cosoc",
+      "url": "https://www.sernapesca.cl/participacion_ciudadana/consejos-de-la-sociedad-civil-cosoc/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
+      "url": "https://portal.sma.gob.cl/index.php/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Valencia señala que Constitución actual permite un régimen penitenciario especial aunque apunta que “nos evitaría muchas discusiones”",
+      "url": "https://www.latercera.com/nacional/noticia/valencia-senala-que-constitucion-actual-permite-un-regimen-penitenciario-especial-aunque-apunta-que-nos-evitaria-muchas-discusiones/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Exembajador Viera-Gallo: “No sé por qué en Chile se ha escalado tanto un dicho del jefe de la Fuerza Aérea Argentina”",
+      "url": "https://www.latercera.com/politica/noticia/exembajador-viera-gallo-no-se-por-que-en-chile-se-ha-escalado-tanto-un-dicho-del-jefe-de-la-fuerza-aerea-argentina/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
+      "url": "https://adprensa.cl/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA difunde actualización de instructivo del SAG para el manejo de carcasas de avifauna en proyectos con RCA",
+      "url": "https://www.revistaei.cl/sma-difunde-actualizacion-de-instructivo-del-sag-para-el-manejo-de-carcasas-de-avifauna-en-proyectos-con-rca/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal aprueba plan de reparación por US$19,8 millones para humedales afectados por Minera Maricunga",
+      "url": "https://www.nuevamineria.com/revista/tribunal-aprueba-plan-de-reparacion-por-us198-millones-para-humedales-afectados-por-minera-maricunga/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Demanda por daño ambiental: 2° Tribunal Ambiental aprobó acuerdo que considera plan de reparación en humedales altoandinos de la región de Atacama",
+      "url": "https://www.paiscircular.cl/radar-legal/demanda-por-dano-ambiental-2-tribunal-ambiental-aprobo-acuerdo-que-considera-la-ejecucion-de-un-plan-de-reparacion-en-humedales-altoandinos-de-la-region-de-atacama/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ministerio del Medio Ambiente admite solicitud para invalidar Oficio Circular sobre facultad otorgada a los GRANSIC de Envases y Embalajes",
+      "url": "https://www.paiscircular.cl/economia-circular/ministerio-del-medio-ambiente-admite-solicitud-para-invalidar-oficio-circular-sobre-facultad-otorgada-a-los-gransic-de-envases-y-embalajes/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "El rol invisible de los Envases y Embalajes",
+      "url": "https://www.paiscircular.cl/opinion/el-rol-invisible-de-los-envases-y-embalajes/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Empresas fortalecen capacidades para avanzar en la gestión de emisiones de Alcance 3",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/empresas-fortalecen-capacidades-para-avanzar-en-la-gestion-de-emisiones-de-alcance-3/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Recuperación de ecosistemas degradados: publican importante investigación de revegetación para zonas áridas",
-      "url": "https://codexverde.cl/recuperacion-de-ecosistemas-degradados-publican-importante-investigacion-de-revegetacion-para-zonas-aridas/",
+      "titular": "Tribunal Ambiental aprobó plan de reparación de casi US$ 20 millones en humedales altoandinos de la Región de Atacama",
+      "url": "https://codexverde.cl/tribunal-ambiental-aprobo-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Gobierno evalúa actualizar decretos de la Ley REP tras detectar trabas en su implementación",
-      "url": "https://codexverde.cl/gobierno-evalua-actualizar-decretos-de-la-ley-rep-tras-detectar-trabas-en-su-implementacion/",
+      "fuente": "SERNAPESCA",
+      "titular": "Areas de manejo y explotacion de recursos bentonicos amerb",
+      "url": "https://www.sernapesca.cl/tramites-y-formularios/areas-de-manejo-y-explotacion-de-recursos-bentonicos-amerb/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA amplía el SISAT para reforzar el cumplimiento de 7 Planes de Descontaminación Atmosférica en el sur del país",
+      "url": "https://portal.sma.gob.cl/index.php/sma-amplia-el-sisat-para-reforzar-el-cumplimiento-de-7-planes-de-descontaminacion-atmosferica-en-el-sur-del-pais/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Italia registra en 2026 su verano más cálido desde 1950",
-      "url": "https://efeverde.com/italia-registra-2026-verano-mas-calido-1950/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente, Municipio de Iquique, organizaciones y vecinos se unen en limpieza del Humedal Urbano Playa Blanca",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-municipio-de-iquique-organizaciones-y-vecinos-se-unen-en-limpieza-del-humedal-urbano-playa-blanca/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La ciencia de las aves también necesita buenas historias. Por Arturo Larena, embajador del Pacto Climático de la UE",
-      "url": "https://efeverde.com/la-ciencia-de-las-aves-tambien-necesita-buenas-historias/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo inicia septiembre promoviendo la economía circular de cara a las Fiestas Patrias",
+      "url": "https://mma.gob.cl/ministra-toledo-inicia-septiembre-promoviendo-la-economia-circular-de-cara-a-las-fiestas-patrias/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Muere atropellado un cachorro de lince ibérico en la provincia de Ciudad Real",
-      "url": "https://efeverde.com/muere-atropellado-cachorro-lince-iberico-ciudad-real/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "La Serena inaugura el 30° Congreso Iberoamericano de Catálisis",
+      "url": "https://mma.gob.cl/la-serena-inaugura-el-30-congreso-iberoamericano-de-catalisis/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "ONU: Cada dólar invertido a favor del clima y el aire limpio puede generar 15 de beneficio",
-      "url": "https://efeverde.com/onu-cada-dolar-invertido-a-favor-del-clima-y-el-aire-limpio-puede-generar-15-de-beneficio/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Recicladores de base de Ñuble abordarán nuevo Registro Nacional en jornada de capacitación",
+      "url": "https://mma.gob.cl/recicladores-de-base-de-nuble-abordaran-nuevo-registro-nacional-en-jornada-de-capacitacion/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Incendios y olas de calor son ahora factores de riesgo mayor de contaminación del aire",
-      "url": "https://efeverde.com/incendios-y-olas-de-calor-son-ahora-factores-de-riesgo-mayor-de-contaminacion-del-aire/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El 80 % de los móviles incumple normas de la UE sobre reparación",
-      "url": "https://efeverde.com/el-80-de-los-moviles-incumple-normas-de-la-ue-sobre-reparacion/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El coste oculto del cambio climático: un verano extremo pasa factura a la economía de Europa",
-      "url": "https://efeverde.com/verano-cambio-climatico-coste-economia-europa/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Codex Verde] Humedales costeros: refugios esenciales para las aves playeras",
-      "url": "https://www.terram.cl/codex-verde-humedales-costeros-refugios-esenciales-para-las-aves-playeras/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Tragedia en la Patagonia: Muere huemul tras violento ataque de perros en la región de Aysén",
-      "url": "https://www.terram.cl/cooperativa-ciencia-tragedia-en-la-patagonia-muere-huemul-tras-violento-ataque-de-perros-en-la-region-de-aysen/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Biobiochile.cl] Proyecto de extracción de áridos en Curacautín genera rechazo en comunidad mapuche y organizaciones",
-      "url": "https://www.terram.cl/biobiochile-cl-proyecto-de-extraccion-de-aridos-en-curacautin-genera-rechazo-en-comunidad-mapuche-y-organizaciones/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Detectan contaminación con metales tóxicos en Arica por basura minera importada de Suecia hace 40 años",
-      "url": "https://www.terram.cl/el-desconcierto-detectan-contaminacion-con-metales-toxicos-en-arica-por-basura-minera-importada-de-suecia-hace-40-anos/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Financiero] Más de 45 proyectos que están en evaluación ambiental podrían acogerse a invariabilidad tributaria por 20 años",
-      "url": "https://www.terram.cl/diario-financiero-mas-de-45-proyectos-que-estan-en-evaluacion-ambiental-podrian-acogerse-a-invariabilidad-tributaria-por-20-anos/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Prensa Austral] Dos islas de Tierra del Fuego entre los 17 inmuebles fiscales que Bienes Nacionales licitará en Magallanes antes de fin de año",
-      "url": "https://www.terram.cl/la-prensa-austral-dos-islas-de-tierra-del-fuego-entre-los-17-inmuebles-fiscales-que-bienes-nacionales-licitara-en-magallanes-antes-de-fin-de-ano/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA encabezó cuarta sesión de Mesa Estratégica de Recursos Hídricos (MERH) de cuenca del Elqui",
-      "url": "https://dga.mop.gob.cl/dga-encabezo-cuarta-sesion-de-mesa-estrategica-de-recursos-hidricos-merh-de-cuenca-del-elqui/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "El cronograma que se diseña para las próximas elecciones de la CPC",
-      "url": "https://www.latercera.com/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Récord de inversión en el SEIA: en casi seis meses de Kast se registran US$ 33 mil millones aprobados y triplica gobiernos previos",
-      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-en-casi-seis-meses-de-kast-se-registran-us-33-mil-millones-aprobados-y-triplica-gobiernos-previos/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Como fecha preliminar, la multigremial tiene previsto que la elección sea el 17 de diciembre y las inscripciones de candidaturas se cierren a comienzos de ese mes. Richard von Appen abrió los fuegos para la próxima elección al lanzar oficialmente su candidatura.",
-      "url": "https://www.pulso.cl/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental revisa reclamaciones contra aprobación de proyecto de exploración minera",
-      "url": "https://www.mch.cl/tribunal-ambiental-revisa-reclamaciones-contra-aprobacion-de-proyecto-de-exploracion-minera/",
+      "titular": "Tribunal Ambiental aprueba acuerdo que considera ejecución de plan de reparación de casi US$20 millones en Atacama",
+      "url": "https://www.mch.cl/tribunal-ambiental-aprueba-acuerdo-que-considera-ejecucion-de-plan-de-reparacion-de-casi-us20-millones-en-atacama/",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SONAMI",
-      "titular": "SONAMI valora que anteproyecto del SEIA incorpore propuesta del gremio para  fortalecer la competitividad de la pequeña minería",
-      "url": "https://www.sonami.cl/v2/noticias/sonami-valora-que-anteproyecto-del-seia-incorpore-propuesta-del-gremio-para-fortalecer-la-competitividad-de-la-pequena-mineria/",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Valparaíso: Sistema BESS por US$300 millones recibe aprobación ambiental del SEIA",
+      "url": "https://www.revistaei.cl/valparaiso-sistema-bess-por-us300-millones-recibe-aprobacion-ambiental-del-seia/",
       "fecha": "2026-09-07",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA informa que durante agosto se aprobaron ambientalmente iniciativas por US$12.952 millones",
+      "url": "https://www.revistaei.cl/sea-informa-que-durante-agosto-se-aprobaron-ambientalmente-iniciativas-por-us12-952-millones/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Tribunal Ambiental revisa cuestionamientos a evaluación hídrica de proyecto de exploración minera en Toconao",
+      "url": "https://www.portalminero.com/tribunal-ambiental-revisa-cuestionamientos-a-evaluacion-hidrica-de-proyecto-de-exploracion-minera-en-toconao",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SEIA registra récord de US$32.923 millones en proyectos aprobados en casi seis meses de Kast",
-      "url": "https://www.redimin.cl/seia-registra-record-de-us-32-923-millones-en-proyectos-aprobados-en-casi-seis-meses-de-kast",
+      "titular": "Compañía Minera Maricunga deberá invertir US$19,8 millones en restauración de humedales tras fallo del Tribunal Ambiental",
+      "url": "https://www.redimin.cl/compania-minera-maricunga-debera-invertir-us-19-8-millones-en-restauracion-de-humedales-tras-fallo-del-tribunal-ambiental",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SEIA registra récord de inversión aprobada con proyectos por US$32.923 millones",
-      "url": "https://www.nuevamineria.com/revista/seia-registra-record-de-inversion-aprobada-con-proyectos-por-us32-923-millones/",
+      "fuente": "REDIMIN",
+      "titular": "Andes Iron activa trabajos preliminares en La Higuera para asegurar validez de la RCA del proyecto Dominga",
+      "url": "https://www.redimin.cl/andes-iron-activa-trabajos-preliminares-en-la-higuera-para-asegurar-validez-de-la-rca-del-proyecto-dominga",
       "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Dominga inicia obras habilitantes mientras avanza en permisos y busca un socio estratégico",
-      "url": "https://www.nuevamineria.com/revista/dominga-inicia-obras-habilitantes-mientras-avanza-en-permisos-y-busca-un-socio-estrategico/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Bruselas prepara un nuevo marco de resiliencia climática en el que España propone gravar a petroleras y gasísticas",
-      "url": "https://efeverde.com/bruselas-prepara-un-nuevo-marco-de-resiliencia-climatica-en-el-que-espana-propone-gravar-a-petroleras-y-gasisticas/",
-      "fecha": "2026-09-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

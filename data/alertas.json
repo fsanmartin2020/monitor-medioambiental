@@ -1,101 +1,163 @@
 {
-  "fecha_generacion": "2026-09-07T13:27:36.962284-03:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-09-08T12:03:19.129403-03:00",
+  "total_alertas": 13,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Simplificar el nombramiento de los ministros y extender la duración del cargo destacan entre las propuestas para reformar los Tribunales Ambientales",
-      "url": "https://www.paiscircular.cl/medio-ambiente/simplificar-el-nombramiento-de-los-ministros-y-extender-la-duracion-del-cargo-destacan-entre-las-propuestas-para-reformar-los-tribunales-ambientales/",
-      "fecha": "2026-09-07",
+      "fuente": "Terram",
+      "titular": "[Tribunal Ambiental] Tribunal aprobó avenimiento que considera la ejecución de un plan de reparación de casi US$ 20 millones en humedales altoandinos de la región de Atacama",
+      "url": "https://www.terram.cl/tribunal-aprobo-avenimiento-que-considera-la-ejecucion-de-un-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
+      "fecha": "2026-09-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“Cuidar nuestra institución no significa dejarla inmóvil”, afirmó Francisca Toledo, ministra del Medio Ambiente, en el marco de un conversatorio que ahondó en la necesidad de revisar el funcionamiento de los Tribunales Ambientales, a más de 13 años d",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Gobierno evalúa actualizar decretos de la Ley REP tras detectar trabas en su implementación",
-      "url": "https://codexverde.cl/gobierno-evalua-actualizar-decretos-de-la-ley-rep-tras-detectar-trabas-en-su-implementacion/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Representantes de las Mesas Ejecutivas para la Productividad (MEP) de la Ley REP, desarrolladas en los ámbitos de Envases y Embalajes (EyE) y Neumáticos Fuera de Uso (NFU), entregaron a la ministra del Medio Ambiente, Francisca Toledo, los principale",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Récord de inversión en el SEIA: en casi seis meses de Kast se registran US$ 33 mil millones aprobados y triplica gobiernos previos",
-      "url": "https://www.latercera.com/pulso/noticia/record-de-inversion-en-el-seia-en-casi-seis-meses-de-kast-se-registran-us-33-mil-millones-aprobados-y-triplica-gobiernos-previos/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La inversión aprobada ambientalmente desde que asumió el gobierno en marzo y hasta el cierre de agosto, es el mayor monto registrado para los primeros casi seis meses de un gobierno, al menos en las últimas dos décadas. De hecho, las administraciones",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Como fecha preliminar, la multigremial tiene previsto que la elección sea el 17 de diciembre y las inscripciones de candidaturas se cierren a comienzos de ese mes. Richard von Appen abrió los fuegos para la próxima elección al lanzar oficialmente su candidatura.",
-      "url": "https://www.pulso.cl/pulso/noticia/el-cronograma-que-se-afina-para-las-proximas-elecciones-de-la-cpc/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental revisa reclamaciones contra aprobación de proyecto de exploración minera",
-      "url": "https://www.mch.cl/tribunal-ambiental-revisa-reclamaciones-contra-aprobacion-de-proyecto-de-exploracion-minera/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las acciones cuestionan la decisión del SEA que revirtió el rechazo ambiental de la iniciativa y apuntan a la falta de antecedentes para descartar una eventual afectación de aguas subterráneas. La entrada Tribunal Ambiental revisa reclamaciones contr",
+      "extracto": "El Segundo Tribunal Ambiental aprobó el acuerdo alcanzado entre las partes en dos demandas por daño ambiental presentadas por la potencial afectación de dos vegas en el sector del Corredor Biológico Pantanillo-Ciénaga Redonda, en el altiplano de la R",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SONAMI",
-      "titular": "SONAMI valora que anteproyecto del SEIA incorpore propuesta del gremio para  fortalecer la competitividad de la pequeña minería",
-      "url": "https://www.sonami.cl/v2/noticias/sonami-valora-que-anteproyecto-del-seia-incorpore-propuesta-del-gremio-para-fortalecer-la-competitividad-de-la-pequena-mineria/",
+      "fuente": "SMA",
+      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
+      "url": "https://portal.sma.gob.cl/index.php/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Respecto a las infracciones imputadas, en una de ellas clasificada como gravísima, el titular del proyecto no efectuó oportunamente el procedimiento de calificación de fuente emisora, en circunstancia que se ha constatado una descarga de efluentes lí",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
+      "url": "https://adprensa.cl/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Respecto a las infracciones imputadas, en una de ellas clasificada como gravísima, el titular del proyecto no efectuó oportunamente el procedimiento de calificación de fuente emisora, en circunstancia que se ha constatado una descarga de efluentes lí",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA difunde actualización de instructivo del SAG para el manejo de carcasas de avifauna en proyectos con RCA",
+      "url": "https://www.revistaei.cl/sma-difunde-actualizacion-de-instructivo-del-sag-para-el-manejo-de-carcasas-de-avifauna-en-proyectos-con-rca/",
+      "fecha": "2026-09-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El documento establece exigencias de bioseguridad y procedimientos zoosanitarios para el retiro, transporte y disposición final de aves muertas por colisión o electrocución, en el marco de la emergencia por Influenza Aviar de Alta Patogenicidad. La e",
+      "keywords_detectadas": [
+        "SMA",
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Demanda por daño ambiental: 2° Tribunal Ambiental aprobó acuerdo que considera plan de reparación en humedales altoandinos de la región de Atacama",
+      "url": "https://www.paiscircular.cl/radar-legal/demanda-por-dano-ambiental-2-tribunal-ambiental-aprobo-acuerdo-que-considera-la-ejecucion-de-un-plan-de-reparacion-en-humedales-altoandinos-de-la-region-de-atacama/",
       "fecha": "2026-09-07",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El gremio sostuvo que la modificación constituye un avance hacia una regulación más proporcional para este sector y enfatiza que…",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El avenimiento entre el Consejo de Defensa del Estado y la Compañía Minera Maricunga incluye la ejecución, por un periodo de 15 años, de un Plan de Reparación que abarca los humedales de Pantanillo, Valle Ancho Sur, Valle Ancho Centro y Valle Ancho O",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Tribunal Ambiental aprobó plan de reparación de casi US$ 20 millones en humedales altoandinos de la Región de Atacama",
+      "url": "https://codexverde.cl/tribunal-ambiental-aprobo-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental aprobó el acuerdo alcanzado entre las partes en dos demandas por daño ambiental presentadas por la potencial afectación de dos vegas en el sector del Corredor Biológico Pantanillo-Ciénaga Redonda, en el altiplano de la R",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA amplía el SISAT para reforzar el cumplimiento de 7 Planes de Descontaminación Atmosférica en el sur del país",
+      "url": "https://portal.sma.gob.cl/index.php/sma-amplia-el-sisat-para-reforzar-el-cumplimiento-de-7-planes-de-descontaminacion-atmosferica-en-el-sur-del-pais/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La medida buscar reforzar el cumplimiento ambiental e informar obligaciones, a través del Sistema de Seguimiento Atmosférico (SISAT), a más de 1.500 fuentes fijas afectas a los respectivos planes, las obligaciones de muestreo y medición que deben cum",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental aprueba acuerdo que considera ejecución de plan de reparación de casi US$20 millones en Atacama",
+      "url": "https://www.mch.cl/tribunal-ambiental-aprueba-acuerdo-que-considera-ejecucion-de-plan-de-reparacion-de-casi-us20-millones-en-atacama/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las demandas por reparación de daño ambiental fueron presentadas por el Consejo de Defensa del Estado. La entrada Tribunal Ambiental aprueba acuerdo que considera ejecución de plan de reparación de casi US$20 millones en Atacama se publicó primero en",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Valparaíso: Sistema BESS por US$300 millones recibe aprobación ambiental del SEIA",
+      "url": "https://www.revistaei.cl/valparaiso-sistema-bess-por-us300-millones-recibe-aprobacion-ambiental-del-seia/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El proyecto tendrá una capacidad total de 1.000 MWh y una potencia nominal de 250 MW compuesto por 200 contenedores, cada uno con una capacidad de 5 MW. La entrada Valparaíso: Sistema BESS por US$300 millones recibe aprobación ambiental del SEIA se p",
       "keywords_detectadas": [
         "SEIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA informa que durante agosto se aprobaron ambientalmente iniciativas por US$12.952 millones",
+      "url": "https://www.revistaei.cl/sea-informa-que-durante-agosto-se-aprobaron-ambientalmente-iniciativas-por-us12-952-millones/",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental reportó que las Comisiones de Evaluación Ambiental (COEVA) calificaron en total 37 proyectos, de los cuales sólo se rechazó uno. La entrada SEA informa que durante agosto se aprobaron ambientalmente iniciativas por",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Tribunal Ambiental revisa cuestionamientos a evaluación hídrica de proyecto de exploración minera en Toconao",
+      "url": "https://www.portalminero.com/tribunal-ambiental-revisa-cuestionamientos-a-evaluacion-hidrica-de-proyecto-de-exploracion-minera-en-toconao",
+      "fecha": "2026-09-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las reclamaciones de comunidades y agricultores indígenas apuntan a la suficiencia de los antecedentes para descartar efectos sobre aguas subterráneas y sistemas de vida. El SEA y la empresa defendieron la evaluación y las medidas previstas ante even",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SEIA registra récord de US$32.923 millones en proyectos aprobados en casi seis meses de Kast",
-      "url": "https://www.redimin.cl/seia-registra-record-de-us-32-923-millones-en-proyectos-aprobados-en-casi-seis-meses-de-kast",
+      "titular": "Compañía Minera Maricunga deberá invertir US$19,8 millones en restauración de humedales tras fallo del Tribunal Ambiental",
+      "url": "https://www.redimin.cl/compania-minera-maricunga-debera-invertir-us-19-8-millones-en-restauracion-de-humedales-tras-fallo-del-tribunal-ambiental",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En los primeros seis meses del gobierno de José Antonio Kast, se aprobaron proyectos por US$32.923 millones, superando ampliamente las cifras de administraciones anteriores.",
+      "extracto": "El Segundo Tribunal Ambiental aprobó un plan de restauración que busca recuperar ecosistemas afectados en la Región de Atacama.",
       "keywords_detectadas": [
-        "SEIA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SEIA registra récord de inversión aprobada con proyectos por US$32.923 millones",
-      "url": "https://www.nuevamineria.com/revista/seia-registra-record-de-inversion-aprobada-con-proyectos-por-us32-923-millones/",
+      "fuente": "REDIMIN",
+      "titular": "Andes Iron activa trabajos preliminares en La Higuera para asegurar validez de la RCA del proyecto Dominga",
+      "url": "https://www.redimin.cl/andes-iron-activa-trabajos-preliminares-en-la-higuera-para-asegurar-validez-de-la-rca-del-proyecto-dominga",
       "fecha": "2026-09-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La cifra supera ampliamente los montos registrados al comienzo de administraciones anteriores y estuvo impulsada por grandes iniciativas de energía, infraestructura hídrica e hidrógeno verde. Actualmente permanecen en evaluación otros 361 proyectos q",
+      "extracto": "La inversión del proyecto minero-portuario supera los US$3.000 millones y enfrenta más de 150 permisos sectoriales pendientes.",
       "keywords_detectadas": [
-        "SEIA"
+        "RCA"
       ]
     }
   ]
