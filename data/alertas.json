@@ -1,24 +1,24 @@
 {
-  "fecha_generacion": "2026-09-08T12:03:19.129403-03:00",
-  "total_alertas": 13,
+  "fecha_generacion": "2026-09-09T12:12:25.337682-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
+      "fuente": "País Circular",
+      "titular": "Paneles fotovoltaicos: la única meta de la Ley REP cuyo cumplimiento se mide en relación a residuos estimados y no a lo introducido al mercado",
+      "url": "https://www.paiscircular.cl/economia-circular/paneles-fotovoltaicos-la-unica-meta-de-la-ley-rep-cuyo-cumplimiento-se-mide-en-relacion-a-residuos-estimados-y-no-a-lo-introducido-al-mercado/",
+      "fecha": "2026-09-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En los antecedentes del Decreto Supremo 22/2025 del Ministerio del Medio Ambiente -publicado hace cuatro meses-, se cifra en 1.256.469 las toneladas de paneles fotovoltaicos introducidas en Chile hasta 2024, y en más de 52 millones los paneles instal",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
       "fuente": "Terram",
-      "titular": "[Tribunal Ambiental] Tribunal aprobó avenimiento que considera la ejecución de un plan de reparación de casi US$ 20 millones en humedales altoandinos de la región de Atacama",
-      "url": "https://www.terram.cl/tribunal-aprobo-avenimiento-que-considera-la-ejecucion-de-un-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
-      "fecha": "2026-09-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental aprobó el acuerdo alcanzado entre las partes en dos demandas por daño ambiental presentadas por la potencial afectación de dos vegas en el sector del Corredor Biológico Pantanillo-Ciénaga Redonda, en el altiplano de la R",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
-      "url": "https://portal.sma.gob.cl/index.php/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
-      "fecha": "2026-09-08",
+      "titular": "[SMA] SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
+      "url": "https://www.terram.cl/sma-sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
+      "fecha": "2026-09-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "Respecto a las infracciones imputadas, en una de ellas clasificada como gravísima, el titular del proyecto no efectuó oportunamente el procedimiento de calificación de fuente emisora, en circunstancia que se ha constatado una descarga de efluentes lí",
@@ -27,137 +27,40 @@
       ]
     },
     {
-      "fuente": "ADN Prensa",
-      "titular": "SMA aplica multa a la Empresa de Servicios Sanitarios San Isidro S.A. tras constatar incumplimientos ambientales en su Planta de San Ramón",
-      "url": "https://adprensa.cl/sma-aplica-multa-a-la-empresa-de-servicios-sanitarios-san-isidro-s-a-tras-constatar-incumplimientos-ambientales-en-su-planta-de-san-ramon/",
-      "fecha": "2026-09-08",
+      "fuente": "La Tercera",
+      "titular": "SMA sanciona con más de $669 millones a sanitaria por incumplimientos ambientales en Padre Las Casas",
+      "url": "https://www.latercera.com/nacional/noticia/sma-sanciona-con-mas-de-669-millones-a-sanitaria-por-incumplimientos-ambientales-en-padre-las-casas/",
+      "fecha": "2026-09-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Respecto a las infracciones imputadas, en una de ellas clasificada como gravísima, el titular del proyecto no efectuó oportunamente el procedimiento de calificación de fuente emisora, en circunstancia que se ha constatado una descarga de efluentes lí",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA difunde actualización de instructivo del SAG para el manejo de carcasas de avifauna en proyectos con RCA",
-      "url": "https://www.revistaei.cl/sma-difunde-actualizacion-de-instructivo-del-sag-para-el-manejo-de-carcasas-de-avifauna-en-proyectos-con-rca/",
-      "fecha": "2026-09-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El documento establece exigencias de bioseguridad y procedimientos zoosanitarios para el retiro, transporte y disposición final de aves muertas por colisión o electrocución, en el marco de la emergencia por Influenza Aviar de Alta Patogenicidad. La e",
+      "extracto": "El organismo detectó cuatro infracciones asociadas a la operación de una planta de tratamiento de aguas servidas en la localidad de San Ramón, entre ellas deficiencias técnicas, falta de monitoreos y descargas de residuos al río Huichahue sin la cali",
       "keywords_detectadas": [
         "SMA",
-        "RCA"
+        "sanciona"
       ]
     },
     {
-      "fuente": "País Circular",
-      "titular": "Demanda por daño ambiental: 2° Tribunal Ambiental aprobó acuerdo que considera plan de reparación en humedales altoandinos de la región de Atacama",
-      "url": "https://www.paiscircular.cl/radar-legal/demanda-por-dano-ambiental-2-tribunal-ambiental-aprobo-acuerdo-que-considera-la-ejecucion-de-un-plan-de-reparacion-en-humedales-altoandinos-de-la-region-de-atacama/",
-      "fecha": "2026-09-07",
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Ruidos: Centro de Excadetes y Oficiales de la Armada Caleuche cuestiona multa cursada por la SMA",
+      "url": "https://tribunalambiental.cl/audiencia-reclamacion-r-609-2026-centro-armada-caleuche-contra-ls-sma-ruido/",
+      "fecha": "2026-09-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El avenimiento entre el Consejo de Defensa del Estado y la Compañía Minera Maricunga incluye la ejecución, por un periodo de 15 años, de un Plan de Reparación que abarca los humedales de Pantanillo, Valle Ancho Sur, Valle Ancho Centro y Valle Ancho O",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Tribunal Ambiental aprobó plan de reparación de casi US$ 20 millones en humedales altoandinos de la Región de Atacama",
-      "url": "https://codexverde.cl/tribunal-ambiental-aprobo-plan-de-reparacion-de-casi-us-20-millones-en-humedales-altoandinos-de-la-region-de-atacama/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental aprobó el acuerdo alcanzado entre las partes en dos demandas por daño ambiental presentadas por la potencial afectación de dos vegas en el sector del Corredor Biológico Pantanillo-Ciénaga Redonda, en el altiplano de la R",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA amplía el SISAT para reforzar el cumplimiento de 7 Planes de Descontaminación Atmosférica en el sur del país",
-      "url": "https://portal.sma.gob.cl/index.php/sma-amplia-el-sisat-para-reforzar-el-cumplimiento-de-7-planes-de-descontaminacion-atmosferica-en-el-sur-del-pais/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La medida buscar reforzar el cumplimiento ambiental e informar obligaciones, a través del Sistema de Seguimiento Atmosférico (SISAT), a más de 1.500 fuentes fijas afectas a los respectivos planes, las obligaciones de muestreo y medición que deben cum",
+      "extracto": "El Segundo Tribunal Ambiental llevó a cabo audiencia en nueva reclamación presentada por el Centro de Excadetes y Oficiales de la Armada Caleuche mediante la cual cuestiona la multa de poco más de $8 millones por infracción a la norma de emisión de r",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental aprueba acuerdo que considera ejecución de plan de reparación de casi US$20 millones en Atacama",
-      "url": "https://www.mch.cl/tribunal-ambiental-aprueba-acuerdo-que-considera-ejecucion-de-plan-de-reparacion-de-casi-us20-millones-en-atacama/",
-      "fecha": "2026-09-07",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/10/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
+      "url": "https://3ta.cl/audiencias/01-10-2026-fija-audiencia-en-caso-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
+      "fecha": "2026-09-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las demandas por reparación de daño ambiental fueron presentadas por el Consejo de Defensa del Estado. La entrada Tribunal Ambiental aprueba acuerdo que considera ejecución de plan de reparación de casi US$20 millones en Atacama se publicó primero en",
+      "extracto": "Se fija audiencia con fecha 01/10/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 01/10/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026 ",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Valparaíso: Sistema BESS por US$300 millones recibe aprobación ambiental del SEIA",
-      "url": "https://www.revistaei.cl/valparaiso-sistema-bess-por-us300-millones-recibe-aprobacion-ambiental-del-seia/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El proyecto tendrá una capacidad total de 1.000 MWh y una potencia nominal de 250 MW compuesto por 200 contenedores, cada uno con una capacidad de 5 MW. La entrada Valparaíso: Sistema BESS por US$300 millones recibe aprobación ambiental del SEIA se p",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA informa que durante agosto se aprobaron ambientalmente iniciativas por US$12.952 millones",
-      "url": "https://www.revistaei.cl/sea-informa-que-durante-agosto-se-aprobaron-ambientalmente-iniciativas-por-us12-952-millones/",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental reportó que las Comisiones de Evaluación Ambiental (COEVA) calificaron en total 37 proyectos, de los cuales sólo se rechazó uno. La entrada SEA informa que durante agosto se aprobaron ambientalmente iniciativas por",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "Tribunal Ambiental revisa cuestionamientos a evaluación hídrica de proyecto de exploración minera en Toconao",
-      "url": "https://www.portalminero.com/tribunal-ambiental-revisa-cuestionamientos-a-evaluacion-hidrica-de-proyecto-de-exploracion-minera-en-toconao",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las reclamaciones de comunidades y agricultores indígenas apuntan a la suficiencia de los antecedentes para descartar efectos sobre aguas subterráneas y sistemas de vida. El SEA y la empresa defendieron la evaluación y las medidas previstas ante even",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Compañía Minera Maricunga deberá invertir US$19,8 millones en restauración de humedales tras fallo del Tribunal Ambiental",
-      "url": "https://www.redimin.cl/compania-minera-maricunga-debera-invertir-us-19-8-millones-en-restauracion-de-humedales-tras-fallo-del-tribunal-ambiental",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental aprobó un plan de restauración que busca recuperar ecosistemas afectados en la Región de Atacama.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Andes Iron activa trabajos preliminares en La Higuera para asegurar validez de la RCA del proyecto Dominga",
-      "url": "https://www.redimin.cl/andes-iron-activa-trabajos-preliminares-en-la-higuera-para-asegurar-validez-de-la-rca-del-proyecto-dominga",
-      "fecha": "2026-09-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La inversión del proyecto minero-portuario supera los US$3.000 millones y enfrenta más de 150 permisos sectoriales pendientes.",
-      "keywords_detectadas": [
-        "RCA"
+        "Superintendencia del Medio Ambiente"
       ]
     }
   ]
