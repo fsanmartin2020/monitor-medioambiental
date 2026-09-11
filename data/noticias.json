@@ -1,285 +1,253 @@
 {
-  "fecha_actualizacion": "2026-09-10T12:00:46.641656-03:00",
-  "total": 35,
+  "fecha_actualizacion": "2026-09-11T12:02:17.883875-03:00",
+  "total": 31,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Ventajas y desafíos del explosivo aumento en la capacidad de almacenamiento de energía en Chile",
-      "url": "https://www.paiscircular.cl/transicion-energetica/ventajas-y-desafios-del-explosivo-aumento-en-la-capacidad-de-almacenamiento-de-energia-en-chile/",
-      "fecha": "2026-09-10",
+      "titular": "Apuesta máxima en bonos de casino: por qué puede invalidar tus giros gratis",
+      "url": "https://www.paiscircular.cl/pulse/apuesta-maxima-bonos-casino/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Universidad de Chile inicia décima versión de Diploma en Cambio Climático y Desarrollo Resiliente Bajo en Carbono (Revista Electricidad)",
-      "url": "https://www.cr2.cl/universidad-de-chile-inicia-decima-version-de-diploma-en-cambio-climatico-y-desarrollo-resiliente-bajo-en-carbono-revista-electricidad/",
-      "fecha": "2026-09-10",
+      "fuente": "País Circular",
+      "titular": "Ñuble Ecopacks: el empaque compostable para arándanos a partir del escobajo de uva rescatado de las viñas del Itata",
+      "url": "https://www.paiscircular.cl/economia-circular/ecopacks-nuble/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Un proyecto estudia el funcionamiento de los ríos secos, fuente de biodiversidad",
-      "url": "https://efeverde.com/proyecto-estudia-funcionamiento-de-rios-secos-fuente-de-biodiversidad/",
-      "fecha": "2026-09-10",
+      "fuente": "Codex Verde",
+      "titular": "Talca inaugura la planta municipal de compostaje más grande de Chile",
+      "url": "https://codexverde.cl/talca-inaugura-la-planta-municipal-de-compostaje-mas-grande-de-chile/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El impacto climático interrumpió en 2025 el aprendizaje de más de 170 millones de estudiantes, según Unicef",
-      "url": "https://efeverde.com/impacto-climatico-aprendizaje-estudiantes-unicef/",
-      "fecha": "2026-09-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Casi el 33 % de los incendios forestales fueron intencionados en 2025, según la Memoria de la Fiscalía General del Estado",
-      "url": "https://efeverde.com/incendios-forestales-intencionados-memoria-fiscalia-general-del-estado/",
-      "fecha": "2026-09-10",
+      "fuente": "Codex Verde",
+      "titular": "Comisión de Medioambiente aprueba indicación que permitiría regular carreras de galgos en proyecto que busca prohibirlas",
+      "url": "https://codexverde.cl/comision-de-medioambiente-aprueba-indicacion-que-permitiria-regular-carreras-de-galgos-en-proyecto-que-busca-prohibirlas/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Hoy termina el plazo para presentar alegaciones al real decreto que regulará la sostenibilidad de los centros de datos",
-      "url": "https://efeverde.com/hoy-termina-el-plazo-para-presentar-alegaciones-al-real-decreto-que-regulara-la-sostenibilidad-de-los-centros-de-datos/",
-      "fecha": "2026-09-10",
+      "titular": "El juez archiva la investigación de los pozos de la Casa de Alba en el entorno de Doñana",
+      "url": "https://efeverde.com/juez-archiva-investigacion-pozos-de-la-casa-de-alba-donana/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ONU avisa de una crisis energética invernal en Europa por depender de los combustibles fósiles",
-      "url": "https://efeverde.com/crisis-energetica-invernal-europa-depender-combustibles-fosiles/",
-      "fecha": "2026-09-10",
+      "titular": "La temperatura del agua del mar marca «récords históricos» en las costas españolas este verano",
+      "url": "https://efeverde.com/temperatura-agua-mar-marca-records-costas-espanolas/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Suben a 296.502 las hectáreas quemadas por fuegos en España, más del triple del promedio",
-      "url": "https://efeverde.com/suben-a-296-502-las-hectareas-quemadas-por-fuegos-en-espana-mas-del-triple-del-promedio/",
-      "fecha": "2026-09-10",
+      "titular": "El plazo de alegaciones al Real Decreto de centros de datos finaliza con dudas y críticas",
+      "url": "https://efeverde.com/plazo-de-alegaciones-al-real-decreto-de-centros-de-datos/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "ONG ecologistas piden al Gobierno que el Real Decreto de centro de datos garantice menos consumo de energía y agua",
+      "url": "https://efeverde.com/ong-ecologistas-real-decreto-de-centro-de-datos/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las ferias ecológicas y de alimentación imprescindibles este otoño. Por Laura Clavijo",
+      "url": "https://efeverde.com/las-ferias-ecologicas-y-de-alimentacion-imprescindibles-este-otono-por-laura-clavijo/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El año hidrológico encara su recta final con un 6 % más de lluvias de lo habitual",
+      "url": "https://efeverde.com/ano-hidrologico-recta-final-mas-de-lluvias-habitual/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "África se prepara ante un fenómeno de El Niño que puede desplazar a millones de personas",
+      "url": "https://efeverde.com/africa-se-prepara-ante-un-fenomeno-de-el-nino-que-puede-desplazar-a-millones-de-personas/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Biobiochile.cl] Andes Iron se suma a la investigación por presunta corrupción judicial en proyecto Dominga",
-      "url": "https://www.terram.cl/biobiochile-cl-andes-iron-se-suma-a-la-investigacion-por-presunta-corrupcion-judicial-en-proyecto-dominga/",
-      "fecha": "2026-09-10",
+      "titular": "[Radio U de Chile] Cambios al reglamento del SEIA podrían dejar sin evaluación ambiental a más de 600 proyectos",
+      "url": "https://www.terram.cl/radio-u-de-chile-cambios-al-reglamento-del-seia-podrian-dejar-sin-evaluacion-ambiental-a-mas-de-600-proyectos/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Pincoyazo] El legado de Boric: Seis nuevos Centros de Datos podrían no evaluar impactos ambientales pese a almacenar cerca de 1.000 toneladas de combustible",
-      "url": "https://www.terram.cl/el-legado-de-boric-seis-nuevos-centros-de-datos-podrian-no-evaluar-impactos-ambientales-pese-a-almacenar-cerca-de-1-000-toneladas-de-combustible/",
-      "fecha": "2026-09-10",
+      "titular": "[El Desconcierto] Decreto de dictadura que reemplazó el bosque nativo por pinos vuelve al debate por nuevo proyecto de ley",
+      "url": "https://www.terram.cl/el-desconcierto-decreto-de-dictadura-que-reemplazo-el-bosque-nativo-por-pinos-vuelve-al-debate-por-nuevo-proyecto-de-ley/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] El Niño arruinó cosechas de papa, empujó al jurel hacia aguas frías y ya amenaza la fruta del próximo verano",
-      "url": "https://www.terram.cl/el-desconcierto-el-nino-arruino-cosechas-de-papa-empujo-al-jurel-hacia-aguas-frias-y-ya-amenaza-la-fruta-del-proximo-verano/",
-      "fecha": "2026-09-10",
+      "titular": "[CodexVerde] Comisión de Medioambiente aprueba indicación que permitiría regular carreras de galgos en proyecto que busca prohibirlas",
+      "url": "https://www.terram.cl/codexverde-comision-de-medioambiente-aprueba-indicacion-que-permitiria-regular-carreras-de-galgos-en-proyecto-que-busca-prohibirlas/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Mongabay] Agua del mar para la minería: Chile acelera la desalinización mientras científicos advierten vacíos ambientales",
-      "url": "https://www.terram.cl/mongabay-agua-del-mar-para-la-mineria-chile-acelera-la-desalinizacion-mientras-cientificos-advierten-vacios-ambientales/",
-      "fecha": "2026-09-10",
+      "titular": "[Resumen] Amenaza sobre Quillón: Concesiones mineras de tierras raras cercan más de 6.000 hectáreas de la comuna",
+      "url": "https://www.terram.cl/resumen-amenaza-sobre-quillon-concesiones-mineras-de-tierras-raras-cercan-mas-de-6-000-hectareas-de-la-comuna/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Resumen.cl] Las millonarias multas que recibió la minera de tierras raras Serra Verde por incumplimientos ambientales en Brasil",
-      "url": "https://www.terram.cl/resumen-cl-las-millonarias-multas-que-recibio-la-minera-de-tierras-raras-serra-verde-por-incumplimientos-ambientales-en-brasil/",
-      "fecha": "2026-09-10",
+      "titular": "[Induambiente] REgenera Chile: nueva agenda nacional de economía circular busca elevar tasa de reciclaje al 40%",
+      "url": "https://www.terram.cl/induambiente-regenera-chile-nueva-agenda-nacional-de-economia-circular-busca-elevar-tasa-de-reciclaje-al-40/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Ladera Sur] Denuncian captura ilegal de aves cantoras en pleno desierto florido con jaulas trampa",
-      "url": "https://www.terram.cl/ladera-sur-denuncian-captura-ilegal-de-aves-cantoras-en-pleno-desierto-florido-con-jaulas-trampa/",
-      "fecha": "2026-09-10",
+      "titular": "[Ladera Sur] ¿Cómo era Monte Verde hace 14.500 años? Publican guía que profundiza en la historia de uno de los asentamientos humanos más antiguos de América",
+      "url": "https://www.terram.cl/ladera-sur-como-era-monte-verde-hace-14-500-anos-publican-guia-que-profundiza-en-la-historia-de-uno-de-los-asentamientos-humanos-mas-antiguos-de-america/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Alfredo Solar (Atlas): “Los data centers van a requerir un abastecimiento que sea eficiente y seguro”",
-      "url": "https://www.revistaei.cl/alfredo-solar-atlas-los-data-centers-van-a-requerir-un-abastecimiento-que-sea-eficiente-y-seguro/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental acogió parcialmente reclamación contra SMA que archivó denuncias del “Centro de Cultivo de Salmónidos Contao”",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-acogio-parcialmente-reclamacion-contra-sma-que-archivo-denuncias-del-centro-de-cultivo-de-salmonidos-contao/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra del Medio Ambiente promueve agenda de Economía Circular en Romeral",
+      "url": "https://mma.gob.cl/ministra-del-medio-ambiente-promueve-agenda-de-economia-circular-en-romeral/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Nuevo Registro Nacional refuerza formalización y reconocimiento de recicladores de base en Ñuble",
+      "url": "https://mma.gob.cl/nuevo-registro-nacional-refuerza-formalizacion-y-reconocimiento-de-recicladores-de-base-en-nuble/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Líder de las JJ.CC. \"no considera\" que Cuba sea una dictadura y que gobierno de Kast  tiene \"autoritarismo\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/11/1211186/presidenta-jjcc-por-cuba.html",
+      "fecha": "2026-09-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Chile intensifica campaña para llevar secretaría del Tratado de Alta Mar a Valparaíso: compite con Bruselas y Xiamen",
+      "url": "https://www.redimin.cl/chile-intensifica-campana-para-llevar-secretaria-del-tratado-de-alta-mar-a-valparaiso-compite-con-bruselas-y-xiamen",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Ministra Toledo lanza REgenera Chile, la nueva hoja de ruta para transformar la gestión de residuos del país",
+      "url": "https://www.paiscircular.cl/economia-circular/ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais/",
       "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Se abren las inscripciones al Chile Carbon Forum 2026, el mayor encuentro sobre acción climática y mercados de carbono de Chile",
-      "url": "https://www.paiscircular.cl/transicion-energetica/se-abren-las-inscripciones-al-chile-carbon-forum-2026/",
-      "fecha": "2026-09-09",
+      "titular": "Acuicultura Circular en la Región de Los Lagos",
+      "url": "https://www.paiscircular.cl/videos/acuicultura-circular-en-la-region-de-los-lagos/",
+      "fecha": "2026-09-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Fondas veganas en Chile 2026: alternativas por región para celebrar estas Fiestas Patrias",
+      "url": "https://www.paiscircular.cl/medio-ambiente/fondas-veganas-en-chile-2026-alternativas-por-region-para-celebrar-estas-fiestas-patrias/",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Puchuncaví: denuncian nuevos escurrimientos de Minera Montecarmelo hacia humedal Los Maitenes-Campiche",
-      "url": "https://codexverde.cl/puchuncavi-denuncian-nuevos-escurrimientos-de-minera-montecarmelo-hacia-humedal-los-maitenes-campiche/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Nueva herramienta permitirá detectar vertederos ilegales con apoyo de imágenes satelitales e inteligencia artificial",
-      "url": "https://codexverde.cl/nueva-herramienta-permitira-detectar-vertederos-ilegales-con-apoyo-de-imagenes-satelitales-e-inteligencia-artificial/",
-      "fecha": "2026-09-09",
+      "titular": "Megarreforma e institucionalidad ambiental: expertos analizan desafíos para agilizar proyectos sin debilitar la protección",
+      "url": "https://codexverde.cl/megarreforma-e-institucionalidad-ambiental-expertos-analizan-desafios-para-agilizar-proyectos-sin-debilitar-la-proteccion-ambiental/",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Agosto de 2026 fue el mes más caluroso registrado jamás, con 16,96 grados",
-      "url": "https://efeverde.com/agosto-2026-mes-mas-caluroso-registrado-jamas/",
-      "fecha": "2026-09-09",
+      "titular": "Los océanos enlazan 100 días de calor récord con «consecuencias desastrosas»",
+      "url": "https://efeverde.com/oceanos-calor-record-con-consecuencias-desastrosas/",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Las ciudades europeas, cada vez más expuestas a los riesgos climáticos pese a las medidas de adaptación",
-      "url": "https://efeverde.com/ciudades-europeas-expuestas-riesgos-climaticos-adaptacion/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La concentración de población eleva los riesgos climáticos en las ciudades españolas",
-      "url": "https://efeverde.com/concentracion-poblacion-riesgos-climaticos-ciudades-espanolas/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Financiación verde, una planta femenina y drones antiincendios en Mangas Verdes 496",
-      "url": "https://efeverde.com/financiacion-verde-planta-femenina-drones-antiincendios-mangas-verdes-496/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El incendio forestal de Niebla (Huelva) encabeza la negra lista de los mayores fuegos en la historia de España",
-      "url": "https://efeverde.com/el-incendio-forestal-de-niebla-huelva-encabeza-la-negra-lista-de-los-mayores-fuegos-en-la-historia-de-espana/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Aagesen anuncia nueva ronda de contactos para un Pacto de Estado ante emergencia climática",
-      "url": "https://efeverde.com/aagesen-anuncia-nueva-ronda-de-contactos-para-un-pacto-de-estado-ante-emergencia-climatica/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo regional del area de atencion de usuariosas escalafon tecnico para la oficina de contao direccion regional de los lagos del s",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-regional-del-area-de-atencion-de-usuariosas-escalafon-tecnico-para-la-oficina-de-contao-direccion-regional-de-los-lagos-del-s/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo de la unidad de inocuidad y certificacion escalafon profesional a contrata asimilado a grado 15 de la e u s para la o 2",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-de-la-unidad-de-inocuidad-y-certificacion-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-o-2/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "SBAP y CONAF acuerdan uso de 230 nuevas cámaras trampa para ampliar el monitoreo de fauna en áreas protegidas",
-      "url": "https://www.conaf.cl/sbap-y-conaf-acuerdan-uso-de-230-nuevas-camaras-trampa-para-ampliar-el-monitoreo-de-fauna-en-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=sbap-y-conaf-acuerdan-uso-de-230-nuevas-camaras-trampa-para-ampliar-el-monitoreo-de-fauna-en-areas-protegidas",
-      "fecha": "2026-09-09",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Sociedad Agrícola Cocule Limitada con Fisco de Chile – Ministerio del Medio Ambiente». Rol: D-3-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-sociedad-agricola-cocule-limitada-con-fisco-de-chile-ministerio-del-medio-ambiente-rol-d-3-2026/",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Tras 50 años en CONAF, se jubiló funcionario que lideró el combate de incendios forestales en la región",
-      "url": "https://www.conaf.cl/tras-50-anos-en-conaf-se-jubilo-funcionario-que-lidero-el-combate-de-incendios-forestales-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=tras-50-anos-en-conaf-se-jubilo-funcionario-que-lidero-el-combate-de-incendios-forestales-en-la-region",
-      "fecha": "2026-09-09",
+      "titular": "CONAF Arica y Parinacota refuerza la prevención de incendios forestales con un llamado a la corresponsabilidad ciudadana",
+      "url": "https://www.conaf.cl/conaf-arica-y-parinacota-refuerza-la-prevencion-de-incendios-forestales-con-un-llamado-a-la-corresponsabilidad-ciudadana/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-arica-y-parinacota-refuerza-la-prevencion-de-incendios-forestales-con-un-llamado-a-la-corresponsabilidad-ciudadana",
+      "fecha": "2026-09-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Profesionales de CONAF fortalecen capacidades en Taller de Monitoreo de Bosques Altoandinos en Perú",
+      "url": "https://www.conaf.cl/profesionales-de-conaf-fortalecen-capacidades-en-taller-de-monitoreo-de-bosques-altoandinos-en-peru/?utm_source=rss&utm_medium=rss&utm_campaign=profesionales-de-conaf-fortalecen-capacidades-en-taller-de-monitoreo-de-bosques-altoandinos-en-peru",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Yungay fortalece el reciclaje con la inauguración de 10 nuevos puntos verdes",
-      "url": "https://mma.gob.cl/yungay-fortalece-el-reciclaje-con-la-inauguracion-de-10-nuevos-puntos-verdes/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente invita a fonderos y visitantes a llevar unas fiestas patrias más sustentable e informarse sobre el uso de plásticos desechables",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-fonderos-y-visitantes-a-llevar-unas-fiestas-patrias-mas-sustentable-e-informarse-sobre-el-uso-de-plasticos-desechables/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Lanzan en La Serena guía pedagógica de educación ambiental marino-costera para colegios de todo Chile",
-      "url": "https://mma.gob.cl/lanzan-en-la-serena-guia-pedagogica-de-educacion-ambiental-marino-costera-para-colegios-de-todo-chile/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Arrau critica que criminal colombiano vuelva a centro de detención juvenil de donde escapó: “¿Qué garantiza que esta vez sea distinto?\"",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-critica-que-criminal-colombiano-vuelva-a-centro-de-detencion-juvenil-de-donde-escapo-que-garantiza-que-esta-vez-sea-distinto/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "María José Hoffmann y competencia por presidencia UDI: “Me gustaría que fuera Constanza Hube, ella está disponible”",
-      "url": "https://www.latercera.com/politica/noticia/maria-jose-hoffmann-y-competencia-por-presidencia-udi-me-gustaria-que-fuera-constanza-hube-ella-esta-disponible/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Matías Acevedo y nuevo fondo para financiar viviendas: “Uno debería pensar que esto sea una medida transitoria, puede ser dos o tres años”",
-      "url": "https://www.latercera.com/pulso/noticia/matias-acevedo-y-nuevo-fondo-para-financiar-viviendas-uno-deberia-pensar-que-esto-sea-una-medida-transitoria-puede-ser-dos-o-tres-anos/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "La “segunda permisología”: proyectos suman hasta dos años extra después de obtener su RCA",
-      "url": "https://www.portalminero.com/la-segunda-permisologia-proyectos-suman-hasta-dos-anos-extra-despues-de-obtener-su-rca",
-      "fecha": "2026-09-09",
+      "titular": "Ministra Toledo lanza REgenera Chile, la nueva hoja de ruta para transformar la gestión de residuos del país",
+      "url": "https://mma.gob.cl/ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais/",
+      "fecha": "2026-09-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

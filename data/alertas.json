@@ -1,53 +1,42 @@
 {
-  "fecha_generacion": "2026-09-10T12:00:46.657261-03:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-09-11T12:02:17.901089-03:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Alfredo Solar (Atlas): “Los data centers van a requerir un abastecimiento que sea eficiente y seguro”",
-      "url": "https://www.revistaei.cl/alfredo-solar-atlas-los-data-centers-van-a-requerir-un-abastecimiento-que-sea-eficiente-y-seguro/",
-      "fecha": "2026-09-10",
+      "fuente": "Terram",
+      "titular": "[Radio U de Chile] Cambios al reglamento del SEIA podrían dejar sin evaluación ambiental a más de 600 proyectos",
+      "url": "https://www.terram.cl/radio-u-de-chile-cambios-al-reglamento-del-seia-podrian-dejar-sin-evaluacion-ambiental-a-mas-de-600-proyectos/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El ejecutivo aborda las necesidades energéticas de los centros de datos, los desafíos para asegurar un suministro eficiente y confiable, y las oportunidades que ofrecen las energías renovables y el almacenamiento en Chile. La entrada Alfredo Solar (A",
+      "extracto": "Un análisis de proyectos tramitados anteriormente permite dimensionar el alcance de los cambios impulsados por el Gobierno, modifica los umbrales de ingreso para iniciativas inmobiliarias, faenas de mediana minería y prospecciones. Fuente: Radio U de",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Arrau critica que criminal colombiano vuelva a centro de detención juvenil de donde escapó: “¿Qué garantiza que esta vez sea distinto?\"",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-critica-que-criminal-colombiano-vuelva-a-centro-de-detencion-juvenil-de-donde-escapo-que-garantiza-que-esta-vez-sea-distinto/",
-      "fecha": "2026-09-09",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental acogió parcialmente reclamación contra SMA que archivó denuncias del “Centro de Cultivo de Salmónidos Contao”",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-acogio-parcialmente-reclamacion-contra-sma-que-archivo-denuncias-del-centro-de-cultivo-de-salmonidos-contao/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El ministro de Seguridad afirmó en redes sociales que Nestor Quiñones fue enviado por el tribunal al mismo recinto del que luego logro huir, \"sabiendo de las evidentes conexiones que permitieron su fuga\".",
+      "extracto": "La SMA deberá retrotraer el procedimiento para analizar los antecedentes, pronunciarse de forma expresa y fundada respecto de las denuncias presentadas y de la solicitud de medidas urgentes y transitorias. La Superintendencia del Medio Ambiente (SMA)",
       "keywords_detectadas": [
-        "SEA"
+        "SMA",
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Matías Acevedo y nuevo fondo para financiar viviendas: “Uno debería pensar que esto sea una medida transitoria, puede ser dos o tres años”",
-      "url": "https://www.latercera.com/pulso/noticia/matias-acevedo-y-nuevo-fondo-para-financiar-viviendas-uno-deberia-pensar-que-esto-sea-una-medida-transitoria-puede-ser-dos-o-tres-anos/",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El economista y exdirector de Presupuestos valora la propuesta, pero plantea matices: dice preferir que funcione el mercado, aunque reconoce que hoy hay un problema de acceso a la vivienda que va más allá. \"Echo de menos y lo encuentro lamentable, qu",
+      "fuente": "Emol",
+      "titular": "Líder de las JJ.CC. \"no considera\" que Cuba sea una dictadura y que gobierno de Kast  tiene \"autoritarismo\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/11/1211186/presidenta-jjcc-por-cuba.html",
+      "fecha": "2026-09-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "La “segunda permisología”: proyectos suman hasta dos años extra después de obtener su RCA",
-      "url": "https://www.portalminero.com/la-segunda-permisologia-proyectos-suman-hasta-dos-anos-extra-despues-de-obtener-su-rca",
-      "fecha": "2026-09-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El abogado Cristóbal Correa analiza que la discusión sobre los permisos está entrando en una nueva etapa: la incertidumbre posterior a la aprobación ambiental. A su juicio, el desafío es entregar mayor predictibilidad a la inversión sin debilitar los",
-      "keywords_detectadas": [
-        "RCA"
       ]
     }
   ]
