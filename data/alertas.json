@@ -1,40 +1,15 @@
 {
-  "fecha_generacion": "2026-09-11T12:02:17.901089-03:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-09-12T11:02:42.003680-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Radio U de Chile] Cambios al reglamento del SEIA podrían dejar sin evaluación ambiental a más de 600 proyectos",
-      "url": "https://www.terram.cl/radio-u-de-chile-cambios-al-reglamento-del-seia-podrian-dejar-sin-evaluacion-ambiental-a-mas-de-600-proyectos/",
-      "fecha": "2026-09-11",
+      "fuente": "La Tercera",
+      "titular": "Mois Navon: “Las armas autónomas harán que la guerra sea más limpia, rápida y eficiente”",
+      "url": "https://www.latercera.com/mundo/noticia/mois-navon-las-armas-autonomas-haran-que-la-guerra-sea-mas-limpia-rapida-y-eficiente/",
+      "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Un análisis de proyectos tramitados anteriormente permite dimensionar el alcance de los cambios impulsados por el Gobierno, modifica los umbrales de ingreso para iniciativas inmobiliarias, faenas de mediana minería y prospecciones. Fuente: Radio U de",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental acogió parcialmente reclamación contra SMA que archivó denuncias del “Centro de Cultivo de Salmónidos Contao”",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-acogio-parcialmente-reclamacion-contra-sma-que-archivo-denuncias-del-centro-de-cultivo-de-salmonidos-contao/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La SMA deberá retrotraer el procedimiento para analizar los antecedentes, pronunciarse de forma expresa y fundada respecto de las denuncias presentadas y de la solicitud de medidas urgentes y transitorias. La Superintendencia del Medio Ambiente (SMA)",
-      "keywords_detectadas": [
-        "SMA",
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Líder de las JJ.CC. \"no considera\" que Cuba sea una dictadura y que gobierno de Kast  tiene \"autoritarismo\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/11/1211186/presidenta-jjcc-por-cuba.html",
-      "fecha": "2026-09-11",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "extracto": "Pionero en el desarrollo de chips para la conducción autónoma, rabino y asesor del gobierno de Israel, el ingeniero visitó Santiago para hablar de ética e inteligencia artificial, y defendió el uso de los sistemas autónomos por parte de las Fuerzas A",
       "keywords_detectadas": [
         "SEA"
       ]

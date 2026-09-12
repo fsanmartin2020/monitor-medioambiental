@@ -1,253 +1,141 @@
 {
-  "fecha_actualizacion": "2026-09-11T12:02:17.883875-03:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-09-12T11:02:41.994793-03:00",
+  "total": 17,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Apuesta máxima en bonos de casino: por qué puede invalidar tus giros gratis",
-      "url": "https://www.paiscircular.cl/pulse/apuesta-maxima-bonos-casino/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Ñuble Ecopacks: el empaque compostable para arándanos a partir del escobajo de uva rescatado de las viñas del Itata",
-      "url": "https://www.paiscircular.cl/economia-circular/ecopacks-nuble/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Talca inaugura la planta municipal de compostaje más grande de Chile",
-      "url": "https://codexverde.cl/talca-inaugura-la-planta-municipal-de-compostaje-mas-grande-de-chile/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Comisión de Medioambiente aprueba indicación que permitiría regular carreras de galgos en proyecto que busca prohibirlas",
-      "url": "https://codexverde.cl/comision-de-medioambiente-aprueba-indicacion-que-permitiria-regular-carreras-de-galgos-en-proyecto-que-busca-prohibirlas/",
-      "fecha": "2026-09-11",
+      "fuente": "EFE Verde",
+      "titular": "¿Por qué necesitamos un seguro para nuestro perro? Por Alejandra Botto",
+      "url": "https://efeverde.com/por-que-necesitamos-un-seguro-para-nuestro-perro-por-alejandra-botto/",
+      "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El juez archiva la investigación de los pozos de la Casa de Alba en el entorno de Doñana",
-      "url": "https://efeverde.com/juez-archiva-investigacion-pozos-de-la-casa-de-alba-donana/",
-      "fecha": "2026-09-11",
+      "titular": "La expansión de los centros de datos pone a prueba los recursos hídricos de España",
+      "url": "https://efeverde.com/la-expansion-de-los-centros-de-datos-pone-a-prueba-los-recursos-hidricos-de-espana/",
+      "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La temperatura del agua del mar marca «récords históricos» en las costas españolas este verano",
-      "url": "https://efeverde.com/temperatura-agua-mar-marca-records-costas-espanolas/",
-      "fecha": "2026-09-11",
+      "titular": "Calor, inundaciones y fuegos: el reto de los colegios para adaptarse a un clima adverso",
+      "url": "https://efeverde.com/calor-inundaciones-y-fuegos-el-reto-de-los-colegios-para-adaptarse-a-un-clima-adverso/",
+      "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El plazo de alegaciones al Real Decreto de centros de datos finaliza con dudas y críticas",
-      "url": "https://efeverde.com/plazo-de-alegaciones-al-real-decreto-de-centros-de-datos/",
-      "fecha": "2026-09-11",
+      "fuente": "La Tercera",
+      "titular": "Mois Navon: “Las armas autónomas harán que la guerra sea más limpia, rápida y eficiente”",
+      "url": "https://www.latercera.com/mundo/noticia/mois-navon-las-armas-autonomas-haran-que-la-guerra-sea-mas-limpia-rapida-y-eficiente/",
+      "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "ONG ecologistas piden al Gobierno que el Real Decreto de centro de datos garantice menos consumo de energía y agua",
-      "url": "https://efeverde.com/ong-ecologistas-real-decreto-de-centro-de-datos/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las ferias ecológicas y de alimentación imprescindibles este otoño. Por Laura Clavijo",
-      "url": "https://efeverde.com/las-ferias-ecologicas-y-de-alimentacion-imprescindibles-este-otono-por-laura-clavijo/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El año hidrológico encara su recta final con un 6 % más de lluvias de lo habitual",
-      "url": "https://efeverde.com/ano-hidrologico-recta-final-mas-de-lluvias-habitual/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "África se prepara ante un fenómeno de El Niño que puede desplazar a millones de personas",
-      "url": "https://efeverde.com/africa-se-prepara-ante-un-fenomeno-de-el-nino-que-puede-desplazar-a-millones-de-personas/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Radio U de Chile] Cambios al reglamento del SEIA podrían dejar sin evaluación ambiental a más de 600 proyectos",
-      "url": "https://www.terram.cl/radio-u-de-chile-cambios-al-reglamento-del-seia-podrian-dejar-sin-evaluacion-ambiental-a-mas-de-600-proyectos/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Decreto de dictadura que reemplazó el bosque nativo por pinos vuelve al debate por nuevo proyecto de ley",
-      "url": "https://www.terram.cl/el-desconcierto-decreto-de-dictadura-que-reemplazo-el-bosque-nativo-por-pinos-vuelve-al-debate-por-nuevo-proyecto-de-ley/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CodexVerde] Comisión de Medioambiente aprueba indicación que permitiría regular carreras de galgos en proyecto que busca prohibirlas",
-      "url": "https://www.terram.cl/codexverde-comision-de-medioambiente-aprueba-indicacion-que-permitiria-regular-carreras-de-galgos-en-proyecto-que-busca-prohibirlas/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Resumen] Amenaza sobre Quillón: Concesiones mineras de tierras raras cercan más de 6.000 hectáreas de la comuna",
-      "url": "https://www.terram.cl/resumen-amenaza-sobre-quillon-concesiones-mineras-de-tierras-raras-cercan-mas-de-6-000-hectareas-de-la-comuna/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Induambiente] REgenera Chile: nueva agenda nacional de economía circular busca elevar tasa de reciclaje al 40%",
-      "url": "https://www.terram.cl/induambiente-regenera-chile-nueva-agenda-nacional-de-economia-circular-busca-elevar-tasa-de-reciclaje-al-40/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] ¿Cómo era Monte Verde hace 14.500 años? Publican guía que profundiza en la historia de uno de los asentamientos humanos más antiguos de América",
-      "url": "https://www.terram.cl/ladera-sur-como-era-monte-verde-hace-14-500-anos-publican-guia-que-profundiza-en-la-historia-de-uno-de-los-asentamientos-humanos-mas-antiguos-de-america/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental acogió parcialmente reclamación contra SMA que archivó denuncias del “Centro de Cultivo de Salmónidos Contao”",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-acogio-parcialmente-reclamacion-contra-sma-que-archivo-denuncias-del-centro-de-cultivo-de-salmonidos-contao/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra del Medio Ambiente promueve agenda de Economía Circular en Romeral",
-      "url": "https://mma.gob.cl/ministra-del-medio-ambiente-promueve-agenda-de-economia-circular-en-romeral/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Nuevo Registro Nacional refuerza formalización y reconocimiento de recicladores de base en Ñuble",
-      "url": "https://mma.gob.cl/nuevo-registro-nacional-refuerza-formalizacion-y-reconocimiento-de-recicladores-de-base-en-nuble/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Líder de las JJ.CC. \"no considera\" que Cuba sea una dictadura y que gobierno de Kast  tiene \"autoritarismo\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/11/1211186/presidenta-jjcc-por-cuba.html",
-      "fecha": "2026-09-11",
+      "fuente": "El Dínamo",
+      "titular": "Progresivamente, vuelve la subsidiariedad",
+      "url": "https://www.eldinamo.cl/opinion/2026/09/11/progresivamente-vuelve-la-subsidiariedad/",
+      "fecha": "2026-09-12",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Chile intensifica campaña para llevar secretaría del Tratado de Alta Mar a Valparaíso: compite con Bruselas y Xiamen",
-      "url": "https://www.redimin.cl/chile-intensifica-campana-para-llevar-secretaria-del-tratado-de-alta-mar-a-valparaiso-compite-con-bruselas-y-xiamen",
+      "fuente": "País Circular",
+      "titular": "Desafío EBI Circular impulsa el talento verde regional a través de 33 proyecto",
+      "url": "https://www.paiscircular.cl/economia-circular/desafio-ebi-circular-impulsa-el-talento-verde-regional-a-traves-de-33-proyecto/",
       "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Ministra Toledo lanza REgenera Chile, la nueva hoja de ruta para transformar la gestión de residuos del país",
-      "url": "https://www.paiscircular.cl/economia-circular/ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais/",
-      "fecha": "2026-09-10",
+      "titular": "Región Metropolitana recibe el lanzamiento del Sello HORECA para la gestión sustentable de residuos",
+      "url": "https://www.paiscircular.cl/economia-circular/region-metropolitana-recibe-el-lanzamiento-del-sello-horeca-para-la-gestion-sustentable-de-residuos/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Acuicultura Circular en la Región de Los Lagos",
-      "url": "https://www.paiscircular.cl/videos/acuicultura-circular-en-la-region-de-los-lagos/",
-      "fecha": "2026-09-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Fondas veganas en Chile 2026: alternativas por región para celebrar estas Fiestas Patrias",
-      "url": "https://www.paiscircular.cl/medio-ambiente/fondas-veganas-en-chile-2026-alternativas-por-region-para-celebrar-estas-fiestas-patrias/",
-      "fecha": "2026-09-10",
+      "titular": "Monte Verde acerca décadas de investigación científica a nuevos públicos a través de una guía didáctica",
+      "url": "https://www.paiscircular.cl/medio-ambiente/monte-verde-acerca-decadas-de-investigacion-cientifica-a-nuevos-publicos-a-traves-de-una-guia-didactica/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Megarreforma e institucionalidad ambiental: expertos analizan desafíos para agilizar proyectos sin debilitar la protección",
-      "url": "https://codexverde.cl/megarreforma-e-institucionalidad-ambiental-expertos-analizan-desafios-para-agilizar-proyectos-sin-debilitar-la-proteccion-ambiental/",
-      "fecha": "2026-09-10",
+      "titular": "Microserie muestra cómo los ECMPO sostienen economías locales y protegen ecosistemas marinos",
+      "url": "https://codexverde.cl/microserie-muestra-como-los-ecmpo-sostienen-economias-locales-y-protegen-ecosistemas-marinos/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los océanos enlazan 100 días de calor récord con «consecuencias desastrosas»",
-      "url": "https://efeverde.com/oceanos-calor-record-con-consecuencias-desastrosas/",
-      "fecha": "2026-09-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Sociedad Agrícola Cocule Limitada con Fisco de Chile – Ministerio del Medio Ambiente». Rol: D-3-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-sociedad-agricola-cocule-limitada-con-fisco-de-chile-ministerio-del-medio-ambiente-rol-d-3-2026/",
-      "fecha": "2026-09-10",
+      "titular": "Un informe alerta de filtraciones en las obras de clausura de las balsas de fosfoyesos de Huelva",
+      "url": "https://efeverde.com/filtraciones-en-obras-clausura-balsas-de-fosfoyesos-de-huelva/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Arica y Parinacota refuerza la prevención de incendios forestales con un llamado a la corresponsabilidad ciudadana",
-      "url": "https://www.conaf.cl/conaf-arica-y-parinacota-refuerza-la-prevencion-de-incendios-forestales-con-un-llamado-a-la-corresponsabilidad-ciudadana/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-arica-y-parinacota-refuerza-la-prevencion-de-incendios-forestales-con-un-llamado-a-la-corresponsabilidad-ciudadana",
-      "fecha": "2026-09-10",
+      "titular": "CONAF Ñuble recupera 1400 hectáreas para mitigar el cambio climático y asegura recursos históricos",
+      "url": "https://www.conaf.cl/conaf-nuble-recupera-1400-hectareas-para-mitigar-el-cambio-climatico-y-asegura-recursos-historicos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-recupera-1400-hectareas-para-mitigar-el-cambio-climatico-y-asegura-recursos-historicos",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Profesionales de CONAF fortalecen capacidades en Taller de Monitoreo de Bosques Altoandinos en Perú",
-      "url": "https://www.conaf.cl/profesionales-de-conaf-fortalecen-capacidades-en-taller-de-monitoreo-de-bosques-altoandinos-en-peru/?utm_source=rss&utm_medium=rss&utm_campaign=profesionales-de-conaf-fortalecen-capacidades-en-taller-de-monitoreo-de-bosques-altoandinos-en-peru",
-      "fecha": "2026-09-10",
+      "titular": "CONAF impulsa plantación de híbridos Roble-Raulí para la forestación productiva con especies nativas",
+      "url": "https://www.conaf.cl/conaf-impulsa-plantacion-de-hibridos-roble-rauli-para-la-forestacion-productiva-con-especies-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-plantacion-de-hibridos-roble-rauli-para-la-forestacion-productiva-con-especies-nativas",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Reserva Nacional Los Huemules del Niblinto constituye Mesa Territorial Participativa",
+      "url": "https://www.conaf.cl/reserva-nacional-los-huemules-del-niblinto-constituye-mesa-territorial-participativa/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nacional-los-huemules-del-niblinto-constituye-mesa-territorial-participativa",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Tarapacá fortalece la prevención de incendios forestales en Huara y Pozo Almonte con el programa Escuelas Preparadas",
+      "url": "https://www.conaf.cl/conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-en-huara-y-pozo-almonte-con-el-programa-escuelas-preparadas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-en-huara-y-pozo-almonte-con-el-programa-escuelas-preparadas",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo lanza REgenera Chile, la nueva hoja de ruta para transformar la gestión de residuos del país",
-      "url": "https://mma.gob.cl/ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais/",
-      "fecha": "2026-09-10",
+      "titular": "Impulsan Sello Ambiental que premia a hoteles y restaurantes que incorporan la gestión sustentable de residuos en sus operaciones",
+      "url": "https://mma.gob.cl/impulsan-sello-ambiental-que-premia-a-hoteles-y-restaurantes-que-incorporan-la-gestion-sustentable-de-residuos-en-sus-operaciones/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Municipios de la RM y Valparaíso buscan incorporar la conservación de la biodiversidad en la gestión municipal",
+      "url": "https://mma.gob.cl/municipios-de-la-rm-y-valparaiso-buscan-incorporar-la-conservacion-de-la-biodiversidad-en-la-gestion-municipal/",
+      "fecha": "2026-09-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente aclara alcances de estudio sobre polimetales en Arica",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-aclara-alcances-de-estudio-sobre-polimetales-en-arica/",
+      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
