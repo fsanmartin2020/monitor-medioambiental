@@ -1,141 +1,53 @@
 {
-  "fecha_actualizacion": "2026-09-12T11:02:41.994793-03:00",
-  "total": 17,
+  "fecha_actualizacion": "2026-09-13T11:56:47.791445-03:00",
+  "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "¿Por qué necesitamos un seguro para nuestro perro? Por Alejandra Botto",
-      "url": "https://efeverde.com/por-que-necesitamos-un-seguro-para-nuestro-perro-por-alejandra-botto/",
-      "fecha": "2026-09-12",
+      "titular": "El Nilo, un foco más tensión en el batalla internacional por un recurso cada vez más escaso",
+      "url": "https://efeverde.com/focos-de-tension-en-el-batalla-internacional-por-un-recurso-cada-vez-mas-escaso/",
+      "fecha": "2026-09-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
       "titular": "La expansión de los centros de datos pone a prueba los recursos hídricos de España",
-      "url": "https://efeverde.com/la-expansion-de-los-centros-de-datos-pone-a-prueba-los-recursos-hidricos-de-espana/",
-      "fecha": "2026-09-12",
+      "url": "https://efeverde.com/la-expansion-de-los-centros-de-datos-pone-a-prueba-los-recursos-hidricos-de-espana-2/",
+      "fecha": "2026-09-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Calor, inundaciones y fuegos: el reto de los colegios para adaptarse a un clima adverso",
-      "url": "https://efeverde.com/calor-inundaciones-y-fuegos-el-reto-de-los-colegios-para-adaptarse-a-un-clima-adverso/",
+      "titular": "Egipto califica el agua del rio Nilo como una cuestión de «vida o muerte»",
+      "url": "https://efeverde.com/egipto-califica-el-agua-del-rio-nilo-como-una-cuestion-de-vida-o-muerte/",
+      "fecha": "2026-09-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Incendios devastan tierras en Indonesia impulsados por El Niño y la industria aceitera",
+      "url": "https://efeverde.com/incendios-devastan-tierras-en-indonesia-impulsados-por-el-nino-y-la-industria-aceitera/",
+      "fecha": "2026-09-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "La economía y la culpa",
+      "url": "https://www.latercera.com/opinion/noticia/la-economia-y-la-culpa/",
       "fecha": "2026-09-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Mois Navon: “Las armas autónomas harán que la guerra sea más limpia, rápida y eficiente”",
-      "url": "https://www.latercera.com/mundo/noticia/mois-navon-las-armas-autonomas-haran-que-la-guerra-sea-mas-limpia-rapida-y-eficiente/",
+      "titular": "Cómo es el Bespoke AI French Door con Autoview, el refrigerador con IA de Samsung con una “ventana hacia el interior”",
+      "url": "https://www.latercera.com/tecnologia/noticia/como-es-el-bespoke-ai-french-door-con-autoview-el-refrigerador-con-ia-de-samsung-con-una-ventana-hacia-el-interior/",
       "fecha": "2026-09-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "Progresivamente, vuelve la subsidiariedad",
-      "url": "https://www.eldinamo.cl/opinion/2026/09/11/progresivamente-vuelve-la-subsidiariedad/",
-      "fecha": "2026-09-12",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Desafío EBI Circular impulsa el talento verde regional a través de 33 proyecto",
-      "url": "https://www.paiscircular.cl/economia-circular/desafio-ebi-circular-impulsa-el-talento-verde-regional-a-traves-de-33-proyecto/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Región Metropolitana recibe el lanzamiento del Sello HORECA para la gestión sustentable de residuos",
-      "url": "https://www.paiscircular.cl/economia-circular/region-metropolitana-recibe-el-lanzamiento-del-sello-horeca-para-la-gestion-sustentable-de-residuos/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Monte Verde acerca décadas de investigación científica a nuevos públicos a través de una guía didáctica",
-      "url": "https://www.paiscircular.cl/medio-ambiente/monte-verde-acerca-decadas-de-investigacion-cientifica-a-nuevos-publicos-a-traves-de-una-guia-didactica/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Microserie muestra cómo los ECMPO sostienen economías locales y protegen ecosistemas marinos",
-      "url": "https://codexverde.cl/microserie-muestra-como-los-ecmpo-sostienen-economias-locales-y-protegen-ecosistemas-marinos/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un informe alerta de filtraciones en las obras de clausura de las balsas de fosfoyesos de Huelva",
-      "url": "https://efeverde.com/filtraciones-en-obras-clausura-balsas-de-fosfoyesos-de-huelva/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble recupera 1400 hectáreas para mitigar el cambio climático y asegura recursos históricos",
-      "url": "https://www.conaf.cl/conaf-nuble-recupera-1400-hectareas-para-mitigar-el-cambio-climatico-y-asegura-recursos-historicos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-recupera-1400-hectareas-para-mitigar-el-cambio-climatico-y-asegura-recursos-historicos",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa plantación de híbridos Roble-Raulí para la forestación productiva con especies nativas",
-      "url": "https://www.conaf.cl/conaf-impulsa-plantacion-de-hibridos-roble-rauli-para-la-forestacion-productiva-con-especies-nativas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-plantacion-de-hibridos-roble-rauli-para-la-forestacion-productiva-con-especies-nativas",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Reserva Nacional Los Huemules del Niblinto constituye Mesa Territorial Participativa",
-      "url": "https://www.conaf.cl/reserva-nacional-los-huemules-del-niblinto-constituye-mesa-territorial-participativa/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nacional-los-huemules-del-niblinto-constituye-mesa-territorial-participativa",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Tarapacá fortalece la prevención de incendios forestales en Huara y Pozo Almonte con el programa Escuelas Preparadas",
-      "url": "https://www.conaf.cl/conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-en-huara-y-pozo-almonte-con-el-programa-escuelas-preparadas/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-en-huara-y-pozo-almonte-con-el-programa-escuelas-preparadas",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Impulsan Sello Ambiental que premia a hoteles y restaurantes que incorporan la gestión sustentable de residuos en sus operaciones",
-      "url": "https://mma.gob.cl/impulsan-sello-ambiental-que-premia-a-hoteles-y-restaurantes-que-incorporan-la-gestion-sustentable-de-residuos-en-sus-operaciones/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Municipios de la RM y Valparaíso buscan incorporar la conservación de la biodiversidad en la gestión municipal",
-      "url": "https://mma.gob.cl/municipios-de-la-rm-y-valparaiso-buscan-incorporar-la-conservacion-de-la-biodiversidad-en-la-gestion-municipal/",
-      "fecha": "2026-09-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente aclara alcances de estudio sobre polimetales en Arica",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-aclara-alcances-de-estudio-sobre-polimetales-en-arica/",
-      "fecha": "2026-09-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,18 +1,5 @@
 {
-  "fecha_generacion": "2026-09-12T11:02:42.003680-03:00",
-  "total_alertas": 1,
-  "alertas": [
-    {
-      "fuente": "La Tercera",
-      "titular": "Mois Navon: “Las armas autónomas harán que la guerra sea más limpia, rápida y eficiente”",
-      "url": "https://www.latercera.com/mundo/noticia/mois-navon-las-armas-autonomas-haran-que-la-guerra-sea-mas-limpia-rapida-y-eficiente/",
-      "fecha": "2026-09-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Pionero en el desarrollo de chips para la conducción autónoma, rabino y asesor del gobierno de Israel, el ingeniero visitó Santiago para hablar de ética e inteligencia artificial, y defendió el uso de los sistemas autónomos por parte de las Fuerzas A",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-09-13T11:56:47.803066-03:00",
+  "total_alertas": 0,
+  "alertas": []
 }
