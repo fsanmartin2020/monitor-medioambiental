@@ -1,5 +1,42 @@
 {
-  "fecha_generacion": "2026-09-13T11:56:47.803066-03:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-09-14T14:07:16.070296-03:00",
+  "total_alertas": 3,
+  "alertas": [
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de 30 organizaciones piden que la naturaleza sea la primera «defensa» de la UE",
+      "url": "https://efeverde.com/mas-de-30-organizaciones-piden-que-la-naturaleza-sea-la-primera-defensa-de-la-ue/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Bruselas.- Más de treinta organizaciones pidieron este lunes a la Comisión Europea que convierta las soluciones basadas en la naturaleza en la primera «línea de defensa» de la Unión Europea frente a los desastres climáticos y que les dé prioridad en ",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Tribunal ordena a Superintendencia del Medio Ambiente revisar denuncias por proyecto salmonero en Los Lagos",
+      "url": "https://www.terram.cl/diario-sostenible-tribunal-ordena-a-superintendencia-del-medio-ambiente-revisar-denuncias-por-proyecto-salmonero-en-los-lagos/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción fue presentada por una organización de Hualaihué, luego que se archivaran reclamaciones sobre el centro de cultivo y sus posibles impactos en el ecosistema. Fuente: Diario Sostenible, 11 de septiembre de 2026.",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Nicolas Spohn, experto alemán y el auge de AfD: “No es que la gente sea más de derecha. Simplemente están más frustrados”",
+      "url": "https://www.latercera.com/mundo/noticia/nicolas-spohn-experto-aleman-y-el-auge-de-afd-no-es-que-la-gente-sea-mas-de-derecha-simplemente-estan-mas-frustrados/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El experto en política de la Alemania del Este conversó con La Tercera sobre las razones del triunfo del partido de extrema derecha en los recientes comicios de Sajonia-Anhalt. \"En toda Europa, y ahora también en Alemania, tenemos un populismo de der",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }
