@@ -1,229 +1,309 @@
 {
-  "fecha_actualizacion": "2026-09-14T14:07:16.054819-03:00",
-  "total": 28,
+  "fecha_actualizacion": "2026-09-15T12:37:40.717986-03:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Las alternativas con que Chile busca potenciar el reciclaje masivo de aluminio",
-      "url": "https://www.paiscircular.cl/economia-circular/las-alternativas-con-que-chile-busca-potenciar-el-reciclaje-masivo-de-aluminio/",
-      "fecha": "2026-09-14",
+      "titular": "Cinco mitos sobre el reúso de envases bajo la lupa de tres expertos",
+      "url": "https://www.paiscircular.cl/economia-circular/mitos/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministra Toledo lanza REgenera Chile, la nueva hoja de ruta para transformar la gestión de residuos del país",
-      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-lanza-regenera-chile-la-nueva-hoja-de-ruta-para-transformar-la-gestion-de-residuos-del-pais",
-      "fecha": "2026-09-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Eurofarma es el Mejor lugar para  trabajar para las Mujeres en Chile",
-      "url": "https://www.chiledesarrollosustentable.cl/eurofarma-es-el-mejor-lugar-para-trabajar-para-las-mujeres-en-chile/?utm_source=rss&utm_medium=rss&utm_campaign=eurofarma-es-el-mejor-lugar-para-trabajar-para-las-mujeres-en-chile",
-      "fecha": "2026-09-14",
+      "titular": "Ministra Rincón en ChileDay Madrid 2026: “La energía es hoy día la que mueve a la economía”",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-rincon-en-chileday-madrid-2026-la-energia-es-hoy-dia-la-que-mueve-a-la-economia/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-rincon-en-chileday-madrid-2026-la-energia-es-hoy-dia-la-que-mueve-a-la-economia",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Desalación y reúso de agua ganan terreno como piezas clave para la continuidad operacional de la gran minería",
-      "url": "https://codexverde.cl/desalacion-y-reuso-de-agua-ganan-terreno-como-piezas-clave-para-la-continuidad-operacional-de-la-gran-mineria/",
-      "fecha": "2026-09-14",
+      "titular": "Semillas en tensión: ¿cómo compatibilizar la exigencia fitosanitaria con la guarda campesina?",
+      "url": "https://codexverde.cl/semillas-en-tension-como-compatibilizar-la-exigencia-fitosanitaria-con-la-guarda-campesina/",
+      "fecha": "2026-09-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Crecer sin carbonizar el desarrollo",
+      "url": "https://codexverde.cl/crecer-sin-carbonizar-el-desarrollo/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La ciencia urge a un «uso sostenible» de la navegación ante la expansión de la ruta ártica",
-      "url": "https://efeverde.com/ciencia-urge-a-uso-sostenible-de-navegacion-ante-expansion-ruta-artica/",
-      "fecha": "2026-09-14",
+      "titular": "La Eurocámara apoya ampliar el arancel climático de la UE a nuevos productos, como piezas de coches y lavadoras",
+      "url": "https://efeverde.com/la-eurocamara-apoya-ampliar-el-arancel-climatico-de-la-ue-a-nuevos-productos-como-piezas-de-coches-y-lavadoras/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La avalancha de agua de la riada en Nepal llegó a la frontera a 188 km/h en solo 7 minutos",
-      "url": "https://efeverde.com/avalancha-agua-riada-en-nepal/",
-      "fecha": "2026-09-14",
+      "titular": "El Gobierno declara zonas afectadas por 112 emergencias de protección civil territorios de catorce comunidades",
+      "url": "https://efeverde.com/gobierno-declara-zonas-afectadas-por-emergencias-de-proteccion-civil-territorios-de-catorce-comunidades/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El 98 % de la población española está preocupada por los incendios forestales, según el último barómetro del CIS",
-      "url": "https://efeverde.com/poblacion-espanola-preocupada-por-incendios-forestales-segun-ultimo-barometro-cis/",
-      "fecha": "2026-09-14",
+      "titular": "La XII edición de Another Way Film Festival proyectará 40 películas",
+      "url": "https://efeverde.com/xii-edicion-de-another-way-film-festival/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ribera: Europa no está preparada para gestionar un cambio climático que avanza más rápido de lo previsto",
-      "url": "https://efeverde.com/ribera-europa-no-esta-preparada-para-gestionar-un-cambio-climatico-que-avanza-mas-rapido-de-lo-previsto/",
-      "fecha": "2026-09-14",
+      "titular": "La empresa de iluminación Signify prevé alcanzar las cero emisiones netas de carbono para 2040",
+      "url": "https://efeverde.com/la-empresa-de-iluminacion-signify-preve-alcanzar-las-cero-emisiones-netas-de-carbono-para-2040/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La industria bananera de Ecuador desarrolla mecanismos para proteger la producción ante El Niño",
-      "url": "https://efeverde.com/industria-bananera-ecuador-mecanismos-para-proteger-produccion-ante-el-nino/",
-      "fecha": "2026-09-14",
+      "titular": "Las emisiones de la aviación en España crecen más rápido que en cualquier otro gran país europeo",
+      "url": "https://efeverde.com/las-emisiones-de-la-aviacion-en-espana-crecen-mas-rapido-que-en-cualquier-otro-gran-pais-europeo/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Alberto Redondas (AEMET): La capa de ozono se está recuperando gracias a tratados firmados",
-      "url": "https://efeverde.com/alberto-redondas-aemet-capa-de-ozono/",
-      "fecha": "2026-09-14",
+      "titular": "El agotamiento de las reservas de agua dulce es un 33 % más grave de lo estimado",
+      "url": "https://efeverde.com/el-agotamiento-de-las-reservas-de-agua-dulce-es-un-33-mas-grave-de-lo-estimado/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Más de 30 organizaciones piden que la naturaleza sea la primera «defensa» de la UE",
-      "url": "https://efeverde.com/mas-de-30-organizaciones-piden-que-la-naturaleza-sea-la-primera-defensa-de-la-ue/",
-      "fecha": "2026-09-14",
+      "titular": "Estados Unidos deroga límites a las emisiones para centrales eléctricas de gas y carbón",
+      "url": "https://efeverde.com/estados-unidos-deroga-limites-a-las-emisiones-para-centrales-electricas-de-gas-y-carbon/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Advierten compleja regulación de industria salmonera que dificulta fiscalizar sus impactos ambientales",
-      "url": "https://www.terram.cl/el-desconcierto-advierten-compleja-regulacion-de-industria-salmonera-que-dificulta-fiscalizar-sus-impactos-ambientales/",
-      "fecha": "2026-09-14",
+      "titular": "[El Desconcierto] Ampliación de minera El Soldado reaviva tensión con vecinos de El Melón que protestan por agua y contaminación",
+      "url": "https://www.terram.cl/el-desconcierto-ampliacion-de-minera-el-soldado-reaviva-tension-con-vecinos-de-el-melon-que-protestan-por-agua-y-contaminacion/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario Sostenible] Tribunal ordena a Superintendencia del Medio Ambiente revisar denuncias por proyecto salmonero en Los Lagos",
-      "url": "https://www.terram.cl/diario-sostenible-tribunal-ordena-a-superintendencia-del-medio-ambiente-revisar-denuncias-por-proyecto-salmonero-en-los-lagos/",
-      "fecha": "2026-09-14",
+      "titular": "[Redimin] Chile intensifica campaña para llevar secretaría del Tratado de Alta Mar a Valparaíso: compite con Bruselas y Xiamen",
+      "url": "https://www.terram.cl/redimin-chile-intensifica-campana-para-llevar-secretaria-del-tratado-de-alta-mar-a-valparaiso-compite-con-bruselas-y-xiamen/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[La Tercera] Contraloría detecta plantas de aguas servidas sin autorización y deficiencias en tres comunas de la RM",
-      "url": "https://www.terram.cl/la-tercera-contraloria-detecta-plantas-de-aguas-servidas-sin-autorizacion-y-deficiencias-en-tres-comunas-de-la-rm/",
-      "fecha": "2026-09-14",
+      "titular": "[France 24] Revés ambiental: Administración Trump eliminará los límites a emisiones de carbono para las centrales eléctricas",
+      "url": "https://www.terram.cl/france-24-reves-ambiental-administracion-trump-eliminara-los-limites-a-emisiones-de-carbono-para-las-centrales-electricas/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[La Tercera] Chile lidera ranking ambiental de Latinoamérica: tiene la mejor agua potable, pero está al debe en manejo agrícola",
-      "url": "https://www.terram.cl/la-tercera-chile-lidera-ranking-ambiental-de-latinoamerica-tiene-la-mejor-agua-potable-pero-esta-al-debe-en-manejo-agricola/",
-      "fecha": "2026-09-14",
+      "titular": "[Diario Constitucional] Corte Suprema confirma rechazo de recurso por operación de planta química trasladada sin autorización ambiental",
+      "url": "https://www.terram.cl/diario-constitucional-corte-suprema-confirma-rechazo-de-recurso-por-operacion-de-planta-quimica-trasladada-sin-autorizacion-ambiental/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Reporte Minero] Municipio de Concepción impugna aprobación ambiental de proyecto de tierras raras en Penco",
-      "url": "https://www.terram.cl/reporte-minero-municipio-de-concepcion-impugna-aprobacion-ambiental-de-proyecto-de-tierras-raras-en-penco/",
-      "fecha": "2026-09-14",
+      "titular": "[El Mostrador] Calor extremo de El Niño pone a Chile en alerta",
+      "url": "https://www.terram.cl/el-mostrador-calor-extremo-de-el-nino-pone-a-chile-en-alerta/",
+      "fecha": "2026-09-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El País] Morococha, un pueblo fantasma, o el costo de la transición energética en Perú",
-      "url": "https://www.terram.cl/el-pais-morococha-un-pueblo-fantasma-o-el-costo-de-la-transicion-energetica-en-peru/",
+      "titular": "[Ladera Sur] El 87% de los chilenos pide acción del Gobierno para la crisis climática en políticas públicas, según reciente encuesta",
+      "url": "https://www.terram.cl/ladera-sur-el-87-de-los-chilenos-pide-accion-del-gobierno-para-la-crisis-climatica-en-politicas-publicas-segun-reciente-encuesta/",
+      "fecha": "2026-09-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Actualización: situación del uso del fuego como quema controlada",
+      "url": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-situacion-uso-del-fuego-en-regiones",
+      "fecha": "2026-09-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Corte Suprema ratifica importante criterio de la SMA tras fallo por multa contra Constructora Paz SpA",
+      "url": "https://portal.sma.gob.cl/index.php/corte-suprema-ratifica-importante-criterio-de-la-sma-tras-fallo-por-multa-contra-constructora-paz-spa/",
+      "fecha": "2026-09-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "DF al Cierre | Zegers descarta que sea posible frenar el avance de la IA: “No veo que China ni EEUU quieran parar\"",
+      "url": "https://www.df.cl/df-stream/videos/df-al-cierre-zegers-descarta-que-sea-posible-frenar-el-avance-de-la-ia",
+      "fecha": "2026-09-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "De los salares a los volcanes: proyecto educativo convierte el territorio de San Pedro de Atacama en un laboratorio natural",
+      "url": "https://codexverde.cl/de-los-salares-a-los-volcanes-proyecto-educativo-convierte-el-territorio-de-san-pedro-de-atacama-en-un-laboratorio-natural/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "FIMA",
-      "titular": "Otro invierno respirando un aire que nos enferma",
-      "url": "https://www.fima.cl/2026/09/14/otro-invierno-respirando-un-aire-que-nos-enferma/",
+      "titular": "Buscamos: Procurador/a Judicial",
+      "url": "https://www.fima.cl/2026/09/14/buscamos-procurador-a-judicial/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "15/09/2026: Suspende audiencia de «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-18-2026",
+      "url": "https://3ta.cl/audiencias/15-09-2026-suspende-audiencia-de-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "06/10/2026: Fija audiencia en caso de «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-18-2026",
+      "url": "https://3ta.cl/audiencias/06-10-2026-fija-audiencia-en-caso-de-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-18-2026/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo de la unidad de inocuidad y certificacion escalafon profesional a contrata asimilado a grado 15 de la e u s para la o",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-de-la-unidad-de-inocuidad-y-certificacion-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-o/",
+      "titular": "Proceso y comercializacion",
+      "url": "https://www.sernapesca.cl/area-trabajo/proceso-y-comercializacion/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "sitemap"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF no exigirá guía a partir del 16 de septiembre y mantiene medidas de seguridad en senderos",
-      "url": "https://www.conaf.cl/conaf-no-exigira-guia-a-partir-del-16-de-septiembre-y-mantiene-medidas-de-seguridad-en-senderos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-no-exigira-guia-a-partir-del-16-de-septiembre-y-mantiene-medidas-de-seguridad-en-senderos",
+      "fuente": "SERNAPESCA",
+      "titular": "Rescate y conservacion",
+      "url": "https://www.sernapesca.cl/area-trabajo/rescate-y-conservacion/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Parques y reservas marinas",
+      "url": "https://www.sernapesca.cl/area-trabajo/parques-y-reservas-marinas/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Resultados de gestion",
+      "url": "https://www.sernapesca.cl/informes-y-datos/resultados-de-gestion/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Participacion ciudadana",
+      "url": "https://www.sernapesca.cl/participacion_ciudadana/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Cuentas publicas participativas",
+      "url": "https://www.sernapesca.cl/participacion_ciudadana/cuentas-publicas-participativas/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Politicas de privacidad",
+      "url": "https://www.sernapesca.cl/politicas-de-privacidad/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Seguridad de la informacion",
+      "url": "https://www.sernapesca.cl/seguridad-de-la-informacion/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Jefe a de departamento de gestion de programas de fiscalizacion pesquera grado 5 de la e u s direccion nacional region de valparaiso del servicio nacional de pesca y acuicultura",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/jefe-a-de-departamento-de-gestion-de-programas-de-fiscalizacion-pesquera-grado-5-de-la-e-u-s-direccion-nacional-region-de-valparaiso-del-servicio-nacional-de-pesca-y-acuicultura/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Profesional con funciones de encargadoa del area de acuicultura escalafon profesional a contrata asimilado a grado 14 de la e u s dr atacama",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/profesional-con-funciones-de-encargadoa-del-area-de-acuicultura-escalafon-profesional-a-contrata-asimilado-a-grado-14-de-la-e-u-s-dr-atacama/",
+      "fecha": "2026-09-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Cumbre de Economía Circular reúne a actores públicos y privados para abordar la gestión de residuos en la Región del Biobío",
-      "url": "https://mma.gob.cl/cumbre-de-economia-circular-reune-a-actores-publicos-y-privados-para-abordar-la-gestion-de-residuos-en-la-region-del-biobio/",
+      "titular": "Medio Ambiente e Inacap lanzan recetario dieciochero para transformar los alimentos que quedan de Fiestas Patrias",
+      "url": "https://mma.gob.cl/medio-ambiente-e-inacap-lanzan-recetario-dieciochero-para-transformar-los-alimentos-que-quedan-de-fiestas-patrias/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Escuela de Iquique transforma botellas plásticas en material educativo mediante impresión 3D",
-      "url": "https://mma.gob.cl/escuela-de-iquique-transforma-botellas-plasticas-en-material-educativo-mediante-impresion-3d/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Codelco impulsa la valorización de neumáticos fuera de uso mediante alianza estratégica",
+      "url": "https://www.mch.cl/codelco-impulsa-la-valorizacion-de-neumaticos-fuera-de-uso-mediante-alianza-estrategica/",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Segunda",
-      "titular": "Cerna rechaza que detectives imputados por secuestro  cumplan prisión preventiva en cuarteles de la PDI",
-      "url": "https://www.lasegunda.com/Noticias/Politica/2026/09/1115675/cerna-policias-presos-cuartel-pdi",
-      "fecha": "2026-09-14",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Nicolas Spohn, experto alemán y el auge de AfD: “No es que la gente sea más de derecha. Simplemente están más frustrados”",
-      "url": "https://www.latercera.com/mundo/noticia/nicolas-spohn-experto-aleman-y-el-auge-de-afd-no-es-que-la-gente-sea-mas-de-derecha-simplemente-estan-mas-frustrados/",
-      "fecha": "2026-09-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
+      "fuente": "Portal Minero",
       "titular": "Codelco impulsa la valorización de neumáticos fuera de uso mediante alianza estratégica con Valora Más",
-      "url": "https://adprensa.cl/codelco-impulsa-la-valorizacion-de-neumaticos-fuera-de-uso-mediante-alianza-estrategica-con-valora-mas/",
+      "url": "https://www.portalminero.com/codelco-impulsa-la-valorizacion-de-neumaticos-fuera-de-uso-mediante-alianza-estrategica-con-valora-mas",
       "fecha": "2026-09-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Nueva Minería",
-      "titular": "El Abra suspende hasta diciembre evaluación ambiental de proyecto por US$7.500 millones",
-      "url": "https://www.nuevamineria.com/revista/el-abra-suspende-hasta-diciembre-evaluacion-ambiental-de-proyecto-por-us7-500-millones/",
+      "titular": "Comunidad indígena impugna aprobación ambiental del proyecto Desarrollo Futuro de Ministro Hales",
+      "url": "https://www.nuevamineria.com/revista/comunidad-indigena-impugna-aprobacion-ambiental-del-proyecto-desarrollo-futuro-de-ministro-hales/",
       "fecha": "2026-09-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "«España contra el desierto», un ensayo sobre la disyuntiva que enfrente España",
-      "url": "https://efeverde.com/espana-contra-el-desierto-un-ensayo-sobre-la-disyuntiva-que-enfrente-espana/",
-      "fecha": "2026-09-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Centros de datos en una Europa cada vez más seca",
-      "url": "https://efeverde.com/centros-de-datos-en-una-europa-cada-vez-mas-seca/",
-      "fecha": "2026-09-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
