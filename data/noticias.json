@@ -1,293 +1,93 @@
 {
-  "fecha_actualizacion": "2026-09-17T12:37:27.248962-03:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-09-18T11:57:15.793302-03:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Cómo identificar casinos con bono sin depósito legales en Chile",
-      "url": "https://www.paiscircular.cl/tendencias/como-identificar-casinos-con-bono-sin-deposito-legales-en-chile/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "De Catapilco para el mundo: Origo, el té de uva a partir de orujo rescatado de las viñas",
-      "url": "https://www.paiscircular.cl/economia-circular/origo-el-te-de-uva-a-partir-de-orujo-rescatado/",
-      "fecha": "2026-09-17",
+      "fuente": "EFE Verde",
+      "titular": "Las Tablas de Daimiel mantienen 523 hectáreas inundadas, el 30,16 % de su superficie",
+      "url": "https://efeverde.com/tablas-de-daimiel-hectareas-inundadas/",
+      "fecha": "2026-09-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El cambio climático agravó la devastadora avalancha de Nepal, según un estudio",
-      "url": "https://efeverde.com/cambio-climatico-agravo-devastadora-avalancha-nepal/",
-      "fecha": "2026-09-17",
+      "titular": "Jelly Bean, una de las belugas rescatadas de Canadá, fallece de forma repentina en el Oceanogràfic de Valencia",
+      "url": "https://efeverde.com/jelly-bean-belugas-rescatadas-de-canada-fallece-de-forma-repentina/",
+      "fecha": "2026-09-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "EFE y Signus convocan la tercera beca Cristina Yuste de periodismo ambiental",
-      "url": "https://efeverde.com/efe-y-signus-convocan-la-tercera-beca-cristina-yuste-de-periodismo-ambiental/",
-      "fecha": "2026-09-17",
+      "titular": "Red troncal de hidrógeno verde: arranca la tramitación y el debate ambiental",
+      "url": "https://efeverde.com/red-troncal-de-hidrogeno-verde-arranca-la-tramitacion-y-el-debate-ambiental/",
+      "fecha": "2026-09-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Quién dispara a Toñi? Por May",
-      "url": "https://efeverde.com/quien-dispara-toni-orcas-may-mundomay/",
-      "fecha": "2026-09-17",
+      "titular": "La estrategia más eficaz para la biodiversidad en la Amazonía: proteger el  bosque existente",
+      "url": "https://efeverde.com/la-estrategia-mas-eficaz-para-la-biodiversidad-en-la-amazonia-proteger-el-bosque-existente/",
+      "fecha": "2026-09-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las fuertes tormentas de las últimas horas reavivan el temor a nuevas inundaciones como las de la dana de Valencia",
-      "url": "https://efeverde.com/las-fuertes-tormetas-de-las-ultimas-horas-reavivan-el-temor-a-nuevas-indundaciones-como-las-de-la-dana-de-valencia/",
-      "fecha": "2026-09-17",
+      "titular": "El cambio climático pone a prueba al lúpulo: «Si no hay agua, hay un problema»",
+      "url": "https://efeverde.com/el-cambio-climatico-pone-a-prueba-al-lupulo-si-no-hay-agua-hay-un-problema/",
+      "fecha": "2026-09-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema confirma multa a Constructora Paz SpA y ratifica criterio de la SMA sobre procedimientos sancionatorios",
+      "url": "https://www.diarioconstitucional.cl/2026/09/18/corte-suprema-confirma-multa-a-constructora-paz-spa-y-ratifica-criterio-de-la-sma-sobre-procedimientos-sancionatorios/",
+      "fecha": "2026-09-18",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El planeta acumula diez años perdiendo reservas de agua dulce",
-      "url": "https://efeverde.com/el-planeta-acumula-diez-anos-perdiendo-reservas-de-agua-dulce/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Elvia la rastreadora: «Si no conoces la naturaleza, no puedes protegerla»",
-      "url": "https://efeverde.com/elvia-la-rastreadora-si-no-conoces-la-naturaleza-no-puedes-protegerla/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Descocnierto] Paradoja del salmón: Mientras crece producción industrial, está en peligro de extinción en su hábitat natural",
-      "url": "https://www.terram.cl/el-descocnierto-paradoja-del-salmon-mientras-crece-produccion-industrial-esta-en-peligro-de-extincion-en-su-habitat-natural/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Sur Concepción] Tierras raras: proyecto suma recursos de invalidación y Penco reitera rechazo",
-      "url": "https://www.terram.cl/el-sur-concepcion-tierras-raras-proyecto-suma-recursos-de-invalidacion-y-penco-reitera-rechazo/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Radio Modelo] Disputa por edificios en humedal Paicaví pasa a la justicia tras rechazo de recurso de vecinos en el SEIA",
-      "url": "https://www.terram.cl/radio-modelo-disputa-por-edificios-en-humedal-paicavi-pasa-a-la-justicia-tras-rechazo-de-recurso-de-vecinos-en-el-seia/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[País Circular] Chile gestiona más de 8 millones de toneladas de residuos al año. Las magnitudes son tan grandes como el desafío a futuro",
-      "url": "https://www.terram.cl/pais-circular-chile-gestiona-mas-de-8-millones-de-toneladas-de-residuos-al-ano-las-magnitudes-son-tan-grandes-como-el-desafio-a-futuro/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Pronostican hasta 40 grados para el verano: Activan plan preventivo ante incendios forestales",
-      "url": "https://www.terram.cl/cooperativa-ciencia-pronostican-hasta-40-grados-para-el-verano-activan-plan-preventivo-ante-incendios-forestales/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CNN] Entra en vigor derogación de norma de Trump sobre hábitat de especies en peligro, ante rechazo bipartidista del Congreso",
-      "url": "https://www.terram.cl/cnn-entra-en-vigor-derogacion-de-norma-de-trump-sobre-habitat-de-especies-en-peligro-ante-rechazo-bipartidista-del-congreso/",
+      "titular": "Descubren en Bolivia una nueva especie de felino, la primera en más de un siglo",
+      "url": "https://efeverde.com/descubren-en-bolivia-nueva-especie-de-felino/",
       "fecha": "2026-09-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Ñuble refuerza operativos carreteros para prevenir incendios forestales en Fiestas Patrias",
-      "url": "https://www.conaf.cl/conaf-nuble-refuerza-operativos-carreteros-para-prevenir-incendios-forestales-en-fiestas-patrias/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-operativos-carreteros-para-prevenir-incendios-forestales-en-fiestas-patrias",
+      "titular": "Por videos en redes sociales en el Parque Nacional Torres del Paine, CONAF llama a no promover malas prácticas",
+      "url": "https://www.conaf.cl/por-videos-en-redes-sociales-en-el-parque-nacional-torres-del-paine-conaf-llama-a-no-promover-malas-practicas/?utm_source=rss&utm_medium=rss&utm_campaign=por-videos-en-redes-sociales-en-el-parque-nacional-torres-del-paine-conaf-llama-a-no-promover-malas-practicas",
       "fecha": "2026-09-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF fiscaliza intervención de bosque nativo en Pucón y llama a informarse antes de comprar o intervenir terrenos",
-      "url": "https://www.conaf.cl/conaf-fiscaliza-intervencion-de-bosque-nativo-en-pucon-y-llama-a-informarse-antes-de-comprar-o-intervenir-terrenos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-fiscaliza-intervencion-de-bosque-nativo-en-pucon-y-llama-a-informarse-antes-de-comprar-o-intervenir-terrenos",
+      "titular": "CONAF ÑUBLE instala sus primeras brigadas forestales de la temporada e intensifica operativos preventivos",
+      "url": "https://www.conaf.cl/conaf-nuble-instala-sus-primeras-brigadas-forestales-de-la-temporada-e-intensifica-operativos-preventivos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-instala-sus-primeras-brigadas-forestales-de-la-temporada-e-intensifica-operativos-preventivos",
       "fecha": "2026-09-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo conmemora el Día Internacional de la Preservación de la Capa de Ozono con actividad ciudadana en el Museo Interactivo Mirador",
-      "url": "https://mma.gob.cl/ministra-toledo-conmemora-el-dia-internacional-de-la-preservacion-de-la-capa-de-ozono-con-actividad-ciudadana-en-el-museo-interactivo-mirador/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente recorre fondas emblemáticas para impulsar campaña “Quiero mi Fonda Sustentable”",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-recorre-fondas-emblematicas-para-impulsar-campana-quiero-mi-fonda-sustentable/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "La Región del Biobío fue sede de taller sobre el Sistema de Compensación de Emisiones (SCE)",
-      "url": "https://mma.gob.cl/la-region-del-biobio-fue-sede-de-taller-sobre-el-sistema-de-compensacion-de-emisiones-sce/",
+      "fuente": "CONAF",
+      "titular": "CONAF realizó operativo carretero de prevención y fiscalización por celebración de Fiestas Patrias en Agua Fresca",
+      "url": "https://www.conaf.cl/conaf-realizo-operativo-carretero-de-prevencion-y-fiscalizacion-por-celebracion-de-fiestas-patrias-en-agua-fresca/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realizo-operativo-carretero-de-prevencion-y-fiscalizacion-por-celebracion-de-fiestas-patrias-en-agua-fresca",
       "fecha": "2026-09-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Comunidades agrícolas acuden al Segundo Tribunal Ambiental contra la RCA del proyecto Kimal-Lo Aguirre",
-      "url": "https://www.latercera.com/pulso/noticia/comunidades-agricolas-acuden-al-segundo-tribunal-ambiental-contra-la-rca-del-proyecto-kimal-lo-aguirre/",
+      "titular": "Manuel Pellegrini y el gran arranque del Betis: “Le pido al equipo regularidad, que esto no sea un momento en la temporada”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/el-orgullo-de-manuel-pellegrini-tras-el-gran-inicio-de-temporada-del-betis-tener-15-puntos-de-18-no-es-facil/",
       "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Comunidades agrícolas acuden al Segundo Tribunal Ambiental contra la RCA del proyecto Kimal-Lo Aguirre",
-      "url": "https://www.pulso.cl/pulso/noticia/comunidades-agricolas-acuden-al-segundo-tribunal-ambiental-contra-la-rca-del-proyecto-kimal-lo-aguirre/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Amphos21: «El sector del litio avanza hacia una evaluación mucho más integral»",
-      "url": "https://www.mch.cl/amphos21-el-sector-del-litio-avanza-hacia-una-evaluacion-mucho-mas-integral/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental accede parcialmente a petición de generadora sobre operación de central en casos de emergencia",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-accede-parcialmente-a-peticion-de-generadora-sobre-operacion-de-central-en-casos-de-emergencia/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "R-666-2026, acumulada a R-659-2026",
-      "url": "https://tribunalambiental.cl/r-666-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "R-665-2026, acumulada a R-628",
-      "url": "https://tribunalambiental.cl/r-665-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente», Rol: R-45-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-inversiones-e-inmobiliaria-pilolcura-ltda-con-superintendencia-del-medio-ambiente-rol-r-45-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "24/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/24-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "20/10/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/20-10-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco LTDA con Superintendencia del Medio Ambiente», Rol: R-43-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-agricola-kurinanco-ltda-con-superintendencia-del-medio-ambiente-rol-r-43-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco Ltda con Superintendencia del Medio Ambiente», Rol: R-44-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-agricola-kurinanco-ltda-con-superintendencia-del-medio-ambiente-rol-r-44-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "03/11/2026: Fija audiencia en caso de «Alto Maullín SPA con Superintendencia del Medio Ambiente», Rol: R-34-2026",
-      "url": "https://3ta.cl/audiencias/03-11-2026-fija-audiencia-en-caso-de-alto-maullin-spa-con-superintendencia-del-medio-ambiente-rol-r-34-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental accedió parcialmente a la petición de Colbún S.A sobre operación de Central Canutillar en casos de emergencia",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-accedio-parcialmente-a-la-peticion-de-colbun-s-a-sobre-operacion-de-central-canutillar-en-casos-de-emergencia/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Gobierno refuerza la prevención de incendios forestales con campaña informativa en Fiestas Patrias",
-      "url": "https://www.conaf.cl/gobierno-refuerza-la-prevencion-de-incendios-forestales-con-campana-informativa-en-fiestas-patrias/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-refuerza-la-prevencion-de-incendios-forestales-con-campana-informativa-en-fiestas-patrias",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Puerto Montt: autoridades llaman a la prevención de incendios forestales en Fiestas Patrias",
-      "url": "https://www.conaf.cl/puerto-montt-autoridades-llaman-a-la-prevencion-de-incendios-forestales-en-fiestas-patrias/?utm_source=rss&utm_medium=rss&utm_campaign=puerto-montt-autoridades-llaman-a-la-prevencion-de-incendios-forestales-en-fiestas-patrias",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "DGA del MOP fortalece red de monitoreo hídrico con nuevas estaciones en la Región de Antofagasta",
-      "url": "https://dga.mop.gob.cl/dga-del-mop-fortalece-red-de-monitoreo-hidrico-con-nuevas-estaciones-en-la-region-de-antofagasta/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Tiki Tiki Tips para un 18 sustentable",
-      "url": "https://mma.gob.cl/tiki-tiki-tips-para-un-18-sustentable/",
-      "fecha": "2026-09-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

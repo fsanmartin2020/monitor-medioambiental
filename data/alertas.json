@@ -1,139 +1,30 @@
 {
-  "fecha_generacion": "2026-09-17T12:37:27.263587-03:00",
-  "total_alertas": 11,
+  "fecha_generacion": "2026-09-18T11:57:15.806009-03:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Radio Modelo] Disputa por edificios en humedal Paicaví pasa a la justicia tras rechazo de recurso de vecinos en el SEIA",
-      "url": "https://www.terram.cl/radio-modelo-disputa-por-edificios-en-humedal-paicavi-pasa-a-la-justicia-tras-rechazo-de-recurso-de-vecinos-en-el-seia/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los vecinos y agrupaciones ambientales presentaron en ese entonces un recurso de invalidación ante la Comisión de Evaluación Ambiental (COEVA) que aún está en proceso, y un recurso de reclamación ante el Servicio de Evaluación de Impacto Ambiental (S",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Comunidades agrícolas acuden al Segundo Tribunal Ambiental contra la RCA del proyecto Kimal-Lo Aguirre",
-      "url": "https://www.latercera.com/pulso/noticia/comunidades-agricolas-acuden-al-segundo-tribunal-ambiental-contra-la-rca-del-proyecto-kimal-lo-aguirre/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Dos nuevas reclamaciones judiciales apuntan a anular la resolución del Comité de Ministros que ratificó el estudio ambiental de la línea de transmisión de corriente continua, acusando respuestas estandarizadas, omisión de afectación predial y vicios ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Comunidades agrícolas acuden al Segundo Tribunal Ambiental contra la RCA del proyecto Kimal-Lo Aguirre",
-      "url": "https://www.pulso.cl/pulso/noticia/comunidades-agricolas-acuden-al-segundo-tribunal-ambiental-contra-la-rca-del-proyecto-kimal-lo-aguirre/",
-      "fecha": "2026-09-17",
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema confirma multa a Constructora Paz SpA y ratifica criterio de la SMA sobre procedimientos sancionatorios",
+      "url": "https://www.diarioconstitucional.cl/2026/09/18/corte-suprema-confirma-multa-a-constructora-paz-spa-y-ratifica-criterio-de-la-sma-sobre-procedimientos-sancionatorios/",
+      "fecha": "2026-09-18",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
+        "SMA",
+        "Corte Suprema"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Tribunal Ambiental accede parcialmente a petición de generadora sobre operación de central en casos de emergencia",
-      "url": "https://www.revistaei.cl/tribunal-ambiental-accede-parcialmente-a-peticion-de-generadora-sobre-operacion-de-central-en-casos-de-emergencia/",
+      "fuente": "La Tercera",
+      "titular": "Manuel Pellegrini y el gran arranque del Betis: “Le pido al equipo regularidad, que esto no sea un momento en la temporada”",
+      "url": "https://www.latercera.com/el-deportivo/noticia/el-orgullo-de-manuel-pellegrini-tras-el-gran-inicio-de-temporada-del-betis-tener-15-puntos-de-18-no-es-facil/",
       "fecha": "2026-09-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En el procedimiento de cumplimiento de la sentencia, la empresa solicitó la flexibilización temporal de las condiciones operativas. La entrada Tribunal Ambiental accede parcialmente a petición de generadora sobre operación de central en casos de emer",
+      "extracto": "El Ingeniero valoró el destacado comienzo del conjunto verdiblanco, que se instaló junto al Real Madrid como escolta del Barcelona en LaLiga.",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente», Rol: R-45-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-inversiones-e-inmobiliaria-pilolcura-ltda-con-superintendencia-del-medio-ambiente-rol-r-45-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 19/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 19/11/2026: Fija audiencia en caso de «Inversiones e Inmobiliaria Pilolcura LTDA con Superintendencia del Medio Ambiente», Rol: R-45-20",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "24/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/24-09-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Supendida audiencia de fecha 24/09/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 24/09/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026 appeared first on T",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "20/10/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/20-10-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 20/10/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 20/10/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026 appeared first on Ter",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco LTDA con Superintendencia del Medio Ambiente», Rol: R-43-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-agricola-kurinanco-ltda-con-superintendencia-del-medio-ambiente-rol-r-43-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 19/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco LTDA con Superintendencia del Medio Ambiente», Rol: R-43-2026 appeared first ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco Ltda con Superintendencia del Medio Ambiente», Rol: R-44-2026",
-      "url": "https://3ta.cl/audiencias/19-11-2026-fija-audiencia-en-caso-de-agricola-kurinanco-ltda-con-superintendencia-del-medio-ambiente-rol-r-44-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 19/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 19/11/2026: Fija audiencia en caso de «Agrícola Kuriñanco Ltda con Superintendencia del Medio Ambiente», Rol: R-44-2026 appeared first ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "03/11/2026: Fija audiencia en caso de «Alto Maullín SPA con Superintendencia del Medio Ambiente», Rol: R-34-2026",
-      "url": "https://3ta.cl/audiencias/03-11-2026-fija-audiencia-en-caso-de-alto-maullin-spa-con-superintendencia-del-medio-ambiente-rol-r-34-2026/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 03/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 03/11/2026: Fija audiencia en caso de «Alto Maullín SPA con Superintendencia del Medio Ambiente», Rol: R-34-2026 appeared first on Terc",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental accedió parcialmente a la petición de Colbún S.A sobre operación de Central Canutillar en casos de emergencia",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-accedio-parcialmente-a-la-peticion-de-colbun-s-a-sobre-operacion-de-central-canutillar-en-casos-de-emergencia/",
-      "fecha": "2026-09-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el procedimiento de cumplimiento de la sentencia dictada en contra de Colbún S.A, la empresa solicitó la flexibilización temporal de las condiciones operativas de la central, luego de que el Coordinador Eléctrico Nacional le requiriera hacer las g",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     }
   ]
