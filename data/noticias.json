@@ -1,93 +1,45 @@
 {
-  "fecha_actualizacion": "2026-09-18T11:57:15.793302-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-09-19T11:19:02.808407-03:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Las Tablas de Daimiel mantienen 523 hectáreas inundadas, el 30,16 % de su superficie",
-      "url": "https://efeverde.com/tablas-de-daimiel-hectareas-inundadas/",
-      "fecha": "2026-09-18",
+      "titular": "La revolución transparente. Trazabilidad, blockchain y plataformas digitales como motor del futuro agrícola. Por José Ángel Carrillo",
+      "url": "https://efeverde.com/la-revolucion-transparente-trazabilidad-blockchain-y-plataformas-digitales-como-motor-del-futuro-agricola-por-jose-angel-carrillo/",
+      "fecha": "2026-09-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Jelly Bean, una de las belugas rescatadas de Canadá, fallece de forma repentina en el Oceanogràfic de Valencia",
-      "url": "https://efeverde.com/jelly-bean-belugas-rescatadas-de-canada-fallece-de-forma-repentina/",
-      "fecha": "2026-09-18",
+      "titular": "Estimular nuebes para que llueva, la estrategia de Honduras para paliar la sequía provocada por El Niño",
+      "url": "https://efeverde.com/estimular-nuebes-para-que-llueva-la-estrategia-de-honduras-para-paliar-la-sequia-provocada-por-el-nino/",
+      "fecha": "2026-09-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Red troncal de hidrógeno verde: arranca la tramitación y el debate ambiental",
-      "url": "https://efeverde.com/red-troncal-de-hidrogeno-verde-arranca-la-tramitacion-y-el-debate-ambiental/",
-      "fecha": "2026-09-18",
+      "titular": "La amenaza de un proyecto minero en una zona entre El Salvador y Guatemala sigue latente",
+      "url": "https://efeverde.com/la-amenaza-de-un-proyecto-minero-en-una-zona-entre-el-salvador-y-guatemala-sigue-latente/",
+      "fecha": "2026-09-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La estrategia más eficaz para la biodiversidad en la Amazonía: proteger el  bosque existente",
-      "url": "https://efeverde.com/la-estrategia-mas-eficaz-para-la-biodiversidad-en-la-amazonia-proteger-el-bosque-existente/",
-      "fecha": "2026-09-18",
+      "titular": "La NASA analiza la crisis climática con innovador centro de datos de la Tierra en Puerto Rico",
+      "url": "https://efeverde.com/la-nasa-analiza-la-crisis-climatica-con-innovador-centro-de-datos-de-la-tierra-en-puerto-rico/",
+      "fecha": "2026-09-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El cambio climático pone a prueba al lúpulo: «Si no hay agua, hay un problema»",
-      "url": "https://efeverde.com/el-cambio-climatico-pone-a-prueba-al-lupulo-si-no-hay-agua-hay-un-problema/",
-      "fecha": "2026-09-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema confirma multa a Constructora Paz SpA y ratifica criterio de la SMA sobre procedimientos sancionatorios",
-      "url": "https://www.diarioconstitucional.cl/2026/09/18/corte-suprema-confirma-multa-a-constructora-paz-spa-y-ratifica-criterio-de-la-sma-sobre-procedimientos-sancionatorios/",
-      "fecha": "2026-09-18",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descubren en Bolivia una nueva especie de felino, la primera en más de un siglo",
-      "url": "https://efeverde.com/descubren-en-bolivia-nueva-especie-de-felino/",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Por videos en redes sociales en el Parque Nacional Torres del Paine, CONAF llama a no promover malas prácticas",
-      "url": "https://www.conaf.cl/por-videos-en-redes-sociales-en-el-parque-nacional-torres-del-paine-conaf-llama-a-no-promover-malas-practicas/?utm_source=rss&utm_medium=rss&utm_campaign=por-videos-en-redes-sociales-en-el-parque-nacional-torres-del-paine-conaf-llama-a-no-promover-malas-practicas",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF ÑUBLE instala sus primeras brigadas forestales de la temporada e intensifica operativos preventivos",
-      "url": "https://www.conaf.cl/conaf-nuble-instala-sus-primeras-brigadas-forestales-de-la-temporada-e-intensifica-operativos-preventivos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-instala-sus-primeras-brigadas-forestales-de-la-temporada-e-intensifica-operativos-preventivos",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF realizó operativo carretero de prevención y fiscalización por celebración de Fiestas Patrias en Agua Fresca",
-      "url": "https://www.conaf.cl/conaf-realizo-operativo-carretero-de-prevencion-y-fiscalizacion-por-celebracion-de-fiestas-patrias-en-agua-fresca/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realizo-operativo-carretero-de-prevencion-y-fiscalizacion-por-celebracion-de-fiestas-patrias-en-agua-fresca",
-      "fecha": "2026-09-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Manuel Pellegrini y el gran arranque del Betis: “Le pido al equipo regularidad, que esto no sea un momento en la temporada”",
-      "url": "https://www.latercera.com/el-deportivo/noticia/el-orgullo-de-manuel-pellegrini-tras-el-gran-inicio-de-temporada-del-betis-tener-15-puntos-de-18-no-es-facil/",
-      "fecha": "2026-09-17",
+      "titular": "¿Cuánta gente soporta una playa?",
+      "url": "https://efeverde.com/cuanta-gente-soporta-una-playa/",
+      "fecha": "2026-09-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

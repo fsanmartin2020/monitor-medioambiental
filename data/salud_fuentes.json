@@ -1,8 +1,8 @@
 {
-  "fecha_generacion": "2026-09-18T11:57:15.804622-03:00",
+  "fecha_generacion": "2026-09-19T11:19:02.819726-03:00",
   "total_fuentes": 69,
-  "fuentes_ok": 27,
-  "fuentes_vacias": 42,
+  "fuentes_ok": 23,
+  "fuentes_vacias": 46,
   "fuentes_error": 0,
   "registros": [
     {
@@ -11,7 +11,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 17,
-      "duracion_ms": 10024,
+      "duracion_ms": 4593,
       "error": null
     },
     {
@@ -20,7 +20,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 17,
-      "duracion_ms": 14875,
+      "duracion_ms": 9118,
       "error": null
     },
     {
@@ -28,8 +28,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 95,
-      "duracion_ms": 1482,
+      "n_articulos": 96,
+      "duracion_ms": 1443,
       "error": null
     },
     {
@@ -37,8 +37,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 613,
+      "n_articulos": 2,
+      "duracion_ms": 918,
       "error": null
     },
     {
@@ -46,8 +46,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 13,
-      "duracion_ms": 3721,
+      "n_articulos": 12,
+      "duracion_ms": 4044,
       "error": null
     },
     {
@@ -56,7 +56,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 20,
-      "duracion_ms": 4371,
+      "duracion_ms": 8107,
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 20,
-      "duracion_ms": 3479,
+      "n_articulos": 22,
+      "duracion_ms": 3231,
       "error": null
     },
     {
@@ -73,8 +73,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 4036,
+      "n_articulos": 12,
+      "duracion_ms": 3809,
       "error": null
     },
     {
@@ -83,7 +83,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 1701,
+      "duracion_ms": 3850,
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 30,
-      "duracion_ms": 4403,
+      "duracion_ms": 4233,
       "error": null
     },
     {
@@ -100,8 +100,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "article-tags",
       "estado": "ok",
-      "n_articulos": 10,
-      "duracion_ms": 1890,
+      "n_articulos": 12,
+      "duracion_ms": 1421,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 11,
-      "duracion_ms": 2312,
+      "duracion_ms": 2604,
       "error": null
     },
     {
@@ -119,16 +119,16 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 4764,
+      "duracion_ms": 4704,
       "error": null
     },
     {
       "fuente": "CIPER Chile",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 2,
-      "duracion_ms": 5396,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 5216,
       "error": null
     },
     {
@@ -137,7 +137,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 29,
-      "duracion_ms": 699,
+      "duracion_ms": 546,
       "error": null
     },
     {
@@ -146,7 +146,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 387,
+      "duracion_ms": 232,
       "error": null
     },
     {
@@ -155,16 +155,16 @@
       "metodo_usado": "rss",
       "estado": "ok",
       "n_articulos": 10,
-      "duracion_ms": 3415,
+      "duracion_ms": 4277,
       "error": null
     },
     {
       "fuente": "Minería Chilena (MCH)",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 2560,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 2378,
       "error": null
     },
     {
@@ -173,16 +173,16 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2094,
+      "duracion_ms": 424,
       "error": null
     },
     {
       "fuente": "Revista Electricidad e Industria",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 2445,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 2519,
       "error": null
     },
     {
@@ -191,7 +191,7 @@
       "metodo_usado": "article-tags",
       "estado": "ok",
       "n_articulos": 12,
-      "duracion_ms": 1247,
+      "duracion_ms": 3747,
       "error": null
     },
     {
@@ -200,7 +200,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2729,
+      "duracion_ms": 1255,
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 2,
-      "duracion_ms": 932,
+      "duracion_ms": 558,
       "error": null
     },
     {
@@ -218,7 +218,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1761,
+      "duracion_ms": 1449,
       "error": null
     },
     {
@@ -226,8 +226,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 40,
-      "duracion_ms": 2030,
+      "n_articulos": 6,
+      "duracion_ms": 1170,
       "error": null
     },
     {
@@ -236,7 +236,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2147,
+      "duracion_ms": 2095,
       "error": null
     },
     {
@@ -245,7 +245,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1071,
+      "duracion_ms": 615,
       "error": null
     },
     {
@@ -254,7 +254,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4596,
+      "duracion_ms": 5217,
       "error": null
     },
     {
@@ -263,7 +263,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 706,
+      "duracion_ms": 241,
       "error": null
     },
     {
@@ -272,7 +272,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4592,
+      "duracion_ms": 7309,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 3999,
+      "duracion_ms": 3724,
       "error": null
     },
     {
@@ -289,8 +289,8 @@
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
       "estado": "ok",
-      "n_articulos": 6,
-      "duracion_ms": 668,
+      "n_articulos": 5,
+      "duracion_ms": 516,
       "error": null
     },
     {
@@ -299,7 +299,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1517,
+      "duracion_ms": 1203,
       "error": null
     },
     {
@@ -308,7 +308,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4485,
+      "duracion_ms": 3918,
       "error": null
     },
     {
@@ -317,7 +317,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 763,
+      "duracion_ms": 356,
       "error": null
     },
     {
@@ -326,7 +326,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2227,
+      "duracion_ms": 3517,
       "error": null
     },
     {
@@ -335,7 +335,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 679,
+      "duracion_ms": 509,
       "error": null
     },
     {
@@ -344,7 +344,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 757,
+      "duracion_ms": 2398,
       "error": null
     },
     {
@@ -353,7 +353,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 16,
-      "duracion_ms": 5391,
+      "duracion_ms": 2176,
       "error": null
     },
     {
@@ -362,7 +362,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 3018,
+      "duracion_ms": 2127,
       "error": null
     },
     {
@@ -371,7 +371,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 9579,
+      "duracion_ms": 10019,
       "error": null
     },
     {
@@ -380,7 +380,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 5364,
+      "duracion_ms": 5518,
       "error": null
     },
     {
@@ -389,7 +389,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1453,
+      "duracion_ms": 462,
       "error": null
     },
     {
@@ -398,7 +398,7 @@
       "metodo_usado": "sitemap",
       "estado": "ok",
       "n_articulos": 2,
-      "duracion_ms": 7065,
+      "duracion_ms": 6817,
       "error": null
     },
     {
@@ -407,7 +407,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20706,
+      "duracion_ms": 20445,
       "error": null
     },
     {
@@ -416,7 +416,7 @@
       "metodo_usado": "links-genericos",
       "estado": "ok",
       "n_articulos": 1,
-      "duracion_ms": 3955,
+      "duracion_ms": 2143,
       "error": null
     },
     {
@@ -425,25 +425,25 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1397,
+      "duracion_ms": 614,
       "error": null
     },
     {
       "fuente": "Bienes Nacionales",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "vacio",
-      "n_articulos": 0,
-      "duracion_ms": 1209,
+      "estado": "ok",
+      "n_articulos": 1,
+      "duracion_ms": 1110,
       "error": null
     },
     {
       "fuente": "MINSAL",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 1,
-      "duracion_ms": 2302,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 1929,
       "error": null
     },
     {
@@ -452,7 +452,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4338,
+      "duracion_ms": 3802,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 20557,
+      "duracion_ms": 20236,
       "error": null
     },
     {
@@ -470,7 +470,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 511,
+      "duracion_ms": 387,
       "error": null
     },
     {
@@ -479,7 +479,7 @@
       "metodo_usado": "sitemap",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4176,
+      "duracion_ms": 4038,
       "error": null
     },
     {
@@ -488,7 +488,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 244,
+      "duracion_ms": 174,
       "error": null
     },
     {
@@ -497,16 +497,16 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1019,
+      "duracion_ms": 533,
       "error": null
     },
     {
       "fuente": "CONAF",
       "metodo_configurado": "rss",
       "metodo_usado": "rss",
-      "estado": "ok",
-      "n_articulos": 3,
-      "duracion_ms": 2596,
+      "estado": "vacio",
+      "n_articulos": 0,
+      "duracion_ms": 2215,
       "error": null
     },
     {
@@ -515,7 +515,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 346,
+      "duracion_ms": 697,
       "error": null
     },
     {
@@ -524,7 +524,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4561,
+      "duracion_ms": 4577,
       "error": null
     },
     {
@@ -533,7 +533,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 6651,
+      "duracion_ms": 5710,
       "error": null
     },
     {
@@ -542,7 +542,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1051,
+      "duracion_ms": 986,
       "error": null
     },
     {
@@ -551,7 +551,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2893,
+      "duracion_ms": 3572,
       "error": null
     },
     {
@@ -560,7 +560,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 420,
+      "duracion_ms": 356,
       "error": null
     },
     {
@@ -569,7 +569,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1291,
+      "duracion_ms": 1234,
       "error": null
     },
     {
@@ -578,7 +578,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2184,
+      "duracion_ms": 2543,
       "error": null
     },
     {
@@ -587,7 +587,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 1542,
+      "duracion_ms": 1284,
       "error": null
     },
     {
@@ -596,7 +596,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 2991,
+      "duracion_ms": 2770,
       "error": null
     },
     {
@@ -605,7 +605,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 6592,
+      "duracion_ms": 4169,
       "error": null
     },
     {
@@ -614,7 +614,7 @@
       "metodo_usado": "scraping",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 4793,
+      "duracion_ms": 3950,
       "error": null
     },
     {
@@ -623,7 +623,7 @@
       "metodo_usado": "rss",
       "estado": "vacio",
       "n_articulos": 0,
-      "duracion_ms": 8388,
+      "duracion_ms": 7432,
       "error": null
     }
   ]
