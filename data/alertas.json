@@ -1,5 +1,66 @@
 {
-  "fecha_generacion": "2026-09-20T11:38:56.650746-03:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-09-21T14:12:18.028245-03:00",
+  "total_alertas": 5,
+  "alertas": [
+    {
+      "fuente": "País Circular",
+      "titular": "ReSimple y Cadem presentarán nueva radiografía del reciclaje a tres años de la puesta en marcha de la Ley REP",
+      "url": "https://www.paiscircular.cl/sin-categoria/resimple-y-cadem-presentaran-nueva-radiografia-del-reciclaje-a-tres-anos-de-la-puesta-en-marcha-de-la-ley-rep/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La tercera edición del Barómetro Nacional del Reciclaje, que se realizará este 22 de septiembre, analizará la evolución de los hábitos y percepciones de los chilenos y aportará nueva evidencia para evaluar los avances y desafíos de la política públic",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-11-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» CES Córdova 5",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-11-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-cordova-5/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-11-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Córdova 5), el martes 22 de septiembre de 2026, ",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Tercer Tribunal Ambiental autoriza parcialmente a Colbún a operar Central Canutillar bajo la cota mínima en casos de emergencia",
+      "url": "https://www.diarioconstitucional.cl/2026/09/21/tercer-tribunal-ambiental-autoriza-parcialmente-a-colbun-a-operar-central-canutillar-bajo-la-cota-minima-en-casos-de-emergencia/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte de Santiago anula multa a Cruzados al descartar que calzado de futbolistas sea elemento de protección",
+      "url": "https://www.diarioconstitucional.cl/2026/09/21/corte-de-santiago-anula-multa-a-cruzados-al-descartar-que-calzado-de-futbolistas-sea-elemento-de-proteccion/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Sea Lion certifica 232 millones de barriles probados y alcanza el 12,7% de las reservas de Vaca Muerta",
+      "url": "https://www.redimin.cl/sea-lion-certifica-232-millones-de-barriles-probados-y-alcanza-el-12-7-de-las-reservas-de-vaca-muerta",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El proyecto Sea Lion, desarrollado por Navitas y Rockhopper, certifica 231,7 millones de barriles de reservas probadas, representando el 12,7% de Vaca Muerta, aunque aún enfrenta desafíos legales.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }

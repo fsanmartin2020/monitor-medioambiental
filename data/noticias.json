@@ -1,45 +1,221 @@
 {
-  "fecha_actualizacion": "2026-09-20T11:38:56.637897-03:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-09-21T14:12:18.016532-03:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Diez leones mueren por supuesto envenenamiento en una popular reserva natural de Tanzania",
-      "url": "https://efeverde.com/diez-leones-mueren-por-supuesto-envenenamiento-en-una-popular-reserva-natural-de-tanzania/",
-      "fecha": "2026-09-20",
+      "fuente": "País Circular",
+      "titular": "ReSimple y Cadem presentarán nueva radiografía del reciclaje a tres años de la puesta en marcha de la Ley REP",
+      "url": "https://www.paiscircular.cl/sin-categoria/resimple-y-cadem-presentaran-nueva-radiografia-del-reciclaje-a-tres-anos-de-la-puesta-en-marcha-de-la-ley-rep/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Falta de trazabilidad en la ejecución de contratos públicos deja en una zona gris el fomento al reciclaje desde los organismos del Estado",
+      "url": "https://www.paiscircular.cl/economia-circular/falta-de-trazabilidad-en-la-ejecucion-de-contratos-publicos-deja-en-una-zona-gris-el-fomento-al-reciclaje-desde-los-organismos-del-estado/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "SERNATUR presenta el Desierto Florido 2026 e invita a descubrir Atacama de manera responsable",
+      "url": "https://www.chiledesarrollosustentable.cl/sernatur-presenta-el-desierto-florido-2026-e-invita-a-descubrir-atacama-de-manera-responsable/?utm_source=rss&utm_medium=rss&utm_campaign=sernatur-presenta-el-desierto-florido-2026-e-invita-a-descubrir-atacama-de-manera-responsable",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Robot chileno limpia paneles solares sin agua y mejora su eficiencia en zonas desérticas",
+      "url": "https://codexverde.cl/robot-chileno-limpia-paneles-solares-sin-agua-y-mejora-su-eficiencia-en-zonas-deserticas/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Investigación identifica zonas críticas y áreas de alto valor ecológico en el Golfo de Arauco",
+      "url": "https://codexverde.cl/investigacion-identifica-zonas-criticas-y-areas-de-alto-valor-ecologico-en-el-golfo-de-arauco/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Floraciones nocivas en el lago Vichuquén: un problema más allá de lo estético",
+      "url": "https://www.cr2.cl/floraciones-nocivas-en-el-lago-vichuquen-un-problema-mas-alla-de-lo-estetico/",
+      "fecha": "2026-09-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Miles de ciudadanos rechazan en las calles de Barcelona la ampliación del aeropuerto de El Prat",
-      "url": "https://efeverde.com/miles-de-ciudadanos-rechazan-en-las-calles-de-barcelona-la-ampliacion-del-aeropuerto-de-el-prat/",
-      "fecha": "2026-09-20",
+      "titular": "Simon Stiell (ONU) exige a las grandes empresas tecnológicas mayor compromiso climático porque la IA consume mucha energía",
+      "url": "https://efeverde.com/simon-stiell-onu-grandes-empresas-tecnologicas-mayor-compromiso-climatico/",
+      "fecha": "2026-09-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cómo las erupciones transformaron el paisaje de La Palma",
-      "url": "https://efeverde.com/como-las-erupciones-transformaron-el-paisaje-de-la-palma/",
-      "fecha": "2026-09-20",
+      "titular": "Más de 1,9 millones de personas bajo orden de evacuación en Japón por el tifón Dujuan",
+      "url": "https://efeverde.com/orden-de-evacuacion-en-japon-por-tifon-dujuan/",
+      "fecha": "2026-09-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Tras las huellas del plomo: una investigación reabre el debate sobre residuos suecos en Chile",
-      "url": "https://efeverde.com/tras-las-huellas-del-plomo-una-investigacion-reabre-el-debate-sobre-residuos-suecos-en-chile/",
-      "fecha": "2026-09-20",
+      "titular": "La Aemet prevé un otoño más cálido de lo normal tras un verano de récords",
+      "url": "https://efeverde.com/aemet-preve-un-otono-mas-calido-de-lo-normal-tras-un-verano-de-records/",
+      "fecha": "2026-09-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mejor vigilancia y observación: el legado científico de la erupción del volcán Tajogaite de La Palma",
-      "url": "https://efeverde.com/mejor-vigilancia-y-observacion-el-legado-cientifico-de-la-erupcion-del-volcan-tajogaite-de-la-palma/",
-      "fecha": "2026-09-19",
+      "titular": "Los nacidos en España en 2025 vivirán el doble de condiciones extremas de incendios forestales que sus abuelos",
+      "url": "https://efeverde.com/nacidos-en-espana-en-2025-viviran-doble-de-condiciones-extremas-de-incendios-forestales-que-sus-abuelos/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Transporte por carretera: ANFAC alerta de que España tardará cincuenta años en cumplir los objetivos de 2030",
+      "url": "https://efeverde.com/transporte-por-carretera-anfac-alerta-de-que-espana-tardara-cincuenta-anos-en-cumnplir-los-objetivos-de-2030/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las empresas aceleran en adaptación climática ante el creciente impacto del calentamiento global en su negocio",
+      "url": "https://efeverde.com/las-empresas-aceleran-en-adaptacion-climatica-ante-el-creciente-impacto-del-calentamiento-global-en-su-negocio/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Niño dispara los termómetros en el Caribe colombiano y amenaza a la población y el agua",
+      "url": "https://efeverde.com/el-nino-dispara-los-termometros-en-el-caribe-colombiano-y-amenaza-a-la-poblacion-y-el-agua/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Salares, Juan Fernández y Pingüino de Humboldt: La naturaleza en espera por retiro de decretos ambientales",
+      "url": "https://www.terram.cl/el-desconcierto-salares-juan-fernandez-y-pinguino-de-humboldt-la-naturaleza-en-espera-por-retiro-de-decretos-ambientales/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Infobae] El agujero de la capa de ozono en la Antártida registró su menor tamaño en dos décadas: el rol de los vientos y la temperatura",
+      "url": "https://www.terram.cl/el-agujero-de-la-capa-de-ozono-en-la-antartida-registro-su-menor-tamano-en-dos-decadas-el-rol-de-los-vientos-y-la-temperatura/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Bio Bio Chile] Etanol en la bencina: El debate que toca precios, vehículos y medio ambiente",
+      "url": "https://www.terram.cl/bio-bio-chile-etanol-en-la-bencina-el-debate-que-toca-precios-vehiculos-y-medio-ambiente/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa] Lanzan Circuito Costero Freirina – La Higuera: La ruta birregional que une biodiversidad y patrimonio",
+      "url": "https://www.terram.cl/cooperativa-lanzan-circuito-costero-freirina-la-higuera-la-ruta-birregional-que-une-biodiversidad-y-patrimonio/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El País] Los cultivos ilegales de coca avanzan sobre el Tipnis, el cuarto parque nacional más grande de Bolivia",
+      "url": "https://www.terram.cl/el-pais-los-cultivos-ilegales-de-coca-avanzan-sobre-el-tipnis-el-cuarto-parque-nacional-mas-grande-de-bolivia/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Tercera] Fiestas Patrias disparan la generación de residuos y activan nuevas estrategias en su gestión",
+      "url": "https://www.terram.cl/la-tercera-fiestas-patrias-disparan-la-generacion-de-residuos-y-activan-nuevas-estrategias-en-su-gestion/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-11-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» CES Córdova 5",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-11-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-cordova-5/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "En memoria de Evelyn Risco Huenchupán (Q.E.P.D)",
+      "url": "https://3ta.cl/sin-categoria/evelyn-risco-huenchupan-q-e-p-d/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Senadora Vodanovic apunta a Kast y a Cancillería tras decisión de Bachelet de bajar su candidatura a la ONU",
+      "url": "https://www.latercera.com/politica/noticia/senadora-vodanovic-apunta-a-kast-y-a-cancilleria-tras-decision-de-bachelet-de-bajar-su-candidatura-a-la-onu/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Catastro: 15 proyectos de desalación finalizarán su construcción durante el gobierno de Kast, y se iniciarán otros 12",
+      "url": "https://www.latercera.com/pulso/noticia/catastro-15-proyectos-de-desalacion-finalizaran-su-construccion-durante-el-gobierno-de-kast-y-se-iniciaran-otros-12/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "Verónica Poblete y la brecha en el emprendimiento: \"A ellos les preguntan cuánto pueden crecer y a ellas cómo evitarán el fracaso\"",
+      "url": "https://www.eldinamo.cl/mujeres-d/entrevistas-m/2026/09/17/veronica-poblete-y-la-brecha-en-el-emprendimiento-a-ellos-les-preguntan-cuanto-pueden-crecer-y-a-ellas-como-evitaran-el-fracaso/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Tercer Tribunal Ambiental autoriza parcialmente a Colbún a operar Central Canutillar bajo la cota mínima en casos de emergencia",
+      "url": "https://www.diarioconstitucional.cl/2026/09/21/tercer-tribunal-ambiental-autoriza-parcialmente-a-colbun-a-operar-central-canutillar-bajo-la-cota-minima-en-casos-de-emergencia/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte de Santiago anula multa a Cruzados al descartar que calzado de futbolistas sea elemento de protección",
+      "url": "https://www.diarioconstitucional.cl/2026/09/21/corte-de-santiago-anula-multa-a-cruzados-al-descartar-que-calzado-de-futbolistas-sea-elemento-de-proteccion/",
+      "fecha": "2026-09-21",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Sea Lion certifica 232 millones de barriles probados y alcanza el 12,7% de las reservas de Vaca Muerta",
+      "url": "https://www.redimin.cl/sea-lion-certifica-232-millones-de-barriles-probados-y-alcanza-el-12-7-de-las-reservas-de-vaca-muerta",
+      "fecha": "2026-09-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
