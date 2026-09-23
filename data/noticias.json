@@ -1,237 +1,285 @@
 {
-  "fecha_actualizacion": "2026-09-22T12:36:14.397567-03:00",
-  "total": 29,
+  "fecha_actualizacion": "2026-09-23T12:33:20.362805-03:00",
+  "total": 35,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Inclusión de las baterías de iones de litio en las metas de la Ley REP genera opiniones divididas en la industria",
-      "url": "https://www.paiscircular.cl/transicion-energetica/inclusion-de-las-baterias-de-iones-de-litio-en-las-metas-de-la-ley-rep-genera-opiniones-divididas-en-la-industria/",
-      "fecha": "2026-09-22",
+      "titular": "“Travesía Circular” cerró su recorrido destacando a quienes están transformando la economía circular en Los Lagos",
+      "url": "https://www.paiscircular.cl/economia-circular/travesia-circular-cerro-su-recorrido-destacando-a-emprendedores-en-los-lagos/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Radiografía de Bike Itaú: santiaguinos pedalean en promedio 25 minutos y Providencia concentra los viajes",
-      "url": "https://codexverde.cl/radiografia-de-bike-itau-santiaguinos-pedalean-en-promedio-25-minutos-y-providencia-concentra-los-viajes/",
-      "fecha": "2026-09-22",
+      "titular": "Tailings 2026 congregará a más de 700 expertos y líderes internacionales en gestión de relaves",
+      "url": "https://codexverde.cl/tailings-2026-congregara-a-mas-de-700-expertos-y-lideres-internacionales-en-gestion-de-relaves/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "SMA multa a dos empresas de Los Lagos por incumplimientos en descarga de residuos líquidos",
-      "url": "https://codexverde.cl/sma-multa-a-dos-empresas-de-los-lagos-por-incumplimientos-en-descarga-de-residuos-liquidos/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Muestra inmersiva permite “explorar” la visión de las abejas en flores nativas",
-      "url": "https://codexverde.cl/muestra-inmersiva-permite-explorar-la-vision-de-las-abejas-en-flores-nativas/",
-      "fecha": "2026-09-22",
+      "titular": "Corte Suprema resuelve que información productiva de industria salmonera es pública y debe ser entregada",
+      "url": "https://codexverde.cl/corte-suprema-resuelve-que-informacion-productiva-de-industria-salmonera-es-publica-y-debe-ser-entregada/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las emisiones de la última década han intensificado significativamente las olas de calor en Europa",
-      "url": "https://efeverde.com/emisiones-ultima-decada-han-intensificado-olas-de-calor-europa/",
-      "fecha": "2026-09-22",
+      "titular": "La mortalidad en los países con sistemas de alerta temprana por desastres es 6 veces menor, según un informe de la ONU",
+      "url": "https://efeverde.com/mortalidad-en-paises-con-sistemas-de-alerta-temprana-por-desastres/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Evitar las estelas de los aviones retrasaría 10 años su impacto en el calentamiento global",
-      "url": "https://efeverde.com/evitar-estelas-aviones-impacto-en-calentamiento-global/",
-      "fecha": "2026-09-22",
+      "titular": "Objetivo 2030. Por May",
+      "url": "https://efeverde.com/objetivo-2030-may-mundomay-humor-grafico-ecovinetas/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La diversidad de las macroalgas en Canarias varía entre islas y a lo largo del tiempo",
-      "url": "https://efeverde.com/diversidad-de-macroalgas-en-canarias/",
-      "fecha": "2026-09-22",
+      "titular": "De Mónaco a Murcia pasando por Liébana en Mangas Verdes 498",
+      "url": "https://efeverde.com/monaco-fundacion-murcia-irec-liebana-ecoturismo-mangas-verdes-498/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Optimismo también es contar las buenas noticias. Por Arturo Larena",
-      "url": "https://efeverde.com/optimismo-tambien-es-contar-las-buenas-noticias-por-arturo-larena/",
-      "fecha": "2026-09-22",
+      "titular": "El seguimiento del águila imperial mediante GPS permite detectar en Andalucía focos de virus del Nilo",
+      "url": "https://efeverde.com/seguimiento-aguila-imperial-gps-virus-del-nilo-andalucia/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Desarrollan un método para descomponer nitratos para su reciclado o reutilización y evitar su impacto en el medio ambiente",
-      "url": "https://efeverde.com/desarrollan-un-metodo-para-descomponer-nitratos-para-su-reciclado-o-reutilizacion-y-evitar-su-impacto-en-el-medio-ambiente/",
-      "fecha": "2026-09-22",
+      "titular": "Nuevas reglas contra el “greenwashing”: el domingo entra en vigor la directiva europea EmpCo",
+      "url": "https://efeverde.com/nuevas-reglas-contra-el-greenwashing-el-domingo-entra-en-vigor-la-directiva-europea-empco/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Día Mundial sin Coche. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-mundial-sin-coche-por-victor-solis-visoor/",
-      "fecha": "2026-09-22",
+      "titular": "Intercids pide a Gobierno y grupos parlamentario que apoyen su propuesta para prohibir las granjas de pulpos en España",
+      "url": "https://efeverde.com/intercids-pide-a-gobierno-y-grupos-parlamentario-que-apoyen-su-propuesta-para-prohibir-las-granjas-de-pulpos-en-espana/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bruselas lanza una plataforma para acelerar la resiliencia hídrica por la sequía en Europa",
-      "url": "https://efeverde.com/bruselas-lanza-una-plataforma-para-acelerar-la-resiliencia-hidrica-por-la-sequia-en-europa/",
-      "fecha": "2026-09-22",
+      "titular": "Comemos gas natural. Por Marcos Rupérez",
+      "url": "https://efeverde.com/comemos-gas-natural-por-marcos-ruperez/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Comité Científico dictamina a favor de catalogar el salmón como especie en peligro de extinción",
+      "url": "https://efeverde.com/el-comite-cientifico-dictamina-a-favor-de-catalogar-el-salmon-como-especie-el-peligro-de-extincion/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España se suma a la coalición para reforzar la gobernanza multinivel en acción climática",
+      "url": "https://efeverde.com/espana-se-suma-a-la-coalicion-para-reforzar-la-gobernanza-multinivel-en-accion-climatica/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Banco Talbot, donde el Mediterráneo todavía parece casi intacto",
+      "url": "https://efeverde.com/el-banco-talbot-donde-el-mediterraneo-todavia-parece-casi-intacto/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Tras disputa legal de dos años, Suprema ordena a salmoneras a entregar datos para fiscalización ambiental",
-      "url": "https://www.terram.cl/el-desconcierto-tras-disputa-legal-de-dos-anos-suprema-ordena-a-salmoneras-a-entregar-datos-para-fiscalizacion-ambiental/",
-      "fecha": "2026-09-22",
+      "titular": "[Diario Financiero] Corte Suprema ratifica carácter público de datos de cosecha salmonera tras litigio de la industria con Fundación Terram",
+      "url": "https://www.terram.cl/diario-financiero-corte-suprema-ratifica-caracter-publico-de-datos-de-cosecha-salmonera-tras-litigio-de-la-industria-con-fundacion-terram/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario Financiero] Nuevo timonel de la SMA busca reducir plazos a la mitad centrarse en “casos grandes” de relevancia ambiental",
-      "url": "https://www.terram.cl/diario-financiero-nuevo-timonel-de-la-sma-busca-reducir-plazos-a-la-mitad-centrarse-en-casos-grandes-de-relevancia-ambiental/",
-      "fecha": "2026-09-22",
+      "titular": "[El Mostrador] Señales de alerta: el océano entra en zona desconocida",
+      "url": "https://www.terram.cl/el-mostrador-senales-de-alerta-el-oceano-entra-en-zona-desconocida/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[País Lobo] Virus ISA en Aysén: Sernapesca fiscaliza centro de cultivo de Salmones Camanchaca",
-      "url": "https://www.terram.cl/pais-lobo-virus-isa-en-aysen-sernapesca-fiscaliza-centro-de-cultivo-de-salmones-camanchaca/",
-      "fecha": "2026-09-22",
+      "titular": "[Ladera Sur] Nueve pingüinos de Humboldt mueren en el Zoológico Nacional de Chile, seis de ellos en solo ocho días",
+      "url": "https://www.terram.cl/ladera-sur-nueve-pinguinos-de-humboldt-mueren-en-el-zoologico-nacional-de-chile-seis-de-ellos-en-solo-ocho-dias/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Reporte Minero] Tribunal Ambiental analiza anulación de declaratoria de interés nacional de Central Rucalhue en Biobío",
-      "url": "https://www.terram.cl/reporte-minero-tribunal-ambiental-analiza-anulacion-de-declaratoria-de-interes-nacional-de-central-rucalhue-en-biobio/",
-      "fecha": "2026-09-22",
+      "titular": "[Revista Electricidad] Tribunales Ambientales: Comisión de Constitución del Senado conoce propuestas de nominados",
+      "url": "https://www.terram.cl/revista-electricidad-tribunales-ambientales-comision-de-constitucion-del-senado-conoce-propuestas-de-nominados/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Pincoyazo] Cerros de Renca en amenaza: Grupo Saesa pretende construir 28 torres de alta tensión para alimentar centros de datos",
-      "url": "https://www.terram.cl/el-pincoyazo-cerros-de-renca-en-amenaza-grupo-saesa-pretende-construir-28-torres-de-alta-tension-para-alimentar-centros-de-datos/",
-      "fecha": "2026-09-22",
+      "titular": "[Portal Innova] Chile y las nuevas reglas para la basura electrónica: celulares y computadores entran en una nueva etapa de la Ley REP",
+      "url": "https://www.terram.cl/portal-innova-chile-y-las-nuevas-reglas-para-la-basura-electronica-celulares-y-computadores-entran-en-una-nueva-etapa-de-la-ley-rep/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Estudian el estado ambiental del Golfo de Arauco y el potencial de sus especies marinas",
-      "url": "https://www.terram.cl/cooperativa-ciencia-estudian-el-estado-ambiental-del-golfo-de-arauco-y-el-potencial-de-sus-especies-marinas/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-12-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Matilde 1)",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-12-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-matilde-1/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion interno externo para proveer el cargo de tecnico de apoyo administrativo al departamento de las personas regional escalafon tecnico a contrata asimilado a grado 18 e u s",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-tecnico-de-apoyo-administrativo-al-departamento-de-las-personas-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-18-e-u-s/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Playa Brava se suma al Día Internacional de Limpieza de Playas con jornada abierta a la comunidad",
-      "url": "https://mma.gob.cl/playa-brava-se-suma-al-dia-internacional-de-limpieza-de-playas-con-jornada-abierta-a-la-comunidad/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Insulza se distancia de interpelación al canciller Pérez Mackenna impulsada por el PS: “Ojalá sea con la mayor altura de miras”",
-      "url": "https://www.latercera.com/politica/noticia/insulza-se-distancia-de-interpelacion-al-canciller-perez-mackenna-impulsada-por-el-ps-ojala-sea-con-la-mayor-altura-de-miras/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "La propuesta inicial del Ejecutivo excluía a los sindicatos del acuerdo para flexibilizar la aplicación de las 40 horas en 16 semanas. Ahora, dado el debate legislativo, el subsecretario del Trabajo, Gustavo Rosende, dijo que se permitirá que sea con acuerdo de las organizaciones.",
-      "url": "https://www.pulso.cl/pulso/noticia/gobierno-ingresara-cambios-a-proyecto-de-adaptabilidad-a-las-40-horas-y-espera-que-reglamento-de-ley-karin-este-antes-de-fin-de-ano/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Educación y colaboración: los desafíos detrás de la transición hacia una economía circular",
-      "url": "https://www.paiscircular.cl/economia-circular/educacion-y-colaboracion-los-desafios-tras-la-transicion-hacia-una-economia-circular/",
-      "fecha": "2026-09-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "26/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental «, Rol: R-49-2026",
-      "url": "https://3ta.cl/audiencias/26-11-2026-fija-audiencia-en-caso-de-ilustre-municipalidad-de-concepcion-con-servicio-de-evaluacion-ambiental-rol-r-49-2026/",
-      "fecha": "2026-09-21",
+      "titular": "[El Desconcierto] Muestra con realidad virtual permite sobrevolar el desierto florido con la visión ultravioleta de las abejas",
+      "url": "https://www.terram.cl/el-desconcierto-muestra-con-realidad-virtual-permite-sobrevolar-el-desierto-florido-con-la-vision-ultravioleta-de-las-abejas/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SMA",
-      "titular": "SMA aplica multa a la Sociedad Pesquera San Fernando y a Salmones Captrén tras constatar incumplimientos en tratamiento de RILes",
-      "url": "https://portal.sma.gob.cl/index.php/sma-aplica-multa-a-la-sociedad-pesquera-san-fernando-y-a-salmones-captren-tras-constatar-incumplimientos-en-tratamiento-de-riles/",
-      "fecha": "2026-09-21",
+      "titular": "SMA ordena al titular Áridos y Asfaltos Inbrada SpA ingresar su proyecto al Sistema de Evaluación de Impacto Ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-ordena-al-titular-aridos-y-asfaltos-inbrada-spa-ingresar-su-proyecto-al-sistema-de-evaluacion-de-impacto-ambiental/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministra Toledo inicia participación en la 81° Asamblea General de Naciones Unidas",
-      "url": "https://mma.gob.cl/ministra-toledo-inicia-participacion-en-la-81-asamblea-general-de-naciones-unidas/",
-      "fecha": "2026-09-21",
+      "titular": "Circuito de 410 kilómetros busca poner en valor el patrimonio natural y cultural entre Freirina y La Higuera",
+      "url": "https://mma.gob.cl/circuito-de-410-kilometros-busca-poner-en-valor-el-patrimonio-natural-y-cultural-entre-freirina-y-la-higuera/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente lleva el Plan de Descontaminación Atmosférica a las comunidades del Valle Central de O’Higgins",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-lleva-el-plan-de-descontaminacion-atmosferica-a-las-comunidades-del-valle-central-de-ohiggins/",
-      "fecha": "2026-09-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Emol",
+      "titular": "Diputados UDI piden que Chile sea sede de encuentro del Escudo de las Américas",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/23/1212197/udi-kast-escudo-americas.html",
+      "fecha": "2026-09-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "REgenera Chile busca convertir los residuos en nuevas oportunidades",
-      "url": "https://mma.gob.cl/re-genera-chile-busca-convertir-los-residuos-en-nuevas-oportunidades/",
-      "fecha": "2026-09-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Emol",
+      "titular": "Médico de Presley Gerber le habría dado ketamina pese a su problema con drogas: Piden que sea procesado",
+      "url": "https://www.emol.com/noticias/Tendencias/2026/09/23/1212185/medico-gerber-presley-recetaba-ketamina.html",
+      "fecha": "2026-09-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Gobierno ingresará cambios a proyecto de adaptabilidad a las 40 horas y espera que reglamento de Ley Karin esté antes de fin de año",
-      "url": "https://www.latercera.com/pulso/noticia/gobierno-ingresara-cambios-a-proyecto-de-adaptabilidad-a-las-40-horas-y-espera-que-reglamento-de-ley-karin-este-antes-de-fin-de-ano/",
-      "fecha": "2026-09-21",
+      "titular": "Bilaterales, cita con Guterres y nuevo encuentro de Compromiso de Santiago: la penúltima jornada de Kast en NY",
+      "url": "https://www.latercera.com/politica/noticia/bilaterales-cita-con-guterres-y-nuevo-encuentro-de-compromiso-de-santiago-la-penultima-jornada-de-kast-en-ny/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Katie Kruger, presidenta de Tailings 2026: “La gestión convencional de los relaves sigue siendo esencial”",
+      "url": "https://www.nuevamineria.com/revista/katie-kruger-presidenta-de-tailings-2026-la-gestion-convencional-de-los-relaves-sigue-siendo-esencial/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Juegos en vivo de Jet Casino para móviles",
+      "url": "https://www.paiscircular.cl/tendencias/juegos-en-vivo-de-jet-casino-para-moviles/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "El valor de los clubes deportivos locales: cuando el deporte impulsa el desarrollo comunitario",
+      "url": "https://www.paiscircular.cl/tendencias/el-valor-de-los-clubes-deportivos-locales-cuando-el-deporte-impulsa-el-desarrollo-comunitario/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "El Niño anticipa una primavera inestable y lluviosa | 24 Horas TVN Chile",
+      "url": "https://www.cr2.cl/el-nino-anticipa-una-primavera-inestable-y-lluviosa-24-horas-tvn-chile/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Uruguay se prepara para el peor Niño de su historia",
+      "url": "https://efeverde.com/uruguay-se-prepara-para-el-peor-nino-de-su-historia/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Lula defiende en la ONU tanto la exploración de petróleo en la Amazonía como la descarbonización",
+      "url": "https://efeverde.com/lula-defiende-en-onu-exploracion-de-petroleo-en-amazonia-descarbonizacion/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Los Lagos, Aysén y Magallanes: SMA aprueba seis Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-aysen-y-magallanes-sma-aprueba-seis-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Se realiza primera sesión del año de Mesa Estratégica de Recursos Hídricos de Aysén",
+      "url": "https://dga.mop.gob.cl/se-realiza-primera-sesion-del-ano-de-mesa-estrategica-de-recursos-hidricos-de-aysen/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Programa de Recambio de Calefactores abre nuevo llamado para las familias de Coyhaique",
+      "url": "https://mma.gob.cl/programa-de-recambio-de-calefactores-abre-nuevo-llamado-para-las-familias-de-coyhaique/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comité Regional de Humedales (COREHUM) define prioridades para fortalecer la gestión de humedales urbanos en la Región de Valparaíso",
+      "url": "https://mma.gob.cl/comite-regional-de-humedales-corehum-define-prioridades-para-fortalecer-la-gestion-de-humedales-urbanos-en-la-region-de-valparaiso/",
+      "fecha": "2026-09-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Hasta el 14 de octubre organizaciones de Ñuble pueden postular a $6 millones para proyectos ambientales",
+      "url": "https://mma.gob.cl/hasta-el-14-de-octubre-organizaciones-de-nuble-pueden-postular-a-6-millones-para-proyectos-ambientales/",
+      "fecha": "2026-09-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

@@ -1,84 +1,84 @@
 {
-  "fecha_generacion": "2026-09-22T12:36:14.412195-03:00",
-  "total_alertas": 9,
+  "fecha_generacion": "2026-09-23T12:33:20.377199-03:00",
+  "total_alertas": 8,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Inclusión de las baterías de iones de litio en las metas de la Ley REP genera opiniones divididas en la industria",
-      "url": "https://www.paiscircular.cl/transicion-energetica/inclusion-de-las-baterias-de-iones-de-litio-en-las-metas-de-la-ley-rep-genera-opiniones-divididas-en-la-industria/",
-      "fecha": "2026-09-22",
+      "fuente": "Codex Verde",
+      "titular": "Corte Suprema resuelve que información productiva de industria salmonera es pública y debe ser entregada",
+      "url": "https://codexverde.cl/corte-suprema-resuelve-que-informacion-productiva-de-industria-salmonera-es-publica-y-debe-ser-entregada/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El anteproyecto de decreto supremo para Baterías Fuera de Uso (BFU) las clasifica en baterías de plomo-ácido, baterías de iones de litio y otras. No obstante, normar en el mismo decreto baterías de distinto tipo parece generar más dudas que certezas ",
+      "extracto": "El pasado 14 de septiembre, la Corte Suprema rechazó el recurso de queja presentado por las salmoneras Invermar S.A. y Pacific Seafood S.A. contra un fallo de la Corte de Apelaciones de Puerto Montt. Con ello, quedó firme la decisión que ordena al Se",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Financiero] Corte Suprema ratifica carácter público de datos de cosecha salmonera tras litigio de la industria con Fundación Terram",
+      "url": "https://www.terram.cl/diario-financiero-corte-suprema-ratifica-caracter-publico-de-datos-de-cosecha-salmonera-tras-litigio-de-la-industria-con-fundacion-terram/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Tras dos años de procedimientos, la justicia desestimó los argumentos de Invermar y Pacific Seafood sobre riesgos a la libre competencia y zanjó que los registros no constituyen un secreto comercial protegido por la Ley de Transparencia. Fuente: Diar",
+      "keywords_detectadas": [
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Revista Electricidad] Tribunales Ambientales: Comisión de Constitución del Senado conoce propuestas de nominados",
+      "url": "https://www.terram.cl/revista-electricidad-tribunales-ambientales-comision-de-constitucion-del-senado-conoce-propuestas-de-nominados/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los y la candidata se refirieron a los tiempos de tramitación y las mejoras a la institucionalidad. Fuente: Revista Electricidad, 22 de septiembre de 2026.",
+      "keywords_detectadas": [
+        "Tribunales Ambientales"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Portal Innova] Chile y las nuevas reglas para la basura electrónica: celulares y computadores entran en una nueva etapa de la Ley REP",
+      "url": "https://www.terram.cl/portal-innova-chile-y-las-nuevas-reglas-para-la-basura-electronica-celulares-y-computadores-entran-en-una-nueva-etapa-de-la-ley-rep/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Celulares, computadores, tablets y otros aparatos eléctricos y electrónicos entraron en una nueva etapa de la Ley REP en Chile. El decreto publicado en mayo de 2026 establece metas de recolección y valorización para estos productos y abre una discusi",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "SMA multa a dos empresas de Los Lagos por incumplimientos en descarga de residuos líquidos",
-      "url": "https://codexverde.cl/sma-multa-a-dos-empresas-de-los-lagos-por-incumplimientos-en-descarga-de-residuos-liquidos/",
-      "fecha": "2026-09-22",
+      "fuente": "SMA",
+      "titular": "SMA ordena al titular Áridos y Asfaltos Inbrada SpA ingresar su proyecto al Sistema de Evaluación de Impacto Ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-ordena-al-titular-aridos-y-asfaltos-inbrada-spa-ingresar-su-proyecto-al-sistema-de-evaluacion-de-impacto-ambiental/",
+      "fecha": "2026-09-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente (SMA) sancionó a dos empresas de la Región de Los Lagos tras detectar incumplimientos relacionados con la descarga de residuos líquidos generados por sus procesos productivos. Las multas fueron aplicadas a la So",
+      "extracto": "La Superintendencia del Medio Ambiente pudo constatar que el proyecto “Extracción de Áridos Pozo Sara”, ubicado en la comuna de Pozo Almonte, extrajo un volumen total de 111.900 m³ de material sin someterse a la evaluación ambiental correspondiente, ",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "[Diario Financiero] Nuevo timonel de la SMA busca reducir plazos a la mitad centrarse en “casos grandes” de relevancia ambiental",
-      "url": "https://www.terram.cl/diario-financiero-nuevo-timonel-de-la-sma-busca-reducir-plazos-a-la-mitad-centrarse-en-casos-grandes-de-relevancia-ambiental/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Emanuel Ibarra revela a DF que buscará que los programas de cumplimiento y procedimientos sancionatorios estén en promedio tramitados en 12 meses. Hoy duran entre 22 y 24 meses. Fuente: Diario Financiero, 22 de septiembre de 2026.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Reporte Minero] Tribunal Ambiental analiza anulación de declaratoria de interés nacional de Central Rucalhue en Biobío",
-      "url": "https://www.terram.cl/reporte-minero-tribunal-ambiental-analiza-anulacion-de-declaratoria-de-interes-nacional-de-central-rucalhue-en-biobio/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Segundo Tribunal Ambiental conoce reclamación contra resolución de Conaf que permitiría excepción legal para proyecto hidroeléctrico de 90 MW en río Biobío, cuestionando criterios de sustentabilidad y consulta indígena. Fuente: Reporte Minero, 21 de ",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-12-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Matilde 1)",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-12-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-matilde-1/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-12-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Matilde 1), el martes 22 de septiembre de 2026, ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Insulza se distancia de interpelación al canciller Pérez Mackenna impulsada por el PS: “Ojalá sea con la mayor altura de miras”",
-      "url": "https://www.latercera.com/politica/noticia/insulza-se-distancia-de-interpelacion-al-canciller-perez-mackenna-impulsada-por-el-ps-ojala-sea-con-la-mayor-altura-de-miras/",
-      "fecha": "2026-09-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El socialista, exministro de los presidentes Frei y Lagos, eso sí, fue crítico sobre la manera en que Chile lleva adelante dichas materias: “Yo creo que la política exterior de Estado se está extinguiendo”.",
+      "fuente": "Emol",
+      "titular": "Diputados UDI piden que Chile sea sede de encuentro del Escudo de las Américas",
+      "url": "https://www.emol.com/noticias/Nacional/2026/09/23/1212197/udi-kast-escudo-americas.html",
+      "fecha": "2026-09-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "11:02 |Defendieron la decisión del Gobierno.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Pulso",
-      "titular": "La propuesta inicial del Ejecutivo excluía a los sindicatos del acuerdo para flexibilizar la aplicación de las 40 horas en 16 semanas. Ahora, dado el debate legislativo, el subsecretario del Trabajo, Gustavo Rosende, dijo que se permitirá que sea con acuerdo de las organizaciones.",
-      "url": "https://www.pulso.cl/pulso/noticia/gobierno-ingresara-cambios-a-proyecto-de-adaptabilidad-a-las-40-horas-y-espera-que-reglamento-de-ley-karin-este-antes-de-fin-de-ano/",
-      "fecha": "2026-09-22",
+      "fuente": "Emol",
+      "titular": "Médico de Presley Gerber le habría dado ketamina pese a su problema con drogas: Piden que sea procesado",
+      "url": "https://www.emol.com/noticias/Tendencias/2026/09/23/1212185/medico-gerber-presley-recetaba-ketamina.html",
+      "fecha": "2026-09-23",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -87,25 +87,13 @@
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "26/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental «, Rol: R-49-2026",
-      "url": "https://3ta.cl/audiencias/26-11-2026-fija-audiencia-en-caso-de-ilustre-municipalidad-de-concepcion-con-servicio-de-evaluacion-ambiental-rol-r-49-2026/",
-      "fecha": "2026-09-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 26/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 26/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental «, Rol: R-49-2026 appea",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
       "fuente": "SMA",
-      "titular": "SMA aplica multa a la Sociedad Pesquera San Fernando y a Salmones Captrén tras constatar incumplimientos en tratamiento de RILes",
-      "url": "https://portal.sma.gob.cl/index.php/sma-aplica-multa-a-la-sociedad-pesquera-san-fernando-y-a-salmones-captren-tras-constatar-incumplimientos-en-tratamiento-de-riles/",
-      "fecha": "2026-09-21",
+      "titular": "Los Lagos, Aysén y Magallanes: SMA aprueba seis Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-aysen-y-magallanes-sma-aprueba-seis-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
+      "fecha": "2026-09-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Respecto a las infracciones, en el caso de la Pesquera San Fernando se constataron tres cargos confirmados por falta de reporte, superación de parámetros y de volumen de descarga. En tanto, para Salmones Captrén se sancionó la superación crítica en m",
+      "extracto": "Las acciones de los programas están orientadas a subsanar los incumplimientos ambientales cometidos por las empresas en sus centros de cultivo. Los planes consideran medidas e inversiones conjuntas que superan los USD 1,82 millones. La Superintendenc",
       "keywords_detectadas": [
         "SMA"
       ]
