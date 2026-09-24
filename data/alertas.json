@@ -1,84 +1,50 @@
 {
-  "fecha_generacion": "2026-09-23T12:33:20.377199-03:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-09-24T12:54:43.523946-03:00",
+  "total_alertas": 12,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Corte Suprema resuelve que información productiva de industria salmonera es pública y debe ser entregada",
-      "url": "https://codexverde.cl/corte-suprema-resuelve-que-informacion-productiva-de-industria-salmonera-es-publica-y-debe-ser-entregada/",
-      "fecha": "2026-09-23",
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Corte Suprema ratifica multa de la SMA por casi 5 mil UTA contra KDM S.A. por incumplir su RCA en la operación del Relleno Sanitario Loma Los Colorados",
+      "url": "https://www.chiledesarrollosustentable.cl/corte-suprema-ratifica-multa-de-la-sma-por-casi-5-mil-uta-contra-kdm-s-a-por-incumplir-su-rca-en-la-operacion-del-relleno-sanitario-loma-los-colorados/?utm_source=rss&utm_medium=rss&utm_campaign=corte-suprema-ratifica-multa-de-la-sma-por-casi-5-mil-uta-contra-kdm-s-a-por-incumplir-su-rca-en-la-operacion-del-relleno-sanitario-loma-los-colorados",
+      "fecha": "2026-09-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El pasado 14 de septiembre, la Corte Suprema rechazó el recurso de queja presentado por las salmoneras Invermar S.A. y Pacific Seafood S.A. contra un fallo de la Corte de Apelaciones de Puerto Montt. Con ello, quedó firme la decisión que ordena al Se",
+      "extracto": "El máximo tribunal declaró inadmisible el recurso de casación en la forma y rechazó la casación en el fondo presentados por la empresa, dejando firme la sanción económica de 4.984 UTA aplicada por la Superintendencia del Medio Ambiente. La resolución",
       "keywords_detectadas": [
-        "Corte Suprema"
+        "SMA",
+        "Corte Suprema",
+        "RCA"
       ]
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario Financiero] Corte Suprema ratifica carácter público de datos de cosecha salmonera tras litigio de la industria con Fundación Terram",
-      "url": "https://www.terram.cl/diario-financiero-corte-suprema-ratifica-caracter-publico-de-datos-de-cosecha-salmonera-tras-litigio-de-la-industria-con-fundacion-terram/",
-      "fecha": "2026-09-23",
+      "titular": "[Induambiente] Ratifican multa por casi $4.300 millones contra KDM por incumplir RCA de relleno sanitario",
+      "url": "https://www.terram.cl/induambiente-ratifican-multa-por-casi-4-300-millones-contra-kdm-por-incumplir-rca-de-relleno-sanitario/",
+      "fecha": "2026-09-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Tras dos años de procedimientos, la justicia desestimó los argumentos de Invermar y Pacific Seafood sobre riesgos a la libre competencia y zanjó que los registros no constituyen un secreto comercial protegido por la Ley de Transparencia. Fuente: Diar",
+      "extracto": "Corte Suprema validó los argumentos técnicos y jurídicos de la Superintendencia del Medio Ambiente, que aplicó la sanción económica, sobre la incapacidad estructural de Loma Los Colorados para el manejo de líquidos percolados. Fuente: Induambiente, 2",
       "keywords_detectadas": [
-        "Corte Suprema"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Revista Electricidad] Tribunales Ambientales: Comisión de Constitución del Senado conoce propuestas de nominados",
-      "url": "https://www.terram.cl/revista-electricidad-tribunales-ambientales-comision-de-constitucion-del-senado-conoce-propuestas-de-nominados/",
-      "fecha": "2026-09-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los y la candidata se refirieron a los tiempos de tramitación y las mejoras a la institucionalidad. Fuente: Revista Electricidad, 22 de septiembre de 2026.",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Portal Innova] Chile y las nuevas reglas para la basura electrónica: celulares y computadores entran en una nueva etapa de la Ley REP",
-      "url": "https://www.terram.cl/portal-innova-chile-y-las-nuevas-reglas-para-la-basura-electronica-celulares-y-computadores-entran-en-una-nueva-etapa-de-la-ley-rep/",
-      "fecha": "2026-09-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Celulares, computadores, tablets y otros aparatos eléctricos y electrónicos entraron en una nueva etapa de la Ley REP en Chile. El decreto publicado en mayo de 2026 establece metas de recolección y valorización para estos productos y abre una discusi",
-      "keywords_detectadas": [
-        "Ley REP"
+        "RCA"
       ]
     },
     {
       "fuente": "SMA",
-      "titular": "SMA ordena al titular Áridos y Asfaltos Inbrada SpA ingresar su proyecto al Sistema de Evaluación de Impacto Ambiental",
-      "url": "https://portal.sma.gob.cl/index.php/sma-ordena-al-titular-aridos-y-asfaltos-inbrada-spa-ingresar-su-proyecto-al-sistema-de-evaluacion-de-impacto-ambiental/",
-      "fecha": "2026-09-23",
+      "titular": "Norte del país: SMA instruye a proyectos de energías renovables la adopción de medidas preventivas ante el fenómeno del Desierto Florido",
+      "url": "https://portal.sma.gob.cl/index.php/norte-del-pais-sma-instruye-a-proyectos-de-energias-renovables-la-adopcion-de-medidas-preventivas-ante-el-fenomeno-del-desierto-florido/",
+      "fecha": "2026-09-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente pudo constatar que el proyecto “Extracción de Áridos Pozo Sara”, ubicado en la comuna de Pozo Almonte, extrajo un volumen total de 111.900 m³ de material sin someterse a la evaluación ambiental correspondiente, ",
+      "extracto": "La Superintendencia dio continuidad a las acciones de resguardo iniciadas el año pasado, ampliando este 2026 la advertencia a las regiones de Antofagasta, Atacama y Coquimbo. Los titulares de instalaciones fotovoltaicas y eólicas deberán adoptar toda",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Emol",
-      "titular": "Diputados UDI piden que Chile sea sede de encuentro del Escudo de las Américas",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/23/1212197/udi-kast-escudo-americas.html",
-      "fecha": "2026-09-23",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "11:02 |Defendieron la decisión del Gobierno.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Médico de Presley Gerber le habría dado ketamina pese a su problema con drogas: Piden que sea procesado",
-      "url": "https://www.emol.com/noticias/Tendencias/2026/09/23/1212185/medico-gerber-presley-recetaba-ketamina.html",
-      "fecha": "2026-09-23",
+      "fuente": "Diario Constitucional",
+      "titular": "Empresa recurre al TC y cuestiona que plazo para la realización del comparendo civil no sea fatal",
+      "url": "https://www.diarioconstitucional.cl/2026/09/24/empresa-recurre-al-tc-y-cuestiona-que-plazo-para-la-realizacion-del-comparendo-civil-no-sea-fatal/",
+      "fecha": "2026-09-24",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -87,15 +53,102 @@
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "Los Lagos, Aysén y Magallanes: SMA aprueba seis Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
-      "url": "https://portal.sma.gob.cl/index.php/los-lagos-aysen-y-magallanes-sma-aprueba-seis-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
-      "fecha": "2026-09-22",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental revisa avances en cumplimiento de acuerdo conciliatorio tras derrame de hidrocarburos en faena minera",
+      "url": "https://www.mch.cl/tribunal-ambiental-revisa-avances-en-cumplimiento-de-acuerdo-conciliatorio-tras-derrame-de-hidrocarburos-en-faena-minera/",
+      "fecha": "2026-09-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las acciones de los programas están orientadas a subsanar los incumplimientos ambientales cometidos por las empresas en sus centros de cultivo. Los planes consideran medidas e inversiones conjuntas que superan los USD 1,82 millones. La Superintendenc",
+      "extracto": "El caso se originó con la demanda de reparación de daño ambiental interpuesta por la Comunidad Indígena Colla del río Jorquera y sus afluentes, junto con dos personas naturales. La entrada Tribunal Ambiental revisa avances en cumplimiento de acuerdo ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA instruye a proyectos de energías renovables adopción de medidas preventivas ante fenómeno del Desierto Florido",
+      "url": "https://www.revistaei.cl/sma-instruye-a-proyectos-de-energias-renovables-adopcion-de-medidas-preventivas-ante-fenomeno-del-desierto-florido/",
+      "fecha": "2026-09-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Superintendencia dio continuidad a las acciones de resguardo iniciadas el año pasado, ampliando este 2026 la advertencia a las regiones de Antofagasta, Atacama y Coquimbo. La entrada SMA instruye a proyectos de energías renovables adopción de medi",
       "keywords_detectadas": [
         "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Proyecto solar con BESS por US$10 millones ingresa al SEIA en Colina con 7 MW de potencia",
+      "url": "https://www.redimin.cl/proyecto-solar-con-bess-por-us-10-millones-ingresa-al-seia-en-colina-con-7-mw-de-potencia",
+      "fecha": "2026-09-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Energética Solar Tomillo SpA presenta un proyecto de planta fotovoltaica en Colina, que incluye un sistema de almacenamiento de energía, actualmente en evaluación ambiental.",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA concede cuarta prórroga al parque eólico Vientos del Lago de US$200 millones en Frutillar",
+      "url": "https://www.redimin.cl/sea-concede-cuarta-prorroga-al-parque-eolico-vientos-del-lago-de-us-200-millones-en-frutillar",
+      "fecha": "2026-09-24",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental de Los Lagos amplía por cuarta vez el plazo para evaluar el Parque Eólico Vientos del Lago, un proyecto de US$200 millones que incluye 21 aerogeneradores.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "En audiencia se revisan avances en cumplimiento de acuerdo conciliatorio tras derrame de hidrocarburos en faena minera",
+      "url": "https://1ta.cl/en-audiencia-se-revisan-avances-en-cumplimiento-de-acuerdo-conciliatorio-tras-derrame-de-hidrocarburos-en-faena-minera/?utm_source=rss&utm_medium=rss&utm_campaign=en-audiencia-se-revisan-avances-en-cumplimiento-de-acuerdo-conciliatorio-tras-derrame-de-hidrocarburos-en-faena-minera",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental realizó una audiencia de seguimiento para revisar los avances en el cumplimiento de las medidas del del acuerdo conciliatorio arribado entre las partes y aprobado por... The post En audiencia se revisan avances en cumplim",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "01/10/2026: Suspende audiencia de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
+      "url": "https://3ta.cl/audiencias/01-10-2026-suspende-audiencia-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 01/10/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace The post 01/10/2026: Suspende audiencia de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-202",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "06/10/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026",
+      "url": "https://3ta.cl/audiencias/06-10-2026-fija-audiencia-en-caso-de-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente-rol-r-33-2026/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 06/10/2026 a las 11:30 hrs. Acceda a la resolución que fija audiencia: Enlace The post 06/10/2026: Fija audiencia en caso de «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», Rol: R-33-2026 ",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Corte Suprema ratifica multa de la SMA por casi 5 mil UTA contra KDM S.A. por incumplir su RCA en la operación del Relleno Sanitario Loma Los Colorados",
+      "url": "https://portal.sma.gob.cl/index.php/corte-suprema-ratifica-multa-de-la-sma-por-casi-5-mil-uta-contra-kdm-s-a-por-incumplir-su-rca-en-la-operacion-del-relleno-sanitario-loma-los-colorados/",
+      "fecha": "2026-09-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El máximo tribunal declaró inadmisible el recurso de casación en la forma y rechazó la casación en el fondo presentados por la empresa, dejando firme la sanción económica de 4.984 UTA aplicada por la Superintendencia del Medio Ambiente. La resolución",
+      "keywords_detectadas": [
+        "SMA",
+        "Corte Suprema",
+        "RCA"
       ]
     }
   ]
