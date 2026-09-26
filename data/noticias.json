@@ -1,213 +1,61 @@
 {
-  "fecha_actualizacion": "2026-09-25T13:09:24.543707-03:00",
-  "total": 26,
+  "fecha_actualizacion": "2026-09-26T12:03:19.192928-03:00",
+  "total": 7,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Por qué algunas fragancias se convierten en fenómeno global",
-      "url": "https://www.paiscircular.cl/tendencias/por-que-algunas-fragancias-se-convierten-en-fenomeno-global/",
-      "fecha": "2026-09-25",
+      "fuente": "EFE Verde",
+      "titular": "La capital de Honduras en situación «crítica» por una prolongada sequía causada por El Niño",
+      "url": "https://efeverde.com/capital-de-honduras-en-situacion-critica-por-prolongada-sequia-causada-por-el-nino/",
+      "fecha": "2026-09-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El futuro del océano se decide en el barro de nuestros ríos. Por Carla Serrat",
+      "url": "https://efeverde.com/el-futuro-del-oceano-se-decide-en-el-barro-de-nuestros-rios-por-carla-serrat/",
+      "fecha": "2026-09-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 25 % de los centros de datos está en zonas con déficit hídrico. En España, la tasa sube al 64 %",
+      "url": "https://efeverde.com/el-25-de-los-centros-de-datos-esta-en-zonas-con-deficit-hidrico-en-espana-la-tasa-sube-al-64/",
+      "fecha": "2026-09-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Modo Circular 2026: educación, innovación y colaboración marcan el camino hacia un Chile más limpio y sin residuos",
-      "url": "https://www.paiscircular.cl/economia-circular/modo-circular-2026-entrega-claves-para-un-chile-sin-residuos/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "ECORecreo: la empresa de cosmética natural sustentable que marca el camino en el sur de Chile",
-      "url": "https://www.paiscircular.cl/reutilizacion/ecorecreo-la-empresa-de-cosmetica-natural/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Chile promueve en la ONU la candidatura de Valparaíso como sede del acuerdo BBNJ",
-      "url": "https://www.chiledesarrollosustentable.cl/chile-promueve-en-la-onu-la-candidatura-de-valparaiso-como-sede-del-acuerdo-bbnj/?utm_source=rss&utm_medium=rss&utm_campaign=chile-promueve-en-la-onu-la-candidatura-de-valparaiso-como-sede-del-acuerdo-bbnj",
+      "titular": "Atacama: infraestructura compartida para acceso al agua",
+      "url": "https://www.paiscircular.cl/opinion/atacama-infraestructura-compartida-para-acceso-al-agua/",
       "fecha": "2026-09-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "De la idea al escalamiento: las opciones de financiamiento para impulsar proyectos de economía circular",
-      "url": "https://codexverde.cl/de-la-idea-al-escalamiento-las-opciones-de-financiamiento-para-impulsar-proyectos-de-economia-circular/",
+      "titular": "Recarga de acuíferos: el gran ausente en la política hídrica del país",
+      "url": "https://codexverde.cl/recarga-de-acuiferos-el-gran-ausente-en-la-politica-hidrica-del-pais/",
       "fecha": "2026-09-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "La nueva escala de valores que propuso Paulina Aldunce para enfrentar la crisis climática (El Mercurio)",
-      "url": "https://www.cr2.cl/la-nueva-escala-de-valores-que-propuso-paulina-aldunce-para-enfrentar-la-crisis-climatica-el-mercurio/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Indígenas de 16 países de África, Asia y América rechazan en Kenia el «colonialismo verde»",
-      "url": "https://efeverde.com/indigenas-africa-asia-y-america-rechazan-colonialismo-verde/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los embalses ganan peso frente a las lagunas en la evolución funcional de las aves acuáticas",
-      "url": "https://efeverde.com/embalses-evolucion-funcional-de-aves-acuaticas/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los perros, como los humanos, tienen preferencia por las consonantes",
-      "url": "https://efeverde.com/perros-preferencia-por-consonantes/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La presidencia de la COP31 presenta iniciativas «emblemáticas» de financiación y acción urbana",
-      "url": "https://efeverde.com/la-presidencia-de-la-cop31-presenta-iniciativas-emblematicas-de-financiacion-y-accion-urbana/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Una «tormenta perfecta» encamina al marisqueo gallego hacia su peor año de la historia",
-      "url": "https://efeverde.com/una-tormenta-perfecta-encamina-al-marisqueo-gallego-hacia-su-peor-ano-de-la-historia/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Circularis reclama 20 valorizadoras para que España pueda cumplir los objetivos europeos de residuos",
-      "url": "https://efeverde.com/circularis-reclama-20-valorizadoras-para-que-espana-pueda-cumplir-los-objetivos-europeos-de-residuos/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Nueva Mirada] El Abra: información ambientalmente insuficiente",
-      "url": "https://www.terram.cl/la-nueva-mirada-el-abra-informacion-ambientalmente-insuficiente/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Resumen] Tierras raras en Primer Agua: Minera NeoRe solicitó concesión minera de explotación de 100 hectáreas en Penco-Lirquén",
-      "url": "https://www.terram.cl/resumentierras-raras-en-primer-agua-minera-neore-solicito-concesion-minera-de-explotacion-de-100-hectareas-en-penco-lirquen/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Fallo que ordena al Estado a reparar vertederos de ropa en el desierto de Atacama lleva un año sin cumplirse",
-      "url": "https://www.terram.cl/el-desconcierto-fallo-que-ordena-al-estado-a-reparar-vertederos-de-ropa-en-el-desierto-de-atacama-lleva-un-ano-sin-cumplirse/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Estudio advierte sobre desprotección de los ecosistemas de suelo",
-      "url": "https://www.terram.cl/cooperativa-ciencia-estudio-advierte-sobre-desproteccion-de-los-ecosistemas-de-suelo/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Nuevo hito para la conservación: alistan inauguración de refugio marino en la costa de Corral",
-      "url": "https://www.terram.cl/diario-sostenible-nuevo-hito-para-la-conservacion-alistan-inauguracion-de-refugio-marino-en-la-costa-de-corral/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Registran por primera vez a una rana africana alimentándose de huevos de sapo atacameño, anfibio endémico de Chile",
-      "url": "https://www.terram.cl/ladera-sur-registran-por-primera-vez-a-una-rana-africana-alimentandose-de-huevos-de-sapo-atacameno-anfibio-endemico-de-chile/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Impulsan obras de eliminación de combustible vegetal para prevenir incendios en la provincia de Itata",
-      "url": "https://www.conaf.cl/impulsan-obras-de-eliminacion-de-combustible-vegetal-para-prevenir-incendios-en-la-provincia-de-itata/?utm_source=rss&utm_medium=rss&utm_campaign=impulsan-obras-de-eliminacion-de-combustible-vegetal-para-prevenir-incendios-en-la-provincia-de-itata",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Se ratifica multa por infracción a la normativa de ruido aplicada por la Superintendencia del Medio Ambiente a restaurante iquiqueño",
+      "url": "https://1ta.cl/se-ratifica-multa-por-infraccion-a-la-normativa-de-ruido-aplicada-por-la-superintendencia-del-medio-ambiente-a-restaurante-iquiqueno/?utm_source=rss&utm_medium=rss&utm_campaign=se-ratifica-multa-por-infraccion-a-la-normativa-de-ruido-aplicada-por-la-superintendencia-del-medio-ambiente-a-restaurante-iquiqueno",
       "fecha": "2026-09-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "MMA abre licitación para concesión de cafetería en 2° piso",
-      "url": "https://mma.gob.cl/mma-abre-licitacion-para-concesion-de-cafeteria-en-2-piso/",
+      "titular": "Menos residuos y más conciencia ambiental marca nueva jornada de limpieza de playas en Aysén",
+      "url": "https://mma.gob.cl/menos-residuos-y-mas-conciencia-ambiental-marca-nueva-jornada-de-limpieza-de-playas-en-aysen/",
       "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Music Hall Santiago: autoridad ambiental da espaldarazo a nuevo centro de eventos en Ñuñoa",
-      "url": "https://www.latercera.com/pulso/noticia/music-hall-santiago-autoridad-ambiental-da-espaldarazo-a-nuevo-centro-de-eventos-en-nunoa/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "CMPC acuerda venta de su negocio de Corrugados a Smurfit Westrock por US$420 millones",
-      "url": "https://www.paiscircular.cl/empresa-e-innovacion/cmpc-acuerda-venta-de-su-negocio-de-corrugados-a-smurfit-westrock-por-us420-millones/",
-      "fecha": "2026-09-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile ya cuenta con su primer Plan de Adaptación al Cambio Climático para los Recursos Hídricos",
-      "url": "https://mma.gob.cl/chile-ya-cuenta-con-su-primer-plan-de-adaptacion-al-cambio-climatico-para-los-recursos-hidricos/",
-      "fecha": "2026-09-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "MK4: Comisión de Hacienda de la Cámara votará proyecto en general el próximo jueves",
-      "url": "https://www.latercera.com/pulso/noticia/mk4-comision-de-hacienda-de-la-camara-votara-proyecto-en-general-el-proximo-jueves/",
-      "fecha": "2026-09-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA instruye a proyectos de energías renovables la adopción de medidas preventivas ante el fenómeno del Desierto Florido",
-      "url": "https://www.portalminero.com/sma-instruye-a-proyectos-de-energias-renovables-la-adopcion-de-medidas-preventivas-ante-el-fenomeno-del-desierto-florido",
-      "fecha": "2026-09-24",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "Grid Forming: de almacenar energía a estabilizar la red del futuro",
-      "url": "https://www.portalminero.com/grid-forming-de-almacenar-energia-a-estabilizar-la-red-del-futuro",
-      "fecha": "2026-09-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
