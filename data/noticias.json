@@ -1,61 +1,61 @@
 {
-  "fecha_actualizacion": "2026-09-26T12:03:19.192928-03:00",
+  "fecha_actualizacion": "2026-09-27T12:44:46.738047-03:00",
   "total": 7,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "La capital de Honduras en situación «crítica» por una prolongada sequía causada por El Niño",
-      "url": "https://efeverde.com/capital-de-honduras-en-situacion-critica-por-prolongada-sequia-causada-por-el-nino/",
-      "fecha": "2026-09-26",
+      "titular": "Calidad de los ríos en Europa: España y Bulgaria, en situación crítica",
+      "url": "https://efeverde.com/calidad-de-los-rios-en-europa-espana-y-bulgaria-en-situacion-critica/",
+      "fecha": "2026-09-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El futuro del océano se decide en el barro de nuestros ríos. Por Carla Serrat",
-      "url": "https://efeverde.com/el-futuro-del-oceano-se-decide-en-el-barro-de-nuestros-rios-por-carla-serrat/",
-      "fecha": "2026-09-26",
+      "titular": "Bangkok sigue en alerta tras acumular 30 millones de metros cúbicos de lluvia",
+      "url": "https://efeverde.com/bangkok-sigue-en-alerta-tras-acumular-30-millones-de-metros-cubicos-de-lluvia/",
+      "fecha": "2026-09-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El 25 % de los centros de datos está en zonas con déficit hídrico. En España, la tasa sube al 64 %",
-      "url": "https://efeverde.com/el-25-de-los-centros-de-datos-esta-en-zonas-con-deficit-hidrico-en-espana-la-tasa-sube-al-64/",
+      "titular": "¿Por qué no hay huracanes en el Atlántico? La culpa es de ‘El Niño’",
+      "url": "https://efeverde.com/por-que-no-hay-huracanes-en-el-atlantico-la-culpa-es-de-el-nino/",
+      "fecha": "2026-09-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Día Mundial de la Salud Ambiental. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/dia-mundial-de-la-salud-ambiental-por-victor-solis/",
+      "fecha": "2026-09-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Ciudadano",
+      "titular": "Escándalo en el Tribunal Ambiental: los tres ministros se inhabilitan tras filtrarse un fallo inexistente sobre Pascua Lama 2.0.",
+      "url": "https://www.elciudadano.com/actualidad/escandalo-en-el-tribunal-ambiental-los-tres-ministros-se-inhabilitan-tras-filtrarse-un-fallo-inexistente-sobre-pascua-lama-2-0/09/27/",
+      "fecha": "2026-09-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble capacita a detectives de la PDI sobre fiscalización contra el robo de madera en la región",
+      "url": "https://www.conaf.cl/conaf-nuble-capacita-a-detectives-de-la-pdi-sobre-fiscalizacion-contra-el-robo-de-madera-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-capacita-a-detectives-de-la-pdi-sobre-fiscalizacion-contra-el-robo-de-madera-en-la-region",
       "fecha": "2026-09-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Atacama: infraestructura compartida para acceso al agua",
-      "url": "https://www.paiscircular.cl/opinion/atacama-infraestructura-compartida-para-acceso-al-agua/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Recarga de acuíferos: el gran ausente en la política hídrica del país",
-      "url": "https://codexverde.cl/recarga-de-acuiferos-el-gran-ausente-en-la-politica-hidrica-del-pais/",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se ratifica multa por infracción a la normativa de ruido aplicada por la Superintendencia del Medio Ambiente a restaurante iquiqueño",
-      "url": "https://1ta.cl/se-ratifica-multa-por-infraccion-a-la-normativa-de-ruido-aplicada-por-la-superintendencia-del-medio-ambiente-a-restaurante-iquiqueno/?utm_source=rss&utm_medium=rss&utm_campaign=se-ratifica-multa-por-infraccion-a-la-normativa-de-ruido-aplicada-por-la-superintendencia-del-medio-ambiente-a-restaurante-iquiqueno",
-      "fecha": "2026-09-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Menos residuos y más conciencia ambiental marca nueva jornada de limpieza de playas en Aysén",
-      "url": "https://mma.gob.cl/menos-residuos-y-mas-conciencia-ambiental-marca-nueva-jornada-de-limpieza-de-playas-en-aysen/",
-      "fecha": "2026-09-25",
+      "fuente": "CONAF",
+      "titular": "CONAF presenta primer plan comunitario de prevención de incendios forestales en Puerto Toro",
+      "url": "https://www.conaf.cl/conaf-presenta-primer-plan-comunitario-de-prevencion-de-incendios-forestales-en-puerto-toro/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-presenta-primer-plan-comunitario-de-prevencion-de-incendios-forestales-en-puerto-toro",
+      "fecha": "2026-09-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
