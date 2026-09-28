@@ -1,61 +1,213 @@
 {
-  "fecha_actualizacion": "2026-09-27T12:44:46.738047-03:00",
-  "total": 7,
+  "fecha_actualizacion": "2026-09-28T15:38:02.281822-03:00",
+  "total": 26,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Calidad de los ríos en Europa: España y Bulgaria, en situación crítica",
-      "url": "https://efeverde.com/calidad-de-los-rios-en-europa-espana-y-bulgaria-en-situacion-critica/",
-      "fecha": "2026-09-27",
+      "fuente": "País Circular",
+      "titular": "Las reglas del blackjack online que cambian las probabilidades (¡y casi nadie revisa!)",
+      "url": "https://www.paiscircular.cl/tendencias/las-reglas-del-blackjack-online-que-cambian-las-probabilidades-y-casi-nadie-revisa/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Compostaje, separación para reciclaje y relleno sanitario, todo en un mismo lugar: el centro de tratamiento integral de residuos Chaqueta Blanca",
+      "url": "https://www.paiscircular.cl/medio-ambiente/compostaje-separacion-para-reciclaje-y-relleno-sanitario-todo-en-un-mismo-lugar-el-centro-de-tratamiento-integral-de-residuos-chaqueta-blanca/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Bangkok sigue en alerta tras acumular 30 millones de metros cúbicos de lluvia",
-      "url": "https://efeverde.com/bangkok-sigue-en-alerta-tras-acumular-30-millones-de-metros-cubicos-de-lluvia/",
-      "fecha": "2026-09-27",
+      "titular": "España registró en 2025 el nivel de extremos climáticos más alto desde 1961, según un estudio",
+      "url": "https://efeverde.com/espana-registro-en-2025-el-nivel-de-extremos-climaticos-mas-alto-desde-1961/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Por qué no hay huracanes en el Atlántico? La culpa es de ‘El Niño’",
-      "url": "https://efeverde.com/por-que-no-hay-huracanes-en-el-atlantico-la-culpa-es-de-el-nino/",
-      "fecha": "2026-09-27",
+      "titular": "Suiza rechaza en referéndum reducir el consumo y la producción de alimentos de origen animal",
+      "url": "https://efeverde.com/suiza-rechaza-en-referendum-reducir-consumo-y-produccion-alimentos-de-origen-animal/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Día Mundial de la Salud Ambiental. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-mundial-de-la-salud-ambiental-por-victor-solis/",
-      "fecha": "2026-09-27",
+      "titular": "Más de 1.500 millones de hectáreas de bosque en todo el mundo están degradadas, según la FAO",
+      "url": "https://efeverde.com/hectareas-de-bosque-en-todo-el-mundo-degradadas/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Escándalo en el Tribunal Ambiental: los tres ministros se inhabilitan tras filtrarse un fallo inexistente sobre Pascua Lama 2.0.",
-      "url": "https://www.elciudadano.com/actualidad/escandalo-en-el-tribunal-ambiental-los-tres-ministros-se-inhabilitan-tras-filtrarse-un-fallo-inexistente-sobre-pascua-lama-2-0/09/27/",
-      "fecha": "2026-09-27",
+      "fuente": "EFE Verde",
+      "titular": "¿Por qué Bangkok es vulnerable a las inundaciones?",
+      "url": "https://efeverde.com/por-que-bangkok-es-vulnerable-a-las-inundaciones/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Iniciativa de Roma sobre el Agua, un llamamiento a la acción. Por Fadi Hajali (secretario general interino de la Unión por el Mediterráneo)",
+      "url": "https://efeverde.com/la-iniciativa-de-roma-sobre-el-agua-un-llamamiento-a-la-accion-por-fadi-hajali/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La sostenibilidad es la huella que dejamos. Por Ana Rivas",
+      "url": "https://efeverde.com/la-sostenibilidad-es-la-huella-que-dejamos-por-ana-rivas/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un estudio en carroñeros atribuye el ‘perro no come perro’ al instinto de evitar patógenos",
+      "url": "https://efeverde.com/un-estudio-en-carroneros-atribuye-el-perro-no-come-perro-al-instinto-de-evitar-patogenos/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Desastre en Tribunal Ambiental: ministros se inhabilitan tras filtrarse decisión sobre Pascua Lama 2.0",
+      "url": "https://www.terram.cl/biobiochile-cl-desastre-en-tribunal-ambiental-ministros-se-inhabilitan-tras-filtrarse-decision-sobre-pascua-lama-2-0/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Emergencia en Quintero: estudiantes presentan síntomas de intoxicación en al menos 4 colegios",
+      "url": "https://www.terram.cl/biobiochile-cl-emergencia-en-quintero-estudiantes-presentan-sintomas-de-intoxicacion-en-al-menos-4-colegios/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Mostrador] Sudamérica podría ser un “laboratorio de pruebas” para la IA",
+      "url": "https://www.terram.cl/el-mostrador-sudamerica-podria-ser-un-laboratorio-de-pruebas-para-la-ia/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Minería Chilena] Se publica en el Diario Oficial Plan de Adaptación al Cambio Climático para los Recursos Hídricos",
+      "url": "https://www.terram.cl/mineria-chilena-se-publica-en-el-diario-oficial-plan-de-adaptacion-al-cambio-climatico-para-los-recursos-hidricos/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[EFE Noticias] La muerte de cientos de ballenas en Argentina muestra el valor de las aguas patagónicas para la especie",
+      "url": "https://www.terram.cl/efe-verde-la-muerte-de-cientos-de-ballenas-en-argentina-muestra-el-valor-de-las-aguas-patagonicas-para-la-especie/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Expertos advierten que los perros que afectan a la fauna y ganadería van más allá de los asilvestrados",
+      "url": "https://www.terram.cl/el-desconcierto-expertos-advierten-que-los-perros-que-afectan-a-la-fauna-y-ganaderia-van-mas-alla-de-los-asilvestrados/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Ñuble capacita a detectives de la PDI sobre fiscalización contra el robo de madera en la región",
-      "url": "https://www.conaf.cl/conaf-nuble-capacita-a-detectives-de-la-pdi-sobre-fiscalizacion-contra-el-robo-de-madera-en-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-capacita-a-detectives-de-la-pdi-sobre-fiscalizacion-contra-el-robo-de-madera-en-la-region",
-      "fecha": "2026-09-26",
+      "titular": "INDAP y CONAF impulsan la creación de huertos de frutos silvestres en beneficio de agricultores de Los Ríos",
+      "url": "https://www.conaf.cl/indap-y-conaf-impulsan-la-creacion-de-huertos-de-frutos-silvestres-en-beneficio-de-agricultores-de-los-rios/?utm_source=rss&utm_medium=rss&utm_campaign=indap-y-conaf-impulsan-la-creacion-de-huertos-de-frutos-silvestres-en-beneficio-de-agricultores-de-los-rios",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF presenta primer plan comunitario de prevención de incendios forestales en Puerto Toro",
-      "url": "https://www.conaf.cl/conaf-presenta-primer-plan-comunitario-de-prevencion-de-incendios-forestales-en-puerto-toro/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-presenta-primer-plan-comunitario-de-prevencion-de-incendios-forestales-en-puerto-toro",
-      "fecha": "2026-09-26",
+      "fuente": "SMA",
+      "titular": "Corte Suprema y Tribunales Ambientales confirman multas de la SMA que suman más de $8.500 millones",
+      "url": "https://portal.sma.gob.cl/index.php/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Chile ya cuenta con su primer Plan de Adaptación al Cambio Climático para los Recursos Hídricos",
+      "url": "https://dga.mop.gob.cl/chile-ya-cuenta-con-su-primer-plan-de-adaptacion-al-cambio-climatico-para-los-recursos-hidricos/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Fondo de Protección Ambiental permitió instalación de invernadero hidropónico en Escuela rural en Linares",
+      "url": "https://mma.gob.cl/fondo-de-proteccion-ambiental-permitio-instalacion-de-invernadero-hidroponico-en-escuela-rural-en-linares/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Día Internacional de Limpieza de Playas reunió a más de 200 voluntarios en Playa Brava de Iquique",
+      "url": "https://mma.gob.cl/dia-internacional-de-limpieza-de-playas-reunio-a-mas-de-200-voluntarios-en-playa-brava-de-iquique/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Candidatura de Chile al BBJN, financiamiento para acción climática y negociaciones de cara a la COP31: los ejes que marcaron la agenda de Chile en Nueva York",
+      "url": "https://mma.gob.cl/candidatura-de-chile-al-bbjn-financiamiento-para-accion-climatica-y-negociaciones-de-cara-a-la-cop31-los-ejes-que-marcaron-la-agenda-de-chile-en-nueva-york/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Sindicatos de Minera Centinela, del grupo Luksic, aprueban huelga en proceso de negociación colectiva",
+      "url": "https://www.latercera.com/pulso/noticia/sindicatos-de-minera-centinela-del-grupo-luksic-aprueban-huelga-en-proceso-de-negociacion-colectiva/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "LyD critica baja ejecución de la inversión en los ministerios de Obras Públicas y Vivienda y pide que sea prioridad para 2027",
+      "url": "https://www.latercera.com/pulso/noticia/lyd-critica-baja-ejecucion-de-la-inversion-en-los-ministerios-de-obras-publicas-y-vivienda-y-pide-que-sea-prioridad-para-2027/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Firma alemana SMA inaugura planta en su casa matriz con capacidad potencial de producción superior a 60 GW",
+      "url": "https://www.revistaei.cl/firma-alemana-sma-inaugura-planta-en-su-casa-matriz-con-capacidad-potencial-de-produccion-superior-a-60-gw/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Ministros del Primer Tribunal Ambiental se inhabilitan en causas por proyecto El Alto tras publicación anticipada de decisión",
+      "url": "https://www.nuevamineria.com/revista/ministros-del-primer-tribunal-ambiental-se-inhabilitan-en-causas-por-proyecto-el-alto-tras-publicacion-anticipada-de-decision/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Sustentabilidad fuerte: la naturaleza como base del desarrollo",
+      "url": "https://codexverde.cl/sustentabilidad-fuerte-la-naturaleza-como-base-del-desarrollo/",
+      "fecha": "2026-09-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

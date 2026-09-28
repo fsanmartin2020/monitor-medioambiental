@@ -1,15 +1,65 @@
 {
-  "fecha_generacion": "2026-09-27T12:44:46.750801-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-09-28T15:38:02.296532-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "El Ciudadano",
-      "titular": "Escándalo en el Tribunal Ambiental: los tres ministros se inhabilitan tras filtrarse un fallo inexistente sobre Pascua Lama 2.0.",
-      "url": "https://www.elciudadano.com/actualidad/escandalo-en-el-tribunal-ambiental-los-tres-ministros-se-inhabilitan-tras-filtrarse-un-fallo-inexistente-sobre-pascua-lama-2-0/09/27/",
-      "fecha": "2026-09-27",
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Desastre en Tribunal Ambiental: ministros se inhabilitan tras filtrarse decisión sobre Pascua Lama 2.0",
+      "url": "https://www.terram.cl/biobiochile-cl-desastre-en-tribunal-ambiental-ministros-se-inhabilitan-tras-filtrarse-decision-sobre-pascua-lama-2-0/",
+      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano La sombra de Barrick Gold en el escándalo del Tribunal Ambiental: el relator que certificó las inhabilidades trabajó cinco años para la minera Los tres ministros titulares del Primer Tribunal Ambiental se inhabilitaron en un hecho sin pr",
+      "extracto": "Los tres ministros titulares del Primer Tribunal Ambiental se inhabilitaron tras una polémica sobre la noticia de rechazo a medidas cautelares para el proyecto minero Prospección Minera El Alto, vinculado a Barrick Gold. El relator de la causa, exemp",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Corte Suprema y Tribunales Ambientales confirman multas de la SMA que suman más de $8.500 millones",
+      "url": "https://portal.sma.gob.cl/index.php/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las sentencias dictadas por el máximo tribunal de la República y los Tribunales Ambientales rechazan los recursos presentados y ratifican las sanciones impuestas por la SMA en una serie de casos asociados a infracciones a Resoluciones de Calificación",
+      "keywords_detectadas": [
+        "SMA",
+        "Tribunales Ambientales",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "LyD critica baja ejecución de la inversión en los ministerios de Obras Públicas y Vivienda y pide que sea prioridad para 2027",
+      "url": "https://www.latercera.com/pulso/noticia/lyd-critica-baja-ejecucion-de-la-inversion-en-los-ministerios-de-obras-publicas-y-vivienda-y-pide-que-sea-prioridad-para-2027/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La red de centros progresistas pide “al gobierno rectificar y priorizar efectivamente una agenda reactivadora donde la inversión pública, incluyendo la de los gobiernos regionales para que tengan un rol central\".",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Firma alemana SMA inaugura planta en su casa matriz con capacidad potencial de producción superior a 60 GW",
+      "url": "https://www.revistaei.cl/firma-alemana-sma-inaugura-planta-en-su-casa-matriz-con-capacidad-potencial-de-produccion-superior-a-60-gw/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Desde la compañía mencionaron que el desarrollo de su nueva Gigawatt Factory busca responder a las necesidades de un mundo cada vez más electrificado. La entrada Firma alemana SMA inaugura planta en su casa matriz con capacidad potencial de producció",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Ministros del Primer Tribunal Ambiental se inhabilitan en causas por proyecto El Alto tras publicación anticipada de decisión",
+      "url": "https://www.nuevamineria.com/revista/ministros-del-primer-tribunal-ambiental-se-inhabilitan-en-causas-por-proyecto-el-alto-tras-publicacion-anticipada-de-decision/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los integrantes titulares del organismo se apartaron de la tramitación luego de que el sitio web institucional publicara una nota que informaba el rechazo de medidas cautelares vinculadas a la iniciativa de Compañía Minera Nevada, filial de Barrick G",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
