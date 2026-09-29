@@ -1,24 +1,12 @@
 {
-  "fecha_generacion": "2026-09-28T15:38:02.296532-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-09-29T14:13:42.489456-03:00",
+  "total_alertas": 11,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Biobiochile.cl] Desastre en Tribunal Ambiental: ministros se inhabilitan tras filtrarse decisión sobre Pascua Lama 2.0",
-      "url": "https://www.terram.cl/biobiochile-cl-desastre-en-tribunal-ambiental-ministros-se-inhabilitan-tras-filtrarse-decision-sobre-pascua-lama-2-0/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los tres ministros titulares del Primer Tribunal Ambiental se inhabilitaron tras una polémica sobre la noticia de rechazo a medidas cautelares para el proyecto minero Prospección Minera El Alto, vinculado a Barrick Gold. El relator de la causa, exemp",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "SMA",
+      "fuente": "País Circular",
       "titular": "Corte Suprema y Tribunales Ambientales confirman multas de la SMA que suman más de $8.500 millones",
-      "url": "https://portal.sma.gob.cl/index.php/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
-      "fecha": "2026-09-28",
+      "url": "https://www.paiscircular.cl/medio-ambiente/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "Las sentencias dictadas por el máximo tribunal de la República y los Tribunales Ambientales rechazan los recursos presentados y ratifican las sanciones impuestas por la SMA en una serie de casos asociados a infracciones a Resoluciones de Calificación",
@@ -29,39 +17,123 @@
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "LyD critica baja ejecución de la inversión en los ministerios de Obras Públicas y Vivienda y pide que sea prioridad para 2027",
-      "url": "https://www.latercera.com/pulso/noticia/lyd-critica-baja-ejecucion-de-la-inversion-en-los-ministerios-de-obras-publicas-y-vivienda-y-pide-que-sea-prioridad-para-2027/",
-      "fecha": "2026-09-28",
+      "fuente": "Terram",
+      "titular": "[Revista Nueva Minería] Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
+      "url": "https://www.terram.cl/revista-nueva-mineria-tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La red de centros progresistas pide “al gobierno rectificar y priorizar efectivamente una agenda reactivadora donde la inversión pública, incluyendo la de los gobiernos regionales para que tengan un rol central\".",
+      "extracto": "El Primer Tribunal Ambiental rechazó la reclamación de la compañía contra la sanción aplicada por la SMA, asociada a una extracción de salmuera por sobre el límite autorizado y al incumplimiento de medidas contempladas en su Plan de Alerta Temprana. ",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Firma alemana SMA inaugura planta en su casa matriz con capacidad potencial de producción superior a 60 GW",
-      "url": "https://www.revistaei.cl/firma-alemana-sma-inaugura-planta-en-su-casa-matriz-con-capacidad-potencial-de-produccion-superior-a-60-gw/",
-      "fecha": "2026-09-28",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-14-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Pan de Azúcar",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-14-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-pan-de-azucar/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Desde la compañía mencionaron que el desarrollo de su nueva Gigawatt Factory busca responder a las necesidades de un mundo cada vez más electrificado. La entrada Firma alemana SMA inaugura planta en su casa matriz con capacidad potencial de producció",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-14-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Pan de Azúcar), el martes 29 de septiembre de 20",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Región Metropolitana: SMA aprueba Programa de Cumplimiento de Agrícola AASA Ltda. por más de $625 millones",
+      "url": "https://portal.sma.gob.cl/index.php/region-metropolitana-sma-aprueba-programa-de-cumplimiento-de-agricola-aasa-ltda-por-mas-de-625-millones/",
+      "fecha": "2026-09-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones del programa están orientadas a subsanar los incumplimientos ambientales cometidos por la empresa en los planteles de porcinos Campesino y Basal. El programa considera un plan de inversión de $625.101.000 pesos chilenos (aproximadamente ",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
+      "fuente": "La Tercera",
+      "titular": "Ministro Arrau descarta que retiro de la reforma de seguridad sea una derrota y apunta que “estamos viendo cuál es el mejor camino”",
+      "url": "https://www.latercera.com/nacional/noticia/ministro-arrau-descarta-que-retiro-de-la-reforma-de-seguridad-sea-una-derrota-y-apunta-que-estamos-viendo-cual-es-el-mejor-camino/",
+      "fecha": "2026-09-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El ministro de Seguridad apuntó que ha estado conversando con los senadores y que “avanzar en cualquier ley que le haga bien al Chile y en seguridad por supuesto que no es una derrota.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
       "fuente": "Nueva Minería",
-      "titular": "Ministros del Primer Tribunal Ambiental se inhabilitan en causas por proyecto El Alto tras publicación anticipada de decisión",
-      "url": "https://www.nuevamineria.com/revista/ministros-del-primer-tribunal-ambiental-se-inhabilitan-en-causas-por-proyecto-el-alto-tras-publicacion-anticipada-de-decision/",
+      "titular": "Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
+      "fecha": "2026-09-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Primer Tribunal Ambiental rechazó la reclamación de la compañía contra la sanción aplicada por la SMA, asociada a una extracción de salmuera por sobre el límite autorizado y al incumplimiento de medidas contempladas en su Plan de Alerta Temprana. ",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Dominga mantiene su rechazo: Andes Iron deja la Suprema y abre una nueva disputa ante el SEA",
+      "url": "https://www.nuevamineria.com/revista/dominga-mantiene-su-rechazo-andes-iron-deja-la-suprema-y-abre-una-nueva-disputa-ante-el-sea/",
+      "fecha": "2026-09-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La compañía afirmó que desistió de sus acciones judiciales para no obstaculizar solicitudes de invalidación contra el rechazo del Comité de Ministros. La decisión mantiene vigente la calificación ambiental desfavorable del proyecto, mientras se abre ",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Se caen los recursos de Dominga en la Corte Suprema y el proyecto queda rechazado",
+      "url": "https://codexverde.cl/se-caen-los-recursos-de-dominga-en-la-corte-suprema-y-el-proyecto-queda-rechazado/",
       "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los integrantes titulares del organismo se apartaron de la tramitación luego de que el sitio web institucional publicara una nota que informaba el rechazo de medidas cautelares vinculadas a la iniciativa de Compañía Minera Nevada, filial de Barrick G",
+      "extracto": "Andes Iron presentó un escrito formal ante el máximo tribunal para desistirse de todos los recursos legales interpuestos en contra del último rechazo del proyecto minero-portuario Dominga. La decisión judicial cierra el proceso iniciado por la empres",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-13-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Humos 3",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-13-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-humos-3/",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-13-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Humos 3), el martes 29 de septiembre de 2026, a ",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA pone en operación nueva planta para tecnologías de infraestructura energética",
+      "url": "https://www.portalminero.com/sma-pone-en-operacion-nueva-planta-para-tecnologias-de-infraestructura-energetica",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Gigawatt Factory contempla una capacidad de producción anual superior a 60 GW a plena utilización y una inversión aproximada de 80 millones de euros.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Senado",
+      "titular": "Tribunales ambientales listos para votarse en sala oficios que nominan",
+      "url": "https://www.senado.cl/comunicaciones/noticias/tribunales-ambientales-listos-para-votarse-en-sala-oficios-que-nominan",
+      "fecha": "2026-09-28",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunales Ambientales"
       ]
     }
   ]
