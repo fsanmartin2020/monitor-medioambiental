@@ -1,139 +1,78 @@
 {
-  "fecha_generacion": "2026-09-29T14:13:42.489456-03:00",
-  "total_alertas": 11,
+  "fecha_generacion": "2026-09-30T13:50:43.638780-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Corte Suprema y Tribunales Ambientales confirman multas de la SMA que suman más de $8.500 millones",
-      "url": "https://www.paiscircular.cl/medio-ambiente/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las sentencias dictadas por el máximo tribunal de la República y los Tribunales Ambientales rechazan los recursos presentados y ratifican las sanciones impuestas por la SMA en una serie de casos asociados a infracciones a Resoluciones de Calificación",
-      "keywords_detectadas": [
-        "SMA",
-        "Tribunales Ambientales",
-        "Corte Suprema"
-      ]
-    },
-    {
       "fuente": "Terram",
-      "titular": "[Revista Nueva Minería] Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
-      "url": "https://www.terram.cl/revista-nueva-mineria-tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
-      "fecha": "2026-09-29",
+      "titular": "[El Desconcierto] Mega línea eléctrica Itahue-Hualqui al Tribunal Ambiental: comunidades acusan daño a flora, fauna y suelos",
+      "url": "https://www.terram.cl/el-desconcierto-mega-linea-electrica-itahue-hualqui-al-tribunal-ambiental-comunidades-acusan-dano-a-flora-fauna-y-suelos/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental rechazó la reclamación de la compañía contra la sanción aplicada por la SMA, asociada a una extracción de salmuera por sobre el límite autorizado y al incumplimiento de medidas contempladas en su Plan de Alerta Temprana. ",
+      "extracto": "Comunidades del Maule y Biobío acudirán al Segundo Tribunal Ambiental tras el rechazo del Comité de Ministros a invalidar el megaproyecto. Fuente: El Desconcierto, 29 de septiembre de 2026.",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-14-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Pan de Azúcar",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-14-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-pan-de-azucar/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-14-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Pan de Azúcar), el martes 29 de septiembre de 20",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
       "fuente": "SMA",
-      "titular": "Región Metropolitana: SMA aprueba Programa de Cumplimiento de Agrícola AASA Ltda. por más de $625 millones",
-      "url": "https://portal.sma.gob.cl/index.php/region-metropolitana-sma-aprueba-programa-de-cumplimiento-de-agricola-aasa-ltda-por-mas-de-625-millones/",
-      "fecha": "2026-09-29",
+      "titular": "SMA habilita nuevo módulo en el SISAT y publica guía técnica para el control de olores en el sector pesquero",
+      "url": "https://portal.sma.gob.cl/index.php/sma-habilita-nuevo-modulo-en-el-sisat-y-publica-guia-tecnica-para-el-control-de-olores-en-el-sector-pesquero/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las acciones del programa están orientadas a subsanar los incumplimientos ambientales cometidos por la empresa en los planteles de porcinos Campesino y Basal. El programa considera un plan de inversión de $625.101.000 pesos chilenos (aproximadamente ",
+      "extracto": "• La plataforma informática permitirá a los titulares de plantas de harina, aceite de pescado y alimento para peces, catastrar sus instalaciones y presentar los reportes exigidos por el D.S. N°23/2024 del Ministerio del Medio Ambiente. La Superintend",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
       "fuente": "La Tercera",
-      "titular": "Ministro Arrau descarta que retiro de la reforma de seguridad sea una derrota y apunta que “estamos viendo cuál es el mejor camino”",
-      "url": "https://www.latercera.com/nacional/noticia/ministro-arrau-descarta-que-retiro-de-la-reforma-de-seguridad-sea-una-derrota-y-apunta-que-estamos-viendo-cual-es-el-mejor-camino/",
-      "fecha": "2026-09-29",
+      "titular": "Tribunal ambiental confirma multa de más de $4 mil millones contra Albemarle por sobreexplotar el Salar de Atacama",
+      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-confirma-multa-de-mas-de-4-mil-millones-contra-albemarle-por-sobreexplotar-el-salar-de-atacama/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El ministro de Seguridad apuntó que ha estado conversando con los senadores y que “avanzar en cualquier ley que le haga bien al Chile y en seguridad por supuesto que no es una derrota.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental rechazó la reclamación de la compañía contra la sanción aplicada por la SMA, asociada a una extracción de salmuera por sobre el límite autorizado y al incumplimiento de medidas contempladas en su Plan de Alerta Temprana. ",
+      "extracto": "Corte rechazó la reclamación que interpuso la compañía estadounidense en contra de la sanción que le impuso la Superintendencia de Medio Ambiente en octubre pasado.",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Dominga mantiene su rechazo: Andes Iron deja la Suprema y abre una nueva disputa ante el SEA",
-      "url": "https://www.nuevamineria.com/revista/dominga-mantiene-su-rechazo-andes-iron-deja-la-suprema-y-abre-una-nueva-disputa-ante-el-sea/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La compañía afirmó que desistió de sus acciones judiciales para no obstaculizar solicitudes de invalidación contra el rechazo del Comité de Ministros. La decisión mantiene vigente la calificación ambiental desfavorable del proyecto, mientras se abre ",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Se caen los recursos de Dominga en la Corte Suprema y el proyecto queda rechazado",
-      "url": "https://codexverde.cl/se-caen-los-recursos-de-dominga-en-la-corte-suprema-y-el-proyecto-queda-rechazado/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Andes Iron presentó un escrito formal ante el máximo tribunal para desistirse de todos los recursos legales interpuestos en contra del último rechazo del proyecto minero-portuario Dominga. La decisión judicial cierra el proceso iniciado por la empres",
-      "keywords_detectadas": [
-        "Corte Suprema"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-13-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Humos 3",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-13-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-humos-3/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-13-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» (CES Humos 3), el martes 29 de septiembre de 2026, a ",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA pone en operación nueva planta para tecnologías de infraestructura energética",
-      "url": "https://www.portalminero.com/sma-pone-en-operacion-nueva-planta-para-tecnologias-de-infraestructura-energetica",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Gigawatt Factory contempla una capacidad de producción anual superior a 60 GW a plena utilización y una inversión aproximada de 80 millones de euros.",
+      "fuente": "Diario Constitucional",
+      "titular": "SMA instruye a proyectos de energías renovables adoptar medidas preventivas para proteger el Desierto Florido",
+      "url": "https://www.diarioconstitucional.cl/2026/09/29/sma-instruye-a-proyectos-de-energias-renovables-adoptar-medidas-preventivas-para-proteger-el-desierto-florido/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Senado",
-      "titular": "Tribunales ambientales listos para votarse en sala oficios que nominan",
-      "url": "https://www.senado.cl/comunicaciones/noticias/tribunales-ambientales-listos-para-votarse-en-sala-oficios-que-nominan",
-      "fecha": "2026-09-28",
+      "fuente": "País Circular",
+      "titular": "La eficiencia en la gestión del SEA no implica descansar en evaluaciones ambientales menos  rigurosas",
+      "url": "https://www.paiscircular.cl/opinion/la-eficiencia-en-la-gestion-del-sea-no-implica-descansar-en-evaluaciones-ambientales-menos-rigurosas/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap",
-      "extracto": "",
+      "metodo_extraccion": "rss",
+      "extracto": "\"Entre 2021 y 2026, la mitad de los proyectos ingresados ha terminado con una calificación favorable. La otra mitad concluye con inadmisibilidad, término anticipado, rechazo o desistimiento del titular\". The post La eficiencia en la gestión del SEA n",
       "keywords_detectadas": [
-        "Tribunales Ambientales"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal Ambiental rechazó reclamación de Municipio de Hualpén contra SMA por aumento de multa a vertedero ubicado dentro del humedal Vasco da Gama",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-reclamacion-de-municipio-de-hualpen-contra-sma-que-solicitaba-aumentar-multa-a-vertedero-ubicado-dentro-de-humedal-vasco-da-gama/",
+      "fecha": "2026-09-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Municipalidad solicitó al Tribunal aumentar la multa y recalificar como gravísima la infracción por incumplimiento de medidas en el vertedero, lo que habría afectado el humedal Vasco da Gama en la comuna de Hualpén. El Tercer Tribunal Ambiental re",
+      "keywords_detectadas": [
+        "SMA",
+        "Tribunal Ambiental"
       ]
     }
   ]

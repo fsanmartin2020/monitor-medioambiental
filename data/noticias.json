@@ -1,335 +1,367 @@
 {
-  "fecha_actualizacion": "2026-09-29T14:13:42.472990-03:00",
-  "total": 41,
+  "fecha_actualizacion": "2026-09-30T13:50:43.621322-03:00",
+  "total": 45,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Corte Suprema y Tribunales Ambientales confirman multas de la SMA que suman más de $8.500 millones",
-      "url": "https://www.paiscircular.cl/medio-ambiente/corte-suprema-y-tribunales-ambientales-confirman-multas-de-la-sma-que-suman-mas-de-8-500-millones/",
-      "fecha": "2026-09-29",
+      "titular": "Acuerdo de Producción Limpia de la Construcción: empresas redujeron hasta 41% sus costos de gestión de residuos y más de 20% su consumo de agua",
+      "url": "https://www.paiscircular.cl/economia-circular/acuerdo-de-produccion-limpia-de-la-construccion-empresas-redujeron-hasta-41-sus-costos-de-gestion-de-residuos-y-mas-de-20-su-consumo-de-agua/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "A una semana del Chile Carbon Forum 2026, ministra Ximena Rincón y presidente de IETA, Dirk Forrister, encabezan la agenda",
-      "url": "https://www.paiscircular.cl/transicion-energetica/ministra-ximena-rincon-encabeza-agenda-del-chile-carbon-forum/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "LANZAN VIII PREMIOS CERO BASURA CON CATEGORÍAS REFORMULADAS PARA RESPONDER A LOS NUEVOS DESAFÍOS  DE LA ECONOMÍA CIRCULAR",
-      "url": "https://www.chiledesarrollosustentable.cl/lanzan-viii-premios-cero-basura-con-categorias-reformuladas-para-responder-a-los-nuevos-desafios-de-la-economia-circular/?utm_source=rss&utm_medium=rss&utm_campaign=lanzan-viii-premios-cero-basura-con-categorias-reformuladas-para-responder-a-los-nuevos-desafios-de-la-economia-circular",
-      "fecha": "2026-09-29",
+      "titular": "Abogada María Pía Vodanovic, por debate sobre movimiento transfronterizo de residuos: “En esa conjunción ‘o’ versus ‘y’ se juega todo el sentido de la norma”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/abogada-maria-pia-vodanovic-por-debate-sobre-movimiento-transfronterizo-de-residuos-en-esa-conjuncion-o-versus-y-se-juega-todo-el-sentido-de-la-norma/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Revelan que capibaras vivían en el desierto de Atacama hace 8,8 millones de años",
-      "url": "https://codexverde.cl/revelan-que-capibaras-vivian-en-el-desierto-de-atacama-hace-88-millones-de-anos/",
+      "titular": "Casaideas: primer retail de Latinoamérica en certificar sus productos como Libres de Testeo en Animales",
+      "url": "https://codexverde.cl/casaideas-primer-retail-de-latinoamerica-en-certificar-sus-productos-como-libres-de-testeo-en-animales/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las mariposas, con sus alas, crean una potente ilusión óptica para sortear depredadores",
+      "url": "https://efeverde.com/mariposas-con-sus-alas-potente-ilusion-optica-para-sortear-depredadores/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La catalogación de especies y los palos en la rueda. Por Pedro Brufao Curiel",
+      "url": "https://efeverde.com/la-catalogacion-de-especies-y-los-palos-en-la-rueda-por-pedro-brufao-curiel/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Energías verdes y desperdicio alimentario en Mangas Verdes 499",
+      "url": "https://efeverde.com/energias-verdes-desperdicio-alimentario-mangas-verdes-499/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Bosques degradados. Por May",
+      "url": "https://efeverde.com/bosques-degradados-may-mundomay/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Gobierno de Navarra actualiza tras más de un siglo su catálogo de montes públicos, con 693 espacios",
+      "url": "https://efeverde.com/gobierno-navarra-actualiza-catalogo-de-montes-publicos/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Aagesen defiende el Pacto Climático: «la emergencia climática no entiende de fronteras»",
+      "url": "https://efeverde.com/aagesen-defiende-el-pacto-climatico-la-emergencia-climatica-no-entiende-de-fronteras/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Estudio muestra que los olivares pueden tener una biodiversidad comparable a zonas húmedas",
+      "url": "https://efeverde.com/estudio-muestra-que-los-olivares-pueden-tener-una-biodiversidad-comparable-a-zonas-humedas/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "China: donde las piedras se convierten en destinos turísticos. Por Arturo Crosby",
+      "url": "https://efeverde.com/china-donde-las-piedras-se-convierten-en-destinos-turisticos-por-arturo-crosby/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Copernicus alerta de que la subida del nivel del mar en el Mediterráneo se acelera",
+      "url": "https://efeverde.com/copernicus-alerta-de-que-la-subida-del-nivel-del-mar-en-el-mediterraneo-se-acelera/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ya vi esta película de la IA y sé cómo acaba. Por Marcos Rupérez",
+      "url": "https://efeverde.com/ya-vi-esta-pelicula-de-la-ia-y-se-como-acaba-por-marcos-ruperez/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Unos 25,8 millones de menores en Latinoamérica sufren el fenómeno El Niño, alerta Unicef",
+      "url": "https://efeverde.com/unos-258-millones-de-menores-en-latinoamerica-sufren-el-fenomeno-el-nino-alerta-unicef/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los océanos sumaron en 2025 calor adicional igual a 40 veces el consumo mundial de energía",
+      "url": "https://efeverde.com/los-oceanos-sumaron-en-2025-calor-adicional-igual-a-40-veces-el-consumo-mundial-de-energia/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Gobierno retoma el Pacto Climático con las ausencias de PP, Junts y Podemos",
+      "url": "https://efeverde.com/el-gobierno-retoma-el-pacto-climatico-con-las-ausencias-de-pp-junts-y-podemos/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La contaminación cruza las fronteras: un 40 por ciento de la población mundial está expuesta a niveles nocivos de ozono",
+      "url": "https://efeverde.com/la-contaminacion-cruza-las-fronteras-un-40-por-ciento-de-la-poblacion-mundial-esta-expuesta-a-niveles-nocivos-de-ozono/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "«Misses y medusas», el libro que reconstruye cómo se pudrió el Mar Menor",
+      "url": "https://efeverde.com/misses-y-medusas-el-libro-que-reconstruye-como-se-pudrio-el-mar-menor/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Constitucional] TC rechaza inaplicabilidad de Empresa Portuaria San Antonio para recurrir de queja contra fallo sobre humedal Ojos de Mar",
+      "url": "https://www.terram.cl/diario-constitucional-tc-rechaza-inaplicabilidad-de-empresa-portuaria-san-antonio-para-recurrir-de-queja-contra-fallo-sobre-humedal-ojos-de-mar/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Mega línea eléctrica Itahue-Hualqui al Tribunal Ambiental: comunidades acusan daño a flora, fauna y suelos",
+      "url": "https://www.terram.cl/el-desconcierto-mega-linea-electrica-itahue-hualqui-al-tribunal-ambiental-comunidades-acusan-dano-a-flora-fauna-y-suelos/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Mostrador] El calor extremo se intensifica en Sudamérica: Chile enfrenta otra cara de El Niño",
+      "url": "https://www.terram.cl/el-mostrador-el-calor-extremo-se-intensifica-en-sudamerica-chile-enfrenta-otra-cara-de-el-nino/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] La alimentación de las ballenas determinaría su exposición a contaminantes en la Patagonia chilena",
+      "url": "https://www.terram.cl/cooperativa-ciencia-la-alimentacion-de-las-ballenas-determinaria-su-exposicion-a-contaminantes-en-la-patagonia-chilena/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Municipalidad de Arica] Municipalidad refuerza acciones para preservar al Picaflor de Arica",
+      "url": "https://www.terram.cl/municipalidad-de-arica-municipalidad-refuerza-acciones-para-preservar-al-picaflor-de-arica/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Boletín N°72 de Jurisprudencia Ambiental",
+      "url": "https://3ta.cl/noticias/boletin-n72-de-jurisprudencia-ambiental/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Tecnico de apoyo regional escalafon tecnico a contrata asimilado a grado 17 de la e u s area de pesquerias of licanten dr maule",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/tecnico-de-apoyo-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-17-de-la-e-u-s-area-de-pesquerias-of-licanten-dr-maule/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA habilita nuevo módulo en el SISAT y publica guía técnica para el control de olores en el sector pesquero",
+      "url": "https://portal.sma.gob.cl/index.php/sma-habilita-nuevo-modulo-en-el-sisat-y-publica-guia-tecnica-para-el-control-de-olores-en-el-sector-pesquero/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "MOP informa recuperación hídrica: caudales estimados de los ríos aumentan 82% en promedio respecto de año 2025",
+      "url": "https://dga.mop.gob.cl/mop-informa-recuperacion-hidrica-caudales-estimados-de-los-rios-aumentan-82-en-promedio-respecto-de-ano-2025/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comunidad Diaguita Paytepen de Alto del Carmen lanza proyecto de termosolares financiado por el Fondo de Protección Ambiental",
+      "url": "https://mma.gob.cl/comunidad-diaguita-paytepen-de-alto-del-carmen-lanza-proyecto-de-termosolares-financiado-por-el-fondo-de-proteccion-ambiental/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Centro de Gestión de Residuos se instalará en Arica",
+      "url": "https://mma.gob.cl/centro-de-gestion-de-residuos-se-instalara-en-arica/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente se adjudica fondo internacional para gestionar la mitigación de emisiones de Carbono Negro",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-adjudica-fondo-internacional-para-gestionar-la-mitigacion-de-emisiones-de-carbono-negro/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Tribunal ambiental confirma multa de más de $4 mil millones contra Albemarle por sobreexplotar el Salar de Atacama",
+      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-confirma-multa-de-mas-de-4-mil-millones-contra-albemarle-por-sobreexplotar-el-salar-de-atacama/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Ximena Ossandón (RN) señala que eventual retiro de la reforma de Seguridad ocurrirá si hay nueva propuesta “consensuada por más senadores”",
+      "url": "https://www.latercera.com/politica/noticia/ximena-ossandon-rn-senala-que-eventual-retiro-de-la-reforma-de-seguridad-ocurrira-si-hay-nueva-propuesta-consensuada-por-mas-senadores/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "SMA instruye a proyectos de energías renovables adoptar medidas preventivas para proteger el Desierto Florido",
+      "url": "https://www.diarioconstitucional.cl/2026/09/29/sma-instruye-a-proyectos-de-energias-renovables-adoptar-medidas-preventivas-para-proteger-el-desierto-florido/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Cadem: Sólo 24% considera útil la interpelación al canciller Francisco Pérez Mackenna y el 44% evalúa positivamente el desempeño del ministro",
+      "url": "https://adprensa.cl/solo-24-considera-util-la-interpelacion-al-canciller-francisco-perez-mackenna-y-el-44-evalua-positivamente-el-desempeno-del-ministro/",
+      "fecha": "2026-09-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La eficiencia en la gestión del SEA no implica descansar en evaluaciones ambientales menos  rigurosas",
+      "url": "https://www.paiscircular.cl/opinion/la-eficiencia-en-la-gestion-del-sea-no-implica-descansar-en-evaluaciones-ambientales-menos-rigurosas/",
       "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Lanzan programa gratuito para fortalecer conocimientos sobre agua y resiliencia hídrica en la cuenca del Maipo",
-      "url": "https://www.cr2.cl/lanzan-programa-gratuito-para-fortalecer-conocimientos-sobre-agua-y-resiliencia-hidrica-en-la-cuenca-del-maipo/",
+      "titular": "Las tormentas eléctricas podrían ser más frecuentes esta primavera debido a El Niño (El Mercurio)",
+      "url": "https://www.cr2.cl/las-tormentas-electricas-podrian-ser-mas-frecuentes-esta-primavera-debido-a-el-nino-el-mercurio/",
       "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Robert Vautard, climatólogo: “No podremos revertir el calentamiento y volver al estado normal del siglo XX, pero podemos detenerlo”",
-      "url": "https://www.cr2.cl/robert-vautard-climatologo-no-podremos-revertir-el-calentamiento-y-volver-al-estado-normal-del-siglo-xx-pero-podemos-detenerlo/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descubren cómo un clavel en peligro de extinción sobrevive a la sequía en Doñana",
-      "url": "https://efeverde.com/descubren-como-clavel-en-peligro-de-extincion-sobrevive-a-sequia-en-donana/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Día de la Concienciación sobre el Desperdicio y Pérdida de Alimentos. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/dia-de-la-concienciacion-sobre-el-desperdicio-y-perdida-de-alimentos-por-victor-solis-visoor/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El sector de la biotecnología advierte: Los tiempos de la regulación frenan la innovación",
-      "url": "https://efeverde.com/sector-de-biotecnologia-advierte-los-tiempos-de-regulacion-frenan-innovacion/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno amplía la campaña contra los incendios forestales hasta el 31 de octubre",
-      "url": "https://efeverde.com/gobierno-amplia-campana-contra-incendios-forestales/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Detectan metales tóxicos en personas que inhalaron en 2023 el humo de los incendios forestales en Hawái",
-      "url": "https://efeverde.com/detectan-metales-toxicos-en-personas-que-inhalaron-en-2023-humo-incendios-forestales-en-hawai/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Denuncian en Gijón la presencia de «disparados» niveles de benceno y partículas en el aire",
-      "url": "https://efeverde.com/denuncian-en-gijon-disparados-niveles-de-benceno-y-particulas-en-aire/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Andes Iron desiste de sus recursos por Dominga ante la Suprema y la presión se traslada al gobierno de Kast",
-      "url": "https://www.terram.cl/el-desconcierto-andes-iron-desiste-de-sus-recursos-por-dominga-ante-la-suprema-y-la-presion-se-traslada-al-gobierno-de-kast/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Revista Nueva Minería] Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
-      "url": "https://www.terram.cl/revista-nueva-mineria-tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Mostrador] El océano que Chile puso en pausa (II): la comunidad que decidió proteger para seguir pescando",
-      "url": "https://www.terram.cl/el-mostrador-el-oceano-que-chile-puso-en-pausa-ii-la-comunidad-que-decidio-proteger-para-seguir-pescando/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa] Suspenden la cuestionada fiesta electrónica en el desierto florido",
-      "url": "https://www.terram.cl/cooperativa-suspenden-la-cuestionada-fiesta-electronica-en-el-desierto-florido/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Ovallino] Evalúan eventual impacto tras vertimiento minero en afluente del estero de Punitaqui",
-      "url": "https://www.terram.cl/el-ovallino-evaluan-eventual-impacto-tras-vertimiento-minero-en-afluente-del-estero-de-punitaqui/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Gobierno del Maule rechaza otro proyecto de energía en la región: “No cumplen nuestros estándares”",
-      "url": "https://www.terram.cl/el-desconcierto-gobierno-del-maule-rechaza-otro-proyecto-de-energia-en-la-region-no-cumplen-nuestros-estandares/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Escudo de las Américas, minerales críticos y el riesgo para la defensa territorial",
-      "url": "https://www.fima.cl/2026/09/29/escudo-de-las-americas-minerales-criticos-y-el-riesgo-para-la-defensa-territorial/",
+      "titular": "“Las olas de calor se están volviendo más comunes”: Experta advierte lo que viene para Chile (Megatiempo)",
+      "url": "https://www.cr2.cl/62684-2/",
       "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-14-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Pan de Azúcar",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-14-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-pan-de-azucar/",
+      "titular": "Tribunal Ambiental rechazó reclamación de Municipio de Hualpén contra SMA por aumento de multa a vertedero ubicado dentro del humedal Vasco da Gama",
+      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-reclamacion-de-municipio-de-hualpen-contra-sma-que-solicitaba-aumentar-multa-a-vertedero-ubicado-dentro-de-humedal-vasco-da-gama/",
       "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion interno externo para proveer el cargo de profesional de apoyo del area juridica escalafon profesional a contrata asimilado a grado 15 de la e u s oficina de constitucion",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-profesional-de-apoyo-del-area-juridica-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-oficina-de-constitucion/",
+      "titular": "Proceso de seleccion interno externo para proveer el cargo de profesional con funciones de encargadoa del area del departamento de las personas a contrata asimilado a grado 14 de la e u s d",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-interno-externo-para-proveer-el-cargo-de-profesional-con-funciones-de-encargadoa-del-area-del-departamento-de-las-personas-a-contrata-asimilado-a-grado-14-de-la-e-u-s-d/",
       "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "sitemap"
     },
     {
       "fuente": "CONAF",
-      "titular": "Actualización del catastro vegetacional de la Región de Coquimbo identifica 138 mil hectáreas de bosque nativo",
-      "url": "https://www.conaf.cl/actualizacion-del-catastro-vegetacional-de-la-region-de-coquimbo-identifica-138-mil-hectareas-de-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=actualizacion-del-catastro-vegetacional-de-la-region-de-coquimbo-identifica-138-mil-hectareas-de-bosque-nativo",
+      "titular": "CONAF realiza nuevo monitoreo de fauna silvestre en el Parque Nacional Nonguén",
+      "url": "https://www.conaf.cl/conaf-realiza-nuevo-monitoreo-de-fauna-silvestre-en-el-parque-nacional-nonguen/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-realiza-nuevo-monitoreo-de-fauna-silvestre-en-el-parque-nacional-nonguen",
       "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Región Metropolitana: SMA aprueba Programa de Cumplimiento de Agrícola AASA Ltda. por más de $625 millones",
-      "url": "https://portal.sma.gob.cl/index.php/region-metropolitana-sma-aprueba-programa-de-cumplimiento-de-agricola-aasa-ltda-por-mas-de-625-millones/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Planes de Descontaminación: Más de 2 mil viviendas patrulladas y baja histórica de episodios críticos desde su vigencia",
-      "url": "https://mma.gob.cl/planes-de-descontaminacion-mas-de-2-mil-viviendas-patrulladas-y-baja-historica-de-episodios-criticos-desde-su-vigencia/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Emol",
-      "titular": "Arrau dice que se está evaluando \"el mejor camino\" para la reforma de seguridad",
-      "url": "https://www.emol.com/noticias/Nacional/2026/09/29/1212698/arrau-reforma-seguridad-fracaso.html",
-      "fecha": "2026-09-29",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Ministro Arrau descarta que retiro de la reforma de seguridad sea una derrota y apunta que “estamos viendo cuál es el mejor camino”",
-      "url": "https://www.latercera.com/nacional/noticia/ministro-arrau-descarta-que-retiro-de-la-reforma-de-seguridad-sea-una-derrota-y-apunta-que-estamos-viendo-cual-es-el-mejor-camino/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "Alvarado calma los ánimos por retiro de reforma de seguridad: \"Estamos esperando la propuesta de los senadores\"",
-      "url": "https://www.eldinamo.cl/politica/2026/09/29/alvarado-calma-los-animos-por-retiro-de-reforma-de-seguridad-estamos-esperando-la-propuesta-de-los-senadores/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental confirma multa de 4.713 UTA a Albemarle por incumplimientos en el Salar de Atacama",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-confirma-multa-de-4-713-uta-a-albemarle-por-incumplimientos-en-el-salar-de-atacama/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Dominga mantiene su rechazo: Andes Iron deja la Suprema y abre una nueva disputa ante el SEA",
-      "url": "https://www.nuevamineria.com/revista/dominga-mantiene-su-rechazo-andes-iron-deja-la-suprema-y-abre-una-nueva-disputa-ante-el-sea/",
-      "fecha": "2026-09-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Biblioteca de los Sueños: lanzan en Renca concurso que invita a los colegios de la Región Metropolitana a reciclar latas para ganar una biblioteca",
-      "url": "https://www.paiscircular.cl/economia-circular/biblioteca-de-los-suenos-lanzan-en-renca-concurso-que-invita-a-los-colegios-de-la-region-metropolitana-a-reciclar-latas-para-ganar-una-biblioteca/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Se caen los recursos de Dominga en la Corte Suprema y el proyecto queda rechazado",
-      "url": "https://codexverde.cl/se-caen-los-recursos-de-dominga-en-la-corte-suprema-y-el-proyecto-queda-rechazado/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Chile ya cuenta con su primer Plan de Adaptación al Cambio Climático para los Recursos Hídricos",
-      "url": "https://codexverde.cl/chile-ya-cuenta-con-su-primer-plan-de-adaptacion-al-cambio-climatico-para-los-recursos-hidricos/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Inversión de 4.600 millones frente a CO2 y agua, el dilema de Zamora y su centro de datos",
-      "url": "https://efeverde.com/inversion-de-4600-millones-frente-a-co2-y-agua-el-dilema-de-zamora-y-su-centro-de-datos/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Defender la defensa: una guía para enfrentar las acciones judiciales que buscan silenciar la participación pública",
-      "url": "https://www.fima.cl/2026/09/28/defender-la-defensa-una-guia-para-enfrentar-las-acciones-judiciales-que-buscan-silenciar-la-participacion-publica/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Kast insiste con debilitar la legislación ambiental",
-      "url": "https://www.fima.cl/2026/09/28/kast-insiste-con-debilitar-la-legislacion-ambiental/",
-      "fecha": "2026-09-28",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-13-2026 «Australis Mar S.A con Superintendencia del Medio Ambiente» – CES Humos 3",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-13-2026-australis-mar-s-a-con-superintendencia-del-medio-ambiente-ces-humos-3/",
-      "fecha": "2026-09-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF capacitó a 76 soldados de la Región de Los Lagos en combate de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-capacito-a-76-soldados-de-la-region-de-los-lagos-en-combate-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-capacito-a-76-soldados-de-la-region-de-los-lagos-en-combate-de-incendios-forestales",
-      "fecha": "2026-09-28",
+      "titular": "CONAF Ñuble inyectará 700 empleos adicionales para reforzar prevención de incendios forestales",
+      "url": "https://www.conaf.cl/conaf-nuble-inyectara-700-empleos-adicionales-para-reforzar-prevencion-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-inyectara-700-empleos-adicionales-para-reforzar-prevencion-de-incendios-forestales",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio ambiente se reúne con ASIVA para trabajar en una alianza público- privada por la acción climática regional",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-con-asiva-para-trabajar-en-una-alianza-publico-privada-por-la-accion-climatica-regional/",
-      "fecha": "2026-09-28",
+      "titular": "Con éxito se conmemora el Día Internacional de Limpieza de Playas en el sector del Faro Monumental de La Serena",
+      "url": "https://mma.gob.cl/con-exito-se-conmemora-el-dia-internacional-de-limpieza-de-playas-en-el-sector-del-faro-monumental-de-la-serena/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Secretaría Ejecutiva de Residuos priorizará a la Provincia de Última Esperanza para avanzar implementación de Relleno Sanitario",
-      "url": "https://mma.gob.cl/secretaria-ejecutiva-de-residuos-priorizara-a-la-provincia-de-ultima-esperanza-para-avanzar-implementacion-de-relleno-sanitario/",
-      "fecha": "2026-09-28",
+      "titular": "Investigación escolar busca reproducir y conservar el lucumillo en Escuela San Rafael de Pan de Azúcar",
+      "url": "https://mma.gob.cl/investigacion-escolar-busca-reproducir-y-conservar-el-lucumillo-en-escuela-san-rafael-de-pan-de-azucar/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Portal Minero",
-      "titular": "SMA pone en operación nueva planta para tecnologías de infraestructura energética",
-      "url": "https://www.portalminero.com/sma-pone-en-operacion-nueva-planta-para-tecnologias-de-infraestructura-energetica",
-      "fecha": "2026-09-28",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Puchuncaví culmina programa internacional de compostaje domiciliario con positivo balance y alta participación comunitaria",
+      "url": "https://mma.gob.cl/puchuncavi-culmina-programa-internacional-de-compostaje-domiciliario-con-positivo-balance-y-alta-participacion-comunitaria/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Senado",
-      "titular": "Tribunales ambientales listos para votarse en sala oficios que nominan",
-      "url": "https://www.senado.cl/comunicaciones/noticias/tribunales-ambientales-listos-para-votarse-en-sala-oficios-que-nominan",
-      "fecha": "2026-09-28",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo visita Red de Alimentos y detalla avance de estrategia para reducir pérdidas y desperdicios",
+      "url": "https://mma.gob.cl/ministra-toledo-visita-red-de-alimentos-y-detalla-avance-de-estrategia-para-reducir-perdidas-y-desperdicios/",
+      "fecha": "2026-09-29",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "rss"
     }
   ]
 }
