@@ -1,78 +1,79 @@
 {
-  "fecha_generacion": "2026-09-30T13:50:43.638780-03:00",
+  "fecha_generacion": "2026-10-01T14:31:53.972921-03:00",
   "total_alertas": 6,
   "alertas": [
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Mega línea eléctrica Itahue-Hualqui al Tribunal Ambiental: comunidades acusan daño a flora, fauna y suelos",
-      "url": "https://www.terram.cl/el-desconcierto-mega-linea-electrica-itahue-hualqui-al-tribunal-ambiental-comunidades-acusan-dano-a-flora-fauna-y-suelos/",
-      "fecha": "2026-09-30",
+      "titular": "[Mundo Acuícola] Australis lleva al Tribunal Ambiental dos causas que suman 6.954 toneladas de sobreproducción",
+      "url": "https://www.terram.cl/mundo-acuicola-australis-lleva-al-tribunal-ambiental-dos-causas-que-suman-6-954-toneladas-de-sobreproduccion/",
+      "fecha": "2026-10-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Comunidades del Maule y Biobío acudirán al Segundo Tribunal Ambiental tras el rechazo del Comité de Ministros a invalidar el megaproyecto. Fuente: El Desconcierto, 29 de septiembre de 2026.",
+      "extracto": "​Las reclamaciones involucran a los CES Humos 3, en Aysén, y Pan de Azúcar, en Magallanes, cuyos cargos suman 6.954 toneladas de sobreproducción en cuatro ciclos productivos. La controversia se centra en si las reducciones comprometidas en los Progra",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA habilita nuevo módulo en el SISAT y publica guía técnica para el control de olores en el sector pesquero",
-      "url": "https://portal.sma.gob.cl/index.php/sma-habilita-nuevo-modulo-en-el-sisat-y-publica-guia-tecnica-para-el-control-de-olores-en-el-sector-pesquero/",
-      "fecha": "2026-09-30",
+      "fuente": "Terram",
+      "titular": "[CNN] Rechazos, respaldo de tribunales ambientales y una querella por cohecho: Cronología del proyecto Dominga y qué significa el retiro de recursos de Andes Iron tras trece años",
+      "url": "https://www.terram.cl/cnn-rechazos-respaldo-de-tribunales-ambientales-y-una-querella-por-cohecho-cronologia-del-proyecto-dominga-y-que-significa-el-retiro-de-recursos-de-andes-iron-tras-trece-anos/",
+      "fecha": "2026-10-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "• La plataforma informática permitirá a los titulares de plantas de harina, aceite de pescado y alimento para peces, catastrar sus instalaciones y presentar los reportes exigidos por el D.S. N°23/2024 del Ministerio del Medio Ambiente. La Superintend",
+      "extracto": "Andes Iron abrió un nuevo capítulo en la extensa tramitación del proyecto minero-portuario Dominga al desistirse de los recursos de casación y queja que mantenía ante la Corte Suprema. Fuente: CNN Chile, 30 de septiembre de 2026.",
       "keywords_detectadas": [
-        "SMA"
+        "Tribunales Ambientales"
       ]
     },
     {
       "fuente": "La Tercera",
-      "titular": "Tribunal ambiental confirma multa de más de $4 mil millones contra Albemarle por sobreexplotar el Salar de Atacama",
-      "url": "https://www.latercera.com/pulso/noticia/tribunal-ambiental-confirma-multa-de-mas-de-4-mil-millones-contra-albemarle-por-sobreexplotar-el-salar-de-atacama/",
-      "fecha": "2026-09-30",
+      "titular": "La millonaria multa que el Tribunal Ambiental dictó contra el Autódromo de Codegua por infringir la norma de ruidos",
+      "url": "https://www.latercera.com/el-deportivo/noticia/la-millonaria-multa-que-el-tribunal-ambiental-dicto-contra-el-autodromo-de-codegua-por-infringir-la-norma-de-ruidos/",
+      "fecha": "2026-10-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Corte rechazó la reclamación que interpuso la compañía estadounidense en contra de la sanción que le impuso la Superintendencia de Medio Ambiente en octubre pasado.",
+      "extracto": "La Segunda Sala del organismo rechazó la reclamación realizada por la empresa a cargo de la administración del recinto.",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "SMA instruye a proyectos de energías renovables adoptar medidas preventivas para proteger el Desierto Florido",
-      "url": "https://www.diarioconstitucional.cl/2026/09/29/sma-instruye-a-proyectos-de-energias-renovables-adoptar-medidas-preventivas-para-proteger-el-desierto-florido/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
+      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
+      "fecha": "2026-10-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Infraestructura, logística, trazabilidad y nuevos mercados aparecen entre las condiciones necesarias para profundizar la economía circular en el sector. La entrada Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos minero",
       "keywords_detectadas": [
-        "SMA"
+        "Ley REP"
       ]
     },
     {
       "fuente": "País Circular",
-      "titular": "La eficiencia en la gestión del SEA no implica descansar en evaluaciones ambientales menos  rigurosas",
-      "url": "https://www.paiscircular.cl/opinion/la-eficiencia-en-la-gestion-del-sea-no-implica-descansar-en-evaluaciones-ambientales-menos-rigurosas/",
-      "fecha": "2026-09-29",
+      "titular": "Tres años de la Ley REP para envases: avances y desafíos para cerrar el círculo",
+      "url": "https://www.paiscircular.cl/opinion/tres-anos-de-la-ley-rep-para-envases-avances-y-desafios-para-cerrar-el-circulo/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "\"Entre 2021 y 2026, la mitad de los proyectos ingresados ha terminado con una calificación favorable. La otra mitad concluye con inadmisibilidad, término anticipado, rechazo o desistimiento del titular\". The post La eficiencia en la gestión del SEA n",
+      "extracto": "\"La experiencia de otros países de la región confirma que es posible alcanzar altos niveles de circularidad cuando existe una articulación sostenida entre industria, autoridades, gestores, recicladores y consumidores. Una expresión concreta de esta c",
       "keywords_detectadas": [
-        "SEA"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal Ambiental rechazó reclamación de Municipio de Hualpén contra SMA por aumento de multa a vertedero ubicado dentro del humedal Vasco da Gama",
-      "url": "https://3ta.cl/noticias/tribunal-ambiental-rechazo-reclamacion-de-municipio-de-hualpen-contra-sma-que-solicitaba-aumentar-multa-a-vertedero-ubicado-dentro-de-humedal-vasco-da-gama/",
-      "fecha": "2026-09-29",
+      "fuente": "SMA",
+      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra consorcio Santa Marta S.A. por más de 2.700 UTA tras incumplimientos en su RCA y contingencia operacional",
+      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-consorcio-santa-marta-s-a-por-mas-de-2-700-uta-tras-incumplimientos-en-su-rca-y-contingencia-operacional/",
+      "fecha": "2026-09-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Municipalidad solicitó al Tribunal aumentar la multa y recalificar como gravísima la infracción por incumplimiento de medidas en el vertedero, lo que habría afectado el humedal Vasco da Gama en la comuna de Hualpén. El Tercer Tribunal Ambiental re",
+      "extracto": "El órgano jurisdiccional rechazó en todas sus partes la reclamación interpuesta por la empresa, dejando firme la sanción económica de 2.771 UTA impuesta por la Superintendencia del Medio Ambiente por infracciones relativas a la operación del Relleno ",
       "keywords_detectadas": [
         "SMA",
-        "Tribunal Ambiental"
+        "Tribunal Ambiental",
+        "RCA"
       ]
     }
   ]
