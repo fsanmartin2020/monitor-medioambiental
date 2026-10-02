@@ -1,293 +1,213 @@
 {
-  "fecha_actualizacion": "2026-10-01T14:31:53.957066-03:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-10-02T13:43:07.939872-03:00",
+  "total": 26,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Con exitoso programa: Municipios de la Región Metropolitana recuperan más de 3.200 toneladas de Neumáticos Fuera de Uso en dos años",
-      "url": "https://www.paiscircular.cl/economia-circular/con-exitoso-programa-municipios-de-la-region-metropolitana-recuperan-mas-de-3-200-toneladas-de-neumaticos-fuera-de-uso-en-dos-anos/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Estudio revela brecha entre mapas de amenaza y la planificación comunal frente a desastres",
-      "url": "https://codexverde.cl/estudio-revela-brecha-entre-mapas-de-amenaza-y-la-planificacion-comunal-frente-a-desastres/",
-      "fecha": "2026-10-01",
+      "titular": "Repsyclick genera bioestimulantes agrícolas a partir de residuos orgánicos en Ñuble",
+      "url": "https://www.paiscircular.cl/economia-circular/repsyclick-genera-bioinsumos/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los ‘coros’ de elefantes hablan de sus sentimientos y acciones",
-      "url": "https://efeverde.com/los-coros-de-elefantes-hablan-de-sus-sentimientos-y-acciones/",
-      "fecha": "2026-10-01",
+      "titular": "Quince ibis eremita llegan a Barbate (Cádiz) tras una migración guiada de 2.500 kilómetros",
+      "url": "https://efeverde.com/ibis-eremita-barbate-cadiz-tras-migracion-guiada/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "León XIV pide superar el modelo consumista para preservar los recursos del planeta",
-      "url": "https://efeverde.com/leon-xiv-pide-superar-modelo-consumista-para-preservar-recursos-del-planeta/",
-      "fecha": "2026-10-01",
+      "titular": "El nivel del acuífero que sustenta Las Tablas de Daimiel baja un metro en el último año",
+      "url": "https://efeverde.com/nivel-acuifero-tablas-de-daimiel/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios en la Amazonía brasileña se disparan un 74,2 % en septiembre",
-      "url": "https://efeverde.com/incendios-amazonia-brasilena-septiembre/",
-      "fecha": "2026-10-01",
+      "titular": "La Lista Roja Nacional identifica 93 especies en peligro crítico de extinción en España",
+      "url": "https://efeverde.com/lista-roja-nacional-especies-en-peligro-critico-de-extincion-en-espana/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La industria del vidrio reutilizó en 2025 el 55 % de su materia y logró reducir un 10 % sus emisiones",
-      "url": "https://efeverde.com/industria-del-vidrio-reutiliza-materia-y-reduce-emisiones/",
-      "fecha": "2026-10-01",
+      "titular": "El año hidrológico acaba húmedo y con la mitad de la lluvia condensada en menos de 3 meses",
+      "url": "https://efeverde.com/el-ano-hidrologico-acaba-humedo/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "¿Por qué preocupan tanto las PFAS, los denominados «químicos eternos»?",
-      "url": "https://efeverde.com/por-que-preocupan-tanto-las-pfas-los-denominadosquimicos-eternos/",
-      "fecha": "2026-10-01",
+      "titular": "Los ingenieros reclaman la adaptación de las infraestructuras al nuevo régimen de lluvias",
+      "url": "https://efeverde.com/los-ingenieros-reclaman-la-adaptacion-de-las-infraestructuras-al-nuevo-regimen-de-lluvias/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El plan europeo de apoyo al sector químico abre la puerta a desregularlo, avisa una ONG",
-      "url": "https://efeverde.com/el-plan-europeo-de-apoyo-al-sector-quimico-abre-la-puerta-a-desregularlo-avisa-una-ong/",
-      "fecha": "2026-10-01",
+      "titular": "Una polilla en peligro de extinción invade el sureste de Australia",
+      "url": "https://efeverde.com/una-polilla-en-peligro-de-extincion-invade-el-sureste-de-australia/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Uno de cada cuatro europeos analizados supera el umbral de PFAS recomendado",
-      "url": "https://efeverde.com/uno-de-cada-cuatro-europeos-analizados-supera-el-umbral-de-pfas-recomendado/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los glaciares suizos pierden 5,5 % de hielo en un solo año",
-      "url": "https://efeverde.com/los-glaciares-suizos-pierden-55-de-hielo-en-un-solo-ano/",
-      "fecha": "2026-10-01",
+      "titular": "Europa occidental vive su verano más cálido desde que hay registros, según Copernicus",
+      "url": "https://efeverde.com/europa-occidental-vive-su-verano-mas-calido-desde-que-hay-registros-segun-copernicus/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Mundo Acuícola] Australis lleva al Tribunal Ambiental dos causas que suman 6.954 toneladas de sobreproducción",
-      "url": "https://www.terram.cl/mundo-acuicola-australis-lleva-al-tribunal-ambiental-dos-causas-que-suman-6-954-toneladas-de-sobreproduccion/",
-      "fecha": "2026-10-01",
+      "titular": "[El Desconcierto] Maipú: anulan millonaria multa a minera acusada de extraer áridos sin permiso y contaminar colegio en Rinconada",
+      "url": "https://www.terram.cl/el-desconcierto-maipu-anulan-millonaria-multa-a-minera-acusada-de-extraer-aridos-sin-permiso-y-contaminar-colegio-en-rinconada/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "Festival Ciudadano UNE",
-      "url": "https://www.terram.cl/el-festival-ciudadano-une-promete-ser-un-encuentro-masivo-y-gratuito-que-busca-conectar-el-trabajo-diario-de-la-sociedad-civil-ong-con-la-musica-el-arte-comunitario-y-la-vida-urbana/",
-      "fecha": "2026-10-01",
+      "titular": "[El Serenense] SEREMI de Medio Ambiente oficia a CONAF para determinar afectación ambiental por incendio en Humedal del Río Elqui",
+      "url": "https://www.terram.cl/el-serenense-seremi-de-medio-ambiente-oficia-a-conaf-para-determinar-afectacion-ambiental-por-incendio-en-humedal-del-rio-elqui/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[CNN] Rechazos, respaldo de tribunales ambientales y una querella por cohecho: Cronología del proyecto Dominga y qué significa el retiro de recursos de Andes Iron tras trece años",
-      "url": "https://www.terram.cl/cnn-rechazos-respaldo-de-tribunales-ambientales-y-una-querella-por-cohecho-cronologia-del-proyecto-dominga-y-que-significa-el-retiro-de-recursos-de-andes-iron-tras-trece-anos/",
-      "fecha": "2026-10-01",
+      "titular": "[Sernapesca] Sernapesca informa detección de virus ISA en nuevo centro de cultivo de la región de Aysén",
+      "url": "https://www.terram.cl/sernapesca-sernapesca-informa-deteccion-de-virus-isa-en-nuevo-centro-de-cultivo-de-la-region-de-aysen/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Alerta por tormentas de arena en el norte: Estudio devela que transportan metales tóxicos de la minería",
-      "url": "https://www.terram.cl/el-desconcierto-alerta-por-tormentas-de-arena-en-el-norte-estudio-devela-que-transportan-metales-toxicos-de-la-mineria/",
-      "fecha": "2026-10-01",
+      "titular": "[Gobierno Santiago] Día Nacional del Medio Ambiente: programa del Gobierno de Santiago proyecta reducir más de 280 toneladas de CO₂ al año mediante compostaje",
+      "url": "https://www.terram.cl/gobierno-santiago-dia-nacional-del-medio-ambiente-programa-del-gobierno-de-santiago-proyecta-reducir-mas-de-280-toneladas-de-co%e2%82%82-al-ano-mediante-compostaje/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[InduAmbiente] Buscan regular por primera vez las sustancias químicas peligrosas presentes en los plásticos",
-      "url": "https://www.terram.cl/induambiente-buscan-regular-por-primera-vez-las-sustancias-quimicas-peligrosas-presentes-en-los-plasticos/",
-      "fecha": "2026-10-01",
+      "titular": "[Clarín] Til Til, el territorio que Santiago convirtió en su patio trasero",
+      "url": "https://www.terram.cl/clarin-til-til-el-territorio-que-santiago-convirtio-en-su-patio-trasero/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Austerra] Describen una nueva especie de pingüino por primera vez en más de un siglo",
-      "url": "https://www.terram.cl/austerra-describen-una-nueva-especie-de-pinguino-por-primera-vez-en-mas-de-un-siglo/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de profesional con funciones de supervisora de certificacion de desembarque a contrata asimilado a grado 12 de la e u s dr maule constituci",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-con-funciones-de-supervisora-de-certificacion-de-desembarque-a-contrata-asimilado-a-grado-12-de-la-e-u-s-dr-maule-constituci/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Este 1° de octubre  abrió al público el Parque Nacional Pali Aike",
-      "url": "https://www.conaf.cl/este-1-de-octubre-abrio-al-publico-el-parque-nacional-pali-aike/?utm_source=rss&utm_medium=rss&utm_campaign=este-1-de-octubre-abrio-al-publico-el-parque-nacional-pali-aike",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Puerto Montt: CONAF Los Lagos conmemoró el Día Nacional del Guardaparques con entrega de reconocimientos",
-      "url": "https://www.conaf.cl/puerto-montt-conaf-los-lagos-conmemoro-el-dia-nacional-del-guardaparques-con-entrega-de-reconocimientos/?utm_source=rss&utm_medium=rss&utm_campaign=puerto-montt-conaf-los-lagos-conmemoro-el-dia-nacional-del-guardaparques-con-entrega-de-reconocimientos",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Magallanes conmemoró el Día Nacional del Guardaparques",
-      "url": "https://www.conaf.cl/conaf-magallanes-conmemoro-el-dia-nacional-de-los-y-las-guardaparques/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-magallanes-conmemoro-el-dia-nacional-de-los-y-las-guardaparques",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Región de Los Ríos conmemora el Día del Guardaparques con emotiva ceremonia",
-      "url": "https://www.conaf.cl/region-de-los-rios-conmemora-el-dia-del-guardaparque-con-emotiva-ceremonia/?utm_source=rss&utm_medium=rss&utm_campaign=region-de-los-rios-conmemora-el-dia-del-guardaparque-con-emotiva-ceremonia",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Comuna de Petorca recibe reconocimiento por la aprobación de su Plan de Acción Comunal de Cambio Climático",
-      "url": "https://mma.gob.cl/comuna-de-petorca-recibe-reconocimiento-por-la-aprobacion-de-su-plan-de-accion-comunal-de-cambio-climatico/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ñuble cierra Gestión de Episodios Críticos 2026 con casi un 80% de días sin episodios en Chillán y Chillán Viejo",
-      "url": "https://mma.gob.cl/nuble-cierra-gestion-de-episodios-criticos-2026-con-casi-un-80-de-dias-sin-episodios-en-chillan-y-chillan-viejo/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "La millonaria multa que el Tribunal Ambiental dictó contra el Autódromo de Codegua por infringir la norma de ruidos",
-      "url": "https://www.latercera.com/el-deportivo/noticia/la-millonaria-multa-que-el-tribunal-ambiental-dicto-contra-el-autodromo-de-codegua-por-infringir-la-norma-de-ruidos/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Tres años de la Ley REP para envases: avances y desafíos para cerrar el círculo",
-      "url": "https://www.paiscircular.cl/opinion/tres-anos-de-la-ley-rep-para-envases-avances-y-desafios-para-cerrar-el-circulo/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Sin esqueleto, pero con armadura: el secreto de los corales chicle",
-      "url": "https://codexverde.cl/sin-esqueleto-pero-con-armadura-el-secreto-de-los-corales-chicle/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Huella de carbono, circularidad y tecnología: seminario de Codexverde y UDLA discutirá los cambios que enfrenta la construcción en Chile",
-      "url": "https://codexverde.cl/huella-de-carbono-circularidad-y-tecnologia-seminario-de-codexverde-y-udla-discutira-los-cambios-que-enfrenta-la-construccion-en-chile/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Centro de datos de Zamora consumirá el 20 % de la energía de CyL, alerta experto del CSIC",
-      "url": "https://efeverde.com/centro-de-datos-de-zamora-consumira-el-20-de-la-energia-de-cyl-alerta-experto-del-csic/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Premio a la apuesta por la autosuficiencia energética y la biodiversidad del cementerio de Lalín (Pontevedra)",
-      "url": "https://efeverde.com/premio-a-la-apuesta-por-la-autosuficiencia-energetica-y-la-biodiversidad-del-cementerio-de-lalin-pontevedra/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Tribunal ratificó multa de $86 millones cursada al Autódromo de Codegua por infracción a la norma de ruidos",
-      "url": "https://tribunalambiental.cl/sentencia-r-532-2025-multa-ruido-autodromo-codegua-sma",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF fortalece Grupo de Búsqueda en el Día Nacional del Guardaparques",
-      "url": "https://www.conaf.cl/conaf-fortalece-grupo-de-busqueda-en-el-dia-nacional-del-guardaparques/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-fortalece-grupo-de-busqueda-en-el-dia-nacional-del-guardaparques",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Gobierno conmemora el Día Nacional de los Guardaparques con reconocimiento a trayectoria y compromiso",
-      "url": "https://www.conaf.cl/gobierno-conmemora-el-dia-nacional-de-los-guardaparques-con-reconocimiento-a-trayectoria-y-compromiso/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-conmemora-el-dia-nacional-de-los-guardaparques-con-reconocimiento-a-trayectoria-y-compromiso",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Cerca de 2 mil empleos reforzarán la prevención de incendios en La Araucanía",
-      "url": "https://www.conaf.cl/cerca-de-2-mil-empleos-reforzaran-la-prevencion-de-incendios-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=cerca-de-2-mil-empleos-reforzaran-la-prevencion-de-incendios-en-la-araucania",
-      "fecha": "2026-09-30",
+      "titular": "[CNN Chile] Proyectan que caudal del Río Maipo podría duplicarse en Enero de 2027 debido a una favorable temporada de deshielo",
+      "url": "https://www.terram.cl/cnn-chile-proyectan-que-caudal-del-rio-maipo-podria-duplicarse-en-enero-de-2027-debido-a-una-favorable-temporada-de-deshielo/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "SMA",
-      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra consorcio Santa Marta S.A. por más de 2.700 UTA tras incumplimientos en su RCA y contingencia operacional",
-      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-consorcio-santa-marta-s-a-por-mas-de-2-700-uta-tras-incumplimientos-en-su-rca-y-contingencia-operacional/",
-      "fecha": "2026-09-30",
+      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra Inversiones La Estancilla S.A. por 100 UTA tras infracción a la norma de ruidos en el Autódromo Codegua",
+      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-inversiones-la-estancilla-s-a-por-100-uta-tras-infraccion-a-la-norma-de-ruidos-en-el-autodromo-codegua/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes del Liceo de Pozo Almonte construyen una vermicompostera escolar a través de los Fondos de Protección Ambiental",
-      "url": "https://mma.gob.cl/estudiantes-del-liceo-de-pozo-almonte-construyen-una-vermicompostera-escolar-a-traves-de-los-fondos-de-proteccion-ambiental/",
-      "fecha": "2026-09-30",
+      "titular": "Día Nacional del Medio Ambiente: Ministra Toledo y Subsecretario Vial invitan a registrar la naturaleza en red social de ciencia ciudadana",
+      "url": "https://mma.gob.cl/dia-nacional-del-medio-ambiente-ministra-toledo-y-subsecretario-vial-invitan-a-registrar-la-naturaleza-en-red-social-de-ciencia-ciudadana/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente fortalece cooperación internacional en Educación Ambiental en Latinoamérica",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-fortalece-cooperacion-internacional-en-educacion-ambiental-en-latinoamerica/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente entrega certificación ambiental a Municipalidad de Putaendo",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-certificacion-ambiental-a-municipalidad-de-putaendo/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Industria de la construcción celebra la toma de razón de cambios en la Ordenanza de Urbanismo y Vivienda",
+      "url": "https://www.latercera.com/pulso/noticia/industria-de-la-construccion-celebra-la-toma-de-razon-de-cambios-en-la-ordenanza-de-urbanismo-y-vivienda/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Inicia juicio oral contra los nueve imputados por el megaincendio de Valparaíso y Quilpué de 2024",
+      "url": "https://www.latercera.com/nacional/noticia/inicia-juicio-oral-contra-los-nueve-acusados-por-el-megaincendio-de-valparaiso-y-quilpue-de-2024/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental ratificó multa de más de $2 mil millones contra relleno sanitario Santa Marta",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-ratifico-multa-de-mas-de-2-mil-millones-contra-relleno-sanitario-santa-marta/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en septiembre 2026",
+      "url": "https://www.revistaei.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-septiembre-2026/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Megamedia presenta su segundo Reporte de Sostenibilidad e incorpora por primera vez la medición de Alcance 3",
+      "url": "https://www.paiscircular.cl/economia-circular/megamedia-presenta-su-segundo-reporte-de-sostenibilidad-e-incorpora-por-primera-vez-la-medicion-de-alcance-3/",
+      "fecha": "2026-10-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Doce organizaciones sellan la Hoja de Ruta 2027-2030 para reciclar más latas de aluminio en Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/doce-organizaciones-sellan-la-hoja-de-ruta-2027-2030-para-reciclar-mas-latas-de-aluminio-en-chile/",
+      "fecha": "2026-10-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Lanzan VIII Premios Cero Basura con categorías reformuladas para responder a los nuevos desafíos de la economía circular",
+      "url": "https://www.paiscircular.cl/economia-circular/lanzan-viii-premios-cero-basura-con-categorias-reformuladas-para-responder-a-los-nuevos-desafios-de-la-economia-circula/",
+      "fecha": "2026-10-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Guardaparques de Tarapacá conmemoran su día recorriendo Mar de Pisagua",
+      "url": "https://www.conaf.cl/guardaparques-de-tarapaca-conmemoran-su-dia-recorriendo-mar-de-pisagua/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-de-tarapaca-conmemoran-su-dia-recorriendo-mar-de-pisagua",
+      "fecha": "2026-10-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

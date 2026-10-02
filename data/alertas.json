@@ -1,79 +1,42 @@
 {
-  "fecha_generacion": "2026-10-01T14:31:53.972921-03:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-10-02T13:43:07.955116-03:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Mundo Acuícola] Australis lleva al Tribunal Ambiental dos causas que suman 6.954 toneladas de sobreproducción",
-      "url": "https://www.terram.cl/mundo-acuicola-australis-lleva-al-tribunal-ambiental-dos-causas-que-suman-6-954-toneladas-de-sobreproduccion/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "​Las reclamaciones involucran a los CES Humos 3, en Aysén, y Pan de Azúcar, en Magallanes, cuyos cargos suman 6.954 toneladas de sobreproducción en cuatro ciclos productivos. La controversia se centra en si las reducciones comprometidas en los Progra",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CNN] Rechazos, respaldo de tribunales ambientales y una querella por cohecho: Cronología del proyecto Dominga y qué significa el retiro de recursos de Andes Iron tras trece años",
-      "url": "https://www.terram.cl/cnn-rechazos-respaldo-de-tribunales-ambientales-y-una-querella-por-cohecho-cronologia-del-proyecto-dominga-y-que-significa-el-retiro-de-recursos-de-andes-iron-tras-trece-anos/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Andes Iron abrió un nuevo capítulo en la extensa tramitación del proyecto minero-portuario Dominga al desistirse de los recursos de casación y queja que mantenía ante la Corte Suprema. Fuente: CNN Chile, 30 de septiembre de 2026.",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "La millonaria multa que el Tribunal Ambiental dictó contra el Autódromo de Codegua por infringir la norma de ruidos",
-      "url": "https://www.latercera.com/el-deportivo/noticia/la-millonaria-multa-que-el-tribunal-ambiental-dicto-contra-el-autodromo-de-codegua-por-infringir-la-norma-de-ruidos/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Segunda Sala del organismo rechazó la reclamación realizada por la empresa a cargo de la administración del recinto.",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Infraestructura, logística, trazabilidad y nuevos mercados aparecen entre las condiciones necesarias para profundizar la economía circular en el sector. La entrada Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos minero",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Tres años de la Ley REP para envases: avances y desafíos para cerrar el círculo",
-      "url": "https://www.paiscircular.cl/opinion/tres-anos-de-la-ley-rep-para-envases-avances-y-desafios-para-cerrar-el-circulo/",
-      "fecha": "2026-09-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "\"La experiencia de otros países de la región confirma que es posible alcanzar altos niveles de circularidad cuando existe una articulación sostenida entre industria, autoridades, gestores, recicladores y consumidores. Una expresión concreta de esta c",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
       "fuente": "SMA",
-      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra consorcio Santa Marta S.A. por más de 2.700 UTA tras incumplimientos en su RCA y contingencia operacional",
-      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-consorcio-santa-marta-s-a-por-mas-de-2-700-uta-tras-incumplimientos-en-su-rca-y-contingencia-operacional/",
-      "fecha": "2026-09-30",
+      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra Inversiones La Estancilla S.A. por 100 UTA tras infracción a la norma de ruidos en el Autódromo Codegua",
+      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-inversiones-la-estancilla-s-a-por-100-uta-tras-infraccion-a-la-norma-de-ruidos-en-el-autodromo-codegua/",
+      "fecha": "2026-10-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El órgano jurisdiccional rechazó en todas sus partes la reclamación interpuesta por la empresa, dejando firme la sanción económica de 2.771 UTA impuesta por la Superintendencia del Medio Ambiente por infracciones relativas a la operación del Relleno ",
+      "extracto": "• El órgano jurisdiccional rechazó en todas sus partes la reclamación interpuesta por la empresa, dejando firme la sanción económica de 100 UTA impuesta por la Superintendencia del Medio Ambiente por incumplimientos en los niveles de presión sonora p",
       "keywords_detectadas": [
         "SMA",
-        "Tribunal Ambiental",
-        "RCA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental ratificó multa de más de $2 mil millones contra relleno sanitario Santa Marta",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-ratifico-multa-de-mas-de-2-mil-millones-contra-relleno-sanitario-santa-marta/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal estuvo integrado por la ministra Marcela Godoy Flores, presidenta, el ministro Cristián López Montecinos y el exministro Cristián Delpiano Lira. La sentencia fue redactada por la ministra Godoy.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en septiembre 2026",
+      "url": "https://www.revistaei.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-septiembre-2026/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva del SEA, y su publicación oficial se realizó a través del Diario Oficial. La entrada SEA publica listado de Declaraciones de Impact",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
