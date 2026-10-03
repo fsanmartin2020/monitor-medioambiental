@@ -1,215 +1,175 @@
 {
-  "fecha_actualizacion": "2026-10-02T13:43:07.939872-03:00",
-  "total": 26,
+  "fecha_actualizacion": "2026-10-03T12:18:49.081626-03:00",
+  "total": 21,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Repsyclick genera bioestimulantes agrícolas a partir de residuos orgánicos en Ñuble",
-      "url": "https://www.paiscircular.cl/economia-circular/repsyclick-genera-bioinsumos/",
-      "fecha": "2026-10-02",
+      "fuente": "EFE Verde",
+      "titular": "El glaciar argentino Perito Moreno registra un retroceso récord: mil metros en cien días",
+      "url": "https://efeverde.com/el-glaciar-argentino-perito-moreno-registra-un-retroceso-record-mil-metros-en-cien-dias/",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Quince ibis eremita llegan a Barbate (Cádiz) tras una migración guiada de 2.500 kilómetros",
-      "url": "https://efeverde.com/ibis-eremita-barbate-cadiz-tras-migracion-guiada/",
-      "fecha": "2026-10-02",
+      "titular": "Descubren en bosques de Andes peruanos a una nueva especie de rana marsupial",
+      "url": "https://efeverde.com/descubren-en-bosques-de-andes-peruanos-a-una-nueva-especie-de-rana-marsupial/",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El nivel del acuífero que sustenta Las Tablas de Daimiel baja un metro en el último año",
-      "url": "https://efeverde.com/nivel-acuifero-tablas-de-daimiel/",
-      "fecha": "2026-10-02",
+      "titular": "Ofensiva medioambientalista en EEUU contra la derogación de las normas de consumo de combustible",
+      "url": "https://efeverde.com/ofensiva-medioambientalista-en-eeuu-contra-la-derogacion-de-las-normas-de-consumo-de-combustible/",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Lista Roja Nacional identifica 93 especies en peligro crítico de extinción en España",
-      "url": "https://efeverde.com/lista-roja-nacional-especies-en-peligro-critico-de-extincion-en-espana/",
-      "fecha": "2026-10-02",
+      "titular": "Los ecologistas aprietan contra los centros de datos frente al respaldo de las autonomías",
+      "url": "https://efeverde.com/los-ecologistas-aprietan-contra-los-centros-de-datos-frente-al-respaldo-de-las-autonomias/",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El año hidrológico acaba húmedo y con la mitad de la lluvia condensada en menos de 3 meses",
-      "url": "https://efeverde.com/el-ano-hidrologico-acaba-humedo/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los ingenieros reclaman la adaptación de las infraestructuras al nuevo régimen de lluvias",
-      "url": "https://efeverde.com/los-ingenieros-reclaman-la-adaptacion-de-las-infraestructuras-al-nuevo-regimen-de-lluvias/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Una polilla en peligro de extinción invade el sureste de Australia",
-      "url": "https://efeverde.com/una-polilla-en-peligro-de-extincion-invade-el-sureste-de-australia/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Europa occidental vive su verano más cálido desde que hay registros, según Copernicus",
-      "url": "https://efeverde.com/europa-occidental-vive-su-verano-mas-calido-desde-que-hay-registros-segun-copernicus/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Maipú: anulan millonaria multa a minera acusada de extraer áridos sin permiso y contaminar colegio en Rinconada",
-      "url": "https://www.terram.cl/el-desconcierto-maipu-anulan-millonaria-multa-a-minera-acusada-de-extraer-aridos-sin-permiso-y-contaminar-colegio-en-rinconada/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Serenense] SEREMI de Medio Ambiente oficia a CONAF para determinar afectación ambiental por incendio en Humedal del Río Elqui",
-      "url": "https://www.terram.cl/el-serenense-seremi-de-medio-ambiente-oficia-a-conaf-para-determinar-afectacion-ambiental-por-incendio-en-humedal-del-rio-elqui/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Sernapesca] Sernapesca informa detección de virus ISA en nuevo centro de cultivo de la región de Aysén",
-      "url": "https://www.terram.cl/sernapesca-sernapesca-informa-deteccion-de-virus-isa-en-nuevo-centro-de-cultivo-de-la-region-de-aysen/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Gobierno Santiago] Día Nacional del Medio Ambiente: programa del Gobierno de Santiago proyecta reducir más de 280 toneladas de CO₂ al año mediante compostaje",
-      "url": "https://www.terram.cl/gobierno-santiago-dia-nacional-del-medio-ambiente-programa-del-gobierno-de-santiago-proyecta-reducir-mas-de-280-toneladas-de-co%e2%82%82-al-ano-mediante-compostaje/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Clarín] Til Til, el territorio que Santiago convirtió en su patio trasero",
-      "url": "https://www.terram.cl/clarin-til-til-el-territorio-que-santiago-convirtio-en-su-patio-trasero/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CNN Chile] Proyectan que caudal del Río Maipo podría duplicarse en Enero de 2027 debido a una favorable temporada de deshielo",
-      "url": "https://www.terram.cl/cnn-chile-proyectan-que-caudal-del-rio-maipo-podria-duplicarse-en-enero-de-2027-debido-a-una-favorable-temporada-de-deshielo/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Segundo Tribunal Ambiental ratifica multa aplicada por la SMA contra Inversiones La Estancilla S.A. por 100 UTA tras infracción a la norma de ruidos en el Autódromo Codegua",
-      "url": "https://portal.sma.gob.cl/index.php/segundo-tribunal-ambiental-ratifica-multa-aplicada-por-la-sma-contra-inversiones-la-estancilla-s-a-por-100-uta-tras-infraccion-a-la-norma-de-ruidos-en-el-autodromo-codegua/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Día Nacional del Medio Ambiente: Ministra Toledo y Subsecretario Vial invitan a registrar la naturaleza en red social de ciencia ciudadana",
-      "url": "https://mma.gob.cl/dia-nacional-del-medio-ambiente-ministra-toledo-y-subsecretario-vial-invitan-a-registrar-la-naturaleza-en-red-social-de-ciencia-ciudadana/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente fortalece cooperación internacional en Educación Ambiental en Latinoamérica",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-fortalece-cooperacion-internacional-en-educacion-ambiental-en-latinoamerica/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente entrega certificación ambiental a Municipalidad de Putaendo",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-certificacion-ambiental-a-municipalidad-de-putaendo/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Industria de la construcción celebra la toma de razón de cambios en la Ordenanza de Urbanismo y Vivienda",
-      "url": "https://www.latercera.com/pulso/noticia/industria-de-la-construccion-celebra-la-toma-de-razon-de-cambios-en-la-ordenanza-de-urbanismo-y-vivienda/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Inicia juicio oral contra los nueve imputados por el megaincendio de Valparaíso y Quilpué de 2024",
-      "url": "https://www.latercera.com/nacional/noticia/inicia-juicio-oral-contra-los-nueve-acusados-por-el-megaincendio-de-valparaiso-y-quilpue-de-2024/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Segundo Tribunal Ambiental ratificó multa de más de $2 mil millones contra relleno sanitario Santa Marta",
-      "url": "https://adprensa.cl/segundo-tribunal-ambiental-ratifico-multa-de-mas-de-2-mil-millones-contra-relleno-sanitario-santa-marta/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en septiembre 2026",
-      "url": "https://www.revistaei.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-septiembre-2026/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Megamedia presenta su segundo Reporte de Sostenibilidad e incorpora por primera vez la medición de Alcance 3",
-      "url": "https://www.paiscircular.cl/economia-circular/megamedia-presenta-su-segundo-reporte-de-sostenibilidad-e-incorpora-por-primera-vez-la-medicion-de-alcance-3/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Doce organizaciones sellan la Hoja de Ruta 2027-2030 para reciclar más latas de aluminio en Chile",
-      "url": "https://www.paiscircular.cl/economia-circular/doce-organizaciones-sellan-la-hoja-de-ruta-2027-2030-para-reciclar-mas-latas-de-aluminio-en-chile/",
-      "fecha": "2026-10-01",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Lanzan VIII Premios Cero Basura con categorías reformuladas para responder a los nuevos desafíos de la economía circular",
-      "url": "https://www.paiscircular.cl/economia-circular/lanzan-viii-premios-cero-basura-con-categorias-reformuladas-para-responder-a-los-nuevos-desafios-de-la-economia-circula/",
-      "fecha": "2026-10-01",
+      "titular": "«Espantapájaros» flotantes y cometas con forma de rapaz para evitar que aves buceadores mueran en redes",
+      "url": "https://efeverde.com/espantapajaros-flotantes-y-cometas-con-forma-de-rapaz-para-impedir-que-las-aves-buceadores-mueran-en-redes/",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Guardaparques de Tarapacá conmemoran su día recorriendo Mar de Pisagua",
-      "url": "https://www.conaf.cl/guardaparques-de-tarapaca-conmemoran-su-dia-recorriendo-mar-de-pisagua/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-de-tarapaca-conmemoran-su-dia-recorriendo-mar-de-pisagua",
-      "fecha": "2026-10-01",
+      "titular": "CONAF Magallanes recibió la visita del subsecretario de Agricultura",
+      "url": "https://www.conaf.cl/conaf-magallanes-recibio-la-visita-del-subsecretario-de-agricultura/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-magallanes-recibio-la-visita-del-subsecretario-de-agricultura",
+      "fecha": "2026-10-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Dos turistas expulsados del Parque Nacional Torres del Paine",
+      "url": "https://www.conaf.cl/dos-turistas-expulsados-del-parque-nacional-torres-del-paine/?utm_source=rss&utm_medium=rss&utm_campaign=dos-turistas-expulsados-del-parque-nacional-torres-del-paine",
+      "fecha": "2026-10-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Parque Nacional Llanos de Challe inaugura nuevo centro para la educación ambiental y puesta en valor de su biodiversidad",
+      "url": "https://www.conaf.cl/parque-nacional-llanos-de-challe-inaugura-nuevo-centro-para-la-educacion-ambiental-y-puesta-en-valor-de-su-biodiversidad/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-llanos-de-challe-inaugura-nuevo-centro-para-la-educacion-ambiental-y-puesta-en-valor-de-su-biodiversidad",
+      "fecha": "2026-10-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "Alejandra Urrutia: \"En Chile la música clásica está muy viva\"",
+      "url": "https://www.eldinamo.cl/mujeres-d/entrevistas-m/2026/10/02/alejandra-urrutia-en-chile-la-musica-clasica-esta-muy-viva/",
+      "fecha": "2026-10-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La Fiscalía recurre el archivo de la causa de los pozos de la Casa de Alba en Doñana",
+      "url": "https://efeverde.com/fiscalia-recurre-archivo-de-causa-de-los-pozos-de-casa-de-alba-en-donana/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Se confirma sanción de multa a empresa Albemarle por infracciones ambientales aplicada por la Superintendencia del Medio Ambiente",
+      "url": "https://1ta.cl/se-confirma-sancion-de-multa-a-empresa-albemarle-por-infracciones-ambientales-aplicada-por-la-superintendencia-del-medio-ambiente/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-sancion-de-multa-a-empresa-albemarle-por-infracciones-ambientales-aplicada-por-la-superintendencia-del-medio-ambiente",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental admitió a trámite cinco reclamaciones vinculadas a proyecto de continuidad operacional de Cerro Colorado",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-admitio-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional-de-cerro-colorado/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-admitio-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional-de-cerro-colorado",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "15/10/2026: Fija audiencia en caso de «Comité Unión Diguillín y otros con Comisión de Evaluación Ambiental Región del Ñuble», Rol: R-26-2026",
+      "url": "https://3ta.cl/audiencias/15-10-2026-fija-audiencia-en-caso-de-comite-union-diguillin-y-otros-con-comision-de-evaluacion-ambiental-region-del-nuble-rol-r-26-2026/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "¿Postulaste al Fondo de Conservación del Bosque Nativo? Ya están disponibles los resultados de los proyectos adjudicados",
+      "url": "https://www.conaf.cl/postulaste-al-fondo-de-conservacion-del-bosque-nativo-ya-estan-disponibles-los-resultados-de-los-proyectos-adjudicados/?utm_source=rss&utm_medium=rss&utm_campaign=postulaste-al-fondo-de-conservacion-del-bosque-nativo-ya-estan-disponibles-los-resultados-de-los-proyectos-adjudicados",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Día Nacional del Medio Ambiente se conmemoró en El Panul destacando la protección de la biodiversidad y la educación ambiental",
+      "url": "https://mma.gob.cl/dia-nacional-del-medio-ambiente-se-conmemoro-en-el-panul-destacando-la-proteccion-de-la-biodiversidad-y-la-educacion-ambiental/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Aysén conmemora el Día Nacional del Medio Ambiente con jornada ciudadana y diversas actividades durante octubre",
+      "url": "https://mma.gob.cl/aysen-conmemora-el-dia-nacional-del-medio-ambiente-con-jornada-ciudadana-y-diversas-actividades-durante-octubre/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Fondo para el Reciclaje impulsa el compostaje domiciliario en 80 familias de Los Ángeles",
+      "url": "https://mma.gob.cl/fondo-para-el-reciclaje-impulsa-el-compostaje-domiciliario-en-80-familias-de-los-angeles/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Profesionales de biodiversidad y recursos naturales del Ministerio del Medio Ambiente se reúnen para proyectar la implementación de la Estrategia Nacional de Biodiversidad",
+      "url": "https://mma.gob.cl/profesionales-de-biodiversidad-y-recursos-naturales-del-ministerio-del-medio-ambiente-se-reunen-para-proyectar-la-implementacion-de-la-estrategia-nacional-de-biodiversidad/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental admite a trámite cinco reclamaciones vinculadas a proyecto de continuidad operacional",
+      "url": "https://www.mch.cl/tribunal-ambiental-admite-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental admite cinco reclamaciones contra aprobación de prospecciones en Cerro Colorado",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-admite-cinco-reclamaciones-contra-aprobacion-de-prospecciones-en-cerro-colorado/",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Senado",
+      "titular": "Senadoras y senadores por un dia",
+      "url": "https://www.senado.cl/ciudadania/senadoras-y-senadores-por-un-dia",
+      "fecha": "2026-10-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
     }
   ]
 }
