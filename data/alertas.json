@@ -1,65 +1,29 @@
 {
-  "fecha_generacion": "2026-10-03T12:18:49.096432-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-10-04T13:03:55.762934-03:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Se confirma sanción de multa a empresa Albemarle por infracciones ambientales aplicada por la Superintendencia del Medio Ambiente",
-      "url": "https://1ta.cl/se-confirma-sancion-de-multa-a-empresa-albemarle-por-infracciones-ambientales-aplicada-por-la-superintendencia-del-medio-ambiente/?utm_source=rss&utm_medium=rss&utm_campaign=se-confirma-sancion-de-multa-a-empresa-albemarle-por-infracciones-ambientales-aplicada-por-la-superintendencia-del-medio-ambiente",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental, ratificó la sanción de multa aplicada por la Superintendencia del Medio Ambiente (SMA) a la empresa Albemarle Ltda., tras cursar dos infracciones que suman en total... The post Se confirma sanción de multa a empresa Albe",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental admitió a trámite cinco reclamaciones vinculadas a proyecto de continuidad operacional de Cerro Colorado",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-admitio-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional-de-cerro-colorado/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-admitio-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional-de-cerro-colorado",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental admitió a trámite cinco reclamaciones interpuestas en contra de la resolución del Servicio de Evaluación Ambiental (SEA) que rechazó recursos administrativos vinculados a la aprobación ambiental... The post Primer Tribuna",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental admite a trámite cinco reclamaciones vinculadas a proyecto de continuidad operacional",
-      "url": "https://www.mch.cl/tribunal-ambiental-admite-a-tramite-cinco-reclamaciones-vinculadas-a-proyecto-de-continuidad-operacional/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las partes reclamantes sostienen que los antecedentes disponibles darían cuenta de una susceptibilidad de afectación directa sobre grupos humanos pertenecientes a pueblos indígenas y que, por ello, la iniciativa debió ingresar mediante un EIA y conte",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Tribunal Ambiental admite cinco reclamaciones contra aprobación de prospecciones en Cerro Colorado",
-      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-admite-cinco-reclamaciones-contra-aprobacion-de-prospecciones-en-cerro-colorado/",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las acciones cuestionan la determinación del área de influencia, los posibles efectos sobre recursos hídricos y sitios de significación cultural, además de la decisión de evaluar la iniciativa mediante una DIA. Dos reclamantes solicitaron suspender l",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Senado",
-      "titular": "Senadoras y senadores por un dia",
-      "url": "https://www.senado.cl/ciudadania/senadoras-y-senadores-por-un-dia",
-      "fecha": "2026-10-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap",
+      "fuente": "Cooperativa",
+      "titular": "Gary Medel: \"Quiero seguir jugando, ya sea en Católica o en otro equipo\"",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/gary-medel/gary-medel-quiero-seguir-jugando-ya-sea-en-catolica-o-en-otro-equipo/2026-10-04/114744.html",
+      "fecha": "2026-10-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
       "extracto": "",
       "keywords_detectadas": [
-        "DIA"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Gary Medel: \"Quiero seguir jugando, ya sea en Católica o en otro equipo\"",
+      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/gary-medel/gary-medel-quiero-seguir-jugando-ya-sea-en-catolica-o-en-otro-equipo/2026-10-04/114744.html",
+      "fecha": "2026-10-04",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
