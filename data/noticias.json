@@ -1,39 +1,391 @@
 {
-  "fecha_actualizacion": "2026-10-04T13:03:55.750740-03:00",
-  "total": 4,
+  "fecha_actualizacion": "2026-10-06T14:28:30.855160-03:00",
+  "total": 48,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "El Pacífico reclama protagonismo en una Pre-COP31 marcada por la ausencia de líderes",
-      "url": "https://efeverde.com/el-pacifico-reclama-protagonismo-en-una-pre-cop31-marcada-por-la-ausencia-de-lideres/",
-      "fecha": "2026-10-04",
+      "fuente": "País Circular",
+      "titular": "Pedro Álamos, gerente general de ProREP: “Para que la Ley REP sea un éxito se tiene que ajustar”",
+      "url": "https://www.paiscircular.cl/economia-circular/pedro-alamos-gerente-gerenal-de-prorep-para-que-la-ley-rep-sea-un-exito-se-tiene-que-ajustar/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Viña Concha y Toro define una nueva hoja de ruta de sustentabilidad al 2030",
+      "url": "https://www.chiledesarrollosustentable.cl/vina-concha-y-toro-define-una-nueva-hoja-de-ruta-de-sustentabilidad-al-2030/?utm_source=rss&utm_medium=rss&utm_campaign=vina-concha-y-toro-define-una-nueva-hoja-de-ruta-de-sustentabilidad-al-2030",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "El próximo gran desafío de Chile está en el mar",
+      "url": "https://codexverde.cl/el-proximo-gran-desafio-de-chile-esta-en-el-mar/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "«Plataforma País»: la apuesta de Chile para conectar financiamiento con proyectos de acción climática",
+      "url": "https://codexverde.cl/plataforma-pais-la-apuesta-de-chile-para-conectar-financiamiento-con-proyectos-de-accion-climatica/",
+      "fecha": "2026-10-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Doña Juana: la «mala vecina» que tapa con basura el horizonte verde de Bogotá",
-      "url": "https://efeverde.com/dona-juana-la-mala-vecina-que-tapa-con-basura-el-horizonte-verde-de-bogota/",
-      "fecha": "2026-10-04",
+      "titular": "El Gobierno aprueba 4 nuevas directrices de protección civil que incrementarán la coordinación frente a eventos",
+      "url": "https://efeverde.com/nuevas-directrices-de-proteccion-civil-coordinacion-frente-a-eventos/",
+      "fecha": "2026-10-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Gary Medel: \"Quiero seguir jugando, ya sea en Católica o en otro equipo\"",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/gary-medel/gary-medel-quiero-seguir-jugando-ya-sea-en-catolica-o-en-otro-equipo/2026-10-04/114744.html",
-      "fecha": "2026-10-04",
+      "fuente": "EFE Verde",
+      "titular": "El anticipo electoral deja en el aire el Pacto de Estado frente a la Emergencia Climática",
+      "url": "https://efeverde.com/anticipo-electoral-deja-en-el-aire-pacto-de-estado-frente-a-emergencia-climatica/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Detectan en 315 municipios españoles más de 148.000 puntos negros del arbolado urbano",
+      "url": "https://efeverde.com/puntos-negros-del-arbolado-urbano/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Absuelven a los 11 activistas de Greenpeace acusados de desórdenes por bloquear un buque",
+      "url": "https://efeverde.com/absuelven-a-activistas-de-greenpeace/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Hay huellas que no destruyen. Por Claudio Lauria (fundador y presidente de SUNCINE)",
+      "url": "https://efeverde.com/hay-huellas-que-no-destruyen-por-claudio-lauria/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Líderes climáticos piden en Tuvalu más financiación y acelerar la transición energética",
+      "url": "https://efeverde.com/lideres-climaticos-piden-en-tuvalu-mas-financiacion-y-acelerar-la-transicion-energetica/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "A menos especies, menos servicios ecosistémicos y mayores riesgos para el ser humano",
+      "url": "https://efeverde.com/a-menos-especies-menos-servicios-ecosistemicos-y-mayores-riesgos-para-el-ser-humano/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Descubren en Ecuador una especie «desconcertante» de rana venenosa amenazada",
+      "url": "https://efeverde.com/descubren-en-ecuador-una-especie-desconcertante-de-rana-venenosa-amenazada/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los efectos del calentamiento global son ya inevitables pero se puede reducir su magnitud",
+      "url": "https://efeverde.com/los-efectos-del-calentamiento-global-son-ya-inevitables-pero-se-puede-reducir-su-magnitud/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Presupuesto 2027 recorta 59% los fondos de Medio Ambiente para cambio climático y deja a Escazú sin asignación",
+      "url": "https://www.terram.cl/el-desconcierto-presupuesto-2027-recorta-59-los-fondos-de-medio-ambiente-para-cambio-climatico-y-deja-a-escazu-sin-asignacion/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Mostrador] Ley de Incendios cumple tres años sin aprobación y piden acelerar su tramitación",
+      "url": "https://www.terram.cl/el-mostrador-ley-de-incendios-cumple-tres-anos-sin-aprobacion-y-piden-acelerar-su-tramitacion/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[MeteoRed] Científicos del CSIC descubren el impacto del agua de lluvia al arrastrar la basura acumulada en las ciudades",
+      "url": "https://www.terram.cl/meteored-cientificos-del-csic-descubren-el-impacto-del-agua-de-lluvia-al-arrastrar-la-basura-acumulada-en-las-ciudades/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Alza de diésel reabre debate sobre transporte eléctrico para soberanía energética y reducir contaminación",
+      "url": "https://www.terram.cl/el-desconcierto-alza-de-diesel-reabre-debate-sobre-transporte-electrico-para-soberania-energetica-y-reducir-contaminacion/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Codex Verde] Estudio revela brecha entre mapas de amenaza y la planificación comunal frente a desastres",
+      "url": "https://www.terram.cl/codex-verde-estudio-revela-brecha-entre-mapas-de-amenaza-y-la-planificacion-comunal-frente-a-desastres/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Concurso invita a estudiantes de Los Lagos a crear soluciones basadas en la naturaleza",
+      "url": "https://www.terram.cl/diario-sostenible-concurso-invita-a-estudiantes-de-los-lagos-a-crear-soluciones-basadas-en-la-naturaleza/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Manual de Justicia de Policía Local y Medio Ambiente: una herramienta para fortalecer el acceso a la justicia ambiental",
+      "url": "https://www.fima.cl/2026/10/06/manual-de-justicia-de-policia-local-y-medio-ambiente-una-herramienta-para-fortalecer-el-acceso-a-la-justicia-ambiental/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental realiza inspección personal en la Quebrada de Tarapacá, sector de Casablanca, por demanda de daño ambiental",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-realiza-inspeccion-personal-en-la-quebrada-de-tarapaca-sector-de-casablanca-por-demanda-de-dano-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-realiza-inspeccion-personal-en-la-quebrada-de-tarapaca-sector-de-casablanca-por-demanda-de-dano-ambiental",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-7/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-7",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer grupo de pasantes de 2026 finalizan su pasantía en el Primer Tribunal Ambiental",
+      "url": "https://1ta.cl/primer-grupo-de-pasantes-de-2026-finalizan-su-pasantia-en-el-primer-tribunal-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-grupo-de-pasantes-de-2026-finalizan-su-pasantia-en-el-primer-tribunal-ambiental",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-33-2026 «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-33-2026-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Areas de manejo y explotacion de recursos bentonicos amerb",
+      "url": "https://www.sernapesca.cl/tramites-y-formularios/areas-de-manejo-y-explotacion-de-recursos-bentonicos-amerb/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Aprueban Plan de Acción Regional de Cambio Climático para Arica y Parinacota",
+      "url": "https://mma.gob.cl/aprueban-plan-de-accion-regional-de-cambio-climatico-para-arica-y-parinacota/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Chile avanza en la actualización de sus escenarios de emisiones para orientar la acción climática hacia 2035",
+      "url": "https://mma.gob.cl/chile-avanza-en-la-actualizacion-de-sus-escenarios-de-emisiones-para-orientar-la-accion-climatica-hacia-2035/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Chile fortalece su marco nacional de vulnerabilidad y resiliencia para medir avances en adaptación al cambio climático",
+      "url": "https://mma.gob.cl/chile-fortalece-su-marco-nacional-de-vulnerabilidad-y-resiliencia-para-medir-avances-en-adaptacion-al-cambio-climatico/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Agrupaciones indígenas y municipios piden revocar permiso ambiental de millonario proyecto de transmisión eléctrica",
+      "url": "https://www.latercera.com/pulso/noticia/agrupaciones-indigenas-y-municipios-piden-revocar-permiso-ambiental-de-millonario-proyecto-de-transmision-electrica/",
+      "fecha": "2026-10-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Segundo Tribunal Ambiental ratifica multa de $86 millones al Autódromo de Codegua por infracción a norma de ruidos",
+      "url": "https://www.diarioconstitucional.cl/2026/10/06/segundo-tribunal-ambiental-ratifica-multa-de-86-millones-al-autodromo-de-codegua-por-infraccion-a-norma-de-ruidos/",
+      "fecha": "2026-10-06",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Gary Medel: \"Quiero seguir jugando, ya sea en Católica o en otro equipo\"",
-      "url": "https://www.cooperativa.cl/noticias/deportes/futbol/gary-medel/gary-medel-quiero-seguir-jugando-ya-sea-en-catolica-o-en-otro-equipo/2026-10-04/114744.html",
-      "fecha": "2026-10-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "fuente": "País Circular",
+      "titular": "Colbún renueva alianza para que el Maratón de viña del Mar sea carbono neutral por tercer año consecutivo",
+      "url": "https://www.paiscircular.cl/transicion-energetica/colbun-renueva-alianza-para-que-el-maraton-de-vina-del-mar-sea-carbono-neutral-por-tercer-ano-consecutivo/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Plataforma «Aura» detecta islas de calor y emisiones de CO2 por zonas en Santiago (CNN Tiempo)",
+      "url": "https://www.cr2.cl/plataforma-aura-detecta-islas-de-calor-y-emisiones-de-co2-por-zonas-en-santiago-cnn-tiempo/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Yuly Velásquez, lideresa ambiental: «Defender los derechos causa la muerte en Colombia»",
+      "url": "https://efeverde.com/yuly-velasquez-lideresa-ambiental-defender-los-derechos-causa-la-muerte-en-colombia/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "El Primer Tribunal Ambiental conmemorará su IX Aniversario con un conversatorio sobre «El rol del Norte de Chile en la transición energética»",
+      "url": "https://1ta.cl/el-primer-tribunal-ambiental-conmemorara-su-ix-aniversario-con-un-conversatorio-sobre-el-rol-del-norte-de-chile-en-la-transicion-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=el-primer-tribunal-ambiental-conmemorara-su-ix-aniversario-con-un-conversatorio-sobre-el-rol-del-norte-de-chile-en-la-transicion-energetica",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/10/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
+      "url": "https://3ta.cl/audiencias/22-10-2026-fija-audiencia-en-caso-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-18-2026 «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-18-2026-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Reserva Nacional Los Huemules del Niblinto reabre sus puertas a visitantes",
+      "url": "https://www.conaf.cl/reserva-nacional-los-huemules-del-niblinto-reabre-sus-puertas-a-visitantes/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-nacional-los-huemules-del-niblinto-reabre-sus-puertas-a-visitantes",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Consejo Consultivo de la Reserva Nacional Ñuble reactiva trabajo en áreas de conservación, turismo y optimización",
+      "url": "https://www.conaf.cl/consejo-consultivo-de-la-reserva-nacional-nuble-reactiva-trabajo-en-areas-de-conservacion-turismo-y-optimizacion/?utm_source=rss&utm_medium=rss&utm_campaign=consejo-consultivo-de-la-reserva-nacional-nuble-reactiva-trabajo-en-areas-de-conservacion-turismo-y-optimizacion",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CORMA, CONAF y PDI fortalecen coordinación para determinar causas de incendios forestales",
+      "url": "https://www.conaf.cl/corma-conaf-y-pdi-fortalecen-coordinacion-para-determinar-causas-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=corma-conaf-y-pdi-fortalecen-coordinacion-para-determinar-causas-de-incendios-forestales",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Autoridades dan inicio a programa que reforzará la prevención de incendios forestales en 19 comunas de la Región de Valparaíso",
+      "url": "https://www.conaf.cl/autoridades-de-valparaiso-dan-inicio-a-programa-que-reforzara-la-prevencion-de-incendios-forestales-en-19-comunas-de-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-de-valparaiso-dan-inicio-a-programa-que-reforzara-la-prevencion-de-incendios-forestales-en-19-comunas-de-la-region",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Región de Coquimbo impulsa la economía circular con lanzamiento de “REgenera Chile”",
+      "url": "https://mma.gob.cl/region-de-coquimbo-impulsa-la-economia-circular-con-lanzamiento-de-chile-regenera/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En el Día Nacional del Medio Ambiente realizan jornada de observación del “Desierto Florido de Tarapacá”",
+      "url": "https://mma.gob.cl/en-el-dia-nacional-del-medio-ambiente-realizan-jornada-de-observacion-del-desierto-florido-de-tarapaca/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Invitan a la ciudadanía de Ñuble a registrar la biodiversidad a través de iNaturalist",
+      "url": "https://mma.gob.cl/invitan-a-la-ciudadania-de-nuble-a-registrar-la-biodiversidad-a-traves-de-inaturalist/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Últimos días: SEREMI del Medio Ambiente llama a organizaciones a postular al Fondo de Protección Ambiental 2027",
+      "url": "https://mma.gob.cl/ultimos-dias-seremi-del-medio-ambiente-llama-a-organizaciones-a-postular-al-fondo-de-proteccion-ambiental-2027/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "En Santuario de la Naturaleza Humedal Reloca: Seremi del Medio Ambiente invita a registrar la naturaleza en red social de ciencia ciudadana",
+      "url": "https://mma.gob.cl/en-santuario-de-la-naturaleza-humedal-reloca-seremi-del-medio-ambiente-invita-a-registrar-la-naturaleza-en-red-social-de-ciencia-ciudadana/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Escondida | BHP solicita mediación laboral en negociación colectiva con Sindicato N°2 de Supervisores",
+      "url": "https://www.portalminero.com/escondida-bhp-solicita-mediacion-laboral-en-negociacion-colectiva-con-sindicato-n2-de-supervisores",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Lomas Bayas duplicó su meta de valorización de neumáticos fuera de uso",
+      "url": "https://www.nuevamineria.com/revista/lomas-bayas-duplico-su-meta-de-valorizacion-de-neumaticos-fuera-de-uso/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal confirma multa superior a $4.000 millones contra Albemarle por infracciones ambientales",
+      "url": "https://www.nuevamineria.com/revista/tribunal-confirma-multa-superior-a-4-000-millones-contra-albemarle-por-infracciones-ambientales/",
+      "fecha": "2026-10-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     }
   ]
 }
