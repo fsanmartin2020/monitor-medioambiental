@@ -1,139 +1,77 @@
 {
-  "fecha_generacion": "2026-10-06T14:28:30.871579-03:00",
-  "total_alertas": 11,
+  "fecha_generacion": "2026-10-07T14:52:54.086041-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Pedro Álamos, gerente general de ProREP: “Para que la Ley REP sea un éxito se tiene que ajustar”",
-      "url": "https://www.paiscircular.cl/economia-circular/pedro-alamos-gerente-gerenal-de-prorep-para-que-la-ley-rep-sea-un-exito-se-tiene-que-ajustar/",
-      "fecha": "2026-10-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Sistema de Gestión exclusivo de Envases y Embalajes no domiciliarios, ProREP, se alza como un actor relevante en el marco de la implementación de la Ley REP. Su gerente general, Pedro Álamos, ahonda a continuación en los avances, obstáculos y desa",
-      "keywords_detectadas": [
-        "SEA",
-        "Ley REP"
-      ]
-    },
-    {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Presupuesto 2027 recorta 59% los fondos de Medio Ambiente para cambio climático y deja a Escazú sin asignación",
-      "url": "https://www.terram.cl/el-desconcierto-presupuesto-2027-recorta-59-los-fondos-de-medio-ambiente-para-cambio-climatico-y-deja-a-escazu-sin-asignacion/",
-      "fecha": "2026-10-06",
+      "titular": "[El Desconcierto] “Es una política de Estado”: Escazú Ahora critica al gobierno por dejar sin fondos protección a defensores ambientales",
+      "url": "https://www.terram.cl/el-desconcierto-es-una-politica-de-estado-escazu-ahora-critica-al-gobierno-por-dejar-sin-fondos-proteccion-a-defensores-ambientales/",
+      "fecha": "2026-10-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Subsecretaría del Medio Ambiente es el principal afectado de los recortes. Desarrollo Sostenible cae 43,8%, el Fondo de Protección Ambiental 29,4%, mientras la glosa que reservaba $144,5 millones para la implementación del Acuerdo de Escazú no apa",
+      "extracto": "La propuesta fiscal no contempla recursos específicos para el tratado ambiental ni rendición de cuentas obligatoria ante el Congreso. Fuente: El Desconcierto, 6 de octubre de 2026.",
       "keywords_detectadas": [
         "Escazú"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental realiza inspección personal en la Quebrada de Tarapacá, sector de Casablanca, por demanda de daño ambiental",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-realiza-inspeccion-personal-en-la-quebrada-de-tarapaca-sector-de-casablanca-por-demanda-de-dano-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-realiza-inspeccion-personal-en-la-quebrada-de-tarapaca-sector-de-casablanca-por-demanda-de-dano-ambiental",
-      "fecha": "2026-10-06",
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Presupuesto 2027 recorta capacidad de fiscalizar daño ambiental y evaluar el impacto de proyectos de inversión",
+      "url": "https://www.terram.cl/el-desconcierto-presupuesto-2027-recorta-capacidad-de-fiscalizar-dano-ambiental-y-evaluar-el-impacto-de-proyectos-de-inversion/",
+      "fecha": "2026-10-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Durante una jornada en terreno, el equipo multidisciplinario del Primer Tribunal Ambiental, liderado por el ministro titular en Ciencias, Marcelo Hernández Rojas, recorrió diversos lugares en el sector de Casablanca,... The post Primer Tribunal Ambie",
+      "extracto": "El Presupuesto 2027 recorta recursos para detectar y sancionar acciones que dañan la naturaleza y para evaluar el impacto de proyectos de inversión y exigir medidas de compensación. Fuente: El Desconcierto, 7 de octubre de 2026.",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
         "daño ambiental"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-7/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-7",
-      "fecha": "2026-10-06",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Sala del Senado ratifica a candidatos del Gobierno para integrar los tres Tribunales Ambientales",
+      "url": "https://www.revistaei.cl/sala-del-senado-ratifica-a-candidatos-del-gobierno-para-integrar-los-tres-tribunales-ambientales/",
+      "fecha": "2026-10-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental informa que ya está disponible el N° 9-2026 de su Boletín de Actualidad Ambiental. La edición de este mes contiene información ambiental relevante de lo ocurrido... The post Primer Tribunal Ambiental publica nuevo número ",
+      "extracto": "La ministra Francisca Toledo destacó que con la aprobación de estas nominaciones se va a contar con la conformación completa de los organismos jurisdiccionales. La entrada Sala del Senado ratifica a candidatos del Gobierno para integrar los tres Trib",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Tribunales Ambientales"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer grupo de pasantes de 2026 finalizan su pasantía en el Primer Tribunal Ambiental",
-      "url": "https://1ta.cl/primer-grupo-de-pasantes-de-2026-finalizan-su-pasantia-en-el-primer-tribunal-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-grupo-de-pasantes-de-2026-finalizan-su-pasantia-en-el-primer-tribunal-ambiental",
-      "fecha": "2026-10-06",
+      "fuente": "REDIMIN",
+      "titular": "SEA exige 204 aclaraciones a desalinizadora de GNL Quintero y pone foco en salmuera y pesca artesanal",
+      "url": "https://www.redimin.cl/sea-exige-204-aclaraciones-a-desalinizadora-de-gnl-quintero-y-pone-foco-en-salmuera-y-pesca-artesanal",
+      "fecha": "2026-10-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con tres nuevos integrantes terminó la convocatoria del año 2026 de pasantes para el primer periodo, luego de ser seleccionados mediante concursos convocados por el Primer Tribunal Ambiental. Como es... The post Primer grupo de pasantes de 2026 final",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-33-2026 «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-33-2026-constructora-cerro-moreno-sur-limitada-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-10-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-33-2026 «Constructora Cerro Moreno Sur Limitada con Superintendencia del Medio Ambiente», el martes 6 de octubre, a las 1",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental ratifica multa de $86 millones al Autódromo de Codegua por infracción a norma de ruidos",
-      "url": "https://www.diarioconstitucional.cl/2026/10/06/segundo-tribunal-ambiental-ratifica-multa-de-86-millones-al-autodromo-de-codegua-por-infraccion-a-norma-de-ruidos/",
-      "fecha": "2026-10-06",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Colbún renueva alianza para que el Maratón de viña del Mar sea carbono neutral por tercer año consecutivo",
-      "url": "https://www.paiscircular.cl/transicion-energetica/colbun-renueva-alianza-para-que-el-maraton-de-vina-del-mar-sea-carbono-neutral-por-tercer-ano-consecutivo/",
-      "fecha": "2026-10-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Al igual que los últimos tres años, el Itaú Maratón de Viña del Mar será carbono neutral gracias a Colbún, que compensará las emisiones del evento con bonos de carbono de sus centrales renovables The post Colbún renueva alianza para que el Maratón de",
+      "extracto": "El Servicio de Evaluación Ambiental ha solicitado 204 aclaraciones a la planta desalinizadora de GNL Quintero, centrándose en sus impactos en el medio marino y la pesca artesanal.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "El Primer Tribunal Ambiental conmemorará su IX Aniversario con un conversatorio sobre «El rol del Norte de Chile en la transición energética»",
-      "url": "https://1ta.cl/el-primer-tribunal-ambiental-conmemorara-su-ix-aniversario-con-un-conversatorio-sobre-el-rol-del-norte-de-chile-en-la-transicion-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=el-primer-tribunal-ambiental-conmemorara-su-ix-aniversario-con-un-conversatorio-sobre-el-rol-del-norte-de-chile-en-la-transicion-energetica",
-      "fecha": "2026-10-05",
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra titular del Parque Residencial Mitrinhue por incumplimientos ambientales en su Planta de Tratamiento de Aguas Servidas",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titular-del-parque-residencial-mitrinhue-por-incumplimientos-ambientales-en-su-planta-de-tratamiento-de-aguas-servidas/",
+      "fecha": "2026-10-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En la ocasión, el ministro presidente del Tribunal, Alamiro Alfaro Zepeda, dará las palabras de bienvenida y ofrecerá un discurso con motivo del aniversario. Como panelistas del conversatorio participarán Brigitte... The post El Primer Tribunal Ambie",
+      "extracto": "Fiscalizaciones de la SMA en conjunto con la SEREMI de Salud del Biobío constataron la operación deficiente del sistema de tratamiento, descargas de efluentes no tratados al río Biobío y el no acatamiento de reiterados requerimientos de información. ",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SMA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "22/10/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
-      "url": "https://3ta.cl/audiencias/22-10-2026-fija-audiencia-en-caso-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
-      "fecha": "2026-10-05",
+      "fuente": "Senado",
+      "titular": "Respaldan nueva integracion de los tribunales ambientales",
+      "url": "https://www.senado.cl/comunicaciones/noticias/respaldan-nueva-integracion-de-los-tribunales-ambientales",
+      "fecha": "2026-10-06",
       "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 22/10/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace The post 22/10/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente», Rol: R-48-2026 appea",
+      "metodo_extraccion": "sitemap",
+      "extracto": "",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-18-2026 «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-18-2026-residuos-industriales-del-sur-limitada-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-10-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-18-2026 «Residuos Industriales del Sur Limitada con Superintendencia del Medio Ambiente», el martes 6 de octubre, a las 9",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "Tribunales Ambientales"
       ]
     }
   ]
