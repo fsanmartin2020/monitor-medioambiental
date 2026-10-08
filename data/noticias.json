@@ -1,287 +1,295 @@
 {
-  "fecha_actualizacion": "2026-10-07T14:52:54.070387-03:00",
-  "total": 35,
+  "fecha_actualizacion": "2026-10-08T14:57:03.570567-03:00",
+  "total": 36,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Mitzy Lagos, de Midas Chile: “Si sólo nos enfocamos en el número de la meta, descuidamos la eficiencia y nos centramos en la eficacia”",
-      "url": "https://www.paiscircular.cl/economia-circular/mitzy-lagos-de-midas-raee/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Gobierno avanza en mecanismo que potenciará articulación público-privada para acelerar inversión en acción climática",
-      "url": "https://www.chiledesarrollosustentable.cl/gobierno-avanza-en-mecanismo-que-potenciara-articulacion-publico-privada-para-acelerar-inversion-en-accion-climatica/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-avanza-en-mecanismo-que-potenciara-articulacion-publico-privada-para-acelerar-inversion-en-accion-climatica",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Alcaldes de Maipú, Renca y La Pintana advierten que transición climática se frena por falta de infraestructura, equidad territorial y financiamiento",
-      "url": "https://codexverde.cl/alcaldes-de-santiago-desafios-para-la-transicion-climatica/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La industria está diluyendo normas europeas de pesticidas, según un grupo de investigación",
-      "url": "https://efeverde.com/industria-normas-europeas-de-pesticidas/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Mangas Verdes llega al programa 500 hablando de arbolado urbano, CONAMA y oficios rurales",
-      "url": "https://efeverde.com/mangas-verdes-programa-500-arbolado-urbano-conama-oficios-rurales/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los pingüinos aceleran el deshielo en la Antártida",
-      "url": "https://efeverde.com/pinguinos-aceleran-deshielo-antartida/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Fundación para la Conservación del Quebrantahuesos lanza una nueva versión de su app con seguimiento satelital",
-      "url": "https://efeverde.com/fundacion-para-la-conservacion-del-quebrantahuesos-app/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Ya está aquí la berrea. Por May",
-      "url": "https://efeverde.com/aqui-berrea-may-mundomay/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "289 aves anilladas en la última campaña nocturna de SEO/BirdLife en las Marismas del Odiel (Huelva)",
-      "url": "https://efeverde.com/aves-anilladas-marismas-del-odiel-huelva/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Detenidas 233 personas en una operación internacional contra delitos ambientales en América Latina",
-      "url": "https://efeverde.com/detenidas-233-personas-en-una-operacion-internacional-contra-delitos-ambientales-en-america-latina/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El futuro de los centros de datos, ¿desenchufados y sin agua?",
-      "url": "https://efeverde.com/el-futuro-de-los-centros-de-datos-desenchufados-y-sin-agua/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Reza Memari: «El cine puede cambiar nuestra forma de entender los problemas ambientales»",
-      "url": "https://efeverde.com/reza-memari-la-leyenda-de-la-ballena-cantora/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Reportea.cl] Fiscalía abre investigación por cartas entre abogado de los dueños de la salmonera Australis y oficial de la PDI",
-      "url": "https://www.terram.cl/reportea-cl-fiscalia-abre-investigacion-por-cartas-entre-abogado-de-los-duenos-de-la-salmonera-australis-y-oficial-de-la-pdi/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] “Es una política de Estado”: Escazú Ahora critica al gobierno por dejar sin fondos protección a defensores ambientales",
-      "url": "https://www.terram.cl/el-desconcierto-es-una-politica-de-estado-escazu-ahora-critica-al-gobierno-por-dejar-sin-fondos-proteccion-a-defensores-ambientales/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Presupuesto 2027 recorta capacidad de fiscalizar daño ambiental y evaluar el impacto de proyectos de inversión",
-      "url": "https://www.terram.cl/el-desconcierto-presupuesto-2027-recorta-capacidad-de-fiscalizar-dano-ambiental-y-evaluar-el-impacto-de-proyectos-de-inversion/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Mostrador] La contaminación sigue la comida de las ballenas en La Patagonia",
-      "url": "https://www.terram.cl/el-mostrador-la-contaminacion-sigue-la-comida-de-las-ballenas-en-la-patagonia/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] El Niño extremo ya se siente en Latinoamérica: inundaciones y sequías pronostican un diciembre con mayores impactos",
-      "url": "https://www.terram.cl/mongabay-el-nino-extremo-ya-se-siente-en-latinoamerica-inundaciones-y-sequias-pronostican-un-diciembre-con-mayores-impactos/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Las ranitas que recuerdan a Andy Charrier: fotografías de un libro que quedó inconcluso y hoy vuelve a abrirse en memoria del herpetólogo",
-      "url": "https://www.terram.cl/ladera-sur-las-ranitas-que-recuerdan-a-andy-charrier-fotografias-de-un-libro-que-quedo-inconcluso-y-hoy-vuelve-a-abrirse-en-memoria-del-herpetologo/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Programa de Emergencia de Empleo de CONAF inició labores en la comuna de Pumanque",
-      "url": "https://www.conaf.cl/programa-de-emergencia-de-empleo-de-conaf-inicio-labores-en-la-comuna-de-pumanque/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-emergencia-de-empleo-de-conaf-inicio-labores-en-la-comuna-de-pumanque",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Delegación chilena concluye seminario en China con nuevos aprendizajes para fortalecer la electromovilidad y el desarrollo sostenible",
-      "url": "https://mma.gob.cl/delegacion-chilena-concluye-seminario-en-china-con-nuevos-aprendizajes-para-fortalecer-la-electromovilidad-y-el-desarrollo-sostenible/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremis de Medio Ambiente y Educación fortalecen alianza por la educación sustentable",
-      "url": "https://mma.gob.cl/seremis-de-medio-ambiente-y-educacion-fortalecen-alianza-por-la-educacion-sustentable/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Municipios de Ñuble reciben certificación ambiental y avanzan hacia nuevo modelo de gestión sustentable",
-      "url": "https://mma.gob.cl/municipios-de-nuble-reciben-certificacion-ambiental-y-avanzan-hacia-nuevo-modelo-de-gestion-sustentable/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Telescopio Magallanes Gigante: el proyecto que busca llevar a Chile aún más lejos en la exploración del universo",
-      "url": "https://mma.gob.cl/telescopio-magallanes-gigante-el-proyecto-que-busca-llevar-a-chile-aun-mas-lejos-en-la-exploracion-del-universo/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Sala del Senado ratifica a candidatos del Gobierno para integrar los tres Tribunales Ambientales",
-      "url": "https://www.revistaei.cl/sala-del-senado-ratifica-a-candidatos-del-gobierno-para-integrar-los-tres-tribunales-ambientales/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA exige 204 aclaraciones a desalinizadora de GNL Quintero y pone foco en salmuera y pesca artesanal",
-      "url": "https://www.redimin.cl/sea-exige-204-aclaraciones-a-desalinizadora-de-gnl-quintero-y-pone-foco-en-salmuera-y-pesca-artesanal",
-      "fecha": "2026-10-07",
+      "titular": "Mayor convocatoria a la fecha: AZA Contigo va por la meta de 100 recicladores certificados en 2026",
+      "url": "https://www.paiscircular.cl/economia-circular/mayor-convocatoria-a-la-fecha-aza-contigo-va-por-la-meta-de-100-recicladores-certificados-en-2026/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "¿Qué tendría que pasar para terminar con la judicialización de Dominga?",
-      "url": "https://www.paiscircular.cl/opinion/que-tendria-que-pasar-para-terminar-con-la-judicializacion-de-dominga/",
-      "fecha": "2026-10-06",
+      "titular": "Rodolfo Poblete, gerente general de Neuvol: “La revisión del decreto de metas de los neumáticos debe adaptarse a la capacidad instalada del país”",
+      "url": "https://www.paiscircular.cl/economia-circular/decreto-neuvol/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Proyecto busca regular por primera vez las sustancias químicas presentes en los plásticos",
-      "url": "https://codexverde.cl/proyecto-busca-regular-por-primera-vez-las-sustancias-quimicas-presentes-en-los-plasticos/",
-      "fecha": "2026-10-06",
+      "titular": "Vida outdoor: qué se necesita para hacer trekking",
+      "url": "https://codexverde.cl/vida-outdoor-que-se-necesita-para-hacer-trekking/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Proyecto busca convertir paneles solares en desuso en fertilizante",
-      "url": "https://codexverde.cl/proyecto-busca-convertir-paneles-solares-en-desuso-en-fertilizante/",
-      "fecha": "2026-10-06",
+      "titular": "Aceite esencial de manzanilla para aliviar la inflamación y dolores articulares",
+      "url": "https://codexverde.cl/aceite-esencial-manzanilla-inflamacion-dolores-articulares/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Una mirada a la precordillera: las fotografías que ponen en valor la biodiversidad de Parque Cordillera",
+      "url": "https://codexverde.cl/una-mirada-a-la-precordillera-las-fotografias-que-ponen-en-valor-la-biodiversidad-de-parque-cordillera/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Quitralco, el primer fiordo euxínico de la Patagonia: una ventana al estudio del océano sin oxígeno",
+      "url": "https://codexverde.cl/quitralco-el-primer-fiordo-euxinico-de-la-patagonia-una-ventana-al-estudio-del-oceano-sin-oxigeno/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La OCDE valora la enseñanza española de la dana sobre cómo responder a catástrofes",
-      "url": "https://efeverde.com/la-ocde-valora-la-ensenanza-espanola-de-la-dana-sobre-como-responder-a-catastrofes/",
-      "fecha": "2026-10-06",
+      "titular": "La cumbre previa a la COP31 cierra con llamamientos a seguir trabajando para mantener el objetivo de 1,5 grados",
+      "url": "https://efeverde.com/prec-cop31-llamamientos-a-seguir-trabajando-objetivo-15-grados/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Actas de evaluacion emitidas por las comisiones evaluadoras de licitaciones",
-      "url": "https://www.sernapesca.cl/actas-de-evaluacion-emitidas-por-las-comisiones-evaluadoras-de-licitaciones/",
-      "fecha": "2026-10-06",
+      "fuente": "EFE Verde",
+      "titular": "Gobierno y Junta de Andalucía acuerdan avanzar coordinadamente para demoler El Algarrobico",
+      "url": "https://efeverde.com/gobierno-junta-acuerdan-avanzar-demoler-el-algarrobico/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de ejecutivoa de atencion virtual escalafon administrativo a contrata asimilado a grado 21 de la e u s de la unidad de atencion de usuarios",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-ejecutivoa-de-atencion-virtual-escalafon-administrativo-a-contrata-asimilado-a-grado-21-de-la-e-u-s-de-la-unidad-de-atencion-de-usuarios/",
-      "fecha": "2026-10-06",
+      "fuente": "EFE Verde",
+      "titular": "Emergencia en Alabama y evacuaciones en Florida ante el impacto del huracán Isaías en EEUU",
+      "url": "https://efeverde.com/emergencia-alabama-evacuaciones-florida-huracan-isaias-eeuu/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los acuíferos en Francia sufren una drástica degradación por la sequía",
+      "url": "https://efeverde.com/acuiferos-francia-degradacion-sequia/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las Palmas da carpetazo definitivo a la primera granja de pulpos en el día de este animal",
+      "url": "https://efeverde.com/palmas-carpetazo-primera-granja-pulpos/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El 83 % de los españoles confía en la etiqueta ecológica de la UE",
+      "url": "https://efeverde.com/el-83-de-los-espanoles-confia-en-la-etiqueta-ecologica-de-la-ue/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El TEDH declara inadmisible la demanda de la entidad jurídica Mar Menor contra España",
+      "url": "https://efeverde.com/el-tedh-declara-inadmisible-la-demanda-de-la-entidad-juridica-mar-menor-contra-espana/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Greenpeace denuncia que pueblos afectados por el incendio de Burgohondo no tienen agua por las cenizas",
+      "url": "https://efeverde.com/greenpeace-incendio-burgohondo-agua-cenizas/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Parque nacional de Aigüestortes (Lleida) atesora la mayor cantidad y calidad de bosques maduros de España",
+      "url": "https://efeverde.com/el-parque-nacional-de-aiguestortes-lleida-atesora-la-mayor-cantidad-y-calidad-de-bosques-maduros-de-espana/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La OMM alerta de un El Niño que elevará las temperaturas en gran parte del planeta",
+      "url": "https://efeverde.com/la-omm-alerta-de-un-el-nino-que-elevara-las-temperaturas-en-gran-parte-del-planeta/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Eduardo Tolosana (decano del Colegio Oficial de Ingenieros de Montes): «España necesita invertir 2.000 millones más contra incendios»",
+      "url": "https://efeverde.com/eduardo-tolosana-espana-necesita-invertir-2-000-millones-mas-contra-incendios/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "BBVA y Lobelia Earth desarrollan una herramienta para anticipar los efectos de El Niño y reducir riesgos",
+      "url": "https://efeverde.com/bbva-y-lobelia-earth-desarrollan-una-herramienta-para-anticipar-los-efectos-de-el-nino-y-reducir-riesgos/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Nueva Mirada] La ley de Presupuestos y el medio ambiente",
+      "url": "https://www.terram.cl/la-nueva-mirada-la-ley-de-presupuestos-y-el-medio-ambiente/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ciper Chile] Tras reportaje de CIPER: Contraloría pide antecedentes de actuaciones e inhabilidades del subsecretario de Energía por proyecto Kimal-Lo Aguirre",
+      "url": "https://www.terram.cl/ciper-chile-tras-reportaje-de-ciper-contraloria-pide-antecedentes-de-actuaciones-e-inhabilidades-del-subsecretario-de-energia-por-proyecto-kimal-lo-aguirre/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO",
+      "url": "https://www.terram.cl/the-clinic-gobierno-regional-de-atacama-y-mas-chile-cultura-buscan-reconocer-el-desierto-florido-como-patrimonio-mundial-de-la-unesco/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Araucanía rechaza polémica incineradora de basura: Región busca alternativas para gestionar residuos",
+      "url": "https://www.terram.cl/el-desconcierto-araucania-rechaza-polemica-incineradora-de-basura-region-busca-alternativas-para-gestionar-residuos/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Dialogue Earth] COP17: ¿Pueden los países repartir los beneficios de los datos digitales de la naturaleza?",
+      "url": "https://www.terram.cl/dialogue-earth-cop17-pueden-los-paises-repartir-los-beneficios-de-los-datos-digitales-de-la-naturaleza/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[CodexVerde] Quitralco, el primer fiordo euxínico de la Patagonia: una ventana al estudio del océano sin oxígeno",
+      "url": "https://www.terram.cl/codexverde-quitralco-el-primer-fiordo-euxinico-de-la-patagonia-una-ventana-al-estudio-del-oceano-sin-oxigeno/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF Coquimbo y Universidad de Chile sellan alianza por cinco años para restaurar los ecosistemas de la región",
-      "url": "https://www.conaf.cl/conaf-coquimbo-y-universidad-de-chile-sellan-alianza-por-cinco-anos-para-restaurar-los-ecosistemas-de-la-region/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-coquimbo-y-universidad-de-chile-sellan-alianza-por-cinco-anos-para-restaurar-los-ecosistemas-de-la-region",
-      "fecha": "2026-10-06",
+      "titular": "CONAF capacita a 54 efectivos de la Brigada de Aviación del Ejército para combatir incendios forestales",
+      "url": "https://www.conaf.cl/conaf-capacita-a-54-efectivos-de-la-brigada-de-aviacion-del-ejercito-para-combatir-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-capacita-a-54-efectivos-de-la-brigada-de-aviacion-del-ejercito-para-combatir-incendios-forestales",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA formula cargos contra titular del Parque Residencial Mitrinhue por incumplimientos ambientales en su Planta de Tratamiento de Aguas Servidas",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titular-del-parque-residencial-mitrinhue-por-incumplimientos-ambientales-en-su-planta-de-tratamiento-de-aguas-servidas/",
-      "fecha": "2026-10-06",
+      "fuente": "CONAF",
+      "titular": "CONAF y Club Hípico de Santiago firman convenio de colaboración para aumentar el arbolado urbano y las áreas verdes",
+      "url": "https://www.conaf.cl/conaf-y-club-hipico-de-santiago-firman-convenio-de-colaboracion-para-aumentar-el-arbolado-urbano-y-las-areas-verdes/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-club-hipico-de-santiago-firman-convenio-de-colaboracion-para-aumentar-el-arbolado-urbano-y-las-areas-verdes",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente realiza balance GEC 2026 y anuncia fortalecimiento de las medidas para enfrentar la contaminación en Coyhaique",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-realiza-balance-gec-2026-y-anuncia-fortalecimiento-de-las-medidas-para-enfrentar-la-contaminacion-en-coyhaique/",
-      "fecha": "2026-10-06",
+      "titular": "Ministerio del Medio Ambiente constituyó el Consejo Nacional para la Sustentabilidad y el Cambio Climático 2026-2028",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-constituyo-el-consejo-nacional-para-la-sustentabilidad-y-el-cambio-climatico-2026-2028/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Senado",
-      "titular": "Respaldan nueva integracion de los tribunales ambientales",
-      "url": "https://www.senado.cl/comunicaciones/noticias/respaldan-nueva-integracion-de-los-tribunales-ambientales",
-      "fecha": "2026-10-06",
+      "fuente": "La Tercera",
+      "titular": "Constanza Martínez descarta que sea prematuro hablar de candidatos a la Presidencia: “Es bueno saber con quiénes contamos y en qué estamos”",
+      "url": "https://www.latercera.com/politica/noticia/constanza-martinez-descarta-que-sea-prematuro-hablar-de-candidatos-a-la-presidencia-es-bueno-saber-con-quienes-contamos-y-en-que-estamos/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Dínamo",
+      "titular": "Tohá pone paños fríos a eventual candidatura de Bachelet: \"Sería un error que la agenda se vuelque a preparar elecciones\"",
+      "url": "https://www.eldinamo.cl/politica/2026/10/08/toha-pone-panos-frios-a-eventual-candidatura-de-bachelet-seria-un-error-que-la-agenda-se-vuelque-a-preparar-elecciones/",
+      "fecha": "2026-10-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "FLS celebra primer despacho de revestimientos con sello Low Carbon Product",
+      "url": "https://www.paiscircular.cl/empresa-e-innovacion/fls-celebra-primer-despacho-de-revestimientos-con-sello-low-carbon-product/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Ciencias atmosféricas en Chile: un estudio bibliométrico incompleto",
+      "url": "https://www.cr2.cl/ciencias-atmosfericas-en-chile-un-estudio-bibliometrico-incompleto/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Planeta Vivo: la pérdida de vertebrados se mantiene pero la recuperación de tigres o elefantes muestra que se puede frenar",
+      "url": "https://efeverde.com/planeta-vivo-perdida-vertebrados-se-mantiene-pero-recuperacion-tigres-elefantes-muestra-puede-frenar/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente lanza plataforma con datos ambientales geoespaciales",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-lanza-plataforma-con-datos-ambientales-geoespaciales/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Economía Circular desde el aula: El exitoso sistema de biofiltración que imparte la escuela de Samo Alto",
+      "url": "https://mma.gob.cl/economia-circular-desde-el-aula-el-exitoso-sistema-de-biofiltracion-que-imparte-la-escuela-de-samo-alto/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Municipio de Natales recibió la Certificación Ambiental en Nivel de Gobernanza Ambiental Climática Comunal",
+      "url": "https://mma.gob.cl/municipio-de-natales-recibio-la-certificacion-ambiental-en-nivel-de-gobernanza-ambiental-climatica-comunal/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente impulsa el uso de iNaturalist para conocer y proteger la biodiversidad",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-impulsa-el-uso-de-inaturalist-para-conocer-y-proteger-la-biodiversidad/",
+      "fecha": "2026-10-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     }
   ]
 }

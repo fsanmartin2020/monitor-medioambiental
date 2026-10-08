@@ -1,77 +1,17 @@
 {
-  "fecha_generacion": "2026-10-07T14:52:54.086041-03:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-10-08T14:57:03.584837-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] “Es una política de Estado”: Escazú Ahora critica al gobierno por dejar sin fondos protección a defensores ambientales",
-      "url": "https://www.terram.cl/el-desconcierto-es-una-politica-de-estado-escazu-ahora-critica-al-gobierno-por-dejar-sin-fondos-proteccion-a-defensores-ambientales/",
-      "fecha": "2026-10-07",
+      "fuente": "La Tercera",
+      "titular": "Constanza Martínez descarta que sea prematuro hablar de candidatos a la Presidencia: “Es bueno saber con quiénes contamos y en qué estamos”",
+      "url": "https://www.latercera.com/politica/noticia/constanza-martinez-descarta-que-sea-prematuro-hablar-de-candidatos-a-la-presidencia-es-bueno-saber-con-quienes-contamos-y-en-que-estamos/",
+      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La propuesta fiscal no contempla recursos específicos para el tratado ambiental ni rendición de cuentas obligatoria ante el Congreso. Fuente: El Desconcierto, 6 de octubre de 2026.",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Presupuesto 2027 recorta capacidad de fiscalizar daño ambiental y evaluar el impacto de proyectos de inversión",
-      "url": "https://www.terram.cl/el-desconcierto-presupuesto-2027-recorta-capacidad-de-fiscalizar-dano-ambiental-y-evaluar-el-impacto-de-proyectos-de-inversion/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Presupuesto 2027 recorta recursos para detectar y sancionar acciones que dañan la naturaleza y para evaluar el impacto de proyectos de inversión y exigir medidas de compensación. Fuente: El Desconcierto, 7 de octubre de 2026.",
-      "keywords_detectadas": [
-        "daño ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Sala del Senado ratifica a candidatos del Gobierno para integrar los tres Tribunales Ambientales",
-      "url": "https://www.revistaei.cl/sala-del-senado-ratifica-a-candidatos-del-gobierno-para-integrar-los-tres-tribunales-ambientales/",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La ministra Francisca Toledo destacó que con la aprobación de estas nominaciones se va a contar con la conformación completa de los organismos jurisdiccionales. La entrada Sala del Senado ratifica a candidatos del Gobierno para integrar los tres Trib",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SEA exige 204 aclaraciones a desalinizadora de GNL Quintero y pone foco en salmuera y pesca artesanal",
-      "url": "https://www.redimin.cl/sea-exige-204-aclaraciones-a-desalinizadora-de-gnl-quintero-y-pone-foco-en-salmuera-y-pesca-artesanal",
-      "fecha": "2026-10-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental ha solicitado 204 aclaraciones a la planta desalinizadora de GNL Quintero, centrándose en sus impactos en el medio marino y la pesca artesanal.",
+      "extracto": "A propósito de una posible candidatura presidencial de Michelle Bachelet, la secretaria general del FA aseguró que, faltando tres años para las elecciones, se debe \"construir una alternativa de gobierno que sea atractiva\". En esa línea, destacó que e",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA formula cargos contra titular del Parque Residencial Mitrinhue por incumplimientos ambientales en su Planta de Tratamiento de Aguas Servidas",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titular-del-parque-residencial-mitrinhue-por-incumplimientos-ambientales-en-su-planta-de-tratamiento-de-aguas-servidas/",
-      "fecha": "2026-10-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Fiscalizaciones de la SMA en conjunto con la SEREMI de Salud del Biobío constataron la operación deficiente del sistema de tratamiento, descargas de efluentes no tratados al río Biobío y el no acatamiento de reiterados requerimientos de información. ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Senado",
-      "titular": "Respaldan nueva integracion de los tribunales ambientales",
-      "url": "https://www.senado.cl/comunicaciones/noticias/respaldan-nueva-integracion-de-los-tribunales-ambientales",
-      "fecha": "2026-10-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
       ]
     }
   ]
