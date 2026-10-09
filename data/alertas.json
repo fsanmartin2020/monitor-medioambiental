@@ -1,15 +1,51 @@
 {
-  "fecha_generacion": "2026-10-08T14:57:03.584837-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-10-09T14:30:43.918677-03:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "La Tercera",
-      "titular": "Constanza Martínez descarta que sea prematuro hablar de candidatos a la Presidencia: “Es bueno saber con quiénes contamos y en qué estamos”",
-      "url": "https://www.latercera.com/politica/noticia/constanza-martinez-descarta-que-sea-prematuro-hablar-de-candidatos-a-la-presidencia-es-bueno-saber-con-quienes-contamos-y-en-que-estamos/",
-      "fecha": "2026-10-08",
+      "fuente": "País Circular",
+      "titular": "Jaime Cataldo, Secretario Ejecutivo de MSUR: “Un desafío de la Ley REP es demostrar que la economía circular es un hecho real y no solamente un relato”",
+      "url": "https://www.paiscircular.cl/economia-circular/jaime-cataldo-secretario-ejecutivo-de-msur-un-desafio-de-la-ley-rep-es-demostrar-que-la-economia-circular-es-un-hecho-real-y-no-solamente-un-relato/",
+      "fecha": "2026-10-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "A propósito de una posible candidatura presidencial de Michelle Bachelet, la secretaria general del FA aseguró que, faltando tres años para las elecciones, se debe \"construir una alternativa de gobierno que sea atractiva\". En esa línea, destacó que e",
+      "extracto": "La Asociación de Municipios MSUR, que reúne a 36 comunas de la Región Metropolitana y a más de 480 colaboradores, opera como organismo gestor de la REP, desarrollando con éxito programas de recolección selectiva de Envases y Embalajes, y de recuperac",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Segundo Tribunal Ambiental ratificó multa de más de $2 mil millones contra relleno sanitario Santa Marta",
+      "url": "https://codexverde.cl/segundo-tribunal-ambiental-ratifico-multa-de-mas-de-2-mil-millones-contra-relleno-sanitario-santa-marta/",
+      "fecha": "2026-10-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la reclamación presentada por Consorcio Santa Marta y confirmó una multa de más de $2 mil millones por 11 infracciones ambientales cometidas en su relleno sanitario, ubicado en Talagante, Región Metropolitana. La",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Tras desistimiento en la Suprema, el camino para Dominga está despejado para decisión del SEA y el Comité de Ministros",
+      "url": "https://www.latercera.com/pulso/noticia/dominga-afirma-que-tras-desistimiento-en-la-suprema-el-camino-esta-despejado-para-decision-del-sea-y-el-comite-de-ministros/",
+      "fecha": "2026-10-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Suprema tuvo presente el desistimiento de Dominga, que presentó esta acción judicial cuando la sentencia estaba siendo escrita por el máximo tribunal. Abogado de ONG contraria al proyecto pide que Andes Iron, titular del proyecto, pague las costas",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "La Nación",
+      "titular": "De Grange: “Uno puede tomar medidas, pero no hay forma de que el daño sea cero”",
+      "url": "https://www.lanacion.cl/de-grange-uno-puede-tomar-medidas-pero-no-hay-forma-de-que-el-dano-sea-cero/",
+      "fecha": "2026-10-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El biministro de Obras Públicas y Transportes, Louis de Grange, abordó la magnitud del aluvión que afectó a San Carlos de Apoquindo. Anunció que a fines de esta semana ya deberían estar la totalidad de caminos despejados. En conversación con Radio In",
       "keywords_detectadas": [
         "SEA"
       ]
