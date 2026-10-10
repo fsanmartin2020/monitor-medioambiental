@@ -1,261 +1,93 @@
 {
-  "fecha_actualizacion": "2026-10-09T14:30:43.905573-03:00",
-  "total": 32,
+  "fecha_actualizacion": "2026-10-10T13:18:29.175981-03:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Jaime Cataldo, Secretario Ejecutivo de MSUR: “Un desafío de la Ley REP es demostrar que la economía circular es un hecho real y no solamente un relato”",
-      "url": "https://www.paiscircular.cl/economia-circular/jaime-cataldo-secretario-ejecutivo-de-msur-un-desafio-de-la-ley-rep-es-demostrar-que-la-economia-circular-es-un-hecho-real-y-no-solamente-un-relato/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Segundo Tribunal Ambiental ratificó multa de más de $2 mil millones contra relleno sanitario Santa Marta",
-      "url": "https://codexverde.cl/segundo-tribunal-ambiental-ratifico-multa-de-mas-de-2-mil-millones-contra-relleno-sanitario-santa-marta/",
-      "fecha": "2026-10-09",
+      "fuente": "EFE Verde",
+      "titular": "El parque de Las Tablas de Daimiel, enclave esencial en la migración de la cigüeña negra",
+      "url": "https://efeverde.com/parque-tablas-daimiel-enclave-esencial-migracion-ciguena-negra/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Barra, el pueblo del Pacífico colombiano que retrocede frente al mar",
-      "url": "https://efeverde.com/la-barra-pueblo-pacifico-colombiano-retroceso-mar/",
-      "fecha": "2026-10-09",
+      "titular": "Alicia Torrego (Fundación Conama): «Gobierne quien gobierne, la agenda ambiental seguirá avanzando»",
+      "url": "https://efeverde.com/alicia-torrego-fundacion-conama-agenda-ambiental-seguira-avanzando/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El huracán Isaías aumenta a categoría 3 y amenaza a más de 20 millones de personas en EEUU",
-      "url": "https://efeverde.com/huracan-isaias-categoria-3-amenaza-20-millones-personas-eeuu/",
-      "fecha": "2026-10-09",
+      "titular": "Las lluvias torrenciales, un fenómeno con el que tenemos que acostumbrarnos a convivir",
+      "url": "https://efeverde.com/lluvias-torrenciales-fenomeno-tenemos-acostumbrarnos-convivir/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Justicia deniega una petición para parar la caza de lobos en 2026 en Cantabria",
-      "url": "https://efeverde.com/justicia-deniega-parar-caza-lobos-cantabria/",
-      "fecha": "2026-10-09",
+      "titular": "Un fuerte terremoto de magnitud 7,7 deja al menos 27 heridos leves y más de 400 edificaciones afectadas en Panamá",
+      "url": "https://efeverde.com/fuerte-terremoto-magnitud-77-heridos-leves-panama/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un estudio constata la mala salud de los peces que viven cerca de las costas urbanizadas",
-      "url": "https://efeverde.com/salud-de-los-peces-que-viven-cerca-costa/",
-      "fecha": "2026-10-09",
+      "titular": "Mirar el mar con ojos de libélula. Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
+      "url": "https://efeverde.com/mirar-el-mar-con-ojos-de-libelula-por-maria-galvez-del-castillo-luna/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Los perros más grandes envejecen antes y la respuesta puede estar en los genes saltarines",
-      "url": "https://efeverde.com/perros-grandes-envejecen-antes-genes-saltarines/",
-      "fecha": "2026-10-09",
+      "fuente": "El Ciudadano",
+      "titular": "«El Lago Ranco nos reúne, su defensa nos moviliza»: Marcha en Futrono este 12 de octubre contra proyecto inmobiliario en Bahía Coique",
+      "url": "https://www.elciudadano.com/actualidad/el-lago-ranco-nos-reune-su-defensa-nos-moviliza-marcha-en-futrono-este-12-de-octubre-contra-proyecto-inmobiliario-en-bahia-coique/10/10/",
+      "fecha": "2026-10-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Fondos ambientales buscan facilitar acceso de indígenas a financiación para conservación",
-      "url": "https://efeverde.com/fondos-ambientales-buscan-facilitar-acceso-de-indigenas-a-financiacion-para-conservacion/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Tsunami de camaroneros en el hábitat de la vaquita marina. Por Víctor Solís (@Visoor)",
-      "url": "https://efeverde.com/tsunami-de-camaroneros-en-el-habitat-de-la-vaquita-marina-por-victor-solis-visoor/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Xunta urge al Gobierno a remitir a Bruselas los datos sobre el lobo",
-      "url": "https://efeverde.com/la-xunta-urge-al-gobierno-a-remitir-a-bruselas-los-datos-sobre-el-lobo/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Zaragoza, elegida Capital Verde Europea 2028",
-      "url": "https://efeverde.com/zaragoza-elegida-capital-verde-europea-2028/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cuando las redes sociales «descubren» nuevas especies¨: el caso de un nenúfar gigante",
-      "url": "https://efeverde.com/cuando-las-redes-sociales-descubren-nuevas-especies%c2%a8-el-caso-de-un-nenufar-gigante/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "‘Durmiendo con lobos’, el documental que sigue durante cinco años el rastro del lobo",
-      "url": "https://efeverde.com/durmiendo-con-lobos-el-documental-que-sigue-durante-cinco-anos-el-rastro-del-lobo/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[BiobioChile] La salmonicultura: una actividad que crece más rápido que sus reglas",
-      "url": "https://www.terram.cl/biobiochile-la-salmonicultura-una-actividad-que-crece-mas-rapido-que-sus-reglas/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Financiero] Sesión especial de Comisión de Minería: Sernageomin reconoce que no tiene personal suficiente para investigar todos los accidentes de alto potencial",
-      "url": "https://www.terram.cl/diario-financiero-sesion-especial-de-comision-de-mineria-sernageomin-reconoce-que-no-tiene-personal-suficiente-para-investigar-todos-los-accidentes-de-alto-potencial/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Tras aluvión llaman a hacer parques inundables pero Presupuesto 2027 recorta fondos para infraestructura verde",
-      "url": "https://www.terram.cl/el-desconcierto-tras-aluvion-llaman-a-hacer-parques-inundables-pero-presupuesto-2027-recorta-fondos-para-infraestructura-verde/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Pingüino de Humboldt en peligro de extinción: dónde vive, qué come y cuáles son sus principales amenazas",
-      "url": "https://www.terram.cl/el-desconcierto-pinguino-de-humboldt-en-peligro-de-extincion-donde-vive-que-come-y-cuales-son-sus-principales-amenazas/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Avanza elaboración de Norma Secundaria de Calidad Ambiental de la cuenca del río Rahue",
-      "url": "https://www.terram.cl/diario-sostenible-avanza-elaboracion-de-norma-secundaria-de-calidad-ambiental-de-la-cuenca-del-rio-rahue/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[EFE VERDE] La cumbre previa a la COP31 cierra con llamamientos a seguir trabajando para mantener el objetivo de 1,5 grados",
-      "url": "https://www.terram.cl/efe-verde-la-cumbre-previa-a-la-cop31-cierra-con-llamamientos-a-seguir-trabajando-para-mantener-el-objetivo-de-15-grados/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Acuicultura de pequena escala ape",
-      "url": "https://www.sernapesca.cl/tramites-y-formularios/acuicultura-de-pequena-escala-ape/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Comunidad Coihuín de Compu culmina proyecto de restauración de 75 hectáreas de bosque nativo para enfrentar el cambio climático",
-      "url": "https://www.conaf.cl/comunidad-coihuin-de-compu-culmina-proyecto-de-restauracion-de-75-hectareas-de-bosque-nativo-para-enfrentar-el-cambio-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-coihuin-de-compu-culmina-proyecto-de-restauracion-de-75-hectareas-de-bosque-nativo-para-enfrentar-el-cambio-climatico",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF participa en lanzamiento de Geoportal para la gestión de emergencias",
-      "url": "https://www.conaf.cl/conaf-participa-en-lanzamiento-de-geoportal-para-la-gestion-de-emergencias/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-participa-en-lanzamiento-de-geoportal-para-la-gestion-de-emergencias",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF destaca debut de la primera Patrulla Forestal Municipal en la región de Ñuble",
-      "url": "https://www.conaf.cl/conaf-destaca-debut-de-la-primera-patrulla-forestal-municipal-en-la-region-de-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-destaca-debut-de-la-primera-patrulla-forestal-municipal-en-la-region-de-nuble",
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "El aluvión de San Carlos de Apoquindo del 8 de octubre de 2026, ¿el último eslabón en una larga cadena?",
+      "url": "https://www.cr2.cl/el-aluvion-de-san-carlos-de-apoquindo-del-8-de-octubre-de-2026-el-ultimo-eslabon-en-una-larga-cadena/",
       "fecha": "2026-10-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Felipe Massardo: «La calidad del aire sigue siendo una tarea permanente que requiere el compromiso de todos»",
-      "url": "https://mma.gob.cl/felipe-massardo-la-calidad-del-aire-sigue-siendo-una-tarea-permanente-que-requiere-el-compromiso-de-todos/",
+      "titular": "Gobernanza Regional de Escazú realizó su primera sesión de 2026 en Antofagasta",
+      "url": "https://mma.gob.cl/gobernanza-regional-de-escazu-realizo-su-primera-sesion-de-2026-en-antofagasta/",
       "fecha": "2026-10-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente refuerza llamado a reducir bolsas y plásticos de un solo uso ante próxima llegada de celebraciones de fin de año",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-refuerza-llamado-a-reducir-bolsas-y-plasticos-de-un-solo-uso-ante-proxima-llegada-de-celebraciones-de-fin-de-ano/",
+      "fuente": "RETC",
+      "titular": "Ministerio del Medio Ambiente inicia proceso de Declaración Jurada Anual para establecimientos que reportan al RETC",
+      "url": "https://retc.mma.gob.cl/ministerio-del-medio-ambiente-inicia-proceso-de-declaracion-jurada-anual-para-establecimientos-que-reportan-al-retc/",
       "fecha": "2026-10-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Tras desistimiento en la Suprema, el camino para Dominga está despejado para decisión del SEA y el Comité de Ministros",
-      "url": "https://www.latercera.com/pulso/noticia/dominga-afirma-que-tras-desistimiento-en-la-suprema-el-camino-esta-despejado-para-decision-del-sea-y-el-comite-de-ministros/",
+      "titular": "Michelle, hasta tu sombra asusta",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/michelle-hasta-tu-sombra-asusta/",
       "fecha": "2026-10-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Nación",
-      "titular": "De Grange: “Uno puede tomar medidas, pero no hay forma de que el daño sea cero”",
-      "url": "https://www.lanacion.cl/de-grange-uno-puede-tomar-medidas-pero-no-hay-forma-de-que-el-dano-sea-cero/",
+      "fuente": "REDIMIN",
+      "titular": "Terremoto de magnitud 7,6 en Panamá activa evaluación de tsunami para Chile: qué se espera en las costas del país",
+      "url": "https://www.redimin.cl/terremoto-de-magnitud-7-6-en-panama-activa-evaluacion-de-tsunami-para-chile-que-se-espera-en-las-costas-del-pais",
       "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "HuellaChile reconoce a más de 500 organizaciones por su compromiso y avances con la acción climática y descarbonización",
-      "url": "https://www.paiscircular.cl/medio-ambiente/huellachile-reconoce-a-mas-de-500-organizaciones-por-su-compromiso-y-avances-con-la-accion-climatica-y-descarbonizacion/",
-      "fecha": "2026-10-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Región de Aysén y Torres del Paine intercambian experiencias para promover buenas prácticas en el avistamiento de pumas",
-      "url": "https://codexverde.cl/region-de-aysen-y-torres-del-paine-intercambian-experiencias-para-promover-buenas-practicas-en-el-avistamiento-de-pumas/",
-      "fecha": "2026-10-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Dirección General de Aguas fortalece monitoreo hidrológico en Angol con la instalación de tres nuevos puntos de control fluviométrico",
-      "url": "https://dga.mop.gob.cl/direccion-general-de-aguas-fortalece-monitoreo-hidrologico-en-angol-con-la-instalacion-de-tres-nuevos-puntos-de-control-fluviometrico/",
-      "fecha": "2026-10-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Recta final para postular al FPA 2027: proyecto en Puerto Aysén demuestra cómo la educación ambiental transforma las comunidades educativas",
-      "url": "https://mma.gob.cl/recta-final-para-postular-al-fpa-2027-proyecto-en-puerto-aysen-demuestra-como-la-educacion-ambiental-transforma-las-comunidades-educativas/",
-      "fecha": "2026-10-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "HuellaChile reconoce a más de 500 organizaciones por su compromiso y avances con la acción climática y descarbonización",
-      "url": "https://mma.gob.cl/huellachile-reconoce-a-mas-de-500-organizaciones-por-su-compromiso-y-avances-con-la-accion-climatica-y-descarbonizacion/",
-      "fecha": "2026-10-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
