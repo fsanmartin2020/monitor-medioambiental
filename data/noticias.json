@@ -1,93 +1,45 @@
 {
-  "fecha_actualizacion": "2026-10-10T13:18:29.175981-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-10-11T13:42:49.916564-03:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "El parque de Las Tablas de Daimiel, enclave esencial en la migración de la cigüeña negra",
-      "url": "https://efeverde.com/parque-tablas-daimiel-enclave-esencial-migracion-ciguena-negra/",
-      "fecha": "2026-10-10",
+      "titular": "Un museo etnográfico recupera la lucha social contra el campo de tiro en Cabañeros",
+      "url": "https://efeverde.com/museo-etnografico-lucha-social-campo-tiro-cabaneros/",
+      "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Alicia Torrego (Fundación Conama): «Gobierne quien gobierne, la agenda ambiental seguirá avanzando»",
-      "url": "https://efeverde.com/alicia-torrego-fundacion-conama-agenda-ambiental-seguira-avanzando/",
-      "fecha": "2026-10-10",
+      "titular": "La Generalitat Valenciana constata la recuperación del cernícalo primilla y la ganga ibérica en la región",
+      "url": "https://efeverde.com/generalitat-valenciana-recuperacion-aves-cernicalo-primilla-ganga-iberica/",
+      "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las lluvias torrenciales, un fenómeno con el que tenemos que acostumbrarnos a convivir",
-      "url": "https://efeverde.com/lluvias-torrenciales-fenomeno-tenemos-acostumbrarnos-convivir/",
-      "fecha": "2026-10-10",
+      "titular": "Dana, incendios y olas de calor: la legislatura donde el cambio climático se hizo evidente",
+      "url": "https://efeverde.com/dana-incendios-olas-calor-legislatura-cambio-climatico/",
+      "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un fuerte terremoto de magnitud 7,7 deja al menos 27 heridos leves y más de 400 edificaciones afectadas en Panamá",
-      "url": "https://efeverde.com/fuerte-terremoto-magnitud-77-heridos-leves-panama/",
-      "fecha": "2026-10-10",
+      "titular": "El futuro de la alimentación ya está dentro de nosotros. Por Andrew Bovarnick y Thomas Legrand (Programa de las Naciones Unidas para el Desarrollo, PNUD)",
+      "url": "https://efeverde.com/el-futuro-de-la-alimentacion-ya-esta-dentro-de-nosotros-por-andrew-bovarnick-y-thomas-legrand/",
+      "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Mirar el mar con ojos de libélula. Por María Gálvez del Castillo Luna (CEO de Smart Blue Lab)",
-      "url": "https://efeverde.com/mirar-el-mar-con-ojos-de-libelula-por-maria-galvez-del-castillo-luna/",
-      "fecha": "2026-10-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "«El Lago Ranco nos reúne, su defensa nos moviliza»: Marcha en Futrono este 12 de octubre contra proyecto inmobiliario en Bahía Coique",
-      "url": "https://www.elciudadano.com/actualidad/el-lago-ranco-nos-reune-su-defensa-nos-moviliza-marcha-en-futrono-este-12-de-octubre-contra-proyecto-inmobiliario-en-bahia-coique/10/10/",
-      "fecha": "2026-10-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "El aluvión de San Carlos de Apoquindo del 8 de octubre de 2026, ¿el último eslabón en una larga cadena?",
-      "url": "https://www.cr2.cl/el-aluvion-de-san-carlos-de-apoquindo-del-8-de-octubre-de-2026-el-ultimo-eslabon-en-una-larga-cadena/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Gobernanza Regional de Escazú realizó su primera sesión de 2026 en Antofagasta",
-      "url": "https://mma.gob.cl/gobernanza-regional-de-escazu-realizo-su-primera-sesion-de-2026-en-antofagasta/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "RETC",
-      "titular": "Ministerio del Medio Ambiente inicia proceso de Declaración Jurada Anual para establecimientos que reportan al RETC",
-      "url": "https://retc.mma.gob.cl/ministerio-del-medio-ambiente-inicia-proceso-de-declaracion-jurada-anual-para-establecimientos-que-reportan-al-retc/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Michelle, hasta tu sombra asusta",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/michelle-hasta-tu-sombra-asusta/",
-      "fecha": "2026-10-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Terremoto de magnitud 7,6 en Panamá activa evaluación de tsunami para Chile: qué se espera en las costas del país",
-      "url": "https://www.redimin.cl/terremoto-de-magnitud-7-6-en-panama-activa-evaluacion-de-tsunami-para-chile-que-se-espera-en-las-costas-del-pais",
-      "fecha": "2026-10-09",
+      "titular": "¿Hay algún piloto en la IA? Por Bertrand Piccard (presidente de la Fundación Solar Impulse)",
+      "url": "https://efeverde.com/hay-algun-piloto-en-la-ia-por-bertrand-piccard/",
+      "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
