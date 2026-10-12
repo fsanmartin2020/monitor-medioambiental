@@ -1,44 +1,92 @@
 {
-  "fecha_actualizacion": "2026-10-11T13:42:49.916564-03:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-10-12T17:15:54.883570-03:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "Codex Verde",
+      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
+      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "EFE Verde",
-      "titular": "Un museo etnográfico recupera la lucha social contra el campo de tiro en Cabañeros",
-      "url": "https://efeverde.com/museo-etnografico-lucha-social-campo-tiro-cabaneros/",
+      "titular": "Medan (Indonesia) y Torreón (México), entre las ciudades más afectadas por el hundimiento del suelo",
+      "url": "https://efeverde.com/medan-indonesia-torreon-mexico-ciudades-hundimiento-suelo/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La UE urge a acelerar acción de clima y de biodiversidad de cara a las cumbres de la ONU",
+      "url": "https://efeverde.com/ue-acelerar-accion-clima-biodiversidad-cumbres-onu/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los ecologistas reclaman reducir la velocidad de los barcos para proteger a los cetáceos",
+      "url": "https://efeverde.com/ecologistas-reclaman-reducir-velocidad-barcos-proteger-cetaceos/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "España pide evitar que revisión del mercado de CO2 desvíe rutas marítimas fuera de la UE",
+      "url": "https://efeverde.com/espana-pide-evitar-mercado-co2-desvie-rutas-maritimas-fuera-ue/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Nueve detenidos y decenas de heridos en una manifestación por el agua contaminada en Guadalajara (México)",
+      "url": "https://efeverde.com/nueve-detenidos-heridos-manifestacion-agua-contaminada-guadalajara-mexico/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Casi 1.000 osos cazados en Siberia después de que se levantara la veda por los ataques a humanos",
+      "url": "https://efeverde.com/osos-cazados-siberia-veda-ataques-humanos/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una nueva riada repentina deja cinco desaparecidos y más de 200 viviendas afectadas en Nepal",
+      "url": "https://efeverde.com/nueva-riada-nepal-desaparecidos-afectados/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Gobierno descarta que funeral de Juan Aliste Vega sea de alto riesgo: “Se están tomando los resguardos”",
+      "url": "https://www.latercera.com/nacional/noticia/arrau-descarta-que-funeral-de-juan-aliste-vega-sea-de-alto-riesgo-se-estan-tomando-los-resguardos/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El planeta continúa por encima de los 1,5 grados de calentamiento tras el segundo septiembre más cálido",
+      "url": "https://efeverde.com/planeta-15-grados-calentamiento-segundo-septiembre-calido/",
       "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Generalitat Valenciana constata la recuperación del cernícalo primilla y la ganga ibérica en la región",
-      "url": "https://efeverde.com/generalitat-valenciana-recuperacion-aves-cernicalo-primilla-ganga-iberica/",
-      "fecha": "2026-10-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Dana, incendios y olas de calor: la legislatura donde el cambio climático se hizo evidente",
-      "url": "https://efeverde.com/dana-incendios-olas-calor-legislatura-cambio-climatico/",
-      "fecha": "2026-10-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El futuro de la alimentación ya está dentro de nosotros. Por Andrew Bovarnick y Thomas Legrand (Programa de las Naciones Unidas para el Desarrollo, PNUD)",
-      "url": "https://efeverde.com/el-futuro-de-la-alimentacion-ya-esta-dentro-de-nosotros-por-andrew-bovarnick-y-thomas-legrand/",
-      "fecha": "2026-10-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Hay algún piloto en la IA? Por Bertrand Piccard (presidente de la Fundación Solar Impulse)",
-      "url": "https://efeverde.com/hay-algun-piloto-en-la-ia-por-bertrand-piccard/",
+      "titular": "Expertos elaboran una ley modelo de armonización del delito de ecocidio en Latinoamérica",
+      "url": "https://efeverde.com/expertos-ley-modelo-armonizacion-ecocidio-latinoamerica/",
       "fecha": "2026-10-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"

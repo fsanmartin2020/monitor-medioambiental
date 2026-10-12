@@ -1,5 +1,30 @@
 {
-  "fecha_generacion": "2026-10-11T13:42:49.928741-03:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-10-12T17:15:54.894749-03:00",
+  "total_alertas": 2,
+  "alertas": [
+    {
+      "fuente": "Codex Verde",
+      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
+      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Chile dio un paso importante cuando promulgó la Ley de Responsabilidad Extendida del Productor, la Ley REP. Con ella, el país estableció algo que parece simple pero no lo es: quienes introducen productos al mercado son responsables de lo que ocurre c",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Gobierno descarta que funeral de Juan Aliste Vega sea de alto riesgo: “Se están tomando los resguardos”",
+      "url": "https://www.latercera.com/nacional/noticia/arrau-descarta-que-funeral-de-juan-aliste-vega-sea-de-alto-riesgo-se-estan-tomando-los-resguardos/",
+      "fecha": "2026-10-12",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El ministro de Seguridad Pública, Martín Arrau, señaló que no se prevén situaciones que obliguen a catalogar los funerales del exlautarista como un evento de alto riesgo. Además, confirmó que su cuerpo fue trasladado al Servicio Médico Legal para la ",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }
