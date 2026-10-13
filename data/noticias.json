@@ -1,93 +1,253 @@
 {
-  "fecha_actualizacion": "2026-10-12T17:15:54.883570-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-10-13T15:10:03.639058-03:00",
+  "total": 31,
   "gemini_disponible": true,
   "noticias": [
     {
+      "fuente": "País Circular",
+      "titular": "Antofagasta se convierte en la primera sede regional del Barómetro del Reciclaje",
+      "url": "https://www.paiscircular.cl/economia-circular/antofagasta-se-convierte-en-la-primera-sede-regional-del-barometro-del-reciclaje/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "De lata en lata: cómo el reciclaje mantiene el aluminio en circulación",
+      "url": "https://www.paiscircular.cl/economia-circular/de-lata-en-lata-como-el-reciclaje-mantiene-el-aluminio-en-circulacion/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Melissa Gómez, Gerente de Operaciones de ReSimple: “Si el ciudadano no tiene un incentivo u obligatoriedad, cuesta avanzar en la implementación de la Ley REP”",
+      "url": "https://www.paiscircular.cl/economia-circular/melissa-gomez-gerente-de-operaciones-de-resimple-si-el-ciudadano-no-tiene-un-incentivo-u-obligatoriedad-cuesta-avanzar-en-la-implementacion-de-la-ley-rep/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "ASENAV mide su huella de carbono y avanza hacia una construcción naval más sostenible",
+      "url": "https://www.chiledesarrollosustentable.cl/asenav-mide-su-huella-de-carbono-y-avanza-hacia-una-construccion-naval-mas-sostenible/?utm_source=rss&utm_medium=rss&utm_campaign=asenav-mide-su-huella-de-carbono-y-avanza-hacia-una-construccion-naval-mas-sostenible",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
       "fuente": "Codex Verde",
-      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
-      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
-      "fecha": "2026-10-12",
+      "titular": "Reciclaje agrícola: lo que aprendimos después de tres años de Ley REP",
+      "url": "https://codexverde.cl/reciclaje-agricola-lo-que-aprendimos-despues-de-tres-anos-de-ley-rep/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Aluvión en Las Condes: advierten que incendios forestales y cambio climático obligan a repensar la gestión del riesgo",
+      "url": "https://codexverde.cl/aluvion-en-las-condes-advierten-que-incendios-forestales-y-cambio-climatico-obligan-a-repensar-la-gestion-del-riesgo/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Medan (Indonesia) y Torreón (México), entre las ciudades más afectadas por el hundimiento del suelo",
-      "url": "https://efeverde.com/medan-indonesia-torreon-mexico-ciudades-hundimiento-suelo/",
-      "fecha": "2026-10-12",
+      "titular": "El Gobierno concede los primeros Premios Nacionales de la Protección Animal",
+      "url": "https://efeverde.com/el-gobierno-concede-los-primeros-premios-nacionales-de-la-proteccion-animal/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La UE urge a acelerar acción de clima y de biodiversidad de cara a las cumbres de la ONU",
-      "url": "https://efeverde.com/ue-acelerar-accion-clima-biodiversidad-cumbres-onu/",
-      "fecha": "2026-10-12",
+      "titular": "Los artrópodos que causan plagas pueden aumentar en las zonas templadas hacia 2050",
+      "url": "https://efeverde.com/artropodos-plagas-aumentar-zonas-templadas-2050/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los ecologistas reclaman reducir la velocidad de los barcos para proteger a los cetáceos",
-      "url": "https://efeverde.com/ecologistas-reclaman-reducir-velocidad-barcos-proteger-cetaceos/",
-      "fecha": "2026-10-12",
+      "titular": "El avistamiento de ballenas, un motor para el turismo sostenible del Pacífico colombiano",
+      "url": "https://efeverde.com/avistamiento-ballenas-motorturismo-sostenible-pacifico-colombiano/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España pide evitar que revisión del mercado de CO2 desvíe rutas marítimas fuera de la UE",
-      "url": "https://efeverde.com/espana-pide-evitar-mercado-co2-desvie-rutas-maritimas-fuera-ue/",
-      "fecha": "2026-10-12",
+      "titular": "Las muertes por calor en España alcanzan máximos este verano con 5.807 fallecimientos",
+      "url": "https://efeverde.com/muertes-por-calor-en-espana-verano/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Nueve detenidos y decenas de heridos en una manifestación por el agua contaminada en Guadalajara (México)",
-      "url": "https://efeverde.com/nueve-detenidos-heridos-manifestacion-agua-contaminada-guadalajara-mexico/",
-      "fecha": "2026-10-12",
+      "titular": "Planeta vivo 2026. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/planeta-vivo-2026-por-victor-solis-visoor/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Casi 1.000 osos cazados en Siberia después de que se levantara la veda por los ataques a humanos",
-      "url": "https://efeverde.com/osos-cazados-siberia-veda-ataques-humanos/",
-      "fecha": "2026-10-12",
+      "titular": "Europa podría evitar 34.000 muertes prematuras al año y generar más de 826.000 millones de euros en ahorro de energía",
+      "url": "https://efeverde.com/europa-podria-evitar-34-000-muertes-prematuras-al-ano-y-generar-mas-de-826-000-millones-de-euros-en-ahorro-de-energia/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una nueva riada repentina deja cinco desaparecidos y más de 200 viviendas afectadas en Nepal",
-      "url": "https://efeverde.com/nueva-riada-nepal-desaparecidos-afectados/",
-      "fecha": "2026-10-12",
+      "titular": "Invertir en infraestructura resiliente: una urgencia para América Latina y el Caribe",
+      "url": "https://efeverde.com/invertir-infraestructura-resiliente-america-latina-dalila-goncalves-nahuel-arenas/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Transparencia y acceso a la información: dos casos concretos",
+      "url": "https://www.terram.cl/el-desconcierto-transparencia-y-acceso-a-la-informacion-dos-casos-concretos/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Comunidades Portales] VI Encuentro de Áreas Protegidas y Comunidades Portal reunirá a actores nacionales e internacionales para abordar los desafíos de la conservación en Chile",
+      "url": "https://www.terram.cl/comunidades-portales-vi-encuentro-de-areas-protegidas-y-comunidades-portal-reunira-a-actores-nacionales-e-internacionales-para-abordar-los-desafios-de-la-conservacion-en-chile/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Mineras piden miles de hectáreas para buscar tierras raras en Ñuble Maule y Biobío: vecinos se organizan",
+      "url": "https://www.terram.cl/el-desconcierto-mineras-piden-miles-de-hectareas-para-buscar-tierras-raras-en-nuble-maule-y-biobio-vecinos-se-organizan/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Condenan a propietario por destrucción de humedal y tala ilegal en Mariquina",
+      "url": "https://www.terram.cl/diario-sostenible-condenan-a-propietario-por-destruccion-de-humedal-y-tala-ilegal-en-mariquina/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[EFE Verde] El planeta continúa por encima de los 1,5 grados de calentamiento tras el segundo septiembre más cálido",
+      "url": "https://www.terram.cl/efe-verde-el-planeta-continua-por-encima-de-los-15-grados-de-calentamiento-tras-el-segundo-septiembre-mas-calido/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] ¿Cuáles has visitado? Conoce las 48 reservas nacionales de Chile",
+      "url": "https://www.terram.cl/ladera-sur-cuales-has-visitado-conoce-las-48-reservas-nacionales-de-chile/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo de la unidad de finanzas a contrata asimilado a grado 18 de la escala unica de sueldos para la direccion nacional valpar",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-de-la-unidad-de-finanzas-a-contrata-asimilado-a-grado-18-de-la-escala-unica-de-sueldos-para-la-direccion-nacional-valpar/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo de la unidad de finanzas subdireccion administrativa a contrata asimilado a grado 15 de la e u s direccion nacional",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-de-la-unidad-de-finanzas-subdireccion-administrativa-a-contrata-asimilado-a-grado-15-de-la-e-u-s-direccion-nacional/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Mesa Regional Forestal de La Araucanía constituye su directiva y define cuatro ejes estratégicos de trabajo",
+      "url": "https://www.conaf.cl/mesa-regional-forestal-de-la-araucania-constituye-su-directiva-y-define-cuatro-ejes-estrategicos-de-trabajo/?utm_source=rss&utm_medium=rss&utm_campaign=mesa-regional-forestal-de-la-araucania-constituye-su-directiva-y-define-cuatro-ejes-estrategicos-de-trabajo",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Parque Nacional Vicente Pérez Rosales fue incorporado a la Ruta de los Parques de la  Patagonia",
+      "url": "https://www.conaf.cl/parque-nacional-vicente-perez-rosales-fue-incorporado-a-la-ruta-de-los-parques-de-la-patagonia/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-vicente-perez-rosales-fue-incorporado-a-la-ruta-de-los-parques-de-la-patagonia",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
+      "url": "https://portal.sma.gob.cl/index.php/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Perro Morocho: 80% de lectores prefiere que sea adoptado por una familia",
+      "url": "https://www.lasegunda.com/Noticias/Encuestas/2026/10/1116209/perro-morocho-8087-se-quede",
+      "fecha": "2026-10-13",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Gobierno descarta que funeral de Juan Aliste Vega sea de alto riesgo: “Se están tomando los resguardos”",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-descarta-que-funeral-de-juan-aliste-vega-sea-de-alto-riesgo-se-estan-tomando-los-resguardos/",
+      "titular": "Ciro Colombara y violación en Rapa Nui: “Es un privilegio inaceptable que cumplan prisión preventiva en un recinto de la Armada”",
+      "url": "https://www.latercera.com/nacional/noticia/ciro-colombara-y-violacion-en-rapa-nui-es-un-privilegio-inaceptable-que-cumplan-prision-preventiva-en-un-recinto-de-la-armada/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SMA refuerza resguardo del Desierto Florido con medidas para más de 200 unidades mineras",
+      "url": "https://www.mch.cl/sma-refuerza-resguardo-del-desierto-florido-con-medidas-para-mas-de-200-unidades-mineras/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Primer Tribunal Ambiental conmemorará aniversario con conversatorio sobre la transición energética",
+      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-conmemorara-aniversario-con-conversatorio-sobre-la-transicion-energetica/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA advierte a 267 unidades mineras para reforzar protección ambiental ante el Desierto Florido",
+      "url": "https://www.nuevamineria.com/revista/sma-advierte-a-267-unidades-mineras-para-reforzar-proteccion-ambiental-ante-el-desierto-florido/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una Amazonía bajo el agua que protegen los pescadores de la Patagonia chilena",
+      "url": "https://efeverde.com/amazonia-bajo-el-aguaprotegen-pescadores-patagonia-chilena/",
       "fecha": "2026-10-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El planeta continúa por encima de los 1,5 grados de calentamiento tras el segundo septiembre más cálido",
-      "url": "https://efeverde.com/planeta-15-grados-calentamiento-segundo-septiembre-calido/",
-      "fecha": "2026-10-11",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Expertos elaboran una ley modelo de armonización del delito de ecocidio en Latinoamérica",
-      "url": "https://efeverde.com/expertos-ley-modelo-armonizacion-ecocidio-latinoamerica/",
-      "fecha": "2026-10-11",
+      "fuente": "Portal Minero",
+      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
+      "url": "https://www.portalminero.com/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido",
+      "fecha": "2026-10-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

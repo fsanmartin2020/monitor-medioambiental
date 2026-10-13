@@ -1,29 +1,101 @@
 {
-  "fecha_generacion": "2026-10-12T17:15:54.894749-03:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-10-13T15:10:03.655193-03:00",
+  "total_alertas": 8,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "La Ley REP llegó al campo. Ahora viene lo difícil",
-      "url": "https://codexverde.cl/la-ley-rep-llego-al-campo-ahora-viene-lo-dificil/",
-      "fecha": "2026-10-12",
+      "fuente": "País Circular",
+      "titular": "Melissa Gómez, Gerente de Operaciones de ReSimple: “Si el ciudadano no tiene un incentivo u obligatoriedad, cuesta avanzar en la implementación de la Ley REP”",
+      "url": "https://www.paiscircular.cl/economia-circular/melissa-gomez-gerente-de-operaciones-de-resimple-si-el-ciudadano-no-tiene-un-incentivo-u-obligatoriedad-cuesta-avanzar-en-la-implementacion-de-la-ley-rep/",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Chile dio un paso importante cuando promulgó la Ley de Responsabilidad Extendida del Productor, la Ley REP. Con ella, el país estableció algo que parece simple pero no lo es: quienes introducen productos al mercado son responsables de lo que ocurre c",
+      "extracto": "La ejecutiva del primer Gran Sistema de Gestión Colectivo para Envases y Embalajes (EyE), ReSimple, afirma que la voluntad ciudadana resulta esencial para cumplir con la normativa y, en esa dirección, considera que el rol de los municipios debería se",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Gobierno descarta que funeral de Juan Aliste Vega sea de alto riesgo: “Se están tomando los resguardos”",
-      "url": "https://www.latercera.com/nacional/noticia/arrau-descarta-que-funeral-de-juan-aliste-vega-sea-de-alto-riesgo-se-estan-tomando-los-resguardos/",
+      "fuente": "Codex Verde",
+      "titular": "Reciclaje agrícola: lo que aprendimos después de tres años de Ley REP",
+      "url": "https://codexverde.cl/reciclaje-agricola-lo-que-aprendimos-despues-de-tres-anos-de-ley-rep/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La agricultura chilena atraviesa un momento de transformación silenciosa, incorporando nuevas formas de gestionar sus residuos. La Ley de Responsabilidad Extendida del Productor cumplió recientemente tres años desde el inicio de sus metas de recolecc",
+      "keywords_detectadas": [
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
+      "url": "https://portal.sma.gob.cl/index.php/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Tras la instrucción emitida a unidades fiscalizables de energías renovables, la Superintendencia notificó masivamente a titulares de empresas mineras de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora, fauna y suelo en el mar",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Perro Morocho: 80% de lectores prefiere que sea adoptado por una familia",
+      "url": "https://www.lasegunda.com/Noticias/Encuestas/2026/10/1116209/perro-morocho-8087-se-quede",
+      "fecha": "2026-10-13",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SMA refuerza resguardo del Desierto Florido con medidas para más de 200 unidades mineras",
+      "url": "https://www.mch.cl/sma-refuerza-resguardo-del-desierto-florido-con-medidas-para-mas-de-200-unidades-mineras/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Superintendencia notificó masivamente a empresas de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora y fauna en el marco de este fenómeno natural único. La entrada SMA refuerza resguardo del Desierto Florido con medidas par",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Primer Tribunal Ambiental conmemorará aniversario con conversatorio sobre la transición energética",
+      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-conmemorara-aniversario-con-conversatorio-sobre-la-transicion-energetica/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La actividad se realizará el próximo 16 de octubre, en la Sala de Audiencias de la institución. La entrada Primer Tribunal Ambiental conmemorará aniversario con conversatorio sobre la transición energética se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA advierte a 267 unidades mineras para reforzar protección ambiental ante el Desierto Florido",
+      "url": "https://www.nuevamineria.com/revista/sma-advierte-a-267-unidades-mineras-para-reforzar-proteccion-ambiental-ante-el-desierto-florido/",
+      "fecha": "2026-10-13",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La notificación abarca proyectos de Antofagasta, Atacama y Coquimbo. El organismo recordó las obligaciones de resguardo de flora, fauna y suelo, y el plazo máximo de 24 horas para reportar incidentes o contingencias. La Superintendencia del Medio Amb",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
+      "url": "https://www.portalminero.com/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido",
       "fecha": "2026-10-12",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El ministro de Seguridad Pública, Martín Arrau, señaló que no se prevén situaciones que obliguen a catalogar los funerales del exlautarista como un evento de alto riesgo. Además, confirmó que su cuerpo fue trasladado al Servicio Médico Legal para la ",
+      "extracto": "Tras la instrucción emitida a unidades fiscalizables de energías renovables, la Superintendencia notificó masivamente a titulares de empresas mineras de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora, fauna y suelo en el mar",
       "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
