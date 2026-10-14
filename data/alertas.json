@@ -1,36 +1,36 @@
 {
-  "fecha_generacion": "2026-10-13T15:10:03.655193-03:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-10-14T12:59:26.728204-03:00",
+  "total_alertas": 12,
   "alertas": [
     {
       "fuente": "País Circular",
-      "titular": "Melissa Gómez, Gerente de Operaciones de ReSimple: “Si el ciudadano no tiene un incentivo u obligatoriedad, cuesta avanzar en la implementación de la Ley REP”",
-      "url": "https://www.paiscircular.cl/economia-circular/melissa-gomez-gerente-de-operaciones-de-resimple-si-el-ciudadano-no-tiene-un-incentivo-u-obligatoriedad-cuesta-avanzar-en-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-10-13",
+      "titular": "Isidro Pereda: “La Ley REP se ha ido acomodando, pero falta detectar dónde se nos están escapando los residuos”",
+      "url": "https://www.paiscircular.cl/economia-circular/reciclamas-isidro-pereda/",
+      "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La ejecutiva del primer Gran Sistema de Gestión Colectivo para Envases y Embalajes (EyE), ReSimple, afirma que la voluntad ciudadana resulta esencial para cumplir con la normativa y, en esa dirección, considera que el rol de los municipios debería se",
+      "extracto": "El gerente general de las empresas gestoras ReciclaMás (Envases y Embalajes) y RESUR (Neumáticos Fuera de Uso) reconoce un escenario más auspicioso en la implementación de la normativa, debido al aumento de las tasas de reciclaje, una mayor distribuc",
       "keywords_detectadas": [
         "Ley REP"
       ]
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Reciclaje agrícola: lo que aprendimos después de tres años de Ley REP",
-      "url": "https://codexverde.cl/reciclaje-agricola-lo-que-aprendimos-despues-de-tres-anos-de-ley-rep/",
-      "fecha": "2026-10-13",
+      "fuente": "Terram",
+      "titular": "[SMA] SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
+      "url": "https://www.terram.cl/sma-sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/",
+      "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La agricultura chilena atraviesa un momento de transformación silenciosa, incorporando nuevas formas de gestionar sus residuos. La Ley de Responsabilidad Extendida del Productor cumplió recientemente tres años desde el inicio de sus metas de recolecc",
+      "extracto": "Infracción se sustenta por la superación reiterada del volumen máximo de descarga de residuos líquidos industriales autorizado en su Programa de Monitoreo hacia la Bahía de Quintero, en el sector Loncura-El Bato. Fuente: 14 de octubre de 2026.",
       "keywords_detectadas": [
-        "Ley REP"
+        "SMA"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
-      "url": "https://portal.sma.gob.cl/index.php/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido/",
-      "fecha": "2026-10-13",
+      "fuente": "Terram",
+      "titular": "[SMA] SMA notifica a 267 empresas mineras para proteger flora del Desierto Florido 2026",
+      "url": "https://www.terram.cl/sma-sma-notifica-a-267-empresas-mineras-para-proteger-flora-del-desierto-florido-2026/",
+      "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "Tras la instrucción emitida a unidades fiscalizables de energías renovables, la Superintendencia notificó masivamente a titulares de empresas mineras de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora, fauna y suelo en el mar",
@@ -39,10 +39,22 @@
       ]
     },
     {
-      "fuente": "La Segunda",
-      "titular": "Perro Morocho: 80% de lectores prefiere que sea adoptado por una familia",
-      "url": "https://www.lasegunda.com/Noticias/Encuestas/2026/10/1116209/perro-morocho-8087-se-quede",
-      "fecha": "2026-10-13",
+      "fuente": "SMA",
+      "titular": "SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Infracción se sustenta por la superación reiterada del volumen máximo de descarga de residuos líquidos industriales autorizado en su Programa de Monitoreo hacia la Bahía de Quintero, en el sector Loncura-El Bato. La Superintendencia del Medio Ambient",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Cooperativa",
+      "titular": "Gobierno tras accidentes fatales: Queremos que Codelco sea rentable, pero primero es la seguridad",
+      "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/gobierno-tras-accidentes-fatales-queremos-que-codelco-sea-rentable/2026-10-13/155318.html",
+      "fecha": "2026-10-14",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
@@ -51,49 +63,85 @@
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA refuerza resguardo del Desierto Florido con medidas para más de 200 unidades mineras",
-      "url": "https://www.mch.cl/sma-refuerza-resguardo-del-desierto-florido-con-medidas-para-mas-de-200-unidades-mineras/",
-      "fecha": "2026-10-13",
+      "fuente": "Diario Financiero",
+      "titular": "Sindicato de Supervisores y Minera Escondida evitan inicio de huelga con preacuerdo contractual y prórroga de mediación para que sea votado por trabajadores",
+      "url": "https://www.df.cl/empresas/mineria/sindicato-de-supervisores-y-minera-escondida-no-logran-acuerdo-y-huelga",
+      "fecha": "2026-10-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "\"Las partes han definido de mutuo acuerdo una prórroga de mediación de un día. De no haber aprobación, la huelga iniciaría el jueves 15 de octubre, a las 8 horas\", indicó la empresa.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Sindicato de Supervisores y Minera Escondida evitan inicio de huelga con preacuerdo contractual y prórroga de mediación para que sea votado por trabajadores",
+      "url": "https://www.df.cl/empresas/mineria/sindicato-de-supervisores-y-minera-escondida-no-logran-acuerdo-y-huelga",
+      "fecha": "2026-10-14",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "El Ciudadano",
+      "titular": "Hasta en debate sobre agua potable en la ONU: Gobierno de Kast niega que la salud sexual y reproductiva sea un derecho reconocido internacionalmente",
+      "url": "https://www.elciudadano.com/derechos-humanos/hasta-en-debate-sobre-agua-potable-en-la-onu-gobierno-de-kast-niega-que-la-salud-sexual-y-reproductiva-sea-un-derecho-reconocido-internacionalmente/10/14/",
+      "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia notificó masivamente a empresas de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora y fauna en el marco de este fenómeno natural único. La entrada SMA refuerza resguardo del Desierto Florido con medidas par",
+      "extracto": "El Ciudadano \"Entendemos que la salud sexual y reproductiva no constituye un derecho reconocido internacionalmente y que su definición jurídica depende de las normas internas de cada Estado\", afirmó Fernando Cabezas, representante permanente adjunto ",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente EIA de proyecto minero en Tarapacá",
+      "url": "https://www.mch.cl/se-califica-favorablemente-eia-de-proyecto-minero-en-tarapaca/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "la iniciativa tiene por objetivo general, por una parte, dar continuidad operacional al yacimiento de la compañía. La entrada Se califica favorablemente EIA de proyecto minero en Tarapacá se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "EIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA formula cargos a empresa del rubro energético",
+      "url": "https://www.revistaei.cl/sma-formula-cargos-a-empresa-del-rubro-energetico/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Infracción se sustenta por la superación reiterada del volumen máximo de descarga de residuos líquidos industriales autorizado en su Programa de Monitoreo hacia la Bahía de Quintero, en el sector Loncura-El Bato. La entrada SMA formula cargos a empre",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Primer Tribunal Ambiental conmemorará aniversario con conversatorio sobre la transición energética",
-      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-conmemorara-aniversario-con-conversatorio-sobre-la-transicion-energetica/",
-      "fecha": "2026-10-13",
+      "fuente": "REDIMIN",
+      "titular": "SMA notifica a 267 unidades mineras y refuerza exigencias ambientales por el Desierto Florido 2026",
+      "url": "https://www.redimin.cl/sma-notifica-a-267-unidades-mineras-y-refuerza-exigencias-ambientales-por-el-desierto-florido-2026",
+      "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La actividad se realizará el próximo 16 de octubre, en la Sala de Audiencias de la institución. La entrada Primer Tribunal Ambiental conmemorará aniversario con conversatorio sobre la transición energética se publicó primero en Revista Electricidad .",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA advierte a 267 unidades mineras para reforzar protección ambiental ante el Desierto Florido",
-      "url": "https://www.nuevamineria.com/revista/sma-advierte-a-267-unidades-mineras-para-reforzar-proteccion-ambiental-ante-el-desierto-florido/",
-      "fecha": "2026-10-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La notificación abarca proyectos de Antofagasta, Atacama y Coquimbo. El organismo recordó las obligaciones de resguardo de flora, fauna y suelo, y el plazo máximo de 24 horas para reportar incidentes o contingencias. La Superintendencia del Medio Amb",
+      "extracto": "La Superintendencia del Medio Ambiente amplió su despliegue preventivo en Antofagasta, Atacama y Coquimbo. Las operaciones mineras deberán reforzar los controles sobre tránsito, protección de especies y manejo de suelos, además de reportar incidentes",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
       "fuente": "Portal Minero",
-      "titular": "SMA extiende advertencia a 267 unidades fiscalizables mineras para reforzar medidas preventivas ante el Desierto Florido",
-      "url": "https://www.portalminero.com/sma-extiende-advertencia-a-267-unidades-fiscalizables-mineras-para-reforzar-medidas-preventivas-ante-el-desierto-florido",
-      "fecha": "2026-10-12",
+      "titular": "SMA formula cargos a empresa Copec S.A. por el Terminal Marítimo de Quintero",
+      "url": "https://www.portalminero.com/sma-formula-cargos-a-empresa-copec-sa-por-el-terminal-maritimo-de-quintero",
+      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Tras la instrucción emitida a unidades fiscalizables de energías renovables, la Superintendencia notificó masivamente a titulares de empresas mineras de las regiones de Antofagasta, Atacama y Coquimbo para resguardar la flora, fauna y suelo en el mar",
+      "extracto": "Infracción se sustenta por la superación reiterada del volumen máximo de descarga de residuos líquidos industriales autorizado en su Programa de Monitoreo hacia la Bahía de Quintero, en el sector Loncura-El Bato.",
       "keywords_detectadas": [
         "SMA"
       ]
