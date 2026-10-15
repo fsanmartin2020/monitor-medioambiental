@@ -1,293 +1,277 @@
 {
-  "fecha_actualizacion": "2026-10-14T12:59:26.713248-03:00",
-  "total": 36,
+  "fecha_actualizacion": "2026-10-15T12:41:42.638302-03:00",
+  "total": 34,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Descifrando el sello SEC: El impacto oculto del etiquetado energético en la huella de carbono en las casas",
-      "url": "https://www.paiscircular.cl/tendencias/descifrando-el-sello-sec-el-impacto-oculto-del-etiquetado-energetico-en-la-huella-de-carbono-en-las-casas/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Cómo Pin-Up transformó el tropezón del Sevilla FC en un triunfo para la afición latinoamericana",
-      "url": "https://www.paiscircular.cl/tendencias/como-pin-up-transformo-el-tropezon-del-sevilla-fc-en-un-triunfo-para-la-aficion-latinoamericana/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "¿Cómo elegir los mejores casinos online en chile?",
-      "url": "https://www.paiscircular.cl/tendencias/como-elegir-los-mejores-casinos-online-en-chile/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Isidro Pereda: “La Ley REP se ha ido acomodando, pero falta detectar dónde se nos están escapando los residuos”",
-      "url": "https://www.paiscircular.cl/economia-circular/reciclamas-isidro-pereda/",
-      "fecha": "2026-10-14",
+      "titular": "José Luis Navajas, gerente general de EBI Chile: “Nuestra experiencia demuestra que se puede gestionar la transición hacia la circularidad con soluciones integrales”",
+      "url": "https://www.paiscircular.cl/economia-circular/jose-luis-navajas-gerente-general-de-ebi-chile-nuestra-experiencia-demuestra-que-se-puede-gestionar-la-transicion-hacia-la-circularidad-con-soluciones-integrales/",
+      "fecha": "2026-10-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Premian a Reserva Huilo Huilo con el “Óscar” del Turismo Responsable de Sudamérica",
-      "url": "https://www.chiledesarrollosustentable.cl/premian-a-reserva-huilo-huilo-con-el-oscar-del-turismo-responsable-de-sudamerica/?utm_source=rss&utm_medium=rss&utm_campaign=premian-a-reserva-huilo-huilo-con-el-oscar-del-turismo-responsable-de-sudamerica",
+      "titular": "Banco de Chile presenta novedades de la campaña de recaudación para Teletón 2026: 6 y 7 de noviembre, ¡Teletón es Six Seven!",
+      "url": "https://www.chiledesarrollosustentable.cl/banco-de-chile-presenta-principales-novedades-de-la-campana-de-recaudacion-para-teleton-2026-6-y-7-de-noviembre-teleton-es-six-seven/?utm_source=rss&utm_medium=rss&utm_campaign=banco-de-chile-presenta-principales-novedades-de-la-campana-de-recaudacion-para-teleton-2026-6-y-7-de-noviembre-teleton-es-six-seven",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las temperaturas suaves y las lluvias prolongarán la presencia del mosquito tigre en España durante este otoño",
+      "url": "https://efeverde.com/presencia-mosquito-tigre-espana-durante-este-otono/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Avispas espía. Por May",
+      "url": "https://efeverde.com/avispas-espia-may-mundomay-humorgrafico-ecovinetas/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Mediterráneo es un mar mucho más dinámico de lo que se conocía, según un estudio",
+      "url": "https://efeverde.com/mediterraneo-mar-mucho-mas-dinamico-de-lo-que-se-conocia/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La inversión del 1 % más rico de España genera 24.600 millones de deuda climática, según Greenpeace",
+      "url": "https://efeverde.com/inversion-mas-rico-de-espana-genera-millones-deuda-climatica/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La FAO alerta de que el cambio climático está agravando la pobreza estructural de los pueblos indígenas",
+      "url": "https://efeverde.com/fao-pobreza-estructural-pueblos-indigenas-cambio-climatico/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "ONU: Más de 160 empresas comunican un 69 % de emisiones de metano, lo que ayuda a mitigar",
+      "url": "https://efeverde.com/onu-mas-de-160-empresas-comunican-un-69-de-emisiones-de-metano-lo-que-ayuda-a-mitigar/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Un estudio vincula la influencia del cambio climático en el huracán Polo",
+      "url": "https://efeverde.com/un-estudio-vincula-la-influencia-del-cambio-climatico-en-el-huracan-polo/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "‘La era del plástico’: el libro que aborda el problema de un material omnipresente",
+      "url": "https://efeverde.com/la-era-del-plastico-libro-problema-material-omnipresente/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Mientras postulan desierto florido a UNESCO, avanza juicio minero para invalidar su protección como parque",
+      "url": "https://www.terram.cl/el-desconcierto-mientras-postulan-desierto-florido-a-unesco-avanza-juicio-minero-para-invalidar-su-proteccion-como-parque/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobio Chile] Tras rechazo a invalidación de RCA: detractores de megaproyecto Maratué seguirán disputa en tribunales",
+      "url": "https://www.terram.cl/biobio-chile-tras-rechazo-a-invalidacion-de-rca-detractores-de-megaproyecto-maratue-seguiran-disputa-en-tribunales/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Noticias Los Ríos] Comunidades mapuches marchan contra proyecto inmobiliario ligado a familia Piñera y exigen mayor protección para el lago Ranco",
+      "url": "https://www.terram.cl/noticias-los-rios-comunidades-mapuches-marchan-contra-proyecto-inmobiliario-ligado-a-familia-pinera-y-exigen-mayor-proteccion-para-el-lago-ranco/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] El Niño podría intensificarse hacia fines de 2026: “Lo que resta del año estará marcado por frecuentes eventos extremos”, advierte experto",
+      "url": "https://www.terram.cl/ladera-sur-el-nino-podria-intensificarse-hacia-fines-de-2026-lo-que-resta-del-ano-estara-marcado-por-frecuentes-eventos-extremos-advierte-experto/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[24/7 Noticias] Valparaíso aprueba anteproyecto de plan regional para enfrentar el cambio climático",
+      "url": "https://www.terram.cl/24-7-noticias-valparaiso-aprueba-anteproyecto-de-plan-regional-para-enfrentar-el-cambio-climatico/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa] Estudio propone soluciones urbanas a escala barrial frente al riesgo de aluviones en Antofagasta",
+      "url": "https://www.terram.cl/cooperativa-estudio-propone-soluciones-urbanas-a-escala-barrial-frente-al-riesgo-de-aluviones-en-antofagasta/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Estudio de la UTEM concluye que el riesgo por exposición a polimetales en el área evaluada de Arica es bajo y se encuentra controlado",
+      "url": "https://mma.gob.cl/estudio-de-la-utem-concluye-que-el-riesgo-por-exposicion-a-polimetales-en-el-area-evaluada-de-arica-es-bajo-y-se-encuentra-controlado/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "Tribunal Ambiental rechaza demanda contra Agrícola Los Tilos, pero ordena evaluación ambiental de plantel en Talagante",
+      "url": "https://www.df.cl/empresas/industria/tribunal-ambiental-rechaza-demanda-contra-agricola-los-tilos-pero-ordena",
+      "fecha": "2026-10-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Segundo Tribunal Ambiental acoge reclamación y ordena someter excepcionalmente a revisión la RCA favorable del proyecto Rancagua Express",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-acoge-reclamacion-y-ordena-someter-excepcionalmente-a-revision-la-rca-favorable-del-proyecto-rancagua-express/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Cuando el clima golpea, la recuperación no puede esperar",
-      "url": "https://codexverde.cl/cuando-el-clima-golpea-la-recuperacion-no-puede-esperar/",
+      "titular": "Cerca de 240 recursos para enfrentar desastres: la app que busca fortalecer la resiliencia en Los Ríos",
+      "url": "https://codexverde.cl/cerca-de-240-recursos-para-enfrentar-desastres-la-app-que-busca-fortalecer-la-resiliencia-en-los-rios/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Envases de cosméticos: el 69,2% sería reciclable, pero la mayoría termina en la basura",
+      "url": "https://codexverde.cl/envases-de-cosmeticos-el-692-seria-reciclable-pero-la-mayoria-termina-en-la-basura/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Tormentas: Chile en tierra incógnita (Lo que importa)",
+      "url": "https://www.cr2.cl/tormentas-chile-en-tierra-incognita-lo-que-importa/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Climatólogo y El Niño: “El patrón de anomalías no lo habíamos visto en nuestros registros” (24 Horas TVN)",
+      "url": "https://www.cr2.cl/climatologo-y-el-nino-el-patron-de-anomalias-no-lo-habiamos-visto-en-nuestros-registros-24-horas-tvn/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "«Mientras más severa, más grande el granizo»: experto explica consecuencias tras tormenta en Stgo. (24 Horas)",
+      "url": "https://www.cr2.cl/mientras-mas-severa-mas-grande-el-granizo-experto-explica-consecuencias-tras-tormenta-en-stgo-24-horas/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Director del CR2: “Estamos atrasados como 60 años” en sistemas de alerta para tormentas severas (Radio U. de Chile)",
+      "url": "https://www.cr2.cl/director-del-cr2-estamos-atrasados-como-60-anos-en-sistemas-de-alerta-para-tormentas-severas-radio-u-de-chile/",
+      "fecha": "2026-10-14",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Chile vivió tormentas, granizadas y tornados en plena primavera y un científico lanzó una advertencia: “Es territorio incógnito” (Radio Concierto)",
+      "url": "https://www.cr2.cl/chile-vivio-tormentas-granizadas-y-tornados-en-plena-primavera-y-un-cientifico-lanzo-una-advertencia-es-territorio-incognito-radio-concierto/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "España pide a la UE una base aérea en Mallorca contra los incendios en el Mediterráneo",
-      "url": "https://efeverde.com/espana-base-aerea-mallorca-incendios-mediterraneo/",
+      "titular": "Un chip convierte a la avispa velutina en espía para localizar y retirar sus nidos",
+      "url": "https://efeverde.com/chip-avispa-velutina/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Casi la mitad de los signos vitales del planeta se encuentran en un estado alarmante",
-      "url": "https://efeverde.com/signos-vitales-planeta-estado-alarmante/",
+      "titular": "Descubren una cura «exprés» para el blanqueamiento de corales: el contacto con ejemplares sanos",
+      "url": "https://efeverde.com/descubren-una-cura-expres-para-el-blanqueamiento-de-corales-el-contacto-con-ejemplares-sanos/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sostenibilidad en femenino, contra los bulos en incendios forestales y disfrutar con cine ambiental en Mangas Verdes 501",
-      "url": "https://efeverde.com/sostenibilidad-femenino-bulos-incendios-forestales-cine-ambiental-mangas-verdes-501/",
+      "titular": "Los microplásticos desencadenan reacciones químicas muy dañinas en el interior del cuerpo",
+      "url": "https://efeverde.com/microplasticos-reacciones-quimicas-muy-daninas-en-interior-cuerpo/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Aves urbanas: Los gorriones, los mejor valorados, y las palomas, las más molestas",
-      "url": "https://efeverde.com/aves-urbanas-los-gorriones-los-mejor-valorados-y-las-palomas-las-mas-molestas/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Qué pasó en Nepal? Científicos reconstruyen cómo se produjo la mortal riada en agosto",
-      "url": "https://efeverde.com/que-paso-en-nepal-cientificos-reconstruyen-la-mortal-riada/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Mont Blanc gana casi dos metros en tres años pese al retroceso de los glaciares",
-      "url": "https://efeverde.com/el-mont-blanc-gana-casi-dos-metros-pese-al-retroceso-de-los-glaciares/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El TSJ de Asturias desestima paralizar cautelarmente el control letal de poblaciones de lobo en el Principado",
-      "url": "https://efeverde.com/el-tsj-de-asturias-desestima-paralizar-cautelarmente-el-control-letal-de-poblaciones-de-lobo-en-el-principado/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La CE propone formalmente retrasar las exigencias sobre emisiones de metano, como reclamaba EE.UU.",
-      "url": "https://efeverde.com/ce-propone-retrasar-exigencias-sobre-emisiones-de-metano/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Sólo se recogieron en España 9,3 kilos de residuos electrónicos por habitante en 2024",
-      "url": "https://efeverde.com/espana-kilos-de-residuos-electronicos-por-habitante-en-2024/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Perú instala sistema para alertar ante aluviones y otros desastres en la Cordillera Blanca",
-      "url": "https://efeverde.com/peru-instala-sistema-para-alertar-ante-aluviones-y-otros-desastres-en-la-cordillera-blanca/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mundo Acuicola] FAN en Magallanes: mortalidad en centros de Multi X llega a 959 toneladas",
-      "url": "https://www.terram.cl/mundo-acuicolafan-en-magallanes-mortalidad-en-centros-de-multi-x-llega-a-959-toneladas/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[SMA] SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
-      "url": "https://www.terram.cl/sma-sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El País] El Pacífico registra ‘El Niño’ más intenso en el último milenio debido al cambio climático: “Estamos contra el reloj”",
-      "url": "https://www.terram.cl/el-pais-el-pacifico-registra-el-nino-mas-intenso-en-el-ultimo-milenio-debido-al-cambio-climatico-estamos-contra-el-reloj/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[CNN] Gobierno mantiene sin reingresar a Contraloría mayoría de 43 decretos ambientales retirados: Está pendiente el que protege al pingüino de Humboldt",
-      "url": "https://www.terram.cl/cnn-gobierno-mantiene-sin-reingresar-a-contraloria-mayoria-de-43-decretos-ambientales-retirados-esta-pendiente-el-que-protege-al-pinguino-de-humboldt/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[SMA] SMA notifica a 267 empresas mineras para proteger flora del Desierto Florido 2026",
-      "url": "https://www.terram.cl/sma-sma-notifica-a-267-empresas-mineras-para-proteger-flora-del-desierto-florido-2026/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Microorganismos regeneran la vida tras la erupción volcánica en isla Decepción en la Antártica",
-      "url": "https://www.terram.cl/cooperativa-ciencia-microorganismos-regeneran-la-vida-tras-la-erupcion-volcanica-en-isla-decepcion-en-la-antartica/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo de profesional de apoyo de la unidad de inocuidad y certificacion escalafon profesional a contrata asimilado a grado 15 de la e u s para la o 2",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-de-apoyo-de-la-unidad-de-inocuidad-y-certificacion-escalafon-profesional-a-contrata-asimilado-a-grado-15-de-la-e-u-s-para-la-o-2/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Semana de la Pyme: impulsan la producción de energía sustentable y biomasa forestal para potenciar a las pymes madereras del Maule",
-      "url": "https://www.conaf.cl/semana-de-la-pyme-impulsan-la-produccion-de-energia-sustentable-y-biomasa-forestal-para-potenciar-a-las-pymes-madereras-del-maule/?utm_source=rss&utm_medium=rss&utm_campaign=semana-de-la-pyme-impulsan-la-produccion-de-energia-sustentable-y-biomasa-forestal-para-potenciar-a-las-pymes-madereras-del-maule",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-8-2026 y R-26-2026",
+      "url": "https://3ta.cl/sin-categoria/transmision-audiencia-causa-r-8-2026-y-r-26-2026/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes de Quirihue contribuyen a la restauración de Altos de Ninhue con plantación de 120 ejemplares nativos",
-      "url": "https://mma.gob.cl/estudiantes-de-quirihue-contribuyen-a-la-restauracion-de-altos-de-ninhue-con-plantacion-de-120-ejemplares-nativos/",
+      "titular": "Anuncian inicio cruzada de reciclaje para apoyar Teletón 2026",
+      "url": "https://mma.gob.cl/anuncian-inicio-cruzada-de-reciclaje-para-apoyar-teleton-2026/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Cooperativa",
-      "titular": "Gobierno tras accidentes fatales: Queremos que Codelco sea rentable, pero primero es la seguridad",
-      "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/gobierno-tras-accidentes-fatales-queremos-que-codelco-sea-rentable/2026-10-13/155318.html",
-      "fecha": "2026-10-14",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Sindicato de Supervisores y Minera Escondida evitan inicio de huelga con preacuerdo contractual y prórroga de mediación para que sea votado por trabajadores",
-      "url": "https://www.df.cl/empresas/mineria/sindicato-de-supervisores-y-minera-escondida-no-logran-acuerdo-y-huelga",
-      "fecha": "2026-10-14",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Sindicato de Supervisores y Minera Escondida evitan inicio de huelga con preacuerdo contractual y prórroga de mediación para que sea votado por trabajadores",
-      "url": "https://www.df.cl/empresas/mineria/sindicato-de-supervisores-y-minera-escondida-no-logran-acuerdo-y-huelga",
-      "fecha": "2026-10-14",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Hasta en debate sobre agua potable en la ONU: Gobierno de Kast niega que la salud sexual y reproductiva sea un derecho reconocido internacionalmente",
-      "url": "https://www.elciudadano.com/derechos-humanos/hasta-en-debate-sobre-agua-potable-en-la-onu-gobierno-de-kast-niega-que-la-salud-sexual-y-reproductiva-sea-un-derecho-reconocido-internacionalmente/10/14/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Aysén se suma a la Tarea Teletón 2026: Superhéroes del Reciclaje",
+      "url": "https://mma.gob.cl/aysen-se-suma-a-la-tarea-teleton-2026-superheroes-del-reciclaje/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "El Ciudadano",
-      "titular": "Cómo usar el mercado de más de 2.5 goles en la Premier League",
-      "url": "https://www.elciudadano.com/tendencias/como-usar-el-mercado-de-mas-de-2-5-goles-en-la-premier-league/10/14/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente EIA de proyecto minero en Tarapacá",
-      "url": "https://www.mch.cl/se-califica-favorablemente-eia-de-proyecto-minero-en-tarapaca/",
+      "fuente": "La Tercera",
+      "titular": "Jaime Bellolio: “Es fundamental que sea el Estado, el gobierno, el que tenga estaciones meteorológicas a lo largo del país”",
+      "url": "https://www.latercera.com/politica/noticia/jaime-bellolio-es-fundamental-que-sea-el-estado-el-gobierno-el-que-tenga-estaciones-meteorologicas-a-lo-largo-del-pais/",
       "fecha": "2026-10-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA formula cargos a empresa del rubro energético",
-      "url": "https://www.revistaei.cl/sma-formula-cargos-a-empresa-del-rubro-energetico/",
+      "titular": "Portuaria Otway ingresa al SEIA proyecto portuario de US$80 millones en Magallanes",
+      "url": "https://www.revistaei.cl/portuaria-otway-ingresa-al-seia-proyecto-portuario-de-us80-millones-en-magallanes/",
       "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SMA notifica a 267 unidades mineras y refuerza exigencias ambientales por el Desierto Florido 2026",
-      "url": "https://www.redimin.cl/sma-notifica-a-267-unidades-mineras-y-refuerza-exigencias-ambientales-por-el-desierto-florido-2026",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La deforestación cae un 15 % en 2025, hasta los siete millones de hectáreas de bosque a nivel mundial",
-      "url": "https://efeverde.com/deforestacion-cae-2025-millones-hectareas-bosque-nivel-mundial/",
-      "fecha": "2026-10-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA formula cargos a empresa Copec S.A. por el Terminal Marítimo de Quintero",
-      "url": "https://www.portalminero.com/sma-formula-cargos-a-empresa-copec-sa-por-el-terminal-maritimo-de-quintero",
-      "fecha": "2026-10-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
