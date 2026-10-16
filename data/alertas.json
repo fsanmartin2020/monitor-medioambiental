@@ -1,66 +1,164 @@
 {
-  "fecha_generacion": "2026-10-15T12:41:42.653254-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-10-16T12:26:37.758527-03:00",
+  "total_alertas": 13,
   "alertas": [
     {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ley REP: SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://www.chiledesarrollosustentable.cl/ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/?utm_source=rss&utm_medium=rss&utm_campaign=ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones inspectivas, desarrolladas por la Sección de Especialidades de la División de Fiscalización, se basan en el cruce de datos con el Servicio Nacional de Aduanas para examinar la vinculación de las empresas a Sistemas de Gestión autorizados",
+      "keywords_detectadas": [
+        "SMA",
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
+      "url": "https://www.chiledesarrollosustentable.cl/sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/?utm_source=rss&utm_medium=rss&utm_campaign=sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Infracción se sustenta por la superación reiterada del volumen máximo de descarga de residuos líquidos industriales autorizado en su Programa de Monitoreo hacia la Bahía de Quintero, en el sector Loncura-El Bato. La Superintendencia del Medio Ambient",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
       "fuente": "Terram",
-      "titular": "[Biobio Chile] Tras rechazo a invalidación de RCA: detractores de megaproyecto Maratué seguirán disputa en tribunales",
-      "url": "https://www.terram.cl/biobio-chile-tras-rechazo-a-invalidacion-de-rca-detractores-de-megaproyecto-maratue-seguiran-disputa-en-tribunales/",
-      "fecha": "2026-10-15",
+      "titular": "[La Tercera] Presupuesto de Medio Ambiente reduce recursos para cambio climático y calefacción sustentable y omite glosa para Escazú",
+      "url": "https://www.terram.cl/la-tercera-presupuesto-de-medio-ambiente-reduce-recursos-para-cambio-climatico-y-calefaccion-sustentable-y-omite-glosa-para-escazu/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los detractores del megaproyecto inmobiliario Maratué, que planea construir más de 14 mil viviendas en Puchuncaví, Valparaíso, seguirán la disputa en tribunales tras el rechazo del recurso de invalidación de su Resolución de Calificación Ambiental. L",
+      "extracto": "La justificación de la cartera es que durante los últimos cuatro años hubo un 6,7% de subejecución de recursos. Además, hay una lógica de redistribución de dineros. Fuente: La Tercera, 16 de octubre de 2026.",
       "keywords_detectadas": [
-        "RCA"
+        "Escazú"
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Tribunal Ambiental rechaza demanda contra Agrícola Los Tilos, pero ordena evaluación ambiental de plantel en Talagante",
-      "url": "https://www.df.cl/empresas/industria/tribunal-ambiental-rechaza-demanda-contra-agricola-los-tilos-pero-ordena",
-      "fecha": "2026-10-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "A pesar de que desestimó la demanda por daño ambiental contra dos establecimientos de la compañía, la corte detectó deficiencias operacionales en el establecimiento Santa Mariana y le ordenó ingresar al Sistema de Evaluación de Impacto Ambiental en u",
+      "fuente": "Terram",
+      "titular": "[Biobio Chile] Empresario es condenado por daño ambiental generado por proyectos inmobiliarios en costas de Valdivia",
+      "url": "https://www.terram.cl/biobio-chile-empresario-es-condenado-por-dano-ambiental-generado-por-proyectos-inmobiliarios-en-costas-de-valdivia/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental condenó a Emilio Pino por daño ambiental en cuatro proyectos inmobiliarios en la costa de Valdivia, ordenando un plan de recuperación por corte de árboles y destrucción del suelo. La demanda surgió en 2022 por denuncias d",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "daño ambiental"
       ]
     },
     {
-      "fuente": "País Circular",
-      "titular": "Segundo Tribunal Ambiental acoge reclamación y ordena someter excepcionalmente a revisión la RCA favorable del proyecto Rancagua Express",
-      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-acoge-reclamacion-y-ordena-someter-excepcionalmente-a-revision-la-rca-favorable-del-proyecto-rancagua-express/",
-      "fecha": "2026-10-14",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de Teck",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-teck/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Decisión evita perjuicios que generaría la paralización del servicio ferroviario en caso de haberse anulado dicho permiso. Si bien confirmó el fraccionamiento del proyecto y que las observaciones al proyecto ‘Seguridad y confinamiento no fueron debid",
+      "extracto": "La iniciativa considera una serie de modificaciones orientadas al fortalecimiento de la eficiencia productiva, la diversificación de su logí­stica y la adecuación de algunas de sus infraestructuras de apoyo. La entrada Se califica favorablemente DIA ",
       "keywords_detectadas": [
-        "Tribunal Ambiental",
-        "RCA"
+        "DIA"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Jaime Bellolio: “Es fundamental que sea el Estado, el gobierno, el que tenga estaciones meteorológicas a lo largo del país”",
-      "url": "https://www.latercera.com/politica/noticia/jaime-bellolio-es-fundamental-que-sea-el-estado-el-gobierno-el-que-tenga-estaciones-meteorologicas-a-lo-largo-del-pais/",
-      "fecha": "2026-10-14",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "EnorChile ingresa al SEIA proyecto de interconexión eléctrica entre Chile y Perú",
+      "url": "https://www.revistaei.cl/enorchile-ingresa-al-seia-proyecto-de-interconexion-electrica-entre-chile-y-peru/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El alcalde de Providencia detalló los estragos que convirtieron a la comuna en una de las más afectadas por los granizos. También hizo un llamado a invertir en prevención, ejemplificando con la alerta de una posible activación en la Quebrada de Ramón",
+      "extracto": "El objetivo de la iniciativa es permitir la importación y exportación de energía entre el Sistema Eléctrico Nacional (SEN) y el Sistema Eléctrico Interconectado Nacional (SEIN). La entrada EnorChile ingresa al SEIA proyecto de interconexión eléctrica",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA mantiene en evaluación 28 proyectos por US$1.530 millones en la Región de O’Higgins",
+      "url": "https://www.redimin.cl/sea-mantiene-en-evaluacion-28-proyectos-por-us-1-530-millones-en-la-region-de-o-higgins",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La autoridad ambiental informó que durante 2026 se han calificado favorablemente otras 27 iniciativas, por US$911 millones. El organismo busca reducir en 30% los plazos de evaluación sin disminuir las exigencias ambientales.",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Portuaria Otway ingresa al SEIA proyecto portuario de US$80 millones en Magallanes",
-      "url": "https://www.revistaei.cl/portuaria-otway-ingresa-al-seia-proyecto-portuario-de-us80-millones-en-magallanes/",
-      "fecha": "2026-10-14",
+      "fuente": "Nueva Minería",
+      "titular": "SMA intensifica fiscalización a importadores de neumáticos para detectar incumplimientos de la Ley REP",
+      "url": "https://www.nuevamineria.com/revista/sma-intensifica-fiscalizacion-a-importadores-de-neumaticos-para-detectar-incumplimientos-de-la-ley-rep/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa busca responder a la demanda logística asociada al desarrollo de proyectos industriales y de infraestructura en la región, particularmente aquellas vinculadas con la industria del hidrógeno verde. La entrada Portuaria Otway ingresa al S",
+      "extracto": "El organismo está cruzando información con Aduanas para verificar que las empresas cumplan sus obligaciones de gestión de neumáticos fuera de uso. La medida también resulta relevante para los proveedores de neumáticos de gran tamaño utilizados en la ",
       "keywords_detectadas": [
-        "SEIA"
+        "SMA",
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://www.paiscircular.cl/economia-circular/sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones inspectivas, desarrolladas por la Sección de Especialidades de la División de Fiscalización, se basan en el cruce de datos con el Servicio Nacional de Aduanas para examinar la vinculación de las empresas a Sistemas de Gestión autorizados",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Fallo rechazó demanda por daño ambiental contra dos planteles de crianza y engorda de animales ubicados en Isla de Maipo y Talagante",
+      "url": "https://tribunalambiental.cl/sentencia-d-87-2024-planteles-cerdo-talagante-isla-maipo",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la demanda de reparación por daño ambiental presentada en contra de dos planteles de crianza y engorda de animales de Sociedad Agrícola Los Tilos Limitada, ubicados en las comunas de Isla de Maipo y Talagante. “E",
+      "keywords_detectadas": [
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/10/2026: Suspende audiencia de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
+      "url": "https://3ta.cl/audiencias/22-10-2026-suspende-audiencia-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 22/10/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/10/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/20-10-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 20/10/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Ley REP: SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://portal.sma.gob.cl/index.php/ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones inspectivas, desarrolladas por la Sección de Especialidades de la División de Fiscalización, se basan en el cruce de datos con el Servicio Nacional de Aduanas para examinar la vinculación de las empresas a Sistemas de Gestión autorizados",
+      "keywords_detectadas": [
+        "SMA",
+        "Ley REP"
       ]
     }
   ]

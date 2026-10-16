@@ -1,277 +1,365 @@
 {
-  "fecha_actualizacion": "2026-10-15T12:41:42.638302-03:00",
-  "total": 34,
+  "fecha_actualizacion": "2026-10-16T12:26:37.742303-03:00",
+  "total": 45,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "José Luis Navajas, gerente general de EBI Chile: “Nuestra experiencia demuestra que se puede gestionar la transición hacia la circularidad con soluciones integrales”",
-      "url": "https://www.paiscircular.cl/economia-circular/jose-luis-navajas-gerente-general-de-ebi-chile-nuestra-experiencia-demuestra-que-se-puede-gestionar-la-transicion-hacia-la-circularidad-con-soluciones-integrales/",
-      "fecha": "2026-10-15",
+      "titular": "Los Lagos amplía capacidad para gestionar residuos de la construcción y evita la disposición final de más de 62 mil toneladas",
+      "url": "https://www.paiscircular.cl/economia-circular/los-lagos-amplia-capacidad-para-gestionar-residuos-de-la-construccion-y-evita-la-disposicion-final-de-mas-de-62-mil-toneladas/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Aceros AZA obtiene prestigioso reconocimiento de la industria siderúrgica internacional por realizar economía circular con propósito",
+      "url": "https://www.paiscircular.cl/economia-circular/aceros-aza-obtiene-prestigioso-reconocimiento-de-la-industria-siderurgica-internacional-por-realizar-economia-circular-con-proposito/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Alberto Tagle, gerente general de Consorcio Santa Marta: “Hoy los rellenos sanitarios son una solución complementaria en la gestión integral de residuos”",
+      "url": "https://www.paiscircular.cl/economia-circular/rellenos-sanitarios-santa-marta/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Banco de Chile presenta novedades de la campaña de recaudación para Teletón 2026: 6 y 7 de noviembre, ¡Teletón es Six Seven!",
-      "url": "https://www.chiledesarrollosustentable.cl/banco-de-chile-presenta-principales-novedades-de-la-campana-de-recaudacion-para-teleton-2026-6-y-7-de-noviembre-teleton-es-six-seven/?utm_source=rss&utm_medium=rss&utm_campaign=banco-de-chile-presenta-principales-novedades-de-la-campana-de-recaudacion-para-teleton-2026-6-y-7-de-noviembre-teleton-es-six-seven",
-      "fecha": "2026-10-15",
+      "titular": "ENGIE Chile concreta la primera reconversión en el país de una central a carbón para operar con gas natural",
+      "url": "https://www.chiledesarrollosustentable.cl/engie-chile-concreta-la-primera-reconversion-en-el-pais-de-una-central-a-carbon-para-operar-con-gas-natural/?utm_source=rss&utm_medium=rss&utm_campaign=engie-chile-concreta-la-primera-reconversion-en-el-pais-de-una-central-a-carbon-para-operar-con-gas-natural",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ley REP: SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://www.chiledesarrollosustentable.cl/ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/?utm_source=rss&utm_medium=rss&utm_campaign=ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "SMA formula cargos a empresa COPEC S.A. por el Terminal Marítimo de Quintero",
+      "url": "https://www.chiledesarrollosustentable.cl/sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero/?utm_source=rss&utm_medium=rss&utm_campaign=sma-formula-cargos-a-empresa-copec-s-a-por-el-terminal-maritimo-de-quintero",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las temperaturas suaves y las lluvias prolongarán la presencia del mosquito tigre en España durante este otoño",
-      "url": "https://efeverde.com/presencia-mosquito-tigre-espana-durante-este-otono/",
-      "fecha": "2026-10-15",
+      "titular": "Llega Adam, la primera dana de gran impacto de la temporada",
+      "url": "https://efeverde.com/llega-adam-primera-dana-gran-impacto-temporada/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Avispas espía. Por May",
-      "url": "https://efeverde.com/avispas-espia-may-mundomay-humorgrafico-ecovinetas/",
-      "fecha": "2026-10-15",
+      "titular": "SIGNUS distingue la trayectoria del periodista medioambiental de EFE Arturo Larena",
+      "url": "https://efeverde.com/signus-distingue-la-trayectoria-del-periodista-medioambiental-de-efe-arturo-larena/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Mediterráneo es un mar mucho más dinámico de lo que se conocía, según un estudio",
-      "url": "https://efeverde.com/mediterraneo-mar-mucho-mas-dinamico-de-lo-que-se-conocia/",
-      "fecha": "2026-10-15",
+      "titular": "Líderes mundiales se reúnen en Armenia para abordar la protección de la naturaleza",
+      "url": "https://efeverde.com/lideres-mundiales-armenia-abordar-proteccion-naturaleza/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La inversión del 1 % más rico de España genera 24.600 millones de deuda climática, según Greenpeace",
-      "url": "https://efeverde.com/inversion-mas-rico-de-espana-genera-millones-deuda-climatica/",
-      "fecha": "2026-10-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La FAO alerta de que el cambio climático está agravando la pobreza estructural de los pueblos indígenas",
-      "url": "https://efeverde.com/fao-pobreza-estructural-pueblos-indigenas-cambio-climatico/",
-      "fecha": "2026-10-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "ONU: Más de 160 empresas comunican un 69 % de emisiones de metano, lo que ayuda a mitigar",
-      "url": "https://efeverde.com/onu-mas-de-160-empresas-comunican-un-69-de-emisiones-de-metano-lo-que-ayuda-a-mitigar/",
-      "fecha": "2026-10-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un estudio vincula la influencia del cambio climático en el huracán Polo",
-      "url": "https://efeverde.com/un-estudio-vincula-la-influencia-del-cambio-climatico-en-el-huracan-polo/",
-      "fecha": "2026-10-15",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "‘La era del plástico’: el libro que aborda el problema de un material omnipresente",
-      "url": "https://efeverde.com/la-era-del-plastico-libro-problema-material-omnipresente/",
-      "fecha": "2026-10-15",
+      "titular": "La presidenta de Perú advierte de que El Niño va a ser «realmente dramático» en el país",
+      "url": "https://efeverde.com/la-presidenta-de-peru-advierte-de-que-el-nino-va-a-ser-realmente-dramatico-en-el-pais/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] Mientras postulan desierto florido a UNESCO, avanza juicio minero para invalidar su protección como parque",
-      "url": "https://www.terram.cl/el-desconcierto-mientras-postulan-desierto-florido-a-unesco-avanza-juicio-minero-para-invalidar-su-proteccion-como-parque/",
-      "fecha": "2026-10-15",
+      "titular": "[Ciper] Actual superintendente de Medio Ambiente representó a seis empresas infractoras de normas ambientales por faltas “gravísimas”",
+      "url": "https://www.terram.cl/ciper-actual-superintendente-de-medio-ambiente-represento-a-seis-empresas-infractoras-de-normas-ambientales-por-faltas-gravisimas/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Biobio Chile] Tras rechazo a invalidación de RCA: detractores de megaproyecto Maratué seguirán disputa en tribunales",
-      "url": "https://www.terram.cl/biobio-chile-tras-rechazo-a-invalidacion-de-rca-detractores-de-megaproyecto-maratue-seguiran-disputa-en-tribunales/",
-      "fecha": "2026-10-15",
+      "titular": "[La Tercera] Presupuesto de Medio Ambiente reduce recursos para cambio climático y calefacción sustentable y omite glosa para Escazú",
+      "url": "https://www.terram.cl/la-tercera-presupuesto-de-medio-ambiente-reduce-recursos-para-cambio-climatico-y-calefaccion-sustentable-y-omite-glosa-para-escazu/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Noticias Los Ríos] Comunidades mapuches marchan contra proyecto inmobiliario ligado a familia Piñera y exigen mayor protección para el lago Ranco",
-      "url": "https://www.terram.cl/noticias-los-rios-comunidades-mapuches-marchan-contra-proyecto-inmobiliario-ligado-a-familia-pinera-y-exigen-mayor-proteccion-para-el-lago-ranco/",
-      "fecha": "2026-10-15",
+      "titular": "[Diario Concepción] Cae biomasa de sardina y anchoveta: gremios piden reforzar la ciencia frente al impacto de El Niño",
+      "url": "https://www.terram.cl/diario-concepcion-cae-biomasa-de-sardina-y-anchoveta-gremios-piden-reforzar-la-ciencia-frente-al-impacto-de-el-nino/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Ladera Sur] El Niño podría intensificarse hacia fines de 2026: “Lo que resta del año estará marcado por frecuentes eventos extremos”, advierte experto",
-      "url": "https://www.terram.cl/ladera-sur-el-nino-podria-intensificarse-hacia-fines-de-2026-lo-que-resta-del-ano-estara-marcado-por-frecuentes-eventos-extremos-advierte-experto/",
-      "fecha": "2026-10-15",
+      "titular": "[Biobio Chile] Empresario es condenado por daño ambiental generado por proyectos inmobiliarios en costas de Valdivia",
+      "url": "https://www.terram.cl/biobio-chile-empresario-es-condenado-por-dano-ambiental-generado-por-proyectos-inmobiliarios-en-costas-de-valdivia/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[24/7 Noticias] Valparaíso aprueba anteproyecto de plan regional para enfrentar el cambio climático",
-      "url": "https://www.terram.cl/24-7-noticias-valparaiso-aprueba-anteproyecto-de-plan-regional-para-enfrentar-el-cambio-climatico/",
-      "fecha": "2026-10-15",
+      "titular": "[Codex Verdde] COP17 de biodiversidad: ¿puede el mundo mantener vivos los objetivos globales para la naturaleza?",
+      "url": "https://www.terram.cl/codex-verdde-cop17-de-biodiversidad-puede-el-mundo-mantener-vivos-los-objetivos-globales-para-la-naturaleza/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Cooperativa] Estudio propone soluciones urbanas a escala barrial frente al riesgo de aluviones en Antofagasta",
-      "url": "https://www.terram.cl/cooperativa-estudio-propone-soluciones-urbanas-a-escala-barrial-frente-al-riesgo-de-aluviones-en-antofagasta/",
-      "fecha": "2026-10-15",
+      "titular": "[El Desconcierto] Patagonia argentina: marea roja y cambio climático bajo la lupa tras la muerte de 7 ballenas en Chubut en 7 días",
+      "url": "https://www.terram.cl/el-desconcierto-patagonia-argentina-marea-roja-y-cambio-climatico-bajo-la-lupa-tras-la-muerte-de-7-ballenas-en-chubut-en-7-dias/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Boletín 2TA. N°7, julio- septiembre 2026",
+      "url": "https://tribunalambiental.cl/boletin-2ta-n6-abril-junio-2026/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Parques y reservas marinas",
+      "url": "https://www.sernapesca.cl/area-trabajo/parques-y-reservas-marinas/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de tecnico de apoyo regional escalafon tecnico a contrata asimilado a grado 17 de la e u s del area de soporte operacional of caldera dr d",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-tecnico-de-apoyo-regional-escalafon-tecnico-a-contrata-asimilado-a-grado-17-de-la-e-u-s-del-area-de-soporte-operacional-of-caldera-dr-d/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Comienzan trabajos de prevención de incendios del Programa de Empleo en Lumaco",
+      "url": "https://www.conaf.cl/comienzan-trabajos-de-prevencion-de-incendios-del-programa-de-empleo-en-lumaco/?utm_source=rss&utm_medium=rss&utm_campaign=comienzan-trabajos-de-prevencion-de-incendios-del-programa-de-empleo-en-lumaco",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF evoluciona su monitoreo satelital para detectar cambios en el territorio con mayor rapidez y precisión",
+      "url": "https://www.conaf.cl/conaf-evoluciona-su-monitoreo-satelital-para-detectar-cambios-en-el-territorio-con-mayor-rapidez-y-precision/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-evoluciona-su-monitoreo-satelital-para-detectar-cambios-en-el-territorio-con-mayor-rapidez-y-precision",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y Fundación Proyecto Ser Humano destacan la participación de estudiantes en la protección y el cuidado del desierto florido",
+      "url": "https://www.conaf.cl/conaf-y-fundacion-proyecto-ser-humano-destacan-la-participacion-de-estudiantes-en-la-proteccion-y-el-cuidado-del-desierto-florido/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-fundacion-proyecto-ser-humano-destacan-la-participacion-de-estudiantes-en-la-proteccion-y-el-cuidado-del-desierto-florido",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Instituto Nacional de Normalización acredita a nuestro laboratorio bajo la norma NCh-ISO/IEC 17043:2023",
+      "url": "https://portal.sma.gob.cl/index.php/instituto-nacional-de-normalizacion-acredita-a-nuestro-laboratorio-bajo-la-norma-nch-iso-iec-170432023/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudio de la UTEM concluye que el riesgo por exposición a polimetales en el área evaluada de Arica es bajo y se encuentra controlado",
-      "url": "https://mma.gob.cl/estudio-de-la-utem-concluye-que-el-riesgo-por-exposicion-a-polimetales-en-el-area-evaluada-de-arica-es-bajo-y-se-encuentra-controlado/",
-      "fecha": "2026-10-15",
+      "titular": "Región del Biobío se suma a la campaña de reciclaje por la Teletón 2026 con 29 municipios y la meta de superar las 19 toneladas de botellas plásticas",
+      "url": "https://mma.gob.cl/region-del-biobio-se-suma-a-la-campana-de-reciclaje-por-la-teleton-2026-con-29-municipios-y-la-meta-de-superar-las-19-toneladas-de-botellas-plasticas/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Tribunal Ambiental rechaza demanda contra Agrícola Los Tilos, pero ordena evaluación ambiental de plantel en Talagante",
-      "url": "https://www.df.cl/empresas/industria/tribunal-ambiental-rechaza-demanda-contra-agricola-los-tilos-pero-ordena",
-      "fecha": "2026-10-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Segundo Tribunal Ambiental acoge reclamación y ordena someter excepcionalmente a revisión la RCA favorable del proyecto Rancagua Express",
-      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-acoge-reclamacion-y-ordena-someter-excepcionalmente-a-revision-la-rca-favorable-del-proyecto-rancagua-express/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Cerca de 240 recursos para enfrentar desastres: la app que busca fortalecer la resiliencia en Los Ríos",
-      "url": "https://codexverde.cl/cerca-de-240-recursos-para-enfrentar-desastres-la-app-que-busca-fortalecer-la-resiliencia-en-los-rios/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Envases de cosméticos: el 69,2% sería reciclable, pero la mayoría termina en la basura",
-      "url": "https://codexverde.cl/envases-de-cosmeticos-el-692-seria-reciclable-pero-la-mayoria-termina-en-la-basura/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Tormentas: Chile en tierra incógnita (Lo que importa)",
-      "url": "https://www.cr2.cl/tormentas-chile-en-tierra-incognita-lo-que-importa/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Climatólogo y El Niño: “El patrón de anomalías no lo habíamos visto en nuestros registros” (24 Horas TVN)",
-      "url": "https://www.cr2.cl/climatologo-y-el-nino-el-patron-de-anomalias-no-lo-habiamos-visto-en-nuestros-registros-24-horas-tvn/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "«Mientras más severa, más grande el granizo»: experto explica consecuencias tras tormenta en Stgo. (24 Horas)",
-      "url": "https://www.cr2.cl/mientras-mas-severa-mas-grande-el-granizo-experto-explica-consecuencias-tras-tormenta-en-stgo-24-horas/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Director del CR2: “Estamos atrasados como 60 años” en sistemas de alerta para tormentas severas (Radio U. de Chile)",
-      "url": "https://www.cr2.cl/director-del-cr2-estamos-atrasados-como-60-anos-en-sistemas-de-alerta-para-tormentas-severas-radio-u-de-chile/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Chile vivió tormentas, granizadas y tornados en plena primavera y un científico lanzó una advertencia: “Es territorio incógnito” (Radio Concierto)",
-      "url": "https://www.cr2.cl/chile-vivio-tormentas-granizadas-y-tornados-en-plena-primavera-y-un-cientifico-lanzo-una-advertencia-es-territorio-incognito-radio-concierto/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un chip convierte a la avispa velutina en espía para localizar y retirar sus nidos",
-      "url": "https://efeverde.com/chip-avispa-velutina/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Descubren una cura «exprés» para el blanqueamiento de corales: el contacto con ejemplares sanos",
-      "url": "https://efeverde.com/descubren-una-cura-expres-para-el-blanqueamiento-de-corales-el-contacto-con-ejemplares-sanos/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los microplásticos desencadenan reacciones químicas muy dañinas en el interior del cuerpo",
-      "url": "https://efeverde.com/microplasticos-reacciones-quimicas-muy-daninas-en-interior-cuerpo/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-8-2026 y R-26-2026",
-      "url": "https://3ta.cl/sin-categoria/transmision-audiencia-causa-r-8-2026-y-r-26-2026/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Anuncian inicio cruzada de reciclaje para apoyar Teletón 2026",
-      "url": "https://mma.gob.cl/anuncian-inicio-cruzada-de-reciclaje-para-apoyar-teleton-2026/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Aysén se suma a la Tarea Teletón 2026: Superhéroes del Reciclaje",
-      "url": "https://mma.gob.cl/aysen-se-suma-a-la-tarea-teleton-2026-superheroes-del-reciclaje/",
-      "fecha": "2026-10-14",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Jaime Bellolio: “Es fundamental que sea el Estado, el gobierno, el que tenga estaciones meteorológicas a lo largo del país”",
-      "url": "https://www.latercera.com/politica/noticia/jaime-bellolio-es-fundamental-que-sea-el-estado-el-gobierno-el-que-tenga-estaciones-meteorologicas-a-lo-largo-del-pais/",
-      "fecha": "2026-10-14",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de proyecto de Teck",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-teck/",
+      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Revista Electricidad e Industria",
-      "titular": "Portuaria Otway ingresa al SEIA proyecto portuario de US$80 millones en Magallanes",
-      "url": "https://www.revistaei.cl/portuaria-otway-ingresa-al-seia-proyecto-portuario-de-us80-millones-en-magallanes/",
-      "fecha": "2026-10-14",
+      "titular": "EnorChile ingresa al SEIA proyecto de interconexión eléctrica entre Chile y Perú",
+      "url": "https://www.revistaei.cl/enorchile-ingresa-al-seia-proyecto-de-interconexion-electrica-entre-chile-y-peru/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA mantiene en evaluación 28 proyectos por US$1.530 millones en la Región de O’Higgins",
+      "url": "https://www.redimin.cl/sea-mantiene-en-evaluacion-28-proyectos-por-us-1-530-millones-en-la-region-de-o-higgins",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA intensifica fiscalización a importadores de neumáticos para detectar incumplimientos de la Ley REP",
+      "url": "https://www.nuevamineria.com/revista/sma-intensifica-fiscalizacion-a-importadores-de-neumaticos-para-detectar-incumplimientos-de-la-ley-rep/",
+      "fecha": "2026-10-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://www.paiscircular.cl/economia-circular/sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La transición energética también se juega en los territorios y comunidades",
+      "url": "https://www.paiscircular.cl/opinion/la-transicion-energetica-tambien-se-juega-en-los-territorios-y-comunidades/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Construcción sustentable: expertos abordaron avances en circularidad, huella de carbono y tecnología en seminario de Codexverde y UDLA",
+      "url": "https://codexverde.cl/construccion-sustentable-expertos-abordaron-avances-en-circularidad-huella-de-carbono-y-tecnologia-en-seminario-de-codexverde-y-udla/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "COP17 de biodiversidad: ¿puede el mundo mantener vivos los objetivos globales para la naturaleza?",
+      "url": "https://codexverde.cl/cop17-de-biodiversidad-puede-el-mundo-mantener-vivos-los-objetivos-globales-para-la-naturaleza/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Septiembre de 2026 ha sido el más cálido de la serie histórica en España, con 3,4 grados de diferencia",
+      "url": "https://efeverde.com/septiembre-de-2026-ha-sido-el-mas-calido-de-la-serie-historica-en-espana/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "António Guterres cree que aún es posible «revertir la pérdida de biodiversidad»",
+      "url": "https://efeverde.com/antonio-guterres-cree-que-aun-es-posible-revertir-la-perdida-de-biodiversidad/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Fallo rechazó demanda por daño ambiental contra dos planteles de crianza y engorda de animales ubicados en Isla de Maipo y Talagante",
+      "url": "https://tribunalambiental.cl/sentencia-d-87-2024-planteles-cerdo-talagante-isla-maipo",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/10/2026: Suspende audiencia de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
+      "url": "https://3ta.cl/audiencias/22-10-2026-suspende-audiencia-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "20/10/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/20-10-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Inician plantación de 900 árboles nativos en el Jardín Botánico Nacional de Viña del Mar",
+      "url": "https://www.conaf.cl/inician-plantacion-de-900-arboles-nativos-en-el-jardin-botanico-nacional-de-vina-del-mar/?utm_source=rss&utm_medium=rss&utm_campaign=inician-plantacion-de-900-arboles-nativos-en-el-jardin-botanico-nacional-de-vina-del-mar",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Ley REP: SMA realiza fiscalizaciones a importadores del producto prioritario neumáticos para verificar el cumplimiento y detectar eventuales elusores",
+      "url": "https://portal.sma.gob.cl/index.php/ley-rep-sma-realiza-fiscalizaciones-a-importadores-del-producto-prioritario-neumaticos-para-verificar-el-cumplimiento-y-detectar-eventuales-elusores/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "DGA capacita a Servicios Sanitarios Rurales de la Región Metropolitana en toma de muestras de calidad en pozos",
+      "url": "https://dga.mop.gob.cl/dga-capacita-a-servicios-sanitarios-rurales-de-la-region-metropolitana-en-toma-de-muestras-de-calidad-en-pozos/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ñuble da inicio a campaña de reciclaje por la Teletón “Superhéroes del Reciclaje: Juntos hacemos más” de CCU",
+      "url": "https://mma.gob.cl/nuble-da-inicio-a-campana-de-reciclaje-por-la-teleton-superheroes-del-reciclaje-juntos-hacemos-mas-de-ccu/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Docentes de Aysén fortalecen herramientas para enfrentar los riesgos del cambio climático",
+      "url": "https://mma.gob.cl/docentes-de-aysen-fortalecen-herramientas-para-enfrentar-los-riesgos-del-cambio-climatico/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente realizó exitosa rueda de negocios del Sistema de Compensación de Emisiones del Impuesto Verde (SCE)",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-realizo-exitosa-rueda-de-negocios-del-sistema-de-compensacion-de-emisiones-del-impuesto-verde-sce/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente destaca trabajo del CORECC para proteger a las familias frente a los efectos del cambio climático",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-destaca-trabajo-del-corecc-para-proteger-a-las-familias-frente-a-los-efectos-del-cambio-climatico/",
+      "fecha": "2026-10-15",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "“Juntos hacemos más”: CCU y Teletón movilizan a la Región de Atacama y a todo Chile en torno al reciclaje",
+      "url": "https://mma.gob.cl/juntos-hacemos-mas-ccu-y-teleton-movilizan-a-la-region-de-atacama-y-a-todo-chile-en-torno-al-reciclaje/",
+      "fecha": "2026-10-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
