@@ -1,165 +1,61 @@
 {
-  "fecha_actualizacion": "2026-10-17T11:12:14.774034-03:00",
-  "total": 20,
+  "fecha_actualizacion": "2026-10-18T11:37:34.432471-03:00",
+  "total": 7,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "¿Cómo afrontaría Canarias un aluvión como el de 1826?: La Aemet trabaja en la respuesta",
-      "url": "https://efeverde.com/como-afrontaria-canarias-un-aluvion-como-el-de-1826-la-aemet-trabaja-en-la-respuesta/",
-      "fecha": "2026-10-17",
+      "titular": "La primera gran dana del otoño se cobra una víctima mortal y mantiene zonas en aviso rojo",
+      "url": "https://efeverde.com/la-primera-gran-dana-del-otono-se-cobra-una-victima-mortal-y-mantiene-zonas-en-aviso-rojo/",
+      "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La cooperación entre meteorólogos, fundamental para mejorar la alerta temprana",
-      "url": "https://efeverde.com/la-cooperacion-entre-meteorologos-fundamental-para-mejorar-la-alerta-temprana/",
-      "fecha": "2026-10-17",
+      "titular": "La COP17 afronta el desafío de acelerar la protección de la biodiversidad en la Tierra",
+      "url": "https://efeverde.com/la-cop17-afronta-el-desafio-de-acelerar-la-proteccion-de-la-biodiversidad-en-la-tierra/",
+      "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Líderes mundiales llaman a tomar medidas para detener la reducción de la biodiversidad",
-      "url": "https://efeverde.com/lideres-mundiales-llaman-a-tomar-medidas-para-detener-la-reduccion-de-la-biodiversidad/",
-      "fecha": "2026-10-17",
+      "titular": "La Albufera supo cómo resistir a la dana y ahora necesita un frente común para regenerarse",
+      "url": "https://efeverde.com/la-albufera-supo-como-resistir-a-la-dana-y-ahora-necesita-un-frente-comun-para-regenerarse/",
+      "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La deforestación en la Amazonía brasileña cae a su menor nivel en casi 40 años",
-      "url": "https://efeverde.com/la-deforestacion-en-la-amazonia-brasilena-cae-a-su-menor-nivel-en-casi-40-anos/",
+      "titular": "Condenados dos hombres a cadena perpetua en Kenia por posesión de marfil y pieles de felinos",
+      "url": "https://efeverde.com/condenados-dos-hombres-a-cadena-perpetua-en-kenia-por-posesion-de-marfil-y-pieles-de-felinos/",
+      "fecha": "2026-10-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ingenieros de Caminos reclaman una gestión del agua al margen de ideologías",
+      "url": "https://efeverde.com/ingenieros-de-caminos-reclaman-una-gestion-del-agua-al-margen-de-ideologias/",
+      "fecha": "2026-10-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Trump pide a Francia cerrar sus fronteras “antes de que sea demasiado tarde” y achaca el deterioro del país a la inmigración",
+      "url": "https://www.latercera.com/mundo/noticia/trump-pide-a-francia-cerrar-sus-fronteras-antes-de-que-sea-demasiado-tarde-y-achaca-el-deterioro-del-pais-a-la-inmigracion/",
+      "fecha": "2026-10-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Miles de personas exigen en Sevilla el fin de los vertidos mineros en el Guadalquivir",
+      "url": "https://efeverde.com/miles-de-personas-exigen-en-sevilla-el-fin-de-los-vertidos-mineros-en-el-guadalquivir/",
       "fecha": "2026-10-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF y Fundación Proyecto Ser Humano destacan la participación de estudiantes en la protección y el cuidado del desierto florido",
-      "url": "https://www.conaf.cl/conaf-y-fundacion-proyecto-ser-humano-destacan-la-participacion-de-estudiantes-en-la-proteccion-y-el-cuidado-del-desierto-florido-2/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-fundacion-proyecto-ser-humano-destacan-la-participacion-de-estudiantes-en-la-proteccion-y-el-cuidado-del-desierto-florido-2",
-      "fecha": "2026-10-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Tras cinco años sin avistamientos: captan imágenes de un puma dentro de la Reserva Lago Peñuelas",
-      "url": "https://www.conaf.cl/tras-cinco-anos-sin-avistamientos-captan-imagenes-de-un-puma-dentro-de-la-reserva-lago-penuelas/?utm_source=rss&utm_medium=rss&utm_campaign=tras-cinco-anos-sin-avistamientos-captan-imagenes-de-un-puma-dentro-de-la-reserva-lago-penuelas",
-      "fecha": "2026-10-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Primera Mesa de Mercados de Carbono y Competitividad traza su agenda de trabajo para fortalecer los mercados en Chile",
-      "url": "https://www.paiscircular.cl/transicion-energetica/primera-mesa-de-mercados-de-carbono-y-competitividad-lanza-agenda-de-trabajo/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "GeoSismos: la plataforma que busca mejorar la comprensión de los ciclos sísmicos en Chile",
-      "url": "https://codexverde.cl/geosismos-la-plataforma-que-busca-mejorar-la-comprension-de-los-ciclos-sismicos-en-chile/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Los Lagos amplía capacidad para gestionar residuos de la construcción y evita la disposición final de más de 62 mil toneladas",
-      "url": "https://codexverde.cl/los-lagos-amplia-capacidad-para-gestionar-residuos-de-la-construccion-y-evita-la-disposicion-final-de-mas-de-62-mil-toneladas/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Consejos de la sociedad civil cosoc",
-      "url": "https://www.sernapesca.cl/participacion_ciudadana/consejos-de-la-sociedad-civil-cosoc/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF impulsa el emprendimiento sostenible en la Cumbre Pyme 2026 de Arica y Parinacota",
-      "url": "https://www.conaf.cl/conaf-impulsa-el-emprendimiento-sostenible-en-la-cumbre-pyme-2026-de-arica-y-parinacota/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-impulsa-el-emprendimiento-sostenible-en-la-cumbre-pyme-2026-de-arica-y-parinacota",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Los Lagos organizó taller para articular a los actores de la cadena de comercialización de la leña",
-      "url": "https://www.conaf.cl/los-muermos-conaf-los-lagos-organizo-taller-para-articular-a-los-actores-de-la-cadena-de-comercializacion-de-la-lena/?utm_source=rss&utm_medium=rss&utm_campaign=los-muermos-conaf-los-lagos-organizo-taller-para-articular-a-los-actores-de-la-cadena-de-comercializacion-de-la-lena",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Tarapacá concluyó capacitación docente con 12 profesores certificados y más de 1.000 estudiantes beneficiados",
-      "url": "https://www.conaf.cl/conaf-tarapaca-concluyo-capacitacion-docente-con-12-profesores-certificados-y-mas-de-1-000-estudiantes-beneficiados/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-concluyo-capacitacion-docente-con-12-profesores-certificados-y-mas-de-1-000-estudiantes-beneficiados",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA instruye requerimiento de información a ENAEX S.A. ante contingencia por derrame de ácido nítrico en Mejillones",
-      "url": "https://portal.sma.gob.cl/index.php/sma-instruye-requerimiento-de-informacion-a-enaex-s-a-ante-contingencia-por-derrame-de-acido-nitrico-en-mejillones/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "“Juntos hacemos más”: CCU, Teletón y el Ministerio del Medio Ambiente, vuelven a movilizar a Chile en torno al reciclaje",
-      "url": "https://mma.gob.cl/juntos-hacemos-mas-ccu-teleton-y-el-ministerio-del-medio-ambiente-vuelven-a-movilizar-a-chile-en-torno-al-reciclaje/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Inauguran estación IMPROVE para fortalecer el monitoreo de la calidad del aire y la investigación en salud",
-      "url": "https://mma.gob.cl/inauguran-estacion-improve-para-fortalecer-el-monitoreo-de-la-calidad-del-aire-y-la-investigacion-en-salud/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Subsecretario Vial anuncia inicio de consulta ciudadana de anteproyecto de norma para la protección de las aguas de los lagos nor-patagónicos",
-      "url": "https://mma.gob.cl/subsecretario-vial-anuncia-inicio-de-consulta-ciudadana-de-anteproyecto-de-norma-para-la-proteccion-de-las-aguas-de-los-lagos-nor-patagonicos/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades coordinan el cierre de la barra del Humedal La Vega de Pupuya para proteger su biodiversidad",
-      "url": "https://mma.gob.cl/autoridades-coordinan-el-cierre-de-la-barra-del-humedal-la-vega-de-pupuya-para-proteger-su-biodiversidad/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Día Mundial del Pan: Ministra Toledo reconoce a San Camilo por ser la primera panadería de Chile en obtener sellos de Cuantificación, Reducción, Neutralización y Excelencia del programa HuellaChile",
-      "url": "https://mma.gob.cl/dia-mundial-del-pan-ministra-toledo-reconoce-a-san-camilo-por-ser-la-primera-panaderia-de-chile-en-obtener-sellos-de-cuantificacion-reduccion-neutralizacion-y-excelencia-del-programa-huellachile/",
-      "fecha": "2026-10-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Orden de no innovar restringe operación de instalaciones de Enami",
-      "url": "https://www.mch.cl/orden-de-no-innovar-restringe-operacion-de-instalaciones-de-enami/",
-      "fecha": "2026-10-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

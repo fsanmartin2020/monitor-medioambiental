@@ -1,18 +1,17 @@
 {
-  "fecha_generacion": "2026-10-17T11:12:14.787595-03:00",
+  "fecha_generacion": "2026-10-18T11:37:34.444684-03:00",
   "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "SMA",
-      "titular": "SMA instruye requerimiento de información a ENAEX S.A. ante contingencia por derrame de ácido nítrico en Mejillones",
-      "url": "https://portal.sma.gob.cl/index.php/sma-instruye-requerimiento-de-informacion-a-enaex-s-a-ante-contingencia-por-derrame-de-acido-nitrico-en-mejillones/",
-      "fecha": "2026-10-16",
+      "fuente": "La Tercera",
+      "titular": "Trump pide a Francia cerrar sus fronteras “antes de que sea demasiado tarde” y achaca el deterioro del país a la inmigración",
+      "url": "https://www.latercera.com/mundo/noticia/trump-pide-a-francia-cerrar-sus-fronteras-antes-de-que-sea-demasiado-tarde-y-achaca-el-deterioro-del-pais-a-la-inmigracion/",
+      "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los antecedentes solicitados permitirán establecer las causas del volcamiento del camión, verificar el cumplimiento de los protocolos de emergencia y evaluar eventuales afectaciones ambientales o infracciones a las Resoluciones de Calificación Ambien",
+      "extracto": "“La inmigración de personas de un mundo completamente diferente, personas con odio en sus corazones, ha destrozado a ese país que alguna vez fue grande”, sostuvo Trump.",
       "keywords_detectadas": [
-        "SMA",
-        "derrame"
+        "SEA"
       ]
     }
   ]
