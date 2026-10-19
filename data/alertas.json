@@ -1,17 +1,105 @@
 {
-  "fecha_generacion": "2026-10-18T11:37:34.444684-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-10-19T14:31:38.790339-03:00",
+  "total_alertas": 8,
   "alertas": [
     {
+      "fuente": "Codex Verde",
+      "titular": "Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
+      "url": "https://codexverde.cl/dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Desde que en 1972 el ex presidente de Argentina Juan Domingo Perón problematizara el discurso del sistema imperante de expansión económica a costa de la contaminación del medio ambiente, la explotación indiscriminada de recursos naturales y la sobre ",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
+      "url": "https://www.terram.cl/ladera-sur-dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En el Día de la Protección de la Naturaleza, Diego Rojas, abogado de Fundación Terram, analiza la deuda pendiente de Chile con el Acuerdo de Escazú. Aunque el país ratificó este tratado internacional en 2022, persisten desafíos en materia de particip",
+      "keywords_detectadas": [
+        "Escazú"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargo grave contra Pesquera La Portada en Puerto Montt por incumplimientos en el control de olores",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-grave-contra-pesquera-la-portada-en-puerto-montt-por-incumplimientos-en-el-control-de-olores/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Fiscalizaciones de la SMA motivadas por denuncias ciudadanas constataron la falta de conducción e incineración de vahos no condensables en calderas, además de la emisión continua de olores hacia el exterior en su planta de procesamiento de mortalidad",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
       "fuente": "La Tercera",
-      "titular": "Trump pide a Francia cerrar sus fronteras “antes de que sea demasiado tarde” y achaca el deterioro del país a la inmigración",
-      "url": "https://www.latercera.com/mundo/noticia/trump-pide-a-francia-cerrar-sus-fronteras-antes-de-que-sea-demasiado-tarde-y-achaca-el-deterioro-del-pais-a-la-inmigracion/",
+      "titular": "Netanyahu sostiene que Israel “puede golpear a sus enemigos cuando sea necesario”",
+      "url": "https://www.latercera.com/mundo/noticia/netanyahu-recalca-que-israel-puede-golpear-a-sus-enemigos-cuando-sea-necesario/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Nuestros enemigos sufrirán golpes más duros de los que han recibido hasta ahora”, ha dicho durante una visita a una base de la Fuerza Aérea de Israel.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ley REP: SMA fiscaliza a importadores de neumáticos para detectar eventuales elusores",
+      "url": "https://www.mch.cl/ley-rep-sma-fiscaliza-a-importadores-de-neumaticos-para-detectar-eventuales-elusores/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones inspectivas se basan en el cruce de datos con el Servicio Nacional de Aduanas para examinar la vinculación de las empresas a Sistemas de Gestión autorizados durante el período 2022-2026. La entrada Ley REP: SMA fiscaliza a importadores d",
+      "keywords_detectadas": [
+        "SMA",
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA exige a Enaex explicar derrame de ácido nítrico en Mejillones y revisar cumplimiento de protocolos ambientales",
+      "url": "https://www.redimin.cl/sma-exige-a-enaex-explicar-derrame-de-acido-nitrico-en-mejillones-y-revisar-cumplimiento-de-protocolos-ambientales",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Superintendencia del Medio Ambiente otorgó cinco días hábiles a la compañía para entregar antecedentes sobre el accidente ocurrido el 9 de octubre. La fiscalización busca determinar la cantidad de sustancia liberada, la superficie afectada y la ef",
+      "keywords_detectadas": [
+        "SMA",
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA exige antecedentes a Enaex tras derrame de ácido nítrico en Mejillones",
+      "url": "https://www.nuevamineria.com/revista/sma-exige-antecedentes-a-enaex-tras-derrame-de-acido-nitrico-en-mejillones/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El organismo fiscalizador otorgó cinco días hábiles a la compañía para informar las causas del incidente, la cantidad de sustancia derramada, las medidas de emergencia implementadas y las eventuales afectaciones ambientales. El episodio motivó cuatro",
+      "keywords_detectadas": [
+        "SMA",
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA instruye requerimiento de información a Enaex S.A. ante contingencia por derrame de ácido nítrico en Mejillones",
+      "url": "https://www.portalminero.com/sma-instruye-requerimiento-de-informacion-a-enaex-sa-ante-contingencia-por-derrame-de-acido-nitrico-en-mejillones",
       "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "“La inmigración de personas de un mundo completamente diferente, personas con odio en sus corazones, ha destrozado a ese país que alguna vez fue grande”, sostuvo Trump.",
+      "extracto": "Los antecedentes solicitados permitirán establecer las causas del volcamiento del camión, verificar el cumplimiento de los protocolos de emergencia y evaluar eventuales afectaciones ambientales o infracciones a las Resoluciones de Calificación Ambien",
       "keywords_detectadas": [
-        "SEA"
+        "SMA",
+        "derrame"
       ]
     }
   ]
