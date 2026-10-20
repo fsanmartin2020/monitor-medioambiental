@@ -1,237 +1,269 @@
 {
-  "fecha_actualizacion": "2026-10-19T14:31:38.778856-03:00",
-  "total": 29,
+  "fecha_actualizacion": "2026-10-20T12:44:12.849154-03:00",
+  "total": 33,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Juan Andrés Salamanca, gerente comercial de Hidronor: “Para que la REP avance, la normativa y el mercado tienen que llegar a un equilibrio”",
-      "url": "https://www.paiscircular.cl/economia-circular/juan-andres-salamanca-gerente-comercial-de-hidronor-para-que-la-rep-avance-la-normativa-y-el-mercado-tienen-que-llegar-a-un-equilibrio/",
+      "titular": "Mayling Yuen, sobre la Hoja de Ruta del Aluminio: “Es relevante coordinar acciones, recursos, actores para complementar el cumplimiento de la Ley REP”",
+      "url": "https://www.paiscircular.cl/economia-circular/mayling-yuen-sobre-la-hoja-de-ruta-del-aluminio/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Colombiana Promigas inaugura proyecto de energía renovable en Iquique: “Chile tiene una capacidad regulatoria que es un ejemplo”",
+      "url": "https://www.chiledesarrollosustentable.cl/colombiana-promigas-inaugura-proyecto-de-energia-renovable-en-iquique-chile-tiene-una-capacidad-regulatoria-que-es-un-ejemplo/?utm_source=rss&utm_medium=rss&utm_campaign=colombiana-promigas-inaugura-proyecto-de-energia-renovable-en-iquique-chile-tiene-una-capacidad-regulatoria-que-es-un-ejemplo",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Segundo Tribunal Ambiental rechazó demanda por daño ambiental contra dos planteles de crianza y engorda de animales ubicados en Isla de Maipo y Talagante",
+      "url": "https://codexverde.cl/segundo-tribunal-ambiental-rechazo-demanda-por-dano-ambiental-contra-dos-planteles-de-crianza-y-engorda-de-animales-ubicados-en-isla-de-maipo-y-talagante/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Zona libre de redes en el hábitat de la vaquita marina. Por Víctor Solís (@Visoor)",
+      "url": "https://efeverde.com/zona-libre-de-redes-en-el-habitat-de-la-vaquita-marina-por-victor-solis/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La dana Adam pierde fuerza tras dejar, al menos, 4 fallecidos, graves inundaciones y destrozos",
+      "url": "https://efeverde.com/dana-adam-pierde-fuerza/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El fuego arrasa durante 2026 casi 280.000 hectáreas forestales en España, 2,5 veces la media del último decenio",
+      "url": "https://efeverde.com/fuego-arrasa-hectareas-forestales-en-espana/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Asturias veda totalmente la pesca de salmones y suspende la subasta del ‘campanu’",
+      "url": "https://efeverde.com/asturias-veda-totalmente-la-pesca-de-salmones-y-suspende-la-subasta-del-campanu/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "De la tragedia de Valencia a la dana Adam, así ha cambiado nuestra relación con los avisos meteorológicos",
+      "url": "https://efeverde.com/de-la-tragedia-de-valencia-a-la-dana-adam-asi-ha-cambiado-nuestra-relacion-con-los-avisos-meteorologicos/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "SUNCINE, 33 años de cine para entender un planeta en transformación. Por Claudio Lauria (fundador y presidente de SUNCINE)",
+      "url": "https://efeverde.com/suncine-33-anos-de-cine-para-entender-un-planeta-en-transformacion-por-claudio-lauria/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las poblaciones de polinizadores sufren un declive generalizado en Europa desde hace un siglo",
+      "url": "https://efeverde.com/las-poblaciones-de-polinizadores-sufren-un-declive-generalizado-en-europa-desde-hace-un-siglo/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Mongabay] Chile: los millonarios pagos ocultos del proyecto minero Dominga a operadores judiciales, dirigentes políticos y lobbistas",
+      "url": "https://www.terram.cl/mongabay-chile-los-millonarios-pagos-ocultos-del-proyecto-minero-dominga-a-operadores-judiciales-dirigentes-politicos-y-lobbistas/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Detectan zona clave de alimentación de ballenas en sector que comunidad chango busca proteger en Isla Chañaral",
+      "url": "https://www.terram.cl/el-desconcierto-detectan-zona-clave-de-alimentacion-de-ballenas-en-sector-que-comunidad-chango-busca-proteger-en-isla-chanaral/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Mongabay] El Escudo de las Américas revela el interés de Estados Unidos en los recursos naturales de América Latina",
+      "url": "https://www.terram.cl/mongabay-el-escudo-de-las-americas-revela-el-interes-de-estados-unidos-en-los-recursos-naturales-de-america-latina/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[CodexVerde] Cenizas de incendios y hojas de eucalipto pueden reducir casi por completo el oxígeno en ecosistemas de agua dulce",
+      "url": "https://www.terram.cl/codexverde-cenizas-de-incendios-y-hojas-de-eucalipto-pueden-reducir-casi-por-completo-el-oxigeno-en-ecosistemas-de-agua-dulce/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] Histórico: La deforestación en la Amazonía brasileña alcanza su nivel más bajo desde 1988",
+      "url": "https://www.terram.cl/ladera-sur-historico-la-deforestacion-en-la-amazonia-brasilena-alcanza-su-nivel-mas-bajo-desde-1988/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Austerra] Austerra lanza inédita app y plataforma interactiva con información de más de 300 áreas protegidas de Chile",
+      "url": "https://www.terram.cl/austerra-austerra-lanza-inedita-app-y-plataforma-interactiva-con-informacion-de-mas-de-300-areas-protegidas-de-chile/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "¡Chao guías ambientales!",
+      "url": "https://www.fima.cl/2026/10/20/chao-guias-ambientales/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Plan de integración de áreas protegidas en Valparaíso registra un 55% de avance",
+      "url": "https://mma.gob.cl/plan-de-integracion-de-areas-protegidas-en-valparaiso-registra-un-55-de-avance/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Día Mundial de la Alimentación: Seremis del Medio Ambiente y Agricultura llaman a la prevención en el desperdicio de alimentos y a innovar para reducir las pérdidas",
+      "url": "https://mma.gob.cl/dia-mundial-de-la-alimentacion-seremis-del-medio-ambiente-y-agricultura-llaman-a-la-prevencion-en-el-desperdicio-de-alimentos-y-a-innovar-para-reducir-las-perdidas/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Huasco: avanza hacia la sustentabilidad con histórica inyección de electromovilidad en el sector privado",
+      "url": "https://mma.gob.cl/huasco-avanza-hacia-la-sustentabilidad-con-historica-inyeccion-de-electromovilidad-en-el-sector-privado/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "El tercer supremo de Kast: máximo tribunal define quina para llenar cupo por expulsión de Simpertigue",
+      "url": "https://www.latercera.com/nacional/noticia/el-tercer-supremo-de-kast-maximo-tribunal-define-quina-para-llenar-cupo-por-expulsion-de-simpertigue/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Catabela Noreste: Sierra Gorda inicia tramitación ambiental de proyecto de exploración por US$ 200 millones",
+      "url": "https://www.latercera.com/pulso/noticia/catabela-noreste-sierra-gorda-inicia-tramitacion-ambiental-de-proyecto-de-exploracion-por-us-200-millones/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Osvaldo Macías responde a biministros Alvarado y Mas por pérdidas en el Fondo E y asegura que medidas fueron trabajadas durante la administración anterior",
+      "url": "https://www.latercera.com/pulso/noticia/osvaldo-macias-responde-a-binistros-alvarado-y-mas-por-perdidas-en-el-fondo-e-y-asegura-que-medidas-fueron-trabajadas-durante-la-administracion-anterior/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Reparar es acción climática: Fundación Basura y la Asociación de Municipios de Llanquihue invitan a los festivales Repara, Reutiliza, Recicla",
+      "url": "https://www.paiscircular.cl/economia-circular/reparar-es-accion-climatica-fundacion-basura-y-la-asociacion-de-residuos-de-llanquihue-invitan-a-los-festivales-repara-reutiliza-recicla/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "La prueba política de la COP17 sobre biodiversidad",
+      "url": "https://www.paiscircular.cl/opinion/la-prueba-politica-de-la-cop17-sobre-biodiversidad/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
-      "url": "https://codexverde.cl/dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
+      "titular": "Cenizas de incendios y hojas de eucalipto pueden reducir casi por completo el oxígeno en ecosistemas de agua dulce",
+      "url": "https://codexverde.cl/cenizas-de-incendios-y-hojas-de-eucalipto-pueden-reducir-casi-por-completo-el-oxigeno-en-ecosistemas-de-agua-dulce/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La COP17 revela retrasos en los compromisos internacionales de defensa de la naturaleza",
-      "url": "https://efeverde.com/cop17-retrasos-en-compromisos-internacionales-de-defensa-de-naturaleza/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/11/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
+      "url": "https://3ta.cl/audiencias/10-11-2026-fija-audiencia-en-caso-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Cuatro fallecidos por la dana Adam y mejora la situación en la Comunidad Valenciana",
-      "url": "https://efeverde.com/fallecidos-dana-adam-y-mejora-situacion-en-comunidad-valenciana/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El caballito de mar, icono del Mar Menor, declarado «vulnerable» en el Catálogo estatal de Especies Amenazadas",
-      "url": "https://efeverde.com/caballito-de-mar-declarado-vulnerable-en-catalogo-estatal-de-especies-amenazadas/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La COP17 arranca con el reto de acelerar la defensa de la biodiversidad",
-      "url": "https://efeverde.com/cop17-arranca-reto-acelerar-defensa-biodiversidad/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El calor dispara la contaminación por ozono en España a su nivel más alto desde 2010",
-      "url": "https://efeverde.com/calor-dispara-contaminacion-ozono-aire-espana/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los desastres naturales en Latinoamérica: casi 100.000 muertos y 320.000 millones en pérdidas en 50 años",
-      "url": "https://efeverde.com/desastres-naturales-latinoamerica-muertos-perdidas/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La dana Adam deja ya tres muertos, mientras la Comunidad Valenciana levanta el confinamiento en todos los municipios menos en ocho",
-      "url": "https://efeverde.com/la-dana-adam-deja-2-muertos-y-la-comunidad-valenciana-confina-145-municipios-por-lluvias/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La dana deja 2 muertos y la Comunidad Valenciana prepara una orden de confinamiento",
-      "url": "https://efeverde.com/la-dana-deja-2-muertos-y-la-comunidad-valenciana-prepara-una-orden-de-confinamiento/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Capturan al presunto asesino de dos líderes ambientalistas indígenas en 2019 en Honduras",
-      "url": "https://efeverde.com/capturan-al-presunto-asesino-de-dos-lideres-ambientalistas-indigenas-en-2019-en-honduras/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Another Way Film Festival apuesta por un «optimismo realista» ante la crisis ecosocial",
-      "url": "https://efeverde.com/another-way-film-festival-apuesta-por-optimismo-realista-ante-crisis-ecosocial/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
-      "url": "https://www.terram.cl/ladera-sur-dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Deconcierto] Detectan muerte de casi mil toneladas de salmones en mares protegidos de la Reserva Nacional Kawésqar",
-      "url": "https://www.terram.cl/el-deconcierto-detectan-muerte-de-casi-mil-toneladas-de-salmones-en-mares-protegidos-de-la-reserva-nacional-kawesqar/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Aprueban que data center de Google en Cerrillos se construya saltándose la evaluación ambiental",
-      "url": "https://www.terram.cl/el-desconcierto-aprueban-que-data-center-de-google-en-cerrillos-se-construya-saltandose-la-evaluacion-ambiental/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Inicia consulta ciudadana para proteger las aguas de lagos no-patagónicos",
-      "url": "https://www.terram.cl/diario-sostenible-inicia-consulta-ciudadana-para-proteger-las-aguas-de-lagos-no-patagonicos/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[EMOL] Daños, críticas, pronóstico y temor por incendios: Cinco aristas que dejó el impacto de El Niño en la RM",
-      "url": "https://www.terram.cl/emol-danos-criticas-pronostico-y-temor-por-incendios-cinco-aristas-que-dejo-el-impacto-de-el-nino-en-la-rm/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Esfuerzo internacional condensó 145 millones de años de historia de tiburones y rayas",
-      "url": "https://www.terram.cl/cooperativa-ciencia-esfuerzo-internacional-condenso-145-millones-de-anos-de-historia-de-tiburones-y-rayas/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "12/11/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/12-11-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Los Muermos: CONAF donó 64 árboles y arbustos nativos para hermosear la plaza de Cañitas",
-      "url": "https://www.conaf.cl/los-muermos-conaf-dono-64-arboles-y-arbustos-nativos-para-hermosear-la-plaza-de-canitas/?utm_source=rss&utm_medium=rss&utm_campaign=los-muermos-conaf-dono-64-arboles-y-arbustos-nativos-para-hermosear-la-plaza-de-canitas",
+      "titular": "Parque Nacional Hornopirén cumple 38 años al servicio de la conservación de la naturaleza",
+      "url": "https://www.conaf.cl/parque-nacional-hornopiren-cumple-38-anos-al-servicio-de-la-conservacion-de-la-naturaleza/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-hornopiren-cumple-38-anos-al-servicio-de-la-conservacion-de-la-naturaleza",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble destaca programa de Dendroenergía y apoyo a productores leñeros en Semana de la Pyme",
-      "url": "https://www.conaf.cl/conaf-nuble-destaca-programa-de-dendroenergia-y-apoyo-a-productores-leneros-en-semana-de-la-pyme/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-destaca-programa-de-dendroenergia-y-apoyo-a-productores-leneros-en-semana-de-la-pyme",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Subsecretario del Medio Ambiente inauguró vivero comunitario de Liquiñe en la Región de Los Ríos",
+      "url": "https://mma.gob.cl/subsecretario-del-medio-ambiente-inauguro-vivero-comunitario-de-liquine-en-la-region-de-los-rios/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF recibe a Agrupación Cimarrones Afrodescendientes en vivero Las Maitas para la creación de jardín etnobotánico",
-      "url": "https://www.conaf.cl/conaf-recibe-a-agrupacion-cimarrones-afrodescendientes-en-vivero-las-maitas-para-la-creacion-de-jardin-etnobotanico/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-recibe-a-agrupacion-cimarrones-afrodescendientes-en-vivero-las-maitas-para-la-creacion-de-jardin-etnobotanico",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Día del Forjador Ambiental: Colegio en Antofagasta promueve la economía circular con la reutilización de uniformes escolares",
+      "url": "https://mma.gob.cl/dia-del-forjador-ambiental-colegio-en-antofagasta-promueve-la-economia-circular-con-la-reutilizacion-de-uniformes-escolares/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA formula cargo grave contra Pesquera La Portada en Puerto Montt por incumplimientos en el control de olores",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-grave-contra-pesquera-la-portada-en-puerto-montt-por-incumplimientos-en-el-control-de-olores/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "DGA - MOP",
-      "titular": "Director General (s) de la DGA participa en encuentro internacional sobre resiliencia hídrica en Montevideo",
-      "url": "https://dga.mop.gob.cl/director-general-s-de-la-dga-participa-en-encuentro-internacional-sobre-resiliencia-hidrica-en-montevideo/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Netanyahu sostiene que Israel “puede golpear a sus enemigos cuando sea necesario”",
-      "url": "https://www.latercera.com/mundo/noticia/netanyahu-recalca-que-israel-puede-golpear-a-sus-enemigos-cuando-sea-necesario/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Ley REP: SMA fiscaliza a importadores de neumáticos para detectar eventuales elusores",
-      "url": "https://www.mch.cl/ley-rep-sma-fiscaliza-a-importadores-de-neumaticos-para-detectar-eventuales-elusores/",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Emergencia preventiva en Ñuble refuerza importancia de la adaptación al cambio climático",
+      "url": "https://mma.gob.cl/emergencia-preventiva-en-nuble-refuerza-importancia-de-la-adaptacion-al-cambio-climatico/",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "SMA exige a Enaex explicar derrame de ácido nítrico en Mejillones y revisar cumplimiento de protocolos ambientales",
-      "url": "https://www.redimin.cl/sma-exige-a-enaex-explicar-derrame-de-acido-nitrico-en-mejillones-y-revisar-cumplimiento-de-protocolos-ambientales",
+      "titular": "SEA evalúa 28 proyectos por US$1.530 millones en O’Higgins y busca reducir 30% los plazos ambientales",
+      "url": "https://www.redimin.cl/sea-evalua-28-proyectos-por-us-1-530-millones-en-o-higgins-y-busca-reducir-30-los-plazos-ambientales",
       "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA exige antecedentes a Enaex tras derrame de ácido nítrico en Mejillones",
-      "url": "https://www.nuevamineria.com/revista/sma-exige-antecedentes-a-enaex-tras-derrame-de-acido-nitrico-en-mejillones/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Roberto Rondanelli: “Desde la zona central de Chile hacia el norte, estamos encima de un polvorín” (El PaísChile)",
-      "url": "https://www.cr2.cl/roberto-rondanelli-desde-la-zona-central-de-chile-hacia-el-norte-estamos-encima-de-un-polvorin-el-paischile/",
-      "fecha": "2026-10-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA instruye requerimiento de información a Enaex S.A. ante contingencia por derrame de ácido nítrico en Mejillones",
-      "url": "https://www.portalminero.com/sma-instruye-requerimiento-de-informacion-a-enaex-sa-ante-contingencia-por-derrame-de-acido-nitrico-en-mejillones",
-      "fecha": "2026-10-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

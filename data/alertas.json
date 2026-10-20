@@ -1,105 +1,66 @@
 {
-  "fecha_generacion": "2026-10-19T14:31:38.790339-03:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-10-20T12:44:12.861864-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
-      "url": "https://codexverde.cl/dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
-      "fecha": "2026-10-19",
+      "fuente": "País Circular",
+      "titular": "Mayling Yuen, sobre la Hoja de Ruta del Aluminio: “Es relevante coordinar acciones, recursos, actores para complementar el cumplimiento de la Ley REP”",
+      "url": "https://www.paiscircular.cl/economia-circular/mayling-yuen-sobre-la-hoja-de-ruta-del-aluminio/",
+      "fecha": "2026-10-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Desde que en 1972 el ex presidente de Argentina Juan Domingo Perón problematizara el discurso del sistema imperante de expansión económica a costa de la contaminación del medio ambiente, la explotación indiscriminada de recursos naturales y la sobre ",
+      "extracto": "Hace cuatro meses se constituyó lo mesa de gobernanza multisectorial de la Hoja de Ruta del Aluminio, impulsada por la empresa Ball y bajo la coordinación de La Ciudad Posible, con el objetivo de concentrar esfuerzos para aumentar la tasa de reciclaj",
       "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Día de la Protección de la Naturaleza: la deuda pendiente de Chile con Escazú",
-      "url": "https://www.terram.cl/ladera-sur-dia-de-la-proteccion-de-la-naturaleza-la-deuda-pendiente-de-chile-con-escazu/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En el Día de la Protección de la Naturaleza, Diego Rojas, abogado de Fundación Terram, analiza la deuda pendiente de Chile con el Acuerdo de Escazú. Aunque el país ratificó este tratado internacional en 2022, persisten desafíos en materia de particip",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA formula cargo grave contra Pesquera La Portada en Puerto Montt por incumplimientos en el control de olores",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargo-grave-contra-pesquera-la-portada-en-puerto-montt-por-incumplimientos-en-el-control-de-olores/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Fiscalizaciones de la SMA motivadas por denuncias ciudadanas constataron la falta de conducción e incineración de vahos no condensables en calderas, además de la emisión continua de olores hacia el exterior en su planta de procesamiento de mortalidad",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Netanyahu sostiene que Israel “puede golpear a sus enemigos cuando sea necesario”",
-      "url": "https://www.latercera.com/mundo/noticia/netanyahu-recalca-que-israel-puede-golpear-a-sus-enemigos-cuando-sea-necesario/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Nuestros enemigos sufrirán golpes más duros de los que han recibido hasta ahora”, ha dicho durante una visita a una base de la Fuerza Aérea de Israel.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Ley REP: SMA fiscaliza a importadores de neumáticos para detectar eventuales elusores",
-      "url": "https://www.mch.cl/ley-rep-sma-fiscaliza-a-importadores-de-neumaticos-para-detectar-eventuales-elusores/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Las acciones inspectivas se basan en el cruce de datos con el Servicio Nacional de Aduanas para examinar la vinculación de las empresas a Sistemas de Gestión autorizados durante el período 2022-2026. La entrada Ley REP: SMA fiscaliza a importadores d",
-      "keywords_detectadas": [
-        "SMA",
         "Ley REP"
       ]
     },
     {
+      "fuente": "Codex Verde",
+      "titular": "Segundo Tribunal Ambiental rechazó demanda por daño ambiental contra dos planteles de crianza y engorda de animales ubicados en Isla de Maipo y Talagante",
+      "url": "https://codexverde.cl/segundo-tribunal-ambiental-rechazo-demanda-por-dano-ambiental-contra-dos-planteles-de-crianza-y-engorda-de-animales-ubicados-en-isla-de-maipo-y-talagante/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental rechazó la demanda por reparación de daño ambiental presentada por la Junta de Vigilancia Parcelación Doña Esther contra dos planteles de crianza y engorda de animales de Sociedad Agrícola Los Tilos Ltda., ubicados en la",
+      "keywords_detectadas": [
+        "Tribunal Ambiental",
+        "daño ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/11/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
+      "url": "https://3ta.cl/audiencias/10-11-2026-fija-audiencia-en-caso-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 10/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "12/11/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/12-11-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-10-19",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 12/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
       "fuente": "REDIMIN",
-      "titular": "SMA exige a Enaex explicar derrame de ácido nítrico en Mejillones y revisar cumplimiento de protocolos ambientales",
-      "url": "https://www.redimin.cl/sma-exige-a-enaex-explicar-derrame-de-acido-nitrico-en-mejillones-y-revisar-cumplimiento-de-protocolos-ambientales",
+      "titular": "SEA evalúa 28 proyectos por US$1.530 millones en O’Higgins y busca reducir 30% los plazos ambientales",
+      "url": "https://www.redimin.cl/sea-evalua-28-proyectos-por-us-1-530-millones-en-o-higgins-y-busca-reducir-30-los-plazos-ambientales",
       "fecha": "2026-10-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente otorgó cinco días hábiles a la compañía para entregar antecedentes sobre el accidente ocurrido el 9 de octubre. La fiscalización busca determinar la cantidad de sustancia liberada, la superficie afectada y la ef",
+      "extracto": "El Servicio de Evaluación Ambiental evalúa 28 proyectos en O'Higgins, con una inversión de US$1.530 millones, y busca reducir en un 30% los plazos de evaluación para mejorar la certeza a los inversionistas.",
       "keywords_detectadas": [
-        "SMA",
-        "derrame"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA exige antecedentes a Enaex tras derrame de ácido nítrico en Mejillones",
-      "url": "https://www.nuevamineria.com/revista/sma-exige-antecedentes-a-enaex-tras-derrame-de-acido-nitrico-en-mejillones/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El organismo fiscalizador otorgó cinco días hábiles a la compañía para informar las causas del incidente, la cantidad de sustancia derramada, las medidas de emergencia implementadas y las eventuales afectaciones ambientales. El episodio motivó cuatro",
-      "keywords_detectadas": [
-        "SMA",
-        "derrame"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA instruye requerimiento de información a Enaex S.A. ante contingencia por derrame de ácido nítrico en Mejillones",
-      "url": "https://www.portalminero.com/sma-instruye-requerimiento-de-informacion-a-enaex-sa-ante-contingencia-por-derrame-de-acido-nitrico-en-mejillones",
-      "fecha": "2026-10-18",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los antecedentes solicitados permitirán establecer las causas del volcamiento del camión, verificar el cumplimiento de los protocolos de emergencia y evaluar eventuales afectaciones ambientales o infracciones a las Resoluciones de Calificación Ambien",
-      "keywords_detectadas": [
-        "SMA",
-        "derrame"
+        "SEA"
       ]
     }
   ]
