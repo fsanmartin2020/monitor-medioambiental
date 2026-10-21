@@ -1,66 +1,54 @@
 {
-  "fecha_generacion": "2026-10-20T12:44:12.861864-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-10-21T13:08:27.171019-03:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Mayling Yuen, sobre la Hoja de Ruta del Aluminio: “Es relevante coordinar acciones, recursos, actores para complementar el cumplimiento de la Ley REP”",
-      "url": "https://www.paiscircular.cl/economia-circular/mayling-yuen-sobre-la-hoja-de-ruta-del-aluminio/",
-      "fecha": "2026-10-20",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal declaró daño ambiental en demanda contra los responsables de proyectos inmobiliarios en la costa Valdiviana",
+      "url": "https://3ta.cl/noticias/tribunal-declaro-dano-ambiental-en-demanda-contra-los-responsables-de-proyectos-inmobiliarios-en-la-costa-valdiviana/",
+      "fecha": "2026-10-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Hace cuatro meses se constituyó lo mesa de gobernanza multisectorial de la Hoja de Ruta del Aluminio, impulsada por la empresa Ball y bajo la coordinación de La Ciudad Posible, con el objetivo de concentrar esfuerzos para aumentar la tasa de reciclaj",
+      "extracto": "El Tercer Tribunal Ambiental declaró daño ambiental en los componentes suelo, respecto de los proyectos Cutipay I, Cutipay II, Canelales y Pilolcura; y daño ambiental en vegetación, flora y medio humano en proyecto Pilolcura. Los responsables deberán",
       "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Segundo Tribunal Ambiental rechazó demanda por daño ambiental contra dos planteles de crianza y engorda de animales ubicados en Isla de Maipo y Talagante",
-      "url": "https://codexverde.cl/segundo-tribunal-ambiental-rechazo-demanda-por-dano-ambiental-contra-dos-planteles-de-crianza-y-engorda-de-animales-ubicados-en-isla-de-maipo-y-talagante/",
-      "fecha": "2026-10-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental rechazó la demanda por reparación de daño ambiental presentada por la Junta de Vigilancia Parcelación Doña Esther contra dos planteles de crianza y engorda de animales de Sociedad Agrícola Los Tilos Ltda., ubicados en la",
-      "keywords_detectadas": [
-        "Tribunal Ambiental",
         "daño ambiental"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "10/11/2026: Fija audiencia en caso de «Fundación Greenpeace Pacífico Sur  con Superintendencia del Medio Ambiente», Rol: R-48-2026",
-      "url": "https://3ta.cl/audiencias/10-11-2026-fija-audiencia-en-caso-de-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente-rol-r-48-2026/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 10/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "12/11/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/12-11-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-10-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 12/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
       "fuente": "REDIMIN",
-      "titular": "SEA evalúa 28 proyectos por US$1.530 millones en O’Higgins y busca reducir 30% los plazos ambientales",
-      "url": "https://www.redimin.cl/sea-evalua-28-proyectos-por-us-1-530-millones-en-o-higgins-y-busca-reducir-30-los-plazos-ambientales",
-      "fecha": "2026-10-19",
+      "titular": "Sierra Gorda SCM ingresa al SEIA proyecto de prospección por US$200 millones en Antofagasta",
+      "url": "https://www.redimin.cl/sierra-gorda-scm-ingresa-al-seia-proyecto-de-prospeccion-por-us-200-millones-en-antofagasta",
+      "fecha": "2026-10-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental evalúa 28 proyectos en O'Higgins, con una inversión de US$1.530 millones, y busca reducir en un 30% los plazos de evaluación para mejorar la certeza a los inversionistas.",
+      "extracto": "La iniciativa Catabela Noreste contempla 174 plataformas de sondaje diamantino y una ejecución de cinco años. Su objetivo es identificar y caracterizar potenciales recursos minerales que permitan evaluar la continuidad de la operación a largo plazo.",
       "keywords_detectadas": [
-        "SEA"
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental abre dos concursos públicos",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-abre-dos-concursos-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-abre-dos-concursos-publicos",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se abren dos concursos públicos para los siguientes cargos: Suplencia: Abogado(a) Asesor(a) de la Unidad de Administración, Finanzas y Personas Encargado(a) de Comunicaciones The post Primer Tribunal Ambiental abre dos concursos públicos appeared fir",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA requiere el ingreso al SEIA de dos proyectos de extracción de áridos en Los Lagos y la Región Metropolitana por exceder los umbrales legales autorizados",
+      "url": "https://portal.sma.gob.cl/index.php/sma-requiere-el-ingreso-al-seia-de-dos-proyectos-de-extraccion-de-aridos-en-los-lagos-y-la-region-metropolitana-por-exceder-los-umbrales-legales-autorizados/",
+      "fecha": "2026-10-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las medidas administrativas afectan a las empresas Tres Fiordos S.A., en la comuna de San Pablo, y a Áridos Camarena Ltda. y Áridos Melipilla Ltda., que operan conjuntamente en la comuna de Melipilla. Ambas faenas superaron los volúmenes de extracció",
+      "keywords_detectadas": [
+        "SMA",
+        "SEIA"
       ]
     }
   ]
