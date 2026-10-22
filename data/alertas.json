@@ -1,53 +1,103 @@
 {
-  "fecha_generacion": "2026-10-21T13:08:27.171019-03:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-10-22T12:58:51.611607-03:00",
+  "total_alertas": 8,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal declaró daño ambiental en demanda contra los responsables de proyectos inmobiliarios en la costa Valdiviana",
-      "url": "https://3ta.cl/noticias/tribunal-declaro-dano-ambiental-en-demanda-contra-los-responsables-de-proyectos-inmobiliarios-en-la-costa-valdiviana/",
-      "fecha": "2026-10-21",
+      "fuente": "País Circular",
+      "titular": "SMA informa inicio de dos procesos sancionatorios en el marco de la REP: a una empresa de retail y a un sistema de gestión de envases y embalajes",
+      "url": "https://www.paiscircular.cl/economia-circular/sma-informa-inicio-de-dos-procesos-sancionatorios-en-el-marco-de-la-rep-a-una-empresa-y-a-un-sistema-de-gestion-de-envases-y-embalajes/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental declaró daño ambiental en los componentes suelo, respecto de los proyectos Cutipay I, Cutipay II, Canelales y Pilolcura; y daño ambiental en vegetación, flora y medio humano en proyecto Pilolcura. Los responsables deberán",
+      "extracto": "La Superintendencia del Medio Ambiente imputó a Flores y Cía S.A. tres infracciones, destacando un cargo gravísimo por no contar con un sistema de gestión autorizado, tras haber introducido al mercado más de 2.100 toneladas de envases y embalajes. Re",
       "keywords_detectadas": [
-        "daño ambiental"
+        "SMA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Sierra Gorda SCM ingresa al SEIA proyecto de prospección por US$200 millones en Antofagasta",
-      "url": "https://www.redimin.cl/sierra-gorda-scm-ingresa-al-seia-proyecto-de-prospeccion-por-us-200-millones-en-antofagasta",
-      "fecha": "2026-10-21",
+      "fuente": "Codex Verde",
+      "titular": "Ley REP: SMA formula cargos contra Flores y ReSimple por incumplimientos en gestión de envases y embalajes",
+      "url": "https://codexverde.cl/ley-rep-sma-formula-cargos-contra-flores-y-resimple-por-incumplimientos-en-gestion-de-envases-y-embalajes/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa Catabela Noreste contempla 174 plataformas de sondaje diamantino y una ejecución de cinco años. Su objetivo es identificar y caracterizar potenciales recursos minerales que permitan evaluar la continuidad de la operación a largo plazo.",
+      "extracto": "La Superintendencia del Medio Ambiente (SMA) abrió dos procedimientos sancionatorios contra Flores y Cía S.A. y el sistema colectivo ReSimple Domiciliario por incumplimientos asociados a la Ley de Responsabilidad Extendida del Productor (Ley REP). Am",
       "keywords_detectadas": [
-        "SEIA"
+        "SMA",
+        "Ley REP"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental abre dos concursos públicos",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-abre-dos-concursos-publicos/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-abre-dos-concursos-publicos",
-      "fecha": "2026-10-20",
+      "fuente": "FIMA",
+      "titular": "Humedal Contao: comunidad logra que Tribunal Ambiental ordene a la SMA revisar impactos de salmonera",
+      "url": "https://www.fima.cl/2026/10/22/humedal-contao-comunidad-logra-que-tribunal-ambiental-ordene-a-la-sma-revisar-impactos-de-salmonera/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se abren dos concursos públicos para los siguientes cargos: Suplencia: Abogado(a) Asesor(a) de la Unidad de Administración, Finanzas y Personas Encargado(a) de Comunicaciones The post Primer Tribunal Ambiental abre dos concursos públicos appeared fir",
+      "extracto": "La comunidad de Contao, en Hualaihué, denunció que un centro de cultivo de salmones se instaló junto a su humedal sin que nadie evaluara sus efectos sobre él. Ahora, la Superintendencia del Medio Ambiente deberá revisar el caso con mayor profundidad.",
       "keywords_detectadas": [
+        "SMA",
         "Tribunal Ambiental"
       ]
     },
     {
       "fuente": "SMA",
-      "titular": "SMA requiere el ingreso al SEIA de dos proyectos de extracción de áridos en Los Lagos y la Región Metropolitana por exceder los umbrales legales autorizados",
-      "url": "https://portal.sma.gob.cl/index.php/sma-requiere-el-ingreso-al-seia-de-dos-proyectos-de-extraccion-de-aridos-en-los-lagos-y-la-region-metropolitana-por-exceder-los-umbrales-legales-autorizados/",
-      "fecha": "2026-10-20",
+      "titular": "SMA exige estricto cumplimiento de la Norma Lumínica en todo el país y notifica a titulares regulados",
+      "url": "https://portal.sma.gob.cl/index.php/sma-exige-estricto-cumplimiento-de-la-norma-luminica-en-todo-el-pais-y-notifica-a-titulares-regulados/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las medidas administrativas afectan a las empresas Tres Fiordos S.A., en la comuna de San Pablo, y a Áridos Camarena Ltda. y Áridos Melipilla Ltda., que operan conjuntamente en la comuna de Melipilla. Ambas faenas superaron los volúmenes de extracció",
+      "extracto": "Con la entrada en plena vigencia del Decreto Supremo N° 1/2022 del Ministerio del Medio Ambiente en todo el territorio nacional, el organismo fiscalizador ofició de manera preventiva a las Unidades Fiscalizables sujetas a esta regulación para promove",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "DF al Cierre | Mauricio Larraín tras caída del fondo E: “Que sea conservador, no significa que el valor del saldo sea constante”",
+      "url": "https://www.df.cl/df-stream/podcast/df-al-cierre-mauricio-larrain-tras-caida-del-fondo-e-que-sea",
+      "fecha": "2026-10-22",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Interferencia",
+      "titular": "OLCA y MOSACAT acusan al SEA de favorecer el data center de Google a costa de los derechos ambientales y anuncian acciones para impugnar la decisión",
+      "url": "https://interferencia.cl/articulos/olca-y-mosacat-acusan-al-sea-de-favorecer-el-data-center-de-google-costa-de-los-derechos",
+      "fecha": "2026-10-22",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Ley REP: SMA formula cargos contra empresa de retail Flores y Cía y contra el sistema colectivo ReSimple Domiciliario",
+      "url": "https://portal.sma.gob.cl/index.php/ley-rep-sma-formula-cargos-contra-empresa-de-retail-flores-y-cia-y-contra-el-sistema-colectivo-resimple-domiciliario/",
+      "fecha": "2026-10-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En el caso de Flores y Cía S.A., el organismo imputó tres infracciones, destacando un cargo gravísimo por no contar con un sistema de gestión autorizado, tras haber introducido al mercado más de 2.100 toneladas de envases y embalajes. Respecto a la C",
       "keywords_detectadas": [
         "SMA",
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Ingresa al SEIA proyecto de prospección minera de Sierra Gorda SCM por US$200 millones",
+      "url": "https://www.mch.cl/sea-admite-a-tramite-proyecto-de-prospeccion-minera-de-sierra-gorda-scm-por-us200-millones/",
+      "fecha": "2026-10-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa considera un programa de perforaciones diamantinas en la Región de Antofagasta, con una vida útil estimada de cinco años. La entrada Ingresa al SEIA proyecto de prospección minera de Sierra Gorda SCM por US$200 millones se publicó prime",
+      "keywords_detectadas": [
         "SEIA"
       ]
     }
