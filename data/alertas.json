@@ -1,104 +1,126 @@
 {
-  "fecha_generacion": "2026-10-22T12:58:51.611607-03:00",
-  "total_alertas": 8,
+  "fecha_generacion": "2026-10-23T12:53:31.478356-03:00",
+  "total_alertas": 10,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "SMA informa inicio de dos procesos sancionatorios en el marco de la REP: a una empresa de retail y a un sistema de gestión de envases y embalajes",
-      "url": "https://www.paiscircular.cl/economia-circular/sma-informa-inicio-de-dos-procesos-sancionatorios-en-el-marco-de-la-rep-a-una-empresa-y-a-un-sistema-de-gestion-de-envases-y-embalajes/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente imputó a Flores y Cía S.A. tres infracciones, destacando un cargo gravísimo por no contar con un sistema de gestión autorizado, tras haber introducido al mercado más de 2.100 toneladas de envases y embalajes. Re",
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema rechaza servidumbre de tránsito sobre vía férrea: no basta que el acceso a un terreno sea más difícil o costoso",
+      "url": "https://www.diarioconstitucional.cl/2026/10/23/corte-suprema-rechaza-servidumbre-de-transito-sobre-via-ferrea-no-basta-que-el-acceso-a-un-terreno-sea-mas-dificil-o-costoso/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "SMA"
+        "SEA",
+        "Corte Suprema"
       ]
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Ley REP: SMA formula cargos contra Flores y ReSimple por incumplimientos en gestión de envases y embalajes",
-      "url": "https://codexverde.cl/ley-rep-sma-formula-cargos-contra-flores-y-resimple-por-incumplimientos-en-gestion-de-envases-y-embalajes/",
-      "fecha": "2026-10-22",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de interoperabilidad jurídica",
+      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-interoperabilidad-juridica/",
+      "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente (SMA) abrió dos procedimientos sancionatorios contra Flores y Cía S.A. y el sistema colectivo ReSimple Domiciliario por incumplimientos asociados a la Ley de Responsabilidad Extendida del Productor (Ley REP). Am",
+      "extracto": "El acuerdo busca actualizar el intercambio de información jurisprudencial y legislativa, mediante herramientas tecnológicas que conectarán los sistemas de ambas instituciones. La entrada Primer Tribunal Ambiental y Biblioteca del Congreso Nacional su",
       "keywords_detectadas": [
-        "SMA",
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Humedal Contao: comunidad logra que Tribunal Ambiental ordene a la SMA revisar impactos de salmonera",
-      "url": "https://www.fima.cl/2026/10/22/humedal-contao-comunidad-logra-que-tribunal-ambiental-ordene-a-la-sma-revisar-impactos-de-salmonera/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La comunidad de Contao, en Hualaihué, denunció que un centro de cultivo de salmones se instaló junto a su humedal sin que nadie evaluara sus efectos sobre él. Ahora, la Superintendencia del Medio Ambiente deberá revisar el caso con mayor profundidad.",
-      "keywords_detectadas": [
-        "SMA",
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA exige estricto cumplimiento de la Norma Lumínica en todo el país y notifica a titulares regulados",
-      "url": "https://portal.sma.gob.cl/index.php/sma-exige-estricto-cumplimiento-de-la-norma-luminica-en-todo-el-pais-y-notifica-a-titulares-regulados/",
-      "fecha": "2026-10-22",
+      "fuente": "REDIMIN",
+      "titular": "SMA endurece fiscalización de la Norma Lumínica en Chile: nuevas exigencias alcanzan a instalaciones industriales y mineras",
+      "url": "https://www.redimin.cl/sma-endurece-fiscalizacion-de-la-norma-luminica-en-chile-nuevas-exigencias-alcanzan-a-instalaciones-industriales-y-mineras",
+      "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con la entrada en plena vigencia del Decreto Supremo N° 1/2022 del Ministerio del Medio Ambiente en todo el territorio nacional, el organismo fiscalizador ofició de manera preventiva a las Unidades Fiscalizables sujetas a esta regulación para promove",
+      "extracto": "La Superintendencia del Medio Ambiente implementará nuevas exigencias para la iluminación exterior en instalaciones industriales y mineras a partir de octubre de 2026, buscando reducir la contaminación lumínica.",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "DF al Cierre | Mauricio Larraín tras caída del fondo E: “Que sea conservador, no significa que el valor del saldo sea constante”",
-      "url": "https://www.df.cl/df-stream/podcast/df-al-cierre-mauricio-larrain-tras-caida-del-fondo-e-que-sea",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de colaboración",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion",
       "fecha": "2026-10-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Interferencia",
-      "titular": "OLCA y MOSACAT acusan al SEA de favorecer el data center de Google a costa de los derechos ambientales y anuncian acciones para impugnar la decisión",
-      "url": "https://interferencia.cl/articulos/olca-y-mosacat-acusan-al-sea-de-favorecer-el-data-center-de-google-costa-de-los-derechos",
-      "fecha": "2026-10-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Ley REP: SMA formula cargos contra empresa de retail Flores y Cía y contra el sistema colectivo ReSimple Domiciliario",
-      "url": "https://portal.sma.gob.cl/index.php/ley-rep-sma-formula-cargos-contra-empresa-de-retail-flores-y-cia-y-contra-el-sistema-colectivo-resimple-domiciliario/",
-      "fecha": "2026-10-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En el caso de Flores y Cía S.A., el organismo imputó tres infracciones, destacando un cargo gravísimo por no contar con un sistema de gestión autorizado, tras haber introducido al mercado más de 2.100 toneladas de envases y embalajes. Respecto a la C",
+      "extracto": "Este jueves 22 de octubre, el Primer Tribunal Ambiental y la Biblioteca del Congreso Nacional de Chile (BCN) suscribieron un nuevo convenio de colaboración, en una ceremonia realizada en Santiago... The post Primer Tribunal Ambiental y Biblioteca del",
       "keywords_detectadas": [
-        "SMA",
-        "Ley REP"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Ingresa al SEIA proyecto de prospección minera de Sierra Gorda SCM por US$200 millones",
-      "url": "https://www.mch.cl/sea-admite-a-tramite-proyecto-de-prospeccion-minera-de-sierra-gorda-scm-por-us200-millones/",
-      "fecha": "2026-10-21",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Octavio Valentino Retamal Benítez y otros con Direccion Ejecutiva Servicio de Evaluación Ambiental». Rol: R-54-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-octavio-valentino-retamal-benitez-y-otros-con-direccion-ejecutiva-servicio-de-evaluacion-ambiental-rol-r-54-2026/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera un programa de perforaciones diamantinas en la Región de Antofagasta, con una vida útil estimada de cinco años. La entrada Ingresa al SEIA proyecto de prospección minera de Sierra Gorda SCM por US$200 millones se publicó prime",
+      "extracto": "Con fecha 22 de octubre de 2026, admítase a trámite la Reclamación identificada como Octavio Valentino Retamal Benítez y otros con Direccion Ejecutiva Servicio de Evaluación Ambiental. (Rol R-54-2026). Acceda al expediente electrónico de la causa en ",
       "keywords_detectadas": [
-        "SEIA"
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "29/10/2026: Suspende audiencia de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
+      "url": "https://3ta.cl/audiencias/29-10-2026-suspende-audiencia-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Supendida audiencia de fecha 29/10/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/12/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
+      "url": "https://3ta.cl/audiencias/22-12-2026-fija-audiencia-en-caso-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 22/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental». Rol: R-53-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Con fecha 22 de octubre de 2026, admítase a trámite la Reclamación identificada como Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental. (Rol R-53-2026). Acceda al expediente electrónico de la causa en el ",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/12/2026: Fija audiencia en caso de «Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental «, Rol: R-36-2026",
+      "url": "https://3ta.cl/audiencias/10-12-2026-fija-audiencia-en-caso-de-patricio-segura-ortiz-y-otros-con-servicio-de-evaluacion-ambiental-rol-r-36-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 10/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA notifica a titulares regulados por entrada en vigencia de norma lumínica",
+      "url": "https://www.revistaei.cl/sma-notifica-a-titulares-regulados-por-entrada-en-vigencia-de-norma-luminica/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La normativa busca limitar la emisión de luz hacia el hemisferio superior, controlar los niveles de iluminación a lo estrictamente necesario y exigir el uso de luminarias cálidas con baja emisión en el espectro azul. La entrada SMA notifica a titular",
+      "keywords_detectadas": [
+        "SMA"
       ]
     }
   ]

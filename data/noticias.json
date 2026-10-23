@@ -1,221 +1,293 @@
 {
-  "fecha_actualizacion": "2026-10-22T12:58:51.597053-03:00",
-  "total": 27,
+  "fecha_actualizacion": "2026-10-23T12:53:31.464993-03:00",
+  "total": 36,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "SMA informa inicio de dos procesos sancionatorios en el marco de la REP: a una empresa de retail y a un sistema de gestión de envases y embalajes",
-      "url": "https://www.paiscircular.cl/economia-circular/sma-informa-inicio-de-dos-procesos-sancionatorios-en-el-marco-de-la-rep-a-una-empresa-y-a-un-sistema-de-gestion-de-envases-y-embalajes/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Marcia Nova, gerenta general de GIRO: “Modificar la regulación REP también es una forma de avanzar”",
-      "url": "https://www.paiscircular.cl/economia-circular/marcia-nova-gerenta-general-de-giro-modificar-la-regulacion-rep-tambien-es-una-forma-de-avanzar/",
-      "fecha": "2026-10-22",
+      "titular": "Francisca Gebauer, directora ejecutiva de CampoLimpio: “El mundo de los envases agroindustriales merece especial atención en la revisión del decreto”",
+      "url": "https://www.paiscircular.cl/economia-circular/francisca-gebauer-directora-ejecutiva-de-campolimpio-el-mundo-de-los-envases-agroindustriales-merece-especial-atencion-en-la-revision-del-decreto/",
+      "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Startup Bruna expande su impacto en Latinoamérica junto a SONDA con soluciones de inteligencia artificial para diversas industrias",
-      "url": "https://www.chiledesarrollosustentable.cl/startup-bruna-expande-su-impacto-en-latinoamerica-junto-a-sonda-con-soluciones-de-inteligencia-artificial-para-diversas-industrias/?utm_source=rss&utm_medium=rss&utm_campaign=startup-bruna-expande-su-impacto-en-latinoamerica-junto-a-sonda-con-soluciones-de-inteligencia-artificial-para-diversas-industrias",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "EN CHILE MEDICAMENTO DE ULTIMA GENERACION PARA TRATAR LA EPILEPSIA.",
-      "url": "https://www.chiledesarrollosustentable.cl/en-chile-medicamento-de-ultima-generacion-para-tratar-la-epilepsia/?utm_source=rss&utm_medium=rss&utm_campaign=en-chile-medicamento-de-ultima-generacion-para-tratar-la-epilepsia",
-      "fecha": "2026-10-22",
+      "titular": "Valdivia despide al primer crucero híbrido-eléctrico de América previo a su zarpe a Magallanes",
+      "url": "https://www.chiledesarrollosustentable.cl/valdivia-despide-al-primer-crucero-hibrido-electrico-de-america-previo-a-su-zarpe-a-magallanes/?utm_source=rss&utm_medium=rss&utm_campaign=valdivia-despide-al-primer-crucero-hibrido-electrico-de-america-previo-a-su-zarpe-a-magallanes",
+      "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Olas de calor, erosión y acidificación: la socio-ecología frente a los eventos extremos del futuro",
-      "url": "https://codexverde.cl/olas-de-calor-erosion-y-acidificacion-la-socio-ecologia-frente-a-los-eventos-extremos-del-futuro/",
-      "fecha": "2026-10-22",
+      "titular": "Libros sobre naturaleza: Contrapunto reúne títulos para acercar la biodiversidad a la infancia",
+      "url": "https://codexverde.cl/libros-sobre-naturaleza-contrapunto-reune-titulos-para-acercar-la-biodiversidad-a-la-infancia/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El domingo llega el horario de invierno y los relojes se atrasan una hora de madrugada",
+      "url": "https://efeverde.com/domingo-llega-horario-invierno-relojes-se-atrasan-una-hora-de-madrugada/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El fondo climático de pérdidas y daño reserva 20 millones de dólares para las víctimas de la riada de Nepal",
+      "url": "https://efeverde.com/fondo-climatico-perdidas-dano-reserva-20-millones-victimas-riada-nepal/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Desarticulan en Brasil, Suiza y España una red de tráfico de animales protegidos",
+      "url": "https://efeverde.com/desarticulan-brasil-suiza-espana-red-trafico-animales-protegidos/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La mitad de la pérdida de hielo se concentra en el 3 % de los glaciares",
+      "url": "https://efeverde.com/mitad-perdida-hielo-se-concentra-3-por-ciento-glaciares/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Mecanismo de Protección Civil de la UE cumple 25 años de cooperación con reformas a la vista",
+      "url": "https://efeverde.com/mecanismo-proteccion-civil-ue-cumple-25-anos/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "De los incendios a las lluvias torrenciales: Pego Viu y el poder de organizarse ante los desastres naturales",
+      "url": "https://efeverde.com/pego-viu-poder-organizarse-desastres-naturales/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Tercera] Gobierno alista una nueva ley forestal que considera un subsidio de hasta 90% para plantaciones y bonos de carbono",
+      "url": "https://www.terram.cl/la-tercera-gobierno-alista-una-nueva-ley-forestal-que-considera-un-subsidio-de-hasta-90-para-plantaciones-y-bonos-de-carbono/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[EL Mercurio – Calama] Gremios exigen medidas en escuelas y zonas afectadas con presencia de metales pesados",
+      "url": "https://www.terram.cl/el-mercurio-calama-gremios-exigen-medidas-en-escuelas-y-zonas-afectadas-con-presencia-de-metales-pesados/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[EMOL] “Recuperación significativa”: Hitos hidrográficos aumentan cauce y nueve embalses llegan al 100% de capacidad",
+      "url": "https://www.terram.cl/emol-recuperacion-significativa-hitos-hidrograficos-aumentan-cauce-y-nueve-embalses-llegan-al-100-de-capacidad/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Revista Electricidad] Ministra Toledo realiza cuenta pública ante Cámara sobre Programa de Regulación Ambiental",
+      "url": "https://www.terram.cl/revista-electricidad-ministra-toledo-realiza-cuenta-publica-ante-camara-sobre-programa-de-regulacion-ambiental/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[CodexVerde] Estudio revela que el ruido de embarcaciones puede favorecer el asentamiento de una especie marina invasora",
+      "url": "https://www.terram.cl/codexverde-estudio-revela-que-el-ruido-de-embarcaciones-puede-favorecer-el-asentamiento-de-una-especie-marina-invasora/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] Las llaves de nuestra montaña: memoria, acceso y una nueva relación con los Andes",
+      "url": "https://www.terram.cl/ladera-sur-las-llaves-de-nuestra-montana-memoria-acceso-y-una-nueva-relacion-con-los-andes/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Comité de Capital Natural de Chile y la Universidad de Stanford se reúne con sector forestal y de desalación para avanzar en el enfoque de Capital Natural",
+      "url": "https://mma.gob.cl/comite-de-capital-natural-de-chile-y-la-universidad-de-stanford-propone-avances-en-sector-forestal-y-de-desalacion/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente releva trabajo de escuela de surf de Valparaíso y la protección de los océanos",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-releva-trabajo-de-escuela-de-surf-de-valparaiso-y-la-proteccion-de-los-oceanos/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Segunda",
+      "titular": "Samuel Carrasco, economista de Credicorp: \"Vemos probable episodios transitorios con el dólar por sobre los $1.000\"",
+      "url": "https://www.lasegunda.com/Noticias/Economia/2026/10/1116415/dolar-luca-mil-1000-credicorp",
+      "fecha": "2026-10-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema rechaza servidumbre de tránsito sobre vía férrea: no basta que el acceso a un terreno sea más difícil o costoso",
+      "url": "https://www.diarioconstitucional.cl/2026/10/23/corte-suprema-rechaza-servidumbre-de-transito-sobre-via-ferrea-no-basta-que-el-acceso-a-un-terreno-sea-mas-dificil-o-costoso/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de interoperabilidad jurídica",
+      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-interoperabilidad-juridica/",
+      "fecha": "2026-10-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA endurece fiscalización de la Norma Lumínica en Chile: nuevas exigencias alcanzan a instalaciones industriales y mineras",
+      "url": "https://www.redimin.cl/sma-endurece-fiscalizacion-de-la-norma-luminica-en-chile-nuevas-exigencias-alcanzan-a-instalaciones-industriales-y-mineras",
+      "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Ley REP: SMA formula cargos contra Flores y ReSimple por incumplimientos en gestión de envases y embalajes",
-      "url": "https://codexverde.cl/ley-rep-sma-formula-cargos-contra-flores-y-resimple-por-incumplimientos-en-gestion-de-envases-y-embalajes/",
+      "titular": "Estudio revela que el ruido de embarcaciones puede favorecer el asentamiento de una especie marina invasora",
+      "url": "https://codexverde.cl/estudio-revela-que-el-ruido-de-embarcaciones-puede-favorecer-el-asentamiento-de-una-especie-marina-invasora/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[La Nueva Mirada] COP17: El rol de la Biodiversidad en el mundo actual",
-      "url": "https://www.terram.cl/la-nueva-mirada-cop17-el-rol-de-la-biodiversidad-en-el-mundo-actual/",
+      "fuente": "EFE Verde",
+      "titular": "El calor causa más de 50.000 muertes en zonas urbanas en Europa este verano, 6.800 en España",
+      "url": "https://efeverde.com/el-calor-causa-mas-de-50-000-muertos-en-zonas-urbanas-en-europa-este-verano-6-800-en-espana/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[MMA] Ministerio del Medio Ambiente inicia consulta indígena para crear Parque Nacional Cabo Froward con una superficie ampliada",
-      "url": "https://www.terram.cl/mma-ministerio-del-medio-ambiente-inicia-consulta-indigena-para-crear-parque-nacional-cabo-froward-con-una-superficie-ampliada/",
+      "fuente": "EFE Verde",
+      "titular": "Un terremoto de magnitud 7 sacude la región del Tíbet en China",
+      "url": "https://efeverde.com/terremoto-magnitud-7-region-del-tibet-en-china/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Divisadero] CODESA acusa cinco años de demora en investigación ambiental por prospecciones mineras en Cerro Bayo",
-      "url": "https://www.terram.cl/el-divisadero-codesa-acusa-cinco-anos-de-demora-en-investigacion-ambiental-por-prospecciones-mineras-en-cerro-bayo/",
+      "fuente": "EFE Verde",
+      "titular": "Veintidós países crean el mayor espacio iberoamericano de cooperación en reducción del riesgo de desastres y protección civil",
+      "url": "https://efeverde.com/mayor-espacio-iberoamericano-de-cooperacion-en-reduccion-del-riesgo-de-desastres-y-proteccion-civil/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Mostrador] Bahía Inglesa: plan busca impulsar el turismo mediante la licitación de terrenos fiscal",
-      "url": "https://www.terram.cl/el-mostrador-bahia-inglesa-plan-busca-impulsar-el-turismo-mediante-la-licitacion-de-terrenos-fiscal/",
+      "fuente": "EFE Verde",
+      "titular": "Los combustibles fósiles causan unas 26.500 muertes al año en Turquía, según un estudio",
+      "url": "https://efeverde.com/combustibles-fosiles-muertes-turquia/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[CodexVerde] Advierten sobre la acumulación de lixiviados en la Región Metropolitana",
-      "url": "https://www.terram.cl/codexverde-advierten-sobre-la-acumulacion-de-lixiviados-en-la-region-metropolitana/",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de colaboración",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Chungungo en peligro de extinción: dónde vive, qué come y por qué los bosques de algas son claves para su supervivencia",
-      "url": "https://www.terram.cl/el-desconcierto-chungungo-en-peligro-de-extincion-donde-vive-que-come-y-por-que-los-bosques-de-algas-son-claves-para-su-supervivencia/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Octavio Valentino Retamal Benítez y otros con Direccion Ejecutiva Servicio de Evaluación Ambiental». Rol: R-54-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-octavio-valentino-retamal-benitez-y-otros-con-direccion-ejecutiva-servicio-de-evaluacion-ambiental-rol-r-54-2026/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "FIMA",
-      "titular": "Humedal Contao: comunidad logra que Tribunal Ambiental ordene a la SMA revisar impactos de salmonera",
-      "url": "https://www.fima.cl/2026/10/22/humedal-contao-comunidad-logra-que-tribunal-ambiental-ordene-a-la-sma-revisar-impactos-de-salmonera/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "29/10/2026: Suspende audiencia de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
+      "url": "https://3ta.cl/audiencias/29-10-2026-suspende-audiencia-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "22/12/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
+      "url": "https://3ta.cl/audiencias/22-12-2026-fija-audiencia-en-caso-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental». Rol: R-53-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
+      "fecha": "2026-10-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "10/12/2026: Fija audiencia en caso de «Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental «, Rol: R-36-2026",
+      "url": "https://3ta.cl/audiencias/10-12-2026-fija-audiencia-en-caso-de-patricio-segura-ortiz-y-otros-con-servicio-de-evaluacion-ambiental-rol-r-36-2026/",
       "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Vecinos, CONAF y Caritas construyen cortafuegos para proteger casas de la villa Cumbres de Chile",
-      "url": "https://www.conaf.cl/vecinos-conaf-y-caritas-construyen-cortafuegos-para-proteger-casas-de-la-villa-cumbres-de-chile/?utm_source=rss&utm_medium=rss&utm_campaign=vecinos-conaf-y-caritas-construyen-cortafuegos-para-proteger-casas-de-la-villa-cumbres-de-chile",
+      "titular": "CONAF y liceo de música de Copiapó lanzan «Postales Musicales» en los 40 años del Parque Pan de Azúcar",
+      "url": "https://www.conaf.cl/conaf-y-liceo-de-musica-de-copiapo-lanzan-postales-musicales-en-los-40-anos-del-parque-pan-de-azucar/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-liceo-de-musica-de-copiapo-lanzan-postales-musicales-en-los-40-anos-del-parque-pan-de-azucar",
       "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA exige estricto cumplimiento de la Norma Lumínica en todo el país y notifica a titulares regulados",
-      "url": "https://portal.sma.gob.cl/index.php/sma-exige-estricto-cumplimiento-de-la-norma-luminica-en-todo-el-pais-y-notifica-a-titulares-regulados/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "Expareja agredida por Jean Paul Pineda recordó lo ocurrido: \"Lúcido es una persona y con alcohol otra\"",
-      "url": "https://www.eldinamo.cl/pais/2026/10/22/expareja-agredida-por-jean-paul-pineda-recordo-lo-ocurrido-lucido-es-una-persona-y-con-alcohol-otra/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "DF al Cierre | Mauricio Larraín tras caída del fondo E: “Que sea conservador, no significa que el valor del saldo sea constante”",
-      "url": "https://www.df.cl/df-stream/podcast/df-al-cierre-mauricio-larrain-tras-caida-del-fondo-e-que-sea",
-      "fecha": "2026-10-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Interferencia",
-      "titular": "OLCA y MOSACAT acusan al SEA de favorecer el data center de Google a costa de los derechos ambientales y anuncian acciones para impugnar la decisión",
-      "url": "https://interferencia.cl/articulos/olca-y-mosacat-acusan-al-sea-de-favorecer-el-data-center-de-google-costa-de-los-derechos",
-      "fecha": "2026-10-22",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo fiscalizadores de certificacion de desembarque escalafon administrativo a contrata asimilado a grado 21 de la e u s para el servicio nacional 2",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-fiscalizadores-de-certificacion-de-desembarque-escalafon-administrativo-a-contrata-asimilado-a-grado-21-de-la-e-u-s-para-el-servicio-nacional-2/",
-      "fecha": "2026-10-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Alumnos de colegios Artístico y Chile Norte visitan el Monumento Natural Picaflor de Arica",
-      "url": "https://www.conaf.cl/alumnos-de-colegios-artistico-y-chile-norte-visitan-el-monumento-natural-picaflor-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=alumnos-de-colegios-artistico-y-chile-norte-visitan-el-monumento-natural-picaflor-de-arica",
-      "fecha": "2026-10-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Monitoreo y control biológico en Centro de Experimentación Forestal Tanumé de Pichilemu",
-      "url": "https://www.conaf.cl/monitoreo-y-control-biologico-en-centro-de-experimentacion-forestal-tanume-de-pichilemu/?utm_source=rss&utm_medium=rss&utm_campaign=monitoreo-y-control-biologico-en-centro-de-experimentacion-forestal-tanume-de-pichilemu",
-      "fecha": "2026-10-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Ley REP: SMA formula cargos contra empresa de retail Flores y Cía y contra el sistema colectivo ReSimple Domiciliario",
-      "url": "https://portal.sma.gob.cl/index.php/ley-rep-sma-formula-cargos-contra-empresa-de-retail-flores-y-cia-y-contra-el-sistema-colectivo-resimple-domiciliario/",
-      "fecha": "2026-10-21",
+      "titular": "Comunidad mapuche Txokin Pehuén fortalece capacidades para el manejo sostenible de 82 hectáreas de bosque nativo en La Araucanía",
+      "url": "https://www.conaf.cl/comunidad-mapuche-txokin-pehuen-fortalece-capacidades-para-el-manejo-sostenible-de-82-hectareas-de-bosque-nativo-en-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-mapuche-txokin-pehuen-fortalece-capacidades-para-el-manejo-sostenible-de-82-hectareas-de-bosque-nativo-en-la-araucania",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "56 Recicladores de Base certifican sus competencias laborales",
-      "url": "https://mma.gob.cl/56-recicladores-de-base-certifican-sus-competencias-laborales/",
-      "fecha": "2026-10-21",
+      "titular": "«Superhéroes del Reciclaje”: región de O´Higgins se suma a campaña para apoyar la Teletón 2026",
+      "url": "https://mma.gob.cl/superheroes-del-reciclaje-region-de-ohiggins-se-suma-a-campana-para-apoyar-la-teleton-2026/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presentan Hoja de Ruta para la gestión de residuos de la contrucción y demolición en la Región de Coquimbo",
-      "url": "https://mma.gob.cl/presentan-hoja-de-ruta-para-la-gestion-de-residuos-de-la-contruccion-y-demolicion-en-la-region-de-coquimbo/",
-      "fecha": "2026-10-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Realizan jornada de limpieza de playas para evitar la contaminación plástica en la costa de Constitución",
-      "url": "https://mma.gob.cl/realizan-jornada-de-limpieza-de-playas-para-evitar-la-contaminacion-plastica-en-la-costa-de-constitucion/",
-      "fecha": "2026-10-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Presidenta del Senado ingresa proyecto de ley que elimina excepción para rebajar condenas por delitos sexuales",
-      "url": "https://www.latercera.com/nacional/noticia/presidenta-del-senado-ingresa-proyecto-de-ley-que-elimina-excepcion-para-rebajar-condenas-por-delitos-sexuales/",
-      "fecha": "2026-10-21",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Ingresa al SEIA proyecto de prospección minera de Sierra Gorda SCM por US$200 millones",
-      "url": "https://www.mch.cl/sea-admite-a-tramite-proyecto-de-prospeccion-minera-de-sierra-gorda-scm-por-us200-millones/",
-      "fecha": "2026-10-21",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA notifica a titulares regulados por entrada en vigencia de norma lumínica",
+      "url": "https://www.revistaei.cl/sma-notifica-a-titulares-regulados-por-entrada-en-vigencia-de-norma-luminica/",
+      "fecha": "2026-10-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
