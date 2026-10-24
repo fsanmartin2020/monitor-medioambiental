@@ -1,126 +1,17 @@
 {
-  "fecha_generacion": "2026-10-23T12:53:31.478356-03:00",
-  "total_alertas": 10,
+  "fecha_generacion": "2026-10-24T11:27:17.846742-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Corte Suprema rechaza servidumbre de tránsito sobre vía férrea: no basta que el acceso a un terreno sea más difícil o costoso",
-      "url": "https://www.diarioconstitucional.cl/2026/10/23/corte-suprema-rechaza-servidumbre-de-transito-sobre-via-ferrea-no-basta-que-el-acceso-a-un-terreno-sea-mas-dificil-o-costoso/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA",
-        "Corte Suprema"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de interoperabilidad jurídica",
-      "url": "https://www.revistaei.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-interoperabilidad-juridica/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "24/11/2026: Fija audiencia en caso de «Cooke Aquaculture Chile S.A y otros con Superintendencia del Medio Ambiente», Rol: R-4-2026",
+      "url": "https://3ta.cl/audiencias/24-11-2026-fija-audiencia-en-caso-de-cooke-aquaculture-chile-s-a-y-otros-con-superintendencia-del-medio-ambiente-rol-r-4-2026/",
       "fecha": "2026-10-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El acuerdo busca actualizar el intercambio de información jurisprudencial y legislativa, mediante herramientas tecnológicas que conectarán los sistemas de ambas instituciones. La entrada Primer Tribunal Ambiental y Biblioteca del Congreso Nacional su",
+      "extracto": "Se fija audiencia con fecha 24/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SMA endurece fiscalización de la Norma Lumínica en Chile: nuevas exigencias alcanzan a instalaciones industriales y mineras",
-      "url": "https://www.redimin.cl/sma-endurece-fiscalizacion-de-la-norma-luminica-en-chile-nuevas-exigencias-alcanzan-a-instalaciones-industriales-y-mineras",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente implementará nuevas exigencias para la iluminación exterior en instalaciones industriales y mineras a partir de octubre de 2026, buscando reducir la contaminación lumínica.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental y Biblioteca del Congreso Nacional suscriben convenio de colaboración",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-y-biblioteca-del-congreso-nacional-suscriben-convenio-de-colaboracion",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Este jueves 22 de octubre, el Primer Tribunal Ambiental y la Biblioteca del Congreso Nacional de Chile (BCN) suscribieron un nuevo convenio de colaboración, en una ceremonia realizada en Santiago... The post Primer Tribunal Ambiental y Biblioteca del",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Octavio Valentino Retamal Benítez y otros con Direccion Ejecutiva Servicio de Evaluación Ambiental». Rol: R-54-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-octavio-valentino-retamal-benitez-y-otros-con-direccion-ejecutiva-servicio-de-evaluacion-ambiental-rol-r-54-2026/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 22 de octubre de 2026, admítase a trámite la Reclamación identificada como Octavio Valentino Retamal Benítez y otros con Direccion Ejecutiva Servicio de Evaluación Ambiental. (Rol R-54-2026). Acceda al expediente electrónico de la causa en ",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "29/10/2026: Suspende audiencia de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
-      "url": "https://3ta.cl/audiencias/29-10-2026-suspende-audiencia-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Supendida audiencia de fecha 29/10/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "22/12/2026: Fija audiencia en caso de «María Castro Domínguez y otros con Dirección Ejecutiva del Servicio de Evaluación Ambiental», Rol: R-5-2026",
-      "url": "https://3ta.cl/audiencias/22-12-2026-fija-audiencia-en-caso-de-maria-castro-dominguez-y-otros-con-direccion-ejecutiva-del-servicio-de-evaluacion-ambiental-rol-r-5-2026/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 22/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental». Rol: R-53-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con fecha 22 de octubre de 2026, admítase a trámite la Reclamación identificada como Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental. (Rol R-53-2026). Acceda al expediente electrónico de la causa en el ",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "10/12/2026: Fija audiencia en caso de «Patricio Segura Ortíz y otros con Servicio de Evaluación Ambiental «, Rol: R-36-2026",
-      "url": "https://3ta.cl/audiencias/10-12-2026-fija-audiencia-en-caso-de-patricio-segura-ortiz-y-otros-con-servicio-de-evaluacion-ambiental-rol-r-36-2026/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 10/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SMA notifica a titulares regulados por entrada en vigencia de norma lumínica",
-      "url": "https://www.revistaei.cl/sma-notifica-a-titulares-regulados-por-entrada-en-vigencia-de-norma-luminica/",
-      "fecha": "2026-10-22",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La normativa busca limitar la emisión de luz hacia el hemisferio superior, controlar los niveles de iluminación a lo estrictamente necesario y exigir el uso de luminarias cálidas con baja emisión en el espectro azul. La entrada SMA notifica a titular",
-      "keywords_detectadas": [
-        "SMA"
+        "Superintendencia del Medio Ambiente"
       ]
     }
   ]
