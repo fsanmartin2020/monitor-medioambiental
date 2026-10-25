@@ -1,133 +1,45 @@
 {
-  "fecha_actualizacion": "2026-10-24T11:27:17.833599-03:00",
-  "total": 16,
+  "fecha_actualizacion": "2026-10-25T12:00:09.431328-03:00",
+  "total": 5,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Día Internacional contra el Cambio Climático: del calor a las inundaciones, los riesgos que afronta España",
-      "url": "https://efeverde.com/dia-internacional-contra-el-cambio-climatico-riesgos-espana/",
-      "fecha": "2026-10-24",
+      "titular": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
+      "url": "https://efeverde.com/tecnologia-y-concienciacion-factores-basicos-para-evitar-mas-desastres-por-inundaciones/",
+      "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Emilio Chuvieco: hay que despolitizar el cambio climático para poder implicarnos todos en la solución",
-      "url": "https://efeverde.com/emilio-chuvieco-hay-despolitizar-el-cambio-climatico-para-poder-implicarnos-todos-en-la-solucion/",
-      "fecha": "2026-10-24",
+      "titular": "Las grandes lluvias alteran el sabor del agua del grifo: es culpa del cloro",
+      "url": "https://efeverde.com/grandes-lluvias-alteran-sabor-agua-del-grifo/",
+      "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sachamama y la Agencia EFE presentan a Los 100 Latinos Más Comprometidos con la Acción Climática 2026",
-      "url": "https://efeverde.com/los-100-latinos-mas-comprometidos-con-la-accion-climatica-2026/",
-      "fecha": "2026-10-24",
+      "titular": "El césped artificial busca alternativas al caucho ante la restricción europea de microplásticos",
+      "url": "https://efeverde.com/cesped-artificial-futbol-busca-alternativas-caucho-restriccion-microplasticos/",
+      "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Otilia Portillo (‘Hijas del bosque’): «Los hongos probablemente nos sobrevivan como especie»",
-      "url": "https://efeverde.com/otilia-portillo-documental-hijas-del-bosque/",
-      "fecha": "2026-10-24",
+      "titular": "Una transición energética extractivista: los grandes proyectos renovables vulneran los derechos de los locales",
+      "url": "https://efeverde.com/renovables-extractivismo-vulneran-derechos-locales/",
+      "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Recorrer 75 kilómetros de cenizas por la restauración de la Sierra Norte de Guadalajara tras el incendio",
-      "url": "https://efeverde.com/recorrer-kilometros-cenizas-restauracion-sierra-norte-guadalajara-incendio/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "2do Tribunal Ambiental",
-      "titular": "Ya está disponible nueva edición del Boletín2TA",
-      "url": "https://tribunalambiental.cl/ya-esta-disponible-nueva-edicion-del-boletin2ta/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "24/11/2026: Fija audiencia en caso de «Cooke Aquaculture Chile S.A y otros con Superintendencia del Medio Ambiente», Rol: R-4-2026",
-      "url": "https://3ta.cl/audiencias/24-11-2026-fija-audiencia-en-caso-de-cooke-aquaculture-chile-s-a-y-otros-con-superintendencia-del-medio-ambiente-rol-r-4-2026/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Turno medidas provisionales 23/10/2026",
-      "url": "https://3ta.cl/turno-de-ministros/turno-medidas-provisionales-23-10-2026/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble refuerza a comunidades preparadas contra incendios forestales en San Carlos",
-      "url": "https://www.conaf.cl/conaf-nuble-refuerza-a-comunidades-preparadas-contra-incendios-forestales-en-san-carlos/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-a-comunidades-preparadas-contra-incendios-forestales-en-san-carlos",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Histórico: conforman primer Consejo de Gestión del Parque Nacional Kawésqar en Magallanes",
-      "url": "https://www.conaf.cl/historico-conforman-primer-consejo-de-gestion-del-parque-nacional-kawesqar-en-magallanes/?utm_source=rss&utm_medium=rss&utm_campaign=historico-conforman-primer-consejo-de-gestion-del-parque-nacional-kawesqar-en-magallanes",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "SEREMI del Medio Ambiente identifica medidas urgentes y destaca compromiso de los municipios para enfrentar los efectos del cambio climático",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-identifica-medidas-urgentes-y-destaca-compromiso-de-los-municipios-para-enfrentar-los-efectos-del-cambio-climatico/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes de todo Chile se reúnen en La Serena para impulsar soluciones ambientales e innovación sustentable",
-      "url": "https://mma.gob.cl/estudiantes-de-todo-chile-se-reunen-en-la-serena-para-impulsar-soluciones-ambientales-e-innovacion-sustentable/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Medio Ambiente reúne a la comunidad iquiqueña en feria «Cambia Ropa x Ropa»",
-      "url": "https://mma.gob.cl/medio-ambiente-reune-a-la-comunidad-iquiquena-en-feria-cambia-ropa-x-ropa/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Más de 50 estudiantes celebraron el Día del Forjador Ambiental en la Reserva Nacional Coyhaique",
-      "url": "https://mma.gob.cl/mas-de-50-estudiantes-celebraron-el-dia-del-forjador-ambiental-en-la-reserva-nacional-coyhaique/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades llaman a postular al Programa de Recambio de Calefactores en la provincia de Curicó",
-      "url": "https://mma.gob.cl/autoridades-llaman-a-postular-al-programa-de-recambio-de-calefactores-en-la-provincia-de-curico/",
-      "fecha": "2026-10-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Fondos generacionales",
-      "url": "https://www.latercera.com/cartas-al-director/noticia/fondos-generacionales-2/",
-      "fecha": "2026-10-23",
+      "titular": "El deshielo de las cuevas del Pirineo borra miles de años de memoria climática",
+      "url": "https://efeverde.com/deshielo-cuevas-pirineo-borra-memoria-climatica/",
+      "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
