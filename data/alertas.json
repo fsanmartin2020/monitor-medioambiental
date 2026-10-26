@@ -1,5 +1,66 @@
 {
-  "fecha_generacion": "2026-10-25T12:00:09.444685-03:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-10-26T14:31:09.137787-03:00",
+  "total_alertas": 5,
+  "alertas": [
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos gravísimos contra ENAP Refinería Aconcagua por entrega de información falsa e incompleta",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega-de-informacion-falsa-e-incompleta/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Dos de las infracciones fueron clasificadas como gravísimas e incluyen la entrega de información falsa a la SMA sobre la eficiencia de recuperación de azufre e imprecisiones deliberadas en el reporte de emisiones de SO₂ al omitir la corriente de flar",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Duro golpe para Enap: SMA formula cargos \"gravísimos\" por entrega de información falsa",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/26/1215193/enap-sma-cargos-gravisimos.html",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "11:34 |Arriesga multas por más de US$19 millones.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "SMA formula cargos contra Enap por entrega de información falsa en Refinería Aconcagua y arriesga multa de hasta US$19 millones",
+      "url": "https://www.latercera.com/pulso/noticia/sma-formula-cargos-contra-enap-por-entrega-de-informacion-falsa-e-incompleta-en-refineria-aconcagua/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En tanto, la empresa estatal dijo que está analizando en detalle los antecedentes y que, dentro de los plazos establecidos, definirá su curso de acción conforme a la legislación ambiental.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "ENAP analiza cargos formulados por SMA a Refinería Aconcagua y descarta impacto en población",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/26/enap-analiza-cargos-formulados-por-sma-a-refineria-aconcagua-y-descarta-impacto-en-poblacion.shtml",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "SMA formula cargos gravísimos contra ENAP Refinería Aconcagua por entrega de información falsa e incompleta",
+      "url": "https://www.df.cl/empresas/energia/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "La estatal arriesga multas pecuniarias que en su conjunto suman hasta UTA 22.000, cifra que supera los US$ 19 millones. Entidad fiscalizadora derivará los antecedentes al Ministerio Público y a la Contraloría.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    }
+  ]
 }

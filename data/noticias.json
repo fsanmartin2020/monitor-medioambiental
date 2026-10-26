@@ -1,44 +1,188 @@
 {
-  "fecha_actualizacion": "2026-10-25T12:00:09.431328-03:00",
-  "total": 5,
+  "fecha_actualizacion": "2026-10-26T14:31:09.123558-03:00",
+  "total": 23,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
-      "url": "https://efeverde.com/tecnologia-y-concienciacion-factores-basicos-para-evitar-mas-desastres-por-inundaciones/",
-      "fecha": "2026-10-25",
+      "fuente": "País Circular",
+      "titular": "Anuncios y reflexiones sobre la revisión de los decretos de metas protagonizaron primeras jornadas del Foro REP 2026",
+      "url": "https://www.paiscircular.cl/economia-circular/anuncios-y-reflexiones-sobre-la-revision-de-los-decretos-de-metas-protagonizaron-primeras-jornadas-del-foro-rep-2026/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Diseñan plataforma que simula recorrido de aluviones e informa vías seguras de evacuación",
+      "url": "https://codexverde.cl/disenan-plataforma-que-simula-recorrido-de-aluviones-e-informa-vias-seguras-de-evacuacion/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Prevención de incendios forestales: Greenpeace llama a reforzar medidas ante la temporada 2026-2027",
+      "url": "https://codexverde.cl/prevencion-de-incendios-forestales-greenpeace-llama-a-reforzar-medidas-ante-la-temporada-2026-2027/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Google cambia agua por aire para enfriar data center en Chile, pero se salta evaluación de impacto ambiental",
+      "url": "https://codexverde.cl/google-cambia-agua-por-aire-para-enfriar-data-center-en-chile-pero-se-salta-evaluacion-de-impacto-ambiental/",
+      "fecha": "2026-10-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Las grandes lluvias alteran el sabor del agua del grifo: es culpa del cloro",
-      "url": "https://efeverde.com/grandes-lluvias-alteran-sabor-agua-del-grifo/",
-      "fecha": "2026-10-25",
+      "titular": "Greenpeace reclama un modelo contra incendios que priorice la prevención ante la extinción",
+      "url": "https://efeverde.com/greenpeace-modelo-contra-incendios-que-priorice-prevencion-ante-la-extincion/",
+      "fecha": "2026-10-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El césped artificial busca alternativas al caucho ante la restricción europea de microplásticos",
-      "url": "https://efeverde.com/cesped-artificial-futbol-busca-alternativas-caucho-restriccion-microplasticos/",
-      "fecha": "2026-10-25",
+      "titular": "Los ambientalistas brasileños celebran la reelección de Lula y piden avanzar en el combate a la tala",
+      "url": "https://efeverde.com/ambientalistas-brasilenos-celebran-reeleccion-de-lula/",
+      "fecha": "2026-10-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una transición energética extractivista: los grandes proyectos renovables vulneran los derechos de los locales",
-      "url": "https://efeverde.com/renovables-extractivismo-vulneran-derechos-locales/",
-      "fecha": "2026-10-25",
+      "titular": "El documental ‘Power Station’ gana la XII edición del Another Way Film Festival",
+      "url": "https://efeverde.com/documental-power-station-gana-edicion-del-another-way-film-festival/",
+      "fecha": "2026-10-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El deshielo de las cuevas del Pirineo borra miles de años de memoria climática",
-      "url": "https://efeverde.com/deshielo-cuevas-pirineo-borra-memoria-climatica/",
+      "titular": "Los falleros de Benaguasil (Valencia) llevan a cabo una plantación de árboles de la mano de Ecovidrio",
+      "url": "https://efeverde.com/falleros-de-benaguasil-plantacion-de-arboles-de-la-mano-de-ecovidrio/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "¿Qué deja la minería en los territorios? Sociedad civil convoca a diálogo sobre desarrollo local, medio ambiente y salud en Antofagasta",
+      "url": "https://www.terram.cl/que-deja-la-mineria-en-los-territorios-sociedad-civil-convoca-a-dialogo-sobre-desarrollo-local-medio-ambiente-y-salud-en-antofagasta/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Tercera] Tribunal declara inadmisible querella de China Joyvio contra Isidoro Quiroga por delitos ambientales",
+      "url": "https://www.terram.cl/la-tercera-tribunal-declara-inadmisible-querella-de-china-joyvio-contra-isidoro-quiroga-por-delitos-ambientales/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Prensa Austral] Traslado de salmoneras a reservas sin plan de manejo: La fórmula del Gobierno para destrabar concesiones en Magallanes",
+      "url": "https://www.terram.cl/la-prensa-austral-traslado-de-salmoneras-a-reservas-sin-plan-de-manejo-la-formula-del-gobierno-para-destrabar-concesiones-en-magallanes/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Comité de Ministros vota expansión de Puerto de San Antonio, en disputa con humedales criticados por Poduje",
+      "url": "https://www.terram.cl/el-desconcierto-comite-de-ministros-vota-expansion-de-puerto-de-san-antonio-en-disputa-con-humedales-criticados-por-poduje/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[CodexVerde] Google cambia agua por aire para enfriar data center en Chile, pero se salta evaluación de impacto ambiental",
+      "url": "https://www.terram.cl/codexverde-google-cambia-agua-por-aire-para-enfriar-data-center-en-chile-pero-se-salta-evaluacion-de-impacto-ambiental/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] COP17 de Biodiversidad en Armenia: los hongos ganan terreno en la política global de biodiversidad",
+      "url": "https://www.terram.cl/cop17-de-biodiversidad-en-armenia-los-hongos-ganan-terreno-en-la-politica-global-de-biodiversidad/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF apoya con helicóptero el combate de incendios en Río Tambo, Perú",
+      "url": "https://www.conaf.cl/conaf-apoya-con-helicoptero-el-combate-de-incendios-en-rio-tambo-peru/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-apoya-con-helicoptero-el-combate-de-incendios-en-rio-tambo-peru",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos gravísimos contra ENAP Refinería Aconcagua por entrega de información falsa e incompleta",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega-de-informacion-falsa-e-incompleta/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente publica los datos 2025 del Registro de Emisiones y Transferencias de Contaminantes",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-publica-los-datos-2025-del-registro-de-emisiones-y-transferencias-de-contaminantes/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Emol",
+      "titular": "Duro golpe para Enap: SMA formula cargos \"gravísimos\" por entrega de información falsa",
+      "url": "https://www.emol.com/noticias/Economia/2026/10/26/1215193/enap-sma-cargos-gravisimos.html",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "SMA formula cargos contra Enap por entrega de información falsa en Refinería Aconcagua y arriesga multa de hasta US$19 millones",
+      "url": "https://www.latercera.com/pulso/noticia/sma-formula-cargos-contra-enap-por-entrega-de-informacion-falsa-e-incompleta-en-refineria-aconcagua/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "¿Qué le pasa a Colo Colo? Las explicaciones al bajón del Cacique que ilusiona a la U en la lucha por el título",
+      "url": "https://www.latercera.com/el-deportivo/noticia/que-le-pasa-a-colo-colo-las-explicaciones-al-bajon-del-cacique-que-ilusiona-a-la-u-en-la-lucha-por-el-titulo/",
+      "fecha": "2026-10-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "ENAP analiza cargos formulados por SMA a Refinería Aconcagua y descarta impacto en población",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/26/enap-analiza-cargos-formulados-por-sma-a-refineria-aconcagua-y-descarta-impacto-en-poblacion.shtml",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "SMA formula cargos gravísimos contra ENAP Refinería Aconcagua por entrega de información falsa e incompleta",
+      "url": "https://www.df.cl/empresas/energia/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega",
+      "fecha": "2026-10-26",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Antofagasta concentra más de US$28.000 millones en proyectos en evaluación ambiental",
+      "url": "https://www.portalminero.com/antofagasta-concentra-mas-de-us-28000-millones-en-proyectos-en-evaluacion-ambiental",
       "fecha": "2026-10-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
