@@ -1,113 +1,17 @@
 {
-  "fecha_generacion": "2026-10-27T13:23:09.774350-03:00",
-  "total_alertas": 9,
+  "fecha_generacion": "2026-10-28T14:12:12.931249-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Diario Financiero] SMA formula cargos gravísimos contra Enap Refinería Aconcagua por información falsa e incompleta",
-      "url": "https://www.terram.cl/diario-financiero-sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-informacion-falsa-e-incompleta/",
-      "fecha": "2026-10-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Gobierno consideró “inaceptables” los hechos y la empresa estatal aseguró que continuará fortaleciendo sus mecanismos de control. Fuente: Diario Financiero, 27 de octubre de 2027.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto de suministro hídrico para la minería",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-de-suministro-hidrico-para-la-mineria/",
-      "fecha": "2026-10-27",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa contempla la construcción y operación de un acueducto para abastecer de agua industrial a una faena de la Región de Antofagasta. La entrada Se califica favorablemente DIA de proyecto de suministro hídrico para la minería se publicó prim",
-      "keywords_detectadas": [
-        "DIA"
-      ]
-    },
-    {
       "fuente": "REDIMIN",
-      "titular": "SEA busca reforzarse con 18 funcionarios y más recursos para proyectos mineros y energéticos",
-      "url": "https://www.redimin.cl/sea-busca-reforzarse-con-18-funcionarios-y-mas-recursos-para-proyectos-mineros-y-energeticos",
-      "fecha": "2026-10-27",
+      "titular": "Deep Sea Minerals nombra a nuevo director financiero y prepara oferta para cotizar en Nasdaq",
+      "url": "https://www.redimin.cl/deep-sea-minerals-nombra-a-nuevo-director-financiero-y-prepara-oferta-para-cotizar-en-nasdaq",
+      "fecha": "2026-10-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La propuesta para 2027 busca reforzar los equipos regionales en medio de una cartera de miles de millones de dólares en revisión. El presupuesto aún debe completar su tramitación en el Congreso.",
+      "extracto": "Raj Matthew asumió el cargo el 27 de octubre, luego de que la empresa presentara un prospecto preliminar para una oferta pública de valores vinculada a su ingreso al mercado estadounidense.",
       "keywords_detectadas": [
         "SEA"
-      ]
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "SMA formula cargos gravísimos contra ENAP Refinería Aconcagua por entrega de información falsa e incompleta",
-      "url": "https://www.paiscircular.cl/medio-ambiente/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega-de-informacion-falsa-e-incompleta/",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Dos de las infracciones fueron clasificadas como gravísimas e incluyen la entrega de información falsa a la Superintendencia del Medio Ambiente sobre la eficiencia de recuperación de azufre e imprecisiones deliberadas en el reporte de emisiones de SO",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Reciclaje electrónico en Chile: 22 marcas conforman el primer sistema colectivo bajo la Ley REP",
-      "url": "https://codexverde.cl/reciclaje-electronico-en-chile-22-marcas-conforman-el-primer-sistema-colectivo-bajo-la-ley-rep/",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Un total de 22 marcas se sumó al primer Gran Sistema Colectivo de Gestión (GRANSIC) para residuos de aparatos eléctricos y electrónicos y pilas (RAEE) en Chile. La iniciativa, impulsada por la Cámara de Comercio de Santiago (CCS) a través del sistema",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "El Ministerio del Medio Ambiente moderniza las plataformas de la Ley REP",
-      "url": "https://mma.gob.cl/el-ministerio-del-medio-ambiente-moderniza-las-plataformas-de-la-ley-rep/",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Durante la semana del lunes 26 de octubre, el Ministerio del Medio Ambiente lanzará las nuevas versiones de las plataformas […]",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Ministerios de Energía y Hacienda emiten declaración por formulación de cargos de la SMA a Enap",
-      "url": "https://www.revistaei.cl/ministerios-de-energia-y-hacienda-emiten-declaracion-por-formulacion-de-cargos-de-la-sma-a-enap/",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Según informaron ambas carteras, la ministra Ximena Rincón y el ministro Jorge Quiroz tomaron conocimiento de los antecedentes del caso el pasado 29 de abril. La entrada Ministerios de Energía y Hacienda emiten declaración por formulación de cargos d",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Enap declara que se encuentra analizando cargos de la SMA tras denuncia en Refinería Aconcagua",
-      "url": "https://www.revistaei.cl/enap-declara-que-se-encuentra-analizando-cargos-de-la-sma-tras-denuncia-en-refineria-aconcagua/",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La estatal comunicó que revisará los antecedentes y definirá los pasos a seguir dentro de los plazos establecidos por la legislación ambiental. La entrada Enap declara que se encuentra analizando cargos de la SMA tras denuncia en Refinería Aconcagua ",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "Enap analiza formulación de cargos de la SMA tras denuncia hecha por la propia empresa",
-      "url": "https://www.portalminero.com/enap-analiza-formulacion-de-cargos-de-la-sma-tras-denuncia-hecha-por-la-propia-empresa",
-      "fecha": "2026-10-26",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La compañía, además, informó un conjunto de medidas que ha estado implementando luego de reportar esta situación al organismo ambiental y el Ministerio Público.",
-      "keywords_detectadas": [
-        "SMA"
       ]
     }
   ]
