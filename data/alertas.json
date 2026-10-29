@@ -1,17 +1,66 @@
 {
-  "fecha_generacion": "2026-10-28T14:12:12.931249-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-10-29T14:29:32.684693-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
+      "fuente": "Codex Verde",
+      "titular": "Ruidos molestos: Tribunal Ambiental confirma multa de $49 millones a empresa recolectora de Ñuñoa",
+      "url": "https://codexverde.cl/ruidos-molestos-tribunal-ambiental-confirma-multa-de-49-millones-a-empresa-recolectora-de-nunoa/",
+      "fecha": "2026-10-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental confirmó la multa de 57 unidades tributarias anuales (UTA), equivalente a cerca de $49 millones, aplicada a Dimensión S.A. por incumplir la norma de emisión de ruidos en su instalación de recolección de residuos en Ñuñoa",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Constitucional] Corte rechaza recurso contra la SMA por demora en denuncias sobre Pascua Lama al no acreditarse amenaza ambiental concreta",
+      "url": "https://www.terram.cl/diario-constitucional-corte-rechaza-recurso-contra-la-sma-por-demora-en-denuncias-sobre-pascua-lama-al-no-acreditarse-amenaza-ambiental-concreta/",
+      "fecha": "2026-10-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Corte de Apelaciones de Copiapó determinó que la tardanza en resolver las denuncias de una comunidad indígena no basta, por sí sola, para acreditar una amenaza al medio ambiente. Sin embargo, aclaró que el rechazo del recurso no libera a la SMA de",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Corte rechaza recurso contra la SMA por demora en denuncias sobre Pascua Lama al no acreditarse amenaza ambiental concreta",
+      "url": "https://www.diarioconstitucional.cl/2026/10/29/corte-rechaza-recurso-contra-la-sma-por-demora-en-denuncias-sobre-pascua-lama-al-no-acreditarse-amenaza-ambiental-concreta/",
+      "fecha": "2026-10-29",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
       "fuente": "REDIMIN",
-      "titular": "Deep Sea Minerals nombra a nuevo director financiero y prepara oferta para cotizar en Nasdaq",
-      "url": "https://www.redimin.cl/deep-sea-minerals-nombra-a-nuevo-director-financiero-y-prepara-oferta-para-cotizar-en-nasdaq",
+      "titular": "Quiroz expone demoras de tribunales ambientales pese a conversaciones con la Corte Suprema",
+      "url": "https://www.redimin.cl/quiroz-expone-demoras-de-tribunales-ambientales-pese-a-conversaciones-con-la-corte-suprema",
+      "fecha": "2026-10-29",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La crítica pública llegó después de una cita institucional en la que ya se había planteado la falta de abogados para resolver fallos pendientes.",
+      "keywords_detectadas": [
+        "Tribunales Ambientales",
+        "Corte Suprema"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Laboratorio de la SMA obtiene nuevamente reconocimiento de excelencia en el análisis de compuestos orgánicos volátiles",
+      "url": "https://portal.sma.gob.cl/index.php/laboratorio-de-la-sma-obtiene-nuevamente-reconocimiento-de-excelencia-en-el-analisis-de-compuestos-organicos-volatiles/",
       "fecha": "2026-10-28",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Raj Matthew asumió el cargo el 27 de octubre, luego de que la empresa presentara un prospecto preliminar para una oferta pública de valores vinculada a su ingreso al mercado estadounidense.",
+      "extracto": "La institución mantiene su desempeño de excelencia tras haber alcanzado un 100% de resultados satisfactorios en el programa de ensayos de aptitud internacional de ERA, destacando entre los 164 laboratorios participantes de distintos países. El Labora",
       "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
