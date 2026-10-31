@@ -1,285 +1,93 @@
 {
-  "fecha_actualizacion": "2026-10-30T14:12:43.758789-03:00",
-  "total": 35,
+  "fecha_actualizacion": "2026-10-31T13:06:42.293659-03:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Chile Carbon Forum 2026 reunió a más de 1.000 asistentes para consolidar la acción climática y los mercados de carbono",
-      "url": "https://www.paiscircular.cl/transicion-energetica/alta-convocatoria-marca-chile-carbon-forum-2026-reunio-a-mas-de-1-000-asistentes/",
-      "fecha": "2026-10-30",
+      "fuente": "EFE Verde",
+      "titular": "España contabiliza más de 18.000 grullas en una semana de intensa migración",
+      "url": "https://efeverde.com/espana-contabiliza-grullas-semana-intensa-migracion/",
+      "fecha": "2026-10-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "Ruidos: Segundo Tribunal Ambiental ratificó sanción de casi $8 millones cursada a Centro de Excadetes y Oficiales de la Armada Caleuche",
-      "url": "https://www.paiscircular.cl/radar-legal/ruidos-segundo-tribunal-ambiental-ratifico-sancion-de-casi-8-millones-cursada-a-centro-de-excadetes-y-oficiales-de-la-armada-caleuche/",
-      "fecha": "2026-10-30",
+      "fuente": "EFE Verde",
+      "titular": "La COP17 pacta acelerar los objetivos de biodiversidad para 2030 pero encalla en la financiación",
+      "url": "https://efeverde.com/cop17-biodiversidad-encalla-financiacion/",
+      "fecha": "2026-10-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "País Circular",
-      "titular": "FeFood: la app con IA que optimiza la despensa del hogar y previene el desperdicio de alimentos",
-      "url": "https://www.paiscircular.cl/empresa-e-innovacion/fefood/",
-      "fecha": "2026-10-30",
+      "fuente": "EFE Verde",
+      "titular": "Halloween, una noche de miedo, disfraces y con una larga huella ambiental de plásticos",
+      "url": "https://efeverde.com/halloween-una-noche-de-miedo-disfraces-y-con-una-larga-huella-ambiental-de-plasticos/",
+      "fecha": "2026-10-31",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministerio del Medio Ambiente abre fondo de $110 millones para realizar censo nacional del pingüino de Humboldt",
-      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-abre-fondo-de-110-millones-para-realizar-censo-nacional-del-pinguino-de-humboldt/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-abre-fondo-de-110-millones-para-realizar-censo-nacional-del-pinguino-de-humboldt",
+      "fuente": "EFE Verde",
+      "titular": "El comercio de vida silvestre afecta al menos a 107.000 especies, el doble de lo estimado",
+      "url": "https://efeverde.com/comercio-de-vida-silvestre/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Más de mitad españoles cree que autoridades no están preparadas para catástrofes naturales",
-      "url": "https://efeverde.com/mitad-espanoles-autoridades-no-estan-preparadas-catastrofes-naturales/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Investigadores documentan por primera vez la presencia de especies marinas de aguas cálidas en Galicia",
-      "url": "https://efeverde.com/documentan-especies-marinas-aguas-calidas-galicia/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Pacífico reclama una financiación climática más accesible de cara a la COP31",
-      "url": "https://efeverde.com/pacifico-reclama-financiacion-climatica-accesible-cop31/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "España cierra la campaña de incendios 2026 con el segundo peor año en lo que va de siglo",
-      "url": "https://efeverde.com/espana-campana-incendios-2026-segundo-peor-ano-siglo/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Digitanimal: la tecnología que ha rastreado la trashumancia de las cabras guisandesas",
-      "url": "https://efeverde.com/digitanimal-tecnologia-rastreado-trashumancia-cabras-guisandesas/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Comunidades de la Higuera entregan carta al presidente de Chile para mantener el rechazo al proyecto Dominga",
-      "url": "https://www.terram.cl/ladera-sur-comunidades-de-la-higuera-entregan-carta-al-presidente-de-chile-para-mantener-el-rechazo-al-proyecto-dominga/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] Perú, Ecuador, Chile y Costa Rica dan la espalda a acuerdo internacional que prohíbe capturar tiburones amenazados",
-      "url": "https://www.terram.cl/mongabay-peru-ecuador-chile-y-costa-rica-dan-la-espalda-a-acuerdo-internacional-que-prohibe-capturar-tiburones-amenazados/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Gobierno alista ley para subsidiar miles de hectáreas de plantaciones forestales y reaviva debate ambiental",
-      "url": "https://www.terram.cl/el-desconcierto-gobierno-alista-ley-para-subsidiar-miles-de-hectareas-de-plantaciones-forestales-y-reaviva-debate-ambiental/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Concepción] Ex vertedero Rocuant Andalién: realizan visita técnica para definir estudios de riesgo ambiental",
-      "url": "https://www.terram.cl/diario-concepcion-ex-vertedero-rocuant-andalien-realizan-visita-tecnica-para-definir-estudios-de-riesgo-ambiental/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Dialogue Earth] Fondo para proteger los bosques tropicales cumple un año, aún lejos de su meta",
-      "url": "https://www.terram.cl/dialogue-earth-fondo-para-proteger-los-bosques-tropicales-cumple-un-ano-aun-lejos-de-su-meta/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Vecinos denuncian nuevos episodios de contaminación en el río Collileufu",
-      "url": "https://www.terram.cl/diario-sostenible-vecinos-denuncian-nuevos-episodios-de-contaminacion-en-el-rio-collileufu/",
+      "titular": "Termina sin acuerdo la reunión en Tasmania (Australia) para ampliar la protección de la Antártida",
+      "url": "https://efeverde.com/termina-sin-acuerdo-reunion-en-tasmania-australia-para-ampliar-proteccion-de-antartida/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Ñuble y Biobío consolidan estrategia y proyectan hoja de ruta para el 2027 en la conservación del huemul",
-      "url": "https://www.conaf.cl/nuble-y-biobio-consolidan-estrategia-y-proyectan-hoja-de-ruta-para-el-2027-en-la-conservacion-del-huemul/?utm_source=rss&utm_medium=rss&utm_campaign=nuble-y-biobio-consolidan-estrategia-y-proyectan-hoja-de-ruta-para-el-2027-en-la-conservacion-del-huemul",
+      "titular": "CONAF destaca avances en la recuperación del Puente Guardas y mantiene apertura del circuito Macizo Paine para el 1 de noviembre",
+      "url": "https://www.conaf.cl/conaf-destaca-avances-en-la-recuperacion-del-puente-guardas-y-mantiene-apertura-del-circuito-macizo-paine-para-el-1-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-destaca-avances-en-la-recuperacion-del-puente-guardas-y-mantiene-apertura-del-circuito-macizo-paine-para-el-1-de-noviembre",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CONAF",
-      "titular": "CONAF Tarapacá fortalece la prevención de incendios forestales con entrega de plan a la Municipalidad de Huara",
-      "url": "https://www.conaf.cl/conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-con-entrega-de-plan-a-la-municipalidad-de-huara/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-tarapaca-fortalece-la-prevencion-de-incendios-forestales-con-entrega-de-plan-a-la-municipalidad-de-huara",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Un hito para el patrimonio natural: La Araucanía celebró dos décadas de conservación en el XVI Seminario de Biodiversidad",
-      "url": "https://mma.gob.cl/un-hito-para-el-patrimonio-natural-la-araucania-celebro-dos-decadas-de-conservacion-en-el-xvi-seminario-de-biodiversidad/",
+      "fuente": "SMA",
+      "titular": "Webinar de la SMA reunió a más de 160 conectados para analizar los avances de la Reforma a la LOSMA",
+      "url": "https://portal.sma.gob.cl/index.php/webinar-de-la-sma-reunio-a-mas-de-160-conectados-para-analizar-los-avances-de-la-reforma-a-la-losma/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "COP17: Chile y Banco Interamericano de Desarrollo firman acuerdo para diseñar fondo patrimonial que fortalecerá protección de áreas protegidas",
-      "url": "https://mma.gob.cl/cop17-chile-y-banco-interamericano-de-desarrollo-firman-acuerdo-para-disenar-fondo-patrimonial-que-fortalecera-proteccion-de-areas-protegidas/",
+      "titular": "“La certeza en tiempos del Cambio Climático”. Por seremi de la Región Metropolitana, Gonzalo Cruces",
+      "url": "https://mma.gob.cl/la-certeza-en-tiempos-del-cambio-climatico-por-seremi-de-la-region-metropolitana-gonzalo-cruces/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministro (s) de Medio Ambiente José Vial entrega certificación ambiental a ocho establecimientos educacionales de Antofagasta",
-      "url": "https://mma.gob.cl/ministro-s-de-medio-ambiente-jose-vial-entrega-certificacion-ambiental-a-ocho-establecimientos-educacionales-de-antofagasta/",
+      "titular": "Reciclaje tecnológico en Coquimbo: La alianza público-privada que transforma la basura electrónica en recursos educativos",
+      "url": "https://mma.gob.cl/reciclaje-tecnologico-en-coquimbo-la-alianza-publico-privada-que-transforma-la-basura-electronica-en-recursos-educativos/",
+      "fecha": "2026-10-30",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Más de 15 mil votos marcan exitoso cierre de campaña “Guardianes de la Naturaleza” del SBAP",
+      "url": "https://mma.gob.cl/mas-de-15-mil-votos-marcan-exitoso-cierre-de-campana-guardianes-de-la-naturaleza-del-sbap/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "La Tercera",
-      "titular": "Alcalde Alessandri pide que Presupuesto 2027 no sea “centralizado” y señala que “afecta de manera distinta a cada una de las comunas”",
-      "url": "https://www.latercera.com/nacional/noticia/alcalde-alessandri-pide-que-presupuesto-2027-no-sea-centralizado-y-senala-que-afecta-de-manera-distinta-a-cada-una-de-las-comunas/",
+      "titular": "“Algo no está funcionando bien entre ambas autoridades”: Alvarado aborda “tensión” entre Lincolao y Rossi en el Ministerio de Ciencia",
+      "url": "https://www.latercera.com/nacional/noticia/algo-no-esta-funcionando-bien-entre-ambas-autoridades-alvarado-aborda-tension-entre-lincolao-y-rossi-en-el-ministerio-de-ciencia/",
       "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Grenergy ingresa al SEIA proyecto fotovoltaico con sistema BESS de 3.010 MWh en María Elena",
-      "url": "https://www.revistaei.cl/grenergy-ingresa-al-seia-proyecto-fotovoltaico-con-sistema-bess-de-3-010-mwh-en-maria-elena/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA destaca que Atacama registra más de US$7.300 millones en proyectos en evaluación ambiental",
-      "url": "https://www.revistaei.cl/sea-destaca-que-atacama-registra-mas-de-us7-300-millones-en-proyectos-en-evaluacion-ambiental/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Proyecto de oro de US$1.500 millones encabeza la inversión en evaluación ambiental en Atacama",
-      "url": "https://www.redimin.cl/proyecto-de-oro-de-us-1-500-millones-encabeza-la-inversion-en-evaluacion-ambiental-en-atacama",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Ministerio del Medio Ambiente abre fondo de $110 millones para realizar censo nacional del pingüino de Humboldt",
-      "url": "https://www.paiscircular.cl/biodiversidad/ministerio-del-medio-ambiente-abre-fondo-de-110-millones-para-realizar-censo-nacional-del-pinguino-de-humboldt/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "UNAB busca elevar su tasa de reciclaje del 10% al 40% para 2038",
-      "url": "https://codexverde.cl/unab-busca-elevar-su-tasa-de-reciclaje-del-10-al-40-para-2038/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Galicia aspira a ser la primera región mundial en proteger sus ecosistemas degradados",
-      "url": "https://efeverde.com/galicia-aspira-primera-region-mundial-proteger-ecosistemas-degradados/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La caza furtiva y la contaminación amenazan al ave nacional de Trinidad y Tobago",
-      "url": "https://efeverde.com/caza-furtiva-y-contaminacion-amenazan-al-ave-nacional-de-trinidad-y-tobago/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Aves y personas: mismos patrones al hablar y al cantar",
-      "url": "https://efeverde.com/aves-y-personas-mismos-patrones-al-hablar-y-al-cantar/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las aves marinas también sufren ‘jet lag’ en sus largos viajes migratorios",
-      "url": "https://efeverde.com/aves-marinas-tambien-sufren-jet-lag-viajes-migratorios/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La contaminación de la dana de Valencia supuso un riesgo ambiental pero no sanitario, según un estudio",
-      "url": "https://efeverde.com/contaminacion-dana-valencia-supuso-riesgo-ambiental-pero-no-sanitario/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Mesa REP: presentan la nueva Agenda REgenera Chile del Minis-terio del Medio Ambiente a municipios del Biobío",
-      "url": "https://mma.gob.cl/mesa-rep-presentan-la-nueva-agenda-regenera-chile-del-minis-terio-del-medio-ambiente-a-municipios-del-biobio/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Estudiantes de San Nicolás participaron en elección nacional de los Guardianes de la Naturaleza",
-      "url": "https://mma.gob.cl/estudiantes-de-san-nicolas-participaron-en-eleccion-nacional-de-los-guardianes-de-la-naturaleza/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Minería y energía: Director Ejecutivo del SEA detalla montos de evaluación ambiental en Atacama",
-      "url": "https://www.mch.cl/mineria-y-energia-director-ejecutivo-del-sea-detalla-montos-de-evaluacion-ambiental-en-atacama/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "Cinco tendencias que están redefiniendo el almacenamiento energético en Latinoamérica",
-      "url": "https://www.portalminero.com/cinco-tendencias-que-estan-redefiniendo-el-almacenamiento-energetico-en-latinoamerica",
-      "fecha": "2026-10-29",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

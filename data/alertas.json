@@ -1,65 +1,17 @@
 {
-  "fecha_generacion": "2026-10-30T14:12:43.769138-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-10-31T13:06:42.306922-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Ruidos: Segundo Tribunal Ambiental ratificó sanción de casi $8 millones cursada a Centro de Excadetes y Oficiales de la Armada Caleuche",
-      "url": "https://www.paiscircular.cl/radar-legal/ruidos-segundo-tribunal-ambiental-ratifico-sancion-de-casi-8-millones-cursada-a-centro-de-excadetes-y-oficiales-de-la-armada-caleuche/",
+      "fuente": "SMA",
+      "titular": "Webinar de la SMA reunió a más de 160 conectados para analizar los avances de la Reforma a la LOSMA",
+      "url": "https://portal.sma.gob.cl/index.php/webinar-de-la-sma-reunio-a-mas-de-160-conectados-para-analizar-los-avances-de-la-reforma-a-la-losma/",
       "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental rechazó reclamación, presentada por el Centro de Excadetes y Oficiales de la Armada Caleuche, en contra de la multa casi $8 millones, por infracción a la norma de emisión de ruidos, cursada al establecimiento ubicado en ",
+      "extracto": "En la actividad realizada este mediodía, el Superintendente Emanuel Ibarra y la Fiscal (s) Katharina Buschmann abordaron los ejes centrales del proyecto de ley que busca modernizar el modelo sancionatorio de la institución, dinamizar la gestión de de",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Alcalde Alessandri pide que Presupuesto 2027 no sea “centralizado” y señala que “afecta de manera distinta a cada una de las comunas”",
-      "url": "https://www.latercera.com/nacional/noticia/alcalde-alessandri-pide-que-presupuesto-2027-no-sea-centralizado-y-senala-que-afecta-de-manera-distinta-a-cada-una-de-las-comunas/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El presidente de la Asociación Chilena de Municipalidades además sostuvo que \"queremos poner nuestro punto de vista, porque no estamos en desacuerdo con hacer cambios. La cosa es que queremos ser parte de los cambios\".",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Grenergy ingresa al SEIA proyecto fotovoltaico con sistema BESS de 3.010 MWh en María Elena",
-      "url": "https://www.revistaei.cl/grenergy-ingresa-al-seia-proyecto-fotovoltaico-con-sistema-bess-de-3-010-mwh-en-maria-elena/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera una inversión de US$520 millones y contempla su inicio de ejecución para marzo de 2029. La entrada Grenergy ingresa al SEIA proyecto fotovoltaico con sistema BESS de 3.010 MWh en María Elena se publicó primero en Revista Elect",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "SEA destaca que Atacama registra más de US$7.300 millones en proyectos en evaluación ambiental",
-      "url": "https://www.revistaei.cl/sea-destaca-que-atacama-registra-mas-de-us7-300-millones-en-proyectos-en-evaluacion-ambiental/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "⁠El director ejecutivo del organismo sostuvo una jornada de trabajo en la zona, en la que se reunió con los equipos locales y con la delegada presidencial. La entrada SEA destaca que Atacama registra más de US$7.300 millones en proyectos en evaluació",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Minería y energía: Director Ejecutivo del SEA detalla montos de evaluación ambiental en Atacama",
-      "url": "https://www.mch.cl/mineria-y-energia-director-ejecutivo-del-sea-detalla-montos-de-evaluacion-ambiental-en-atacama/",
-      "fecha": "2026-10-29",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Autoridad sostuvo una jornada de trabajo en la zona, en la que se reunió con los equipos locales y con la delegada presidencial Sofía Cid. La entrada Minería y energía: Director Ejecutivo del SEA detalla montos de evaluación ambiental en Atacama se p",
-      "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
