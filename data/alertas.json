@@ -1,18 +1,5 @@
 {
-  "fecha_generacion": "2026-10-31T13:06:42.306922-03:00",
-  "total_alertas": 1,
-  "alertas": [
-    {
-      "fuente": "SMA",
-      "titular": "Webinar de la SMA reunió a más de 160 conectados para analizar los avances de la Reforma a la LOSMA",
-      "url": "https://portal.sma.gob.cl/index.php/webinar-de-la-sma-reunio-a-mas-de-160-conectados-para-analizar-los-avances-de-la-reforma-a-la-losma/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En la actividad realizada este mediodía, el Superintendente Emanuel Ibarra y la Fiscal (s) Katharina Buschmann abordaron los ejes centrales del proyecto de ley que busca modernizar el modelo sancionatorio de la institución, dinamizar la gestión de de",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    }
-  ]
+  "fecha_generacion": "2026-11-01T14:13:21.124325-03:00",
+  "total_alertas": 0,
+  "alertas": []
 }

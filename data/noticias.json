@@ -1,93 +1,53 @@
 {
-  "fecha_actualizacion": "2026-10-31T13:06:42.293659-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-11-01T14:13:21.115975-03:00",
+  "total": 6,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "España contabiliza más de 18.000 grullas en una semana de intensa migración",
-      "url": "https://efeverde.com/espana-contabiliza-grullas-semana-intensa-migracion/",
+      "titular": "Una empresa papelera desarrolla un papel reciclado con capacidad para absorber CO2",
+      "url": "https://efeverde.com/empresa-desarrolla-papel-reciclado-capacidad-absorber-co2/",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los incendios en la Amazonía brasileña aumentan un 140 % interanual en octubre por El Niño",
+      "url": "https://efeverde.com/incendios-amazonia-brasilena-aumentan-140-octubre/",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El desierto más árido del mundo vive una histórica floración gracias a El Niño en Chile",
+      "url": "https://efeverde.com/desierto-atacama-chile-historica-floracion-el-nino/",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Niño provoca el blanqueamiento de corales en el Pacífico de Costa Rica",
+      "url": "https://efeverde.com/el-nino-blanqueamiento-corales-pacifico-costa-rica/",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Australia identifica nuevo potencial de escandio en Nueva Gales del Sur y abre oportunidades para explorar un mineral estratégico",
+      "url": "https://www.redimin.cl/australia-identifica-nuevo-potencial-de-escandio-en-nueva-gales-del-sur-y-abre-oportunidades-para-explorar-un-mineral-estrategico",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La «acción humana», agravada por la desinformación, causa última de incendios forestales",
+      "url": "https://efeverde.com/la-accion-humana-agravada-por-la-desinformacion-causa-ultima-de-incendios-forestales/",
       "fecha": "2026-10-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La COP17 pacta acelerar los objetivos de biodiversidad para 2030 pero encalla en la financiación",
-      "url": "https://efeverde.com/cop17-biodiversidad-encalla-financiacion/",
-      "fecha": "2026-10-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Halloween, una noche de miedo, disfraces y con una larga huella ambiental de plásticos",
-      "url": "https://efeverde.com/halloween-una-noche-de-miedo-disfraces-y-con-una-larga-huella-ambiental-de-plasticos/",
-      "fecha": "2026-10-31",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El comercio de vida silvestre afecta al menos a 107.000 especies, el doble de lo estimado",
-      "url": "https://efeverde.com/comercio-de-vida-silvestre/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Termina sin acuerdo la reunión en Tasmania (Australia) para ampliar la protección de la Antártida",
-      "url": "https://efeverde.com/termina-sin-acuerdo-reunion-en-tasmania-australia-para-ampliar-proteccion-de-antartida/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF destaca avances en la recuperación del Puente Guardas y mantiene apertura del circuito Macizo Paine para el 1 de noviembre",
-      "url": "https://www.conaf.cl/conaf-destaca-avances-en-la-recuperacion-del-puente-guardas-y-mantiene-apertura-del-circuito-macizo-paine-para-el-1-de-noviembre/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-destaca-avances-en-la-recuperacion-del-puente-guardas-y-mantiene-apertura-del-circuito-macizo-paine-para-el-1-de-noviembre",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Webinar de la SMA reunió a más de 160 conectados para analizar los avances de la Reforma a la LOSMA",
-      "url": "https://portal.sma.gob.cl/index.php/webinar-de-la-sma-reunio-a-mas-de-160-conectados-para-analizar-los-avances-de-la-reforma-a-la-losma/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "“La certeza en tiempos del Cambio Climático”. Por seremi de la Región Metropolitana, Gonzalo Cruces",
-      "url": "https://mma.gob.cl/la-certeza-en-tiempos-del-cambio-climatico-por-seremi-de-la-region-metropolitana-gonzalo-cruces/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Reciclaje tecnológico en Coquimbo: La alianza público-privada que transforma la basura electrónica en recursos educativos",
-      "url": "https://mma.gob.cl/reciclaje-tecnologico-en-coquimbo-la-alianza-publico-privada-que-transforma-la-basura-electronica-en-recursos-educativos/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Más de 15 mil votos marcan exitoso cierre de campaña “Guardianes de la Naturaleza” del SBAP",
-      "url": "https://mma.gob.cl/mas-de-15-mil-votos-marcan-exitoso-cierre-de-campana-guardianes-de-la-naturaleza-del-sbap/",
-      "fecha": "2026-10-30",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“Algo no está funcionando bien entre ambas autoridades”: Alvarado aborda “tensión” entre Lincolao y Rossi en el Ministerio de Ciencia",
-      "url": "https://www.latercera.com/nacional/noticia/algo-no-esta-funcionando-bien-entre-ambas-autoridades-alvarado-aborda-tension-entre-lincolao-y-rossi-en-el-ministerio-de-ciencia/",
-      "fecha": "2026-10-30",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
