@@ -1,53 +1,309 @@
 {
-  "fecha_actualizacion": "2026-11-01T14:13:21.115975-03:00",
-  "total": 6,
+  "fecha_actualizacion": "2026-11-02T17:49:21.469028-03:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Una empresa papelera desarrolla un papel reciclado con capacidad para absorber CO2",
-      "url": "https://efeverde.com/empresa-desarrolla-papel-reciclado-capacidad-absorber-co2/",
-      "fecha": "2026-11-01",
+      "fuente": "País Circular",
+      "titular": "Chile se prepara para cumplir con el Reglamento europeo sobre productos libres de deforestación que entra en vigencia en dos meses",
+      "url": "https://www.paiscircular.cl/medio-ambiente/chile-se-prepara-para-cumplir-con-el-reglamento-europeo-sobre-productos-libres-de-deforestacion-que-entra-en-vigencia-en-dos-meses/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "COP17: Chile y Banco Interamericano de Desarrollo firman acuerdo para diseñar fondo patrimonial que fortalecerá protección de áreas protegidas",
+      "url": "https://www.chiledesarrollosustentable.cl/cop17-chile-y-banco-interamericano-de-desarrollo-firman-acuerdo-para-disenar-fondo-patrimonial-que-fortalecera-proteccion-de-areas-protegidas/?utm_source=rss&utm_medium=rss&utm_campaign=cop17-chile-y-banco-interamericano-de-desarrollo-firman-acuerdo-para-disenar-fondo-patrimonial-que-fortalecera-proteccion-de-areas-protegidas",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Agua segura frente a desastres",
+      "url": "https://codexverde.cl/agua-segura-frente-a-desastres/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "ENAP arriesga multas por más de $19 mil millones por reportar información falsa e incompleta",
+      "url": "https://codexverde.cl/enap-arriesga-multas-por-mas-de-19-mil-millones-por-reportar-informacion-falsa-e-incompleta/",
+      "fecha": "2026-11-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los incendios en la Amazonía brasileña aumentan un 140 % interanual en octubre por El Niño",
-      "url": "https://efeverde.com/incendios-amazonia-brasilena-aumentan-140-octubre/",
-      "fecha": "2026-11-01",
+      "titular": "La Comunidad Iberoamericana promoverá la buena gestión del agua como cooperación prioritaria",
+      "url": "https://efeverde.com/comunidad-iberoamericana-gestion-aguaco-cooperacion-prioritaria/",
+      "fecha": "2026-11-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El desierto más árido del mundo vive una histórica floración gracias a El Niño en Chile",
-      "url": "https://efeverde.com/desierto-atacama-chile-historica-floracion-el-nino/",
-      "fecha": "2026-11-01",
+      "titular": "La transición eléctrica exige más redes, inversión y energías renovables",
+      "url": "https://efeverde.com/la-transicion-electrica-exige-mas-redes-inversion-energias-renovables/",
+      "fecha": "2026-11-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El Niño provoca el blanqueamiento de corales en el Pacífico de Costa Rica",
-      "url": "https://efeverde.com/el-nino-blanqueamiento-corales-pacifico-costa-rica/",
-      "fecha": "2026-11-01",
+      "titular": "Descubren en aguas de Alicante una nueva especie de medusa, de milímetros e inofensiva",
+      "url": "https://efeverde.com/descubren-alicante-nueva-especie-medusa/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Barcos encallados y comunidades aisladas ante la drástica bajante del río Negro en Brasil",
+      "url": "https://efeverde.com/drastica-bajante-rio-negro-brasil-sequia/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El Niño comienza a golpear a Ecuador y Perú con sus primeras inundaciones",
+      "url": "https://efeverde.com/el-nino-primeras-inundaciones-ecuador-peru/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Renovables, ciencia, adaptación: entre las prioridades de España ante la cumbre del clima",
+      "url": "https://efeverde.com/renovables-ciencia-adaptacion-prioridades-espana-cop31/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El nuevo texto del decreto sobre centros de datos acentúa las quejas de los ecologistas",
+      "url": "https://efeverde.com/texto-decreto-centros-datos-quejas-ecologistas/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Una biografía rescata del olvido al pionero que llevó a España a la Antártida",
+      "url": "https://efeverde.com/biografia-rescata-olvido-pionero-espana-antartida/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Mongabay] COP17: los fondos son insuficientes para salvar a la biodiversidad del planeta y las metas para 2030 están atrasadas",
+      "url": "https://www.terram.cl/mongabay-cop17-los-fondos-son-insuficientes-para-salvar-a-la-biodiversidad-del-planeta-y-las-metas-para-2030-estan-atrasadas/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Marcha medioambiental fue el comienzo: 8M, mochilazo estudiantil y Profesores anuncian movilizaciones",
+      "url": "https://www.terram.cl/biobiochile-cl-marcha-medioambiental-fue-el-comienzo-8m-mochilazo-estudiantil-y-profesores-anuncian-movilizaciones/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Victoria para vecinos de Pucón: Corte Suprema ratifica demolición de “tomas VIP” en humedal de Lago Villarrica",
+      "url": "https://www.terram.cl/el-desconcierto-victoria-para-vecinos-de-pucon-corte-suprema-ratifica-demolicion-de-tomas-vip-en-humedal-de-lago-villarrica/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Día] Organizaciones solicitan reforzar la protección del medio ambiente ante exploraciones mineras",
+      "url": "https://www.terram.cl/el-dia-organizaciones-solicitan-reforzar-la-proteccion-del-medio-ambiente-ante-exploraciones-mineras/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] Rastreo de ballena jorobada podría confirmar a Rapa Nui como zona de reproducción y crianza",
+      "url": "https://www.terram.cl/cooperativa-ciencia-rastreo-de-ballena-jorobada-podria-confirmar-a-rapa-nui-como-zona-de-reproduccion-y-crianza/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Portal innova] Equipo U. de Chile logran descomponer residuos plásticos y abrir nuevas posibilidades para su reciclaje",
+      "url": "https://www.terram.cl/portal-innova-equipo-u-de-chile-logran-descomponer-residuos-plasticos-y-abrir-nuevas-posibilidades-para-su-reciclaje/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Conoce SURGENCIA, nueva revista de ONG FIMA",
+      "url": "https://www.fima.cl/2026/11/02/nueva-revista-surgencia/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Municipalidad de Calama y mantiene multa por disposición de residuos no autorizados en depósito RESCON",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-municipalidad-de-calama-y-mantiene-multa-por-disposicion-de-residuos-no-autorizados-en-deposito-rescon/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-rechaza-reclamacion-de-la-municipalidad-de-calama-y-mantiene-multa-por-disposicion-de-residuos-no-autorizados-en-deposito-rescon",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental confirma rechazo del programa de cumplimiento de Terminal Puerto Coquimbo por emisiones de ruido durante obras de modernización",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-confirma-rechazo-del-programa-de-cumplimiento-de-terminal-puerto-coquimbo-por-emisiones-de-ruido-durante-obras-de-modernizacion/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-confirma-rechazo-del-programa-de-cumplimiento-de-terminal-puerto-coquimbo-por-emisiones-de-ruido-durante-obras-de-modernizacion",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental escucha alegatos en reclamaciones de sindicatos contra la aprobación de modificaciones operacionales de la Minera Escondida",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-escucha-alegatos-en-reclamaciones-de-sindicatos-contra-la-aprobacion-de-modificaciones-operacionales-de-la-minera-escondida/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-escucha-alegatos-en-reclamaciones-de-sindicatos-contra-la-aprobacion-de-modificaciones-operacionales-de-la-minera-escondida",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-34-2026 «Alto Maullín SPA con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-34-2026-alto-maullin-spa-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo de profesional con funciones de supervisora de certificacion de desembarque a contrata asimilado a grado 12 de la e u s dr maule constituci",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-de-profesional-con-funciones-de-supervisora-de-certificacion-de-desembarque-a-contrata-asimilado-a-grado-12-de-la-e-u-s-dr-maule-constituci/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Comité Regional CITES fortalece coordinación para proteger la flora y fauna en Arica y Parinacota",
+      "url": "https://www.conaf.cl/comite-regional-cites-fortalece-coordinacion-para-proteger-la-flora-y-fauna-en-arica-y-parinacota/?utm_source=rss&utm_medium=rss&utm_campaign=comite-regional-cites-fortalece-coordinacion-para-proteger-la-flora-y-fauna-en-arica-y-parinacota",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Ñuble refuerza monitoreo técnico ante calor extremo y pide máxima colaboración ciudadana para evitar incendios",
+      "url": "https://www.conaf.cl/conaf-nuble-refuerza-monitoreo-tecnico-ante-calor-extremo-y-pide-maxima-colaboracion-ciudadana-para-evitar-incendios/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-refuerza-monitoreo-tecnico-ante-calor-extremo-y-pide-maxima-colaboracion-ciudadana-para-evitar-incendios",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF y gremios convocan a seminario sobre biocombustibles sólidos en Valdivia",
+      "url": "https://www.conaf.cl/conaf-y-gremios-convocan-a-seminario-sobre-biocombustibles-solidos-en-valdivia/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-gremios-convocan-a-seminario-sobre-biocombustibles-solidos-en-valdivia",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Región de Atacama: SMA da por ejecutado con éxito Programa de Cumplimiento de Minera Candelaria y pone fin a proceso sancionatorio",
+      "url": "https://portal.sma.gob.cl/index.php/region-de-atacama-sma-da-por-ejecutado-con-exito-programa-de-cumplimiento-de-minera-candelaria-y-pone-fin-a-proceso-sancionatorio/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente se reúne con miembros del Comité Operativo del Santuario de la Naturaleza Cajón del Río Achibueno",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-se-reune-con-miembros-del-comite-operativo-del-santuario-de-la-naturaleza-cajon-del-rio-achibueno/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "BioBioChile",
+      "titular": "Tribunal ambiental deja sin efecto millonaria multa por ruidos de obras en edificación de Las Condes",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/02/tribunal-ambiental-deja-sin-efecto-millonaria-multa-por-ruidos-de-obras-en-edificacion-de-las-condes.shtml",
+      "fecha": "2026-11-02",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "ADN Prensa",
+      "titular": "Segundo Tribunal Ambiental acogió reclamación procedimiento sancionatorio por ruidos instruido contra obras de edificación en las Condes",
+      "url": "https://adprensa.cl/segundo-tribunal-ambiental-acogio-reclamacion-procedimiento-sancionatorio-por-ruidos-instruido-contra-obras-de-edificacion-en-las-condes/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Atacama: SMA pone término a procedimiento sancionatorio contra minera",
+      "url": "https://www.mch.cl/atacama-sma-pone-termino-a-procedimiento-sancionatorio-contra-minera/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en octubre 2026",
+      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-octubre-2026/",
+      "fecha": "2026-11-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "REDIMIN",
-      "titular": "Australia identifica nuevo potencial de escandio en Nueva Gales del Sur y abre oportunidades para explorar un mineral estratégico",
-      "url": "https://www.redimin.cl/australia-identifica-nuevo-potencial-de-escandio-en-nueva-gales-del-sur-y-abre-oportunidades-para-explorar-un-mineral-estrategico",
+      "titular": "Mina de cobre de US$50 millones vuelve al SEIA tras reparos ambientales que frenaron su evaluación",
+      "url": "https://www.redimin.cl/mina-de-cobre-de-us-50-millones-vuelve-al-seia-tras-reparos-ambientales-que-frenaron-su-evaluacion",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA cierra procedimiento sancionatorio contra Minera Candelaria tras verificar cumplimiento de plan ambiental",
+      "url": "https://www.nuevamineria.com/revista/sma-cierra-procedimiento-sancionatorio-contra-minera-candelaria-tras-verificar-cumplimiento-de-plan-ambiental/",
+      "fecha": "2026-11-02",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Turquía se prepara para acoger la COP31 en Antalya, su capital del turismo de mar y playa",
+      "url": "https://efeverde.com/turquia-se-prepara-cop31-antalya-capital-turismo-playa/",
       "fecha": "2026-11-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La «acción humana», agravada por la desinformación, causa última de incendios forestales",
-      "url": "https://efeverde.com/la-accion-humana-agravada-por-la-desinformacion-causa-ultima-de-incendios-forestales/",
-      "fecha": "2026-10-31",
+      "titular": "La COP31 busca pasar de las promesas a los hechos ante una crisis climática ya desatada",
+      "url": "https://efeverde.com/cop31-turquia-promesas-hechos-crisis-climatica/",
+      "fecha": "2026-11-01",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Cartera de proyectos en evaluación ambiental de Atacama supera los US$7.300 millones",
+      "url": "https://www.portalminero.com/cartera-de-proyectos-en-evaluacion-ambiental-de-atacama-supera-los-us7300-millones",
+      "fecha": "2026-11-01",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
