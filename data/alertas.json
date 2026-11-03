@@ -1,147 +1,123 @@
 {
-  "fecha_generacion": "2026-11-02T17:49:21.479761-03:00",
-  "total_alertas": 12,
+  "fecha_generacion": "2026-11-03T15:25:00.225036-03:00",
+  "total_alertas": 10,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Victoria para vecinos de Pucón: Corte Suprema ratifica demolición de “tomas VIP” en humedal de Lago Villarrica",
-      "url": "https://www.terram.cl/el-desconcierto-victoria-para-vecinos-de-pucon-corte-suprema-ratifica-demolicion-de-tomas-vip-en-humedal-de-lago-villarrica/",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Corte Suprema ratificó la orden municipal de desmantelar construcciones ilegales sobre un humedal del Lago Villarrica, estableciendo un plazo de 45 días. Fuente: El Desconcierto, 30 de octubre de 2026.",
-      "keywords_detectadas": [
-        "Corte Suprema"
-      ]
-    },
-    {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental rechaza reclamación de la Municipalidad de Calama y mantiene multa por disposición de residuos no autorizados en depósito RESCON",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-rechaza-reclamacion-de-la-municipalidad-de-calama-y-mantiene-multa-por-disposicion-de-residuos-no-autorizados-en-deposito-rescon/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-rechaza-reclamacion-de-la-municipalidad-de-calama-y-mantiene-multa-por-disposicion-de-residuos-no-autorizados-en-deposito-rescon",
-      "fecha": "2026-11-02",
+      "titular": "Primer Tribunal Ambiental resuelve reclamación interpuesta por Junta de Vecinos El Molle contra Proyecto Minero Arqueros",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-resuelve-reclamacion-interpuesta-por-junta-de-vecinos-el-molle-contra-proyecto-minero-arqueros/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-resuelve-reclamacion-interpuesta-por-junta-de-vecinos-el-molle-contra-proyecto-minero-arqueros",
+      "fecha": "2026-11-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La sentencia, adoptada por mayoría, confirmó la sanción de 193 unidades tributarias anuales impuesta por la Superintendencia del Medio Ambiente. The post Primer Tribunal Ambiental rechaza reclamación de la Municipalidad de Calama y mantiene multa por",
+      "extracto": "La causa tiene origen en una acción de la Junta de Vecinos El Molle contra la Res. Ex. N° 20250410174, de 2025, dictada por la Comisión de Evaluación de Coquimbo,... The post Primer Tribunal Ambiental resuelve reclamación interpuesta por Junta de Vec",
       "keywords_detectadas": [
         "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental confirma rechazo del programa de cumplimiento de Terminal Puerto Coquimbo por emisiones de ruido durante obras de modernización",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-confirma-rechazo-del-programa-de-cumplimiento-de-terminal-puerto-coquimbo-por-emisiones-de-ruido-durante-obras-de-modernizacion/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-confirma-rechazo-del-programa-de-cumplimiento-de-terminal-puerto-coquimbo-por-emisiones-de-ruido-durante-obras-de-modernizacion",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Por mayoría, el Tribunal concluyó que la empresa no acreditó suficientemente que las medidas propuestas permitieran cumplir las exigencias ambientales. The post Primer Tribunal Ambiental confirma rechazo del programa de cumplimiento de Terminal Puert",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental escucha alegatos en reclamaciones de sindicatos contra la aprobación de modificaciones operacionales de la Minera Escondida",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-escucha-alegatos-en-reclamaciones-de-sindicatos-contra-la-aprobacion-de-modificaciones-operacionales-de-la-minera-escondida/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-escucha-alegatos-en-reclamaciones-de-sindicatos-contra-la-aprobacion-de-modificaciones-operacionales-de-la-minera-escondida",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El pasado miércoles 28 de octubre, el Primer Tribunal Ambiental escuchó alegatos de dos reclamaciones judiciales presentadas por el Sindicato N° 1 de Trabajadores de Minera Escondida y el Sindicato... The post Primer Tribunal Ambiental escucha alegat",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-34-2026 «Alto Maullín SPA con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-34-2026-alto-maullin-spa-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-34-2026 «Alto Maullín SPA con Superintendencia del Medio Ambiente», el martes 3 de noviembre, a las 9.00 hrs. Más anteced",
-      "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "SMA",
-      "titular": "Región de Atacama: SMA da por ejecutado con éxito Programa de Cumplimiento de Minera Candelaria y pone fin a proceso sancionatorio",
-      "url": "https://portal.sma.gob.cl/index.php/region-de-atacama-sma-da-por-ejecutado-con-exito-programa-de-cumplimiento-de-minera-candelaria-y-pone-fin-a-proceso-sancionatorio/",
-      "fecha": "2026-11-02",
+      "titular": "SMA suscribe convenio de ruidos con la Municipalidad de Los Vilos",
+      "url": "https://portal.sma.gob.cl/index.php/sma-suscribe-convenio-de-ruidos-con-la-municipalidad-de-los-vilos/",
+      "fecha": "2026-11-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las 16 acciones contempladas en el programa estuvieron orientadas a subsanar los seis cargos formulados en 2021 contra la faena ubicada en Tierra Amarilla. Entre las principales medidas destacaron el cese de suministro de agua desde la PTAS de Nueva ",
+      "extracto": "El acuerdo tiene por objeto fortalecer la fiscalización ambiental a nivel comunal, capacitar a funcionarios municipales en la aplicación del Decreto Supremo N°38/2011 del Ministerio del Medio Ambiente, entre otros compromisos. La Superintendencia del",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "BioBioChile",
-      "titular": "Tribunal ambiental deja sin efecto millonaria multa por ruidos de obras en edificación de Las Condes",
-      "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/02/tribunal-ambiental-deja-sin-efecto-millonaria-multa-por-ruidos-de-obras-en-edificacion-de-las-condes.shtml",
-      "fecha": "2026-11-02",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Segundo Tribunal Ambiental acogió reclamación procedimiento sancionatorio por ruidos instruido contra obras de edificación en las Condes",
-      "url": "https://adprensa.cl/segundo-tribunal-ambiental-acogio-reclamacion-procedimiento-sancionatorio-por-ruidos-instruido-contra-obras-de-edificacion-en-las-condes/",
-      "fecha": "2026-11-02",
+      "fuente": "La Tercera",
+      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
+      "url": "https://www.latercera.com/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
+      "fecha": "2026-11-03",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "…",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Atacama: SMA pone término a procedimiento sancionatorio contra minera",
-      "url": "https://www.mch.cl/atacama-sma-pone-termino-a-procedimiento-sancionatorio-contra-minera/",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La resolución se adoptó luego de verificar la ejecución satisfactoria de un programa que contempló 16 medidas correctivas en materias de gestión hídrica, tronaduras y control de vibraciones. La entrada Atacama: SMA pone término a procedimiento sancio",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA publica listado de Declaraciones de Impacto Ambiental presentadas en octubre 2026",
-      "url": "https://www.mch.cl/sea-publica-listado-de-declaraciones-de-impacto-ambiental-presentadas-en-octubre-2026/",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Estos proyectos han sido ingresados a evaluación ante las Comisiones de Evaluación Regionales o la Dirección Ejecutiva de la institución. La entrada SEA publica listado de Declaraciones de Impacto Ambiental presentadas en octubre 2026 se publicó prim",
+      "extracto": "Joaquín Cortez deslizó que el cuestionamiento \"no es tanto el haber utilizado derivados\", sino más bien \"haber configurado fondos con unas duraciones superiores a las que requerían esos afiliados”. Sobre las cifras nominales que han reportado las AFP",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Mina de cobre de US$50 millones vuelve al SEIA tras reparos ambientales que frenaron su evaluación",
-      "url": "https://www.redimin.cl/mina-de-cobre-de-us-50-millones-vuelve-al-seia-tras-reparos-ambientales-que-frenaron-su-evaluacion",
-      "fecha": "2026-11-02",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "COMIN S.A. busca desarrollar Mina Venus Marta en Tierra Amarilla, con una extracción proyectada de 21,6 millones de toneladas de mineral. La iniciativa retoma su tramitación después de un procedimiento terminado anticipadamente en 2023.",
+      "fuente": "El Dínamo",
+      "titular": "Fiscal Valencia descartó que denuncia contra Rabat sea por un \"error político\": \"No somos el ministerio de la rectitud\"",
+      "url": "https://www.eldinamo.cl/pais/2026/11/03/fiscal-valencia-descarto-que-denuncia-contra-rabat-sea-por-un-error-politico/",
+      "fecha": "2026-11-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "El fiscal nacional confirmó que Rabat está como imputado tras la denuncia que presentó el PS y el PC en su contra.",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "SMA cierra procedimiento sancionatorio contra Minera Candelaria tras verificar cumplimiento de plan ambiental",
-      "url": "https://www.nuevamineria.com/revista/sma-cierra-procedimiento-sancionatorio-contra-minera-candelaria-tras-verificar-cumplimiento-de-plan-ambiental/",
+      "fuente": "Diario Constitucional",
+      "titular": "Tribunal Ambiental deja sin efecto multa a constructora por ruidos molestos en Las Condes debido a errores en procedimiento sancionatorio",
+      "url": "https://www.diarioconstitucional.cl/ambiental/tribunal-ambiental-deja-sin-efecto-multa-a-constructora-por-ruidos-molestos-en-las-condes-debido-a-e",
+      "fecha": "2026-11-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal acogió la reclamación de Constructora Almahue S.A. y anuló las resoluciones de la Superintendencia del Medio Ambiente que impusieron una multa de 42 UTA, posteriormente rebajada a 34 UTA. Determinó que la autoridad no fundamentó técnicame",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
+      "url": "https://www.pulso.cl/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
+      "fecha": "2026-11-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
+      "url": "https://www.pulso.cl/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
+      "fecha": "2026-11-03",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Comité de Ministros confirma RCA favorable de parque eólico y proyecto portuario por US$4.250 millones",
+      "url": "https://www.revistaei.cl/comite-de-ministros-confirma-rca-favorable-de-parque-eolico-y-proyecto-portuario-por-us4-250-millones/",
+      "fecha": "2026-11-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa renovable contempla además una línea de transmisión de 220 kV de 23 km de largo y un sistema de almacenamiento de energía de baterías. La entrada Comité de Ministros confirma RCA favorable de parque eólico y proyecto portuario por US$4.",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA publica 18 proyectos ingresados en octubre y abre plazo para solicitar participación ciudadana",
+      "url": "https://www.redimin.cl/sea-publica-18-proyectos-ingresados-en-octubre-y-abre-plazo-para-solicitar-participacion-ciudadana",
+      "fecha": "2026-11-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El listado oficial incluye iniciativas mineras, energéticas, portuarias y acuícolas, además de proyectos habitacionales. La publicación del 2 de noviembre activa el período para solicitar procesos de participación ciudadana.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "Minera Candelaria completa medidas ambientales comprometidas ante la SMA",
+      "url": "https://www.portalminero.com/minera-candelaria-completa-medidas-ambientales-comprometidas-ante-la-sma",
       "fecha": "2026-11-02",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La compañía ejecutó 16 acciones correctivas, con una inversión comprometida de $750,9 millones, para abordar seis cargos formulados en 2021 por incumplimientos relacionados con el uso de agua, tronaduras y obligaciones de monitoreo ambiental. La Supe",
+      "extracto": "El programa consideró ajustes operacionales en el uso de explosivos, el cese del suministro de agua desde una planta de tratamiento y la implementación de monitoreo continuo de vibraciones, entre otras acciones.",
       "keywords_detectadas": [
         "SMA"
       ]
