@@ -1,125 +1,77 @@
 {
-  "fecha_generacion": "2026-11-03T15:25:00.225036-03:00",
-  "total_alertas": 10,
+  "fecha_generacion": "2026-11-04T15:39:03.364176-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental resuelve reclamación interpuesta por Junta de Vecinos El Molle contra Proyecto Minero Arqueros",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-resuelve-reclamacion-interpuesta-por-junta-de-vecinos-el-molle-contra-proyecto-minero-arqueros/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-resuelve-reclamacion-interpuesta-por-junta-de-vecinos-el-molle-contra-proyecto-minero-arqueros",
-      "fecha": "2026-11-03",
+      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental (N°10)",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10",
+      "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La causa tiene origen en una acción de la Junta de Vecinos El Molle contra la Res. Ex. N° 20250410174, de 2025, dictada por la Comisión de Evaluación de Coquimbo,... The post Primer Tribunal Ambiental resuelve reclamación interpuesta por Junta de Vec",
+      "extracto": "El Primer Tribunal Ambiental informa que ya está disponible el N° 10-2026 de su Boletín de Actualidad Ambiental. La edición de este mes contiene información ambiental relevante de lo ocurrido... The post Primer Tribunal Ambiental publica nuevo número",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA suscribe convenio de ruidos con la Municipalidad de Los Vilos",
-      "url": "https://portal.sma.gob.cl/index.php/sma-suscribe-convenio-de-ruidos-con-la-municipalidad-de-los-vilos/",
-      "fecha": "2026-11-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El acuerdo tiene por objeto fortalecer la fiscalización ambiental a nivel comunal, capacitar a funcionarios municipales en la aplicación del Decreto Supremo N°38/2011 del Ministerio del Medio Ambiente, entre otros compromisos. La Superintendencia del",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
-      "url": "https://www.latercera.com/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
-      "fecha": "2026-11-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Joaquín Cortez deslizó que el cuestionamiento \"no es tanto el haber utilizado derivados\", sino más bien \"haber configurado fondos con unas duraciones superiores a las que requerían esos afiliados”. Sobre las cifras nominales que han reportado las AFP",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Dínamo",
-      "titular": "Fiscal Valencia descartó que denuncia contra Rabat sea por un \"error político\": \"No somos el ministerio de la rectitud\"",
-      "url": "https://www.eldinamo.cl/pais/2026/11/03/fiscal-valencia-descarto-que-denuncia-contra-rabat-sea-por-un-error-politico/",
-      "fecha": "2026-11-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "El fiscal nacional confirmó que Rabat está como imputado tras la denuncia que presentó el PS y el PC en su contra.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Tribunal Ambiental deja sin efecto multa a constructora por ruidos molestos en Las Condes debido a errores en procedimiento sancionatorio",
-      "url": "https://www.diarioconstitucional.cl/ambiental/tribunal-ambiental-deja-sin-efecto-multa-a-constructora-por-ruidos-molestos-en-las-condes-debido-a-e",
-      "fecha": "2026-11-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tribunal acogió la reclamación de Constructora Almahue S.A. y anuló las resoluciones de la Superintendencia del Medio Ambiente que impusieron una multa de 42 UTA, posteriormente rebajada a 34 UTA. Determinó que la autoridad no fundamentó técnicame",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
-      "url": "https://www.pulso.cl/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
-      "fecha": "2026-11-03",
+      "fuente": "Diario Financiero",
+      "titular": "Al menos US$ 200 millones en proyectos salmoneros con RCA aprobada siguen paralizados en Magallanes",
+      "url": "https://www.df.cl/empresas/industria/al-menos-us-200-millones-en-proyectos-salmoneros-con-rca-aprobada-siguen",
+      "fecha": "2026-11-04",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
       "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Superintendente de Pensiones y polémica por Fondo E: “No pienso que esta sea una crisis de los derivados”",
-      "url": "https://www.pulso.cl/pulso/noticia/superintendente-de-pensiones-y-polemica-por-fondo-e-no-pienso-que-esta-sea-una-crisis-de-los-derivados/",
-      "fecha": "2026-11-03",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Comité de Ministros confirma RCA favorable de parque eólico y proyecto portuario por US$4.250 millones",
-      "url": "https://www.revistaei.cl/comite-de-ministros-confirma-rca-favorable-de-parque-eolico-y-proyecto-portuario-por-us4-250-millones/",
-      "fecha": "2026-11-03",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa renovable contempla además una línea de transmisión de 220 kV de 23 km de largo y un sistema de almacenamiento de energía de baterías. La entrada Comité de Ministros confirma RCA favorable de parque eólico y proyecto portuario por US$4.",
       "keywords_detectadas": [
         "RCA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA publica 18 proyectos ingresados en octubre y abre plazo para solicitar participación ciudadana",
-      "url": "https://www.redimin.cl/sea-publica-18-proyectos-ingresados-en-octubre-y-abre-plazo-para-solicitar-participacion-ciudadana",
-      "fecha": "2026-11-03",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental escucha reclamaciones sindicales contra aprobación de proyecto de Minera Escondida",
+      "url": "https://www.mch.cl/tribunal-ambiental-escucha-reclamaciones-sindicales-contra-aprobacion-de-proyecto-de-minera-escondida/",
+      "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El listado oficial incluye iniciativas mineras, energéticas, portuarias y acuícolas, además de proyectos habitacionales. La publicación del 2 de noviembre activa el período para solicitar procesos de participación ciudadana.",
+      "extracto": "Las acciones cuestionan la evaluación de los efectos de las emisiones atmosféricas en los campamentos mineros y la consideración de los riesgos para la salud de los trabajadores. La entrada Tribunal Ambiental escucha reclamaciones sindicales contra a",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Portal Minero",
-      "titular": "Minera Candelaria completa medidas ambientales comprometidas ante la SMA",
-      "url": "https://www.portalminero.com/minera-candelaria-completa-medidas-ambientales-comprometidas-ante-la-sma",
-      "fecha": "2026-11-02",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Filial de Innergex reingresa al SEIA central hidroeléctrica por US$420 millones para la Región del Biobío",
+      "url": "https://www.revistaei.cl/filial-de-innergex-reingresa-al-seia-central-hidroelectrica-por-us420-millones-para-la-region-del-biobio/",
+      "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El programa consideró ajustes operacionales en el uso de explosivos, el cese del suministro de agua desde una planta de tratamiento y la implementación de monitoreo continuo de vibraciones, entre otras acciones.",
+      "extracto": "El proyecto ya había sido presentado al sistema de evaluación ambiental en 2022, pero sus dos procesos anteriores finalizaron sin obtener una calificación. La entrada Filial de Innergex reingresa al SEIA central hidroeléctrica por US$420 millones par",
       "keywords_detectadas": [
-        "SMA"
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental rechaza reclamación vecinal y mantiene vigente permiso del proyecto minero Arqueros",
+      "url": "https://www.redimin.cl/tribunal-ambiental-rechaza-reclamacion-vecinal-y-mantiene-vigente-permiso-del-proyecto-minero-arqueros",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Junta de Vecinos El Molle cuestionaba la evaluación ambiental de una línea eléctrica en el Valle de Elqui. El fallo descartó impactos significativos sobre el paisaje y el turismo.",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "18/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental», Rol: R-53-2026",
+      "url": "https://3ta.cl/audiencias/18-11-2026-fija-audiencia-en-caso-de-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
+      "fecha": "2026-11-03",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 18/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
       ]
     }
   ]
