@@ -1,333 +1,333 @@
 {
-  "fecha_actualizacion": "2026-11-04T15:39:03.348368-03:00",
+  "fecha_actualizacion": "2026-11-05T16:00:41.251938-03:00",
   "total": 41,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Debate por modificaciones a la Ley Chao Bolsas Plásticas deja en evidencia las debilidades del modelo “reutilizable”",
-      "url": "https://www.paiscircular.cl/reutilizacion/debate-por-modificaciones-a-la-ley-chao-bolsas-plasticas-deja-en-evidencia-las-debilidades-del-modelo-reutilizable/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Chile recibe nueva donación de Fundación Rewilding Chile para concretar el Parque Nacional Cabo Froward en Magallanes",
-      "url": "https://www.chiledesarrollosustentable.cl/chile-recibe-nueva-donacion-de-fundacion-rewilding-chile-para-concretar-el-parque-nacional-cabo-froward-en-magallanes/?utm_source=rss&utm_medium=rss&utm_campaign=chile-recibe-nueva-donacion-de-fundacion-rewilding-chile-para-concretar-el-parque-nacional-cabo-froward-en-magallanes",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Piden revocar permiso a megaproyecto de hidrógeno verde en Magallanes, lo piden expertos de Santiago y empresario local",
-      "url": "https://www.chiledesarrollosustentable.cl/piden-revocar-permiso-a-megaproyecto-de-hidrogeno-verde-en-magallanes-lo-piden-expertos-de-santiago-y-empresario-local/?utm_source=rss&utm_medium=rss&utm_campaign=piden-revocar-permiso-a-megaproyecto-de-hidrogeno-verde-en-magallanes-lo-piden-expertos-de-santiago-y-empresario-local",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación impulsa el Proyecto Paleontológico de Atacama junto a expertos internacionales",
-      "url": "https://www.chiledesarrollosustentable.cl/ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion-impulsa-el-proyecto-paleontologico-de-atacama-junto-a-expertos-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-ciencia-tecnologia-conocimiento-e-innovacion-impulsa-el-proyecto-paleontologico-de-atacama-junto-a-expertos-internacionales",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Fragata portuguesa en las costas chilenas: qué explica su aparición y cuáles son sus riesgos",
-      "url": "https://codexverde.cl/fragata-portuguesa-en-las-costas-chilenas-que-explica-su-aparicion-y-cuales-son-sus-riesgos/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Reinyección de salmueras de litio: una discusión pendiente para la sostenibilidad de la DLE",
-      "url": "https://codexverde.cl/reinyeccion-de-salmueras-de-litio-una-discusion-pendiente-para-la-sostenibilidad-de-la-dle/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La comisión de Medioambiente de la Eurocámara respalda suavizar las exigencias de CO2 para los coches en 2035",
-      "url": "https://efeverde.com/comision-medioambiente-eurocamara-respalda-suavizar-exigencias-co2-para-coches-en-2035/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La sequía y la escasez de presas llevan al lince a depredar crías de aves rapaces en Doñana",
-      "url": "https://efeverde.com/sequia-y-escasez-de-presas-llevan-al-lince-a-depredar-crias-de-aves-rapaces-en-donana/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Animales de compañía, inundaciones y noticias verdes en Mangas Verdes 504",
-      "url": "https://efeverde.com/animales-compania-inundaciones-noticias-verdes-mangas-verdes-504/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cubomedusas. Por May",
-      "url": "https://efeverde.com/cubomedusas-medusas-may-mundomay/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Comisión Europea revisará en 2027 las directivas de Aves y Hábitats, máximas protectoras de la naturaleza en la UE",
-      "url": "https://efeverde.com/la-comision-europea-revisara-en-2027-las-directivas-de-aves-y-habitats-maximas-protectoras-de-la-naturaleza-en-la-ue/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La 42 edición de BioCultura Madrid espera recibir unos 55.000 visitantes",
-      "url": "https://efeverde.com/42-edicion-de-biocultura-madrid/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El BCE pide actuar ante las consecuencias económicas del cambio climático tras un verano abrasador",
-      "url": "https://efeverde.com/bce-consecuencias-economicas-cambio-climatico/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más de 700 científicos piden a la Comisión Europea que no debilite la protección de la naturaleza",
-      "url": "https://efeverde.com/cientificos-piden-comision-europea-que-no-debilite-proteccion-naturaleza/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Cabañeros alberga once abedulares que son auténticas reliquias de la flora septentrional",
-      "url": "https://efeverde.com/cabaneros-alberga-abedulares-reliquias-de-flora-septentrional/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La sostenibilidad empresarial y la transición energética reclaman cambios en la formación universitaria",
-      "url": "https://efeverde.com/sostenibilidad-empresarial-y-transicion-energetica-reclaman-cambios-en-formacion-universitaria/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La salud infantil también se decide en el comedor escolar. Por Oriol Urrutia",
-      "url": "https://efeverde.com/la-salud-infantil-tambien-se-decide-en-el-comedor-escolar-por-oriol-urrutia/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los países pobres solo reciben una décima parte del dinero que necesitan para adaptarse al cambio climático",
-      "url": "https://efeverde.com/paises-pobres-reciben-decima-parte-necesitan-adaptarse-cambio-climatico/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Puede la COP31 impulsar una transición justa en un mundo fragmentado? Por Florencia Ortúzar Greene",
-      "url": "https://efeverde.com/puede-la-cop31-impulsar-una-transicion-justa-en-un-mundo-fragmentado-por-florencia-ortuzar-greene/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "China defenderá el multilateralismo en la COP31",
-      "url": "https://efeverde.com/china-defendera-el-multilateralismo-en-la-cop31/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La OMS señala seis medidas climáticas para salvar 1,6 millones de vidas al año",
-      "url": "https://efeverde.com/la-oms-senala-seis-medidas-climaticas-para-salvar-16-millones-de-vidas-al-ano/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El documental ‘Christiania’ recupera la historia y las contradicciones de esa comunidad autogestionada de Copenhague",
-      "url": "https://efeverde.com/el-documental-christiania-recupera-la-historia-y-las-contradicciones-de-esa-comunidad-autogestionada-de-copenhague/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Tercera] Ministro de Agricultura anuncia veto sustitutivo a proyecto que regula prevención de incendios forestales",
-      "url": "https://www.terram.cl/la-tercera-ministro-de-agricultura-anuncia-veto-sustitutivo-a-proyecto-que-regula-prevencion-de-incendios-forestales/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] Chile: comunidad de Juan Fernández pelea decisión del gobierno de Kast contra la creación de dos áreas protegidas marinas",
-      "url": "https://www.terram.cl/mongabay-chile-comunidad-de-juan-fernandez-pelea-decision-del-gobierno-de-kast-contra-la-creacion-de-dos-areas-protegidas-marinas/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Tercera – Pulso] Expertos de Santiago y empresario local piden revocar permiso a megaproyecto de hidrógeno verde en Magallanes",
-      "url": "https://www.terram.cl/la-tercera-pulso-expertos-de-santiago-y-empresario-local-piden-revocar-permiso-a-megaproyecto-de-hidrogeno-verde-en-magallanes/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Proyecto de 20 edificios en suelo contaminado de Viña del Mar reaviva alertas ciudadanas y municipales",
-      "url": "https://www.terram.cl/proyecto-de-20-edificios-en-suelo-contaminado-de-vina-del-mar-reaviva-alertas-ciudadanas-y-municipales/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Prensa Austral] Gobierno Regional se pronuncia en contra del proyecto portuario Otway por omisiones en declaración de impacto ambiental",
-      "url": "https://www.terram.cl/la-prensa-austral-gobierno-regional-se-pronuncia-en-contra-del-proyecto-portuario-otway-por-omisiones-en-declaracion-de-impacto-ambiental/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Dispositivos acústicos rastrearán al pidencito en humedales para asegurar su conservación",
-      "url": "https://www.terram.cl/cooperativa-ciencia-dispositivos-acusticos-rastrearan-al-pidencito-en-humedales-para-asegurar-su-conservacion/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "FIMA",
-      "titular": "Quebradas y tornados",
-      "url": "https://www.fima.cl/2026/11/04/quebradas-y-tornados/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental (N°10)",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente realiza seminario para la protección del Picaflor de Arica",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-realiza-seminario-para-la-proteccion-del-picaflor-de-arica/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Implementan campaña pionera de reciclaje en el Hospital Dr. Franco Ravera Zunino",
-      "url": "https://mma.gob.cl/implementan-campana-pionera-de-reciclaje-en-el-hospital-dr-franco-ravera-zunino/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Negociador iraní: los estadounidenses votaron “no a la guerra” en las elecciones de medio mandato",
-      "url": "https://www.latercera.com/mundo/noticia/negociador-irani-los-estadounidenses-votaron-no-a-la-guerra-en-las-elecciones-de-medio-mandato/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Al menos US$ 200 millones en proyectos salmoneros con RCA aprobada siguen paralizados en Magallanes",
-      "url": "https://www.df.cl/empresas/industria/al-menos-us-200-millones-en-proyectos-salmoneros-con-rca-aprobada-siguen",
-      "fecha": "2026-11-04",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental escucha reclamaciones sindicales contra aprobación de proyecto de Minera Escondida",
-      "url": "https://www.mch.cl/tribunal-ambiental-escucha-reclamaciones-sindicales-contra-aprobacion-de-proyecto-de-minera-escondida/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Filial de Innergex reingresa al SEIA central hidroeléctrica por US$420 millones para la Región del Biobío",
-      "url": "https://www.revistaei.cl/filial-de-innergex-reingresa-al-seia-central-hidroelectrica-por-us420-millones-para-la-region-del-biobio/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental rechaza reclamación vecinal y mantiene vigente permiso del proyecto minero Arqueros",
-      "url": "https://www.redimin.cl/tribunal-ambiental-rechaza-reclamacion-vecinal-y-mantiene-vigente-permiso-del-proyecto-minero-arqueros",
-      "fecha": "2026-11-04",
+      "titular": "Martín Astorga, abogado especialista, analiza reformas ambientales contenidas en la Ley de Reconstrucción Nacional",
+      "url": "https://www.paiscircular.cl/medio-ambiente/martin-astorga-abogado-especialista-analiza-reformas-ambientales-contenidas-en-la-ley-de-reconstruccion-nacional/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Análisis CR2 | ¡Un Niño histórico! ¿Un verano extremo?",
-      "url": "https://www.cr2.cl/un-nino-historico-un-verano-extremo/",
-      "fecha": "2026-11-03",
+      "titular": "María Fernanda García, especialista en calidad del aire: “La ciencia tiene que estar en contacto permanente con las instituciones públicas”",
+      "url": "https://www.cr2.cl/maria-fernanda-garcia-especialista-en-calidad-del-aire-la-ciencia-tiene-que-estar-en-contacto-permanente-con-las-instituciones-publicas/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los glaciares del Pirineo sufren su tercera mayor pérdida de espesor desde 2012",
-      "url": "https://efeverde.com/glaciares-pirineo-sufren-su-tercera-mayor-perdida-de-espesor-desde-2012/",
-      "fecha": "2026-11-03",
+      "titular": "La gigantesca isla de plástico del Pacífico está provocando un cambio de color del agua",
+      "url": "https://efeverde.com/isla-plastico-pacifico-cambio-de-color-del-agua/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los países de la OCDE se alejan de sus metas climáticas con las emisiones globales en máximos",
+      "url": "https://efeverde.com/paises-ocde-alejan-metas-climaticas-emisiones-record/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Retos de Latinoamérica rumbo a la COP31: Financiación, transición energética y Amazonía",
+      "url": "https://efeverde.com/retos-de-latinoamerica-rumbo-a-la-cop31/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La mayoría de españoles rechaza la autorización del uso de pesticidas por tiempo ilimitado",
+      "url": "https://efeverde.com/mayoria-espanoles-rechaza-autorizacion-del-uso-de-pesticidas-por-tiempo-ilimitado/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Los españoles pagaron 27.710 millones en impuestos ambientales en 2025, un 7,5 % más que un año antes",
+      "url": "https://efeverde.com/impuestos-verdes-27-710-millones-en-2025/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El gran error de la sostenibilidad turística: confundir rentabilidad con ventas. Por Arturo Crosby",
+      "url": "https://efeverde.com/el-gran-error-de-la-sostenibilidad-turistica-confundir-rentabilidad-con-ventas-por-arturo-crosby/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ecologistas y conservacionistas cargan contra la revisón de las directivas de Aves y Habitats",
+      "url": "https://efeverde.com/ecologistas-y-conservacionistas-cargan-contra-la-revison-de-las-directivas-de-aves-y-habitats/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Más de 1.200 sanitarios reclaman a la UE medidas vinculantes para combatir el calor extremo",
+      "url": "https://efeverde.com/mas-de-1-200-sanitarios-reclaman-a-la-ue-medidas-vinculantes-para-combatir-el-calor-extremo/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ofensiva legal en Europa contra la cárnica JBS y sus socios por la deforestación de la Amazonía",
+      "url": "https://efeverde.com/ofensiva-legal-en-europa-contra-la-carnica-jbs-y-sus-socios-por-la-deforestacion-de-la-amazonia/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Coface: la sequía es un problema económico de primer orden y hay que adaptarse a convivir con ella",
+      "url": "https://efeverde.com/coface-la-sequia-es-un-problema-economico-de-primer-orden-y-hay-que-adaptarse-a-convivir-con-ella/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Melerus: «No hay que esperar a que otros protejan la naturaleza por ti»",
+      "url": "https://efeverde.com/melerus-no-hay-que-esperar-a-que-otros-protejan-la-naturaleza-por-ti/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[La Nueva Mirada] OCDE: Territorios y Ciudades Mineras 2026 sin espacio cívico",
+      "url": "https://www.terram.cl/la-nueva-mirada-ocde-territorios-y-ciudades-mineras-2026-sin-espacio-civico/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ladera Sur] DECLARACIÓN | Fundación Cosmos: decisión del Comité de Ministros pone en riesgo el Santuario Humedal Río Maipo y la resiliencia de todo el territorio",
+      "url": "https://www.terram.cl/ladera-sur-declaracion-fundacion-cosmos-decision-del-comite-de-ministros-pone-en-riesgo-el-santuario-humedal-rio-maipo-y-la-resiliencia-de-todo-el-territorio/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Sala de Prensa] Pese a oposición de vecinos y municipio autorizan la instalación de casi 100 mil paneles solares en la turística comuna de Antuco",
+      "url": "https://www.terram.cl/sala-de-prensa-pese-a-oposicion-de-vecinos-y-municipio-autorizan-la-instalacion-de-casi-100-mil-paneles-solares-en-la-turistica-comuna-de-antuco/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Magallanes: Futuro Parque Cabo Froward se expande a 183 mil hectáreas que protegerán al huemul y ciprés",
+      "url": "https://www.terram.cl/el-desconcierto-magallanes-futuro-parque-cabo-froward-se-expande-a-183-mil-hectareas-que-protegeran-al-huemul-y-cipres/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Polémica por carrera de 10 mil patitos de hule en Lago Llanquihue: advierten riesgos ambientales",
+      "url": "https://www.terram.cl/biobiochile-cl-polemica-por-carrera-de-10-mil-patitos-de-hule-en-lago-llanquihue-advierten-riesgos-ambientales/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Mostrador] Día de la Fauna Chilena en el MIM",
+      "url": "https://www.terram.cl/el-mostrador-dia-de-la-fauna-chilena-en-el-mim/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "18/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental», Rol: R-53-2026",
-      "url": "https://3ta.cl/audiencias/18-11-2026-fija-audiencia-en-caso-de-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
-      "fecha": "2026-11-03",
+      "titular": "Transmisión audiencia causa R-16-2026 Asociación de Transmisores de Chile A.G y otro con MMA-Fisco de Chile",
+      "url": "https://3ta.cl/sin-categoria/transmision-audiencia-causa-r-16-2026-asociacion-de-transmisores-de-chile-a-g-y-otro-con-mma-fisco-de-chile/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Destacan el valor ecológico de la Reserva de la Biosfera de Ñuble",
-      "url": "https://mma.gob.cl/destacan-el-valor-ecologico-de-la-reserva-de-la-biosfera-de-nuble/",
-      "fecha": "2026-11-03",
+      "titular": "Ministerio de Medio Ambiente participa del XIII Congreso CORESUR NORTE",
+      "url": "https://mma.gob.cl/ministerio-de-medio-ambiente-participa-del-xiii-congreso-coresur-norte/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerios de Salud, Medio Ambiente, Economía y Agricultura forman mesa intersectorial para delinear acción frente a las amenazas sanitarias del futuro",
+      "url": "https://mma.gob.cl/ministerios-de-salud-medio-ambiente-economia-y-agricultura-forman-mesa-intersectorial-para-delinear-accion-frente-a-las-amenazas-sanitarias-del-futuro/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente y Dirección General de Aguas lideran campaña de monitoreo del sistema lacustre Lago Vichuquén",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-y-direccion-general-de-aguas-lideran-campana-de-monitoreo-del-sistema-lacustre-lago-vichuquen/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Estudiantes de la Escuela de Olmué confeccionan mural educativo sobre gruñidores de la zona central",
+      "url": "https://mma.gob.cl/estudiantes-de-la-escuela-de-olmue-confeccionan-mural-educativo-sobre-grunidores-de-la-zona-central/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Emol",
+      "titular": "SMA investiga derrame de relaves en Codelco: \"Se está verificando aplicación de planes de contingencia\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/11/05/1216228/medio-ambiente-sma-codelco-relave.html",
+      "fecha": "2026-11-05",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Territoria invertirá US$15,5 millones en el Proyecto Mercado La Bolsa",
+      "url": "https://www.latercera.com/pulso/noticia/territoria-invertira-us155-millones-en-el-proyecto-mercado-la-bolsa/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Gremios rechazan que la minería sea un “lastre” y llaman a impulsar su reactivación",
+      "url": "https://www.nuevamineria.com/revista/gremios-rechazan-que-la-mineria-sea-un-lastre-y-llaman-a-impulsar-su-reactivacion/",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
+      "url": "https://www.paiscircular.cl/medio-ambiente/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Fimas 2026 busca transformar las pérdidas de alimentos en nuevas oportunidades para Chile",
+      "url": "https://www.paiscircular.cl/medio-ambiente/fimas-2026-busca-transformar-las-perdidas-de-alimentos-en-nuevas-oportunidades/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Investigaciones chilenas buscan recuperar más agua y mejorar la seguridad de los depósitos de relaves mineros",
+      "url": "https://codexverde.cl/investigaciones-chilenas-buscan-recuperar-mas-agua-y-mejorar-la-seguridad-de-los-depositos-de-relaves-mineros/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Tecnología bioacústica permitirá monitorear a una pequeña ave de humedal amenazada en el Río Maipo",
+      "url": "https://codexverde.cl/tecnologia-bioacustica-permitira-monitorear-a-una-pequena-ave-de-humedal-amenazada-en-el-rio-maipo/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Juez confirma el archivo del caso de los pozos de la Casa de Alba en el entorno de Doñana",
+      "url": "https://efeverde.com/juez-confirma-archivo-caso-de-los-pozos-de-la-casa-de-alba-en-entorno-de-donana/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "12/11/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/12-11-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "15/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/15-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "17/11/2026: Fija audiencia en caso de » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «, Rol: R-32-2026",
+      "url": "https://3ta.cl/audiencias/17-11-2026-fija-audiencia-en-caso-de-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF destina $25.570 millones para enfrentar incendios forestales en la Región del Biobío",
+      "url": "https://www.conaf.cl/conaf-destina-25-570-millones-para-enfrentar-incendios-forestales-en-la-region-del-biobio/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-destina-25-570-millones-para-enfrentar-incendios-forestales-en-la-region-del-biobio",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Estudiante de Nueva Imperial obtiene el primer lugar nacional en concurso ambiental “Hábitos que transforman”",
+      "url": "https://mma.gob.cl/estudiante-de-nueva-imperial-obtiene-el-primer-lugar-nacional-en-concurso-ambiental-habitos-que-transforman/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "FAO y SEREMI del Medio Ambiente lanzan curso virtual de educación ambiental marino costera abierto a toda la ciudadanía",
+      "url": "https://mma.gob.cl/fao-y-seremi-del-medio-ambiente-lanzan-curso-virtual-de-educacion-ambiental-marino-costera-abierto-a-toda-la-ciudadania-2/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "FAO y Seremi del Medio Ambiente lanzan curso virtual de educación ambiental marino costera abierto a toda la ciudadanía",
+      "url": "https://mma.gob.cl/fao-y-seremi-del-medio-ambiente-lanzan-curso-virtual-de-educacion-ambiental-marino-costera-abierto-a-toda-la-ciudadania/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministerio del Medio Ambiente lanza Programa Nacional de Fortalecimiento de Recicladores de Base",
+      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-lanza-programa-nacional-de-fortalecimiento-de-recicladores-de-base/",
+      "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

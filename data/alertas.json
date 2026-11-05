@@ -1,77 +1,92 @@
 {
-  "fecha_generacion": "2026-11-04T15:39:03.364176-03:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-11-05T16:00:41.264823-03:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental publica nuevo número de su Boletín de Actualidad Ambiental (N°10)",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-publica-nuevo-numero-de-su-boletin-de-actualidad-ambiental-n10",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental informa que ya está disponible el N° 10-2026 de su Boletín de Actualidad Ambiental. La edición de este mes contiene información ambiental relevante de lo ocurrido... The post Primer Tribunal Ambiental publica nuevo número",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Diario Financiero",
-      "titular": "Al menos US$ 200 millones en proyectos salmoneros con RCA aprobada siguen paralizados en Magallanes",
-      "url": "https://www.df.cl/empresas/industria/al-menos-us-200-millones-en-proyectos-salmoneros-con-rca-aprobada-siguen",
-      "fecha": "2026-11-04",
+      "fuente": "Emol",
+      "titular": "SMA investiga derrame de relaves en Codelco: \"Se está verificando aplicación de planes de contingencia\"",
+      "url": "https://www.emol.com/noticias/Nacional/2026/11/05/1216228/medio-ambiente-sma-codelco-relave.html",
+      "fecha": "2026-11-05",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "extracto": "14:13 |Los equipos están coordinando una fiscalización en terreno.",
       "keywords_detectadas": [
-        "RCA"
+        "SMA",
+        "derrame"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental escucha reclamaciones sindicales contra aprobación de proyecto de Minera Escondida",
-      "url": "https://www.mch.cl/tribunal-ambiental-escucha-reclamaciones-sindicales-contra-aprobacion-de-proyecto-de-minera-escondida/",
-      "fecha": "2026-11-04",
+      "fuente": "Nueva Minería",
+      "titular": "Gremios rechazan que la minería sea un “lastre” y llaman a impulsar su reactivación",
+      "url": "https://www.nuevamineria.com/revista/gremios-rechazan-que-la-mineria-sea-un-lastre-y-llaman-a-impulsar-su-reactivacion/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las acciones cuestionan la evaluación de los efectos de las emisiones atmosféricas en los campamentos mineros y la consideración de los riesgos para la salud de los trabajadores. La entrada Tribunal Ambiental escucha reclamaciones sindicales contra a",
+      "extracto": "Agrumin y Sonami defendieron el aporte económico y territorial del sector frente a los cuestionamientos de Hacienda por su desempeño productivo. El biministro Daniel Mas también manifestó su desacuerdo con el calificativo. El debate sobre la caída de",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Filial de Innergex reingresa al SEIA central hidroeléctrica por US$420 millones para la Región del Biobío",
-      "url": "https://www.revistaei.cl/filial-de-innergex-reingresa-al-seia-central-hidroelectrica-por-us420-millones-para-la-region-del-biobio/",
+      "fuente": "País Circular",
+      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
+      "url": "https://www.paiscircular.cl/medio-ambiente/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
       "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El proyecto ya había sido presentado al sistema de evaluación ambiental en 2022, pero sus dos procesos anteriores finalizaron sin obtener una calificación. La entrada Filial de Innergex reingresa al SEIA central hidroeléctrica por US$420 millones par",
+      "extracto": "Los procedimientos sancionatorios involucran a la Compañía Minera Tridente, cuya operación se ubica dentro del Santuario de la Naturaleza Humedal Desembocadura del Río Biobío (Hualpén), y a la Constructora Río Negro S.A. en el sector La Vara (Puerto ",
       "keywords_detectadas": [
+        "SMA",
         "SEIA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental rechaza reclamación vecinal y mantiene vigente permiso del proyecto minero Arqueros",
-      "url": "https://www.redimin.cl/tribunal-ambiental-rechaza-reclamacion-vecinal-y-mantiene-vigente-permiso-del-proyecto-minero-arqueros",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "12/11/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/12-11-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
       "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Junta de Vecinos El Molle cuestionaba la evaluación ambiental de una línea eléctrica en el Valle de Elqui. El fallo descartó impactos significativos sobre el paisaje y el turismo.",
+      "extracto": "Supendida audiencia de fecha 12/11/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "18/11/2026: Fija audiencia en caso de «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental», Rol: R-53-2026",
-      "url": "https://3ta.cl/audiencias/18-11-2026-fija-audiencia-en-caso-de-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental-rol-r-53-2026/",
-      "fecha": "2026-11-03",
+      "titular": "15/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
+      "url": "https://3ta.cl/audiencias/15-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
+      "fecha": "2026-11-04",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 18/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "extracto": "Se fija audiencia con fecha 15/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "17/11/2026: Fija audiencia en caso de » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «, Rol: R-32-2026",
+      "url": "https://3ta.cl/audiencias/17-11-2026-fija-audiencia-en-caso-de-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 17/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
         "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
+      "fecha": "2026-11-04",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los procedimientos sancionatorios involucran a la Compañía Minera Tridente, cuya operación se ubica dentro del Santuario de la Naturaleza Humedal Desembocadura del Río Biobío (Hualpén), y a la Constructora Río Negro S.A. en el sector La Vara (Puerto ",
+      "keywords_detectadas": [
+        "SMA",
+        "SEIA"
       ]
     }
   ]
