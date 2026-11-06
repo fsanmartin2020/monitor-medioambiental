@@ -1,92 +1,90 @@
 {
-  "fecha_generacion": "2026-11-05T16:00:41.264823-03:00",
+  "fecha_generacion": "2026-11-06T15:02:20.589745-03:00",
   "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Emol",
-      "titular": "SMA investiga derrame de relaves en Codelco: \"Se está verificando aplicación de planes de contingencia\"",
-      "url": "https://www.emol.com/noticias/Nacional/2026/11/05/1216228/medio-ambiente-sma-codelco-relave.html",
-      "fecha": "2026-11-05",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "14:13 |Los equipos están coordinando una fiscalización en terreno.",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SMA requiere antecedentes a Codelco e inicia fiscalización en División Andina tras incidente con relaves",
+      "url": "https://www.mch.cl/sma-requiere-antecedentes-a-codelco-e-inicia-fiscalizacion-en-division-andina-tras-incidente-con-relaves/",
+      "fecha": "2026-11-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Organismo fijó plazos de 2 y 5 días hábiles para la entrega de antecedentes técnicos. La entrada SMA requiere antecedentes a Codelco e inicia fiscalización en División Andina tras incidente con relaves se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA formula cargos por extracción de más de 50.000 m³ de áridos en santuario natural del Biobío",
+      "url": "https://www.redimin.cl/sma-formula-cargos-por-extraccion-de-mas-de-50-000-m-de-aridos-en-santuario-natural-del-biobio",
+      "fecha": "2026-11-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Compañía Minera Tridente enfrenta dos cargos por operar sin evaluación ambiental e incumplir una orden de ingreso al SEIA. La autoridad también investiga una faena en Puerto Montt que afectó vegetación nativa.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA fiscaliza derrame de relaves en División Andina y exige antecedentes técnicos a Codelco",
+      "url": "https://www.nuevamineria.com/revista/sma-fiscaliza-derrame-de-relaves-en-division-andina-y-exige-antecedentes-tecnicos-a-codelco/",
+      "fecha": "2026-11-06",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La autoridad ambiental estableció plazos de dos y cinco días hábiles para esclarecer las causas del incidente y determinar sus eventuales impactos. La estatal confirmó que entre uno y cinco metros cúbicos de relaves alcanzaron el río Blanco, aunque s",
       "keywords_detectadas": [
         "SMA",
         "derrame"
       ]
     },
     {
-      "fuente": "Nueva Minería",
-      "titular": "Gremios rechazan que la minería sea un “lastre” y llaman a impulsar su reactivación",
-      "url": "https://www.nuevamineria.com/revista/gremios-rechazan-que-la-mineria-sea-un-lastre-y-llaman-a-impulsar-su-reactivacion/",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "17/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-40-2026",
+      "url": "https://3ta.cl/audiencias/17-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-40-2026/",
       "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Agrumin y Sonami defendieron el aporte económico y territorial del sector frente a los cuestionamientos de Hacienda por su desempeño productivo. El biministro Daniel Mas también manifestó su desacuerdo con el calificativo. El debate sobre la caída de",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
-      "url": "https://www.paiscircular.cl/medio-ambiente/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Los procedimientos sancionatorios involucran a la Compañía Minera Tridente, cuya operación se ubica dentro del Santuario de la Naturaleza Humedal Desembocadura del Río Biobío (Hualpén), y a la Constructora Río Negro S.A. en el sector La Vara (Puerto ",
-      "keywords_detectadas": [
-        "SMA",
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "12/11/2026: Suspende audiencia de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/12-11-2026-suspende-audiencia-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Supendida audiencia de fecha 12/11/2026 y hora 09:00 hrs. Acceda a la resolución que suspende audiencia: Enlace",
+      "extracto": "Se fija audiencia con fecha 17/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
         "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "15/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-10-2026",
-      "url": "https://3ta.cl/audiencias/15-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-10-2026/",
-      "fecha": "2026-11-04",
+      "titular": "02/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-37-2026",
+      "url": "https://3ta.cl/audiencias/02-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-37-2026/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 15/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "extracto": "Se fija audiencia con fecha 02/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
         "Superintendencia del Medio Ambiente"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "17/11/2026: Fija audiencia en caso de » Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental «, Rol: R-32-2026",
-      "url": "https://3ta.cl/audiencias/17-11-2026-fija-audiencia-en-caso-de-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental-rol-r-32-2026/",
-      "fecha": "2026-11-04",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se fija audiencia con fecha 17/11/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
       ]
     },
     {
       "fuente": "SMA",
-      "titular": "SMA formula cargos contra empresas de extracción de áridos en el Biobío y Los Lagos por elusión al SEIA",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/",
-      "fecha": "2026-11-04",
+      "titular": "SMA requiere información a la División Andina de Codelco e inicia fiscalización en terreno tras incidente con relaves en faena minera",
+      "url": "https://portal.sma.gob.cl/index.php/sma-requiere-informacion-a-la-division-andina-de-codelco-e-inicia-fiscalizacion-en-terreno-tras-incidente-con-relaves-en-faena-minera/",
+      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los procedimientos sancionatorios involucran a la Compañía Minera Tridente, cuya operación se ubica dentro del Santuario de la Naturaleza Humedal Desembocadura del Río Biobío (Hualpén), y a la Constructora Río Negro S.A. en el sector La Vara (Puerto ",
+      "extracto": "Organismo fijó plazos de 2 y 5 días hábiles para la entrega de antecedentes técnicos. Fiscalizadores de la SMA están en la zona afectada. La Superintendencia del Medio Ambiente (SMA) inició un procedimiento de fiscalización a la empresa a la empresa ",
       "keywords_detectadas": [
-        "SMA",
-        "SEIA"
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA realiza fiscalización en División Andina tras incidente en sistema de transporte de relaves",
+      "url": "https://www.portalminero.com/sma-realiza-fiscalizacion-en-division-andina-tras-incidente-en-sistema-de-transporte-de-relaves",
+      "fecha": "2026-11-05",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Organismo fijó plazos de 2 y 5 días hábiles para la entrega de antecedentes técnicos.",
+      "keywords_detectadas": [
+        "SMA"
       ]
     }
   ]
