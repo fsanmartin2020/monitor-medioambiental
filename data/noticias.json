@@ -1,269 +1,93 @@
 {
-  "fecha_actualizacion": "2026-11-06T15:02:20.574784-03:00",
-  "total": 33,
+  "fecha_actualizacion": "2026-11-07T13:53:48.080459-03:00",
+  "total": 11,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Llanquihue reunió a más de 300 participantes en el 4° Encuentro Conexión Circular Los Lagos 2026",
-      "url": "https://www.paiscircular.cl/economia-circular/llanquihue-reunio-a-mas-de-300-participantes-en-el-4-encuentro-conexion-circular-los-lagos/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "WhatTheCOP: el sitio web que explica en sencillo la próxima COP31, cumbre que estará enfocada en Cero Residuos",
-      "url": "https://www.paiscircular.cl/medio-ambiente/cop31-residuos/",
-      "fecha": "2026-11-06",
+      "fuente": "EFE Verde",
+      "titular": "COP31: un nuevo escalón en el largo y sinuoso camino de las cumbres del clima",
+      "url": "https://efeverde.com/cop31-un-nuevo-escalon-en-el-largo-y-sinuoso-camino-de-las-cumbres-del-clima/",
+      "fecha": "2026-11-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Dinero, combustibles fósiles, emisiones y comercio, los frentes abiertos de la COP31",
-      "url": "https://efeverde.com/dinero-combustibles-fosiles-emisiones-y-comercio-los-frentes-abiertos-de-la-cop31/",
-      "fecha": "2026-11-06",
+      "titular": "La crisis climática tiene un precio. La infancia y las familias de Somalia lo están pagando. Por Juma Ignatius (World Vision)",
+      "url": "https://efeverde.com/la-crisis-climatica-tiene-un-precio-la-infancia-y-las-familias-de-somalia-lo-estan-pagando-por-juma-ignatius/",
+      "fecha": "2026-11-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Transparencia Internacional denuncia la falta de integridad de las cumbres del clima y reclama acción a la COP31",
-      "url": "https://efeverde.com/transparencia-internacional-denuncia-la-falta-de-integridad-de-las-cumbres-del-clima-y-reclama-accion-a-la-cop31/",
-      "fecha": "2026-11-06",
+      "titular": "Lula presentará en la COP31 los avances de Brasil en la lucha contra el cambio climático",
+      "url": "https://efeverde.com/lula-presentara-en-la-cop31-los-avances-de-brasil-en-la-lucha-contra-el-cambio-climatico/",
+      "fecha": "2026-11-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El ICES recomienda prohibir toda captura de anguilas (y angulas) en 2027",
-      "url": "https://efeverde.com/el-ices-recomienda-prohibir-toda-captura-de-anguilas-y-angulas-en-2027/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La temperatura global superará casi seguro en más de 1,5 ºC el nivel preindustrial en 2026",
-      "url": "https://efeverde.com/la-temperatura-global-superara-casi-seguro-en-mas-de-15-oc-el-nivel-preindustrial-en-2026/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La capacidad renovable subirá un 57 % entre 2026-2031, a pesar del bache de 2026",
-      "url": "https://efeverde.com/la-capacidad-de-renovables-subira-un-57-entre-2026-2031-a-pesar-de-bache-de-2026/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las organizaciones ecologistas reclaman un gran pacto climático y por la biodiversidad de cara al 29N",
-      "url": "https://efeverde.com/las-organizaciones-ecologistas-reclaman-un-gran-pacto-climatico-y-por-la-biodiversidad-de-cara-al-29n/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Biobiochile.cl] Hasta 5 metros cúbicos de relaves llegaron al Río Blanco: Codelco asegura que no hay alteraciones",
-      "url": "https://www.terram.cl/biobiochile-cl-hasta-5-metros-cubicos-de-relaves-llegaron-al-rio-blanco-codelco-asegura-que-no-hay-alteraciones/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] El 88 % de los desastres en Latinoamérica y el Caribe tiene origen hídrico: informe muestra el nuevo rol del agua",
-      "url": "https://www.terram.cl/mongabay-el-88-de-los-desastres-en-latinoamerica-y-el-caribe-tiene-origen-hidrico-informe-muestra-el-nuevo-rol-del-agua/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Financiero] Alcalde de Calama recurrirá a la Suprema tras fallo a favor de Codelco que rechazó mayor protección patrimonial de Chuquicamata",
-      "url": "https://www.terram.cl/diario-financiero-alcalde-de-calama-recurrira-a-la-suprema-tras-fallo-a-favor-de-codelco-que-rechazo-mayor-proteccion-patrimonial-de-chuquicamata/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[DW] Fuegos forestales y tsunamis unen a Europa y América Latina",
-      "url": "https://www.terram.cl/dw-fuegos-forestales-y-tsunamis-unen-a-europa-y-america-latina/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Diario Sostenible] Cancelan carrera solidaria de patitos en Frutillar tras polémica por riesgos ambientales",
-      "url": "https://www.terram.cl/diario-sostenible-cancelan-carrera-solidaria-de-patitos-en-frutillar-tras-polemica-por-riesgos-ambientales/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] El Niño golpea al bobo de Cocos: científicos encuentran polluelos débiles, esqueletos y menos nidos en Isla Pajarera, México",
-      "url": "https://www.terram.cl/mongabay-el-nino-golpea-al-bobo-de-cocos-cientificos-encuentran-polluelos-debiles-esqueletos-y-menos-nidos-en-isla-pajarera-mexico/",
-      "fecha": "2026-11-06",
+      "titular": "Un coyote, el primer animal captado en el puente silvestre más grande del mundo",
+      "url": "https://efeverde.com/un-coyote-el-primer-animal-captado-en-el-puente-silvestre-mas-grande-del-mundo/",
+      "fecha": "2026-11-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile avanza en la implementación de los mercados de carbono con nuevas reglas y acuerdos de cooperación internacional",
-      "url": "https://mma.gob.cl/chile-avanza-en-la-implementacion-de-los-mercados-de-carbono-con-nuevas-reglas-y-acuerdos-de-cooperacion-internacional/",
+      "titular": "Ministra Toledo acompaña liberación de pudú rehabilitado durante seis meses en centro de conservación Chiloé Silvestre",
+      "url": "https://mma.gob.cl/ministra-toledo-acompana-liberacion-de-pudu-rehabilitado-durante-seis-meses-en-centro-de-conservacion-chiloe-silvestre/",
+      "fecha": "2026-11-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Identifican un mecanismo que intensifica las olas de calor extremas",
+      "url": "https://efeverde.com/identifican-un-mecanismo-que-intensifica-las-olas-de-calor-extremas/",
       "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades firman histórico acuerdo de colaboración para concretar Centro de Tratamiento Integral de gestión de residuos en Chiloé",
-      "url": "https://mma.gob.cl/autoridades-firman-historico-acuerdo-de-colaboracion-para-concretar-centro-de-tratamiento-integral-de-gestion-de-residuos-en-chiloe/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SMA requiere antecedentes a Codelco e inicia fiscalización en División Andina tras incidente con relaves",
-      "url": "https://www.mch.cl/sma-requiere-antecedentes-a-codelco-e-inicia-fiscalizacion-en-division-andina-tras-incidente-con-relaves/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Modernización minera y permisos ambientales: La oportunidad que abre la Ley de Reconstrucción",
-      "url": "https://www.mch.cl/modernizacion-minera-y-permisos-ambientales-la-oportunidad-que-abre-la-ley-de-reconstruccion/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Los Lagos: Cinco parques eólicos destacan entre los más de US$3.100 millones en proyectos en evaluación ambiental",
-      "url": "https://www.revistaei.cl/los-lagos-cinco-parques-eolicos-destacan-entre-los-mas-de-us3-100-millones-en-proyectos-en-evaluacion-ambiental/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SMA formula cargos por extracción de más de 50.000 m³ de áridos en santuario natural del Biobío",
-      "url": "https://www.redimin.cl/sma-formula-cargos-por-extraccion-de-mas-de-50-000-m-de-aridos-en-santuario-natural-del-biobio",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Cuatro parques eólicos concentran US$2.550 millones de inversión propuesta en Los Lagos",
-      "url": "https://www.redimin.cl/cuatro-parques-eolicos-concentran-us-2-550-millones-de-inversion-propuesta-en-los-lagos",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA fiscaliza derrame de relaves en División Andina y exige antecedentes técnicos a Codelco",
-      "url": "https://www.nuevamineria.com/revista/sma-fiscaliza-derrame-de-relaves-en-division-andina-y-exige-antecedentes-tecnicos-a-codelco/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "Minería y energía concentran las mayores inversiones aprobadas ambientalmente en octubre",
-      "url": "https://www.nuevamineria.com/revista/mineria-y-energia-concentran-las-mayores-inversiones-aprobadas-ambientalmente-en-octubre/",
-      "fecha": "2026-11-06",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "17/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-40-2026",
-      "url": "https://3ta.cl/audiencias/17-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-40-2026/",
-      "fecha": "2026-11-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "02/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-37-2026",
-      "url": "https://3ta.cl/audiencias/02-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-37-2026/",
-      "fecha": "2026-11-05",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "CONAF y Canadá fortalecen cooperación internacional para el manejo de incendios forestales",
-      "url": "https://www.conaf.cl/conaf-y-canada-fortalecen-cooperacion-internacional-para-el-manejo-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-y-canada-fortalecen-cooperacion-internacional-para-el-manejo-de-incendios-forestales",
-      "fecha": "2026-11-05",
+      "titular": "CONAF entrega Plan de Prevención y Mitigación de Incendios Forestales a la Municipalidad de Camiña",
+      "url": "https://www.conaf.cl/conaf-entrega-plan-de-prevencion-y-mitigacion-de-incendios-forestales-a-la-municipalidad-de-camina/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-entrega-plan-de-prevencion-y-mitigacion-de-incendios-forestales-a-la-municipalidad-de-camina",
+      "fecha": "2026-11-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Programa de Emergencia de Empleo de CONAF impulsa aprendizaje colaborativo entre regiones del Biobío y La Araucanía",
-      "url": "https://www.conaf.cl/programa-de-emergencia-de-empleo-de-conaf-impulsa-aprendizaje-colaborativo-entre-regiones-del-biobio-y-la-araucania/?utm_source=rss&utm_medium=rss&utm_campaign=programa-de-emergencia-de-empleo-de-conaf-impulsa-aprendizaje-colaborativo-entre-regiones-del-biobio-y-la-araucania",
-      "fecha": "2026-11-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA requiere información a la División Andina de Codelco e inicia fiscalización en terreno tras incidente con relaves en faena minera",
-      "url": "https://portal.sma.gob.cl/index.php/sma-requiere-informacion-a-la-division-andina-de-codelco-e-inicia-fiscalizacion-en-terreno-tras-incidente-con-relaves-en-faena-minera/",
-      "fecha": "2026-11-05",
+      "titular": "CONAF Biobío invita a las familias a disfrutar gratuitamente de los parques nacionales",
+      "url": "https://www.conaf.cl/conaf-biobio-invita-a-las-familias-a-disfrutar-gratuitamente-de-los-parques-nacionales/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-biobio-invita-a-las-familias-a-disfrutar-gratuitamente-de-los-parques-nacionales",
+      "fecha": "2026-11-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Expo Energía Patagonia 2026: estudiantes impulsan la innovación y la sustentabilidad desde las aulas",
-      "url": "https://mma.gob.cl/expo-energia-patagonia-2026-estudiantes-impulsan-la-innovacion-y-la-sustentabilidad-desde-las-aulas-2/",
-      "fecha": "2026-11-05",
+      "titular": "Trashumancia sustentable: Capacitan a 300 crianceros de Choapa y Limarí para la Temporada de Veranadas 2026-2027",
+      "url": "https://mma.gob.cl/trashumancia-sustentable-capacitan-a-300-crianceros-de-choapa-y-limari-para-la-temporada-de-veranadas-2026-2027/",
+      "fecha": "2026-11-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Expo Energía Patagonia 2026: estudiantes impulsan la innovación y la sustentabilidad desde las aulas",
-      "url": "https://mma.gob.cl/expo-energia-patagonia-2026-estudiantes-impulsan-la-innovacion-y-la-sustentabilidad-desde-las-aulas/",
-      "fecha": "2026-11-05",
+      "titular": "Seremi del Medio Ambiente entrega importantes reconocimientos ambientales en la Municipalidad de Papudo",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-entrega-importantes-reconocimientos-ambientales-en-la-municipalidad-de-papudo/",
+      "fecha": "2026-11-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Chile se convierte en el epicentro de la educación ambiental en América Latina y el Caribe",
-      "url": "https://mma.gob.cl/chile-se-convierte-en-el-epicentro-de-la-educacion-ambiental-en-america-latina-y-el-caribe/",
-      "fecha": "2026-11-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA realiza fiscalización en División Andina tras incidente en sistema de transporte de relaves",
-      "url": "https://www.portalminero.com/sma-realiza-fiscalizacion-en-division-andina-tras-incidente-en-sistema-de-transporte-de-relaves",
-      "fecha": "2026-11-05",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "Tiernan firma un memorando de entendimiento no vinculante para evaluar un suministro alternativo de agua para el proyecto volcán",
-      "url": "https://www.redimin.cl/tiernan-firma-un-memorando-de-entendimiento-no-vinculante-para-evaluar-un-suministro-alternativo-de-agua-para-el-proyecto-volcan",
-      "fecha": "2026-11-05",
+      "fuente": "El Ciudadano",
+      "titular": "Comunidad de Quipisca presenta 435 observaciones al proyecto Cerro Colorado y pide que consulta indígena considere el derecho al agua y todos los impactos territoriales",
+      "url": "https://www.elciudadano.com/chile/quipisca-presenta-435-observaciones-al-proyecto-cerro-colorado-y-pide-que-la-consulta-indigena-considere-el-derecho-al-agua-y-todos-los-impactos-territoriales/11/06/",
+      "fecha": "2026-11-06",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
