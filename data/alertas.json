@@ -1,5 +1,30 @@
 {
-  "fecha_generacion": "2026-11-07T13:53:48.091794-03:00",
-  "total_alertas": 0,
-  "alertas": []
+  "fecha_generacion": "2026-11-08T14:04:15.900510-03:00",
+  "total_alertas": 2,
+  "alertas": [
+    {
+      "fuente": "El Ciudadano",
+      "titular": "«Esto es gravísimo»: Citarán a comisión de la Cámara al presidente de Codelco, tras derrame de relaves en río Blanco (Aconcagua)",
+      "url": "https://www.elciudadano.com/actualidad/esto-es-gravisimo-citaran-a-comision-de-la-camara-al-presidente-de-codelco-tras-derrame-de-relaves-en-rio-blanco-aconcagua/11/08/",
+      "fecha": "2026-11-08",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Ciudadano El derrame que alertó al Valle del Aconcagua Un nuevo incidente en la División Andina de Codelco encendió las alarmas ambientales en la Región de Valparaíso. La Superintendencia del Medio Ambiente (SMA) inició un procedimiento de fiscali",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "“¡Dana, por favor, acepta el puesto!“: Trump le pide al jefe de la UFC que sea secretario de prensa de la Casa Blanca",
+      "url": "https://www.latercera.com/mundo/noticia/dana-por-favor-acepta-el-puesto-trump-le-pide-al-jefe-de-la-ufc-que-sea-secretario-de-prensa-de-la-casa-blanca/",
+      "fecha": "2026-11-07",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El presidente de Estados Unidos además le sugirió al jefe de la Ultimate Fighting Championship, en una publicación en Truth Social, que trajera consigo a seis luchadores de alto perfil para que le sirvan como asistentes.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    }
+  ]
 }
