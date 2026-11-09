@@ -1,29 +1,53 @@
 {
-  "fecha_generacion": "2026-11-08T14:04:15.900510-03:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-11-09T18:29:22.590033-03:00",
+  "total_alertas": 4,
   "alertas": [
     {
-      "fuente": "El Ciudadano",
-      "titular": "«Esto es gravísimo»: Citarán a comisión de la Cámara al presidente de Codelco, tras derrame de relaves en río Blanco (Aconcagua)",
-      "url": "https://www.elciudadano.com/actualidad/esto-es-gravisimo-citaran-a-comision-de-la-camara-al-presidente-de-codelco-tras-derrame-de-relaves-en-rio-blanco-aconcagua/11/08/",
-      "fecha": "2026-11-08",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-48-2026 «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-48-2026-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-11-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano El derrame que alertó al Valle del Aconcagua Un nuevo incidente en la División Andina de Codelco encendió las alarmas ambientales en la Región de Valparaíso. La Superintendencia del Medio Ambiente (SMA) inició un procedimiento de fiscali",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-48-2026 «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente», el martes 10 de noviembre, a las 9.0",
       "keywords_detectadas": [
-        "derrame"
+        "Superintendencia del Medio Ambiente"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "“¡Dana, por favor, acepta el puesto!“: Trump le pide al jefe de la UFC que sea secretario de prensa de la Casa Blanca",
-      "url": "https://www.latercera.com/mundo/noticia/dana-por-favor-acepta-el-puesto-trump-le-pide-al-jefe-de-la-ufc-que-sea-secretario-de-prensa-de-la-casa-blanca/",
-      "fecha": "2026-11-07",
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra titulares de Edificio Santa Elena 2000 por deficiencias en medidas de control e incumplimiento a la norma de ruidos",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titulares-de-edificio-santa-elena-2000-por-deficiencias-en-medidas-de-control-e-incumplimiento-a-la-norma-de-ruidos/",
+      "fecha": "2026-11-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El presidente de Estados Unidos además le sugirió al jefe de la Ultimate Fighting Championship, en una publicación en Truth Social, que trajera consigo a seis luchadores de alto perfil para que le sirvan como asistentes.",
+      "extracto": "El procedimiento considera un cargo grave por el incumplimiento de las medidas de mitigación acústica comprometidas en la Resolución de Calificación Ambiental (RCA) del proyecto y un cargo leve por la superación de los límites de emisión de ruido. La",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA actualiza criterios técnicos para el uso de geoinformación en la evaluación ambiental",
+      "url": "https://www.mch.cl/sea-actualiza-criterios-tecnicos-para-el-uso-de-geoinformacion-en-la-evaluacion-ambiental/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los cambios consideran la estandarización de elementos cartográficos, la incorporación de nuevos atributos y ajustes en los formatos de datos utilizados en proyectos sometidos al SEIA. La entrada SEA actualiza criterios técnicos para el uso de geoinf",
       "keywords_detectadas": [
         "SEA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Atlas ingresa al SEIA proyecto que busca incorporar línea de transmisión y sistema BESS a parque fotovoltaico",
+      "url": "https://www.revistaei.cl/atlas-ingresa-al-seia-proyecto-que-busca-incorporar-linea-de-transmision-y-sistema-bess-a-parque-fotovoltaico/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa considera una inversión estimada de US$160 millones en la comuna de María Elena, Región de Antofagasta. Su inicio de ejecución está previsto para enero de 2030. La entrada Atlas ingresa al SEIA proyecto que busca incorporar línea de tra",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     }
   ]

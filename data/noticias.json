@@ -1,93 +1,309 @@
 {
-  "fecha_actualizacion": "2026-11-08T14:04:15.887670-03:00",
-  "total": 11,
+  "fecha_actualizacion": "2026-11-09T18:29:22.580247-03:00",
+  "total": 38,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Pronósticos de partidos y guías de estado de forma en Fútbol Hoy Chile",
-      "url": "https://www.paiscircular.cl/tendencias/pronosticos-de-partidos-y-guias-de-estado-de-forma-en-futbol-hoy-chile/",
+      "titular": "Con el compromiso de los sectores público y privado lanzan programa para fortalecer y potenciar el trabajo de los recicladores de base",
+      "url": "https://www.paiscircular.cl/economia-circular/con-compromiso-de-los-sectores-publico-y-privado-lanzan-programa-para-fortalecer-y-potenciar-el-trabajo-de-los-recicladores-de-base/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Reserva Biológica Huilo Huilo participará en Festival Ladera Sur 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/reserva-biologica-huilo-huilo-participara-en-festival-ladera-sur-2026/?utm_source=rss&utm_medium=rss&utm_campaign=reserva-biologica-huilo-huilo-participara-en-festival-ladera-sur-2026",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ministra Toledo acompaña liberación de pudú rehabilitado durante seis meses en centro de conservación Chiloé Silvestre",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-acompana-liberacion-de-pudu-rehabilitado-durante-seis-meses-en-centro-de-conservacion-chiloe-silvestre/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-acompana-liberacion-de-pudu-rehabilitado-durante-seis-meses-en-centro-de-conservacion-chiloe-silvestre",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Desierto Florido: INIA prepara recolección de semillas de especies aún ausentes de su banco",
+      "url": "https://codexverde.cl/desierto-florido-inia-prepara-recoleccion-de-semillas-de-especies-aun-ausentes-de-su-banco/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "ONU: el calentamiento está detrás de una «crisis sanitaria de proporciones pandémicas»",
+      "url": "https://efeverde.com/onu-el-calentamiento-esta-detras-de-una-crisis-sanitaria-de-proporciones-pandemicas/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Ribera: «Debate sobre financiación climática vuelve a cobrar fuerza» en la COP31",
+      "url": "https://efeverde.com/ribera-debate-sobre-financiacion-climatica-vuelve-a-cobrar-fuerza-en-la-cop31/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "El alto número de asistentes desborda la inauguración de la COP31 en Antalya",
+      "url": "https://efeverde.com/el-alto-numero-de-asistentes-desborda-la-inauguracion-de-la-cop31-en-antalya/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31 arranca entre llamadas a la cooperación, alertas climáticas y caos organizativo",
+      "url": "https://efeverde.com/la-cop31-arranca-entre-llamadas-a-la-cooperacion-alertas-climaticas-y-caos-organizativo/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "COP31: el tono y las prioridades muestran un progresivo endurecimiento acorde con la presión climática y geopolítica",
+      "url": "https://efeverde.com/cop31-el-tono-y-las-prioridades-muestran-un-progresivo-endurecimiento-acorde-con-la-presion-climatica-y-geopolitica/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Las emisiones de la UE bajaron un 1,6 % en 2025, pero las de España subieron un 2,2 %",
+      "url": "https://efeverde.com/las-emisiones-de-la-ue-bajaron-un-16-en-2025-pero-las-de-espana-subieron-un-22/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Expertos piden reorientar 842.000 millones de dólares de subsidios agrícolas para el clima",
+      "url": "https://efeverde.com/expertos-piden-reorientar-842-000-millones-de-dolares-de-subsidios-agricolas-para-el-clima/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La UE y 77 países de África, Caribe y Pacífico refuerzan alianza climática ante la COP31",
+      "url": "https://efeverde.com/la-ue-y-77-paises-de-africa-caribe-y-pacifico-refuerzan-alianza-climatica-ante-la-cop31/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La OIM pide en COP31 más ayuda a los millones de desplazados por el cambio climático",
+      "url": "https://efeverde.com/la-oim-pide-en-cop31-mas-ayuda-a-los-millones-de-desplazados-por-el-cambio-climatico/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La ONU reclama más resultados para frenar el calentamiento en la inauguración de la COP31",
+      "url": "https://efeverde.com/la-onu-reclama-mas-resultados-para-frenar-el-calentamiento-en-la-inauguracion-de-la-cop31/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Rosa Barasoain: «Es el momento de devolver el bosque a sus dimensiones humanas»",
+      "url": "https://efeverde.com/rosa-barasoain-es-el-momento-de-devolver-el-bosque-a-sus-dimensiones-humanas/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La presidencia de la COP31 llama a cooperar en un mundo dividido por guerras y tensiones",
+      "url": "https://efeverde.com/la-presidencia-de-la-cop31-llama-a-cooperar-en-un-mundo-dividido-por-guerras-y-tensiones/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Electrificación, una IA más sostenible y proteger océanos: propuestas turcas para la COP31",
+      "url": "https://efeverde.com/electrificacion-una-ia-mas-sostenible-y-proteger-oceanos-propuestas-turcas-para-la-cop31/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Idean un método para que los animales silvestres se «autocoloquen» collares GPS para su seguimiento",
+      "url": "https://efeverde.com/idean-un-metodo-animales-silvestres-se-autocoloquen-collares-gps-para-seguimiento/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "ONU: la temperatura global en 2026 se sitúa 1,47 °C sobre la media y podría aumentar en 2027",
+      "url": "https://efeverde.com/onu-la-temperatura-global-en-2026-se-situa-147-c-sobre-la-media-y-podria-aumentar-en-2027/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Biobiochile.cl] Alertan falta de recursos para nuevo servicio SBAP, encargado de la protección de parques y reservas",
+      "url": "https://www.terram.cl/biobiochile-cl-alertan-falta-de-recursos-para-nuevo-servicio-sbap-encargado-de-la-proteccion-de-parques-y-reservas/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Portal Innova] La COP31 parte con los compromisos climáticos lejos de la meta mientras en Chile el transporte pasó a ser la mayor fuente de emisiones en 2022",
+      "url": "https://www.terram.cl/portal-innova-la-cop31-parte-con-los-compromisos-climaticos-lejos-de-la-meta-mientras-en-chile-el-transporte-paso-a-ser-la-mayor-fuente-de-emisiones-en-2022/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Iniciativa chilena para reconocer y proteger los hongos en leyes y políticas suma apoyo de 17 países",
+      "url": "https://www.terram.cl/el-desconcierto-iniciativa-chilena-para-reconocer-y-proteger-los-hongos-en-leyes-y-politicas-suma-apoyo-de-17-paises/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Centro] Parque Natural Quizapú protegerá 2.200 hectáreas en el Maule",
+      "url": "https://www.terram.cl/el-centro-parque-natural-quizapu-protegera-2-200-hectareas-en-el-maule/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Cooperativa Ciencia] Desierto Florido: redescubren planta endémica de Atacama tras más de 30 años sin registros",
+      "url": "https://www.terram.cl/cooperativa-ciencia-desierto-florido-redescubren-planta-endemica-de-atacama-tras-mas-de-30-anos-sin-registros/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Portal Innova] Reportaje | Histórico registro confirma presencia del gato andino en Parque Aguas de Ramón tras al menos 20 años sin registros",
+      "url": "https://www.terram.cl/portal-innova-reportaje-historico-registro-confirma-presencia-del-gato-andino-en-parque-aguas-de-ramon-tras-al-menos-20-anos-sin-registros/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Infraestructura verde y Biodiversidad: La experiencia desde 4 comunas de Chile",
+      "url": "https://www.fima.cl/2026/11/09/infraestructura-verde-y-biodiversidad-la-experiencia-desde-4-comunas-de-chile/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-48-2026 «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-48-2026-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra titulares de Edificio Santa Elena 2000 por deficiencias en medidas de control e incumplimiento a la norma de ruidos",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titulares-de-edificio-santa-elena-2000-por-deficiencias-en-medidas-de-control-e-incumplimiento-a-la-norma-de-ruidos/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "SEREMI del Medio Ambiente llama a tomar precauciones ante olas de calor y reforzar la adaptación al cambio climático en Valparaíso",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-llama-a-tomar-precauciones-ante-olas-de-calor-y-reforzar-la-adaptacion-al-cambio-climatico-en-valparaiso/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ñuble se posicionó como la tercera región del país con mayor reciclaje en campaña de CCU en apoyo a la Teletón 2026",
+      "url": "https://mma.gob.cl/nuble-se-posiciono-como-la-tercera-region-del-pais-con-mayor-reciclaje-en-campana-de-ccu-en-apoyo-a-la-teleton-2026/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Campaña de reciclaje Teletón 2026: Biobío supera su meta y alcanza el segundo lugar a nivel nacional",
+      "url": "https://mma.gob.cl/campana-de-reciclaje-teleton-2026-biobio-supera-su-meta-y-alcanza-el-segundo-lugar-a-nivel-nacional/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Pastoreo estratégico con cabras abre una nueva vía de prevención de incendios en Florida",
+      "url": "https://mma.gob.cl/pastoreo-estrategico-con-cabras-abre-una-nueva-via-de-prevencion-de-incendios-en-florida/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Ministra Toledo destaca compromiso ambiental de colegio de La Pintana y presenta nuevo fondo para proyectos de Forjadores Ambientales",
+      "url": "https://mma.gob.cl/ministra-toledo-destaca-compromiso-ambiental-de-colegio-de-la-pintana-y-presenta-nuevo-fondo-para-proyectos-de-forjadores-ambientales/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Seremi del Medio Ambiente llama a la responsabilidad ambiental y al cuidado del patrimonio natural de Magallanes ante el inicio de la temporada turística",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-llama-a-la-responsabilidad-ambiental-y-al-cuidado-del-patrimonio-natural-de-magallanes-ante-el-inicio-de-la-temporada-turistica/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "SEA actualiza criterios técnicos para el uso de geoinformación en la evaluación ambiental",
+      "url": "https://www.mch.cl/sea-actualiza-criterios-tecnicos-para-el-uso-de-geoinformacion-en-la-evaluacion-ambiental/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Atlas ingresa al SEIA proyecto que busca incorporar línea de transmisión y sistema BESS a parque fotovoltaico",
+      "url": "https://www.revistaei.cl/atlas-ingresa-al-seia-proyecto-que-busca-incorporar-linea-de-transmision-y-sistema-bess-a-parque-fotovoltaico/",
+      "fecha": "2026-11-09",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31 busca pasar de las palabras a los hechos en un mundo dividido y con menos dinero",
+      "url": "https://efeverde.com/la-cop31-busca-pasar-de-las-palabras-a-los-hechos-en-un-mundo-dividido-y-con-menos-dinero/",
       "fecha": "2026-11-08",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "El Supremo respalda la lucha por la recuperación de miles de caminos públicos usurpados",
-      "url": "https://efeverde.com/el-supremo-respalda-la-lucha-por-la-recuperacion-de-miles-de-caminos-publicos-usurpados/",
+      "fuente": "Portal Minero",
+      "titular": "Evaluación ambiental en Los Lagos incluye cinco proyectos eólicos por US$2.950 millones",
+      "url": "https://www.portalminero.com/evaluacion-ambiental-en-los-lagos-incluye-cinco-proyectos-eolicos-por-us2950-millones",
       "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Amnistía Internacional pide a líderes mundiales dejar de apoyar los combustibles fósiles",
-      "url": "https://efeverde.com/amnistia-internacional-pide-a-lideres-mundiales-dejar-de-apoyar-los-combustibles-fosiles/",
-      "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Amets, la «hermana águila» del bebé de Rozalén que vuela contra el cambio climático",
-      "url": "https://efeverde.com/amets-la-hermana-aguila-del-bebe-de-rozalen-que-vuela-contra-el-cambio-climatico/",
-      "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La Ruta del Cares suma 97 desprendimientos documentados y tres fallecidos en dos décadas",
-      "url": "https://efeverde.com/la-ruta-del-cares-suma-97-desprendimientos-documentados-y-tres-fallecidos-en-dos-decadas/",
-      "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El clima no es solo un tema más sobre la mesa: es la mesa misma. Por Bertrand Piccard (presidente de la Fundación Solar Impulse)",
-      "url": "https://efeverde.com/el-clima-no-es-solo-un-tema-mas-sobre-la-mesa-es-la-mesa-misma-por-bertrand-piccard/",
-      "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "«Esto es gravísimo»: Citarán a comisión de la Cámara al presidente de Codelco, tras derrame de relaves en río Blanco (Aconcagua)",
-      "url": "https://www.elciudadano.com/actualidad/esto-es-gravisimo-citaran-a-comision-de-la-camara-al-presidente-de-codelco-tras-derrame-de-relaves-en-rio-blanco-aconcagua/11/08/",
-      "fecha": "2026-11-08",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La trampa de la deuda climática para los países pobres: pagar más por contaminar menos",
-      "url": "https://efeverde.com/la-trampa-de-la-deuda-climatica-para-los-paises-pobres-pagar-mas-por-contaminar-menos/",
-      "fecha": "2026-11-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Valentina Leduc: «La organización colectiva es la raíz de la solución a la crisis ecológica»",
-      "url": "https://efeverde.com/valentina-leduc-la-organizacion-colectiva-es-la-raiz-de-la-solucion-a-la-crisis-ecologica/",
-      "fecha": "2026-11-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El sudoku del dinero climático: promesas y facturas pendientes para la COP31 de Antalya",
-      "url": "https://efeverde.com/el-sudoku-del-dinero-climatico-promesas-y-facturas-pendientes-para-la-cop31-de-antalya/",
-      "fecha": "2026-11-07",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "“¡Dana, por favor, acepta el puesto!“: Trump le pide al jefe de la UFC que sea secretario de prensa de la Casa Blanca",
-      "url": "https://www.latercera.com/mundo/noticia/dana-por-favor-acepta-el-puesto-trump-le-pide-al-jefe-de-la-ufc-que-sea-secretario-de-prensa-de-la-casa-blanca/",
-      "fecha": "2026-11-07",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
