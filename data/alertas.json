@@ -1,53 +1,78 @@
 {
-  "fecha_generacion": "2026-11-09T18:29:22.590033-03:00",
-  "total_alertas": 4,
+  "fecha_generacion": "2026-11-10T15:40:23.967264-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-48-2026 «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-48-2026-fundacion-greenpeace-pacifico-sur-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-11-09",
+      "fuente": "País Circular",
+      "titular": "Representantes de municipios de la Región Metropolitana evalúan su rol y participación en la implementación de la Ley REP",
+      "url": "https://www.paiscircular.cl/economia-circular/representantes-de-municipios-de-la-rm-evaluan-su-rol-y-participacion-en-la-implementacion-de-la-ley-rep/",
+      "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición, la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-48-2026 «Fundación Greenpeace Pacífico Sur con Superintendencia del Medio Ambiente», el martes 10 de noviembre, a las 9.0",
+      "extracto": "Desde el territorio, los municipios se han consolidado como actores clave en el despliegue de la Ley de Responsabilidad Extendida del Productor, desarrollando convenios para la recolección de Envases y Embalajes, y Neumáticos Fuera de Uso, mientras s",
       "keywords_detectadas": [
-        "Superintendencia del Medio Ambiente"
+        "Ley REP"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "SMA formula cargos contra titulares de Edificio Santa Elena 2000 por deficiencias en medidas de control e incumplimiento a la norma de ruidos",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-titulares-de-edificio-santa-elena-2000-por-deficiencias-en-medidas-de-control-e-incumplimiento-a-la-norma-de-ruidos/",
-      "fecha": "2026-11-09",
+      "fuente": "Terram",
+      "titular": "[El Observador] Hijuelas alerta que derrame de relaves pudo afectar 50 millones de litros de agua",
+      "url": "https://www.terram.cl/el-observador-hijuelas-alerta-que-derrame-de-relaves-pudo-afectar-50-millones-de-litros-de-agua/",
+      "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El procedimiento considera un cargo grave por el incumplimiento de las medidas de mitigación acústica comprometidas en la Resolución de Calificación Ambiental (RCA) del proyecto y un cargo leve por la superación de los límites de emisión de ruido. La",
+      "extracto": "La alcaldesa Verónica Rossat advirtió sobre la magnitud que podría alcanzar el impacto ambiental del derrame de Codelco en el río Blanco. Además, cuestionó que los análisis dependan de la propia minera y exigió una investigación independiente para de",
       "keywords_detectadas": [
-        "SMA"
+        "derrame"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA actualiza criterios técnicos para el uso de geoinformación en la evaluación ambiental",
-      "url": "https://www.mch.cl/sea-actualiza-criterios-tecnicos-para-el-uso-de-geoinformacion-en-la-evaluacion-ambiental/",
-      "fecha": "2026-11-09",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental admite a trámite reclamación de empresa inmobiliaria contra multa de la SMA por ruidos molestos en centro comercial de Arica",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica",
+      "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los cambios consideran la estandarización de elementos cartográficos, la incorporación de nuevos atributos y ajustes en los formatos de datos utilizados en proyectos sometidos al SEIA. La entrada SEA actualiza criterios técnicos para el uso de geoinf",
+      "extracto": "SIDESA Chile S.A., propietaria y administradora del Boulevard Arica City Center, presentó una reclamación judicial contra la Superintendencia del Medio Ambiente (SMA), cuestionando la legalidad de una multa de 28,9... The post Primer Tribunal Ambient",
+      "keywords_detectadas": [
+        "SMA",
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "La Tercera",
+      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
+      "url": "https://www.latercera.com/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fecha": "2026-11-10",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Servicio de Evaluación Ambiental solicitó al retailer chileno presentar mayores antecedentes técnicos sobre su proyecto \"Centro Comercial Algarrobo\", de US$28 millones en ese balneario, para determinar si debe someterse obligatoriamente al Sistema",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Atlas ingresa al SEIA proyecto que busca incorporar línea de transmisión y sistema BESS a parque fotovoltaico",
-      "url": "https://www.revistaei.cl/atlas-ingresa-al-seia-proyecto-que-busca-incorporar-linea-de-transmision-y-sistema-bess-a-parque-fotovoltaico/",
-      "fecha": "2026-11-09",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera una inversión estimada de US$160 millones en la comuna de María Elena, Región de Antofagasta. Su inicio de ejecución está previsto para enero de 2030. La entrada Atlas ingresa al SEIA proyecto que busca incorporar línea de tra",
+      "fuente": "Pulso",
+      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
+      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fecha": "2026-11-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "SEIA"
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Pulso",
+      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
+      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fecha": "2026-11-10",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
