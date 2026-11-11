@@ -1,78 +1,126 @@
 {
-  "fecha_generacion": "2026-11-10T15:40:23.967264-03:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-11-11T15:39:10.300724-03:00",
+  "total_alertas": 10,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Representantes de municipios de la Región Metropolitana evalúan su rol y participación en la implementación de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/representantes-de-municipios-de-la-rm-evaluan-su-rol-y-participacion-en-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Desde el territorio, los municipios se han consolidado como actores clave en el despliegue de la Ley de Responsabilidad Extendida del Productor, desarrollando convenios para la recolección de Envases y Embalajes, y Neumáticos Fuera de Uso, mientras s",
-      "keywords_detectadas": [
-        "Ley REP"
-      ]
-    },
-    {
       "fuente": "Terram",
-      "titular": "[El Observador] Hijuelas alerta que derrame de relaves pudo afectar 50 millones de litros de agua",
-      "url": "https://www.terram.cl/el-observador-hijuelas-alerta-que-derrame-de-relaves-pudo-afectar-50-millones-de-litros-de-agua/",
-      "fecha": "2026-11-10",
+      "titular": "[Reporte Minero] SMA formula cargos contra parques solares Tamarico y Granate por incumplimientos ambientales",
+      "url": "https://www.terram.cl/reporte-minero-sma-formula-cargos-contra-parques-solares-tamarico-y-granate-por-incumplimientos-ambientales/",
+      "fecha": "2026-11-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La alcaldesa Verónica Rossat advirtió sobre la magnitud que podría alcanzar el impacto ambiental del derrame de Codelco en el río Blanco. Además, cuestionó que los análisis dependan de la propia minera y exigió una investigación independiente para de",
+      "extracto": "Superintendencia del Medio Ambiente imputa infracciones graves en fauna, flora y residuos a proyectos fotovoltaicos en Atacama y Coquimbo. Ambos titulares enfrentan posibles sanciones de hasta 5.000 UTA. Fuente: Reporte Minero, 11 de noviembre de 202",
       "keywords_detectadas": [
-        "derrame"
+        "SMA"
       ]
     },
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental admite a trámite reclamación de empresa inmobiliaria contra multa de la SMA por ruidos molestos en centro comercial de Arica",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica",
-      "fecha": "2026-11-10",
+      "fuente": "SMA",
+      "titular": "SMA y OEFA consolidan alianza de fiscalización ambiental e impulsan Inteligencia Artificial para el monitoreo regional",
+      "url": "https://portal.sma.gob.cl/index.php/sma-y-oefa-consolidan-alianza-de-fiscalizacion-ambiental-e-impulsan-inteligencia-artificial-para-el-monitoreo-regional/",
+      "fecha": "2026-11-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "SIDESA Chile S.A., propietaria y administradora del Boulevard Arica City Center, presentó una reclamación judicial contra la Superintendencia del Medio Ambiente (SMA), cuestionando la legalidad de una multa de 28,9... The post Primer Tribunal Ambient",
+      "extracto": "En el webinar internacional organizado por la AGCID, se repasaron más de una década de trabajo conjunto de las agencias chilena y peruana, las cuales, anunciaron mejoras hacia el uso de tecnologías avanzadas y un proyecto con la ONUDI. La Superintend",
       "keywords_detectadas": [
-        "SMA",
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra parques fotovoltaicos Granate y Tamarico por incumplimientos a sus autorizaciones ambientales en materia de fauna, flora y residuos",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-parques-fotovoltaicos-granate-y-tamarico-por-incumplimientos-a-sus-autorizaciones-ambientales-en-materia-de-fauna-flora-y-residuos/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los procedimientos sancionatorios involucran a Tamarico Solar Dos SpA (Parque Solar Fotovoltaico Tamarico en Vallenar, Región de Atacama) y a Granate SpA (Parque Fotovoltaico Granate en Ovalle, Región de Coquimbo) por deficiencias en la implementació",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA formula cargos graves contra dos parques fotovoltaicos por incumplimientos ambientales",
+      "url": "https://www.revistaei.cl/sma-formula-cargos-graves-contra-dos-parques-fotovoltaicos-por-incumplimientos-ambientales/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Los procedimientos sancionatorios se atribuyeron a deficiencias en la implementación de las exigencias previstas en sus RCA. La entrada SMA formula cargos graves contra dos parques fotovoltaicos por incumplimientos ambientales se publicó primero en R",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Nuevo ministro titular se incorpora al Tercer Tribunal Ambiental",
+      "url": "https://www.revistaei.cl/nuevo-ministro-titular-se-incorpora-al-tercer-tribunal-ambiental/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Luego de haber prestado juramento ante la Corte Suprema, el abogado comenzará sus funciones en el organismo jurisdiccional. La entrada Nuevo ministro titular se incorpora al Tercer Tribunal Ambiental se publicó primero en Revista Electricidad .",
+      "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.latercera.com/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fuente": "REDIMIN",
+      "titular": "SMA formula seis cargos contra parques solares Tamarico y Granate por incumplimientos ambientales en Atacama y Coquimbo",
+      "url": "https://www.redimin.cl/sma-formula-seis-cargos-contra-parques-solares-tamarico-y-granate-por-incumplimientos-ambientales-en-atacama-y-coquimbo",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En Vallenar, maquinaria pesada pasó por zonas destinadas a relocalizar cactáceas, una medida clave para proteger la flora intervenida.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental suspende por 30 días el permiso de prospección de Barrick en Alto del Carmen",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-suspende-por-30-dias-el-permiso-de-prospeccion-de-barrick-en-alto-del-carmen/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Segundo Tribunal Ambiental acogió las solicitudes de comunidades y vecinos y suspendió los efectos de la resolución ambiental del proyecto El Alto, en la Región de Atacama. Barrick anunció que pedirá reconsiderar la medida. El Segundo Tribunal Amb",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Poder Judicial (PJUD)",
+      "titular": "Presidenta Chevesich encabeza nueva reunión sobre tribunales ambientales con ministros de Hacienda y Medio Ambiente11-11-2026 03:11",
+      "url": "https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/150192",
+      "fecha": "2026-11-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Tribunales Ambientales"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental suspende por 30 días RCA que aprobó proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-suspende-por-30-dias-rca-que-aprobo-proyecto-minero/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Servicio de Evaluación Ambiental solicitó al retailer chileno presentar mayores antecedentes técnicos sobre su proyecto \"Centro Comercial Algarrobo\", de US$28 millones en ese balneario, para determinar si debe someterse obligatoriamente al Sistema",
+      "extracto": "La iniciativa se emplaza en la comuna de Alto del Carmen, Región de Atacama. La entrada Tribunal Ambiental suspende por 30 días RCA que aprobó proyecto minero se publicó primero en Mch .",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental",
+        "RCA"
       ]
     },
     {
-      "fuente": "Pulso",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Barrick entrega sus impresiones por resolución del Segundo Tribunal Ambiental",
+      "url": "https://www.mch.cl/barrick-entrega-sus-impresiones-por-resolucion-del-segundo-tribunal-ambiental/",
       "fecha": "2026-11-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La compañía declaró que mantiene su compromiso de evaluar alternativas de inversión futura que contribuyan al desarrollo de largo plazo del territorio. La entrada Barrick entrega sus impresiones por resolución del Segundo Tribunal Ambiental se public",
       "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
-      "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     }
   ]

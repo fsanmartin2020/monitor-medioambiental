@@ -1,253 +1,277 @@
 {
-  "fecha_actualizacion": "2026-11-10T15:40:23.950637-03:00",
-  "total": 31,
+  "fecha_actualizacion": "2026-11-11T15:39:10.282871-03:00",
+  "total": 34,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Ministra Toledo destaca compromiso ambiental de colegio de La Pintana y presenta nuevo fondo para proyectos de Forjadores Ambientales",
-      "url": "https://www.paiscircular.cl/medio-ambiente/ministra-toledo-destaca-compromiso-ambiental-de-colegio-de-la-pintana-y-presenta-nuevo-fondo-para-proyectos-de-forjadores-ambientales/",
-      "fecha": "2026-11-10",
+      "titular": "Reciclatón y reparatón de aparatos eléctricos y electrónicos en la Universidad de Chile",
+      "url": "https://www.paiscircular.cl/economia-circular/reciclaton-y-reparaton-de-aparatos-electricos-y-electronicos-en-la-universidad-de-chile/",
+      "fecha": "2026-11-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Representantes de municipios de la Región Metropolitana evalúan su rol y participación en la implementación de la Ley REP",
-      "url": "https://www.paiscircular.cl/economia-circular/representantes-de-municipios-de-la-rm-evaluan-su-rol-y-participacion-en-la-implementacion-de-la-ley-rep/",
-      "fecha": "2026-11-10",
+      "titular": "Frente al cambio climático: María Pinto inaugura nuevas obras para fortalecer la seguridad hídrica de más de 4 mil personas",
+      "url": "https://www.paiscircular.cl/agua/frente-al-cambio-climatico-maria-pinto-inaugura-nuevas-obras-para-fortalecer-la-seguridad-hidrica-de-mas-de-4-mil-personas/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Avanza en la Comisión de Medio Ambiente de la Cámara el proyecto de ley sobre movimiento transfronterizo de residuos peligrosos",
+      "url": "https://www.paiscircular.cl/economia-circular/avanza-en-la-comision-de-medio-ambiente-de-la-camara-el-proyecto-de-ley-sobre-movimiento-transfronterizo-de-residuos-peligrosos/",
+      "fecha": "2026-11-11",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Día de la Fauna Chilena: Advierten que protección de la biodiversidad también requiere mejorar la gestión de residuos",
-      "url": "https://www.chiledesarrollosustentable.cl/dia-de-la-fauna-chilena-advierten-que-proteccion-de-la-biodiversidad-tambien-requiere-mejorar-la-gestion-de-residuos/?utm_source=rss&utm_medium=rss&utm_campaign=dia-de-la-fauna-chilena-advierten-que-proteccion-de-la-biodiversidad-tambien-requiere-mejorar-la-gestion-de-residuos",
+      "titular": "Emprendedores y grandes empresas se encuentran en Ecosistema Ladera Sur 2026",
+      "url": "https://www.chiledesarrollosustentable.cl/emprendedores-y-grandes-empresas-se-encuentran-en-ecosistema-ladera-sur-2026/?utm_source=rss&utm_medium=rss&utm_campaign=emprendedores-y-grandes-empresas-se-encuentran-en-ecosistema-ladera-sur-2026",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Ministra Toledo destaca compromiso ambiental de colegio de La Pintana y presenta nuevo fondo para proyectos de Forjadores Ambientales",
+      "url": "https://www.chiledesarrollosustentable.cl/ministra-toledo-destaca-compromiso-ambiental-de-colegio-de-la-pintana-y-presenta-nuevo-fondo-para-proyectos-de-forjadores-ambientales/?utm_source=rss&utm_medium=rss&utm_campaign=ministra-toledo-destaca-compromiso-ambiental-de-colegio-de-la-pintana-y-presenta-nuevo-fondo-para-proyectos-de-forjadores-ambientales",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Induambiente] Cambios en evaluación",
+      "url": "https://www.terram.cl/induambiente-cambios-en-evaluacion/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ciper] Funcionarios de Sernapesca advierten que recortes de presupuesto podrían poner en riesgo su capacidad fiscalizadora",
+      "url": "https://www.terram.cl/ciper-funcionarios-de-sernapesca-advierten-que-recortes-de-presupuesto-podrian-poner-en-riesgo-su-capacidad-fiscalizadora/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Clarín] La justicia frena Pascua Lama 2.0: Barrick pretendía perforar en terrenos de la mina clausurada y cerca de los glaciares del Huasco",
+      "url": "https://www.terram.cl/el-clarin-la-justicia-frena-pascua-lama-2-0-barrick-pretendia-perforar-en-terrenos-de-la-mina-clausurada-y-cerca-de-los-glaciares-del-huasco/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Desconcierto] Gobierno crea mesa para acelerar data centers en Chile en medio de conflictos ambientales",
+      "url": "https://www.terram.cl/el-desconciertogobierno-crea-mesa-para-acelerar-data-centers-en-chile-en-medio-de-conflictos-ambientales/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Reporte Minero] SMA formula cargos contra parques solares Tamarico y Granate por incumplimientos ambientales",
+      "url": "https://www.terram.cl/reporte-minero-sma-formula-cargos-contra-parques-solares-tamarico-y-granate-por-incumplimientos-ambientales/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Reportero de Iquique] Especie en peligro crítico de extinción: Anfibio es estudiado y visto en Zapahuira y Socoroma",
+      "url": "https://www.terram.cl/el-reportero-de-iquique-especie-en-peligro-critico-de-extincion-anfibio-es-estudiado-y-visto-en-zapahuira-y-socoroma/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Comunidad indígena diaguita reclama contra aprobación ambiental del proyecto Parque Solar La Totora en la Región de Atacama",
+      "url": "https://1ta.cl/comunidad-indigena-diaguita-reclama-contra-aprobacion-ambiental-del-proyecto-parque-solar-la-totora-en-la-region-de-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-indigena-diaguita-reclama-contra-aprobacion-ambiental-del-proyecto-parque-solar-la-totora-en-la-region-de-atacama",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF La Araucanía certifica a nueva Comunidad Preparada para prevenir incendios forestales en Victoria",
+      "url": "https://www.conaf.cl/conaf-la-araucania-certifica-a-nueva-comunidad-preparada-para-prevenir-incendios-forestales-en-victoria/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-la-araucania-certifica-a-nueva-comunidad-preparada-para-prevenir-incendios-forestales-en-victoria",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "En Osorno se realizó el encuentro de productores, comerciantes y consumidores de leña",
+      "url": "https://www.conaf.cl/en-osorno-se-realizo-el-encuentro-de-productores-comerciantes-y-consumidores-de-lena/?utm_source=rss&utm_medium=rss&utm_campaign=en-osorno-se-realizo-el-encuentro-de-productores-comerciantes-y-consumidores-de-lena",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA y OEFA consolidan alianza de fiscalización ambiental e impulsan Inteligencia Artificial para el monitoreo regional",
+      "url": "https://portal.sma.gob.cl/index.php/sma-y-oefa-consolidan-alianza-de-fiscalizacion-ambiental-e-impulsan-inteligencia-artificial-para-el-monitoreo-regional/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra parques fotovoltaicos Granate y Tamarico por incumplimientos a sus autorizaciones ambientales en materia de fauna, flora y residuos",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-parques-fotovoltaicos-granate-y-tamarico-por-incumplimientos-a-sus-autorizaciones-ambientales-en-materia-de-fauna-flora-y-residuos/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "DGA - MOP",
+      "titular": "Equipos de la DGA participan en campaña de monitoreo del sistema lacustre del Lago Vichuquén",
+      "url": "https://dga.mop.gob.cl/equipos-de-la-dga-participan-en-campana-de-monitoreo-del-sistema-lacustre-del-lago-vichuquen/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Llaman a participar en taller para recicladores de base y fortalecimiento de sus capacidades laborales",
+      "url": "https://mma.gob.cl/llaman-a-participar-en-taller-para-recicladores-de-base-y-fortalecimiento-de-sus-capacidades-laborales/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Proyecto seleccionado por universidad estadounidense busca proteger las aves playeras de Coquimbo",
+      "url": "https://mma.gob.cl/proyecto-seleccionado-por-universidad-estadounidense-busca-proteger-las-aves-playeras-de-coquimbo/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "SMA formula cargos graves contra dos parques fotovoltaicos por incumplimientos ambientales",
+      "url": "https://www.revistaei.cl/sma-formula-cargos-graves-contra-dos-parques-fotovoltaicos-por-incumplimientos-ambientales/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Nuevo ministro titular se incorpora al Tercer Tribunal Ambiental",
+      "url": "https://www.revistaei.cl/nuevo-ministro-titular-se-incorpora-al-tercer-tribunal-ambiental/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA formula seis cargos contra parques solares Tamarico y Granate por incumplimientos ambientales en Atacama y Coquimbo",
+      "url": "https://www.redimin.cl/sma-formula-seis-cargos-contra-parques-solares-tamarico-y-granate-por-incumplimientos-ambientales-en-atacama-y-coquimbo",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "Tribunal Ambiental suspende por 30 días el permiso de prospección de Barrick en Alto del Carmen",
+      "url": "https://www.nuevamineria.com/revista/tribunal-ambiental-suspende-por-30-dias-el-permiso-de-prospeccion-de-barrick-en-alto-del-carmen/",
+      "fecha": "2026-11-11",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Poder Judicial (PJUD)",
+      "titular": "Presidenta Chevesich encabeza nueva reunión sobre tribunales ambientales con ministros de Hacienda y Medio Ambiente11-11-2026 03:11",
+      "url": "https://www.pjud.cl/prensa-y-comunicaciones/noticias-del-poder-judicial/150192",
+      "fecha": "2026-11-11",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Yuncos en isla Choros: población reproductiva se multiplicó por 7,5 tras eliminar conejos invasores",
+      "url": "https://codexverde.cl/yuncos-en-isla-choros-poblacion-reproductiva-se-multiplico-por-75-tras-eliminar-conejos-invasores/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Distancia entre aerogeneradores y viviendas: investigador plantea evaluar cada proyecto ante propuesta de cinco kilómetros",
-      "url": "https://codexverde.cl/distancia-entre-aerogeneradores-y-viviendas-investigador-plantea-evaluar-cada-proyecto-ante-propuesta-de-cinco-kilometros/",
+      "titular": "Algas desprendidas se convierten en refugios de vida en la Antártica",
+      "url": "https://codexverde.cl/algas-desprendidas-se-convierten-en-refugios-de-vida-en-la-antartica/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La COP31 apuesta por acelerar la electrificación en medio de grandes atascos en Antalya",
-      "url": "https://efeverde.com/cop31-apuesta-por-acelerar-electrificacion-en-medio-de-grandes-atascos-en-antalya/",
+      "fuente": "Codex Verde",
+      "titular": "SBAP enfrentaría un déficit de más de $21 mil millones en el presupuesto proyectado para 2027",
+      "url": "https://codexverde.cl/sbap-enfrentaria-un-deficit-de-mas-de-21-mil-millones-en-el-presupuesto-proyectado-para-2027/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "España defenderá en la COP31 la «máxima ambición» para abandonar los combustibles fósiles",
-      "url": "https://efeverde.com/cop31-espana-ambicion-para-abandonar-combustibles-fosiles/",
+      "fuente": "CONAF",
+      "titular": "CONAF intensifica fiscalización al transporte de madera del bosque nativo",
+      "url": "https://www.conaf.cl/conaf-intensifica-fiscalizacion-al-transporte-de-madera-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-intensifica-fiscalizacion-al-transporte-de-madera-del-bosque-nativo",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "Greta Thunberg vuelve a la COP31 para alertar que la crisis climática «no está bajo control»",
-      "url": "https://efeverde.com/cop31-greta-thunberg/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La economía española generó un 7,1 % más de residuos en 2024 que en el año anterior",
-      "url": "https://efeverde.com/economia-espanola-residuos-en-2024/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Guterres ve «fundamental» acelerar la transición para abandonar los combustibles fósiles",
-      "url": "https://efeverde.com/cop31-guterres-ve-fundamental-acelerar-transicion-para-abandonar-combustibles-fosiles/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Lula llega a la COP31 entre la expectación y la esperanza y presumiendo de agenda verde",
-      "url": "https://efeverde.com/cop31-lula/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Científicos y expertos climáticos alertan: Europa tiene sólo 7 meses para afrontar El Niño más «devastador»",
-      "url": "https://efeverde.com/europa-tiene-solo-7-meses-para-afrontar-el-nino-mas-devastador/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Octubre de 2026 fue un mes muy cálido y muy seco en España, según la Aemet",
-      "url": "https://efeverde.com/octubre-de-2026-mes-muy-calido-y-muy-seco-en-espana-segun-aemet/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Los biólogos valencianos proponen pagar 160 euros por hectárea a quien cuide el bosque",
-      "url": "https://efeverde.com/los-biologos-valencianos-proponen-pagar-160-euros-por-hectarea-a-quien-cuide-el-bosque/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La presidencia de la COP31 celebra un inicio «positivo» tras aprobar la agenda negociadora",
-      "url": "https://efeverde.com/la-presidencia-de-la-cop31-celebra-un-inicio-positivo-tras-aprobar-la-agenda-negociadora/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Pacífico reclama en la COP31 pasar de los compromisos climáticos a las acciones",
-      "url": "https://efeverde.com/el-pacifico-reclama-en-la-cop31-pasar-de-los-compromisos-climaticos-a-las-acciones/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "OCDE: los países del Sur Global pagan hasta siete veces más que los de la UE por un mismo proyecto solar",
-      "url": "https://efeverde.com/ocde-los-paises-del-sur-global-pagan-hasta-siete-veces-mas-que-los-de-la-ue-por-un-mismo-un-proyecto-solar/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "PNUD sobre El Niño: adelantarse en la protección de los más vulnerables puede reducir costes de atención",
-      "url": "https://efeverde.com/pnud-sobre-el-nino-adelantarse-en-la-proteccion-de-los-mas-vulnerables-puede-reducir-costes-de-atencion/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Déficit de financiamiento para la implementación del Servicio de Biodiversidad y Áreas Protegidas",
-      "url": "https://www.terram.cl/el-desconcierto-deficit-de-financiamiento-para-la-implementacion-del-servicio-de-biodiversidad-y-areas-protegidas/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Observador] Hijuelas alerta que derrame de relaves pudo afectar 50 millones de litros de agua",
-      "url": "https://www.terram.cl/el-observador-hijuelas-alerta-que-derrame-de-relaves-pudo-afectar-50-millones-de-litros-de-agua/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[24 Horas] El sector que concentra más del 76% de las emisiones de Chile y el desafío climático hacia 2035",
-      "url": "https://www.terram.cl/24-horas-el-sector-que-concentra-mas-del-76-de-las-emisiones-de-chile-y-el-desafio-climatico-hacia-2035/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Cooperativa Ciencia] Declaración de Atacama: consulta ciudadana busca proteger los cielos oscuros ante nuevas amenazas",
-      "url": "https://www.terram.cl/cooperativa-ciencia-declaracion-de-atacama-consulta-ciudadana-busca-proteger-los-cielos-oscuros-ante-nuevas-amenazas/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Divisadero] Villa O’Higgins defiende la gestión local del Parque Glaciar Mosco ante cambio de administración al SBAP",
-      "url": "https://www.terram.cl/el-divisadero-villa-ohiggins-defiende-la-gestion-local-del-parque-glaciar-mosco-ante-cambio-de-administracion-al-sbap/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Infogate] Advierten que protección de la biodiversidad también requiere mejorar la gestión de residuos",
-      "url": "https://www.terram.cl/infogate-advierten-que-proteccion-de-la-biodiversidad-tambien-requiere-mejorar-la-gestion-de-residuos/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental admite a trámite reclamación de empresa inmobiliaria contra multa de la SMA por ruidos molestos en centro comercial de Arica",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-admite-a-tramite-reclamacion-de-empresa-inmobiliaria-contra-multa-de-la-sma-por-ruidos-molestos-en-centro-comercial-de-arica",
+      "fuente": "CONAF",
+      "titular": "Guardaparques del sur de Chile intercambian experiencias de conservación en áreas protegidas de Arica y Parinacota",
+      "url": "https://www.conaf.cl/guardaparques-del-sur-de-chile-intercambian-experiencias-de-conservacion-en-areas-protegidas-de-arica-y-parinacota/?utm_source=rss&utm_medium=rss&utm_campaign=guardaparques-del-sur-de-chile-intercambian-experiencias-de-conservacion-en-areas-protegidas-de-arica-y-parinacota",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Seremi del Medio Ambiente acompaña monitoreo de la ranita de Pefaur en precordillera",
-      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-acompana-monitoreo-de-la-ranita-de-pefaur-en-precordillera/",
+      "titular": "Seremi del Medio Ambiente invita a postular a fondo de $110 millones para desarrollar censo nacional del pingüino de Humboldt",
+      "url": "https://mma.gob.cl/seremi-del-medio-ambiente-invita-a-postular-a-fondo-de-110-millones-para-desarrollar-censo-nacional-del-pinguino-de-humboldt/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "En Huasco la Garra de León reunió a autoridades y expositores para blindar la protección al fenómeno desierto Florido",
-      "url": "https://mma.gob.cl/en-huasco-la-garra-de-leon-reunio-a-autoridades-y-expositores-para-blindar-la-proteccion-al-fenomeno-desierto-florido/",
+      "fuente": "Diario Constitucional",
+      "titular": "Inteligencia artificial en la abogacía: ¿Dónde termina la asistencia tecnológica y comienza la responsabilidad profesional?",
+      "url": "https://www.diarioconstitucional.cl/contrapunto/inteligencia-artificial-en-la-abogacia-donde-termina-la-asistencia-tecnologica-y-comienza-la-2",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.latercera.com/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental suspende por 30 días RCA que aprobó proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-suspende-por-30-dias-rca-que-aprobo-proyecto-minero/",
       "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Pulso",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Barrick entrega sus impresiones por resolución del Segundo Tribunal Ambiental",
+      "url": "https://www.mch.cl/barrick-entrega-sus-impresiones-por-resolucion-del-segundo-tribunal-ambiental/",
       "fecha": "2026-11-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "Pulso",
-      "titular": "Nuevo mall en Algarrobo: SEA pide a Cencosud descartar daños en humedal usando de referencia estándar suizo o argentino",
-      "url": "https://www.pulso.cl/pulso/noticia/nuevo-mall-en-algarrobo-sea-pide-a-cencosud-descartar-danos-en-humedal-usando-de-referencia-estandar-suizo-o-argentino/",
-      "fecha": "2026-11-10",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Las emisiones fósiles caerán en 2026 por primera vez desde la pandemia del coronavirus",
-      "url": "https://efeverde.com/emisiones-fosiles-co2-caeran-primera-vez-pandemia/",
-      "fecha": "2026-11-09",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "EFE Verde",
-      "titular": "La mayor parte del planeta ya experimenta el calentamiento del límite de 1,5 °C",
-      "url": "https://efeverde.com/la-mayor-parte-del-planeta-ya-experimenta-el-calentamiento-del-limite-de-15-c/",
-      "fecha": "2026-11-09",
+      "fuente": "Portal Minero",
+      "titular": "Perú: advierten que nueva prórroga del proceso de formalización minera postergaría cambios estructurales",
+      "url": "https://www.portalminero.com/peru-advierten-que-nueva-prorroga-del-proceso-de-formalizacion-minera-postergaria-cambios-estructurales",
+      "fecha": "2026-11-10",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
