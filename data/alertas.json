@@ -1,90 +1,17 @@
 {
-  "fecha_generacion": "2026-11-13T15:34:01.073715-03:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-11-14T14:15:25.607931-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[Tribunal Ambiental] Fundación Terram busca dejar sin efecto modificación del Reglamento de Suelos, Aguas y Humedales realizada por el Ministerio de Agricultura",
-      "url": "https://www.terram.cl/tribunal-ambiental-fundacion-terram-busca-dejar-sin-efecto-modificacion-del-reglamento-de-suelos-aguas-y-humedales-realizada-por-el-ministerio-de-agricultura/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Segundo Tribunal Ambiental realizó audiencia en reclamación presentada por Fundación Terram en contra de la modificación al Reglamento de Suelos, Aguas y Humedales realizada por el Ministerio de Agricultura. Fuente: Tribunal Ambiental, 12 de novie",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Tercer Tribunal Ambiental] Tribunal acogió reclamaciones contra la SMA por aprobación de Programa de Cumplimiento de centro de salmones de Australis Mar",
-      "url": "https://www.terram.cl/tribunal-ambiental-tribunal-acogio-reclamaciones-contra-la-sma-por-aprobacion-de-programa-de-cumplimiento-de-centro-de-salmones-de-australis-mar/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Se acogieron las reclamaciones que buscaban anular la resolución de la SMA que aprobó el Programa de Cumplimiento del Centro de Cultivo de Salmones Muñoz Gamero 1, ubicado al interior de la Reserva Nacional Kawésqar en Magallanes. Fuente: Tercer Trib",
-      "keywords_detectadas": [
-        "SMA",
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "SMA instruye medidas preventivas a titulares de cinco regiones para evitar incendios ante eventos de calor extremo",
-      "url": "https://portal.sma.gob.cl/index.php/sma-instruye-medidas-preventivas-a-titulares-de-cinco-regiones-para-evitar-incendios-ante-eventos-de-calor-extremo/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Mediante un oficio de advertencia dirigido a unidades fiscalizables de Antofagasta, Atacama, Coquimbo, Valparaíso y la Región Metropolitana, la Superintendencia reforzó, entre otros aspectos, la obligación de mantener cortafuegos, controlar el materi",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
       "fuente": "Diario Constitucional",
-      "titular": "SMA instruye medidas preventivas a empresas de cinco regiones ante riesgo de incendios por calor extremo",
-      "url": "https://www.diarioconstitucional.cl/ambiental/sma-instruye-medidas-preventivas-a-empresas-de-cinco-regiones-ante-riesgo-de-incendios-por-calor",
+      "titular": "Segundo Tribunal Ambiental suspende por 30 días aprobación de proyecto “Prospección Minera El Alto” en Atacama",
+      "url": "https://www.diarioconstitucional.cl/ambiental/segundo-tribunal-ambiental-suspende-por-30-dias-aprobacion-de-proyecto-prospeccion-minera-el-alto-en",
       "fecha": "2026-11-13",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente advirtió a titulares de proyectos de Antofagasta, Atacama, Coquimbo, Valparaíso y la Región Metropolitana sobre la necesidad de reforzar las medidas de prevención, mantener cortafuegos y controlar materiales com",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental inspecciona Humedal Urbano Kan Kan de Viña del Mar por reclamación contra su declaratoria",
-      "url": "https://www.diarioconstitucional.cl/ambiental/segundo-tribunal-ambiental-inspecciona-humedal-urbano-kan-kan-de-vina-del-mar-por-reclamacion-contra",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La diligencia se realizó en el marco de una reclamación presentada por Inmobiliaria Monte Aconcagua S.A., que solicita anular la resolución del Ministerio del Medio Ambiente que reconoció el humedal. La empresa cuestiona modificaciones al polígono y ",
+      "extracto": "La magistratura acogió tres solicitudes de medidas cautelares y ordenó suspender temporalmente los efectos de la Resolución de Calificación Ambiental del proyecto de Minera Naveda SpA, ubicado en Alto del Carmen. El tribunal sostuvo que, en esta etap",
       "keywords_detectadas": [
         "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Asume nueva ministra suplente en ciencias del Primer Tribunal Ambiental",
-      "url": "https://www.revistaei.cl/asume-nueva-ministra-suplente-en-ciencias-del-primer-tribunal-ambiental/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Con esta designación, en el organismo permanece vacante únicamente el cargo de ministro suplente abogado, cuyo proceso de nombramiento se encuentra en curso. La entrada Asume nueva ministra suplente en ciencias del Primer Tribunal Ambiental se public",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "SMA formula cargos contra parques fotovoltaicos Granate y Tamarico por incumplir sus autorizaciones ambientales",
-      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-cargos-contra-parques-fotovoltaicos-granate-y-tamarico-por-incumplir-sus-autorizaciones",
-      "fecha": "2026-11-12",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente inició procedimientos sancionatorios contra los titulares de dos proyectos solares ubicados en las regiones de Atacama y Coquimbo. Las infracciones incluyen deficiencias en la protección de fauna silvestre, daño",
-      "keywords_detectadas": [
-        "SMA"
       ]
     }
   ]
