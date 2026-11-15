@@ -1,101 +1,85 @@
 {
-  "fecha_actualizacion": "2026-11-14T14:15:25.595370-03:00",
-  "total": 12,
+  "fecha_actualizacion": "2026-11-15T14:41:50.759726-03:00",
+  "total": 10,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "EFE Verde",
-      "titular": "Miles de personas exigen en las calles de Antalya más ambición climática a la COP31",
-      "url": "https://efeverde.com/miles-de-personas-exigen-en-las-calles-de-antalya-mas-ambicion-climatica-a-la-cop31/",
-      "fecha": "2026-11-14",
+      "titular": "Diseñan flores impresas en 3D que permiten monitorizar a los polinizadores en el campo",
+      "url": "https://efeverde.com/disenan-flores-impresas-en-3d-que-permiten-monitorizar-a-los-polinizadores-en-el-campo/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La lucha contra la polución en Delhi deja a miles de obreros sin empleo",
-      "url": "https://efeverde.com/la-lucha-contra-la-polucion-en-delhi-deja-a-miles-de-obreros-sin-empleo/",
-      "fecha": "2026-11-14",
+      "titular": "Ya son más de 2.100 los científicos que piden no cambiar las directivas de Aves y Hábitats",
+      "url": "https://efeverde.com/ya-son-mas-de-2-100-los-cientificos-que-piden-no-cambiar-las-directivas-de-aves-y-habitats/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "LA ONU subraya que las negociaciones de la COP31 avanzan en un ambiente constructivo",
-      "url": "https://efeverde.com/la-onu-subraya-que-las-negociaciones-de-la-cop31-avanzan-en-un-ambiente-constructivo/",
-      "fecha": "2026-11-14",
+      "titular": "La película ‘Snow Leopard Sisters’ gana el Sol de Oro del Festival SUNCINE",
+      "url": "https://efeverde.com/la-pelicula-snow-leopard-sisters-gana-el-sol-de-oro-del-festival-suncine/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El lobo ibérico mantiene su identidad genética pese a los cruces con perros",
-      "url": "https://efeverde.com/el-lobo-iberico-mantiene-su-identidad-genetica-pese-a-los-cruces-con-perros/",
-      "fecha": "2026-11-14",
+      "titular": "El clima extremo gana terreno en España mientras la COP31 debate como adaptarse",
+      "url": "https://efeverde.com/el-clima-extremo-gana-terreno-en-espana-mientras-la-cop31-debate-como-adaptarse/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Cuando un dato ayuda a salvar la naturaleza. Por Guillermo Ramírez (Fundación Global Nature)",
-      "url": "https://efeverde.com/cuando-un-dato-ayuda-a-salvar-la-naturaleza-por-guillermo-ramirez/",
-      "fecha": "2026-11-14",
+      "titular": "Ante las compras navideñas, «hibernemos». Por Nora Sesmero",
+      "url": "https://efeverde.com/ante-las-compras-navidenas-hibernemos-por-nora-sesmero/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Una pionera iniciativa busca dotar de personalidad jurídica a todos los árboles de una ciudad",
-      "url": "https://efeverde.com/una-pionera-iniciativa-busca-dotar-de-personalidad-juridica-a-todos-los-arboles-de-una-ciudad/",
-      "fecha": "2026-11-14",
+      "titular": "Por qué recuperar la lana, la fibra que hila oficios y teje campos resistentes al fuego",
+      "url": "https://efeverde.com/por-que-recuperar-la-lana-la-fibra-que-hila-oficios-y-teje-campos-resistentes-al-fuego/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Los paisajes en mosaico, una herramienta para reducir el impacto de los grandes incendios forestales",
-      "url": "https://efeverde.com/los-paisajes-en-mosaico-una-herramienta-para-reducir-el-impacto-de-los-grandes-incendios-forestales/",
-      "fecha": "2026-11-14",
+      "titular": "Delitos contra el medio ambiente: ¿por qué seguimos restándoles importancia? Por Lucía Sánchez-Tejado",
+      "url": "https://efeverde.com/delitos-contra-el-medio-ambiente-por-que-seguimos-restandoles-importancia-por-lucia-sanchez-tejado/",
+      "fecha": "2026-11-15",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "Desgaste, informes de EY y un choque con el director laboral: la trama detrás de la salida de Julio Friedmann de ENAP",
-      "url": "https://www.df.cl/senal-df/el-deal/desgaste-informes-de-ey-y-un-choque-con-el-director-laboral-la-trama",
-      "fecha": "2026-11-14",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
+      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
+      "fecha": "2026-11-15",
       "fecha_confiable": false,
       "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Lanzan proyecto del Fondo de Protección Ambiental “Guardianes del Agua y la Tierra” en el EcoParque de Alto Hospicio",
-      "url": "https://mma.gob.cl/lanzan-proyecto-del-fondo-de-proteccion-ambiental-guardianes-del-agua-y-la-tierra-en-el-ecoparque-de-alto-hospicio/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
+      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
+      "fecha": "2026-11-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Los Ríos: Realizarán cuatro jornadas de participación ciudadana sobre el anteproyecto de normas para proteger lagos nor-patagónicos",
-      "url": "https://mma.gob.cl/los-rios-realizaran-cuatro-jornadas-de-participacion-ciudadana-sobre-el-anteproyecto-de-normas-para-proteger-lagos-nor-patagonicos/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Presentan Plan Local de Restauración Socioecológica del Paisaje Corredor del Puma",
-      "url": "https://mma.gob.cl/presentan-plan-local-de-restauracion-socioecologica-del-paisaje-corredor-del-puma/",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental suspende por 30 días aprobación de proyecto “Prospección Minera El Alto” en Atacama",
-      "url": "https://www.diarioconstitucional.cl/ambiental/segundo-tribunal-ambiental-suspende-por-30-dias-aprobacion-de-proyecto-prospeccion-minera-el-alto-en",
-      "fecha": "2026-11-13",
+      "fuente": "La Tercera",
+      "titular": "Trump cuestiona conmutación masiva de penas de muerte en California y pide revertir la medida",
+      "url": "https://www.latercera.com/mundo/noticia/trump-cuestiona-conmutacion-masiva-de-penas-de-muerte-en-california-y-pide-revertir-la-medida/",
+      "fecha": "2026-11-14",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

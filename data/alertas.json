@@ -1,17 +1,29 @@
 {
-  "fecha_generacion": "2026-11-14T14:15:25.607931-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-11-15T14:41:50.769177-03:00",
+  "total_alertas": 2,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Segundo Tribunal Ambiental suspende por 30 días aprobación de proyecto “Prospección Minera El Alto” en Atacama",
-      "url": "https://www.diarioconstitucional.cl/ambiental/segundo-tribunal-ambiental-suspende-por-30-dias-aprobacion-de-proyecto-prospeccion-minera-el-alto-en",
-      "fecha": "2026-11-13",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La magistratura acogió tres solicitudes de medidas cautelares y ordenó suspender temporalmente los efectos de la Resolución de Calificación Ambiental del proyecto de Minera Naveda SpA, ubicado en Alto del Carmen. El tribunal sostuvo que, en esta etap",
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
+      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
+      "fecha": "2026-11-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "Ley REP"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
+      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
+      "fecha": "2026-11-15",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
+      "keywords_detectadas": [
+        "Ley REP"
       ]
     }
   ]
