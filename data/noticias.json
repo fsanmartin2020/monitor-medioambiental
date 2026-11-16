@@ -1,85 +1,317 @@
 {
-  "fecha_actualizacion": "2026-11-15T14:41:50.759726-03:00",
-  "total": 10,
+  "fecha_actualizacion": "2026-11-16T18:00:17.692655-03:00",
+  "total": 39,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "EFE Verde",
-      "titular": "Diseñan flores impresas en 3D que permiten monitorizar a los polinizadores en el campo",
-      "url": "https://efeverde.com/disenan-flores-impresas-en-3d-que-permiten-monitorizar-a-los-polinizadores-en-el-campo/",
-      "fecha": "2026-11-15",
+      "fuente": "País Circular",
+      "titular": "Segundo Tribunal Ambiental recorrió Humedal Urbano Kan Kan en Viña del Mar como parte del análisis de reclamación contra declaratoria",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-recorrio-humedal-urbano-kan-kan-en-vina-del-mar-como-parte-del-analisis-de-reclamacion-contra-declaratoria/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Marejadas, playas en retroceso y un verano a la puerta: el litoral de Valparaíso acumula señales de alerta",
+      "url": "https://www.paiscircular.cl/medio-ambiente/marejadas-playas-en-retroceso-y-un-verano-a-la-puerta-el-litoral-de-valparaiso-acumula-senales-de-alerta/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Adultas mayores de El Bosque se suman a combatir el desperdicio alimentario junto a Fundación Basura",
+      "url": "https://www.paiscircular.cl/ciudad/adultas-mayores-de-el-bosque-se-suman-a-combatir-el-desperdicio-alimentario-junto-a-fundacion-basura/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Alexandra Cousteau: “No estamos frente a un mar que ya se contaminó, sino frente a uno que recién empieza a contaminarse en serio”",
+      "url": "https://www.paiscircular.cl/medio-ambiente/alexandra-cousteau-no-estamos-frente-a-un-mar-que-ya-se-contamino-sino-frente-a-uno-que-recien-empieza-a-contaminarse-en-serio/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Simon Stiell, en el punto medio de la COP31: No habrá éxito colectivo si todas las Partes no están dispuestas a encontrar puntos de acuerdo",
+      "url": "https://www.chiledesarrollosustentable.cl/simon-stiell-en-el-punto-medio-de-la-cop31-no-habra-exito-colectivo-si-todas-las-partes-no-estan-dispuestas-a-encontrar-puntos-de-acuerdo/?utm_source=rss&utm_medium=rss&utm_campaign=simon-stiell-en-el-punto-medio-de-la-cop31-no-habra-exito-colectivo-si-todas-las-partes-no-estan-dispuestas-a-encontrar-puntos-de-acuerdo",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Arrancan talleres de participación ciudadana para abordar normativa de protección de las aguas de los lagos nor-patagónicos",
+      "url": "https://www.chiledesarrollosustentable.cl/arrancan-talleres-de-participacion-ciudadana-para-abordar-normativa-de-proteccion-de-las-aguas-de-los-lagos-nor-patagonicos/?utm_source=rss&utm_medium=rss&utm_campaign=arrancan-talleres-de-participacion-ciudadana-para-abordar-normativa-de-proteccion-de-las-aguas-de-los-lagos-nor-patagonicos",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Chile Desarrollo Sustentable",
+      "titular": "Nestlé se posiciona entre las empresas con mejor reputación de Chile en ranking de confianza ciudadana",
+      "url": "https://www.chiledesarrollosustentable.cl/nestle-se-posiciona-entre-las-empresas-con-mejor-reputacion-de-chile-en-ranking-de-confianza-ciudadana/?utm_source=rss&utm_medium=rss&utm_campaign=nestle-se-posiciona-entre-las-empresas-con-mejor-reputacion-de-chile-en-ranking-de-confianza-ciudadana",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Termina la primera semana de la COP31 con la transición justa sin presupuesto y la electrificación en duda",
+      "url": "https://codexverde.cl/termina-la-primera-semana-de-la-cop31-con-la-transicion-justa-sin-presupuesto-y-la-electrificacion-en-duda/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Codex Verde",
+      "titular": "Marejadas, playas en retroceso y un verano a la puerta: el litoral de Valparaíso acumula señales de alerta",
+      "url": "https://codexverde.cl/marejadas-playas-en-retroceso-y-un-verano-a-la-puerta-el-litoral-de-valparaiso-acumula-senales-de-alerta/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CR2 - Centro de Ciencia del Clima",
+      "titular": "Eventos extremos en Chile: desafíos para un país resiliente | Coyhaique",
+      "url": "https://www.cr2.cl/eventos-extremos-en-chile-desafios-para-un-pais-resiliente-coyhaique/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ya son más de 2.100 los científicos que piden no cambiar las directivas de Aves y Hábitats",
-      "url": "https://efeverde.com/ya-son-mas-de-2-100-los-cientificos-que-piden-no-cambiar-las-directivas-de-aves-y-habitats/",
-      "fecha": "2026-11-15",
+      "titular": "La COP31 trabajará en la salida «gradual» de energías fósiles y subvenciones climáticas",
+      "url": "https://efeverde.com/cop31-trabajara-en-salida-gradual-de-energias-fosiles-y-subvenciones-climaticas/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La película ‘Snow Leopard Sisters’ gana el Sol de Oro del Festival SUNCINE",
-      "url": "https://efeverde.com/la-pelicula-snow-leopard-sisters-gana-el-sol-de-oro-del-festival-suncine/",
-      "fecha": "2026-11-15",
+      "titular": "Congresistas demócratas reivindican en la COP31 «el compromiso de EE.UU. con el planeta»",
+      "url": "https://efeverde.com/cop31-congresistas-democratas-compromiso-de-eeuu-con-planeta/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El clima extremo gana terreno en España mientras la COP31 debate como adaptarse",
-      "url": "https://efeverde.com/el-clima-extremo-gana-terreno-en-espana-mientras-la-cop31-debate-como-adaptarse/",
-      "fecha": "2026-11-15",
+      "titular": "Jóvenes del Sur Global piden a Colombia que proteja la Amazonía durante la COP31",
+      "url": "https://efeverde.com/jovenes-sur-global-piden-proteger-amazonia-colombiana-cop31/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ante las compras navideñas, «hibernemos». Por Nora Sesmero",
-      "url": "https://efeverde.com/ante-las-compras-navidenas-hibernemos-por-nora-sesmero/",
-      "fecha": "2026-11-15",
+      "titular": "El primer borrador de la decisión final de la COP31 pide «acelerar la eliminación de los combustibles fósiles»",
+      "url": "https://efeverde.com/cop31-primer-borrador-decision-final/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Por qué recuperar la lana, la fibra que hila oficios y teje campos resistentes al fuego",
-      "url": "https://efeverde.com/por-que-recuperar-la-lana-la-fibra-que-hila-oficios-y-teje-campos-resistentes-al-fuego/",
-      "fecha": "2026-11-15",
+      "titular": "España urge a la COP31 a acordar el abandono de los combustibles fósiles",
+      "url": "https://efeverde.com/cop31-espana-urge-acordar-abandono-combustibles-fosiles/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Delitos contra el medio ambiente: ¿por qué seguimos restándoles importancia? Por Lucía Sánchez-Tejado",
-      "url": "https://efeverde.com/delitos-contra-el-medio-ambiente-por-que-seguimos-restandoles-importancia-por-lucia-sanchez-tejado/",
-      "fecha": "2026-11-15",
+      "titular": "La caída de cultivos por el cambio climático amenaza con alterar la migración mediterránea",
+      "url": "https://efeverde.com/la-caida-de-cultivos-por-el-cambio-climatico-amenaza-con-alterar-la-migracion-mediterranea/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La ONU reclama a las grandes tecnológicas que asuma los costes medioambientales de la IA",
+      "url": "https://efeverde.com/la-onu-reclama-a-las-grandes-tecnologicas-que-asuma-los-costes-medioambientales-de-la-ia/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Guterres pide más atención a países emergentes y más peso para ellos en foros climáticos",
+      "url": "https://efeverde.com/guterres-pide-mas-atencion-a-paises-emergentes-y-mas-peso-para-ellos-en-foros-climaticos/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Electrificación: ¡lo bueno es enemigo de lo mejor! Por Bertrand Piccard (presidente de la Fundación Solar Impulse)",
+      "url": "https://efeverde.com/electrificacion-lo-bueno-es-enemigo-de-lo-mejor-por-bertrand-piccard/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31 comienza su semana decisiva con una primera jornada sobre la IA y sus impactos",
+      "url": "https://efeverde.com/la-cop31-comienza-su-semana-decisiva-con-una-primera-jornada-sobre-la-ia-y-sus-impactos/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Cambio climático y votantes: 2 de cada 3 dejaría de votar a quien diga que no hará nada",
+      "url": "https://efeverde.com/cambio-climatico-y-votantes-2-de-cada-3-dejaria-de-votar-a-quien-diga-que-no-hara-nada/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario U Chile] Declarar no es proteger: las deudas de la conservación en Chile",
+      "url": "https://www.terram.cl/diario-u-chile-declarar-no-es-proteger-las-deudas-de-la-conservacion-en-chile/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ciper] Nuevo informe: Sernageomin insiste en que proyecto del hermano del ministro Quiroz no permite descartar “remociones en masa”",
+      "url": "https://www.terram.cl/ciper-nuevo-informe-sernageomin-insiste-en-que-proyecto-del-hermano-del-ministro-quiroz-no-permite-descartar-remociones-en-masa/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Ovejero Noticias] TotalEnergies confirma cancelación oficial del megaproyecto H2 Magallanes por inviabilidad económica.",
+      "url": "https://www.terram.cl/ovejero-noticias-totalenergies-confirma-cancelacion-oficial-del-megaproyecto-h2-magallanes-por-inviabilidad-economica/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[El Pincoyazo] Mapa virtual: La propiedad de los centros de datos que se instalan en Chile y su relación con el complejo militar de EEUU",
+      "url": "https://www.terram.cl/el-pincoyazo-mapa-virtual-la-propiedad-de-los-centros-de-datos-que-se-instalan-en-chile-y-su-relacion-con-el-complejo-militar-de-eeuu/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[Diario Sostenible] Comunidad de Isla Huapi recurre a la justicia para frenar proyecto inmobiliario en Bahía Coique",
+      "url": "https://www.terram.cl/diario-sostenible-comunidad-de-isla-huapi-recurre-a-la-justicia-para-frenar-proyecto-inmobiliario-en-bahia-coique/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[País Circular] Alexandra Cousteau: “No estamos frente a un mar que ya se contaminó, sino frente a uno que recién empieza a contaminarse en serio”",
+      "url": "https://www.terram.cl/pais-circular-alexandra-cousteau-no-estamos-frente-a-un-mar-que-ya-se-contamino-sino-frente-a-uno-que-recien-empieza-a-contaminarse-en-serio/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "FIMA",
+      "titular": "Bailando por la eficiencia",
+      "url": "https://www.fima.cl/2026/11/16/bailando-por-la-eficiencia/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Tribunal abre proceso de selección para el cargo de Relator(a) Abogado(a)",
+      "url": "https://tribunalambiental.cl/tribunal-abre-proceso-de-seleccion-para-el-cargo-de-relatora-abogadoa/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "2do Tribunal Ambiental",
+      "titular": "Continuación de la audiencia R-572-2025. Fundación Terram contra el Ministerio de Agricultura",
+      "url": "https://tribunalambiental.cl/continuacion-audiencia-r-572-2025-fundacion-terram-contra-el-ministerio-de-agricultura/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-32-2026 «Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-32-2026-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Gobierno lanzó la campaña “Juntos pongamos un Alto al Fuego” contra los incendios forestales 2026-2027",
+      "url": "https://www.conaf.cl/gobierno-lanzo-la-campana-juntos-pongamos-un-alto-al-fuego-contra-los-incendios-forestales-2026-2027/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-lanzo-la-campana-juntos-pongamos-un-alto-al-fuego-contra-los-incendios-forestales-2026-2027",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Cerca de 300 nuevos árboles: CONAF y un centenar de voluntarios se unen para construir una Antofagasta más verde",
+      "url": "https://www.conaf.cl/cerca-de-300-nuevos-arboles-conaf-y-un-centenar-de-voluntarios-se-unen-para-construir-una-antofagasta-mas-verde/?utm_source=rss&utm_medium=rss&utm_campaign=cerca-de-300-nuevos-arboles-conaf-y-un-centenar-de-voluntarios-se-unen-para-construir-una-antofagasta-mas-verde",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "CONAF Biobío firma Acuerdo de Producción Limpia para fomentar el uso sustentable del bosque nativo",
+      "url": "https://www.conaf.cl/conaf-biobio-firma-acuerdo-de-produccion-limpia-para-fomentar-el-uso-sustentable-del-bosque-nativo/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-biobio-firma-acuerdo-de-produccion-limpia-para-fomentar-el-uso-sustentable-del-bosque-nativo",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Los Lagos y Magallanes: SMA aprueba dos Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-y-magallanes-sma-aprueba-dos-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-11-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "titular": "Se califica favorablemente DIA de proyecto energético de minera",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-energetico-de-minera/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-11-15",
+      "fuente": "Reporte Minero",
+      "titular": "Robert Currie Ríos se incorpora como Ministro Titular del Tercer Tribunal Ambiental",
+      "url": "http://www.reporteminero.cl/noticia/noticias/2026/11/robert-currie-rios-ministro-tercer-tribunal-ambiental",
+      "fecha": "2026-11-16",
       "fecha_confiable": false,
-      "metodo_extraccion": "article-tags"
+      "metodo_extraccion": "links-genericos"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Trump cuestiona conmutación masiva de penas de muerte en California y pide revertir la medida",
-      "url": "https://www.latercera.com/mundo/noticia/trump-cuestiona-conmutacion-masiva-de-penas-de-muerte-en-california-y-pide-revertir-la-medida/",
-      "fecha": "2026-11-14",
+      "fuente": "REDIMIN",
+      "titular": "SMA formula cargos a dos parques solares del norte y cuestiona sus medidas ambientales",
+      "url": "https://www.redimin.cl/sma-formula-cargos-a-dos-parques-solares-del-norte-y-cuestiona-sus-medidas-ambientales",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA advierte a titulares de cinco regiones ante riesgo de incendios: las medidas preventivas",
+      "url": "https://www.redimin.cl/sma-advierte-a-titulares-de-cinco-regiones-ante-riesgo-de-incendios-las-medidas-preventivas",
+      "fecha": "2026-11-16",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

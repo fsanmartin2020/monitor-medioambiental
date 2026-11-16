@@ -1,29 +1,89 @@
 {
-  "fecha_generacion": "2026-11-15T14:41:50.769177-03:00",
-  "total_alertas": 2,
+  "fecha_generacion": "2026-11-16T18:00:17.708010-03:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-11-15",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fuente": "País Circular",
+      "titular": "Segundo Tribunal Ambiental recorrió Humedal Urbano Kan Kan en Viña del Mar como parte del análisis de reclamación contra declaratoria",
+      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-recorrio-humedal-urbano-kan-kan-en-vina-del-mar-como-parte-del-analisis-de-reclamacion-contra-declaratoria/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La Inmobiliaria Monte Aconcagua, propietaria de dos predios que alcanzan una superficie total de 25.999 m2 aprox., y que quedaron ubicados parcialmente bajo el polígono del Humedal Urbano Kan Kan, solicitó al Tribunal que anule la resolución del MMA.",
       "keywords_detectadas": [
-        "Ley REP"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-32-2026 «Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-32-2026-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-32-2026 «Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental», el martes 17 de noviembre, a las",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "Los Lagos y Magallanes: SMA aprueba dos Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
+      "url": "https://portal.sma.gob.cl/index.php/los-lagos-y-magallanes-sma-aprueba-dos-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Las acciones de los programas están orientadas a subsanar los incumplimientos ambientales cometidos por las empresas en sus centros de cultivo. Los planes consideran medidas avaluadas en $9.500 millones. La Superintendencia del Medio Ambiente (SMA) a",
+      "keywords_detectadas": [
+        "SMA"
       ]
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Economía circular y Ley REP: Del cumplimiento a la valorización de los residuos mineros",
-      "url": "https://www.mch.cl/economia-circular-y-ley-rep-del-cumplimiento-a-la-valorizacion-de-los-residuos-mineros/",
-      "fecha": "2026-11-15",
+      "titular": "Se califica favorablemente DIA de proyecto energético de minera",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-energetico-de-minera/",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa se emplazará en la comuna de María Elena, provincia de Tocopilla, Región de Antofagasta. La entrada Se califica favorablemente DIA de proyecto energético de minera se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "Reporte Minero",
+      "titular": "Robert Currie Ríos se incorpora como Ministro Titular del Tercer Tribunal Ambiental",
+      "url": "http://www.reporteminero.cl/noticia/noticias/2026/11/robert-currie-rios-ministro-tercer-tribunal-ambiental",
+      "fecha": "2026-11-16",
       "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
+      "metodo_extraccion": "links-genericos",
       "extracto": "",
       "keywords_detectadas": [
-        "Ley REP"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA formula cargos a dos parques solares del norte y cuestiona sus medidas ambientales",
+      "url": "https://www.redimin.cl/sma-formula-cargos-a-dos-parques-solares-del-norte-y-cuestiona-sus-medidas-ambientales",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En Vallenar, el tránsito de maquinaria pesada alcanzó zonas destinadas a la relocalización de cactáceas protegidas.",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA advierte a titulares de cinco regiones ante riesgo de incendios: las medidas preventivas",
+      "url": "https://www.redimin.cl/sma-advierte-a-titulares-de-cinco-regiones-ante-riesgo-de-incendios-las-medidas-preventivas",
+      "fecha": "2026-11-16",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La declaración de Alerta Roja por calor extremo abarcó zonas con instalaciones sujetas a fiscalización ambiental.",
+      "keywords_detectadas": [
+        "SMA"
       ]
     }
   ]
