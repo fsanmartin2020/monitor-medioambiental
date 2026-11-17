@@ -1,12 +1,12 @@
 {
-  "fecha_generacion": "2026-11-16T18:00:17.708010-03:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-11-17T16:49:46.049743-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "País Circular",
-      "titular": "Segundo Tribunal Ambiental recorrió Humedal Urbano Kan Kan en Viña del Mar como parte del análisis de reclamación contra declaratoria",
-      "url": "https://www.paiscircular.cl/radar-legal/segundo-tribunal-ambiental-recorrio-humedal-urbano-kan-kan-en-vina-del-mar-como-parte-del-analisis-de-reclamacion-contra-declaratoria/",
-      "fecha": "2026-11-16",
+      "fuente": "Terram",
+      "titular": "[País Circular] Segundo Tribunal Ambiental recorrió Humedal Urbano Kan Kan en Viña del Mar como parte del análisis de reclamación contra declaratoria",
+      "url": "https://www.terram.cl/pais-circular-segundo-tribunal-ambiental-recorrio-humedal-urbano-kan-kan-en-vina-del-mar-como-parte-del-analisis-de-reclamacion-contra-declaratoria/",
+      "fecha": "2026-11-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "La Inmobiliaria Monte Aconcagua, propietaria de dos predios que alcanzan una superficie total de 25.999 m2 aprox., y que quedaron ubicados parcialmente bajo el polígono del Humedal Urbano Kan Kan, solicitó al Tribunal que anule la resolución del MMA.",
@@ -16,74 +16,62 @@
     },
     {
       "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-32-2026 «Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-32-2026-fundacion-senda-darwin-con-director-ejecutivo-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-11-16",
+      "titular": "Transmisión audiencia causa R-53-2026 «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-53-2026-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-11-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-32-2026 «Fundación Senda Darwin con Director Ejecutivo Servicio de Evaluación Ambiental», el martes 17 de noviembre, a las",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-53-2026 «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental», el miércoles 18",
       "keywords_detectadas": [
         "Servicio de Evaluación Ambiental"
       ]
     },
     {
-      "fuente": "SMA",
-      "titular": "Los Lagos y Magallanes: SMA aprueba dos Programas de Cumplimiento a empresas titulares de Centros de Engorda de Salmones",
-      "url": "https://portal.sma.gob.cl/index.php/los-lagos-y-magallanes-sma-aprueba-dos-programas-de-cumplimiento-a-empresas-titulares-de-centros-de-engorda-de-salmones/",
-      "fecha": "2026-11-16",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Coquimbo realizó primer taller regional del Acuerdo de Escazú para acercar la información y la justicia ambiental a la ciudadanía",
+      "url": "https://mma.gob.cl/coquimbo-realizo-primer-taller-regional-del-acuerdo-de-escazu-para-acercar-la-informacion-y-la-justicia-ambiental-a-la-ciudadania/",
+      "fecha": "2026-11-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las acciones de los programas están orientadas a subsanar los incumplimientos ambientales cometidos por las empresas en sus centros de cultivo. Los planes consideran medidas avaluadas en $9.500 millones. La Superintendencia del Medio Ambiente (SMA) a",
+      "extracto": "La jornada, convocada por la SEREMI del Medio Ambiente y el Comité Regional por Escazú, reunió a dirigentes sociales, municipios […]",
       "keywords_detectadas": [
-        "SMA"
+        "Escazú"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de proyecto energético de minera",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-proyecto-energetico-de-minera/",
-      "fecha": "2026-11-16",
+      "fuente": "La Tercera",
+      "titular": "Arenas apunta a ley Antibarricadas 2.0 y dice que no quiere que la interrupción parcial del tránsito “sea un delito”",
+      "url": "https://www.latercera.com/politica/noticia/arenas-apunta-a-ley-antibarricadas-20-y-dice-que-no-quiere-que-la-interrupcion-parcial-del-transito-sea-un-delito/",
+      "fecha": "2026-11-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La iniciativa se emplazará en la comuna de María Elena, provincia de Tocopilla, Región de Antofagasta. La entrada Se califica favorablemente DIA de proyecto energético de minera se publicó primero en Mch .",
+      "extracto": "\"La demanda de la Ley Antibarricadas 2.0 no la conozco. Llevo tres semanas, pero no he escuchado que se haya discutido en el gobierno\", admitió el subsecretario vocero.",
       "keywords_detectadas": [
-        "DIA"
+        "SEA"
       ]
     },
     {
-      "fuente": "Reporte Minero",
-      "titular": "Robert Currie Ríos se incorpora como Ministro Titular del Tercer Tribunal Ambiental",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/11/robert-currie-rios-ministro-tercer-tribunal-ambiental",
-      "fecha": "2026-11-16",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
+      "fuente": "La Tercera",
+      "titular": "Zandra Parisi y AC contra Rabat: “Acá se quiere correr sangre como sea”",
+      "url": "https://www.latercera.com/politica/noticia/zandra-parisi-y-ac-contra-rabat-aca-se-quiere-correr-sangre-como-sea/",
+      "fecha": "2026-11-17",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Frente a cómo votarán, la parlamentaria descartó que existan presiones de parte de Franco Parisi, indicando que el líder del PDG \"no nos impone, nos sugiere\".",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
+        "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SMA formula cargos a dos parques solares del norte y cuestiona sus medidas ambientales",
-      "url": "https://www.redimin.cl/sma-formula-cargos-a-dos-parques-solares-del-norte-y-cuestiona-sus-medidas-ambientales",
-      "fecha": "2026-11-16",
+      "fuente": "El Ciudadano",
+      "titular": "Vocero Arenas arremete contra proyecto antibarricadas de su propio gobierno: «Yo no quiero que sea delito»",
+      "url": "https://www.elciudadano.com/actualidad/vocero-arenas-arremete-contra-proyecto-antibarricadas-de-su-propio-gobierno-yo-no-quiero-que-sea-delito/11/17/",
+      "fecha": "2026-11-17",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En Vallenar, el tránsito de maquinaria pesada alcanzó zonas destinadas a la relocalización de cactáceas protegidas.",
+      "extracto": "El Ciudadano Un incómodo momento vivió este lunes el vocero de Gobierno, Gonzalo Arenas, al expresar su rechazo al proyecto de ley Antibarricadas 2.0, una iniciativa que su propio Gobierno está impulsando en el Congreso Nacional. El episodio ocurrió ",
       "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "REDIMIN",
-      "titular": "SMA advierte a titulares de cinco regiones ante riesgo de incendios: las medidas preventivas",
-      "url": "https://www.redimin.cl/sma-advierte-a-titulares-de-cinco-regiones-ante-riesgo-de-incendios-las-medidas-preventivas",
-      "fecha": "2026-11-16",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La declaración de Alerta Roja por calor extremo abarcó zonas con instalaciones sujetas a fiscalización ambiental.",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     }
   ]
