@@ -1,77 +1,65 @@
 {
-  "fecha_generacion": "2026-11-17T16:49:46.049743-03:00",
-  "total_alertas": 6,
+  "fecha_generacion": "2026-11-18T16:35:45.465293-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
       "fuente": "Terram",
-      "titular": "[País Circular] Segundo Tribunal Ambiental recorrió Humedal Urbano Kan Kan en Viña del Mar como parte del análisis de reclamación contra declaratoria",
-      "url": "https://www.terram.cl/pais-circular-segundo-tribunal-ambiental-recorrio-humedal-urbano-kan-kan-en-vina-del-mar-como-parte-del-analisis-de-reclamacion-contra-declaratoria/",
-      "fecha": "2026-11-17",
+      "titular": "[La Tercera] Reforma al SEIA: gobierno ingresa indicaciones para fijar “reglas claras” y agilizar los plazos de respuestas",
+      "url": "https://www.terram.cl/la-tercera-reforma-al-seia-gobierno-ingresa-indicaciones-para-fijar-reglas-claras-y-agilizar-los-plazos-de-respuestas/",
+      "fecha": "2026-11-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Inmobiliaria Monte Aconcagua, propietaria de dos predios que alcanzan una superficie total de 25.999 m2 aprox., y que quedaron ubicados parcialmente bajo el polígono del Humedal Urbano Kan Kan, solicitó al Tribunal que anule la resolución del MMA.",
+      "extracto": "Este miércoles, la Comisión de Medioambiente de la Cámara de Diputados reactivará la discusión y comenzará a votar las indicaciones ingresadas por el Ejecutivo. Fuente: 18 de noviembre de 2026.",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-43, R-44 y R-45-2026 «Agrícola Kuriñanco e Inversiones e Inmobiliaria Pilolcura con SMA»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-43-r-44-y-r-45-2026-agricola-kurinanco-e-inversiones-e-inmobiliaria-pilolcura-con-sma/",
+      "fecha": "2026-11-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-43, R-44 y R-45-2026 «Agrícola Kuriñanco e Inversiones e Inmobiliaria Pilolcura con SMA», el jueves 19 de noviembre, a las",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra Exportadora Los Fiordos Ltda. por sobreproducción en centro de cultivo de salmones en Aysén",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-exportadora-los-fiordos-ltda-por-sobreproduccion-en-centro-de-cultivo-de-salmones-en-aysen/",
+      "fecha": "2026-11-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La empresa habría excedido en 133,54 toneladas el límite de producción autorizado para el CES Cuptana 4, ubicado en la comuna de Cisnes, al interior de la Reserva Nacional Las Guaitecas. La Superintendencia del Medio Ambiente (SMA) inició un procedim",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "VII Foro Internacional: Segundo Tribunal Ambiental reunirá a especialistas para abordar los desafíos que la transición energética impone a la justicia ambiental",
+      "url": "https://www.diarioconstitucional.cl/ambiental/vii-foro-internacional-segundo-tribunal-ambiental-reunira-a-especialistas-para-abordar-los-desafios",
+      "fecha": "2026-11-18",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El encuentro, organizado por el Segundo Tribunal Ambiental, reunirá el 26 de noviembre a especialistas nacionales y extranjeros de la judicatura, la academia y las ciencias ambientales para analizar los desafíos jurídicos, regulatorios y territoriale",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-53-2026 «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-53-2026-ilustre-municipalidad-de-concepcion-con-director-ejecutivo-del-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-11-17",
+      "fuente": "Diario Constitucional",
+      "titular": "Corte Suprema declara prescrita acción de cobro de Corfo por más de $6 mil millones",
+      "url": "https://www.diarioconstitucional.cl/judicial/corte-suprema-declara-prescrita-accion-de-cobro-de-corfo-por-mas-de-6-mil-millones",
+      "fecha": "2026-11-18",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-53-2026 «Ilustre Municipalidad de Concepción con Director Ejecutivo del Servicio de Evaluación Ambiental», el miércoles 18",
+      "extracto": "El máximo tribunal estableció que la presentación de una demanda ejecutiva constituye una manifestación válida de la voluntad del acreedor de exigir anticipadamente el pago total de una deuda, aunque posteriormente sea retirada sin notificarse al deu",
       "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Coquimbo realizó primer taller regional del Acuerdo de Escazú para acercar la información y la justicia ambiental a la ciudadanía",
-      "url": "https://mma.gob.cl/coquimbo-realizo-primer-taller-regional-del-acuerdo-de-escazu-para-acercar-la-informacion-y-la-justicia-ambiental-a-la-ciudadania/",
-      "fecha": "2026-11-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La jornada, convocada por la SEREMI del Medio Ambiente y el Comité Regional por Escazú, reunió a dirigentes sociales, municipios […]",
-      "keywords_detectadas": [
-        "Escazú"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Arenas apunta a ley Antibarricadas 2.0 y dice que no quiere que la interrupción parcial del tránsito “sea un delito”",
-      "url": "https://www.latercera.com/politica/noticia/arenas-apunta-a-ley-antibarricadas-20-y-dice-que-no-quiere-que-la-interrupcion-parcial-del-transito-sea-un-delito/",
-      "fecha": "2026-11-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "\"La demanda de la Ley Antibarricadas 2.0 no la conozco. Llevo tres semanas, pero no he escuchado que se haya discutido en el gobierno\", admitió el subsecretario vocero.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "Zandra Parisi y AC contra Rabat: “Acá se quiere correr sangre como sea”",
-      "url": "https://www.latercera.com/politica/noticia/zandra-parisi-y-ac-contra-rabat-aca-se-quiere-correr-sangre-como-sea/",
-      "fecha": "2026-11-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Frente a cómo votarán, la parlamentaria descartó que existan presiones de parte de Franco Parisi, indicando que el líder del PDG \"no nos impone, nos sugiere\".",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "El Ciudadano",
-      "titular": "Vocero Arenas arremete contra proyecto antibarricadas de su propio gobierno: «Yo no quiero que sea delito»",
-      "url": "https://www.elciudadano.com/actualidad/vocero-arenas-arremete-contra-proyecto-antibarricadas-de-su-propio-gobierno-yo-no-quiero-que-sea-delito/11/17/",
-      "fecha": "2026-11-17",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Ciudadano Un incómodo momento vivió este lunes el vocero de Gobierno, Gonzalo Arenas, al expresar su rechazo al proyecto de ley Antibarricadas 2.0, una iniciativa que su propio Gobierno está impulsando en el Congreso Nacional. El episodio ocurrió ",
-      "keywords_detectadas": [
-        "SEA"
+        "Corte Suprema"
       ]
     }
   ]
