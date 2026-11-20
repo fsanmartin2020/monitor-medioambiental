@@ -1,125 +1,65 @@
 {
-  "fecha_generacion": "2026-11-19T16:41:46.229393-03:00",
-  "total_alertas": 10,
+  "fecha_generacion": "2026-11-20T16:09:41.640714-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
       "fuente": "Terram",
-      "titular": "[El Divisadero] SMA acusa sobreproducción de salmones en centro Los Fiordos emplazado en la Reserva Nacional Las Guaitecas",
-      "url": "https://www.terram.cl/el-divisadero-sma-acusa-sobreproduccion-de-salmones-en-centro-los-fiordos-emplazado-en-la-reserva-nacional-las-guaitecas/",
-      "fecha": "2026-11-19",
+      "titular": "[El Desconcierto] Codelco arriesga clausura de Ministro Hales tras dos cargos graves de la SMA por contaminación",
+      "url": "https://www.terram.cl/el-desconcierto-codelco-arriesga-clausura-de-ministro-hales-tras-dos-cargos-graves-de-la-sma-por-contaminacion/",
+      "fecha": "2026-11-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente inició un procedimiento sancionatorio contra Exportadora Los Fiordos Ltda., luego de detectar que el centro de cultivo Cuptana 4 habría superado en 133,54 toneladas el máximo de producción autorizado. Fuente: El",
+      "extracto": "Las infracciones apuntan al control de polvo en el chancador primario y al botadero de estériles de la división ubicada en Calama. Fuente: El Desconcierto, 19 de noviembre de 2026.",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Terram",
-      "titular": "[País Circular] Tras juramento de cinco nuevos ministros de los Tribunales Ambientales, persiste incertidumbre por la demora en los nombramientos",
-      "url": "https://www.terram.cl/pais-circular-tras-juramento-de-cinco-nuevos-ministros-de-los-tribunales-ambientales-persiste-incertidumbre-por-la-demora-en-los-nombramientos/",
-      "fecha": "2026-11-19",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental continúa en Arica e Iquique sus capacitaciones sobre acceso a la justicia ambiental",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental",
+      "fecha": "2026-11-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Los nuevos integrantes de estas judicaturas especializadas ocupan cargos que estaban vacantes hace un largo tiempo, hasta seis años en uno de los casos, lo que vuelve a evidenciar que el complejo sistema de elección de los ministros de los Tribunales",
-      "keywords_detectadas": [
-        "Tribunales Ambientales"
-      ]
-    },
-    {
-      "fuente": "SMA",
-      "titular": "Calama: SMA formula cargos contra Codelco Ministro Hales por incumplimientos en control de emisiones",
-      "url": "https://portal.sma.gob.cl/index.php/calama-sma-formula-cargos-contra-codelco-ministro-hales-por-incumplimientos-en-control-de-emisiones/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "En paralelo, la Superintendencia aprobó un plan de acciones avaluado en más de $66.915 millones para contener infiltraciones en el depósito de relaves. La Superintendencia del Medio Ambiente (SMA) dictó dos resoluciones respecto de la unidad fiscaliz",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "En gira por Asia: senadora Órdenes (Ind.-PPD) refuerza que no autorizó retiro de su permiso y pide que caso sea esclarecido",
-      "url": "https://www.latercera.com/politica/noticia/desde-gira-por-asia-senadora-ordenes-ind-ppd-refuerza-que-no-autorizo-retiro-de-su-permiso-y-pide-que-caso-sea-esclarecido/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La legisladora de oposición, en una declaración en video, señaló: \"En ningún momento yo solicité y menos autoricé el retiro de ese permiso”.",
-      "keywords_detectadas": [
-        "SEA"
-      ]
-    },
-    {
-      "fuente": "La Tercera",
-      "titular": "SMA formula cargos graves contra mina Ministro Hales de Codelco: la cuprífera estatal arriesga perder su permiso ambiental",
-      "url": "https://www.latercera.com/pulso/noticia/sma-cargos-graves-contra-codelco-ministro-hales-arriesga-perder-permiso-ambiental/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Según la SMA, los cargos se formularon tras fiscalizaciones en terreno y siete denuncias ciudadanas ingresadas entre 2021 y 2024 en Calama, comuna declarada zona saturada por MP10.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Diario Constitucional",
-      "titular": "Tribunal Ambiental rechaza demanda contra el MOP y el Cuerpo Militar del Trabajo por obras en Ruta Lafkenche",
-      "url": "https://www.diarioconstitucional.cl/ambiental/tribunal-ambiental-rechaza-demanda-contra-el-mop-y-el-cuerpo-militar-del-trabajo-por-obras-en-ruta",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental determinó que no se acreditó un menoscabo significativo al medio ambiente ni una relación causal entre las obras viales ejecutadas en la comuna de Puerto Saavedra y los daños denunciados por el demandante.",
+      "extracto": "Como parte de las acciones comprometidas para fortalecer el acceso a la justicia ambiental y contribuir a la implementación del Acuerdo de Escazú en Chile, el Primer Tribunal Ambiental desarrollará... The post Primer Tribunal Ambiental continúa en Ar",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Diario Financiero",
-      "titular": "SMA formula cargos graves contra Codelco Ministro Hales por incumplimientos en control de emisiones",
-      "url": "https://www.df.cl/empresas/medio-ambiente/sma-formula-cargos-graves-contra-codelco-ministro-hales-por-incumplimientos",
+      "fuente": "ADN Prensa",
+      "titular": "Organizaciones de San Antonio en Alerta por RCA de Puerto Panul: “Nosotros estamos dispuestos a llevar el tema a los tribunales hasta sus últimas consecuencias”",
+      "url": "https://adprensa.cl/organizaciones-de-san-antonio-en-alerta-por-rca-de-puerto-panul-nosotros-estamos-dispuestos-a-llevar-el-tema-a-los-tribunales-hasta-sus-ultimas-consecuencias/",
+      "fecha": "2026-11-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Vecinos y organizaciones sociales de San Antonio cuestionan la evaluación del proyecto por inconsistencias y exigen explicaciones sobre el futuro del borde costero.",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SMA formula cargos contra Codelco Ministro Hales por incumplimientos en control de emisiones",
+      "url": "https://www.portalminero.com/sma-formula-cargos-contra-codelco-ministro-hales-por-incumplimientos-en-control-de-emisiones",
       "fecha": "2026-11-19",
-      "fecha_confiable": false,
-      "metodo_extraccion": "article-tags",
-      "extracto": "",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La formulación de cargos imputa dos incumplimientos graves en relación a medidas de control de emisiones.",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Región de Antofagasta: SMA formula dos cargos graves contra minera",
-      "url": "https://www.mch.cl/region-de-antofagasta-sma-formula-dos-cargos-graves-contra-minera/",
+      "fuente": "Portal Minero",
+      "titular": "Ensayar antes de que sea en serio",
+      "url": "https://www.portalminero.com/ensayar-antes-de-que-sea-en-serio",
       "fecha": "2026-11-19",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El organismo detectó incumplimientos en las medidas de abatimiento de polvo del chancador primario y el botadero de estériles. La entrada Región de Antofagasta: SMA formula dos cargos graves contra minera se publicó primero en Mch .",
+      "extracto": "Arturo Tagle, CTO en Mineral Forecast, Profesor Adjunto Departamento de Ciencia de la Computación, Ingeniería UC.",
       "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Lader Energy ingresa al SEIA proyecto solar con sistema de almacenamiento por US$200 millones en Coquimbo",
-      "url": "https://www.revistaei.cl/lader-energy-ingresa-al-seia-proyecto-solar-con-sistema-de-almacenamiento-por-us200-millones-en-coquimbo/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La iniciativa considera además una línea de transmisión de 220 kV para conectar sus instalaciones con la Subestación Nueva Pan de Azúcar. La entrada Lader Energy ingresa al SEIA proyecto solar con sistema de almacenamiento por US$200 millones en Coqu",
-      "keywords_detectadas": [
-        "SEIA"
-      ]
-    },
-    {
-      "fuente": "Nueva Minería",
-      "titular": "SMA formula dos cargos graves contra Codelco por control de polvo en Ministro Hales",
-      "url": "https://www.nuevamineria.com/revista/sma-formula-dos-cargos-graves-contra-codelco-por-control-de-polvo-en-ministro-hales/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El organismo cuestionó las medidas de control de emisiones en el chancador primario y el botadero de estériles de la faena, ubicada en Calama. En un procedimiento separado, aprobó un programa de cumplimiento de $66.915 millones para el tranque de rel",
-      "keywords_detectadas": [
-        "SMA"
+        "SEA"
       ]
     }
   ]
