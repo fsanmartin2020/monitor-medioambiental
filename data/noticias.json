@@ -1,333 +1,117 @@
 {
-  "fecha_actualizacion": "2026-11-20T16:09:41.627882-03:00",
-  "total": 41,
+  "fecha_actualizacion": "2026-11-21T15:06:39.818713-03:00",
+  "total": 14,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "País Circular",
-      "titular": "Chile Parque País suma un nuevo hito y operará los campings del Parque Pumalín",
-      "url": "https://www.paiscircular.cl/medio-ambiente/chile-parque-pais/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Qué significa el RTP de una tragamonedas",
-      "url": "https://www.paiscircular.cl/tendencias/que-significa-el-rtp-de-una-tragamonedas/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Cómo estimar la huella de carbono de un anuncio de bono de bienvenida de casino",
-      "url": "https://www.paiscircular.cl/tendencias/como-estimar-la-huella-de-carbono-de-un-anuncio-de-bono-de-bienvenida-de-casino/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "COP31: Fondo Verde para el Clima formaliza apoyo por al menos US$1 millón para la elaboración de la primera Plataforma País de Chile",
-      "url": "https://www.chiledesarrollosustentable.cl/cop31-fondo-verde-para-el-clima-formaliza-apoyo-por-al-menos-us1-millon-para-la-elaboracion-de-la-primera-plataforma-pais-de-chile/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-fondo-verde-para-el-clima-formaliza-apoyo-por-al-menos-us1-millon-para-la-elaboracion-de-la-primera-plataforma-pais-de-chile",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Un informe denuncia que la desinformación climática es «parte del paisaje diario de la juventud»",
-      "url": "https://efeverde.com/informe-desinformacion-climatica-parte-paisaje-diario-juventud/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Sara Aagesen: España ha demostrado su «compromiso» para prescindir de los combustibles fósiles en 2050",
-      "url": "https://efeverde.com/cop31-sara-aagesen-espana-ha-demostrado-compromiso-prescindir-combustibles-fosiles-en-2050/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La COP31 posterga su decisión en medio de una creciente presión para abandonar las energías fósiles",
-      "url": "https://efeverde.com/cop31-posterga-decision-en-medio-de-creciente-presion-para-abandonar-energias-fosiles/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El Gobierno aprueba el real decreto de centros de datos y la planificación eléctrica 2030",
-      "url": "https://efeverde.com/gobierno-aprueba-real-decreto-centros-de-datos/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "África se rebela en la COP31: «No vinimos a mendigar, exigimos que se cumpla lo prometido»",
-      "url": "https://efeverde.com/cop31-africa-se-rebela/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "África denuncia que se están repitiendo modelos de «extracción de la era colonial» en la transición verde",
-      "url": "https://efeverde.com/cop-31-africa-repitiendo-modelos-extraccion-era-colonial/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "¿Es inoperante el modelo de las Cumbres Climáticas?",
-      "url": "https://efeverde.com/cop31-es-inoperante-modelo-cumbres-climaticas/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Electrificación, sí o sí. Por May",
-      "url": "https://efeverde.com/electrificacion-may-mundomay/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Más de 100 grandes empresas instan a COP31 a respaldar electrificación en el acuerdo final",
-      "url": "https://efeverde.com/mas-de-100-grandes-empresas-instan-a-cop31-a-respaldar-electrificacion-en-el-acuerdo-final/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "Francia se abre a un acuerdo sin mención a salida de fósiles en caso de otras concesiones",
-      "url": "https://efeverde.com/francia-se-abre-a-un-acuerdo-sin-mencion-a-salida-de-fosiles-en-caso-de-otras-concesiones/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La UE rechaza  segundo borrador de la COP31 por excluir el abandono de los combustibles fósiles",
-      "url": "https://efeverde.com/la-ue-rechaza-segundo-borrador-de-la-cop31-por-eliminar-abandono-de-combustibles-fosiles/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "EEUU subasta millones de hectáreas del Pacífico para minería en aguas profundas de Samoa",
-      "url": "https://efeverde.com/eeuu-subasta-millones-de-hectareas-del-pacifico-para-mineria-en-aguas-profundas-de-samoa/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El TC declara inconstitucional la desprotección del Parque Regional de Sierra Espuña",
-      "url": "https://efeverde.com/el-tc-declara-inconstitucional-la-desproteccion-del-parque-regional-de-sierra-espuna/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "La implantación del nuevo sistema de devolución de envases se retrasa en España",
-      "url": "https://efeverde.com/implantacion-nuevo-sistema-devolucion-envases-se-retrasa-espana/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[La Nueva Mirada] El desinfle del hidrógeno verde",
-      "url": "https://www.terram.cl/la-nueva-mirada-el-desinfle-del-hidrogeno-verde/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Codelco arriesga clausura de Ministro Hales tras dos cargos graves de la SMA por contaminación",
-      "url": "https://www.terram.cl/el-desconcierto-codelco-arriesga-clausura-de-ministro-hales-tras-dos-cargos-graves-de-la-sma-por-contaminacion/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Mongabay] Tierras raras: mineras piden explorar en el sur de Chile un área casi del tamaño de Ciudad de México",
-      "url": "https://www.terram.cl/mongabay-tierras-raras-mineras-piden-explorar-en-el-sur-de-chile-un-area-casi-del-tamano-de-ciudad-de-mexico/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[EFE VERDE] Críticas de las ONG al segundo borrador de la COP31: «Inaceptable», «abdicación» y «adulador» del petróleo",
-      "url": "https://www.terram.cl/efe-verde-criticas-de-las-ong-al-segundo-borrador-de-la-cop31-inaceptable-abdicacion-y-adulador-del-petroleo/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Escala conflicto legal entre vecinos e inmobiliaria por loteo en La Campana: Acusan intimidación empresarial",
-      "url": "https://www.terram.cl/el-desconcierto-escala-conflicto-legal-entre-vecinos-e-inmobiliaria-por-loteo-en-la-campana-acusan-intimidacion-empresarial/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Terram",
-      "titular": "[Ladera Sur] Con miles de registros disponibles en línea, digitalizan histórica colección de insectos para acceso público en Chile",
-      "url": "https://www.terram.cl/ladera-sur-con-miles-de-registros-disponibles-en-linea-digitalizan-historica-coleccion-de-insectos-para-acceso-publico-en-chile/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental continúa en Arica e Iquique sus capacitaciones sobre acceso a la justicia ambiental",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF abre concurso público para impulsar el manejo y la restauración de bosques nativos y enfrentar el cambio climático",
-      "url": "https://www.conaf.cl/conaf-abre-concurso-publico-para-impulsar-el-manejo-y-la-restauracion-de-bosques-nativos-yenfrentar-el-cambio-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-abre-concurso-publico-para-impulsar-el-manejo-y-la-restauracion-de-bosques-nativos-yenfrentar-el-cambio-climatico",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Visita de CONAF al Centro Espacial Nacional de la FACH abre nuevas oportunidades de colaboración mutua",
-      "url": "https://www.conaf.cl/visita-de-conaf-al-centro-espacial-nacional-de-la-fach-abre-nuevas-oportunidades-de-colaboracion-mutua/?utm_source=rss&utm_medium=rss&utm_campaign=visita-de-conaf-al-centro-espacial-nacional-de-la-fach-abre-nuevas-oportunidades-de-colaboracion-mutua",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF Ñuble capacita a Brigadas de Refuerzo de Incendios del Ejército poniendo foco en el autocuidado",
-      "url": "https://www.conaf.cl/conaf-nuble-capacita-a-brigadas-de-refuerzo-de-incendios-del-ejercito-poniendo-foco-en-el-autocuidado/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-nuble-capacita-a-brigadas-de-refuerzo-de-incendios-del-ejercito-poniendo-foco-en-el-autocuidado",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "CONAF actualiza planes de protección contra incendios forestales para las áreas protegidas de Ñuble",
-      "url": "https://www.conaf.cl/conaf-actualiza-planes-de-proteccion-contra-incendios-forestales-para-las-areas-protegidas-de-nuble/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-actualiza-planes-de-proteccion-contra-incendios-forestales-para-las-areas-protegidas-de-nuble",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Ministerio del Medio Ambiente y Valora+ lanzan «Chile Rueda Circular», el sello que muestra dónde los neumáticos sí se reciclan",
-      "url": "https://mma.gob.cl/ministerio-del-medio-ambiente-y-valora-lanzan-chile-rueda-circular-el-sello-que-muestra-donde-los-neumaticos-si-se-reciclan/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Escolares de Ovalle, La Serena y La Higuera ganan concurso sobre contaminación lumínica y visitarán el Observatorio Gemini Sur",
-      "url": "https://mma.gob.cl/escolares-de-ovalle-la-serena-y-la-higuera-ganan-concurso-sobre-contaminacion-luminica-y-visitaran-el-observatorio-gemini-sur/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Organizaciones de San Antonio en Alerta por RCA de Puerto Panul: “Nosotros estamos dispuestos a llevar el tema a los tribunales hasta sus últimas consecuencias”",
-      "url": "https://adprensa.cl/organizaciones-de-san-antonio-en-alerta-por-rca-de-puerto-panul-nosotros-estamos-dispuestos-a-llevar-el-tema-a-los-tribunales-hasta-sus-ultimas-consecuencias/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Del mar a Olmué: Por primera vez, un APR de la zona central de Chile recibe agua desalinizada",
-      "url": "https://www.paiscircular.cl/agua/del-mar-a-olmue-por-primera-vez-un-apr-de-la-zona-central-de-chile-recibe-agua-desalinizada/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "Casino Bitcoin en Chile: guía y comparativa de casinos que aceptan BTC",
-      "url": "https://www.paiscircular.cl/tendencias/casino-bitcoin/",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
       "fuente": "Codex Verde",
-      "titular": "Chile valoriza menos del 1% de sus residuos orgánicos y campaña busca impulsar el compostaje",
-      "url": "https://codexverde.cl/chile-valoriza-menos-del-1-de-sus-residuos-organicos-y-campana-busca-impulsar-el-compostaje/",
-      "fecha": "2026-11-19",
+      "titular": "Día Mundial de la Pesca: la riqueza de nuestros sistemas alimentarios acuáticos",
+      "url": "https://codexverde.cl/dia-mundial-de-la-pesca-la-riqueza-de-nuestros-sistemas-alimentarios-acuaticos/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Codex Verde",
-      "titular": "Electrificación: los desafíos y la “letra chica” de la propuesta estrella de la COP31",
-      "url": "https://codexverde.cl/electrificacion-los-desafios-y-la-letra-chica-de-la-propuesta-estrella-de-la-cop31/",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "La COP31 apura sus plazos aún sin una decisión y con las negociaciones empantanadas",
+      "url": "https://efeverde.com/cop31-apura-plazos-negociaciones-empantanadas/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "CR2 - Centro de Ciencia del Clima",
-      "titular": "Verano 2027 en Chile: Meteorólogo advierte aumento de humedad en Santiago y el norte (CNN Tiempo)",
-      "url": "https://www.cr2.cl/verano-2027-en-chile-meteorologo-advierte-aumento-de-humedad-en-santiago-y-el-norte-cnn-tiempo/",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "El presidente de la COP31: «Hay posturas que llevan las negociaciones hacia un punto muerto»",
+      "url": "https://efeverde.com/presidente-cop31-hay-negociaciones-punto-muerto/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "COP31: Fondo Verde para el Clima formaliza apoyo por al menos US$1 millón para la elaboración de la primera Plataforma País de Chile",
-      "url": "https://mma.gob.cl/cop31-fondo-verde-para-el-clima-formaliza-apoyo-por-al-menos-us1-millon-para-la-elaboracion-de-la-primera-plataforma-pais-de-chile/",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "Político, empresario, ambientalista… ¿quién es Juan Carlos Navarro, el ministro panameño estrella de la COP31?",
+      "url": "https://efeverde.com/quien-es-juan-carlos-navarro-ministro-panameno-estrella-cop31/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Se aprueba extensión de línea 9 del metro trayecto La Pintana – Puente Alto",
-      "url": "https://mma.gob.cl/se-aprueba-extension-de-linea-9-del-metro-trayecto-la-pintana-puente-alto/",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "Tuvalu advierte de que las negociaciones climáticas siguen «empantanadas» en la COP31",
+      "url": "https://efeverde.com/cop31-tuvalu-negociaciones-climaticas-siguen-empantanadas/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Portal Minero",
-      "titular": "SMA formula cargos contra Codelco Ministro Hales por incumplimientos en control de emisiones",
-      "url": "https://www.portalminero.com/sma-formula-cargos-contra-codelco-ministro-hales-por-incumplimientos-en-control-de-emisiones",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "Sueltan en Cazorla (Jaén) 25 milanos reales procedentes de Madrid y Mallorca",
+      "url": "https://efeverde.com/sueltan-25-milanos-reales-cazorla/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Portal Minero",
-      "titular": "Ensayar antes de que sea en serio",
-      "url": "https://www.portalminero.com/ensayar-antes-de-que-sea-en-serio",
-      "fecha": "2026-11-19",
+      "fuente": "EFE Verde",
+      "titular": "Banco Mundial: América Latina y Caribe necesitan un plan integrado ante impacto de El Niño",
+      "url": "https://efeverde.com/banco-mundial-america-latina-caribe-necesitan-plan-el-nino/",
+      "fecha": "2026-11-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La captura de carbono, un protagonista incómodo de la COP31: ¿en qué consiste exactamente?",
+      "url": "https://efeverde.com/captura-carbono-protagonista-incomodo-cop31/",
+      "fecha": "2026-11-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Casi 200 países buscan fuera de plazo acuerdo climático bajo sombra de los hidrocarburos",
+      "url": "https://efeverde.com/cop-31-buscan-fuera-plazo-acuerdo-climatico/",
+      "fecha": "2026-11-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "SMA formula dos cargos graves contra Codelco Ministro Hales por incumplimientos en el control de emisiones",
+      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-dos-cargos-graves-contra-codelco-ministro-hales-por-incumplimientos-en-el-control-de",
+      "fecha": "2026-11-21",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Casinos con retiro rápido en Chile: 8 opciones y qué esperar al retirar en 2026",
+      "url": "https://www.paiscircular.cl/tendencias/casinos-con-retiro-rapido/",
+      "fecha": "2026-11-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "SERNAPESCA",
+      "titular": "Proceso de seleccion para la provision del cargo fiscalizadores de certificacion de desembarque escalafon administrativo a contrata asimilado a grado 21 de la e u s para el servicio nacional 2",
+      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-fiscalizadores-de-certificacion-de-desembarque-escalafon-administrativo-a-contrata-asimilado-a-grado-21-de-la-e-u-s-para-el-servicio-nacional-2/",
+      "fecha": "2026-11-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "sitemap"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Región de Valparaíso contará con 30 brigadas y 12 aeronaves para enfrentar periodo de mayor riesgo de incendios forestales",
+      "url": "https://www.conaf.cl/region-de-valparaiso-contara-con-30-brigadas-y-12-aeronaves-para-enfrentar-periodo-de-mayor-riesgo-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=region-de-valparaiso-contara-con-30-brigadas-y-12-aeronaves-para-enfrentar-periodo-de-mayor-riesgo-de-incendios-forestales",
+      "fecha": "2026-11-20",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "CONAF",
+      "titular": "Lanzan Plan Regional de Protección contra Incendios Forestales en Atacama",
+      "url": "https://www.conaf.cl/lanzan-plan-regional-de-proteccion-contra-incendios-forestales-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=lanzan-plan-regional-de-proteccion-contra-incendios-forestales-en-atacama",
+      "fecha": "2026-11-20",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }

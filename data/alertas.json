@@ -1,65 +1,17 @@
 {
-  "fecha_generacion": "2026-11-20T16:09:41.640714-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-11-21T15:06:39.831655-03:00",
+  "total_alertas": 1,
   "alertas": [
     {
-      "fuente": "Terram",
-      "titular": "[El Desconcierto] Codelco arriesga clausura de Ministro Hales tras dos cargos graves de la SMA por contaminación",
-      "url": "https://www.terram.cl/el-desconcierto-codelco-arriesga-clausura-de-ministro-hales-tras-dos-cargos-graves-de-la-sma-por-contaminacion/",
-      "fecha": "2026-11-20",
+      "fuente": "Diario Constitucional",
+      "titular": "SMA formula dos cargos graves contra Codelco Ministro Hales por incumplimientos en el control de emisiones",
+      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-dos-cargos-graves-contra-codelco-ministro-hales-por-incumplimientos-en-el-control-de",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Las infracciones apuntan al control de polvo en el chancador primario y al botadero de estériles de la división ubicada en Calama. Fuente: El Desconcierto, 19 de noviembre de 2026.",
+      "extracto": "La Superintendencia del Medio Ambiente detectó deficiencias en las medidas destinadas a reducir la emisión de material particulado en una zona declarada saturada por MP10. Paralelamente, aprobó un Programa de Cumplimiento por más de $66.915 millones ",
       "keywords_detectadas": [
         "SMA"
-      ]
-    },
-    {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental continúa en Arica e Iquique sus capacitaciones sobre acceso a la justicia ambiental",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-continua-en-arica-e-iquique-sus-capacitaciones-sobre-acceso-a-la-justicia-ambiental",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Como parte de las acciones comprometidas para fortalecer el acceso a la justicia ambiental y contribuir a la implementación del Acuerdo de Escazú en Chile, el Primer Tribunal Ambiental desarrollará... The post Primer Tribunal Ambiental continúa en Ar",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Organizaciones de San Antonio en Alerta por RCA de Puerto Panul: “Nosotros estamos dispuestos a llevar el tema a los tribunales hasta sus últimas consecuencias”",
-      "url": "https://adprensa.cl/organizaciones-de-san-antonio-en-alerta-por-rca-de-puerto-panul-nosotros-estamos-dispuestos-a-llevar-el-tema-a-los-tribunales-hasta-sus-ultimas-consecuencias/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Vecinos y organizaciones sociales de San Antonio cuestionan la evaluación del proyecto por inconsistencias y exigen explicaciones sobre el futuro del borde costero.",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SMA formula cargos contra Codelco Ministro Hales por incumplimientos en control de emisiones",
-      "url": "https://www.portalminero.com/sma-formula-cargos-contra-codelco-ministro-hales-por-incumplimientos-en-control-de-emisiones",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La formulación de cargos imputa dos incumplimientos graves en relación a medidas de control de emisiones.",
-      "keywords_detectadas": [
-        "SMA"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "Ensayar antes de que sea en serio",
-      "url": "https://www.portalminero.com/ensayar-antes-de-que-sea-en-serio",
-      "fecha": "2026-11-19",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Arturo Tagle, CTO en Mineral Forecast, Profesor Adjunto Departamento de Ciencia de la Computación, Ingeniería UC.",
-      "keywords_detectadas": [
-        "SEA"
       ]
     }
   ]
