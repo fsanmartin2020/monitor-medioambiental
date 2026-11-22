@@ -1,17 +1,41 @@
 {
-  "fecha_generacion": "2026-11-21T15:06:39.831655-03:00",
-  "total_alertas": 1,
+  "fecha_generacion": "2026-11-22T15:27:48.183767-03:00",
+  "total_alertas": 3,
   "alertas": [
     {
-      "fuente": "Diario Constitucional",
-      "titular": "SMA formula dos cargos graves contra Codelco Ministro Hales por incumplimientos en el control de emisiones",
-      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-dos-cargos-graves-contra-codelco-ministro-hales-por-incumplimientos-en-el-control-de",
-      "fecha": "2026-11-21",
+      "fuente": "REDIMIN",
+      "titular": "SEA suspende evaluación ambiental de expansión de El Abra y acota plazo para responder observaciones",
+      "url": "https://www.redimin.cl/sea-suspende-evaluacion-ambiental-de-expansion-de-el-abra-y-acota-plazo-para-responder-observaciones",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La Superintendencia del Medio Ambiente detectó deficiencias en las medidas destinadas a reducir la emisión de material particulado en una zona declarada saturada por MP10. Paralelamente, aprobó un Programa de Cumplimiento por más de $66.915 millones ",
+      "extracto": "La minera pidió más tiempo para responder observaciones sobre una expansión que también cambiaría el origen del agua industrial.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA abre dos frentes contra Codelco Ministro Hales por emisiones y relaves",
+      "url": "https://www.redimin.cl/sma-abre-dos-frentes-contra-codelco-ministro-hales-por-emisiones-y-relaves",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En una misma división, la SMA mantiene cargos por polvo mientras el expediente de Talabre depende de que Codelco cumpla un plan.",
       "keywords_detectadas": [
         "SMA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA aprueba obras hídricas en Donoso Norte, con la Vega Sur como foco de la solución",
+      "url": "https://www.redimin.cl/sea-aprueba-obras-hidricas-en-donoso-norte-con-la-vega-sur-como-foco-de-la-solucion",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La infraestructura debe separar dos flujos de agua y mantener las condiciones que han permitido la recuperación pasiva de una vega.",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]

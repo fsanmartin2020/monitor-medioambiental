@@ -1,117 +1,157 @@
 {
-  "fecha_actualizacion": "2026-11-21T15:06:39.818713-03:00",
-  "total": 14,
+  "fecha_actualizacion": "2026-11-22T15:27:48.174914-03:00",
+  "total": 19,
   "gemini_disponible": true,
   "noticias": [
     {
-      "fuente": "Codex Verde",
-      "titular": "Día Mundial de la Pesca: la riqueza de nuestros sistemas alimentarios acuáticos",
-      "url": "https://codexverde.cl/dia-mundial-de-la-pesca-la-riqueza-de-nuestros-sistemas-alimentarios-acuaticos/",
-      "fecha": "2026-11-21",
+      "fuente": "País Circular",
+      "titular": "Integración iframe de sportsbook: cómo conectar apuestas deportivas rápidamente",
+      "url": "https://www.paiscircular.cl/tendencias/integracion-iframe-de-sportsbook-como-conectar-apuestas-deportivas-rapidamente/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La COP31 apura sus plazos aún sin una decisión y con las negociaciones empantanadas",
-      "url": "https://efeverde.com/cop31-apura-plazos-negociaciones-empantanadas/",
-      "fecha": "2026-11-21",
+      "titular": "Muere un ejemplar de oso pardo por un disparo durante un control poblacional de jabalíes en Picos de Europa",
+      "url": "https://efeverde.com/muere-oso-pardo-disparo-control-poblacional-jabalies/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "El presidente de la COP31: «Hay posturas que llevan las negociaciones hacia un punto muerto»",
-      "url": "https://efeverde.com/presidente-cop31-hay-negociaciones-punto-muerto/",
-      "fecha": "2026-11-21",
+      "titular": "Ecologistas califican de «vergonzoso» el colapso de COP31, pero defienden multilateralismo",
+      "url": "https://efeverde.com/ecologistas-califican-vergonzoso-colapso-cop31/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Político, empresario, ambientalista… ¿quién es Juan Carlos Navarro, el ministro panameño estrella de la COP31?",
-      "url": "https://efeverde.com/quien-es-juan-carlos-navarro-ministro-panameno-estrella-cop31/",
-      "fecha": "2026-11-21",
+      "titular": "El fracaso de la COP31: seis claves del bloqueo climático sin acuerdo global",
+      "url": "https://efeverde.com/fracaso-cop31-seis-claves-bloqueo-climatico-sin-acuerdo-global/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Tuvalu advierte de que las negociaciones climáticas siguen «empantanadas» en la COP31",
-      "url": "https://efeverde.com/cop31-tuvalu-negociaciones-climaticas-siguen-empantanadas/",
-      "fecha": "2026-11-21",
+      "titular": "Hermetismo, caos, salidas de tono… y muchas manzanas: una COP31 «decepcionante»",
+      "url": "https://efeverde.com/cop31-hermetismo-caos-salidas-de-tono-y-muchas-manzanas/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Sueltan en Cazorla (Jaén) 25 milanos reales procedentes de Madrid y Mallorca",
-      "url": "https://efeverde.com/sueltan-25-milanos-reales-cazorla/",
-      "fecha": "2026-11-21",
+      "titular": "La ONU se muestra «profundamente» decepcionada por la falta de resultados en la COP31",
+      "url": "https://efeverde.com/la-onu-se-muestra-profundamente-decepcionada-por-la-falta-de-resultados-en-la-cop31/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Banco Mundial: América Latina y Caribe necesitan un plan integrado ante impacto de El Niño",
-      "url": "https://efeverde.com/banco-mundial-america-latina-caribe-necesitan-plan-el-nino/",
-      "fecha": "2026-11-21",
+      "titular": "La COP31 naufraga en Antlaya: la cumbre más larga de la historia cierra sin pacto final",
+      "url": "https://efeverde.com/cop31-naufraga-cierra-sin-pacto-final/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La captura de carbono, un protagonista incómodo de la COP31: ¿en qué consiste exactamente?",
-      "url": "https://efeverde.com/captura-carbono-protagonista-incomodo-cop31/",
-      "fecha": "2026-11-21",
+      "titular": "España rechaza el texto final de la COP31: «No está a la altura del reto. No es un buen acuerdo»",
+      "url": "https://efeverde.com/espana-rechaza-texto-cop31/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Casi 200 países buscan fuera de plazo acuerdo climático bajo sombra de los hidrocarburos",
-      "url": "https://efeverde.com/cop-31-buscan-fuera-plazo-acuerdo-climatico/",
-      "fecha": "2026-11-21",
+      "titular": "Así te hemos contado la sesión de clausura: la COP31 fracasa por falta de consenso y sin pacto político final",
+      "url": "https://efeverde.com/sesion-clausura-cop31-directo-panama-anuncia-tambien-su-rechazo/",
+      "fecha": "2026-11-22",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "SMA formula dos cargos graves contra Codelco Ministro Hales por incumplimientos en el control de emisiones",
-      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-dos-cargos-graves-contra-codelco-ministro-hales-por-incumplimientos-en-el-control-de",
+      "fuente": "EFE Verde",
+      "titular": "La UE anuncia que rechaza por completo la propuesta final y da por concluida la COP31",
+      "url": "https://efeverde.com/ue-anuncia-rechaza-completo-ultimo-borrador-cop31/",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31, lista para una sesión de clausura en vistas de un acuerdo cada vez más incierto",
+      "url": "https://efeverde.com/cop31-lista-sesion-clausura-acuerdo-incierto/",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "La COP31 presenta un nuevo borrador para intentar salvar un acuerdo final",
+      "url": "https://efeverde.com/la-cop31-presenta-un-nuevo-borrador-para-intentar-salvar-un-acuerdo-final/",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "El Ciudadano",
+      "titular": "Otro caso de sobreproducción salmonera en Patagonia: Formulan cargos contra empresa acuícola por exceder límites en la Reserva Nacional Las Guaitecas",
+      "url": "https://www.elciudadano.com/actualidad/otro-caso-de-sobreproduccion-salmonera-en-patagonia-formulan-cargos-contra-empresa-acuicola-por-exceder-limites-en-la-reserva-nacional-las-guaitecas/11/22/",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA suspende evaluación ambiental de expansión de El Abra y acota plazo para responder observaciones",
+      "url": "https://www.redimin.cl/sea-suspende-evaluacion-ambiental-de-expansion-de-el-abra-y-acota-plazo-para-responder-observaciones",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SMA abre dos frentes contra Codelco Ministro Hales por emisiones y relaves",
+      "url": "https://www.redimin.cl/sma-abre-dos-frentes-contra-codelco-ministro-hales-por-emisiones-y-relaves",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "SEA aprueba obras hídricas en Donoso Norte, con la Vega Sur como foco de la solución",
+      "url": "https://www.redimin.cl/sea-aprueba-obras-hidricas-en-donoso-norte-con-la-vega-sur-como-foco-de-la-solucion",
+      "fecha": "2026-11-22",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss"
+    },
+    {
+      "fuente": "País Circular",
+      "titular": "Tragamonedas online en Chile: los 10 mejores casinos para jugar slots",
+      "url": "https://www.paiscircular.cl/tendencias/tragamonedas-online/",
       "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "País Circular",
-      "titular": "Casinos con retiro rápido en Chile: 8 opciones y qué esperar al retirar en 2026",
-      "url": "https://www.paiscircular.cl/tendencias/casinos-con-retiro-rapido/",
-      "fecha": "2026-11-20",
+      "titular": "8 Mejores Casinos Criptomonedas con BTH, USDT, y otras monedas",
+      "url": "https://www.paiscircular.cl/tendencias/casino-cripto/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "SERNAPESCA",
-      "titular": "Proceso de seleccion para la provision del cargo fiscalizadores de certificacion de desembarque escalafon administrativo a contrata asimilado a grado 21 de la e u s para el servicio nacional 2",
-      "url": "https://www.sernapesca.cl/trabaje-con-nosotros/proceso-de-seleccion-para-la-provision-del-cargo-fiscalizadores-de-certificacion-de-desembarque-escalafon-administrativo-a-contrata-asimilado-a-grado-21-de-la-e-u-s-para-el-servicio-nacional-2/",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "sitemap"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Región de Valparaíso contará con 30 brigadas y 12 aeronaves para enfrentar periodo de mayor riesgo de incendios forestales",
-      "url": "https://www.conaf.cl/region-de-valparaiso-contara-con-30-brigadas-y-12-aeronaves-para-enfrentar-periodo-de-mayor-riesgo-de-incendios-forestales/?utm_source=rss&utm_medium=rss&utm_campaign=region-de-valparaiso-contara-con-30-brigadas-y-12-aeronaves-para-enfrentar-periodo-de-mayor-riesgo-de-incendios-forestales",
-      "fecha": "2026-11-20",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "CONAF",
-      "titular": "Lanzan Plan Regional de Protección contra Incendios Forestales en Atacama",
-      "url": "https://www.conaf.cl/lanzan-plan-regional-de-proteccion-contra-incendios-forestales-en-atacama/?utm_source=rss&utm_medium=rss&utm_campaign=lanzan-plan-regional-de-proteccion-contra-incendios-forestales-en-atacama",
-      "fecha": "2026-11-20",
+      "fuente": "La Tercera",
+      "titular": "Práctica de la acusación constitucional",
+      "url": "https://www.latercera.com/cartas-al-director/noticia/practica-de-la-acusacion-constitucional/",
+      "fecha": "2026-11-21",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     }
