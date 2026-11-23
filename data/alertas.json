@@ -1,41 +1,78 @@
 {
-  "fecha_generacion": "2026-11-22T15:27:48.183767-03:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-11-23T19:43:30.667222-03:00",
+  "total_alertas": 6,
   "alertas": [
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA suspende evaluación ambiental de expansión de El Abra y acota plazo para responder observaciones",
-      "url": "https://www.redimin.cl/sea-suspende-evaluacion-ambiental-de-expansion-de-el-abra-y-acota-plazo-para-responder-observaciones",
-      "fecha": "2026-11-22",
+      "fuente": "País Circular",
+      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
+      "url": "https://www.paiscircular.cl/radar-legal/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental/",
+      "fecha": "2026-11-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La minera pidió más tiempo para responder observaciones sobre una expansión que también cambiaría el origen del agua industrial.",
+      "extracto": "En sesión de ministros fue elegida la presidencia del Tercer Tribunal Ambiental para el periodo 2026-2028. The post Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental appeared first on País Circular .",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SMA abre dos frentes contra Codelco Ministro Hales por emisiones y relaves",
-      "url": "https://www.redimin.cl/sma-abre-dos-frentes-contra-codelco-ministro-hales-por-emisiones-y-relaves",
-      "fecha": "2026-11-22",
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental desestima acción de Confinor y valida continuidad del procedimiento sancionatorio de la SMA con terceros interesados",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-desestima-accion-de-confinor-y-valida-continuidad-del-procedimiento-sancionatorio-de-la-sma-con-terceros-interesados/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-desestima-accion-de-confinor-y-valida-continuidad-del-procedimiento-sancionatorio-de-la-sma-con-terceros-interesados",
+      "fecha": "2026-11-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "En una misma división, la SMA mantiene cargos por polvo mientras el expediente de Talabre depende de que Codelco cumpla un plan.",
+      "extracto": "El Primer Tribunal Ambiental resolvió, por mayoría, rechazar en todas sus partes la reclamación judicial interpuesta por la empresa Confinor S.A. en contra de la Superintendencia del Medio Ambiente (“SMA”).... The post Primer Tribunal Ambiental deses",
       "keywords_detectadas": [
-        "SMA"
+        "SMA",
+        "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "SEA aprueba obras hídricas en Donoso Norte, con la Vega Sur como foco de la solución",
-      "url": "https://www.redimin.cl/sea-aprueba-obras-hidricas-en-donoso-norte-con-la-vega-sur-como-foco-de-la-solucion",
-      "fecha": "2026-11-22",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
+      "url": "https://3ta.cl/noticias/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental/",
+      "fecha": "2026-11-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La infraestructura debe separar dos flujos de agua y mantener las condiciones que han permitido la recuperación pasiva de una vega.",
+      "extracto": "En sesión de ministros fue elegida la presidencia del Tercer Tribunal Ambiental para el periodo 2026-2028. El lunes 23 de noviembre, en una ceremonia interna, acompañado de los ministros Sr. Javier Millar, Sra. Sibel Villalobos, Sr. Carlos Valdovinos",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-4-2026 (acumula R-7-2026, R-38,39,40-2025 y C-1-2026) «Cooke Aquaculture Chile S.A. y otros con Superintendencia del Medio Ambiente»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-4-2026-acumula-r-7-2026-r-383940-2025-y-c-1-2026-cooke-aquaculture-chile-s-a-y-otros-con-superintendencia-del-medio-ambiente/",
+      "fecha": "2026-11-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-4-2026 (acumula R-7-2026, R-38,39,40-2025 y C-1-2026) «Cooke Aquaculture Chile S.A. y otros con Superintendencia del Medio",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Se califica favorablemente DIA de modificación de proyecto minero",
+      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-modificacion-de-proyecto-minero/",
+      "fecha": "2026-11-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa se emplaza en la comuna de Pozo Almonte, Región de Tarapacá. La entrada Se califica favorablemente DIA de modificación de proyecto minero se publicó primero en Mch .",
+      "keywords_detectadas": [
+        "DIA"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Transemel ingresa al SEIA proyecto de transmisión eléctrica por US$30 millones en Ñuble",
+      "url": "https://www.revistaei.cl/transemel-ingresa-al-seia-proyecto-de-transmision-electrica-por-us30-millones-en-nuble/",
+      "fecha": "2026-11-23",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La iniciativa contempla la construcción de dos subestaciones y una línea de doble circuito de 9,1 kilómetros en la comuna de Quirihue, con el objetivo de reforzar la capacidad y confiabilidad del suministro de la zona. La entrada Transemel ingresa al",
+      "keywords_detectadas": [
+        "SEIA"
       ]
     }
   ]
