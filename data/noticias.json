@@ -1,268 +1,220 @@
 {
-  "fecha_actualizacion": "2026-11-23T19:43:30.635182-03:00",
-  "total": 33,
+  "fecha_actualizacion": "2026-11-24T18:15:12.190666-03:00",
+  "total": 27,
   "gemini_disponible": true,
   "noticias": [
     {
       "fuente": "País Circular",
-      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
-      "url": "https://www.paiscircular.cl/radar-legal/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "País Circular",
-      "titular": "¿Más certeza o solo mayor complejidad?: El debate por la nueva medición de ruido en parques eólicos",
-      "url": "https://www.paiscircular.cl/transicion-energetica/mas-certeza-o-solo-mayor-complejidad-el-debate-por-la-nueva-medicion-de-ruido-en-parques-eolicos/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Chile Desarrollo Sustentable",
-      "titular": "Ministerio del Medio Ambiente y Valora+ lanzan «Chile Rueda Circular», el sello que muestra dónde los neumáticos sí se reciclan",
-      "url": "https://www.chiledesarrollosustentable.cl/ministerio-del-medio-ambiente-y-valora-lanzan-chile-rueda-circular-el-sello-que-muestra-donde-los-neumaticos-si-se-reciclan/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-del-medio-ambiente-y-valora-lanzan-chile-rueda-circular-el-sello-que-muestra-donde-los-neumaticos-si-se-reciclan",
-      "fecha": "2026-11-23",
+      "titular": "Crean inédita Asociación Gremial de agrupaciones municipales que buscará mover la aguja en políticas públicas y acciones ambientales",
+      "url": "https://www.paiscircular.cl/ciudad/crean-inedita-asociacion-gremial-de-agrupaciones-municipales-que-buscara-mover-la-aguja-en-politicas-publicas-y-acciones-ambientales/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Codex Verde",
-      "titular": "Sernageomin instala por primera vez equipos de monitoreo permanente en el cráter del volcán Villarrica",
-      "url": "https://codexverde.cl/sernageomin-instala-por-primera-vez-equipos-de-monitoreo-permanente-en-el-crater-del-volcan-villarrica/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Codex Verde",
-      "titular": "Instalan planta solar de 5 kW junto a base científica chilena en la Antártica",
-      "url": "https://codexverde.cl/instalan-planta-solar-de-5-kw-junto-a-base-cientifica-chilena-en-la-antartica/",
-      "fecha": "2026-11-23",
+      "titular": "Estudio en Chile: 84% vincula la gestión ESG con la reputación empresarial, pero persisten brechas",
+      "url": "https://codexverde.cl/estudio-en-chile-84-vincula-la-gestion-esg-con-la-reputacion-empresarial-pero-persisten-brechas/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "COP31: El desacoplamiento definitivo. Por Leopoldo Lindo (think tank The World in 2050)",
-      "url": "https://efeverde.com/cop31-el-desacoplamiento-definitivo-por-leopoldo-lindo/",
-      "fecha": "2026-11-23",
+      "titular": "Pardela balear, alzacola rojizo, focha moruna, cereceta pardilla y lechuza majorera, las aves más amenazas de España",
+      "url": "https://efeverde.com/pardela-balear-alzacola-rojizo-focha-moruna-cereceta-pardilla-y-lechuza-majorera-las-aves-mas-amenazas-de-espana/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Un estudio revela la química oculta del polvo del desierto y su efecto en la contaminación del aire",
-      "url": "https://efeverde.com/quimica-oculta-polvo-desierto/",
-      "fecha": "2026-11-23",
+      "titular": "Un experto del CSIC afirma que el Mar Menor es un «ejemplo de libro» del colapso costero",
+      "url": "https://efeverde.com/mar-menor-ejemplo-de-libro-del-colapso-costero/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "La Comisión Europea lamenta que «los intereses de unos pocos» bloquearan la ambición en la COP31",
-      "url": "https://efeverde.com/comision-europea-lamenta-intereses-de-unos-pocos-bloquearan-ambicion-en-cop31/",
-      "fecha": "2026-11-23",
+      "titular": "No hablarán de los incendios en la campaña electoral. Por Patricia Gómez Agrela, gerente de COSE",
+      "url": "https://efeverde.com/no-hablaran-de-los-incendios-en-la-campana-electoral-por-patricia-gomez-agrela-gerente-de-la-confederacion-de-organizaciones-de-selvicultores-de-espana-cose/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Este fracaso es un éxito. Por Bertrand Piccard (presidente de la Fundación Solar Impulse)",
-      "url": "https://efeverde.com/este-fracaso-es-un-exito-por-bertrand-piccard/",
-      "fecha": "2026-11-23",
+      "titular": "Simon Stiell (ONU) destaca «importantes avances» en la COP31 pese a su colapso",
+      "url": "https://efeverde.com/simon-stiell-onu-destaca-importantes-avances-cop31/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Ecologistas en Acción recurre ante el TSJA el centro de datos de Blackstone en Calatorao",
-      "url": "https://efeverde.com/ecologistas-en-accion-recurre-ante-el-tsja-el-centro-de-datos-de-blackstone-en-calatorao/",
-      "fecha": "2026-11-23",
+      "titular": "Una agachadiza real «bailando» frente al sol durante el cortejo, ganadora del Premio FotoAves 2026",
+      "url": "https://efeverde.com/una-agachadiza-real-bailando-frente-al-sol-durante-el-cortejo-ganadora-del-premio-fotoaves-2026/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Detectan seis metales pesados y otros contaminantes en el agua potable del oeste de México",
-      "url": "https://efeverde.com/detectan-seis-metales-pesados-y-otros-contaminantes-en-el-agua-potable-del-oeste-de-mexico/",
-      "fecha": "2026-11-23",
+      "titular": "El control de la venta de marfil en la UE naufraga, el 72 % de la oferta online carece de «papeles»",
+      "url": "https://efeverde.com/el-control-de-la-venta-de-marfil-en-la-ue-naufraga-el-72-de-la-oferta-online-carece-de-papeles/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Hallan contaminantes en una muestra de la mayor marca de agua embotellada de la India",
-      "url": "https://efeverde.com/hallan-contaminantes-en-una-muestra-de-la-mayor-marca-de-agua-embotellada-de-la-india/",
-      "fecha": "2026-11-23",
+      "titular": "El Ejército de EE.UU. detonará explosivos con plomo en Iowa pese a la suspensión judicial",
+      "url": "https://efeverde.com/el-ejercito-de-ee-uu-detonara-explosivos-con-plomo-en-iowa-pese-a-la-suspension-judicial/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "EFE Verde",
-      "titular": "Elecciones: de resucitar la nuclear a reducir el uso de combustibles fósiles",
-      "url": "https://efeverde.com/elecciones-del-resucitar-de-la-nuclear-a-reducir-el-uso-de-combustibles-fosiles/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "EFE Verde",
-      "titular": "El cambio climático, ausente en el debate electoral: ¿por qué los políticos no hablan de la crisis ecológica?",
-      "url": "https://efeverde.com/cambio-climatico-ausente-debate-electoral/",
-      "fecha": "2026-11-23",
+      "titular": "‘Women4Oceans’, la red que conecta a mujeres de todo el mundo para proteger los océanos",
+      "url": "https://efeverde.com/women4oceans-la-red-que-conecta-a-mujeres-de-todo-el-mundo-para-proteger-los-oceanos/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Desconcierto] La COP31 fracasa por oposición de países petroleros a incluir el fin de los combustibles fósiles en el acuerdo",
-      "url": "https://www.terram.cl/el-desconcierto-la-cop31-fracasa-por-oposicion-de-paises-petroleros-a-incluir-el-fin-de-los-combustibles-fosiles-en-el-acuerdo/",
-      "fecha": "2026-11-23",
+      "titular": "Más que Minería organiza seminario sobre los “Desafíos de los minerales críticos en Chile y América Latina”",
+      "url": "https://www.terram.cl/mas-que-mineria-organiza-seminario-sobre-los-desafios-de-los-minerales-criticos-en-chile-y-america-latina/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[El Mostrador] Debaten creación de un Área Marina Protegida en la Antártica",
-      "url": "https://www.terram.cl/el-mostrador-debaten-creacion-de-un-area-marina-protegida-en-la-antartica/",
-      "fecha": "2026-11-23",
+      "titular": "[Codex Verde] Electrificación: los desafíos y la “letra chica” de la propuesta estrella de la COP31",
+      "url": "https://www.terram.cl/codex-verde-electrificacion-los-desafios-y-la-letra-chica-de-la-propuesta-estrella-de-la-cop31/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Ladera Sur] Investigan ataque contra colonia de murciélagos tras hallazgo de 106 ejemplares muertos en Maipú",
-      "url": "https://www.terram.cl/ladera-sur-investigan-ataque-contra-colonia-de-murcielagos-tras-hallazgo-de-106-ejemplares-muertos-en-maipu/",
-      "fecha": "2026-11-23",
+      "titular": "[Induambiente] Convocan a reuniones ciudadanas para elaborar norma que busca proteger las aguas de 14 lagos del sur",
+      "url": "https://www.terram.cl/induambiente-convocan-a-reuniones-ciudadanas-para-elaborar-norma-que-busca-proteger-las-aguas-de-14-lagos-del-sur/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Diario Sostenivle] Lago Ranco: el agua y la consulta indígena marcan el futuro del proyecto Piñera Morel en Bahía Coique",
-      "url": "https://www.terram.cl/diario-sostenivle-lago-ranco-el-agua-y-la-consulta-indigena-marcan-el-futuro-del-proyecto-pinera-morel-en-bahia-coique/",
-      "fecha": "2026-11-23",
+      "titular": "[Biobiochile.cl] “Mega El Niño”: Un mapa del mar con calor extremo frente a Chile, Perú y Ecuador alarma a científicos",
+      "url": "https://www.terram.cl/biobiochile-cl-mega-el-nino-un-mapa-del-mar-con-calor-extremo-frente-a-chile-peru-y-ecuador-alarma-a-cientificos/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[Soy Chile] Cauce que llega al río Maullín está bloqueado por contaminación de electrodomésticos",
-      "url": "https://www.terram.cl/soy-chile-cauce-que-llega-al-rio-maullin-esta-bloqueado-por-contaminacion-de-electrodomesticos/",
-      "fecha": "2026-11-23",
+      "titular": "[Codex Verde] Sernageomin instala por primera vez equipos de monitoreo permanente en el cráter del volcán Villarrica",
+      "url": "https://www.terram.cl/codex-verde-sernageomin-instala-por-primera-vez-equipos-de-monitoreo-permanente-en-el-crater-del-volcan-villarrica/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Terram",
-      "titular": "[La Tercera] Abren consulta para que ciudadanía proponga lugar de la Región Metropolitana en que se instalará homenaje al cóndor",
-      "url": "https://www.terram.cl/la-tercera-abren-consulta-para-que-ciudadania-proponga-lugar-de-la-region-metropolitana-en-que-se-instalara-homenaje-al-condor/",
-      "fecha": "2026-11-23",
+      "titular": "[Cooperativa Ciencia] Polizones mercantes: detectan por primera vez en Chile geckos domésticos mediterráneos",
+      "url": "https://www.terram.cl/cooperativa-ciencia-polizones-mercantes-detectan-por-primera-vez-en-chile-geckos-domesticos-mediterraneos/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental desestima acción de Confinor y valida continuidad del procedimiento sancionatorio de la SMA con terceros interesados",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-desestima-accion-de-confinor-y-valida-continuidad-del-procedimiento-sancionatorio-de-la-sma-con-terceros-interesados/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-desestima-accion-de-confinor-y-valida-continuidad-del-procedimiento-sancionatorio-de-la-sma-con-terceros-interesados",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
-      "url": "https://3ta.cl/noticias/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-4-2026 (acumula R-7-2026, R-38,39,40-2025 y C-1-2026) «Cooke Aquaculture Chile S.A. y otros con Superintendencia del Medio Ambiente»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-4-2026-acumula-r-7-2026-r-383940-2025-y-c-1-2026-cooke-aquaculture-chile-s-a-y-otros-con-superintendencia-del-medio-ambiente/",
-      "fecha": "2026-11-23",
+      "titular": "Primer Tribunal Ambiental suscribe convenio de colaboración con la Universidad Adolfo Ibáñez",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-suscribe-convenio-de-colaboracion-con-la-universidad-adolfo-ibanez/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-suscribe-convenio-de-colaboracion-con-la-universidad-adolfo-ibanez",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Gobierno presenta avión tanquero que encabezará labores de extinción de incendios forestales durante la actual temporada",
-      "url": "https://www.conaf.cl/gobierno-presenta-avion-tanquero-que-encabezara-labores-de-extincion-de-incendios-forestales-durante-la-actual-temporada/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-presenta-avion-tanquero-que-encabezara-labores-de-extincion-de-incendios-forestales-durante-la-actual-temporada",
-      "fecha": "2026-11-23",
+      "titular": "Comunidad de Cancosa y CONAF Tarapacá firman convenio de colaboración y plantan 30 queñoas en el poblado",
+      "url": "https://www.conaf.cl/comunidad-de-cancosa-y-conaf-tarapaca-firman-convenio-de-colaboracion-y-plantan-30-quenoas-en-el-poblado/?utm_source=rss&utm_medium=rss&utm_campaign=comunidad-de-cancosa-y-conaf-tarapaca-firman-convenio-de-colaboracion-y-plantan-30-quenoas-en-el-poblado",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Restauración de bosques, arborización y prevención de incendios marcaron la participación de CONAF en Expocorma",
-      "url": "https://www.conaf.cl/restauracion-de-bosques-arborizacion-y-prevencion-de-incendios-marcaron-la-participacion-de-conaf-en-expocorma/?utm_source=rss&utm_medium=rss&utm_campaign=restauracion-de-bosques-arborizacion-y-prevencion-de-incendios-marcaron-la-participacion-de-conaf-en-expocorma",
-      "fecha": "2026-11-23",
+      "titular": "Parque Nacional Alerce Andino celebró su aniversario: 44 años de protección y conservación de los recursos naturales",
+      "url": "https://www.conaf.cl/parque-nacional-alerce-andino-celebro-su-aniversario-44-anos-de-proteccion-y-conservacion-de-los-recursos-naturales/?utm_source=rss&utm_medium=rss&utm_campaign=parque-nacional-alerce-andino-celebro-su-aniversario-44-anos-de-proteccion-y-conservacion-de-los-recursos-naturales",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "CONAF",
-      "titular": "Ministerio de Agricultura dispone subsidios de hasta el 69% en contratación de seguros para proteger plantaciones forestales y huertos frutales ante incendios",
-      "url": "https://www.conaf.cl/ministerio-de-agricultura-dispone-subsidios-de-hasta-el-69-en-contratacion-de-seguros-para-proteger-plantaciones-forestales-y-huertos-frutales-ante-incendios/?utm_source=rss&utm_medium=rss&utm_campaign=ministerio-de-agricultura-dispone-subsidios-de-hasta-el-69-en-contratacion-de-seguros-para-proteger-plantaciones-forestales-y-huertos-frutales-ante-incendios",
-      "fecha": "2026-11-23",
+      "titular": "CONAF confirma presencia de huemules en el Parque Nacional Laguna del Laja",
+      "url": "https://www.conaf.cl/conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja/?utm_source=rss&utm_medium=rss&utm_campaign=conaf-confirma-presencia-de-huemules-en-el-parque-nacional-laguna-del-laja",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Reiteran invitación a integrar el Consejo Consultivo Regional del Medio Ambiente de Ñuble",
-      "url": "https://mma.gob.cl/reiteran-invitacion-a-integrar-el-consejo-consultivo-regional-del-medio-ambiente-de-nuble/",
-      "fecha": "2026-11-23",
+      "titular": "Ministra Toledo por COP31: resultados globales fueron insuficientes, pero destaca avances concretos de Chile",
+      "url": "https://mma.gob.cl/ministra-toledo-por-cop31-resultados-globales-fueron-insuficientes-pero-destaca-avances-concretos-de-chile/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
       "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Educación ambiental desde la primera infancia: Jardín Infantil Charitas integra a familias y párvulos en experiencia de aprendizaje en el Parque del Estrecho",
-      "url": "https://mma.gob.cl/educacion-ambiental-desde-la-primera-infancia-jardin-infantil-charitas-integra-a-familias-y-parvulos-en-experiencia-de-aprendizaje-en-el-parque-del-estrecho/",
-      "fecha": "2026-11-23",
+      "titular": "Estudiantes del Liceo Japón de Huasco desarrollan innovador purificador de aire con enfoque de economía circular",
+      "url": "https://mma.gob.cl/estudiantes-del-liceo-japon-de-huasco-desarrollan-innovador-purificador-de-aire-con-enfoque-de-economia-circular/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "VíasChile comienza la tramitación ambiental de las nuevas obras para la Ruta 5 Santiago—Los Vilos",
-      "url": "https://www.latercera.com/pulso/noticia/viaschile-comienza-la-tramitacion-ambiental-de-las-nuevas-obras-para-la-ruta-5-santiagolos-vilos/",
-      "fecha": "2026-11-23",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Región del Maule cuenta oficialmente con su Plan de Acción Regional de Cambio Climático",
+      "url": "https://mma.gob.cl/region-del-maule-cuenta-oficialmente-con-su-plan-de-accion-regional-de-cambio-climatico/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "La Tercera",
-      "titular": "Vigentes: el nuevo programa de Carozzi que impulsa el talento senior y el trabajo multigeneracional",
-      "url": "https://www.latercera.com/horizontes/noticia/vigentes-el-nuevo-programa-de-carozzi-que-impulsa-el-talento-senior-y-el-trabajo-multigeneracional/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Barrick enfrenta suspensión temporal de permiso ambiental para prospección ubicada en Atacama",
-      "url": "https://www.mch.cl/barrick-enfrenta-suspension-temporal-de-permiso-ambiental-para-prospeccion-ubicada-en-atacama/",
-      "fecha": "2026-11-23",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss"
+      "fuente": "La Segunda",
+      "titular": "Desertores norcoreanos aseguran que la hija de Kim Jong Un es su presunta heredera",
+      "url": "https://www.lasegunda.com/Noticias/Internacional/2026/11/1117063/hija-kim-jong-un-sucesora",
+      "fecha": "2026-11-24",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags"
     },
     {
       "fuente": "Minería Chilena (MCH)",
-      "titular": "Se califica favorablemente DIA de modificación de proyecto minero",
-      "url": "https://www.mch.cl/se-califica-favorablemente-dia-de-modificacion-de-proyecto-minero/",
-      "fecha": "2026-11-23",
+      "titular": "SEA busca reducir en 30% los tiempos de evaluación ambiental de proyectos hacia 2030",
+      "url": "https://www.mch.cl/sea-busca-reducir-en-30-los-tiempos-de-evaluacion-ambiental-de-proyectos-hacia-2030/",
+      "fecha": "2026-11-24",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
     },
     {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Transemel ingresa al SEIA proyecto de transmisión eléctrica por US$30 millones en Ñuble",
-      "url": "https://www.revistaei.cl/transemel-ingresa-al-seia-proyecto-de-transmision-electrica-por-us30-millones-en-nuble/",
+      "fuente": "Reporte Minero",
+      "titular": "SEA presenta plan para reducir 30% tiempos de evaluación ambiental",
+      "url": "http://www.reporteminero.cl/noticia/noticias/2026/11/sea-plan-eficiencia-excelencia-tecnica-evaluacion-ambiental-2026-2030",
+      "fecha": "2026-11-24",
+      "fecha_confiable": false,
+      "metodo_extraccion": "links-genericos"
+    },
+    {
+      "fuente": "EFE Verde",
+      "titular": "Jerónimo Torres: «Estamos en un punto de inflexión y, si se actúa, se puede doblegar la curva»",
+      "url": "https://efeverde.com/jeronimo-torres-estamos-en-un-punto-de-inflexion-y-si-se-actua-se-puede-doblegar-la-curva/",
       "fecha": "2026-11-23",
       "fecha_confiable": true,
       "metodo_extraccion": "rss"
