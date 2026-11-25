@@ -1,41 +1,89 @@
 {
-  "fecha_generacion": "2026-11-24T18:15:12.204018-03:00",
-  "total_alertas": 3,
+  "fecha_generacion": "2026-11-25T17:33:51.543966-03:00",
+  "total_alertas": 7,
   "alertas": [
     {
-      "fuente": "1er Tribunal Ambiental",
-      "titular": "Primer Tribunal Ambiental suscribe convenio de colaboración con la Universidad Adolfo Ibáñez",
-      "url": "https://1ta.cl/primer-tribunal-ambiental-suscribe-convenio-de-colaboracion-con-la-universidad-adolfo-ibanez/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-suscribe-convenio-de-colaboracion-con-la-universidad-adolfo-ibanez",
-      "fecha": "2026-11-24",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Transmisión audiencia causa R-49-2026 «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental»",
+      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-49-2026-ilustre-municipalidad-de-concepcion-con-servicio-de-evaluacion-ambiental/",
+      "fecha": "2026-11-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Primer Tribunal Ambiental y la Universidad Adolfo Ibáñez suscribieron un convenio de colaboración destinado a fortalecer el trabajo conjunto entre ambas instituciones y generar nuevas instancias de cooperación académica,... The post Primer Tribuna",
+      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-49-2026 «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental», el jueves 26 de noviembre, a las 9.00 ",
+      "keywords_detectadas": [
+        "Servicio de Evaluación Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Tribunal acogió reclamación de Fundación Greenpeace contra SMA que aprobó Programa de Cumplimiento “CES Matilde 2”",
+      "url": "https://3ta.cl/noticias/tribunal-acogio-reclamacion-de-fundacion-greenpeace-contra-sma-que-aprobo-programa-de-cumplimiento-ces-matilde-2/",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal acogió la reclamación y anuló la resolución de la Superintendencia del Medio Ambiente que aprobó el Programa de Cumplimiento de Australis Mar S.A. para el Centro de Cultivo de Salmones “Matilde 2” en Aysén. La Superintendencia del Medio A",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Tribunal Ambiental acoge reclamación de Greenpeace y anula programa de cumplimiento de Australis Mar por sobreproducción de salmones",
+      "url": "https://www.diarioconstitucional.cl/ambiental/tribunal-ambiental-acoge-reclamacion-de-greenpeace-y-anula-programa-de-cumplimiento-de-australis-mar",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El Tribunal estableció que la empresa se encontraba legalmente impedida de acceder a este instrumento, debido a que había presentado otros programas de cumplimiento por infracciones graves dentro del plazo de tres años previsto en la normativa ambien",
       "keywords_detectadas": [
         "Tribunal Ambiental"
       ]
     },
     {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "SEA busca reducir en 30% los tiempos de evaluación ambiental de proyectos hacia 2030",
-      "url": "https://www.mch.cl/sea-busca-reducir-en-30-los-tiempos-de-evaluacion-ambiental-de-proyectos-hacia-2030/",
-      "fecha": "2026-11-24",
+      "fuente": "ADN Prensa",
+      "titular": "Restricciones en la Resolución de Calificación Ambiental (RCA) de Puerto Panul abre incertidumbre sobre inversión y próxima concesión en San Antonio",
+      "url": "https://adprensa.cl/restricciones-en-la-resolucion-de-calificacion-ambiental-rca-de-puerto-panul-abre-incertidumbre-sobre-inversion-y-proxima-concesion-en-san-antonio/",
+      "fecha": "2026-11-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El organismo presentó su Plan de Eficiencia y Excelencia Técnica 2026-2030, que contempla optimización de procesos, capacitación de profesionales e incorporación de tecnología. La entrada SEA busca reducir en 30% los tiempos de evaluación ambiental d",
+      "extracto": "unque la autoridad ambiental aprobó el proyecto, la RCA publicada el 23 de noviembre confirmó las restricciones urbanísticas que ponen en duda la conveniencia de invertir en nuevas instalaciones en Puerto Panul.",
+      "keywords_detectadas": [
+        "RCA"
+      ]
+    },
+    {
+      "fuente": "Minería Chilena (MCH)",
+      "titular": "Tribunal Ambiental entrega veredicto ante reclamación de junta de vecinos contra proyecto minero",
+      "url": "https://www.mch.cl/tribunal-ambiental-entrega-veredicto-ante-reclamacion-de-junta-de-vecinos-contra-proyecto-minero/",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La acción cuestionaba la evaluación de los impactos asociados a la línea de transmisión eléctrica de la iniciativa, particularmente sobre el paisaje y el valor turístico del Valle de Elqui. La entrada Tribunal Ambiental entrega veredicto ante reclama",
+      "keywords_detectadas": [
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Arica y Parinacota: SEA reporta que proyectos aprobados ambientalmente durante 2026 suman casi US$400 millones",
+      "url": "https://www.revistaei.cl/arica-y-parinacota-sea-reporta-que-proyectos-aprobados-ambientalmente-durante-2026-suman-casi-us400-millones/",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Ocho iniciativas han obtenido una RCA favorable en lo que va de año, lo que representa un aumento de 157% en comparación con el total registrado en 2025. La entrada Arica y Parinacota: SEA reporta que proyectos aprobados ambientalmente durante 2026 s",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "Reporte Minero",
-      "titular": "SEA presenta plan para reducir 30% tiempos de evaluación ambiental",
-      "url": "http://www.reporteminero.cl/noticia/noticias/2026/11/sea-plan-eficiencia-excelencia-tecnica-evaluacion-ambiental-2026-2030",
-      "fecha": "2026-11-24",
-      "fecha_confiable": false,
-      "metodo_extraccion": "links-genericos",
-      "extracto": "",
+      "fuente": "REDIMIN",
+      "titular": "Tribunal Ambiental mantiene aprobación de Arqueros pese a la visibilidad parcial de su línea",
+      "url": "https://www.redimin.cl/tribunal-ambiental-mantiene-aprobacion-de-arqueros-pese-a-la-visibilidad-parcial-de-su-linea",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La reclamación de vecinos de El Molle cuestionó los efectos paisajísticos y turísticos de una infraestructura eléctrica asociada al proyecto.",
       "keywords_detectadas": [
-        "SEA"
+        "Tribunal Ambiental"
       ]
     }
   ]
