@@ -1,89 +1,65 @@
 {
-  "fecha_generacion": "2026-11-25T17:33:51.543966-03:00",
-  "total_alertas": 7,
+  "fecha_generacion": "2026-11-26T17:09:49.133191-03:00",
+  "total_alertas": 5,
   "alertas": [
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Transmisión audiencia causa R-49-2026 «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental»",
-      "url": "https://3ta.cl/noticias/transmision-audiencia-causa-r-49-2026-ilustre-municipalidad-de-concepcion-con-servicio-de-evaluacion-ambiental/",
-      "fecha": "2026-11-25",
+      "fuente": "SMA",
+      "titular": "SMA formula cargos contra la Municipalidad de San Pedro de Atacama y el Comité de Agua Potable Rural por modificación de proyecto sin evaluación ambiental",
+      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-la-municipalidad-de-san-pedro-de-atacama-y-el-comite-de-agua-potable-rural-por-modificacion-de-proyecto-sin-evaluacion-ambiental/",
+      "fecha": "2026-11-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tercer Tribunal Ambiental pone a su disposición la transmisión de la audiencia de alegatos, modalidad híbrida, de la causa R-49-2026 «Ilustre Municipalidad de Concepción con Servicio de Evaluación Ambiental», el jueves 26 de noviembre, a las 9.00 ",
-      "keywords_detectadas": [
-        "Servicio de Evaluación Ambiental"
-      ]
-    },
-    {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Tribunal acogió reclamación de Fundación Greenpeace contra SMA que aprobó Programa de Cumplimiento “CES Matilde 2”",
-      "url": "https://3ta.cl/noticias/tribunal-acogio-reclamacion-de-fundacion-greenpeace-contra-sma-que-aprobo-programa-de-cumplimiento-ces-matilde-2/",
-      "fecha": "2026-11-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "El Tribunal acogió la reclamación y anuló la resolución de la Superintendencia del Medio Ambiente que aprobó el Programa de Cumplimiento de Australis Mar S.A. para el Centro de Cultivo de Salmones “Matilde 2” en Aysén. La Superintendencia del Medio A",
+      "extracto": "La Superintendencia imputó una infracción grave tras constatar una modificación del proyecto, consistente en la construcción y operación de piscinas artesanales de acumulación, infiltración y evaporación de aguas servidas provenientes de la planta de",
       "keywords_detectadas": [
         "SMA"
       ]
     },
     {
-      "fuente": "Diario Constitucional",
-      "titular": "Tribunal Ambiental acoge reclamación de Greenpeace y anula programa de cumplimiento de Australis Mar por sobreproducción de salmones",
-      "url": "https://www.diarioconstitucional.cl/ambiental/tribunal-ambiental-acoge-reclamacion-de-greenpeace-y-anula-programa-de-cumplimiento-de-australis-mar",
-      "fecha": "2026-11-25",
+      "fuente": "Ministerio del Medio Ambiente",
+      "titular": "Autoridades valoran apoyo de EEUU para Valparaíso sea sede del Tratado BBNJ y su aporte frente al cambio climático",
+      "url": "https://mma.gob.cl/autoridades-valoran-apoyo-de-eeuu-para-valparaiso-sea-sede-del-tratado-bbnj-y-su-aporte-frente-al-cambio-climatico/",
+      "fecha": "2026-11-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Tribunal estableció que la empresa se encontraba legalmente impedida de acceder a este instrumento, debido a que había presentado otros programas de cumplimiento por infracciones graves dentro del plazo de tres años previsto en la normativa ambien",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "ADN Prensa",
-      "titular": "Restricciones en la Resolución de Calificación Ambiental (RCA) de Puerto Panul abre incertidumbre sobre inversión y próxima concesión en San Antonio",
-      "url": "https://adprensa.cl/restricciones-en-la-resolucion-de-calificacion-ambiental-rca-de-puerto-panul-abre-incertidumbre-sobre-inversion-y-proxima-concesion-en-san-antonio/",
-      "fecha": "2026-11-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "unque la autoridad ambiental aprobó el proyecto, la RCA publicada el 23 de noviembre confirmó las restricciones urbanísticas que ponen en duda la conveniencia de invertir en nuevas instalaciones en Puerto Panul.",
-      "keywords_detectadas": [
-        "RCA"
-      ]
-    },
-    {
-      "fuente": "Minería Chilena (MCH)",
-      "titular": "Tribunal Ambiental entrega veredicto ante reclamación de junta de vecinos contra proyecto minero",
-      "url": "https://www.mch.cl/tribunal-ambiental-entrega-veredicto-ante-reclamacion-de-junta-de-vecinos-contra-proyecto-minero/",
-      "fecha": "2026-11-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La acción cuestionaba la evaluación de los impactos asociados a la línea de transmisión eléctrica de la iniciativa, particularmente sobre el paisaje y el valor turístico del Valle de Elqui. La entrada Tribunal Ambiental entrega veredicto ante reclama",
-      "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Revista Electricidad e Industria",
-      "titular": "Arica y Parinacota: SEA reporta que proyectos aprobados ambientalmente durante 2026 suman casi US$400 millones",
-      "url": "https://www.revistaei.cl/arica-y-parinacota-sea-reporta-que-proyectos-aprobados-ambientalmente-durante-2026-suman-casi-us400-millones/",
-      "fecha": "2026-11-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "Ocho iniciativas han obtenido una RCA favorable en lo que va de año, lo que representa un aumento de 157% en comparación con el total registrado en 2025. La entrada Arica y Parinacota: SEA reporta que proyectos aprobados ambientalmente durante 2026 s",
+      "extracto": "El Delegado Regional, Manuel Millones y la SEREMI del Medio Ambiente, Francisca Garay destacaron que a esta candidatura se haya […]",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "REDIMIN",
-      "titular": "Tribunal Ambiental mantiene aprobación de Arqueros pese a la visibilidad parcial de su línea",
-      "url": "https://www.redimin.cl/tribunal-ambiental-mantiene-aprobacion-de-arqueros-pese-a-la-visibilidad-parcial-de-su-linea",
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "Admítase a trámite «Ilustre Municipalidad de Castro con Superintendencia del Medio Ambiente». Rol: R-55-2026",
+      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-castro-con-superintendencia-del-medio-ambiente-rol-r-55-2026/",
       "fecha": "2026-11-25",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "La reclamación de vecinos de El Molle cuestionó los efectos paisajísticos y turísticos de una infraestructura eléctrica asociada al proyecto.",
+      "extracto": "Con fecha 25 de noviembre de 2026, admítase a trámite la Reclamación identificada como Ilustre Municipalidad de Castro con Superintendencia del Medio Ambiente. (Rol R-55-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "Diario Constitucional",
+      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
+      "url": "https://www.diarioconstitucional.cl/ambiental/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El abogado, recientemente incorporado al órgano jurisdiccional, destacó que la integración completa de sus ministros titulares permitirá retomar el pleno funcionamiento del Tribunal y agilizar la resolución de las controversias ambientales.",
       "keywords_detectadas": [
         "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "Portal Minero",
+      "titular": "SEA: proyectos con aprobación ambiental suman más de US$390 millones en Arica y Parinacota durante 2026",
+      "url": "https://www.portalminero.com/sea-proyectos-con-aprobacion-ambiental-suman-mas-de-us390-millones-en-arica-y-parinacota-durante-2026",
+      "fecha": "2026-11-25",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La cifra corresponde a ocho proyectos que obtuvieron su Resolución de Calificación Ambiental favorable, entre ellos iniciativas de almacenamiento energético, transmisión eléctrica y desalación de agua de mar.",
+      "keywords_detectadas": [
+        "SEA"
       ]
     }
   ]
