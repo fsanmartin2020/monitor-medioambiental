@@ -1,12 +1,24 @@
 {
-  "fecha_generacion": "2026-11-26T17:09:49.133191-03:00",
-  "total_alertas": 5,
+  "fecha_generacion": "2026-11-27T16:59:19.886479-03:00",
+  "total_alertas": 11,
   "alertas": [
     {
-      "fuente": "SMA",
-      "titular": "SMA formula cargos contra la Municipalidad de San Pedro de Atacama y el Comité de Agua Potable Rural por modificación de proyecto sin evaluación ambiental",
-      "url": "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-la-municipalidad-de-san-pedro-de-atacama-y-el-comite-de-agua-potable-rural-por-modificacion-de-proyecto-sin-evaluacion-ambiental/",
-      "fecha": "2026-11-26",
+      "fuente": "EFE Verde",
+      "titular": "El Oceanográfico de Baleares, sobre el naufragio: «En caso de derrame, no estaríamos ante otro Prestige»",
+      "url": "https://efeverde.com/oceanografico-baleares-naufragio-buque-no-estariamos-ante-prestige/",
+      "fecha": "2026-11-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Madrid.- Si se produjera un derrame de combustible en el naufragio del carguero Med Emre, «no estaríamos ante un caso como el del Prestige, no tiene nada que ver, pero es necesario ser muy cautelosos y rápidos en la operativa de rescate», ha explicad",
+      "keywords_detectadas": [
+        "derrame"
+      ]
+    },
+    {
+      "fuente": "Terram",
+      "titular": "[SMA] SMA formula cargos contra la Municipalidad de San Pedro de Atacama y el Comité de Agua Potable Rural por modificación de proyecto sin evaluación ambiental",
+      "url": "https://www.terram.cl/sma-sma-formula-cargos-contra-la-municipalidad-de-san-pedro-de-atacama-y-el-comite-de-agua-potable-rural-por-modificacion-de-proyecto-sin-evaluacion-ambiental/",
+      "fecha": "2026-11-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
       "extracto": "La Superintendencia imputó una infracción grave tras constatar una modificación del proyecto, consistente en la construcción y operación de piscinas artesanales de acumulación, infiltración y evaporación de aguas servidas provenientes de la planta de",
@@ -15,51 +27,112 @@
       ]
     },
     {
-      "fuente": "Ministerio del Medio Ambiente",
-      "titular": "Autoridades valoran apoyo de EEUU para Valparaíso sea sede del Tratado BBNJ y su aporte frente al cambio climático",
-      "url": "https://mma.gob.cl/autoridades-valoran-apoyo-de-eeuu-para-valparaiso-sea-sede-del-tratado-bbnj-y-su-aporte-frente-al-cambio-climatico/",
-      "fecha": "2026-11-26",
+      "fuente": "SMA",
+      "titular": "SMA realiza Taller de Asistencia al Cumplimiento sobre el Gestor de Obligaciones de SISAT para Planes de Prevención y/o Descontaminación atmosféricos entre las regiones de O’Higgins y Aysén",
+      "url": "https://portal.sma.gob.cl/index.php/sma-realiza-taller-de-asistencia-al-cumplimiento-sobre-el-gestor-de-obligaciones-de-sisat-para-planes-de-prevencion-y-o-descontaminacion-atmosfericos-entre-las-regiones-de-ohiggins-y-aysen/",
+      "fecha": "2026-11-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El Delegado Regional, Manuel Millones y la SEREMI del Medio Ambiente, Francisca Garay destacaron que a esta candidatura se haya […]",
+      "extracto": "La jornada estuvo dirigida a titulares de establecimientos con fuentes estacionarias afectos a los Planes de Prevención y/o Descontaminación Atmosférica desde la Región de O’Higgins hasta la Región de Aysén. Durante el encuentro se abordaron las exig",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "Diario Financiero",
+      "titular": "SEA concreta la defensa a proyecto inmobiliario del clan Piñera en Ranco y cuestiona fallo judicial: “Aplicó e interpretó erróneamente el Convenio 169”",
+      "url": "https://www.df.cl/empresas/construccion/sea-sale-en-defensa-del-proyecto-inmobiliario-de-la-familia-pinera-en-lago",
+      "fecha": "2026-11-27",
+      "fecha_confiable": false,
+      "metodo_extraccion": "article-tags",
+      "extracto": "",
       "keywords_detectadas": [
         "SEA"
       ]
     },
     {
-      "fuente": "3er Tribunal Ambiental",
-      "titular": "Admítase a trámite «Ilustre Municipalidad de Castro con Superintendencia del Medio Ambiente». Rol: R-55-2026",
-      "url": "https://3ta.cl/avisos-sgc/admitase-a-tramite-ilustre-municipalidad-de-castro-con-superintendencia-del-medio-ambiente-rol-r-55-2026/",
-      "fecha": "2026-11-25",
+      "fuente": "Revista Electricidad e Industria",
+      "titular": "Trinergy ingresa al SEIA proyecto solar con sistema de almacenamiento y línea de transmisión por casi US$200 millones",
+      "url": "https://www.revistaei.cl/trinergy-ingresa-al-seia-proyecto-solar-con-sistema-de-almacenamiento-y-linea-de-transmision-por-casi-us200-millones/",
+      "fecha": "2026-11-27",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "Con fecha 25 de noviembre de 2026, admítase a trámite la Reclamación identificada como Ilustre Municipalidad de Castro con Superintendencia del Medio Ambiente. (Rol R-55-2026). Acceda al expediente electrónico de la causa en el siguiente link: Enlace",
+      "extracto": "La iniciativa contempla la instalación de más de 340 mil módulos fotovoltaicos y baterías BESS en la comuna de La Estrella, Región de O’Higgins. La entrada Trinergy ingresa al SEIA proyecto solar con sistema de almacenamiento y línea de transmisión p",
+      "keywords_detectadas": [
+        "SEIA"
+      ]
+    },
+    {
+      "fuente": "REDIMIN",
+      "titular": "Ficha del SEA marca aprobado al proyecto Copao, pero su registro muestra otra etapa",
+      "url": "https://www.redimin.cl/ficha-del-sea-marca-aprobado-al-proyecto-copao-pero-su-registro-muestra-otra-etapa",
+      "fecha": "2026-11-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "En Diego de Almagro, Copao proyecta una planta solar que también almacenará energía antes de conectarse al sistema.",
+      "keywords_detectadas": [
+        "SEA"
+      ]
+    },
+    {
+      "fuente": "Nueva Minería",
+      "titular": "SMA fiscaliza descarga de solución de proceso de Los Bronces al estero San Francisco",
+      "url": "https://www.nuevamineria.com/revista/sma-fiscaliza-descarga-de-solucion-de-proceso-de-los-bronces-al-estero-san-francisco/",
+      "fecha": "2026-11-27",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "El rebalse se prolongó por unas dos horas, según informó la autoridad ambiental. Anglo American atribuyó el incidente a una falla eléctrica en la planta de cátodos y señaló que la sanitaria de la zona suspendió preventivamente la operación de sus pla",
+      "keywords_detectadas": [
+        "SMA"
+      ]
+    },
+    {
+      "fuente": "1er Tribunal Ambiental",
+      "titular": "Primer Tribunal Ambiental acoge reclamación interpuesta por Hoteles Campanario Limitada en contra resolución de la SMA que alzó clausura temporal del Restaurante Huentelauquén",
+      "url": "https://1ta.cl/primer-tribunal-ambiental-acoge-reclamacion-interpuesta-por-hoteles-campanario-limitada-en-contra-resolucion-de-la-sma-que-alzo-clausura-temporal-del-restaurante-huentelauquen/?utm_source=rss&utm_medium=rss&utm_campaign=primer-tribunal-ambiental-acoge-reclamacion-interpuesta-por-hoteles-campanario-limitada-en-contra-resolucion-de-la-sma-que-alzo-clausura-temporal-del-restaurante-huentelauquen",
+      "fecha": "2026-11-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "La sentencia recae en la causa Rol R-145/2025, la cual se inicia con una acción de Hoteles Campanario Limitada contra la Res. Ex. N° 2138, de 2025, de la Superintendencia... The post Primer Tribunal Ambiental acoge reclamación interpuesta por Hoteles",
+      "keywords_detectadas": [
+        "SMA",
+        "Tribunal Ambiental"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "23/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-41-2026",
+      "url": "https://3ta.cl/audiencias/23-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-41-2026/",
+      "fecha": "2026-11-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 23/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
+      "keywords_detectadas": [
+        "Superintendencia del Medio Ambiente"
+      ]
+    },
+    {
+      "fuente": "3er Tribunal Ambiental",
+      "titular": "29/12/2026: Fija audiencia en caso de «Australis Mar S.A con Superintendencia del Medio Ambiente», Rol: R-42-2026",
+      "url": "https://3ta.cl/audiencias/29-12-2026-fija-audiencia-en-caso-de-australis-mar-s-a-con-superintendencia-del-medio-ambiente-rol-r-42-2026/",
+      "fecha": "2026-11-26",
+      "fecha_confiable": true,
+      "metodo_extraccion": "rss",
+      "extracto": "Se fija audiencia con fecha 29/12/2026 a las 09:00 hrs. Acceda a la resolución que fija audiencia: Enlace",
       "keywords_detectadas": [
         "Superintendencia del Medio Ambiente"
       ]
     },
     {
       "fuente": "Diario Constitucional",
-      "titular": "Ministro Robert Currie asume la presidencia del Tercer Tribunal Ambiental",
-      "url": "https://www.diarioconstitucional.cl/ambiental/ministro-robert-currie-asume-la-presidencia-del-tercer-tribunal-ambiental",
-      "fecha": "2026-11-25",
+      "titular": "SMA formula cargos contra Municipalidad de San Pedro de Atacama y Comité de Agua Potable Rural por obras sin evaluación ambiental",
+      "url": "https://www.diarioconstitucional.cl/ambiental/sma-formula-cargos-contra-municipalidad-de-san-pedro-de-atacama-y-comite-de-agua-potable-rural-por",
+      "fecha": "2026-11-26",
       "fecha_confiable": true,
       "metodo_extraccion": "rss",
-      "extracto": "El abogado, recientemente incorporado al órgano jurisdiccional, destacó que la integración completa de sus ministros titulares permitirá retomar el pleno funcionamiento del Tribunal y agilizar la resolución de las controversias ambientales.",
+      "extracto": "El organismo imputó una infracción grave tras constatar la construcción y operación de diez piscinas artesanales destinadas a la acumulación, infiltración y evaporación de aguas servidas, sin contar con autorización ambiental. Las obras generan riesg",
       "keywords_detectadas": [
-        "Tribunal Ambiental"
-      ]
-    },
-    {
-      "fuente": "Portal Minero",
-      "titular": "SEA: proyectos con aprobación ambiental suman más de US$390 millones en Arica y Parinacota durante 2026",
-      "url": "https://www.portalminero.com/sea-proyectos-con-aprobacion-ambiental-suman-mas-de-us390-millones-en-arica-y-parinacota-durante-2026",
-      "fecha": "2026-11-25",
-      "fecha_confiable": true,
-      "metodo_extraccion": "rss",
-      "extracto": "La cifra corresponde a ocho proyectos que obtuvieron su Resolución de Calificación Ambiental favorable, entre ellos iniciativas de almacenamiento energético, transmisión eléctrica y desalación de agua de mar.",
-      "keywords_detectadas": [
-        "SEA"
+        "SMA"
       ]
     }
   ]
